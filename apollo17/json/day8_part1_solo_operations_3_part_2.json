@@ -1,0 +1,2798 @@
+{
+  "description": "A17FJ - Day 8: Solo operations 3, Part 2",
+  "transcript": [
+    {
+      "tokens": [
+        "The surface crew of Apollo 17 are still in their rest period, but Command Module Pilot Ron Evans has been awake and busy for over five hours.",
+        "Now into his spacecraft's 37th orbit of the Moon, he will soon appear around its eastern limb."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "159:57:12 -This is Apollo Control at 159 hours, 57 minutes Ground Elapsed Time in the mission of Apollo 17.",
+        "Less than a minute away now as the Command Module America, Ron Evans doing his orbital science task and orbital photography as he comes around on revolution number 37.",
+        "Less than a half hour until the wake-up call is made to the crew of Challenger on the lunar surface.",
+        "At that time we'll switch over to the Air/Ground-1 circuit and eavesdrop on the conversation between Cernan, Schmitt - Cernan and Schmitt and the CapCom here in Mission Control.",
+        "We should have Acquisition of Signal from Command Module America.",
+        "We'll come up with that line now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Humming]"
+      ],
+      "speaker": "Evans",
+      "time": "1595914"
+    },
+    {
+      "tokens": [
+        "Ah, I've got AOS with you.",
+        "Okay.",
+        "[Garble] Heaters Off.",
+        "[Singing] [Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1595921"
+    },
+    {
+      "tokens": [
+        "Hello, America.",
+        "Are you there?"
+      ],
+      "speaker": "Fullerton",
+      "time": "1595946"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We got Reacq and Narrow now."
+      ],
+      "speaker": "Evans",
+      "time": "1595951"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're loud and clear.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "1595955"
+    },
+    {
+      "tokens": [
+        "Ron, when it's convenient..."
+      ],
+      "speaker": "Fullerton",
+      "time": "160003"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I finished up mag..."
+      ],
+      "speaker": "Evans",
+      "time": "1600034"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead."
+      ],
+      "speaker": "Evans",
+      "time": "1600039"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On your present page, there - the UV solar atmosphere PAD, at 160:38."
+      ],
+      "speaker": "Fullerton",
+      "time": "1600042"
+    },
+    {
+      "tokens": [
+        "Ah-ha.",
+        "I have it."
+      ],
+      "speaker": "Evans",
+      "time": "1600052"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's T-start of 160:41:22; T-stop is 161:26:47.",
+        "And remark that goes with that - you don't need to write this down - but the T-start time is biased 10 seconds prior to when we really think sunset will occur.",
+        "If you see, visually - ah - Okay, my mistake that's - the time is 10 seconds after sunset, but if you see sunset visually, you can go ahead and proceed with the UV Cover, Open, as soon as you see it.",
+        "But we'd like you to close the UV cover exactly on the T-stop time as written.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "1600056"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let's see.",
+        "I'm with you.",
+        "We'll make sure it gets closed at 61:26:47, but we can open it as soon as sunset comes, okay?",
+        "Even though we haven't started pitching yet."
+      ],
+      "speaker": "Evans",
+      "time": "1600158"
+    },
+    {
+      "tokens": [
+        "That's correct, and do you want to read back the..."
+      ],
+      "speaker": "Fullerton",
+      "time": "1600222"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Evans",
+      "time": "1600225"
+    },
+    {
+      "tokens": [
+        "Well start time is 160:41:22.",
+        "Is that correct?"
+      ],
+      "speaker": "Evans",
+      "time": "1600228"
+    },
+    {
+      "tokens": [
+        "That's correct; 41:22."
+      ],
+      "speaker": "Fullerton",
+      "time": "1600233"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Evans",
+      "time": "1600238"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go to 161:34.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "1600241"
+    },
+    {
+      "tokens": [
+        "161:34, okay."
+      ],
+      "speaker": "Evans",
+      "time": "1600253"
+    },
+    {
+      "tokens": [
+        "Okay, and the old standard \"Map Camera/Laser Altimeter Cover, Open:\" cross that out.",
+        "A couple lines below, at 36, cross out \"Mapping Camera, Extend,\" and then turn the page."
+      ],
+      "speaker": "Fullerton",
+      "time": "1600257"
+    },
+    {
+      "tokens": [
+        "I got them.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1600315"
+    },
+    {
+      "tokens": [
+        "In fact, turn two pages to 163:31.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "1600320"
+    },
+    {
+      "tokens": [
+        "31, okay."
+      ],
+      "speaker": "Evans",
+      "time": "1600330"
+    },
+    {
+      "tokens": [
+        "At 163:31, write in \"verify all command module VHF, Off.\" [Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "1600331"
+    },
+    {
+      "tokens": [
+        "63:31, verify all VHF, Off, okay?"
+      ],
+      "speaker": "Evans",
+      "time": "1600351"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That completes it."
+      ],
+      "speaker": "Fullerton",
+      "time": "1600355"
+    },
+    {
+      "tokens": [
+        "Goody, I've got a zodiacal light coming up there sometime; [pause] blue filter, no less.",
+        "Oh, I started to say, when I was coming across Aitken - Of course Aitken itself was down in the shadow, and the Sun was really shining on window 3.",
+        "I took the first one f/5.6 and a 1/15, the second one 56, 5.6, I mean, at a - at a 1/30, and a third one at a 1/60, and then a fourth one at a 1/25, and the fifth and sixth ones I took off to the north - looking off to the north - out of window 4."
+      ],
+      "speaker": "Evans",
+      "time": "1600000"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Fullerton",
+      "time": "1600510"
+    },
+    {
+      "tokens": [
+        "And they were 5.6 at 1/125.",
+        "I kind of doubt if - It might work, but there's sure a lot of glare on the window.",
+        "If it can get through that glare, well then we've got it made."
+      ],
+      "speaker": "Evans",
+      "time": "1600512"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "1600000"
+    },
+    {
+      "tokens": [
+        "Oh, the other thing I was going to tell you was that magazine Quebec Quebec - I finished that one on 114."
+      ],
+      "speaker": "Evans",
+      "time": "1600710"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Fullerton",
+      "time": "1600719"
+    },
+    {
+      "tokens": [
+        "On that pass there.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1600720"
+    },
+    {
+      "tokens": [
+        "I don't know who took my water jug, but it's gone.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1600732"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Overboard drain is purged enough.",
+        "I guess we'll turn that off.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1600816"
+    },
+    {
+      "tokens": [
+        "A big filter on here - here.",
+        "I always leave the hose and everything disconnected and stick it back behind this rock bag.",
+        "Afraid I'll kick it, break it off.",
+        "You know - you know those rock bags.",
+        "I unzip those and blow the air out of them every night, wake up the next morning, and they're full of air again; just like two big balloons down there.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1600838"
+    },
+    {
+      "tokens": [
+        "How about that."
+      ],
+      "speaker": "Fullerton",
+      "time": "1600909"
+    },
+    {
+      "tokens": [
+        "[Laughter, garble] [Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1600000"
+    },
+    {
+      "tokens": [
+        "You can use one for the pillow you've been missing."
+      ],
+      "speaker": "Fullerton",
+      "time": "1600920"
+    },
+    {
+      "tokens": [
+        "[Laughter] Yeah, that's an idea.",
+        "You could use that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1600925"
+    },
+    {
+      "tokens": [
+        "And, Houston; America.",
+        "If FAO's got his finger on the next magazine - next Hasselblad mag, I'm going to use - save me looking it up, here."
+      ],
+      "speaker": "Evans",
+      "time": "1601024"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll ask him.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "1601039"
+    },
+    {
+      "tokens": [
+        "Ron, I - You're scheduled to use Mike Mike next."
+      ],
+      "speaker": "Fullerton",
+      "time": "1601109"
+    },
+    {
+      "tokens": [
+        "[Garble under Fullerton] water - Go ahead.",
+        "Mike Mike.",
+        "Okay.",
+        "Thank you.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1601112"
+    },
+    {
+      "tokens": [
+        "Did you hear me sucking all the bubbles out of the - out of my teeth?"
+      ],
+      "speaker": "Evans",
+      "time": "1601133"
+    },
+    {
+      "tokens": [
+        "No, we've missed that pleasure."
+      ],
+      "speaker": "Fullerton",
+      "time": "1601138"
+    },
+    {
+      "tokens": [
+        "Good.",
+        "Didn't want this VOX to be too good."
+      ],
+      "speaker": "Evans",
+      "time": "1601145"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We go to P00 in about 2 minutes."
+      ],
+      "speaker": "Evans",
+      "time": "1601252"
+    },
+    {
+      "tokens": [
+        "Zero phase is going to go right over Proclus, I mean Picard this time.",
+        "I'll see if that darkness disappears there, if I can still see the change in the color on it."
+      ],
+      "speaker": "Evans",
+      "time": "1601409"
+    },
+    {
+      "tokens": [
+        "Okay, Ron.",
+        "You can put the High Gain to Auto next chance you get and FAO advises there's no more optional film left on Mike Mike.",
+        "Everything that's left on Mike Mike is scheduled up.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "1601426"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll buy that."
+      ],
+      "speaker": "Evans",
+      "time": "1601444"
+    },
+    {
+      "tokens": [
+        "You know you could even - as zero phase went right across Picard there, you could still see the - the darkness on the west - let's see east - on the east from 9 o'clock around to 6 o'clock, if north is zero."
+      ],
+      "speaker": "Evans",
+      "time": "1601453"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "1601510"
+    },
+    {
+      "tokens": [
+        "And [pause] if north is zero as you look at the crater, then over about 1 o'clock there's some kind of a fault area in the side of the rim, and that's another spot where the dark material drapes down into the rim and also out on the outer - outside - outside of the rim.",
+        "And then you have that same type of impression.",
+        "At about 11 o'clock, you've got a black streak going down inside the rim, and then it widens out going out toward a little crater out there on the outside of the rim."
+      ],
+      "speaker": "Evans",
+      "time": "1601515"
+    },
+    {
+      "tokens": [
+        "Okay, you are scheduled..."
+      ],
+      "speaker": "Fullerton",
+      "time": "1601603"
+    },
+    {
+      "tokens": [
+        "Now, let's see..."
+      ],
+      "speaker": "Evans",
+      "time": "1601605"
+    },
+    {
+      "tokens": [
+        "Thank you.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1601611"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Pitch is plus 12.0, [pause] 25 Enter, plus 341.00 Enter, [pause] and a plus Enter for 0 yaw 622.",
+        "Press on.",
+        "50 18.",
+        "CMC caged.",
+        "Proceed.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1601639"
+    },
+    {
+      "tokens": [
+        "Okay; let's see.",
+        "We're in Auto, so we can [garble] teen.",
+        "26 on the dial."
+      ],
+      "speaker": "Evans",
+      "time": "1601718"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, we'll change 07 to 8 plus 9 [pause] 1 [pause] plus 75."
+      ],
+      "speaker": "Evans",
+      "time": "1601834"
+    },
+    {
+      "tokens": [
+        "Vents Open."
+      ],
+      "speaker": "Evans",
+      "time": "1601903"
+    },
+    {
+      "tokens": [
+        "[Garble] waste water dump.",
+        "Must have been some stuff that's just frozen on the - the dump or something and then when the - when the jets fired too - that kicked it loose."
+      ],
+      "speaker": "Evans",
+      "time": "1601911"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "1601931"
+    },
+    {
+      "tokens": [
+        "Maybe that's the particles of combustion [pause] burning.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1601936"
+    },
+    {
+      "tokens": [
+        "Minus 0.05.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1602011"
+    },
+    {
+      "tokens": [
+        "Degrees per - half a degree dead band.",
+        "Point five up.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1602021"
+    },
+    {
+      "tokens": [
+        "Got zero, zero.",
+        "Stay there and I'll try it."
+      ],
+      "speaker": "Evans",
+      "time": "1602104"
+    },
+    {
+      "tokens": [
+        "Ron, this is Houston.",
+        "Check Noun 79 again.",
+        "We think you might have loaded R1 and R2 negative.",
+        "That's the way it looked down here, anyway.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "1602313"
+    },
+    {
+      "tokens": [
+        "Okay, I'll check that."
+      ],
+      "speaker": "Evans",
+      "time": "1602325"
+    },
+    {
+      "tokens": [
+        "Noun 79 relates to the tracking program, Program 20.",
+        "There are two values.",
+        "Register 1 has the rotation rate to be used in tracking, Register 2 sets the deadband."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "160:24:02 -This is Apollo Control at 160 hours, 24 minutes.",
+        "Switching now to Air/Ground-1 for the initial wake-up call to the crew of Challenger, asleep at this time at Taurus-Littrow.",
+        "Command Module America still has some 47 minutes remaining in this frontside pass.",
+        "We'll standby for the wake-up call which should be beamed up in about a half a minute or so."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The audio clips thus far have been taken from digitised recordings of the Public Affairs Office feed made at Johnson Space Center.",
+        "This feed now follows the surface crew and the journal will therefore take its audio clips from a different source.",
+        "These are digitised recordings of Ron's solo mission that were accessed from the National Archives and Records Administration (NARA).",
+        "Unlike the JSC recordings, these seem to have been compiled by copying from one reel-to-reel machine to another to remove large quiet periods.",
+        "The precise timing of the speech cannot be determined."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ron has a circular chart with carefully chosen patches of grey and colour to help an observer describe what he is seeing more objectively."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[You] might be interested, Ron.",
+        "We just woke up the Challenger, and they're all doing fine."
+      ],
+      "speaker": "Overmyer",
+      "time": "1602816"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We copy that."
+      ],
+      "speaker": "Overmyer",
+      "time": "1602936"
+    },
+    {
+      "tokens": [
+        "Overmyer's wording is unclear here.",
+        "It could be interpreted to mean that Ron should have the CSM make a single complete rotation around its roll, or X-axis.",
+        "He will quickly correct himself.",
+        "Nevertheless, Ron seems to have properly deduced the intention, that he should roll 19 degrees, from 341 to 360."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "There's my Noun 78's are 90 - plus 90 minus 19.74.",
+        "Maybe it doesn't make any difference."
+      ],
+      "speaker": "Evans",
+      "time": "1603501"
+    },
+    {
+      "tokens": [
+        "[Humming]"
+      ],
+      "speaker": "Evans",
+      "time": "1604001"
+    },
+    {
+      "tokens": [
+        "Just of interest to you, Ron.",
+        "We are really pleased with the way that our visual display and that worked out last night during the orbital science visual.",
+        "Farouk was able to feed me the questions, and I was able to get them to you.",
+        "If you have any comments one way or another, if you don't want us to do it on rev 40 or not, let us know.",
+        "We plan right now on rev 40 for those orbital science visuals to do the same thing going - It's the visuals through landing site down through D-Caldera, and we're going to run the same operation, since it went so smoothly down here.",
+        "We hope it went that way for you up there."
+      ],
+      "speaker": "Overmyer",
+      "time": "1604329"
+    },
+    {
+      "tokens": [
+        "Good show.",
+        "We're prepared to do it on this next rev, and I guess you might say even though it isn't that way in the Flight Plan, we'll probably just stand by right straight through on rev 40 where you - you pick up at the landing site and go right through D-Caldera.",
+        "We'll be just standing by for that whole rev - that rev - whole piece - about 12 minutes, or so."
+      ],
+      "speaker": "Overmyer",
+      "time": "1604427"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Looked like she worked.",
+        "We're going 0.2 of a degree per second, now."
+      ],
+      "speaker": "Evans",
+      "time": "1605207"
+    },
+    {
+      "tokens": [
+        "[Garble] was.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "1605540"
+    },
+    {
+      "tokens": [
+        "Ron, just a little information for you.",
+        "One of those highlights of your day.",
+        "When you come around AOS on this next pass, they'll be - White Sands will be standing by in a countdown on an Aero - Aerobee rocket for a UV calibration shot, and if that one doesn't go, they've got one for tomorrow, same way."
+      ],
+      "speaker": "Overmyer",
+      "time": "1605747"
+    },
+    {
+      "tokens": [
+        "Right."
+      ],
+      "speaker": "Evans",
+      "time": "1605819"
+    },
+    {
+      "tokens": [
+        "Is it starting to look pretty good on your High Gain Antenna scale down there, to switched to High Gain yet?",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1610425"
+    },
+    {
+      "tokens": [
+        "Ron, we're about ready to lose you, and at 161:30 you have a maneuver.",
+        "We want to make sure that gets started on time because of Sun problems on the camera."
+      ],
+      "speaker": "Overmyer",
+      "time": "1611036"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Evans",
+      "time": "1611059"
+    },
+    {
+      "tokens": [
+        "The frames Ron has taken are AS17-151-23212 and 23213 magazine OO and are of Patsaev Q, a 33-km crater outside the northeast rim of Tsiolkovsky.",
+        "The crater has a large lobate flow feature, now named Kira."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is AS17-151-23214, looking across the north rim of Tsiolkovsky, an area that appears to be part of the crater's original floor that has not been covered by the dark mare material that is a feature of the rest of the interior."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ron is referring to AS17-151-23215 on mag OO.",
+        "Over 100 km north of Tsiolkovsky are two craters that form a doublet.",
+        "These are Shirakatsi, 48 km in diameter, and joined on its southeast rim is Dobrovolsky, at 38 km diameter.",
+        "Shirakatsi appears to be more recent and it seems that the material that would have formed its southeast rim has slumped into Dobrovolsky."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "America, Houston.",
+        "Don't want to interrupt your eat period, but just would like a word from you on how the SIM bay configuration went.",
+        "Did the UV cover come open?",
+        "We're standing by on that Aerobee launch."
+      ],
+      "speaker": "Overmyer",
+      "time": "1615728"
+    },
+    {
+      "tokens": [
+        "It's Open and verified On."
+      ],
+      "speaker": "Evans",
+      "time": "1615841"
+    },
+    {
+      "tokens": [
+        "Okay, frame number 110 of mag Oscar Oscar was taken from window 1 off toward Lomonosov.",
+        "You could really see the swirls in Marginis.",
+        "They're - Trying to compare them with the same type of swirls back there in Arabia."
+      ],
+      "speaker": "Evans",
+      "time": "1620135"
+    },
+    {
+      "tokens": [
+        "This is AS17-151-23216 which looks to the north across a landscape with a high Sun angle.",
+        "The photograph was taken looking in the direction of Lomonosov but that large crater is beyond the horizon.",
+        "Just below the horizon is the 80-km Al Biruni.",
+        "The dark-floored crater centre-left is the 60-km Ibn Yunus.",
+        "The dark landscape in the foreground of this image is the northern section of Mare Marginis."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "These are the swirls looking off across the - Marginis toward Lomonosov and - let's see, what's that other sea?",
+        "Big - big crater just to the northwest of the Neper?"
+      ],
+      "speaker": "Evans",
+      "time": "1620231"
+    },
+    {
+      "tokens": [
+        "Well, yes.",
+        "The swirls in that one crater seem to be in Marginis, and I hope that's Marginis.",
+        "I want to look at my map here in a minute and look for sure: but they seem to be emanating essentially radial from that bright crater - going out across the mare."
+      ],
+      "speaker": "Evans",
+      "time": "1620620"
+    },
+    {
+      "tokens": [
+        "Okay, the crater I was talking about was Al-Biruni - is the one that's got the swirls across coming from it.",
+        "And then off in the northwest corner, just outside the rim, that's a very bright crater.",
+        "It shows up on this - contingency chart.",
+        "So that was Al-Biruni.",
+        "Goddard's got a lot of - of swirls in it also.",
+        "No, wait a minute.",
+        "Goddard was the one I was talking about, not Al-Biruni."
+      ],
+      "speaker": "Evans",
+      "time": "1620849"
+    },
+    {
+      "tokens": [
+        "A bright crater directly north of Goddard is Goddard A."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You know, I'm looking north of - along Crisium.",
+        "Okay, yeah; there's Picard and Peirce.",
+        "And you get the - same - same pattern that looks kind of like a swirl.",
+        "Looks the same - same type of albedo as a - as a swirl with light places and dark places.",
+        "The only difference being that you can definitely tell that these are ejecta from Proclus because the pattern is somewhat radial, you know, from Proclus itself.",
+        "And then you've got the same thing, there's a crater up on the north - north rim..."
+      ],
+      "speaker": "Evans",
+      "time": "1621226"
+    },
+    {
+      "tokens": [
+        "Okay, Ron.",
+        "White Sands just called us and they got a good data take on their - Preliminary report shows a good data on the Aerobee."
+      ],
+      "speaker": "Overmyer",
+      "time": "1621744"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You know, I'm looking out of window 2 now, and you can definitely get three different color textures on the thing.",
+        "You've got the - that light tan of Serenitatis, and then you've got the - an annulus ring that stops somewhere in about the middle of the two ridge systems that go around.",
+        "And then you come down south in the landing site area and the two dark things change - Ah, I can't quite see it anymore.",
+        "The landing site is a darker - more of a gray, and it go - goes on - goes on up - There's a subdued crater; there's kind of a - The rilles go on up there, and then there's a filled-in crater just to the west of one that's about 20 kilometers in diameter.",
+        "And that's about where the dark-gray material ends, right on the edge of that crater.",
+        "And then you run in to the annulus that goes all the way around Crisium.",
+        "I mean - not - not Crisium - or around Serenitatis."
+      ],
+      "speaker": "Evans",
+      "time": "1622139"
+    },
+    {
+      "tokens": [
+        "Frame 110 and 111 were taken, just now, out of mag Oscar Oscar - one of the landing site, and one north of the landing site, trying to get the color distinction between the three of them there."
+      ],
+      "speaker": "Evans",
+      "time": "1622333"
+    },
+    {
+      "tokens": [
+        "Ron, do you have your Flight Plan handy?",
+        "I've got an update and stuff like that.",
+        "I don't want to interrupt eating.",
+        "If you don't have it, we'll get it after the eat period."
+      ],
+      "speaker": "Overmyer",
+      "time": "1622741"
+    },
+    {
+      "tokens": [
+        "Okay, 113, 114, and 115 were taken on the western edge of Serenitatis.",
+        "I'll get unwound from the cord here in a little bit and I'll [laughter].",
+        "You know if we design another spacecraft, we got to have something with a - so you don't have to be tied up to this crazy cord."
+      ],
+      "speaker": "Evans",
+      "time": "1622831"
+    },
+    {
+      "tokens": [
+        "We're at 162:29."
+      ],
+      "speaker": "Overmyer",
+      "time": "1622914"
+    },
+    {
+      "tokens": [
+        "Oh, yeah, uh huh.",
+        "Okay."
+      ],
+      "speaker": "Evans",
+      "time": "1623025"
+    },
+    {
+      "tokens": [
+        "Okay, Ron, if you're near there, High Gain to Auto."
+      ],
+      "speaker": "Overmyer",
+      "time": "1623123"
+    },
+    {
+      "tokens": [
+        "High Gain is Auto."
+      ],
+      "speaker": "Evans",
+      "time": "1623130"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, America."
+      ],
+      "speaker": "Evans",
+      "time": "1624106"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Evans",
+      "time": "1624206"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "H2Tank 1 are going On."
+      ],
+      "speaker": "Evans",
+      "time": "1624402"
+    },
+    {
+      "tokens": [
+        "Okay; let's try to retract the old mapper: huh?"
+      ],
+      "speaker": "Evans",
+      "time": "1624456"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Track Extend, Off; 5, 4, - Well, let's see, I'll start it at 15 - 45:15; 13, 14..."
+      ],
+      "speaker": "Evans",
+      "time": "1624503"
+    },
+    {
+      "tokens": [
+        "Go."
+      ],
+      "speaker": "Evans",
+      "time": "1624518"
+    },
+    {
+      "tokens": [
+        "Got a barber pole."
+      ],
+      "speaker": "Evans",
+      "time": "1624522"
+    },
+    {
+      "tokens": [
+        "SEP refers to the Surface Electrical Properties experiment that has been deployed by Gene and Jack on the surface.",
+        "Like the SEP, the Lunar Sounder investigates the nature of the subsurface by studying the propagation and reflection of radio waves from various layers below the surface."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Ron."
+      ],
+      "speaker": "Overmyer",
+      "time": "1624621"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark it.",
+        "Barber pole."
+      ],
+      "speaker": "Evans",
+      "time": "1624912"
+    },
+    {
+      "tokens": [
+        "I don't mean barber pole.",
+        "I mean gray [laughter].",
+        "Well, whatever it was, it changed."
+      ],
+      "speaker": "Evans",
+      "time": "1624922"
+    },
+    {
+      "tokens": [
+        "Yeah!"
+      ],
+      "speaker": "Evans",
+      "time": "1624939"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The - Since we're having a little trouble with that, why don't I put the Track Extend switch to Off on that one?"
+      ],
+      "speaker": "Evans",
+      "time": "1625223"
+    },
+    {
+      "tokens": [
+        "Houston, America."
+      ],
+      "speaker": "Evans",
+      "time": "1625311"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That, or he may want to skip one of the 60-second exposures in there somewhere, you know."
+      ],
+      "speaker": "Evans",
+      "time": "1625412"
+    },
+    {
+      "tokens": [
+        "Ron, our film record down here indicates you've got three more frames on there than you need for the zodiacal light, or do we have a bad number somewhere?"
+      ],
+      "speaker": "Overmyer",
+      "time": "1625439"
+    },
+    {
+      "tokens": [
+        "Outstanding."
+      ],
+      "speaker": "Evans",
+      "time": "1625551"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Charlie 3 and Bravo 3 are On.",
+        "Alpha 3, and Bravo 3 are Off.",
+        "It should have been Charlie 3 and Dog 3 are On."
+      ],
+      "speaker": "Evans",
+      "time": "1625915"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Evans",
+      "time": "1625946"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Ron.",
+        "We're probably going to lose you early here.",
+        "You're looking good as you go around the horn.",
+        "We went around the room, and everything's - all systems are Go.",
+        "Just a reminder on this next back side that there is no recording so there will be no DSE recording of voice on this back side."
+      ],
+      "speaker": "Overmyer",
+      "time": "1630407"
+    },
+    {
+      "tokens": [
+        "Oh, okay.",
+        "Thank you much."
+      ],
+      "speaker": "Evans",
+      "time": "1630428"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "America, Houston."
+      ],
+      "speaker": "Overmyer",
+      "time": "1640106"
+    },
+    {
+      "tokens": [
+        "Houston, America here.",
+        "Sorry, but I didn't have my hat on."
+      ],
+      "speaker": "Evans",
+      "time": "1640216"
+    },
+    {
+      "tokens": [
+        "Frame AS17-151-23222 contains no image.",
+        "There are three images (rather than four) and they are looking in a north to northeast direction.",
+        "These are AS17-151-23223 to 23225.",
+        "The subsequent image on the roll is further east so must have been taken on a later orbit."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "All set for a Flight Plan update here."
+      ],
+      "speaker": "Evans",
+      "time": "1640550"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's to be - Okay.",
+        "It's a Verb 49 to 142, 269, and 359, and that's for the pass where we pull film through there, huh?"
+      ],
+      "speaker": "Evans",
+      "time": "1640725"
+    },
+    {
+      "tokens": [
+        "Yeah, you bet.",
+        "I don't know what it is yet, but [laughter]."
+      ],
+      "speaker": "Evans",
+      "time": "1640817"
+    },
+    {
+      "tokens": [
+        "Tacquet up to Bessel E or Men - Tacquet to Menelaus.",
+        "Go right along the pass.",
+        "Calderas change at Cannon [?] Rilles.",
+        "Across - 2.8, isn't it?",
+        "1/250.",
+        "The terminator's there."
+      ],
+      "speaker": "Evans",
+      "time": "1641010"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Well, I'm just trying to match my color wheel with Crisium, and nothing matches."
+      ],
+      "speaker": "Evans",
+      "time": "1641449"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Seems a few other people have found that, too."
+      ],
+      "speaker": "Overmyer",
+      "time": "1641454"
+    },
+    {
+      "tokens": [
+        "Ron is trying to use a circular chart to objectively pass on the tones and hues he is seeing out of the window.",
+        "A difficulty with this arrangement is that the lighting by the Sun of the lunar surface is different to the lighting inside the spacecraft of the chart.",
+        "The spacecraft's interior lighting is by fluorescent lamps which are notoriously greenish in their output and do not have a smooth spectral spread.",
+        "This makes useful comparisons very difficult."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll see.",
+        "I was - I was wondering about that, really."
+      ],
+      "speaker": "Evans",
+      "time": "1641521"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You know, the Crater Dawes has got - starting from the top going down the rim, there's a kind of a light-tan layer, it's a concentric layer that goes all the way around; and then you come into a lighter - it's almost to the white that it looks like on the hills and all round the landing site.",
+        "And this first layer goes down maybe - let's see, as you look at the total distance in there, about a third of the distance; and then the white layer - concentric layer that goes all the way around, and this is in the western wall I'm looking at now, and it goes down to - to about a half of the distance, not quite half of the distance from the top of the rim down to the bottom.",
+        "And then the lower portion of it, the lower half, a little better than a half really, is kind of a tannish gray - has a tannish-gray albedo to it.",
+        "It's all streaked.",
+        "And of course, the bottom of the layer, the bottom of the crater itself is - filled with - Well, oddly enough, it's the same color of material that's - that's laying around the edges of the crater.",
+        "It has some radial rings around it, which gives an indication of a subsidence of some kind, or a sliding down the hill.",
+        "That's really the first crater where I've been able to see any sort of layering in the walls.",
+        "Now the first layer on the north side and also on the south side, in the dark brownish layer of the thing, you can see parts that are jugged, jagged, and sticking out.",
+        "In other words, there's a slight change in slope in it.",
+        "Looks like it's a very steep slope, which would indicate that it's a fairly con - compacted type of material in the first layer.",
+        "And then the slope changes in the white layer on down a little bit more.",
+        "And the white layer seems to sort of combine and maintain the same type of slope as the dark-grayish tan - layer - the bottom, or from halfway down to the bottom of the crater."
+      ],
+      "speaker": "Evans",
+      "time": "1641910"
+    },
+    {
+      "tokens": [
+        "So that readers can follow along with Ron's description, this is a mosaic of images from the Lunar Reconnaissance Orbiter that shows the interior walls of Dawes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Ron.",
+        "Did you tie in some of that ejecta material to the layer at the very bottom of the crater, like an overturned flap or something?"
+      ],
+      "speaker": "Overmyer",
+      "time": "1642200"
+    },
+    {
+      "tokens": [
+        "The ejecta material is about the - Yeah, that the - Okay, here we come on - Well, it's an odd angle, but I guess it will work.",
+        "Good.",
+        "I want to get some of the - 30 and let's see.",
+        "The first one started at Tacquet.",
+        "I'm going to whip her back one and get one of - back the other way, because that's kind of a change in - in the color.",
+        "The color of the area changes right at the Tacquet Rille to - to the brown - browns.",
+        "This - I forgot my little \"gouge,\" here.",
+        "It goes north of Malinius [sic], doesn't it?"
+      ],
+      "speaker": "Evans",
+      "time": "1642217"
+    },
+    {
+      "tokens": [
+        "You come up Tacquet, and then you go right near Bessel E, up in - you follow those ridges along into Bessel, there; Bessel E, rather."
+      ],
+      "speaker": "Overmyer",
+      "time": "1642304"
+    },
+    {
+      "tokens": [
+        "And you cross just a little..."
+      ],
+      "speaker": "Overmyer",
+      "time": "1642332"
+    },
+    {
+      "tokens": [
+        "Now, these Haemus Mountains have the same color tones, and what have you, as the - that field from Tacquet to - to Menelaus."
+      ],
+      "speaker": "Evans",
+      "time": "1642451"
+    },
+    {
+      "tokens": [
+        "When you're a little bit past D-Caldera, you - on to - There's a line between the Sea of Vapors mare?",
+        "and the Apennine Mountains.",
+        "That's where you change to f/2.8."
+      ],
+      "speaker": "Overmyer",
+      "time": "1642540"
+    },
+    {
+      "tokens": [
+        "What sounds like Cannon Rille may be Rima Conon, about 100km west of D-Caldera (Ina).",
+        "The crater near D-Caldera is 1,000 metres across so Ron's visual estimate is pretty good."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Ron.",
+        "I don't show that on my map."
+      ],
+      "speaker": "Overmyer",
+      "time": "1642743"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And, as you cross this mare that you - just to the west of D-Caldera, you'll switch - as you get across, and up into the Apennines, you'll switch to f/2.8."
+      ],
+      "speaker": "Overmyer",
+      "time": "1642757"
+    },
+    {
+      "tokens": [
+        "Ron, you want f/2.8; and then, up here when you get to the Apennine Mountains, the line between the Apennine Mountains and - the mare up there, you want to go to 1/125."
+      ],
+      "speaker": "Overmyer",
+      "time": "1642854"
+    },
+    {
+      "tokens": [
+        "2.8 at 1/125."
+      ],
+      "speaker": "Evans",
+      "time": "1643012"
+    },
+    {
+      "tokens": [
+        "Eratosthenes is just - being - picked up."
+      ],
+      "speaker": "Evans",
+      "time": "1643056"
+    },
+    {
+      "tokens": [
+        "Okay, Ron.",
+        "Due to the Lunar Sounder saturating from the SEP, we would like to change the attitude; and, right now, go to that - the Verb 49 maneuver attitude that we called up for 166:36.",
+        "We'd like you to go that now.",
+        "Over."
+      ],
+      "speaker": "Overmyer",
+      "time": "1643128"
+    },
+    {
+      "tokens": [
+        "...142, 269, 359."
+      ],
+      "speaker": "Overmyer",
+      "time": "1643155"
+    },
+    {
+      "tokens": [
+        "Hey, this is interesting.",
+        "Mag Mike Mike, we're on 172."
+      ],
+      "speaker": "Evans",
+      "time": "1643237"
+    },
+    {
+      "tokens": [
+        "Ron, we don't think Mike Mike's got anything left on it, but if you - if it is, you can use it for targets of opportunity.",
+        "It's not supposed to have."
+      ],
+      "speaker": "Overmyer",
+      "time": "1643347"
+    },
+    {
+      "tokens": [
+        "The next one might be the last one [laughter]."
+      ],
+      "speaker": "Evans",
+      "time": "1643409"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, America."
+      ],
+      "speaker": "Evans",
+      "time": "1643949"
+    },
+    {
+      "tokens": [
+        "Hey, Ron, we just talked it over down here.",
+        "The EKG is good and just forget the ZPN for another day.",
+        "Just go EKG and forget the ZPN.",
+        "That's compliments of Dr.",
+        "Z."
+      ],
+      "speaker": "Overmyer",
+      "time": "1644107"
+    },
+    {
+      "tokens": [
+        "Yeah, last night I moved those - moved all three sensors on the EKG to different spots and put some of that cream stuff on them, and I think that helped."
+      ],
+      "speaker": "Evans",
+      "time": "1644143"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ron, we're about ready to lose you in about 10 minutes.",
+        "Everything's fine.",
+        "We'll make one more final go-around the room before you go out of sight.",
+        "I'm watching your buddies down there.",
+        "They're up against a rock, which is about twice as tall as they are, and they're trying - pounding away on the side of it.",
+        "Doesn't look like they're having much luck getting anything off of it, but they're beating on it."
+      ],
+      "speaker": "Overmyer",
+      "time": "1645717"
+    },
+    {
+      "tokens": [
+        "[Laughter] Oh, great."
+      ],
+      "speaker": "Evans",
+      "time": "1645759"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ron, everything's looking good as you go here to LOS; no problems at all.",
+        "Your buddies are down at station 6 right now."
+      ],
+      "speaker": "Overmyer",
+      "time": "1650343"
+    },
+    {
+      "tokens": [
+        "[Chuckle] Okay."
+      ],
+      "speaker": "Evans",
+      "time": "1650401"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "...[Garble] I think."
+      ],
+      "speaker": "Evans",
+      "time": "1655332"
+    },
+    {
+      "tokens": [
+        "America, Houston."
+      ],
+      "speaker": "Overmyer",
+      "time": "1655342"
+    },
+    {
+      "tokens": [
+        "Houston, America.",
+        "Roger.",
+        "Loud and clear."
+      ],
+      "speaker": "Evans",
+      "time": "1655346"
+    },
+    {
+      "tokens": [
+        "Down east of Saenger there, you get into the first ring of Arabia or the second ring of Arabia there."
+      ],
+      "speaker": "Overmyer",
+      "time": "1655512"
+    },
+    {
+      "tokens": [
+        "Your friendly journal editor has no clue what is being referred to as the first and second rings of Arabia."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "Hey, you know this is - Let me get this picture.",
+        "This is the first time I've really been able to see that first ring of Arabia."
+      ],
+      "speaker": "Evans",
+      "time": "1655526"
+    },
+    {
+      "tokens": [
+        "It is presumed Ron is referring to four images on magazine OO, AS17-151-23226 to 23229."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Ron, we've got a - a Flight Plan update and a Lunar Sounder PAD, if you want to take it before we get into the visuals here."
+      ],
+      "speaker": "Overmyer",
+      "time": "1655635"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Frames - last three frames before 128 were also looking east.",
+        "Okay, we had an update, huh?"
+      ],
+      "speaker": "Evans",
+      "time": "1655751"
+    },
+    {
+      "tokens": [
+        "There are four additional images on magazine OO that seem to finish this sequence sequence, AS17-151-23230 to 23233.",
+        "All are looking east."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "T-start time, 166:42:12; T-stop time, 47:10."
+      ],
+      "speaker": "Overmyer",
+      "time": "1655819"
+    },
+    {
+      "tokens": [
+        "Okay, Ron, we're all just standing by.",
+        "That takes care of the Flight Plan updates, and we're just standing by for your visuals.",
+        "This pass you're to concentrate on the landing site and the D-Caldera, you know?"
+      ],
+      "speaker": "Overmyer",
+      "time": "1660011"
+    },
+    {
+      "tokens": [
+        "Ron, we want to concentrate on the small-scale features, and your binoculars may be what you need.",
+        "We want to look at the dark-halo craters in the site area and examination of D-Caldera with the binocs."
+      ],
+      "speaker": "Overmyer",
+      "time": "1660039"
+    },
+    {
+      "tokens": [
+        "Hey, Ron, when you come up on the landing site, we would like you to concentrate on Shorty Crater and F Crater and then the other dark-halo craters.",
+        "As you know, as I told you last night, Shorty ended up with some orange-colored material that looks an awful lot like a Fuma - fumara - a vent anyway - fumarole.",
+        "And it looks..."
+      ],
+      "speaker": "Overmyer",
+      "time": "1660214"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I got to take a look and see which one's Shorty."
+      ],
+      "speaker": "Evans",
+      "time": "1660249"
+    },
+    {
+      "tokens": [
+        "Oh!",
+        "Okay."
+      ],
+      "speaker": "Evans",
+      "time": "1660313"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Oh, I hope we got a Pan Camera picture of that - what the - Condorcet [?] or [garble] or something like that, the one I was describing had a little bit of diamond down in it?"
+      ],
+      "speaker": "Evans",
+      "time": "1660850"
+    },
+    {
+      "tokens": [
+        "Farouk El-Baz was responsible for training the J-series Command Module Pilots in aerial geological observation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ron, Farouk thinks it is on the Pan [Camera]."
+      ],
+      "speaker": "Overmyer",
+      "time": "1661012"
+    },
+    {
+      "tokens": [
+        "You know, in the eastern wall of Picard - I'm looking at it with the binocs now, and you can definitely see the first part of it up there has some vertical ensearpments [sic] - escarpments along the edge of it.",
+        "And the vertical escarpments are kind of in irregular layers - well, just kind of like you would suspect if you - you eroded out a bunch of lava layers.",
+        "In other words, they're not continuous, but they're kind of intermingled along, and they go about - oh, a third of the way down from the top of the rim, down to where the talus starts sliding on into the - into the crater."
+      ],
+      "speaker": "Evans",
+      "time": "1661102"
+    },
+    {
+      "tokens": [
+        "Good show.",
+        "We'll tie that - tie that up with what you gave us last time on Picard."
+      ],
+      "speaker": "Overmyer",
+      "time": "1661156"
+    },
+    {
+      "tokens": [
+        "Ron, are there any similarity between the highlands, west of Crisium and those east of Serenitatis?"
+      ],
+      "speaker": "Overmyer",
+      "time": "1661538"
+    },
+    {
+      "tokens": [
+        "I got it in window 2.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1661734"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've got Shorty in the - picture.",
+        "It looks like a sharper crater than any of them in the Pentagon complex.",
+        "The other thing that looks sharp, just like that one, is F Crater.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1661751"
+    },
+    {
+      "tokens": [
+        "Switch back to the other window."
+      ],
+      "speaker": "Evans",
+      "time": "1661848"
+    },
+    {
+      "tokens": [
+        "The feature they are calling F Crater is mentioned and shown in theCSM Lunar Landmark Maps(PDF page 31).",
+        "It lies southwest of Family Mountain and 9.5 km WNW of Shorty.",
+        "Modern mapping names it Falcon."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yeah, F Crater is - is sharp - just like - Shorty.",
+        "I hope I was getting F Crater.",
+        "F Crater's about the same size as Shorty, isn't it?",
+        "If not, I was getting one between Family Mountain and..."
+      ],
+      "speaker": "Evans",
+      "time": "1662150"
+    },
+    {
+      "tokens": [
+        "I'll have to look at F Crater again the next time I come over on the thing, because I spent most of the time looking at - Shorty."
+      ],
+      "speaker": "Evans",
+      "time": "1662302"
+    },
+    {
+      "tokens": [
+        "You know..."
+      ],
+      "speaker": "Evans",
+      "time": "1662314"
+    },
+    {
+      "tokens": [
+        "This - this formation again from - Tacquet on down to Menelaus or Melinor [sic].",
+        "Just went over that again, and I was looking at it with the binoculars, and I saw one sharp crater in the area that had a - an ejecta - almost the same color as the stuff around Shorty."
+      ],
+      "speaker": "Evans",
+      "time": "1662332"
+    },
+    {
+      "tokens": [
+        "Roger, Ron.",
+        "You might point - pinpoint that crater between Tacquet and Menelaus when you get down here."
+      ],
+      "speaker": "Overmyer",
+      "time": "1662416"
+    },
+    {
+      "tokens": [
+        "Yeah, I got D-Caldera into my sights now.",
+        "The mounds - all blotches in the center - are the same type of material - same type of material as that surrounding the D-Caldera itself.",
+        "Down in the caldera, the gray blocky-type of stuff - and you know what?",
+        "I'd almost say that - You know how water drops kind of form on a - on a - on a surface as you - as you - Have you ever had a high spot and something kind of slowed up - up to it, high spot - and water kind of flowed up to and didn't quite stick to it - you know it doesn't stick to it, all in one spot..."
+      ],
+      "speaker": "Evans",
+      "time": "1662607"
+    },
+    {
+      "tokens": [
+        "Hey, I'm finding out with - with the binocs, your observation is - is cut in about a half, and I'm going to have to get that the next time over."
+      ],
+      "speaker": "Evans",
+      "time": "1662759"
+    },
+    {
+      "tokens": [
+        "Oh, okay.",
+        "Let's see.",
+        "Recorder is - The Recorder is On."
+      ],
+      "speaker": "Evans",
+      "time": "1662916"
+    },
+    {
+      "tokens": [
+        "I could not detect the - an external annulus around the caldera itself."
+      ],
+      "speaker": "Evans",
+      "time": "1663017"
+    },
+    {
+      "tokens": [
+        "It just got dark."
+      ],
+      "speaker": "Evans",
+      "time": "1663217"
+    },
+    {
+      "tokens": [
+        "Ron, I think if you put an order of priority on some activity here, as far as the geology goes, you might consider sketching out on Shorty - with just a rough handle on where you thought you saw some of the coloring differentiation up on the northern side of Shorty - and also give some thought on F Crater, if you will.",
+        "I know you didn't get a chance to look at it because - If we can tie up the - what you see from orbit on Shorty to what we know we've got from the ground truth, we might really have something here, as far as matching up on some of these other craters."
+      ],
+      "speaker": "Overmyer",
+      "time": "1663303"
+    },
+    {
+      "tokens": [
+        "Guess I can change the DAP here and get that out of the way.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1663404"
+    },
+    {
+      "tokens": [
+        "Well, let's see, just kind of fouled that one up.",
+        "Really wanted 142, narrow dead band, don't you, at 142, 269, and 0 - and 359?",
+        "Thought we were already in that attitude."
+      ],
+      "speaker": "Evans",
+      "time": "1663504"
+    },
+    {
+      "tokens": [
+        "And, Ron, you may be interested that, after we got the Lunar Sounder unsaturated there with the different attitude, we - we could detect the SEP in the Lunar Sounder data."
+      ],
+      "speaker": "Overmyer",
+      "time": "1663816"
+    },
+    {
+      "tokens": [
+        "Ron, we got 30 seconds to T-start."
+      ],
+      "speaker": "Overmyer",
+      "time": "1664039"
+    },
+    {
+      "tokens": [
+        "Operate; she started at 42:12.",
+        "Okay.",
+        "Recorder's On; Radar is On.",
+        "Go to work."
+      ],
+      "speaker": "Evans",
+      "time": "1664150"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Overmyer",
+      "time": "1664212"
+    },
+    {
+      "tokens": [
+        "Okay, Ron.",
+        "We're about 30 seconds from T - from Lunar Sounder Standby time."
+      ],
+      "speaker": "Overmyer",
+      "time": "1664637"
+    },
+    {
+      "tokens": [
+        "5 seconds."
+      ],
+      "speaker": "Overmyer",
+      "time": "1664706"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Overmyer",
+      "time": "1664709"
+    },
+    {
+      "tokens": [
+        "Got it."
+      ],
+      "speaker": "Evans",
+      "time": "1664714"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "There's your 1 minute, Ron."
+      ],
+      "speaker": "Overmyer",
+      "time": "1664810"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Recorder is going Off, not to Heaters."
+      ],
+      "speaker": "Evans",
+      "time": "1664816"
+    },
+    {
+      "tokens": [
+        "On TL-50.",
+        "And, at the right-hand side - if you're looking at the thing from the bottom, the righthand side is 0 - go up 60 degrees.",
+        "You're 60 degrees up from the horizontal and 30 degrees down from the vertical.",
+        "It'll be something about like that."
+      ],
+      "speaker": "Evans",
+      "time": "1664950"
+    },
+    {
+      "tokens": [
+        "Ron, I guess one of the things that at least goes through Stu's and my mind on that Shorty Crater - and I think you dispelled it when you say it goes out like in a 60-degree angular cone away from it.",
+        "-_ But the question we'd really like to be thinking about - Is that a concentric coloring around there, like it might be just a layering from a flap ov - you know, a turned-over flap or something like that, or whether it just seems to be some sort of a - I don't want to say flow, but something that would give it direction that one - the one 60-degree direction like that."
+      ],
+      "speaker": "Overmyer",
+      "time": "1665157"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're - we're ending up looking at future passes, not today probably, but for the future and see if we can fit in one or two more observations to you here, where we can set up the back room like we had in all the - if you'll go along with that, and if we can fit it in, would you like to do that?"
+      ],
+      "speaker": "Overmyer",
+      "time": "1665305"
+    },
+    {
+      "tokens": [
+        "I think Family Mountain is the bigger of the two mounds to the west of the landing site, isn't it?"
+      ],
+      "speaker": "Evans",
+      "time": "1665415"
+    },
+    {
+      "tokens": [
+        "F-Crater, now known as Falcon, is indeed between two mounds, one of which is Family Mountain."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, H2Tank 2 Fan is On now; Tank 3 Fan is On."
+      ],
+      "speaker": "Evans",
+      "time": "1665548"
+    },
+    {
+      "tokens": [
+        "Ron, I just might draw your attention to the Flight Plan at 167:20, in that area where the Lunar Sounder finishes up, and it says that there will be no SIM bay or PCM data recorded until 169:03 and then you have to Configure the DSE there.",
+        "Just want to draw your attention to that."
+      ],
+      "speaker": "Overmyer",
+      "time": "1665653"
+    },
+    {
+      "tokens": [
+        "Hey, when you all drew that 60-degree angle, were you making that 63 degrees up from - not 60 - 60 degrees up from line 63?"
+      ],
+      "speaker": "Evans",
+      "time": "1665733"
+    },
+    {
+      "tokens": [
+        "Ron, we're going to lose you shortly, and all the systems look Go here.",
+        "I've got a bet with EECOM that you'll get everything in the Flight Plan.",
+        "You won't miss anything for me."
+      ],
+      "speaker": "Overmyer",
+      "time": "1670203"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "And the other one's not even circled; it's just north of the - the one in the bottom, and that's the one that - impact-type, because it's got ray - ray material, but it's a fresh impact bringing up bluish - bluish-type material."
+      ],
+      "speaker": "Evans",
+      "time": "1670247"
+    },
+    {
+      "tokens": [
+        "Good show."
+      ],
+      "speaker": "Overmyer",
+      "time": "1670320"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston; America.",
+        "It looks like we're with you again."
+      ],
+      "speaker": "Evans",
+      "time": "1675309"
+    },
+    {
+      "tokens": [
+        "Ron, we're Go for retraction on HF Antenna 2, HF Antenna 2.",
+        "You're Go for retraction."
+      ],
+      "speaker": "Overmyer",
+      "time": "1675502"
+    },
+    {
+      "tokens": [
+        "Hold on that, Ron.",
+        "Hold.",
+        "We've lost data here 2 second.",
+        "Please hold."
+      ],
+      "speaker": "Overmyer",
+      "time": "1675522"
+    },
+    {
+      "tokens": [
+        "Ron, will you verify you hadn't started to retract them yet?"
+      ],
+      "speaker": "Overmyer",
+      "time": "1675543"
+    },
+    {
+      "tokens": [
+        "Yes, verified.",
+        "I did not touch anything."
+      ],
+      "speaker": "Evans",
+      "time": "1675549"
+    },
+    {
+      "tokens": [
+        "Okay Ron.",
+        "Let's try HF Antenna 2, Retract now, please."
+      ],
+      "speaker": "Overmyer",
+      "time": "1675708"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Evans",
+      "time": "1675715"
+    },
+    {
+      "tokens": [
+        "There we go.",
+        "Let's see.",
+        "Give you a countdown on it.",
+        "Okay, 5, 4, 3, 2, 1..."
+      ],
+      "speaker": "Evans",
+      "time": "1675727"
+    },
+    {
+      "tokens": [
+        "Mark it.",
+        "Barber pole."
+      ],
+      "speaker": "Evans",
+      "time": "1675744"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark it; gray."
+      ],
+      "speaker": "Evans",
+      "time": "1675956"
+    },
+    {
+      "tokens": [
+        "Mark it; Rog."
+      ],
+      "speaker": "Overmyer",
+      "time": "1675958"
+    },
+    {
+      "tokens": [
+        "Okay, Ron, if you'll give us a hack, we're - you're Go for HF Antenna 1, Retract."
+      ],
+      "speaker": "Overmyer",
+      "time": "1680114"
+    },
+    {
+      "tokens": [
+        "Mark it.",
+        "Barber pole."
+      ],
+      "speaker": "Evans",
+      "time": "1680204"
+    },
+    {
+      "tokens": [
+        "We've got ...",
+        "- -"
+      ],
+      "speaker": "Overmyer",
+      "time": "1680215"
+    },
+    {
+      "tokens": [
+        "It's going in."
+      ],
+      "speaker": "Evans",
+      "time": "1680216"
+    },
+    {
+      "tokens": [
+        "- - ...",
+        "indication of motion that it's going in.",
+        "Rog.",
+        "Is that the one you can see?"
+      ],
+      "speaker": "Overmyer",
+      "time": "1680217"
+    },
+    {
+      "tokens": [
+        "Ron, we can see stall current now.",
+        "Can you give Antenna 1, Off?"
+      ],
+      "speaker": "Overmyer",
+      "time": "1680423"
+    },
+    {
+      "tokens": [
+        "Okay; it's Off."
+      ],
+      "speaker": "Evans",
+      "time": "1680430"
+    },
+    {
+      "tokens": [
+        "Ready for Pan Camera Mode to Standby?"
+      ],
+      "speaker": "Evans",
+      "time": "1680530"
+    },
+    {
+      "tokens": [
+        "Ron, we're analyzing the data on the antenna that - We're 1 second out of the tolerance that Stan had established for determining at the end."
+      ],
+      "speaker": "Overmyer",
+      "time": "1680607"
+    },
+    {
+      "tokens": [
+        "Okay, Ron, Pan Camera to Standby."
+      ],
+      "speaker": "Overmyer",
+      "time": "1680744"
+    },
+    {
+      "tokens": [
+        "Okay, Pan Camera.",
+        "[Garble] standby.",
+        "Errr - Power is coming on.",
+        "Barber pole.",
+        "Gray.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "1680750"
+    },
+    {
+      "tokens": [
+        "Ron, you can turn HF Antenna 2, Retract, switch to the Off position."
+      ],
+      "speaker": "Overmyer",
+      "time": "1680858"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you.",
+        "Sorry."
+      ],
+      "speaker": "Evans",
+      "time": "1680905"
+    },
+    {
+      "tokens": [
+        "Pan Camera Power is Off."
+      ],
+      "speaker": "Evans",
+      "time": "1681010"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ok - okay, Ron.",
+        "You got your steno-maphic [sic] tools out up there?",
+        "Because we got a Flight Plan update for tomorrow - the trim burn or the bagel burn, I guess."
+      ],
+      "speaker": "Overmyer",
+      "time": "1681123"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "At - Okay, I've got volume 3 now."
+      ],
+      "speaker": "Evans",
+      "time": "1681210"
+    },
+    {
+      "tokens": [
+        "Okay, the first one is at 180:20.",
+        "Add \"P00,\" and below it, add \"Verb 49 maueuver to P52/trim attitude.\""
+      ],
+      "speaker": "Overmyer",
+      "time": "1681302"
+    },
+    {
+      "tokens": [
+        "Okay, we're going to give you the High Gain angle numbers and the Verb 49 maneuver numbers tomorrow morning.",
+        "They'll probably change on latest updates, so we won't give anything for the - You can just put three blanks for the roll, pitch, and yaw there with that Verb 49 maneuver.",
+        "Okay, if you go down the page..."
+      ],
+      "speaker": "Overmyer",
+      "time": "1681354"
+    },
+    {
+      "tokens": [
+        "Okay, after \"IR Cover, Close,\" we'll put \"turn the UV, Off; the IR, Off\"; and then enable all jets before the fuel cell purge, huh?"
+      ],
+      "speaker": "Evans",
+      "time": "1681546"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "At 180:58, where it says \"Configure DSE,\" change \"High Bit Rate\" - cross it out, and make it \"Low Bit Rate.\""
+      ],
+      "speaker": "Overmyer",
+      "time": "1681604"
+    },
+    {
+      "tokens": [
+        "LOPC is the Lunar Orbit Plane Change manoeuvre that Ron will make in order to realign the plane of his orbit with the landing site.",
+        "Due to the rotation of the Moon, his orbital plane is no longer aligned with the landing site and this difference is increasing.",
+        "The LM ascent stage has very little margin in its performance and it is prefereble for the CSM to bring itself to match the orbital plane that the smaller spacecrft will ascent into.",
+        "Typically, such a plane change burn is carried out at right angles to the spacecraft's velocity vector, and while over the equator."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And you might as well scratch out those words where it says \"Eat period\" on that line, and down at 181:23, add \"P41 - P41.\""
+      ],
+      "speaker": "Overmyer",
+      "time": "1681737"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "At 181:35, add the following: \"Verb 49 maneuver to LOPC burn PAD attitude.\""
+      ],
+      "speaker": "Overmyer",
+      "time": "1681820"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And then the last..."
+      ],
+      "speaker": "Overmyer",
+      "time": "1681958"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "So far it looks pretty good here.",
+        "We'll have some different High Gain angles there at 181:00.",
+        "And you're going to give those up anyhow."
+      ],
+      "speaker": "Evans",
+      "time": "1682057"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "As I understand, the mascons didn't work the way we thought they would."
+      ],
+      "speaker": "Evans",
+      "time": "1682211"
+    },
+    {
+      "tokens": [
+        "The REFSMMAT (Reference to a Stable Member Matrix) essentially refers to the orientation to which the platform is aligned to.",
+        "It is an orientation with respect to the stars.",
+        "The crew have different orientations for different parts of the mission, chosen so that by aligning the platform per those REFSMMATs, the 8-ball displays in front of them will be easier to interpret."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You know that crater - that circle next to D-Caldera - has a lot of blocks - blocks - blocky material laying around it.",
+        "That - little bit of a terrace that I could just barely see on the west side of - western rim - down inside the western rim."
+      ],
+      "speaker": "Evans",
+      "time": "1682617"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "I was, too.",
+        "I just happened to look out, and there it was."
+      ],
+      "speaker": "Evans",
+      "time": "1682709"
+    },
+    {
+      "tokens": [
+        "You know, I look at that D-Caldera from a distance - I can still see it in the binocs - and I keep trying to look for some hint of a topographic expression, a topographic rise surrounding the caldera.",
+        "And I can't see a hint of a shadow, difference in the color, or anything.",
+        "It's just flat out in the middle of a flat plain, and it's a D-shaped depression slumped down.",
+        "There's no rise around the rims - or anything."
+      ],
+      "speaker": "Evans",
+      "time": "1682859"
+    },
+    {
+      "tokens": [
+        "How many frames in the next Nikon mag do I have to diddle with?"
+      ],
+      "speaker": "Evans",
+      "time": "1683106"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "For the ejecta pattern of Eratosthenes, you can just see it looking back into the Sun now, and the terminator is right - right in the middle of Eratosthenes now.",
+        "And you can sure see the classic impact ejecta pattern around it.",
+        "It goes out for - you know, almost two crater diameters as we can see the topographic expression.",
+        "You can see the scalloping or scouring as it's gone back across there, due to the shadows that are created in the low Sun angle."
+      ],
+      "speaker": "Evans",
+      "time": "1683323"
+    },
+    {
+      "tokens": [
+        "Ron, at your convenience, we would like H2Tanks 1, 2, and 3 Fans, Off.",
+        "H2Tanks 1, 2, and 3 Fans to Off."
+      ],
+      "speaker": "Overmyer",
+      "time": "1683407"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm going to turn off all the H2Fans.",
+        "There's 3, 2, and 1, are all Off."
+      ],
+      "speaker": "Evans",
+      "time": "1683420"
+    },
+    {
+      "tokens": [
+        "Okay, Ron, FAO's data says that on magazine Yankee Yankee, we have 20 unscheduled frames that you can use prior to the scheduled photography.",
+        "After the scheduled photography, anything that's left will also be yours."
+      ],
+      "speaker": "Overmyer",
+      "time": "1683710"
+    },
+    {
+      "tokens": [
+        "[Laughter] Oh, that is a good thought.",
+        "No, it's just that every once in awhile at these terminators, you know, you - you have some real good shots, and we just can't schedule them, you know, all the time, because sometimes you can't do it.",
+        "But you take one or two shots of each terminator when it comes by, you get some real good pictures."
+      ],
+      "speaker": "Evans",
+      "time": "1683803"
+    },
+    {
+      "tokens": [
+        "[Humming]"
+      ],
+      "speaker": "Evans",
+      "time": "1684037"
+    },
+    {
+      "tokens": [
+        "Okay, magazine Yankee Yankee is in the Nikon - finally."
+      ],
+      "speaker": "Evans",
+      "time": "1684451"
+    },
+    {
+      "tokens": [
+        "Hey, Houston; America."
+      ],
+      "speaker": "Evans",
+      "time": "1685427"
+    },
+    {
+      "tokens": [
+        "Well, let's see, probably about time to P20 here.",
+        "Plus-X forward, SIM bay attitude; 2 Enter Enter, plus 5 Enter.",
+        "X, okay, Proceed.",
+        "Noun 78 - Well, that's already loaded.",
+        "52.25; plus X is 180; okay?",
+        "Except we're going to do - half a degree deadband, 2 Enter - 2½ degree deadband, I mean.",
+        "Plus 2.50.",
+        "[Garble] number 50 is the Moon.",
+        "And right now, we'd like to orbrate around the Moon.",
+        "[Garble] - 2 [garble]"
+      ],
+      "speaker": "Evans",
+      "time": "1685807"
+    },
+    {
+      "tokens": [
+        "Journal contributor Frank O'Brien informs that Noun 78, relates to Program 20, the universal tracking program, as we can see from Ron's comm.",
+        "The three values in teh registers are:- R1: Yaw angle for P20 (gamma), R2: Pitch angle for P20 (rho), R3: Azimuth constraint for P20 (omicron)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Ron, do you have your volume 3 handy?"
+      ],
+      "speaker": "Overmyer",
+      "time": "1690039"
+    },
+    {
+      "tokens": [
+        "Ron, we're going to lose you in about 1 minute, and you're looking great.",
+        "No problems at all."
+      ],
+      "speaker": "Overmyer",
+      "time": "1690430"
+    },
+    {
+      "tokens": [
+        "[Laughter] Okay."
+      ],
+      "speaker": "Evans",
+      "time": "1690455"
+    },
+    {
+      "tokens": [
+        "America, Houston."
+      ],
+      "speaker": "Overmyer",
+      "time": "1695012"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "This is America.",
+        "Once we get the antenna set right, it is easy to lock up."
+      ],
+      "speaker": "Evans",
+      "time": "1695349"
+    },
+    {
+      "tokens": [
+        "This P52 platform realignment exercise used stars 06 (Acamar.",
+        "Theta Eridani) and 42 (Peacock, Alpha Pavonis).",
+        "Noun 5 tells Ron and Mission Control the difference between two angles; the known angle between the two stars and the measured angle that Ron obtained by his sightings.It is a measure of his sighting accuracy.",
+        "0.01° is considered good.",
+        "The final three numbers, collectively Noun 93, are the angles through which the platform's three axes had to be rotated, or torqued, to restore proper alignment with the desired REFSMMAT."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Tank 1 H2, Fans 1, are On."
+      ],
+      "speaker": "Evans",
+      "time": "1695452"
+    },
+    {
+      "tokens": [
+        "Hey, that's mighty fine, by gosh."
+      ],
+      "speaker": "Evans",
+      "time": "1695731"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ron, sorry to interrupt you eating, but could you take the H2Tank 2 and 3 Fans to On?",
+        "We're trying to get the pressures up prior to sleep."
+      ],
+      "speaker": "Overmyer",
+      "time": "1701304"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "2 and 3 are On."
+      ],
+      "speaker": "Evans",
+      "time": "1701316"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You know, through these glasses, Stoney [means Shorty] still looks like it's a light - light tannish-orange.",
+        "And it's - doesn't come all the way down to the center of the crater.",
+        "It's kind of tangent to the north edge or tangent to the edge - it's perpendicular to the scarp line, itself, as it goes down through there."
+      ],
+      "speaker": "Evans",
+      "time": "1701439"
+    },
+    {
+      "tokens": [
+        "Every time I focus on F Crater [laughter] I jiggle a little bit, and I can't focus."
+      ],
+      "speaker": "Evans",
+      "time": "1701609"
+    },
+    {
+      "tokens": [
+        "Roger, Ron."
+      ],
+      "speaker": "Overmyer",
+      "time": "1702056"
+    },
+    {
+      "tokens": [
+        "It's - Let me get my map."
+      ],
+      "speaker": "Evans",
+      "time": "1702153"
+    },
+    {
+      "tokens": [
+        "And it's almost directly east of Menelaus."
+      ],
+      "speaker": "Evans",
+      "time": "1702249"
+    },
+    {
+      "tokens": [
+        "And the part that the waxed surface - so to speak - in analogy there, is a light bluish-gray."
+      ],
+      "speaker": "Evans",
+      "time": "1702447"
+    },
+    {
+      "tokens": [
+        "Timocharis."
+      ],
+      "speaker": "Evans",
+      "time": "1702812"
+    },
+    {
+      "tokens": [
+        "Okay, going to Block.",
+        "And you say you have got a TEI PAD, huh?"
+      ],
+      "speaker": "Evans",
+      "time": "1703055"
+    },
+    {
+      "tokens": [
+        "...36076; plus 0.56, plus 0.80; 196:58:46.51; Noun 81s: plus 2785.7, minus 0957.1, minus 0174.6; roll of 179, pitch is 085, yaw, 343.",
+        "Rest of the PAD is not applicable.",
+        "Sirius and Rigel are the set stars, but we got a little difference on the hour line.",
+        "Tonight's hour line is 136:16:00.34; four jets, 12 seconds.",
+        "I've got three comments.",
+        "First comment..."
+      ],
+      "speaker": "Overmyer",
+      "time": "1703115"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go."
+      ],
+      "speaker": "Evans",
+      "time": "1703219"
+    },
+    {
+      "tokens": [
+        "That's a good readback, Ron.",
+        "Okay, it's all yours on the Flight Plan, and - Ron, we might point out that, if you get going into the presleep checklist here, in the VHF comm configuration.",
+        "Get that done, then there's a break - you'll lose comm and you'll have a 15 - 20-minute break, you can jump into your eat and then go right to bed."
+      ],
+      "speaker": "Overmyer",
+      "time": "1703400"
+    },
+    {
+      "tokens": [
+        "[Garble] on panel 9.",
+        "Okay, it's Receive.",
+        "And, we're in Duplex Alpha.",
+        "And Squelch B is - Whooh!",
+        "About 5, that cuts out the noise.",
+        "I don't know if I'd ever hear them or not, but, anyhow, it cuts out the noise.",
+        "Okay, let's see - Bat C is about 36.7.",
+        "Pyro A: barely below the line, but we'll say 37.0, and pyro B is 37.0.",
+        "Okay, looks like it's in good shape."
+      ],
+      "speaker": "Evans",
+      "time": "1703503"
+    },
+    {
+      "tokens": [
+        "That's affirm, Ron.",
+        "That closes it all out and you can just precede [sic] through your checklist and we'll stand by, if you want any calls.",
+        "We'll see you tomorrow.",
+        "And, the Doctor's just..."
+      ],
+      "speaker": "Overmyer",
+      "time": "1703902"
+    },
+    {
+      "tokens": [
+        "Okay, let me look at FAO here.",
+        "He's - he'll give me the word."
+      ],
+      "speaker": "Overmyer",
+      "time": "1704158"
+    },
+    {
+      "tokens": [
+        "Go ahead, Ron."
+      ],
+      "speaker": "Evans",
+      "time": "1704407"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The mike is cutting out on my lightweight headset.",
+        "But I - but the earphone works real good - works okay.",
+        "So I'm going to wear the earphone and the lightweight headset, and I'll keep the other - the other one hooked up - you know, this comm carrier hooked up on a different system, so if I need to talk, I can pull the comm carrier over.",
+        "But I'll be sleeping, [garble] I'll have to pull the comm carrier over to talk to you.",
+        "But I can hear you is what I'm saying - [garble] the headset..."
+      ],
+      "speaker": "Evans",
+      "time": "1704410"
+    },
+    {
+      "tokens": [
+        "I'm wearing the comm carrier now.",
+        "But it itches if you sl - if you leave it on all night, you know?"
+      ],
+      "speaker": "Evans",
+      "time": "1704453"
+    },
+    {
+      "tokens": [
+        "Okay; get the onboard readouts, recycle the fans; we'll save the potable water - Waste Management Overboard Drain - okay, that's Off; Waste Stowage Vent valves are closed.",
+        "Battery Vent, by the way, is in Vent.",
+        "How about a battery readout?",
+        "[Garble] Alpha is 1.",
+        "- Okay, Optics are Zero [garble] Optics is [garble].",
+        "Optics are stowed.",
+        "Cabin Pressure Regs, two..."
+      ],
+      "speaker": "Evans",
+      "time": "1704517"
+    },
+    {
+      "tokens": [
+        "Hey, Ron, we didn't - we didn't copy your battery manifold - or battery manifold readout."
+      ],
+      "speaker": "Overmyer",
+      "time": "1704636"
+    },
+    {
+      "tokens": [
+        "Cabin Repress valve - I haven't kicked them off.",
+        "I think one of them was closed.",
+        "Okay.",
+        "Tunnel Vent valve should still be off.",
+        "Okay, it's Off."
+      ],
+      "speaker": "Evans",
+      "time": "1704719"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Ron.",
+        "We hear an intervalometer going off every 20 seconds..."
+      ],
+      "speaker": "Overmyer",
+      "time": "1705507"
+    },
+    {
+      "tokens": [
+        "[Laughter] No; I can't figure out what that is."
+      ],
+      "speaker": "Evans",
+      "time": "1705517"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "I'm sure.",
+        "Well, we're going to get a recording of it.",
+        "I mean, we - I am going to listen to the recording when I get a chance and I'll show it to you.",
+        "Because it's been the last 2 days, every 20 seconds, big as life."
+      ],
+      "speaker": "Overmyer",
+      "time": "1705541"
+    },
+    {
+      "tokens": [
+        "[Laughter] Okay.",
+        "Thank you much.",
+        "We'll see you all in the morning then."
+      ],
+      "speaker": "Evans",
+      "time": "1705618"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "1705624"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day8_part1_solo_operations_3_part_2.html"
+}

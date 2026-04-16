@@ -1,0 +1,2547 @@
+{
+  "description": "A10FJ - Day 8, part 36: Homecoming",
+  "transcript": [
+    {
+      "tokens": [
+        "191:27:28It's reported that the Apollo Range Instrumented Aircraft, acronym ARIA, are beginning to take their stations along the ground track of Apollo 10 for relaying radio communications back through to Houston.",
+        "21 minutes now to Entry Interface.",
+        "About 6 minutes to separation of the Service Module.",
+        "Still live on air-to-ground."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "OK, Houston.",
+        "We're calling up Program 61."
+      ],
+      "speaker": "Stafford",
+      "time": "1912936"
+    },
+    {
+      "tokens": [
+        "The crew have previously tried out Program 61 - Entry Preparation, but this time it is being used in earnest."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "Program 61."
+      ],
+      "speaker": "Lousma",
+      "time": "1912940"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "We'd like to verify that the S-band power amp switch is in Low.",
+        "Over."
+      ],
+      "speaker": "Lousma",
+      "time": "1913006"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "It's been in Low."
+      ],
+      "speaker": "Cernan",
+      "time": "1913013"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Lousma",
+      "time": "1913015"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "We'd like to update your landing cue card.",
+        "You pass 90,000 feet [27,432 metres] at 06:26.",
+        "Over."
+      ],
+      "speaker": "Lousma",
+      "time": "1913050"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "1913109"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you."
+      ],
+      "speaker": "Young",
+      "time": "1913110"
+    },
+    {
+      "tokens": [
+        "I guess we have a Go for Pyro Arm here separate here, MSFN."
+      ],
+      "speaker": "Young",
+      "time": "1913116"
+    },
+    {
+      "tokens": [
+        "That's affirmative, 10.",
+        "You are Go for Pyro Arm."
+      ],
+      "speaker": "Lousma",
+      "time": "1913123"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "1913127"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "OK.",
+        "We're showing Sep time."
+      ],
+      "speaker": "Young",
+      "time": "1913250"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "Go ahead."
+      ],
+      "speaker": "Lousma",
+      "time": "1913254"
+    },
+    {
+      "tokens": [
+        "OK.",
+        "We'll go on and separate it about 30 seconds early.",
+        "At 44:30."
+      ],
+      "speaker": "Stafford",
+      "time": "1913300"
+    },
+    {
+      "tokens": [
+        "5, 4, 3, 2, 1."
+      ],
+      "speaker": "Stafford",
+      "time": "1913321"
+    },
+    {
+      "tokens": [
+        "Sep."
+      ],
+      "speaker": "Stafford",
+      "time": "1913325"
+    },
+    {
+      "tokens": [
+        "The CM/SM Sep is initiated by the crew by placing the CM/SM Sep switches (2) to On on panel 2, and then CSM/LM FNL Sep switches (2) to On.",
+        "This commences a sequence which interrupts the electrical power from the SM to the CM, the pyrotechnic charges operate guillotine blades that sever the CM/SM umbilicals and the three tension ties between the CM and SM structures."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At the beginning of this sequence, fuel cell power is automatically tied to the manual coils of the -X SM RCS engines.",
+        "The -X SM RCS engines fire automatically following the spacecraft separation until fuel depletion or the fuel cells are depleted.",
+        "Approximately 2 seconds after the CM/SM separation, the SM+ roll RCS engines are also fired automatically for about 5.5 seconds.",
+        "This will assist in the atmospheric breakup of the SM as it induces a tumbling when it reaches the sensible atmosphere."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "RCS transfer to Command Module."
+      ],
+      "speaker": "Stafford",
+      "time": "1913337"
+    },
+    {
+      "tokens": [
+        "Attitude control is now transferred to the CM RCS following the separation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "I think separation was nominal."
+      ],
+      "speaker": "Young",
+      "time": "1913342"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "We copy."
+      ],
+      "speaker": "Lousma",
+      "time": "1913346"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "191:33:59This is Apollo Control.",
+        "Good separation has been confirmed.",
+        "Apollo 10 just crossing the West Australian Coast and a long track toward the splashdown point, 350 nautical miles [650 km] east of Pago Pago, American Samoa.",
+        "Leaving air-ground live for any transmissions that do take place prior to entry and beginning of black out."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "OK, Houston.",
+        "That was a good Sep."
+      ],
+      "speaker": "Young",
+      "time": "1913502"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "We confirm a good Sep."
+      ],
+      "speaker": "Lousma",
+      "time": "1913512"
+    },
+    {
+      "tokens": [
+        "The pyrotechnic firing was very loud at Command and Service Module separation.",
+        "The Command Module separation impulse was in excess of 0.5g, because the Entry Monitoring System, which had been advertently left in the Delta-V and Normal configuration, started operating.",
+        "The Entry Monitoring System was immediately reset to the next non-exit pattern and was reinitialized."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "What happened there was it had started out EMS, and I wonder how to reinitialize that.",
+        "Do we run all the way through the test pattern?"
+      ],
+      "speaker": "Young",
+      "time": "1913516"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "We'll get an answer for you."
+      ],
+      "speaker": "Lousma",
+      "time": "1913525"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "191:37:29This is Apollo Control.",
+        "Present altitude, 1,385 nautical miles [2,565 km]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "On the EMS situation, best thing to do is to go counterclockwise on your switch back around to test 5, then advance to the next non-exit skip pattern."
+      ],
+      "speaker": "Lousma",
+      "time": "1913755"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "1913811"
+    },
+    {
+      "tokens": [
+        "Reset your range and your V0, and you're ready to go again.",
+        "Over."
+      ],
+      "speaker": "Lousma",
+      "time": "1913812"
+    },
+    {
+      "tokens": [
+        "MCC-H confirm to Young that he can reset the Range numeric display and move the scribe point to the 37K (V0) position on the non-exit scroll and it should operate correctly during entry."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's what I figured."
+      ],
+      "speaker": "Young",
+      "time": "1913815"
+    },
+    {
+      "tokens": [
+        "191:38:31This is Apollo Control..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And it's scribing right now."
+      ],
+      "speaker": "Young",
+      "time": "1913833"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "We copy."
+      ],
+      "speaker": "Lousma",
+      "time": "1913836"
+    },
+    {
+      "tokens": [
+        "191:38:53This is Apollo Control, the discussion has to do with the Entry Monitor System in which a visual display is given to the crew for describing the entry range to go from Entry Interface.",
+        "Apparently, the thing has sorted itself out, certain amount of levity here in the control room as the recovery plot television display shows the Red Baron on station."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is giving Young the VI0inertial velocity from the Entry PAD 36,395 fps [11,093 m/s]."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Following the SM Sep, the Command Module is manoeuvred to the entry attitude in pulse control mode.",
+        "The CM is yawed back 45° to the left."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "191:40:42This is Apollo Control.",
+        "The Red Baron has been replaced now by the Apollo Range Instrumented Aircraft ARIA number 5.",
+        "However, the small sketch of an airplane looks right out on the recovery plot strangely looks like a Sopwith Camel."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "OK, Houston.",
+        "We're approaching the entry attitude."
+      ],
+      "speaker": "Young",
+      "time": "1914108"
+    },
+    {
+      "tokens": [
+        "Roger, 10."
+      ],
+      "speaker": "Lousma",
+      "time": "1914112"
+    },
+    {
+      "tokens": [
+        "Young is now setting the EMS to the Entry function and Normal Mode to prepare it for its role during the entry."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is confirming that both steam evaporators are still functioning correctly, bringing down the temperature of the spacecraft's water/glycol coolant, unlike earlier in the mission.",
+        "The departing vapour from the evaporators is providing enough impulse to yaw the Command Module off the desired entry attitude."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "What we're doing up here in entry attitude is just compensating for a little water boiling off."
+      ],
+      "speaker": "Young",
+      "time": "1914222"
+    },
+    {
+      "tokens": [
+        "At Earth sunset, the final gross check of platform attitudes is made by positioning the horizon on the 31.7 degree line in the right rendezvous window.",
+        "Young is unable to make out the horizon, so the crew recommends that the continual platform drift check, accomplished by tracking the horizon after command and Service Module separation, be deleted because of the impracticality of sighting the night horizon."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, could we have a Mark at 5 minutes to RRT?",
+        "Over."
+      ],
+      "speaker": "Young",
+      "time": "1914300"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Mark.",
+        "5 minutes at RRT."
+      ],
+      "speaker": "Lousma",
+      "time": "1914305"
+    },
+    {
+      "tokens": [
+        "And we're all set up in EMS configuration, ready to go, and I believe it's going to work."
+      ],
+      "speaker": "Young",
+      "time": "1914314"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "Lousma",
+      "time": "1914321"
+    },
+    {
+      "tokens": [
+        "And we're in P63.",
+        "I'm sure you can read it on your DSKY, and R-to-go is decreasing, and VIis increasing.",
+        "Everything looks good.",
+        "Over."
+      ],
+      "speaker": "Stafford",
+      "time": "1914323"
+    },
+    {
+      "tokens": [
+        "R=Range, VI=Inertial velocity."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, 10."
+      ],
+      "speaker": "Lousma",
+      "time": "1914331"
+    },
+    {
+      "tokens": [
+        "The Man Att (Pitch) switch on panel 1, is placed in the Rate CMD position to allow CMC control of the spacecraft pitch attitude.",
+        "Placing the SC Cont switch on panel 1, in the CMC position inhibits any SCS control functions, leaving the CMC in control.",
+        "The CMC Mode switch also on panel 1 is placed in Auto which determines which mode of operation the RCS DAP is in."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10, we missed your Mark at 5 minutes.",
+        "4 minutes and 50 seconds coming up."
+      ],
+      "speaker": "Lousma",
+      "time": "1914359"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Lousma",
+      "time": "1914405"
+    },
+    {
+      "tokens": [
+        "OK."
+      ],
+      "speaker": "Young",
+      "time": "1914407"
+    },
+    {
+      "tokens": [
+        "191:44:19This is Apollo Control.",
+        "Four minutes, 34 seconds to entry; 18 minutes, 34 seconds to splash."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Cabin Press Rel valves (2) on panel 325 are set Boost/Entry until the commencing of the CM RCS fuel dump, to equalize the cabin pressure with the external atmospheric pressure."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "191:45:08This is Apollo Control.",
+        "We're estimating S-Band communications blackout at 18 seconds after Entry Interface which is about 3 minutes, 37 seconds from this time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is interested in the propellant pressures and temperatures for the two CM RCS rings."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "191:45:54This is Apollo Control.",
+        "Velocity now up to 35,317 feet per second [10,764 m/s] climbing about 10 feet [3 metres] each second or so as the display turns over.",
+        "Range to go 23,000 no - as you were.",
+        "Move the decimal point over, 2,292 nautical [miles, 4,245 km]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "Spacecraft and guidance looking real good from here.",
+        "We'll be attempting to contact you again after blackout at 328.",
+        "Over."
+      ],
+      "speaker": "Lousma",
+      "time": "1914620"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You working through an ARIA now?"
+      ],
+      "speaker": "Young",
+      "time": "1914629"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "Not yet.",
+        "We will be then, however."
+      ],
+      "speaker": "Lousma",
+      "time": "1914635"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "OK.",
+        "The guidance is coming in.",
+        "Looks good."
+      ],
+      "speaker": "Young",
+      "time": "1914638"
+    },
+    {
+      "tokens": [
+        "Roger, 10."
+      ],
+      "speaker": "Lousma",
+      "time": "1914645"
+    },
+    {
+      "tokens": [
+        "191:47:32Apollo Control here.",
+        "35,927 feet per second [10,950 m/s], increasing rapidly.",
+        "1,845 nautical [miles, 3,417 km], range to touchdown."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "191:47:56Mark.",
+        "1 minute to Entry Interface."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "One minute, 10.",
+        "You're looking good."
+      ],
+      "speaker": "Lousma",
+      "time": "1914756"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "1914758"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young hasn't got time to take in the view outside, he is keeping a close eye on the controls and displays inside the spacecraft, and is checking the EMS configuration."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "191:49:03Mark, Entry Interface.",
+        "Velocity 36,331 [fps, 11,074 m/s] still increasing; downrange to splash point, 1,315 nautical miles [2,435 km]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Approximately 15 seconds prior to reaching 0.05g, a brilliant white plasma flow outside the spacecraft makes entry a completely \"IFR\" event, and the cabin lights are turned full bright.",
+        "The view is filmed on magazine Jand shows the plasma during the re-entry and the drogue chute deploy.",
+        "As the re-entry is in pre-dawn skies the lighting makes the chute deploy difficult to capture."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "H.264 MP4 video file."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We had S-Band blackout on predicted time; about 17 or 18 seconds after Entry Interface.",
+        "Estimate coming out of the blackout at 3 minutes, 29 seconds after Entry Interface at 400,000 feet [121,920 metres].",
+        "Maximum g loading of the spacecraft and crew will be in the neighborhood of 6.7 gs.",
+        "Drogue parachute deployment now predicted for 8 minutes, 17 seconds Retro Elapsed Time or Entry Elapsed Time in this case, since there has been no retrofire from a lunar return mission.",
+        "All aircraft in the primary recovery area are on station.",
+        "Splashdown will be approximately 25 minutes prior to local daylight in the Princeton prime recovery ship area, which is standing by on the aiming point.",
+        "Likely orbiting around the aiming point rather than right on it."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Deceleration now exceeds 0.05g.",
+        "This point triggers the transition of the CMC to Program 64, Entry-Post 0.05g.",
+        "P64 controls the roll angle, maintains a constant drag level, and controls the initial entry to ensure the spacecraft velocity slows to below supercircular (orbital), guaranteeing it will return to the Earth's surface.",
+        "The entry is targeted nominally for a R-TO-GO at EI."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At 0.1g, spacecraft control was switched from manual to the DAP."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Due to the lower temperature up in the area of the forward hatch, water condensation has built up, and now that the spacecraft is beginning to encounter some deceleration, the water is becoming detached from the hatch and walls around it and raining down on the astronauts in their couches."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The primary guidance system commands full lift-up through the period of peak acceleration (6.8g)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At approximately 5.8g under automatic control, the spacecraft commences a roll to 90 degrees."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At 5.3g, the spacecraft is commanded to a roll attitude of 180 degrees, or lift-down."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Two minutes past Entry Interface.",
+        "About a minute and 29 seconds left in blackout.",
+        "Velocity now 36,363 feet per second [11,083 m/s].",
+        "Apparently that was the last velocity in tracking prior to blackout."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At approximately 2 minutes, 8 seconds after entry, the system-indicated velocity is now showing the spacecraft is subcircular.",
+        "It no longer has sufficient speed to maintain an orbit around Earth and so is committed to reaching Earth's surface."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The CMC has briefly entered Program 65-Entry-Up control.",
+        "This program maintained the guidance towards the splashdown target, whilst the spacecraft followed the initial part of a rising skip trajectory.",
+        "Apollo 10 was on a non-exit trajectory, so remained in P65 only for few seconds.",
+        "Program 67 is entered automatically when the H-Dot (altitude rate) has become negative and the velocity is sufficiently low."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The CMC has transitioned automatically to Program 67-Entry-Final Phase (bypassing P66 as this entry is a non-skip trajectory) as the H-Dot (altitude rate) has become negative and the velocity is sufficiently low.",
+        "The main purpose of P67 continues the guidance towards the splashdown aim point, rolling the CM to aim the lift vector up or down as required to extend or reduce the downrange trajectory.",
+        "It can also achieve a small steer to the left or right.",
+        "The steering is terminated when the spacecraft velocity falls below 1,000 fps or 300 m/s relative to Earth.",
+        "At this point the altitude should be approximately 65,000 feet (19,800 metres)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roll angle."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roll angle."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "191:52:32Should be out of blackout at this time.",
+        "We have a first report that Samoa rescue 1 aircraft, staging out of Hickam Air Force Base, has a visual contact.",
+        "We have a report of visual contact from Air Boss 3 on station near the Princeton."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "When the downrange error decreased to minus 9 miles on the display keyboard, a roll error is indicated on the attitude displays and the autopilot begins correcting for cross range error.",
+        "Cross range corrections continued to be made throughout the remainder of the entry."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "191:53:45It's reported from the Princeton that they on board the prime recovery vessel have visual contact of Apollo 10.",
+        "Apparently that is radar contact rather than visual.",
+        "No confirmation of visual at the present time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "OK, Houston, we're showing 6 miles [11 km] short right now, and we're coming on in.",
+        "Pulling about 4 gs.",
+        "This machine is flying like crazy.",
+        "Boy, it's really great."
+      ],
+      "speaker": "Young",
+      "time": "1915441"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "We copy, and we've got you on TV."
+      ],
+      "speaker": "Lousma",
+      "time": "1915453"
+    },
+    {
+      "tokens": [
+        "[Laughter.] Well I tell you, this thing is beautiful."
+      ],
+      "speaker": "Young",
+      "time": "1915457"
+    },
+    {
+      "tokens": [
+        "It shows a 2 miles [3.7 km] overshoot, 1.7 [nautical miles, 3.1 km], 1.2 [nm, 2.2 km] cross range."
+      ],
+      "speaker": "Stafford",
+      "time": "1915500"
+    },
+    {
+      "tokens": [
+        "And we're pulling about 3½ gs now.",
+        "We're rolling right 60 degrees, and we're practically on top of the target.",
+        "EMS is reading 21 miles [39 km] to go.",
+        "Come down - looks like it's - We're about 150K [feet,45,720 metres] right now."
+      ],
+      "speaker": "Young",
+      "time": "1915504"
+    },
+    {
+      "tokens": [
+        "OK."
+      ],
+      "speaker": "Young",
+      "time": "1915533"
+    },
+    {
+      "tokens": [
+        "Apollo 10.",
+        "If the Princeton's there, we're going to be there shortly."
+      ],
+      "speaker": "Stafford",
+      "time": "1915542"
+    },
+    {
+      "tokens": [
+        "As the spacecraft descends through the 90,000 feet [27,500 metres] level, the pressure within the water evaporator's steam outlet begins to increase very slowly to the maximum indicator value of 0.25 psi.",
+        "This is due to the rising atmospheric pressure.",
+        "Bill Anders on Apollo 8 had suggested that this could be used as a check.",
+        "The estimate of 60,000 feet, based upon the water boiler being at the full increase position at 90,000 feet [27,500 metres] is approximately 15 seconds after the actual 60,000 feet [18,300 metres] mark on the altimeter."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "we're waiting for you."
+      ],
+      "speaker": "Lousma",
+      "time": "1915551"
+    },
+    {
+      "tokens": [
+        "The pyrotechnic charges to jettison the forward heat shield, and deploy the parachutes are now armed."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "You're coming in broken, but we still have you visual.",
+        "Over."
+      ],
+      "speaker": "Lousma",
+      "time": "1915638"
+    },
+    {
+      "tokens": [
+        "The ELS mode switch on panel 1 is placed in the Auto position to allow the ELS to operate automatically during the apex cover jettison, and the drogue and main chute deployment."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The pyrotechnic devices are rearmed at 50,000 feet [15,250 metres] and, after the apex cover has been jettisoned, the drogues deploy automatically.",
+        "During drogue reefing, there are some momentary and moderately violent spacecraft oscillations which will damp out very rapidly when the drogues dereef."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rate Command in all three axes is no longer required as the CM RCS have been switched off."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "OK, we're going through 18,000 [feet, 5,500 metres] right now."
+      ],
+      "speaker": "Young",
+      "time": "1915741"
+    },
+    {
+      "tokens": [
+        "The pressure relief valves were not placed in the entry position until 24,000 feet [7,300 metres].",
+        "Air inflow through the cabin pressure relief valve was satisfactory, since the cabin-pressure indicator showed a normal rise."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "191:57:45It's reported from the prime recovery vessel Princeton that they heard a sonic boom from Apollo 10.",
+        "Samoa Rescue 2 aircraft has S-band contact.",
+        "A lot of speculation as to whether the item in the television picture from the ship is actually the spacecraft or the Service Module."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Now that the spacecraft is in falling freely and no longer flying, and the targeting has finished, the CM RCS are commanded Off using RCS Command switch on panel 2.",
+        "This will prevent the CM RCS operation when the parachutes are deployed and post splashdown.",
+        "The manual CM RCS Command Off is a backup action, as the barometric switch at 24,000 feet [7,300 metres], automatically removes power from the RCS on-off controller."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The VHF Antenna rotary selector switch on panel 3, is placed in the Recovery position, which connects the VHF antenna number 2 with the telecommunications system.",
+        "VHF AM A is set to Simplex using the switch on panel 3 for voice only communications, and the VHF Beacon is switched On to aid location of the CM, using the switch also on panel 3.",
+        "The Postlanding Beacon Light switch on panel 15, is placed in the Low position so that it's flashing rate is slow."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At approximately 8,000 feet [2,400 metres] on the cabin altimeter, both Cabin Pressure Relief valves are closed prior to the RCS purge."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Reaction control propellant was dumped with an audible firing noise.",
+        "All thrusters were fired out completely in an estimated incremental altitude of 2,500 feet [760 metres].",
+        "The Reaction Control purge was initiated and was characterized by a very loud \"swishing\" sound.",
+        "An exhaust plume observed out the right side window was approximately 6 feet long [1.8 metres] and 3 feet [0.9 metres] across at its widest point.",
+        "When the purge was completed, a flame was seen out of the right-hand window, and it progressed to the upper edge of the window.",
+        "The flame persisted for approximately 1 minute and burned out prior to landing.",
+        "The Reaction Control systems were then isolated, and the Cabin Pressure Relief valves were opened.",
+        "There was no noticeable smell of any cabin air contamination as the outside air flowed into the spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The RCS Logic switch on panel 1, is placed in the On position to provide power to the CM Propellant Dump switch."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "191:59:13Recovery aircraft 3 has a visual with the spacecraft on parachutes.",
+        "A lookout on board the Princeton reports sighting the spacecraft on the main parachutes.",
+        "We're still about 25 minutes away from sunrise at the Princeton."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-116."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The X-X shock attenuation struts which support the crew couches have a lockout mechanism that prevent any attenuation of those struts during the nominal mission.",
+        "Once the main parachutes have been deployed, the lockouts are manually released so they can perform their attenuation role at splashdown."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "192:00:14 Photo 1:This is Photo 1.",
+        "All three chutes are deployed normal."
+      ],
+      "speaker": "Commentary",
+      "time": "1920014"
+    },
+    {
+      "tokens": [
+        "192:00:27It's reported from photographic aircraft in the area that all three chutes are deployed, which is quite obvious from the television coming from the prime recovery vessel.",
+        "It's early twilight, early morning dawn at the ship.",
+        "Still enough daylight to see the spacecraft."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "192:00:40 Recovery 2:[Garble] control.",
+        "Say again."
+      ],
+      "speaker": "Commentary",
+      "time": "1920040"
+    },
+    {
+      "tokens": [
+        "192:00:59 Air Boss:Apollo 10, this is Air Boss.",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": "1920059"
+    },
+    {
+      "tokens": [
+        "192:01:04 Air Boss:Roger.",
+        "Reading you loud and clear.",
+        "Say again your position.",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": "1920104"
+    },
+    {
+      "tokens": [
+        "192:01:16 Air Boss:Roger.",
+        "Understand.",
+        "Right on top.",
+        "We have good beacon on you, and we have good chutes on you.",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": "1920116"
+    },
+    {
+      "tokens": [
+        "With the Flood switch on panel 8 in the Postlanding position, provides a single intensity level to the commander's lamp.",
+        "It is switched to this position when DC power is disconnected in the latter part of the descent and post-splashdown."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "192:01:31 Air Boss:Apollo 10, Air Boss.",
+        "Give us a call when passing through 5 [thousand feet, 1,500 metres] and 3,000 [feet, 900 metres].",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": "1920131"
+    },
+    {
+      "tokens": [
+        "Now that the CM RCS has been disabled as they are no longer required, the rotational hand controller direct control is being switched off using the 2 switches on panel 1."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "192:01:40 Air Boss:Air Boss 3 control [garble] first pilot position."
+      ],
+      "speaker": "Commentary",
+      "time": "1920140"
+    },
+    {
+      "tokens": [
+        "192:01:48 Air Boss:3,000 [feet, 900 metres]; Roger.",
+        "Marking it, and I did not get your latitude initially.",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": "1920148"
+    },
+    {
+      "tokens": [
+        "1507 at 16467 [15.07° south, 164.67° west].",
+        "We should be right on top of you if you're down there."
+      ],
+      "speaker": "Stafford",
+      "time": "1920200"
+    },
+    {
+      "tokens": [
+        "Stafford is reading out the present co-ordinates displayed on the DSKY.",
+        "As part of program 67, Verb 16, Noun 67 displays the range to splash and the present latitude and longitude."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "192:02:04 Air Boss:That's affirmative.",
+        "You are - Repeating - 15.07 and 164.67."
+      ],
+      "speaker": "Commentary",
+      "time": "1920204"
+    },
+    {
+      "tokens": [
+        "The CM Propellant Dump switch on panel 1 is placed in the up position soon after the main parachutes have been deployed.",
+        "The remaining propellant is then burned off through 10 of the 12 RCS engines.",
+        "The plus-Pitch engines are excluded as these are too close to the parachute lines.",
+        "Once the propellant dump is complete, the CM Propellant Purge switch also on panel 1 is placed in the up position, to deplete the helium source pressure and purge the CM RCS system.",
+        "The purge takes approximately 14 seconds to complete.",
+        "These operations make the CM RCS safe for splashdown and recovery.",
+        "At this time in the descent both of these functions should have been completed."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "192:02:18 Photo 1:This is Photo 1.",
+        "I'm about level with you, Apollo 10.",
+        "I'm following you down."
+      ],
+      "speaker": "Commentary",
+      "time": "1920218"
+    },
+    {
+      "tokens": [
+        "Roger, this is Apollo 10.",
+        "[Garble].",
+        "We are in great shape.",
+        "Over."
+      ],
+      "speaker": "Stafford",
+      "time": "1920222"
+    },
+    {
+      "tokens": [
+        "192:02:30 Photo 1:Roger.",
+        "[Garble]."
+      ],
+      "speaker": "Commentary",
+      "time": "1920230"
+    },
+    {
+      "tokens": [
+        "192:02:31 Air Boss:This is Air Boss, and we have two helos in your immediate vicinity.",
+        "We're closing all other forces.",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": "1920231"
+    },
+    {
+      "tokens": [
+        "192:02:49 Air Boss:Airborne aircraft, this is Air Boss.",
+        "Position from Princeton..."
+      ],
+      "speaker": "Commentary",
+      "time": "1920249"
+    },
+    {
+      "tokens": [
+        "...Let's..."
+      ],
+      "speaker": "Young",
+      "time": "1920255"
+    },
+    {
+      "tokens": [
+        "192:02:55 Air Boss:350 [garble]..."
+      ],
+      "speaker": "Commentary",
+      "time": "1920255"
+    },
+    {
+      "tokens": [
+        "192:02:57 Air Boss:...at 4 miles [7.5 km], converge."
+      ],
+      "speaker": "Commentary",
+      "time": "1920257"
+    },
+    {
+      "tokens": [
+        "The 2 Main Bus Tie switches on panel 5, are placed in the Off position, removing battery bus A from the DC main bus A, battery bus C from the DC main bus B, battery bus B from DC main bus B, and battery bus C from DC main bus A."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "192:03:25 Air Boss:Splashdown."
+      ],
+      "speaker": "Commentary",
+      "time": "1920325"
+    },
+    {
+      "tokens": [
+        "192:03:27 Air Boss:Hello.",
+        "Air Boss.",
+        "Splashdown."
+      ],
+      "speaker": "Commentary",
+      "time": "1920327"
+    },
+    {
+      "tokens": [
+        "192:03:33 Recovery 3:This is Recovery 3.",
+        "Splashdown was Stable 1.",
+        "Repeat, Stable 1."
+      ],
+      "speaker": "Commentary",
+      "time": "1920333"
+    },
+    {
+      "tokens": [
+        "The Command Module is suspended at an angle of 27.5° to the horizontal under the main parachutes, with the main hatch upper most.",
+        "This allows the spacecraft to enter the water on the side opposite the main hatch, where crushable ribs are installed to attenuate some of the impact forces.",
+        "As the spacecraft enters the water, depending on the sea state that is encountered at splashdown, the Command Module can be tipped over to a apex down attitude, which is known as \"Stable 2\", or as in this case, remain upright, floating with the heat shield base down, apex up, which is known as \"Stable 1\"."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The main parachute release circuit breakers on panel 229, were closed by Cernan and the release switch on panel 2, was activated immediately following a call from Cernan, by Stafford, and the main parachutes fell into the water near the spacecraft.",
+        "The chutes had been released before they hit the water."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10 splashdown and recovery showing film coverage of the final descent, recovery and celebrations on the USS Princeton."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "H.264 MP4 video file."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And we had splashdown at 192 hours, 3 minutes, 25 seconds approximately.",
+        "The spacecraft is in stable 1, that is apex up, about 4 miles [7 km] estimated from the Princeton."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss, try to engage the main chutes."
+      ],
+      "speaker": "Recovery",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:Photo 1, wilco."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Following splashdown, Stafford left his couch and moved to the Lower Equipment Bay, which helped stabilize the Command Module as it floated awaiting recovery."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:Air Boss, 3, we have 2 drogue chutes in sight.",
+        "Hello, Boss 3, the drogue chutes are from you, 0 [garble] estimating at 7 miles [13 km].",
+        "They are corning down at about 7,000 feet [2,130 metres] now."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Recovery 3, how do you read?"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "20365 [garble]."
+      ],
+      "speaker": "Recovery",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Latest estimate now 3 miles [5 km] from the Princeton."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:[Garble] Recovery 3, the main chutes do not appear to have detached.",
+        "There are still shroud lines over the Command Module.",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:Roger, that's because they fell back [garble].",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Princeton, this is Apollo 10, we have you, do you have us?",
+        "Over."
+      ],
+      "speaker": "Stafford",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "USS Princeton:[Garble]."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Princeton, Air Boss.",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "USS Princeton:We have the [garble] aircraft in sight."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Roger.",
+        "Apollo 10 is calling.",
+        "They have you in sight.",
+        "Do you have them in sight?",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:This is Recovery 3 and the Command Module is 090."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Roger."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "USS Princeton:Apollo 10, this is Princeton Control.",
+        "We have you in sight."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Control from Air Boss, the drogue chutes now are at 030, estimating [garble] miles from you, and approximately 4,000 [feet, 1,200 metres] slowly drifting down."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery, this is Apollo 10.",
+        "This looks like a great chance to get a few parachutes..."
+      ],
+      "speaker": "Young",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Apollo 10, Air Boss concurs and [garble]."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "OK.",
+        "Its a mighty nice sea state you guys got here today."
+      ],
+      "speaker": "Young",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:That's affirmative and welcome back to Earth on behalf of prime recovery ship, Princeton.",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You don't know how glad we are to be here.",
+        "[Garble]."
+      ],
+      "speaker": "SC",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Photo 1 move off please."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:Princeton, this is Recovery 3.",
+        "The Command Module is pitching up 10 degrees."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Air Boss 3, we'll mark both drogue chutes with a short burner."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:This is Air Boss 3, Roger, Air Boss 1's strangle and Air Boss 2's strangle, I'm at activating now."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "USS Princeton:We lost your signal."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Air Boss, 3 has relay activated, primary lead, do you read, over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "USS Princeton:[Garble] 060.",
+        "16 miles [30 km].",
+        "[Garble]."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:3, tally-ho the drogue chutes..."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Recovery 3, Air Boss, roger.",
+        "We're going to mark the long burner coming back over down."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:This is Recovery 3.",
+        "Apex cover is floating [garble], 10 miles [19 km] from the Command Module."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:This is Photo 1.",
+        "We've engaged one of the chutes and the raft is deployed.",
+        "The second one, the raft did not inflate when we dropped it out [garble] making our approach on the third one."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Are you copying all, or do you desire me to relay.",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "USS Princeton:We copied all of it."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Roger, and Bridge, from Boss, are you reading?",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "USS Princeton:[Garble]."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "Recovery Helicopter Number 3 is now presently on approach to drop swimmers.",
+        "The swim team, first one to go out in the jumping order will be Boatswain Mate First Class J.",
+        "L.",
+        "Boisvert of Imperial Beach, California who was also, involved in Apollo 6 recovery.",
+        "Second man out will be Seaman Michael G.",
+        "Mallory, of Alderwood Manor, Washington.",
+        "Number 3 man out will be Lieutenant Junior Grade Wesley T.",
+        "Chesser of Arlington, Virginia.",
+        "We'll rejoin what readable conversation there is between Air Boss and the crew of Apollo 10 through the carrier."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 2:Recovery 2 [garble] 5003."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:This is Air Boss, Roger.",
+        "First aircraft in the area will be backup.",
+        "The craft will get a mark on these drogue chutes and get them located."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:And this is Recovery 3.",
+        "The apex cover is marked for the short burner."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "OK, rescue, this is Apollo 10.",
+        "Take your time and take it easy.",
+        "We've got a good sea state and we want you all to be careful."
+      ],
+      "speaker": "Young",
+      "time": "1921144"
+    },
+    {
+      "tokens": [
+        "The cabin environment was very comfortable after landing; consequently, the postlanding ventilation system was not activated.",
+        "Appropriate circuit breakers were opened and switches turned off, and the spacecraft was powered down."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:Recovery 3, Roger."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Control, Air Boss, the drogue chutes have sunk, [garble] to look for them [garble]."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 2:This is Recovery 2 on station at this time, taking up the backup position.",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:This is Air Boss, Roger."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Photo 1.",
+        "We've engaged in the water the two chutes, there are two rafts are in the water, you should have two good chutes."
+      ],
+      "speaker": "Recovery",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Air Boss, Roger [garble] in sight to Recovery 3 is ready, over"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Recovery 3, commence when you are ready, over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:Recovery 3, wilco."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:Photo 1, this is Recovery 3, you have the area, you have the area."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:Photo 1, roger.",
+        "Break [garble]."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:Recovery 3 is commencing the pass with the first swimmer."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3 moving into position for dropping the first swimmer; Recovery 3 is piloted by Commander Charles B.",
+        "Smiley, of Chula Vista, California.",
+        "Co-Pilot is Lt.",
+        "Jay Scott Walker of Long Beach, California, who was also involved in the Apollo 8 recovery operation."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:First swimmer is in the water with the sea anchor approximately 20 or 30 feet [6 to 9 metres] from the Command Module, and approaching at this time; over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "First swimmer has jumped into the water."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:[Garble] 1,500 yards, make a search for the drogue chutes area, and snag if possible."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 1:Recovery 1, wilco."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Affirmative.",
+        "Come on overhead at Angels 2."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:This is Photo 1.",
+        "The swimmer is at the module at this time and is attaching the sea anchor."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss 3:Boss, 3, Boss..."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Go ahead 3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss 3:Overhead at the present time."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Recovery 3, Roger.",
+        "Anchor overhead at Angels 2 [garble] over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1, the swimmer has attached the sea anchor at this time and is attempting to free the shroud lines from over the Command Module."
+      ],
+      "speaker": "Recovery",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:Apollo 10 this is recovery 3.",
+        "The medical officer requests that you report on your condition.",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Would you tell the medical officer to just relax, because we are in great shape.",
+        "Over."
+      ],
+      "speaker": "Stafford",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:This is Recovery 3.",
+        "Roger.",
+        "Out."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Tell the medical officer, have aspirin, and relax."
+      ],
+      "speaker": "Stafford",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:Recovery 3, wilco."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "...super great, we feel as good as when we left the Cape 8 days ago, and were just here relaxing, over."
+      ],
+      "speaker": "Stafford",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:Recovery 3, I have a thumbs up from the swimmer, we're making a second pass to deploy 2 swimmers."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:Photo 1 picking up the [garble], Recovery 3 is approaching the Command Module..."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:[Garble] 2 swimmers and the sea anchor in the water at this time.",
+        "Have a thumbs up from the swimmer.",
+        "Have three swimmers in sight, and they are good.",
+        "Photo 1, the two swimmers are taking the collar towards the module at this time."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Princeton bridge, Air Boss, do you read, over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control; we had confirmation that all three swimmers are in the water."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Air Boss 1 to Boss 3.",
+        "Request you activate relay."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss 3:Boss, wilco."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:Photo 1, the swimmers have a [garble] Command Module at this time, and are commencing its installation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cape Comm tech:ARIA 5, Cape Comm tech on Simplex."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "ARIA 5:Cape Comm tech, ARIA 5, MC.",
+        "This is ARIA 5; we are using VHF at this time PAC net is unusable."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control; the 3 swimmers in the water presently are attaching the flotation collar underneath the Command Module."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Garble] bags."
+      ],
+      "speaker": "SC",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Roger, Apollo 10, you copy control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "USS Princeton:They will not inflate their bags, once they get the collar inflated."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:Photo 1, the collar is half way around."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Recovery 1; Air Boss.",
+        "No joy on the drogue, return..."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 1:Recovery 1, wilco."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flotation of the collar now approximately half way around the spacecraft."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:Photo 1, the collar installation is all the way around at this time and the swimmers are connecting the two ends."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello Recovery 3; Apollo 10."
+      ],
+      "speaker": "Stafford",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:Apollo 10, Recovery 3, go ahead."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger; we told you we'd be right on spot.",
+        "How far did we take you off the spot?",
+        "Over."
+      ],
+      "speaker": "Stafford",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:This is Recovery 3.",
+        "Be advised the captain says you win the bet, but it was a close contest.",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "OK.",
+        "Tell him thanks a lot for being here.",
+        "over."
+      ],
+      "speaker": "Stafford",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:Roger.",
+        "Will pass.",
+        "Princeton, you copy?",
+        "This is Recovery 3 relaying from Apollo 10.",
+        "He says thanks for being here.",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Princeton reported now 2,000 yards (1,830 metres] away from the spacecraft and making its approach.",
+        "Flotation collar now being inflated."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:Flotation collar is attached and inflated."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Inflation of the flotation collar complete."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:Photo 1 the swimmers are on the collar at this time."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:Air Boss we have [garble] please do not come too close to the module on your pass.",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Three swimmers are now sitting on the collar, that flotation collar that's supporting the Command Module.",
+        "The landing platform helicopter Princeton, carrier Princeton, affectionately known by its crew as \"Sweet Pea\" is skippered by Captain Carl M.",
+        "Cruse of Woodville, Texas, who coincidentally is a distant cousin of Orange Team Flight Director Pete Frank.",
+        "To go back and review splash time; 192 hours, 3 minutes, 25 seconds."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Control, Air Boss, the [garble] to the south of the module, are marking a chute, over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:The swimmers have the raft at the module at this time and are inflating it and attaching the securing lines."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:Photo 1, the capsule raft is inflated and the swimmers are securing at this time."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:[Garble] riding very steadily, the flotation collar is inflated and good and the raft is inflated and in good shape, the swimmers are continuing to secure the raft secured and the swimmers are opening the hatch.",
+        "The thumbs up from the swimmer, the astronauts are opening [garble]."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The hatch was opened against a slightly negative pressure."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We've had confirmation from the recovery vessel Princeton that the Command Module hatch has been opened and the Apollo 10 crew egress is likely to take place as they climb out onto the raft and await pickup by the recovery helicopter."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:[Garble] is open."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "192:29:24Recovery vessel Princeton now estimates 1,100 yards (1,000 metres] from the ship to where the Command Module is floating."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:They put a man in the water to secure the raft however is right between the ship and the Command Module."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "USS Princeton:Roger, go ahead deploy swimmers."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:The astronaut is in the hatch and on the flotation collar.",
+        "He's now in the raft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "One crewman of Apollo 10 is out on the raft as reported from the ship, unknown at this time which one it is."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "John Young is the first crewman to egress the Command Module."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:The second astronaut is out of the Command Module and is in the raft at this time."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Tom Stafford is the second crewman to egress the Command Module."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:All three swimmers are in the raft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It's reported that all three crewmen are now in the raft awaiting pickup by the recovery helicopter."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:[Garble] is secured..."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:We're getting the signal from the swimmers to commence the pickup operation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Swim 3:Swim 3 is commencing approach."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Helicopters now moving into position to lower the net for picking up the crew."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:[Garble] 3 is approaching the module, the rescue net is almost in the water at this time approaching the raft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The device lowered from the helicopter is known as a Billy Pugh net."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:[Garble] in the raft.",
+        "The first astronaut is in the net."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Here in Mission Control the room is getting rather crowded as people from the back rooms and off-duty flight controllers move in to watch the recovery operations on the 10 by 10 television projector which is showing the commercial TV from the prime recovery vessel on the front screen of Mission Control Center.",
+        "There goes the first astronaut up into the helicopter in the Billy Pugh net."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:[Garble] half way up.",
+        "Astronaut is at the hatch of Recovery 3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photo 1:Recovery 3 is commencing his approach for the second astronaut."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "One crewman aboard, second one will be picked up momentarily as the helicopter lowers the net for the second pickup."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rescue 1:Air Boss, this is Rescue 1 on 296.8.",
+        "You copy?"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Samoa Rescue, this is Air Boss, working with Princeton.",
+        "Roger, I copy, over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rescue 1:Roger, Roger."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Recovery 3 is in his approach for the second astronaut."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:at this time, and the net is going in to the raft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Astronaut is in the net.",
+        "He's clear of the raft.",
+        "Astronaut is halfway up."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Second crewman being hauled up now in the Billy Pugh net toward the Recovery 3 helicopter."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:Astronaut is aboard."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Recovery 3 is making his third approach for the third astronaut.",
+        "Operation is normal."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Recovery 3 is at the raft.",
+        "The net is in the raft at this time.",
+        "The third astronaut is climbing aboard."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Third and last crewman is now being hoisted up into the helicopter."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:[Garble] at the hatch.",
+        "The third astronaut is aboard Recovery 3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Following the recovery of the three crewmen, the recovery helicopter ferried them to the deck of the USS Princeton, the prime recovery vessel.",
+        "Here they were greeted by the commanding officer Capt.",
+        "Carl Cruise and his crew.",
+        "The crew said a few words, thanking the crew from their prompt and professional recovery, before descending to the quarters, where a long awaited shower for each of them, helped to remove the insulation they have been irritated by since it blew out from the forward hatch at the time of the LM pressurization."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:Tower, this is Recovery 3.",
+        "[Garble]."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Recovery 3.",
+        "Princeton at 7 knots [3.6 m/s]"
+      ],
+      "speaker": "Tower",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 3:This is Recovery 3, Roger, out."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Recovery 2, Air Boss, go ahead, move in the pass, deliver the [garble]."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Recovery 2:Recovery 2, wilco."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Air Boss:Control, Air Boss, do we know if the [garble] pick up that chute or not?"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Control here [garble]."
+      ],
+      "speaker": "Control",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "A few moments ago Manned Spacecraft Center Flight Operations Director Chris Kraft shouted across the control room to Rear Admiral Fred E.",
+        "Bakutis, who is commander of Manned Spacecraft Recovery Force, Pacific, Carrier Task Force 130 his congratulations for a job well done in the Princeton recovery area.",
+        "Recovery Aircraft number 3 now approaching the Princeton."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Controllers here in Mission Control gathering ever more tightly here, crowding around looking at the large 10 by 10 television projector at the front of the Mission Control Center as the helicopter lands on the deck of the Princeton awaiting the crew stepping out of the chopper onto the carrier.",
+        "On deck at 41 minutes past - 31 minutes past the hour.",
+        "I think the boxes of cigars are being broken out here in Mission Control as the helicopter touches down on deck."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "NASA Administrator Thomas.",
+        "O.",
+        "Paine here in the Control Center, as is Manned Spacecraft Center Director Dr.",
+        "Robert Gilruth.",
+        "Almost elbow to elbow in here.",
+        "Cigars are beginning to light up all around the room.",
+        "[Applause onboard the recovery ship.]"
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Great deal of applause here in Mission Control as the crew steps out of the helicopter; control room is elbow to elbow, from door to door.",
+        "Cigars have been passed around, I have no estimate on boxes of cigars.",
+        "On the center screen, 10 by 20 scribing projector, we have a large American flag, 20 feet wide - next to that is the Apollo 10 crew patch on a 10 by 10 projector.",
+        "Here in Mission Control, they just hung the Apollo 10 patch along with the rest of the manned Apollo mission patches, up next to the ceiling, along one sidewall; there's a large number of American flags on all the consoles, lot of cigar smoke drifting up, everyone is waving their flag for the benefit of commercial TV.",
+        "Quite noisy in here - now impossible to hear the communication circuits."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "This Control Center I doubt could hold more than about 3 more people, pandemonium personified; cigars, cameras, flags, people, lot of exhilaration, exuberance here, hand shaking, congratulations going in all directions, various people among the Department of Defense, and the National Aeronautics and Space Administration, after a very successful lunar mission, a predecessor to lunar landing in Apollo 11.",
+        "At 192 hours, 49 minutes Ground Elapsed Time; this is Apollo Control, signing off."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew can be seen in their whites, but in correspondence between the author and Lance Daugherty, who served on the USS Princeton at the time of the Apollo 10 recovery as a Boiler Technician 2nd Class (BT-2), it was pointed out during normal activities, the crew would be wearing their standard blue work dungarees.",
+        "This was obviously a special occasion."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Further in the correspondence with Lance Daugherty, he mentioned that once the crew had left for American Samoa, the USS Princeton left the prime recovery area along with the CM heading for Hawaii, arriving at Ford Island on 31 May 1969, where the CM was offloaded.",
+        "The CM was then flown to Long Beach, California arriving on 4 June 1969."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This concludes the Apollo 10 Flight Journal."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day9_part36_homecoming.html"
+}

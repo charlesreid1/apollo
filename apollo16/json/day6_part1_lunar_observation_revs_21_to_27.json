@@ -1,0 +1,4467 @@
+{
+  "description": "Apollo 16 Flight Journal - Day 6, Part 1: Lunar Observation, Revs 23 to 27",
+  "transcript": [
+    {
+      "tokens": [
+        "Lunar Rev 23 Begins at 117:33."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "As Day 6 starts, Ken Mattingly is being woken up about two hours later than his colleagues in the Lunar Module.",
+        "John Young and Charlie Duke will conduct the first EVA on the first full day of their stay on the Moon.",
+        "For the next few hours, the primary focus of press and public interest is on the surface activity; there is no significant Public Affairs Officer commentary until 126 hours, 21 minutes GET, which is after the end of this Chapter."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Good morning, Casper.",
+        "Up and at them."
+      ],
+      "speaker": "Hartsfield",
+      "time": "117_53_30"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "Are you there this morning?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1175515"
+    },
+    {
+      "tokens": [
+        "Good morning, Casper.",
+        "How are you feeling this morning?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1175519"
+    },
+    {
+      "tokens": [
+        "Swinging."
+      ],
+      "speaker": "Mattingly",
+      "time": "1175525"
+    },
+    {
+      "tokens": [
+        "You get a good night's rest?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1175529"
+    },
+    {
+      "tokens": [
+        "Sure did.",
+        "That's the best sleep I've had since I've been in here."
+      ],
+      "speaker": "Mattingly",
+      "time": "1175534"
+    },
+    {
+      "tokens": [
+        "Hey, that sounds great.",
+        "Whenever you're ready to get a few things done before your eating period, let me know."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1175538"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "If you get some things for me to copy, I'll get started on that.",
+        "Then we can catch up on the crew status when we get a chance."
+      ],
+      "speaker": "Mattingly",
+      "time": "1175549"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Before we get started, Ken, could you terminate the Bat A charge?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1175559"
+    },
+    {
+      "tokens": [
+        "No sooner said than done."
+      ],
+      "speaker": "Mattingly",
+      "time": "1175610"
+    },
+    {
+      "tokens": [
+        "Okay, Ken, how about let's starting with the Flight Plan changes for a couple of revs here and get that out of the way?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1175633"
+    },
+    {
+      "tokens": [
+        "Say, just a second.",
+        "Let me check the test meter."
+      ],
+      "speaker": "Mattingly",
+      "time": "1175652"
+    },
+    {
+      "tokens": [
+        "Okay, the battery compartment is sitting right at 1.5 volts.",
+        "So, I guess the next time we go to do a dump and stuff, it wouldn't hurt to vent that, too."
+      ],
+      "speaker": "Mattingly",
+      "time": "1175708"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1175719"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let's go."
+      ],
+      "speaker": "Mattingly",
+      "time": "1175735"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The - the first item is right here at the wakeup, 118 hours.",
+        "We have already terminated the bat charge.",
+        "We want to - we don't need to write all this in.",
+        "I'll just tell you what we want to get from you is a film status report, which we didn't pick up last night.",
+        "And, a little bit later here, we want to up-link the lift-off time.",
+        "The first item really comes at 118:15 and there we want to put, \"Sync mission timer to CMC clock.\" And that is a Verb 5 Noun 1 Enter, 1706 Enter.",
+        "And then Tephemverification by MSFN.",
+        "Copy on MSFN cue.",
+        "I guess you're familiar with that procedure, aren't you?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1175737"
+    },
+    {
+      "tokens": [
+        "Yes, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "1175830"
+    },
+    {
+      "tokens": [
+        "Okay, and they got a note here where we copy out three registers at the time - at the proper time.",
+        "Okay, the next item is 118:55 - delete the charge Battery B."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1175832"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Battery charge B charge is deleted."
+      ],
+      "speaker": "Mattingly",
+      "time": "1175852"
+    },
+    {
+      "tokens": [
+        "Okay, at - stand by a minute, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1175906"
+    },
+    {
+      "tokens": [
+        "Okay, Ken, that should get you through the next couple of revs.",
+        "We are just gonna follow the Flight Plan.",
+        "The - how about now let's set up our cryo configuration.",
+        "We would like to verify the - that we're using the 100-volt heaters on O2.",
+        "That's on Panel 226, I believe."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1175921"
+    },
+    {
+      "tokens": [
+        "Okay, that's verified."
+      ],
+      "speaker": "Mattingly",
+      "time": "1175954"
+    },
+    {
+      "tokens": [
+        "Okay, and back on panel 2, we want O2Heaters 1 and 2, Auto, and 3, Off."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1175959"
+    },
+    {
+      "tokens": [
+        "That's verified."
+      ],
+      "speaker": "Mattingly",
+      "time": "1180011"
+    },
+    {
+      "tokens": [
+        "H2Heaters 1 and 2, Off."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1180012"
+    },
+    {
+      "tokens": [
+        "Okay, H2Heaters 1 and 2, Off."
+      ],
+      "speaker": "Mattingly",
+      "time": "1180022"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And H2fans, 1 and 2, Off, and 3, Auto."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1180026"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Fans in Tank 3 are Auto."
+      ],
+      "speaker": "Mattingly",
+      "time": "1180037"
+    },
+    {
+      "tokens": [
+        "Okay, Ken, we got a message that says, \"Do not vent the battery compartment.\""
+      ],
+      "speaker": "Hartsfield",
+      "time": "1180053"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I won't do that."
+      ],
+      "speaker": "Mattingly",
+      "time": "1180102"
+    },
+    {
+      "tokens": [
+        "Okay, the next item - We are wondering if you got the screens on the suit hoses.",
+        "Those screens are normally stored in the PGA bags during launch and we don't know whether you ever got those on or not.",
+        "If you didn't, you can put those on and get increased circulation in the cockpit, there."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1180106"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "No, we sure didn't.",
+        "I plugged up the inlet side so that it wouldn't get dirt in them and then he put the screens on.",
+        "I'll - I'll do that."
+      ],
+      "speaker": "Mattingly",
+      "time": "1180130"
+    },
+    {
+      "tokens": [
+        "Okay, just make a note to yourself there to get that done.",
+        "Okay, I'll tell you a little bit about SIM Bay status here.",
+        "Mapping camera is working fine; no anomalies.",
+        "The only problem we had was that retract.",
+        "And our plan on that is that we are going to leave the mapping camera out except when we are doing coupled RCS.",
+        "The laser altimeter has fired 663 times since launch.",
+        "But it is starting to miss now about 20 percent of the time on the altitudes.",
+        "Pan camera's working fine; no anomalies.",
+        "We've got a margin of 58 frames.",
+        "I forgot to give you margins on the mapping camera.",
+        "We're 452 frames ahead there.",
+        "Mass spec is performing good.",
+        "And the extend/retract performance is good except that the boom is hanging up near full or retraction.",
+        "You are aware of that.",
+        "However, the boom has been verified safe for SPS burns.",
+        "The gamma ray is getting good data.",
+        "The gain is stable and has excellent resolution.",
+        "Boom performance is nominal.",
+        "X-ray and alpha particles are both good."
+      ],
+      "speaker": "Hartsfield",
+      "time": "118_01_41"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Have they seen anything unusual on any of their data yet?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1180307"
+    },
+    {
+      "tokens": [
+        "That's negative, Ken.",
+        "And, if you will give us Accept, we'll get on with your state vector updates.",
+        "Stand by - That's clock update."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1180313"
+    },
+    {
+      "tokens": [
+        "You got them."
+      ],
+      "speaker": "Mattingly",
+      "time": "1180323"
+    },
+    {
+      "tokens": [
+        "And, for your information on planning, we're not going to reschedule any extra mapping camera or pan camera passes today to make up for what we missed yesterday.",
+        "We're just going to go with the Flight Plan."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1180340"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1180355"
+    },
+    {
+      "tokens": [
+        "And - in regard to the booms, we are gonna do - follow the nominal extension and retractions for the mass spec, except we are going to try to get the retractions done during AOS, so we can watch it."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1180358"
+    },
+    {
+      "tokens": [
+        "Okay, that sounds good, and - was the mapping camera retract time really as long as I thought it was?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1180419"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1180433"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Ken.",
+        "They got 03:15 on their data down here."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1180441"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1180449"
+    },
+    {
+      "tokens": [
+        "And, in regard to your EKG, sometime when you get a chance here, we want you to service the - the leads there.",
+        "Want you to doff your harness, replace the sponges and tape, and don it again."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1180453"
+    },
+    {
+      "tokens": [
+        "Okay, that's about - that's about a 20-minute job."
+      ],
+      "speaker": "Mattingly",
+      "time": "1180509"
+    },
+    {
+      "tokens": [
+        "Just whenever you can work it in.",
+        "No real rush there..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1180514"
+    },
+    {
+      "tokens": [
+        "[Garble] piecemeal, if I get a chance."
+      ],
+      "speaker": "Mattingly",
+      "time": "1180517"
+    },
+    {
+      "tokens": [
+        "And, Ken, consumables status looks just about like it was when you went to bed last night.",
+        "Nothing really to report there.",
+        "And I guess, we can go ahead and start on your post-sleep checklist and we'll be standing by for your crew status report and SIM status report."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1180550"
+    },
+    {
+      "tokens": [
+        "Okay, I'll have that for you in just a minute."
+      ],
+      "speaker": "Mattingly",
+      "time": "1180613"
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "I am ready for our little crew status update.",
+        "Then, - let's see.",
+        "You want me to take the Mass Spec, Ion Source, to Standby now?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1180917"
+    },
+    {
+      "tokens": [
+        "Roger, Ken.",
+        "Go ahead."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1180929"
+    },
+    {
+      "tokens": [
+        "Okay, it's in Standby.",
+        "I'll get - Pan Camera Mode is in Standby and the Power is coming On -"
+      ],
+      "speaker": "Mattingly",
+      "time": "1180939"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Mattingly",
+      "time": "1180947"
+    },
+    {
+      "tokens": [
+        "Barber pole, back to gray.",
+        "Okay, ready for a little crew status."
+      ],
+      "speaker": "Mattingly",
+      "time": "1180948"
+    },
+    {
+      "tokens": [
+        "Roger; go ahead."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1180958"
+    },
+    {
+      "tokens": [
+        "Okay, Bravo 1, 15048; Bravo 3, 6-1/2 - the best yet; Bravo 4, none.",
+        "On the menu side, the happy gourmet says that meal A for Mattingly: was a large orange juice with potassium.",
+        "Meal B was - and then breakfast, a chocolate bar, sugar cookies, and another citrus beverage with potassium.",
+        "Meal C - chicken and rice, two orange drinks, fruit cocktail, pineapple fruitcake.",
+        "I got - I guess yesterday morning - for the Commander, you can delete the peaches, you can delete the grits on the LMP.",
+        "You can delete the peaches, you can delete the eggs, and you can add an extra orange pineapple with potassium."
+      ],
+      "speaker": "Mattingly",
+      "time": "1181007"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "We got all that."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1181149"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "You're cleared for Pan Camera Power, Off.",
+        "The lens is tucked."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1181414"
+    },
+    {
+      "tokens": [
+        "Okay, I'll get that in just a second."
+      ],
+      "speaker": "Mattingly",
+      "time": "1181427"
+    },
+    {
+      "tokens": [
+        "Pan Camera Power is Off."
+      ],
+      "speaker": "Mattingly",
+      "time": "1181536"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1181538"
+    },
+    {
+      "tokens": [
+        "And, Ken.",
+        "We are up - up-linking the state vector to you now."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1181553"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1181600"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "The computer is yours."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1181845"
+    },
+    {
+      "tokens": [
+        "Okay, thank you, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "1181851"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "Whenever you get a chance, we can take the Gamma Ray Shield, Off and the Mass Spec Ion Source, On."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1182100"
+    },
+    {
+      "tokens": [
+        "Mass Spec Ion Source is On; the Gamma Ray Shield is Off; Shield is Off."
+      ],
+      "speaker": "Mattingly",
+      "time": "1182109"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1182118"
+    },
+    {
+      "tokens": [
+        "Ken, no need to acknowledge, but give us a call when you get ready to sync your mission timer."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1182231"
+    },
+    {
+      "tokens": [
+        "Okay, I'm trying to catch this photograph of Davy, and I'm almost over it now."
+      ],
+      "speaker": "Mattingly",
+      "time": "1182238"
+    },
+    {
+      "tokens": [
+        "It looks to me like I'm not going to be able to get it because the terminator isn't quite far enough over this time.",
+        "I guess we're far enough off on our basic here."
+      ],
+      "speaker": "Mattingly",
+      "time": "1182323"
+    },
+    {
+      "tokens": [
+        "Okay, you say Davy hadn't moved out into the light, yet?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1182332"
+    },
+    {
+      "tokens": [
+        "No, the terminator is lying just to the west of Ptolemaeus.",
+        "I can see the highlands and I think I see probably the first crater chain - first of the craters in the chain.",
+        "And, in fact, that may be Davy G.",
+        "But the rest of it is still in the shadow."
+      ],
+      "speaker": "Mattingly",
+      "time": "1182340"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1182402"
+    },
+    {
+      "tokens": [
+        "I guess I will have to let that one go today.",
+        "Okays well, let's get back to where you were."
+      ],
+      "speaker": "Mattingly",
+      "time": "1182403"
+    },
+    {
+      "tokens": [
+        "Yeah, what's happening here, Hank.",
+        "It looks like we are a little bit early, but it still looks like those times would have been - these times probably weren't gonna quite hack it anyhow."
+      ],
+      "speaker": "Mattingly",
+      "time": "1182443"
+    },
+    {
+      "tokens": [
+        "I am a little bit puzzled by this, too, Ken.",
+        "That should have been good."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1182455"
+    },
+    {
+      "tokens": [
+        "Okay, and I am ready.",
+        "Okay, let's see.",
+        "We need to catch up on Tephem, right?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1182457"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1182508"
+    },
+    {
+      "tokens": [
+        "Okay, that's what I show on 1706."
+      ],
+      "speaker": "Mattingly",
+      "time": "1182521"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "We got the numbers.",
+        "It looks good."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1182533"
+    },
+    {
+      "tokens": [
+        "Okay, and I copied them down.",
+        "Well, we can sync the mission timers to that, huh?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1182550"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1182600"
+    },
+    {
+      "tokens": [
+        "Ken, in regard to that Davy thing - I was just talking to Spence and he says that the - that was the correct time and that - that - where they call officially the terminator.",
+        "And the photo setting should have worked.",
+        "But it sounds like from what you said, it may have been a little too dark."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1182905"
+    },
+    {
+      "tokens": [
+        "(Laughter) There's nothing but hard shadows down there where Davy is.",
+        "Maybe - maybe the rim of Ptolemaeus there's - and Alphonsus, and that area is a little higher than we calculated because it wouldn't have to be off by much in order to keep you from - from missing it.",
+        "I - after we talked about it there - why, looked out the side to the south, and it looked like further south in the mare.",
+        "The terminator did go out a little further.",
+        "So, I think we got caught by elevation."
+      ],
+      "speaker": "Mattingly",
+      "time": "1182927"
+    },
+    {
+      "tokens": [
+        "I suspect that's the case, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1182959"
+    },
+    {
+      "tokens": [
+        "Okay, I'll whip into a little P52 here."
+      ],
+      "speaker": "Mattingly",
+      "time": "1183008"
+    },
+    {
+      "tokens": [
+        "Hey, Hank."
+      ],
+      "speaker": "Mattingly",
+      "time": "1183103"
+    },
+    {
+      "tokens": [
+        "Well, there's the old Earth, again.",
+        "And it's getting smaller.",
+        "I think it's not sanforized."
+      ],
+      "speaker": "Mattingly",
+      "time": "1183131"
+    },
+    {
+      "tokens": [
+        "Roger (laughter)."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1183136"
+    },
+    {
+      "tokens": [
+        "Ken, in your post-sleep, did you terminate the jet monitor?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1183146"
+    },
+    {
+      "tokens": [
+        "Oh, hey - no.",
+        "Let me write that out on my post-sleep checklist right now.",
+        "They wrote that in as an extra item yesterday, and I forgot it this morning."
+      ],
+      "speaker": "Mattingly",
+      "time": "1183152"
+    },
+    {
+      "tokens": [
+        "It sure pays to have you guys watching."
+      ],
+      "speaker": "Mattingly",
+      "time": "1183220"
+    },
+    {
+      "tokens": [
+        "Well, I just happened to think of that one, and I got to thinking about your P52, using SCS, and then I wondered about the jet monitor program."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1183222"
+    },
+    {
+      "tokens": [
+        "For that one, you get the award for the year.",
+        "That was smooth."
+      ],
+      "speaker": "Mattingly",
+      "time": "1183239"
+    },
+    {
+      "tokens": [
+        "And, Ken.",
+        "Whenever you get a chance, Gamma Ray, Shield, On.",
+        "When you get through with this."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1183314"
+    },
+    {
+      "tokens": [
+        "Okay, Gamma Ray Shield is coming On -"
+      ],
+      "speaker": "Mattingly",
+      "time": "1183330"
+    },
+    {
+      "tokens": [
+        "Mark it."
+      ],
+      "speaker": "Mattingly",
+      "time": "1183333"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "We got the 93.",
+        "You are clear..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1183814"
+    },
+    {
+      "tokens": [
+        "Okay, you folks have the angles."
+      ],
+      "speaker": "Mattingly",
+      "time": "1183816"
+    },
+    {
+      "tokens": [
+        "...to torque."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1183817"
+    },
+    {
+      "tokens": [
+        "Okay, I'll do it at 10."
+      ],
+      "speaker": "Mattingly",
+      "time": "1183819"
+    },
+    {
+      "tokens": [
+        "And, Casper; Houston.",
+        "Got a little update to you there for that dead band test.",
+        "We'd like to change the 5 degrees to 2½ degrees."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1183858"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Make that 2½."
+      ],
+      "speaker": "Mattingly",
+      "time": "1183909"
+    },
+    {
+      "tokens": [
+        "And, Ken.",
+        "Since we updated the clock, we need to update the time on the TIGfor the TEI-26.",
+        "The rest of the TEI-26 PAD's good.",
+        "So, whenever you are ready to copy, I'll read you the new TIG."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1183953"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Just a second.",
+        "Let me get my GDC here.",
+        "This GDC is working a lot better.",
+        "When we started out, I made a drift check on it, you know - right after insertion, and it was drifting pretty readily.",
+        "And now, this thing will go for six hours and be off less than ten degrees.",
+        "I guess it just - maybe once it got warmed up, it just sort of stabilized, and it's really - really doing a good job now."
+      ],
+      "speaker": "Mattingly",
+      "time": "1184009"
+    },
+    {
+      "tokens": [
+        "Hey, that sounds real great."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1184043"
+    },
+    {
+      "tokens": [
+        "Yeah, it is particularly nice to know (laughter)."
+      ],
+      "speaker": "Mattingly",
+      "time": "1184048"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Why don't you give me a new time for TEI-26?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1184125"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Tigis 125:26:15.47."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1184129"
+    },
+    {
+      "tokens": [
+        "Okay, that is 25:26:15.47."
+      ],
+      "speaker": "Mattingly",
+      "time": "1184149"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's 125."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1184156"
+    },
+    {
+      "tokens": [
+        "Yeah - yeah, 125.",
+        "Thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "1184210"
+    },
+    {
+      "tokens": [
+        "And I got the Purge Line Heaters On."
+      ],
+      "speaker": "Mattingly",
+      "time": "1184240"
+    },
+    {
+      "tokens": [
+        "Roger; copy."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1184245"
+    },
+    {
+      "tokens": [
+        "And, about now, suppose I give you - try to give you a rundown on the film."
+      ],
+      "speaker": "Mattingly",
+      "time": "1184246"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1184252"
+    },
+    {
+      "tokens": [
+        "Didn't use any of the - we didn't use any of the UV film yesterday - that's magazine Oscar Oscar.",
+        "Magazine Sierra Sierra reads 20 frames.",
+        "I'm just going to have to go through the film locker here and pull out mags and tell you what's on them."
+      ],
+      "speaker": "Mattingly",
+      "time": "1184254"
+    },
+    {
+      "tokens": [
+        "Okay, November November is completed."
+      ],
+      "speaker": "Mattingly",
+      "time": "1184326"
+    },
+    {
+      "tokens": [
+        "And, Victor - we're only up to 8."
+      ],
+      "speaker": "Mattingly",
+      "time": "1184433"
+    },
+    {
+      "tokens": [
+        "On the 35 millimeter, I used the - well, we didn't finish up that CIN roll that the ALFMED was on; it's the same status it had then, but I had to take it out in order to get X-ray X-ray put in - the earthshine, which we didn't get last night, and if we're gonna get it, we ought to get it right soon because that Earth is getting considerably smaller.",
+        "The - I had to take that CIN mag out, unfortunately.",
+        "And I'll go through the 16s here.",
+        "I used portions - two of them, one for the undocking sequences and one for the landmark tracking."
+      ],
+      "speaker": "Mattingly",
+      "time": "1184403"
+    },
+    {
+      "tokens": [
+        "And magazine Charlie Charlie, I'm showing 60 percent; that's 60."
+      ],
+      "speaker": "Mattingly",
+      "time": "1184624"
+    },
+    {
+      "tokens": [
+        "And on magazine - Bravo Bravo, I have 80 percent."
+      ],
+      "speaker": "Mattingly",
+      "time": "1184659"
+    },
+    {
+      "tokens": [
+        "I think that should be all of the film, Hank."
+      ],
+      "speaker": "Mattingly",
+      "time": "1184716"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We got it, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1184718"
+    },
+    {
+      "tokens": [
+        "And, Ken, I've got one more Flight Plan update for you."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1184733"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead."
+      ],
+      "speaker": "Mattingly",
+      "time": "1184739"
+    },
+    {
+      "tokens": [
+        "Stand by one minute."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1184748"
+    },
+    {
+      "tokens": [
+        "Ken, I'll read this change up to you next time.",
+        "About what it amounts to is we're going to delete the bistatic radar and in its place, we're going to put an oblique photo pass.",
+        "And I - I'll catch you on the next rev with it.",
+        "We got about 4½ minutes to LOS."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1184857"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1184916"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "We lost comm there a little - a little while.",
+        "We're about three minutes from LOS, and everything's looking good.",
+        "Have a good breakfast, and we'll see you on the next rev."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1185034"
+    },
+    {
+      "tokens": [
+        "Casper, Houston."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1185141"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mattingly",
+      "time": "1185146"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We show your Manual Attitude in Accel Command."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1185147"
+    },
+    {
+      "tokens": [
+        "Well, thank you.",
+        "I wonder how - how that one happened.",
+        "I tell you it's pretty easy to kick a switch when you're rolling around in here.",
+        "You chase a piece of the Flight Plan away from you or you kick a camera, and that's not an unusual thing to happen.",
+        "I appreciate you telling me about it."
+      ],
+      "speaker": "Mattingly",
+      "time": "1185210"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "118_52_32"
+    },
+    {
+      "tokens": [
+        "No CM transcript for this far-side pass."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Lunar Rev 24 begins at 119:32."
+      ],
+      "speaker": "Commentary",
+      "time": "119_32"
+    },
+    {
+      "tokens": [
+        "Hello down there."
+      ],
+      "speaker": "Mattingly",
+      "time": "119_41_32"
+    },
+    {
+      "tokens": [
+        "Hello, Casper."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1194135"
+    },
+    {
+      "tokens": [
+        "We're still here."
+      ],
+      "speaker": "Mattingly",
+      "time": "1194141"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "How did everything go?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1194144"
+    },
+    {
+      "tokens": [
+        "Sure do feel a lot better.",
+        "(Laughter) I got quite a bit done on that little back-side section there."
+      ],
+      "speaker": "Mattingly",
+      "time": "1194146"
+    },
+    {
+      "tokens": [
+        "Hey, that sounds great.",
+        "First thing off the bat here, Ken, we'd like to get a Bat B charge going."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1194157"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by."
+      ],
+      "speaker": "Mattingly",
+      "time": "1194209"
+    },
+    {
+      "tokens": [
+        "Okay, you've got it."
+      ],
+      "speaker": "Mattingly",
+      "time": "1194251"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And for your info, Ken, the E-Mod we got last night looks good."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1194254"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "1194209"
+    },
+    {
+      "tokens": [
+        "And, Ken, I got a few items for you whenever you're ready to work them in.",
+        "I've got a mapping camera photo PAD, a Flight Plan update, and an update to your erasable loads, and a G&C checklist, whenever you can get a break from eating there."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1194217"
+    },
+    {
+      "tokens": [
+        "(Laughter) Okay, I'm just getting a good start on that.",
+        "And I'll copy those as we go along here.",
+        "If you'll give me a couple of minutes to get some things going."
+      ],
+      "speaker": "Mattingly",
+      "time": "1194234"
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "I'm ready to copy."
+      ],
+      "speaker": "Mattingly",
+      "time": "1194621"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll start with the Flight Plan changes.",
+        "And the first one's at 123:26."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1194626"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1194642"
+    },
+    {
+      "tokens": [
+        "Incidentally, Ken.",
+        "Did you get the urine dump and purges out on the last back side?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1194643"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Mattingly",
+      "time": "1194650"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "At 123:26, we're going to delete the maneuver to Bistatic Radar attitude; we're going to delete the Bistatic, as we told you earlier.",
+        "At the top of the next column there, about 123:32, delete all of that where you configure the S-band.",
+        "Following that, delete the - or the VHF.",
+        "Following that, delete the S-band; delete the P20 following that.",
+        "In fact, delete everything in that column.",
+        "And delete the Bistatic Radar over to the right-hand side at the bottom."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1194652"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1194730"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Now back at 123:26, we want to add in there this 40-degree south oblique - a P20 option 5; 40-degree south oblique photo attitude.",
+        "Parenthe - see - see - parentheses 123:31.",
+        "Your Noun 78 is plus 270.00, plus 087.75, plus 180.00.",
+        "Noun 79, plus 000.50; attitude 182,000 underlined slash 080, 000.",
+        "Set High Gain Pitch 10, Yaw 350 for AOS acquisition."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1194732"
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "I copy 40-degrees south oblique, replacing the Bistatic Radar; P20 option 5 at 123:31; Noun 78, plus 270, plus 87.75, plus 180.",
+        "Noun 79 is 0.50, giving me an attitude of 182, 080, and 000.",
+        "And the Pitch 10 and Yaw 350 for acquisition."
+      ],
+      "speaker": "Mattingly",
+      "time": "1194859"
+    },
+    {
+      "tokens": [
+        "That's a good readback.",
+        "And on the next page, you can delete the Bistatic Radars in both columns.",
+        "And at 124 - wait, take it back - let's go back to the previous page - lost something there; 123:31.",
+        "We want to add, at 123:31..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1194924"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1194948"
+    },
+    {
+      "tokens": [
+        "Image Motion, On; Mapping Camera, On, T-start; and Image Motion, barber pole plus 3, and then On."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1194949"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Do you have a T-start time?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1195010"
+    },
+    {
+      "tokens": [
+        "We'll get that up to you in a PAD; that's still a long ways away."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195013"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1195019"
+    },
+    {
+      "tokens": [
+        "Then over at 124:32, we want Mapping Camera, Off at T-stop."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195022"
+    },
+    {
+      "tokens": [
+        "Wait a min - one - wait a minute.",
+        "Say - say the time again."
+      ],
+      "speaker": "Mattingly",
+      "time": "1195033"
+    },
+    {
+      "tokens": [
+        "124:32, on the next page."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195036"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1195043"
+    },
+    {
+      "tokens": [
+        "Mapping..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195044"
+    },
+    {
+      "tokens": [
+        "Got it."
+      ],
+      "speaker": "Mattingly",
+      "time": "1195045"
+    },
+    {
+      "tokens": [
+        "Mapping Camera, Off, T-stop; wait 30 seconds; Mapping Camera to Standby; and Image Motion, Off."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195046"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1195102"
+    },
+    {
+      "tokens": [
+        "And could you give us Auto on the High Gain?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195103"
+    },
+    {
+      "tokens": [
+        "You've got it."
+      ],
+      "speaker": "Mattingly",
+      "time": "1195108"
+    },
+    {
+      "tokens": [
+        "Okay, and the last change is at 125:06, the following page.",
+        "Delete the P52, about 125:06 there."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195110"
+    },
+    {
+      "tokens": [
+        "Got it.",
+        "That sure is a super little platform, isn't it?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1195123"
+    },
+    {
+      "tokens": [
+        "Boy, it's a beauty."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195128"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I have a - a mapping camera photo PAD."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195142"
+    },
+    {
+      "tokens": [
+        "This PAD goes at 121:35, approximately."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195158"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1195211"
+    },
+    {
+      "tokens": [
+        "All righty.",
+        "T-start is 121:32:18; T-stop, 122:32:08."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195213"
+    },
+    {
+      "tokens": [
+        "Okay; 121:32:18, 122:32:08."
+      ],
+      "speaker": "Mattingly",
+      "time": "1195230"
+    },
+    {
+      "tokens": [
+        "And the last item I have for you is a change to your erasable loads and the G&C..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195238"
+    },
+    {
+      "tokens": [
+        "Okay, just - just a second, Hank, let me write those down."
+      ],
+      "speaker": "Mattingly",
+      "time": "1195243"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I got a PAD for the erasables.",
+        "All right, let me find that.",
+        "I just wanted to write the T-stop times down before I got away from them."
+      ],
+      "speaker": "Mattingly",
+      "time": "1195311"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "This is in your G&C Checklist on page 9-4."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195323"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm going after it.",
+        "I've got it."
+      ],
+      "speaker": "Mattingly",
+      "time": "1195331"
+    },
+    {
+      "tokens": [
+        "All righty.",
+        "In column A, OID 05 change 03773 to read 03521."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195340"
+    },
+    {
+      "tokens": [
+        "Whoop, whoops.",
+        "I missed that, Hank."
+      ],
+      "speaker": "Mattingly",
+      "time": "1195352"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195400"
+    },
+    {
+      "tokens": [
+        "I guess I'm going to have to do one thing or the other.",
+        "I can't talk and eat at the same time."
+      ],
+      "speaker": "Mattingly",
+      "time": "1195401"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Whenever you're ready, we'll - you - If you don't want to do it now, just holler."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195404"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let me finish this eat period."
+      ],
+      "speaker": "Mattingly",
+      "time": "1195411"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195414"
+    },
+    {
+      "tokens": [
+        "I got - I got carried away with trying to get ahead."
+      ],
+      "speaker": "Mattingly",
+      "time": "1195417"
+    },
+    {
+      "tokens": [
+        "Hey, Hank.",
+        "If you got time while I'm - while I can listen, and - how about telling me if there's - you got any words on the general EVA plan for the surface and - guys are doing."
+      ],
+      "speaker": "Mattingly",
+      "time": "1195506"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The guys are outside now on the surface.",
+        "They got the Rover deployed and they're checking it out.",
+        "And they're going to try to do the nominal number 1 EVA plan.",
+        "As - about as far as we can predict in the future right now is through - doing the second EVA tomorrow.",
+        "We don't know how consumables are going to hold out for the - for the thing.",
+        "We're going to have to take a look at it - whether there's a possibility of the third one or not.",
+        "Right now, I'm not so sure."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195523"
+    },
+    {
+      "tokens": [
+        "There - there still is some chance, huh?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1195556"
+    },
+    {
+      "tokens": [
+        "Well, it doesn't look too bright, but they're looking at it."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195559"
+    },
+    {
+      "tokens": [
+        "Have they got the ALSEP out yet?",
+        "Or does that come after the Rover?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1195615"
+    },
+    {
+      "tokens": [
+        "That comes after the Rover."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1195619"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "Just a little reminder - about time for - to open the alpha particle X-ray cover."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1200237"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll - Thank you, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "1200247"
+    },
+    {
+      "tokens": [
+        "Alpha cover, Open -"
+      ],
+      "speaker": "Mattingly",
+      "time": "1200257"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "And it's gray."
+      ],
+      "speaker": "Mattingly",
+      "time": "1200258"
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "I'm ready to copy your erasable updates."
+      ],
+      "speaker": "Mattingly",
+      "time": "1200747"
+    },
+    {
+      "tokens": [
+        "Say again, Casper."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1200757"
+    },
+    {
+      "tokens": [
+        "I'm ready to copy the erasables."
+      ],
+      "speaker": "Mattingly",
+      "time": "1200802"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "In column A there - column alpha - OID 05."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1200805"
+    },
+    {
+      "tokens": [
+        "This is on 9-4."
+      ],
+      "speaker": "Mattingly",
+      "time": "1200812"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "A..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1200814"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1200818"
+    },
+    {
+      "tokens": [
+        "The old data should read 03773.",
+        "The new data there should be 03521."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1200819"
+    },
+    {
+      "tokens": [
+        "03521."
+      ],
+      "speaker": "Mattingly",
+      "time": "1200834"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "Column A again.",
+        "OID 07 reads now 76747; new data, 76274."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1200837"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "07 now reads 76274."
+      ],
+      "speaker": "Mattingly",
+      "time": "1200855"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Column Bravo, OID 04.",
+        "Now reads 13353; new data, 13347."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1200900"
+    },
+    {
+      "tokens": [
+        "A, 13347."
+      ],
+      "speaker": "Mattingly",
+      "time": "1200918"
+    },
+    {
+      "tokens": [
+        "Column Bravo, OID 05.",
+        "Old data, 00041; new data, 65620."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1200922"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "New data, 65620.",
+        "That's column Bravo, 05."
+      ],
+      "speaker": "Mattingly",
+      "time": "1200942"
+    },
+    {
+      "tokens": [
+        "That's correct, Ken, and that's all of that.",
+        "I hate to go back, but along about 125:06, when we deleted that P52, we should have deleted the P00 that went right ahead of it."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1200948"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let me come back to that in just a second.",
+        "I'm passing over Madler now; and, if you remember, we talked about that funny - bright ray pattern - how it seemed to have a funny shape that it - it took off in one direction and then it made a straight line in the other.",
+        "Well, there's a textural difference in the ground that's underneath that bright material.",
+        "It's a - It looks like it's - more like highlands - kind of overlay that's on top of a regular mare material.",
+        "And it does, in fact, go along those - that line of demarcation that we see, and it seems to overlay the - the mare-type, and it's - it doesn't go very far to the south and it doesn't go very far to the west.",
+        "It's right along that line where you see it.",
+        "And then there's a little wrinkle - a little cluster of craters and ridges that goes along with the - line of - that goes between Madler and that bright-rayed crater with an excluded zone to the south of them - or that's to the southeast.",
+        "I just remembered that question, and - I wanted to pop that in.",
+        "There's also a crater directly south of Theophilus that has a - a dark halo around it, and maybe we'll get a better look at it later.",
+        "He's about one crater diameter south of Theophilus, and it's about the size of the little crater in the northern end of Theophilus.",
+        "And when I say dark, it's really just sort of a - of a little darker brown than the rest of the material.",
+        "And it's in the middle of an area that's kind of wrinkled.",
+        "Then there's another little crater just to the north and east of that that has three - a cluster of three craters around his northern rim.",
+        "And he, too, has a dark halo, and his dark halo is about one and a half crater diameters, and the larger one to the south is about one and a half crater diameters.",
+        "Okay.",
+        "Let's go back and - you said something about - working on a P52, and then I deleted that, and I should have deleted a P00 that went with it?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1201010"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Ken.",
+        "We didn't catch that until after we called it up.",
+        "It's the 125:06 there.",
+        "We deleted a P52 and we should also delete the P00.",
+        "Just keep the place [garble]."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1201233"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's deleted.",
+        "All right.",
+        "And I'm going - to try to get a hack on the landing site as we come across it."
+      ],
+      "speaker": "Mattingly",
+      "time": "1201246"
+    },
+    {
+      "tokens": [
+        "Roger; and..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1201258"
+    },
+    {
+      "tokens": [
+        "Were you able to copy reasonably on vox?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1201259"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "I'm reading you five by five."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1201302"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I wasn't sure how much it might be clipping on you."
+      ],
+      "speaker": "Mattingly",
+      "time": "1201309"
+    },
+    {
+      "tokens": [
+        "I've got the camera ready for our pictures of Alphonsus, and it appears to me I ought to be able to catch Alphonsus and the Davy Crater chain at the same time.",
+        "They ought to both be in the Sun this time."
+      ],
+      "speaker": "Mattingly",
+      "time": "1201319"
+    },
+    {
+      "tokens": [
+        "Hey, that's real good, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1201332"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're stealing along here and I just passed Kant; and I tell you, these things aren't nearly as dramatic as they were down in that low pass.",
+        "When you came over the Kant Plateau down low, it really looked like the ground was coming up.",
+        "And I'm crossing the crater Descartes and that bright area; and, again, that surface of that bright area - it doesn't look nearly as distinct as it did in the low Sun.",
+        "I have the landing site in the binoculars now.",
+        "I can look down into South Ray, and it really is a jumbled thing.",
+        "I can see one bright layer, then a dark layer, then a bright layer, and then a dark layer on the south - or on the west side.",
+        "And on the south, it looks like some of the same.",
+        "And I can't see into the shadows very well to the north.",
+        "I'm looking over at the - Well, let's see here.",
+        "I'm over - around the - I've got Double Spot in the binoculars; and let's see if I can see anything in that area."
+      ],
+      "speaker": "Mattingly",
+      "time": "1201339"
+    },
+    {
+      "tokens": [
+        "Can you see the LM?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1201440"
+    },
+    {
+      "tokens": [
+        "Well, I was hoping I could say yes, but I don't think I do.",
+        "Let us go back here and - It looks like there is one little ridge-lines around a - a - It'd be that first crater that they come up to.",
+        "It's Flag or Spook.",
+        "I'm upside down in my thinking that way, too.",
+        "I've got the Cinco Craters and - Those terraces that we talked about that were over in - in Stone Mountain don't stand out very well from here.",
+        "Looks to me like you've got a lot of the same lineations that we've seen in the other places - looks like some slumping further around than where they're going to be going up.",
+        "I don't think they'll be able to recognize terraces as such."
+      ],
+      "speaker": "Mattingly",
+      "time": "1201448"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1201546"
+    },
+    {
+      "tokens": [
+        "The - the - the northwest - I mean northeast - correction - side of that extension of Stone Mountain has what I would have called slumping if it were on the inside of a crater."
+      ],
+      "speaker": "Mattingly",
+      "time": "1201549"
+    },
+    {
+      "tokens": [
+        "Okay, Ken, you got about a couple of minutes to go before the terminator photos."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1201802"
+    },
+    {
+      "tokens": [
+        "Okay, I'm getting set up now, trying to get myself oriented to the best window.",
+        "I tell you, I know it's not supposed to make any difference that if you're going backwards or not, but it sure does."
+      ],
+      "speaker": "Mattingly",
+      "time": "1201809"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1201820"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "There's Albategnius, and he's got a nice Cayley floor and a whole bunch of the - like a concentric ring, but I can't - Yeah, by golly, there's a concentric ring in that thing just like there is in the mare.",
+        "And - it goes most of the way around.",
+        "Some places it's overlain with the - like the crater Klein hides it."
+      ],
+      "speaker": "Mattingly",
+      "time": "1201838"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The - the floor of Alphonsus is still quite shadowed."
+      ],
+      "speaker": "Mattingly",
+      "time": "1201936"
+    },
+    {
+      "tokens": [
+        "Okay, Ken, and we're coming up on a site handover.",
+        "We may lose comm for a second."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1201948"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1201956"
+    },
+    {
+      "tokens": [
+        "Hank, are you still here?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1202021"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1202022"
+    },
+    {
+      "tokens": [
+        "Okay, looking at Alphonsus, I'd say that there's this a - well, you can see this obvious little band that we talked about that runs north and south through there.",
+        "And that's an entirely different texture than what you see on the material on either side of it.",
+        "But it is the same on either side.",
+        "Looking from north to south, I don't see anything that's - I can really call - I couldn't - that says there's any topographic relief going from south to north.",
+        "There's no demarcation that's evident that's different at all.",
+        "Although there is some of this material that's in the south that runs towards the crater center that does, indeed, look like it might - might be tapering down and thinning out.",
+        "I'll come back to that in just a minute.",
+        "Let me pick up Davy."
+      ],
+      "speaker": "Mattingly",
+      "time": "1202027"
+    },
+    {
+      "tokens": [
+        "Well, I tell you.",
+        "We aren't going to get Davy on this pass either."
+      ],
+      "speaker": "Mattingly",
+      "time": "1202151"
+    },
+    {
+      "tokens": [
+        "Still in the shadows?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1202155"
+    },
+    {
+      "tokens": [
+        "I wouldn't have expected that one."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1202251"
+    },
+    {
+      "tokens": [
+        "No, no.",
+        "Neither would I.",
+        "Well, another day."
+      ],
+      "speaker": "Mattingly",
+      "time": "1202257"
+    },
+    {
+      "tokens": [
+        "Hey, and, Henry, the frame number on magazine SS is now 25."
+      ],
+      "speaker": "Mattingly",
+      "time": "1202346"
+    },
+    {
+      "tokens": [
+        "Roger; copy 25."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1202352"
+    },
+    {
+      "tokens": [
+        "Okay, I'll get a lil - canister change."
+      ],
+      "speaker": "Mattingly",
+      "time": "1202403"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "The rate in your Flight Plan about not starting until 121:05 is still good."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1202855"
+    },
+    {
+      "tokens": [
+        "Okay, Henry.",
+        "Thank you, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "1202904"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "Forgot to ask you.",
+        "Did you see anything on that last back-side pass that's worthy of commenting on?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1203654"
+    },
+    {
+      "tokens": [
+        "No, sir; I did not.",
+        "I didn't even get my head out of the cockpit."
+      ],
+      "speaker": "Mattingly",
+      "time": "1203708"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1203714"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "We are about two minutes from LOS and everything is looking good.",
+        "If you don't have anything else, we'll see you on the other side."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1205020"
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "And, I'm all set up to take the Gum Nebula, and I've checked the star patterns, and they all work out just fine.",
+        "So, I'll see you at AOS."
+      ],
+      "speaker": "Mattingly",
+      "time": "1205032"
+    },
+    {
+      "tokens": [
+        "Good show."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1205041"
+    },
+    {
+      "tokens": [
+        "Loss of Signal at 120:52."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Lunar Rev 25 begins at 121:30."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "End of CM transcript."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "Could you bring up the High Gain - according to the Flight Plan?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "121_50_07"
+    },
+    {
+      "tokens": [
+        "Casper, Houston."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1215148"
+    },
+    {
+      "tokens": [
+        "Hello there."
+      ],
+      "speaker": "Mattingly",
+      "time": "1215152"
+    },
+    {
+      "tokens": [
+        "Hello; how's things going?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1215154"
+    },
+    {
+      "tokens": [
+        "I been trying, Hank [garble].",
+        "I don't know.",
+        "That - that acquisition there wasn't as smooth as I thought it might be.",
+        "I tried to get you using manual to tweak it up a little bit and that didn't seem to help much.",
+        "Maybe I'm not helping at all, maybe I'm hurting."
+      ],
+      "speaker": "Mattingly",
+      "time": "1215155"
+    },
+    {
+      "tokens": [
+        "I saw one thing that was - that was new about the zodiacal-light world.",
+        "You don't realize that that stuff is actually reasonably bright until - you get yourself well dark-adopted then you sit up there long enough to recognize it.",
+        "But almost - almost immediately after - oh, I'd say within - certainly within five minutes and maybe a little sooner after LOS, there was enough zodiacal light or solar corona - whichever is the proper technical name - that you could see a distinct horizon.",
+        "And it just got more distinct right up until sunrise.",
+        "I never did see any prominences or anything like that.",
+        "I kind of thought that maybe we would, but I guess those are too small a scale.",
+        "But, just prior to sunrise, you see a lot of long streaks and that's - well, I say just prior - that's like just a few seconds before sunrise.",
+        "All of a sudden, you get these very prominent rays coming out and then the Sun's right there.",
+        "You don't want to be looking at that."
+      ],
+      "speaker": "Mattingly",
+      "time": "1215234"
+    },
+    {
+      "tokens": [
+        "Roger; copy..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1215341"
+    },
+    {
+      "tokens": [
+        "But it is right - right pretty to watch that stuff at night."
+      ],
+      "speaker": "Mattingly",
+      "time": "1215342"
+    },
+    {
+      "tokens": [
+        "Sounds like a real pretty sight.",
+        "INCO says that - that they saw you in Narrow when you were trying to bring the High Gain up and that you'd have a little better luck with Wide."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1215351"
+    },
+    {
+      "tokens": [
+        "Okay, you're right.",
+        "I looked down at the Flight Plan and saw a Reacq and Narrow.",
+        "And then I went back to Manual.",
+        "I - I may have had it in Narrow all along.",
+        "Thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "1215408"
+    },
+    {
+      "tokens": [
+        "Ken, I got a - a - zodiacal-light, mapping camera photo PADs for you, and TEI-32 block data."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1215437"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by.",
+        "I'm going to get my books."
+      ],
+      "speaker": "Mattingly",
+      "time": "1215449"
+    },
+    {
+      "tokens": [
+        "If you want to start with the photo PADs, the zodiacal light you copy at 123:12."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1215455"
+    },
+    {
+      "tokens": [
+        "Okay, I got that and I also kind of got intrigued back along about - back along about King was the first chance I had to get all squared away again from the - the low-light-level stuff, so I didn't get a chance to look at as much back there as I had hoped, but - back around King, pretty interesting stuff again - was looking at a crater and some of the beds and things that are in it - apparent beds - and I'm convinced now that we're not seeing beds at all.",
+        "Through the binoculars, it looks like those things are dark material and light material that slumped together, and why they formed shelves like that I don't have any idea, but you can't trace them through - if they are stratigraphy, then they are indeed - not only have you had horizontal stratigraphy but you've had a great deal of vertical fractures that's caused these things to slide in different proportions.",
+        "Because there's no continuous horizontal strata and you don't realize that until you look at it in detail.",
+        "Okay, I got my Updates Book out and I got my Flight Plan here, so you can take the photo PAD just if you like."
+      ],
+      "speaker": "Mattingly",
+      "time": "1215510"
+    },
+    {
+      "tokens": [
+        "Okay, the first one is - the zodiacal light at 123:12; T-start is 123..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1215624"
+    },
+    {
+      "tokens": [
+        "I got it."
+      ],
+      "speaker": "Mattingly",
+      "time": "1215634"
+    },
+    {
+      "tokens": [
+        "...09:38"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1215638"
+    },
+    {
+      "tokens": [
+        "Okay, 123:09:38."
+      ],
+      "speaker": "Mattingly",
+      "time": "1215644"
+    },
+    {
+      "tokens": [
+        "Okay, the next one comes at 123:32.",
+        "There's not a block there for that one because we added that in.",
+        "But T-start for the mapping camera is 123:31:12; T-stop is 124:31:02."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1215649"
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "I just got 31:12 for the start time.",
+        "I'm writing that in.",
+        "I don't have a PAD and T-stop - tell me again please."
+      ],
+      "speaker": "Mattingly",
+      "time": "1215716"
+    },
+    {
+      "tokens": [
+        "T-stop: 124:31:02."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1215726"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1215733"
+    },
+    {
+      "tokens": [
+        "And the next map - mapping camera PAD is at 125:30."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1215737"
+    },
+    {
+      "tokens": [
+        "125:30.",
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1215749"
+    },
+    {
+      "tokens": [
+        "T-start is 125:30:05; T-stop, 126:29:55."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1215753"
+    },
+    {
+      "tokens": [
+        "Okay, 125:30:05, 126:29:55."
+      ],
+      "speaker": "Mattingly",
+      "time": "1215808"
+    },
+    {
+      "tokens": [
+        "Good readback."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1215812"
+    },
+    {
+      "tokens": [
+        "Let me mark that before you give me any more."
+      ],
+      "speaker": "Mattingly",
+      "time": "1215814"
+    },
+    {
+      "tokens": [
+        "Okay, go ahead."
+      ],
+      "speaker": "Mattingly",
+      "time": "1215844"
+    },
+    {
+      "tokens": [
+        "Are you ready for the TEI-32 block?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1215846"
+    },
+    {
+      "tokens": [
+        "Yes, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "1215851"
+    },
+    {
+      "tokens": [
+        "Okay, TEI-32.",
+        "SPS/G&N; 38709; plus 0.72, plus 1.33; 137:12:07.88; Noun 81, plus 2922.0, plus 0699.7, minus 0120.2; 181, 110, 015; rest of the PAD's NA.",
+        "The set stars, same as circ, two jets, 17 seconds.",
+        "Other: lambda Moon at TIG- minus 161.32, and landing site REFSMMAT."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1215853"
+    },
+    {
+      "tokens": [
+        "Okay, TEI-32: SPS/G&N; 38709; plus 0.72, plus 1.33; 137;12:07.88; plus 2922.0, plus 0699.7, minus 0120.2; 181, 110, 015.",
+        "Set stars same as circ; two jets, 17 seconds; lambda, minus 161.32; and this is the landing REFSMMAT."
+      ],
+      "speaker": "Mattingly",
+      "time": "1220020"
+    },
+    {
+      "tokens": [
+        "Good readback, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1220053"
+    },
+    {
+      "tokens": [
+        "Hank, can you give me any coordinates on the LM estimated position?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1220231"
+    },
+    {
+      "tokens": [
+        "I'll work on that, Ken.",
+        "And did you take any earthshine photos?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1220238"
+    },
+    {
+      "tokens": [
+        "No, sir.",
+        "I - I tried to get them in last night and we decided they'd close up shop before I could get them in."
+      ],
+      "speaker": "Mattingly",
+      "time": "1220245"
+    },
+    {
+      "tokens": [
+        "Okay..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1220254"
+    },
+    {
+      "tokens": [
+        "And, I tell you it's going down.",
+        "It was much more dramatic the first night than it was last night and it's not as dramatic tonight on the night-side so, if you can find a place to put it, that is one thing I'd like to get.",
+        "The sooner the better."
+      ],
+      "speaker": "Mattingly",
+      "time": "1220255"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "FAO advises that if you didn't take any earthshines that magazine X-ray X-ray is - which is - I think already have on the Nikon is good for the zodiacal light rather than changing to Yankee Yankee.",
+        "And on this next rev..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1220312"
+    },
+    {
+      "tokens": [
+        "Yes, sir; I'd planned to do that."
+      ],
+      "speaker": "Mattingly",
+      "time": "1220328"
+    },
+    {
+      "tokens": [
+        "On next rev, you could - if you want to take some earthshine, they suggest Window 4 and take away."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1220331"
+    },
+    {
+      "tokens": [
+        "Window 4."
+      ],
+      "speaker": "Mattingly",
+      "time": "1220344"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I guess I'll have to check the attitude.",
+        "Do they - if I take the zodiacal light on X-Ray X-Ray, you'd - do they have a recommended magazine?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1220353"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1220403"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "I've got a film story for you.",
+        "If you choose to do the earthshine, use mag XX and window 4 and the target should be about - You should see it about 122:42.",
+        "If you don't do the earthshine, you can go ahead and use XX for 30 - the zodiacal.",
+        "If you do the earthshine, of course, with the XX, you need the YY per Flight Plan for the zodiacal."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1220521"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I don't think it'd be prudent for me to try and get the earthshine and the zodiacal light on the same rev."
+      ],
+      "speaker": "Mattingly",
+      "time": "1220550"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copy.",
+        "And the Surgeon is still anxious to see you sometime find a place to change out the sensors."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1220558"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I understand that."
+      ],
+      "speaker": "Mattingly",
+      "time": "1220609"
+    },
+    {
+      "tokens": [
+        "Hey, do you need them all changed, Hank, or can you send me to one so I don't have to waste time with all that stuff?",
+        "You got to break out each one of those little things by itself and keep track of it.",
+        "It - it takes a good 20 minutes if you change out the whole sensors."
+      ],
+      "speaker": "Mattingly",
+      "time": "1220624"
+    },
+    {
+      "tokens": [
+        "Stand by one."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1220636"
+    },
+    {
+      "tokens": [
+        "Ken, the surgeon says he can't tell which - which one of the sensors is dead, so before we take off here and do them all, why don't you try pressing down on them and let him - let him watch his data - maybe we can find out which one is the dead one.",
+        "Press them one at a time."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1220711"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let me - okay.",
+        "I'll start on the ground.",
+        "I'm pressing the ground now."
+      ],
+      "speaker": "Mattingly",
+      "time": "1220727"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That didn't do it."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1220745"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll go to the - the sternal."
+      ],
+      "speaker": "Mattingly",
+      "time": "1220751"
+    },
+    {
+      "tokens": [
+        "That seemed to make it worse, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1220811"
+    },
+    {
+      "tokens": [
+        "That's making it worse?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1220816"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "That's probably the culprit, but let's..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1220818"
+    },
+    {
+      "tokens": [
+        "Well, maybe that's my problem."
+      ],
+      "speaker": "Mattingly",
+      "time": "1220819"
+    },
+    {
+      "tokens": [
+        "...try the third one while you're at it."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1220820"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1220824"
+    },
+    {
+      "tokens": [
+        "That makes the trace a lot better, Ken.",
+        "I imagine it's the third one there."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1220844"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll try changing those two out."
+      ],
+      "speaker": "Mattingly",
+      "time": "1220852"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1220856"
+    },
+    {
+      "tokens": [
+        "Boy, I'll tell you.",
+        "That - that little Sun-angle change - old North and South Ray really stand out now.",
+        "You couldn't miss those for anything."
+      ],
+      "speaker": "Mattingly",
+      "time": "1220940"
+    },
+    {
+      "tokens": [
+        "And, Ken, for your information, John and Charlie are almost through getting the ALSEP out."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1221000"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Sounds good.",
+        "Like an EVA should."
+      ],
+      "speaker": "Mattingly",
+      "time": "1221010"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1221016"
+    },
+    {
+      "tokens": [
+        "I know that's a bad one, but you know that's about all I can do for you today.",
+        "That's probably safer than having you tell me jokes."
+      ],
+      "speaker": "Mattingly",
+      "time": "1221022"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "With the binocs on the area now, I'm looking down into North Ray Crater and South Ray and the interior structures of those two don't look quite the same.",
+        "There's a lot more light and dark material in the South Ray; but that may be caused by the fact that it's just a- it really has been a fresher-appearing crater all around.",
+        "The areas - trying to see if I can see any shadows or anything - There's a bright spot down there, but I think that's just a double spot itself.",
+        "I don't see anything with the binocs that I could say I could see - I can't stabilize them quite that well.",
+        "Coming down the traverse route from - where they're going across Survey Ridge - I don't think Survey is going to be easy to spot.",
+        "And when you get down - there is one definite terrace - Looks like the - looks like Stone Mountain is formed with one, two, three terraces, but they are much larger than the kind of things that we were drawing on the map.",
+        "The rest of that is very fine subtle lineations.",
+        "The area around North Ray, particularly up along the area that they were going on the EVA - I can see it now, and it almost looks like that little pile of material that runs up to the south of their track and I'll give you some coordinates on that.",
+        "I'm looking at my chart a - oh, let's see, 9 Charlie - yes, let's look at Chart 9 Charlie.",
+        "And there's - this is a pretty lousy picture, but if you'll remember at a point about CY by 79, if you'll draw a line there and then draw a line down to about CU and 81, that's a - that represents a ridge, which shows up in the photographs.",
+        "And looking down on it vertically, that looks like sort of a flow of material that runs up over the lip of North Ray and down into it.",
+        "And it shows some craters on it, but it almost looks like a flow that runs up and down into North Ray rather than being some of the other kinds of things we've talked about.",
+        "And I didn't have much time, I'll try to concentrate on that on the next rev."
+      ],
+      "speaker": "Mattingly",
+      "time": "1221049"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Good show, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1221331"
+    },
+    {
+      "tokens": [
+        "Ken, do you want the LM coordinates in lat-long or do you want it in coordinates on 9 Charlie?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1221355"
+    },
+    {
+      "tokens": [
+        "Oh, I'd like to have it in 9 Charlie kind of coordinates.",
+        "That's about the only thing I have to reference to."
+      ],
+      "speaker": "Mattingly",
+      "time": "1221403"
+    },
+    {
+      "tokens": [
+        "That's what I figured."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1221408"
+    },
+    {
+      "tokens": [
+        "Let me see here if I can get - can get one last chance on our old friend that - Maybe and maybe see if he's decided to show his face this time.",
+        "Don't let me forget the mapping camera, that comes about the same time."
+      ],
+      "speaker": "Mattingly",
+      "time": "1221409"
+    },
+    {
+      "tokens": [
+        "Casper, could you give us Auto on the High Gain?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1221457"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "You have Auto."
+      ],
+      "speaker": "Mattingly",
+      "time": "1221504"
+    },
+    {
+      "tokens": [
+        "I tell you, Hank, I think that the terminator got hung up here on a high mountain or something.",
+        "It doesn't look like it's moving as much as it is everywhere else on the Moon."
+      ],
+      "speaker": "Mattingly",
+      "time": "1221558"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Is Davy still in the dark?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1221609"
+    },
+    {
+      "tokens": [
+        "Well.",
+        "I'm not to it yet, but it sure - I don't see anything beyond it.",
+        "That's a - Hey, old Alphonsus and Arzachel show up nicely.",
+        "And here comes the crater chain, by golly.",
+        "Yes, but much to my amazement, but the peak in Albategnius is still - is in daylight."
+      ],
+      "speaker": "Mattingly",
+      "time": "1221614"
+    },
+    {
+      "tokens": [
+        "Oh, I see what's happened now.",
+        "There's a - there's a little hill that's shielding - I - I see where Davy Crater Chain is now.",
+        "And it's right in the middle of a big long shadow that's being cast out there.",
+        "And it's shielding that whole area because Davy and Davy Y show up nicely.",
+        "And Davy G is easy to see.",
+        "But the chain itself, I can just make out, and I'll take a picture - well, this is a skewed angle.",
+        "I don't know if I can get it to show you, buy - they sure must not have much of a lip on them if they don't show.",
+        "But, by the time we see them, they may be in a fairly high Sun."
+      ],
+      "speaker": "Mattingly",
+      "time": "1221804"
+    },
+    {
+      "tokens": [
+        "Roger; copy, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1211900"
+    },
+    {
+      "tokens": [
+        "I'm taking a strip this time, anyhow, because it'll show all the area around Davy.",
+        "And there are some craters in there - an awful lot of them that have absolutely no rims, which seems to me - it looks entirely different than what you see and what you think of.",
+        "These things are all very subdued.",
+        "They just drop in.",
+        "And you see glows - in the low Sun, you see the - you see the far lip before you see the near lip of the crater.",
+        "Although there are a few that have raised rims and they - they kind of are the exception here instead of the rule.",
+        "Whereas most low-Sun-angle places we see are - I'll take a shot down just a little bit to the south there, and there the average is rimmed craters and very few rimless ones."
+      ],
+      "speaker": "Mattingly",
+      "time": "1221907"
+    },
+    {
+      "tokens": [
+        "Roger, Ken.",
+        "And you're about 20 seconds from T-stop on the mapping camera."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1221956"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Going to it.",
+        "Thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "1222002"
+    },
+    {
+      "tokens": [
+        "Okay; the Mapping Camera is Off.",
+        "I'll wait 30 seconds."
+      ],
+      "speaker": "Mattingly",
+      "time": "1222028"
+    },
+    {
+      "tokens": [
+        "And, Hank, this system is really good.",
+        "I don't have to give a second thought to - to what's going on.",
+        "And just by not having to watch that clock, it just frees your hands to go do everything else that you want to do.",
+        "It really - on the back side, I get all bent out of shape with myself because I get - I get behind.",
+        "I start - You just don't have a chance to do anything except those items which are timelined A, B, C and do them in exactly the sequence that they give you."
+      ],
+      "speaker": "Mattingly",
+      "time": "1222020"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "The only hitch to this is I get interested in what you're saying and I might forget."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1222111"
+    },
+    {
+      "tokens": [
+        "(Laughter) Well (laughter), just remember, they go on your card, the back side goes on mine."
+      ],
+      "speaker": "Mattingly",
+      "time": "1222120"
+    },
+    {
+      "tokens": [
+        "Actually, though, I got a bunch of guys backing me up."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1222131"
+    },
+    {
+      "tokens": [
+        "Well, I tell you, this place is so fascinating that you just - you just don't dare let anything go by.",
+        "It's - You know, I think you could stay here a lifetime, and never see it all.",
+        "I guess that's - that's kind of a silly statement because it's true in almost anywhere you go.",
+        "It sure is dramatic.",
+        "At first glance, particularly the back side looks like an old gypsum plant.",
+        "It just looks like someone's poured stuff all over it, and just made it - and just tried to hide it, camouflage things.",
+        "The more you look at it, then you start to pick out subtle differences.",
+        "Unfortunately, I'm not smart enough to know what these things mean, but I'm sure that we got some folks down there that certainly do.",
+        "Maybe if we get enough data, why, they can piece it together."
+      ],
+      "speaker": "Mattingly",
+      "time": "1222138"
+    },
+    {
+      "tokens": [
+        "Are you in Standby now with that Mapping Camera, Ken?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1222239"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "I went to Standby and took the Image Motion, Off."
+      ],
+      "speaker": "Mattingly",
+      "time": "1222245"
+    },
+    {
+      "tokens": [
+        "Okay, thank you."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1222248"
+    },
+    {
+      "tokens": [
+        "Thank you.",
+        "I forgot to tell you about it."
+      ],
+      "speaker": "Mattingly",
+      "time": "1222250"
+    },
+    {
+      "tokens": [
+        "Paul, let me give you the reading on magazine SS before I forget it.",
+        "I'm now at 35."
+      ],
+      "speaker": "Mattingly",
+      "time": "1222312"
+    },
+    {
+      "tokens": [
+        "Roger; 35."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1222318"
+    },
+    {
+      "tokens": [
+        "And I guess we could - I guess we could sort of say we have filled the - the Davy square.",
+        "I don't think we ought to keep trying that.",
+        "Get a chance, why, we will, but I'm not going to keep trying after it."
+      ],
+      "speaker": "Mattingly",
+      "time": "1222321"
+    },
+    {
+      "tokens": [
+        "And the zodiacal light I'll keep on - keep on XX."
+      ],
+      "speaker": "Mattingly",
+      "time": "1222359"
+    },
+    {
+      "tokens": [
+        "Roger; XX."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1222405"
+    },
+    {
+      "tokens": [
+        "[Garble] for 20 seconds [garble] zodiacal light."
+      ],
+      "speaker": "Mattingly",
+      "time": "1222602"
+    },
+    {
+      "tokens": [
+        "Oh, I'm sorry.",
+        "I was playing my tape recorder back to myself."
+      ],
+      "speaker": "Mattingly",
+      "time": "1222613"
+    },
+    {
+      "tokens": [
+        "Ken, are you free right now?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1222809"
+    },
+    {
+      "tokens": [
+        "Say again, Hank."
+      ],
+      "speaker": "Mattingly",
+      "time": "1222817"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Are you free right now?",
+        "Are you doing something?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1222819"
+    },
+    {
+      "tokens": [
+        "I'm setting up the camera for the zodiacal light.",
+        "What do you need?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1222824"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I was just thinking.",
+        "In case we lose comm, there is one little change.",
+        "After we get LOS, where you have to configure the DSE, since we've added then this mapping camera pass - oblique, we want to get High Bit Rate instead of Low Bit Rate."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1222829"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let me write that down.",
+        "Figuring it says Low, and you want me to go High.",
+        "Okay; and if you'd remind me of that just before LOS."
+      ],
+      "speaker": "Mattingly",
+      "time": "1222848"
+    },
+    {
+      "tokens": [
+        "Roger; intend to - and - in regard to your comments about King, was there any other thing back - on the back side that you had of interest?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1222905"
+    },
+    {
+      "tokens": [
+        "I - I found a couple of items back - mostly to the - I think almost all of the things that I had a chance to look at this time were to the - to the west of King.",
+        "Between there and about AOS, I had a chance to look at the swirls, and to look at King - and a - and a crater - I first felt like I'd found - my first comment was that if there's ever a crater on the Moon that's got stratigraphy exposed, that's got to be it.",
+        "And I hope that's wrong because there wasn't anywhere I was looking.",
+        "And I took a picture of that one, and there was another little bright-rayed guy - a little splashed-out crater that looks like so many of the bright-rayed ones, except that it seems like he's built up on a mound.",
+        "Got this - got this nice mound with this real bright crater in the center of it.",
+        "And all the bright-rayed material is splashed around it.",
+        "That too was - that was about south of Fleming, I think - somewhere in that neighborhood."
+      ],
+      "speaker": "Mattingly",
+      "time": "1222921"
+    },
+    {
+      "tokens": [
+        "Okay; we'll see if we can locate it."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1223030"
+    },
+    {
+      "tokens": [
+        "Hey, Hank."
+      ],
+      "speaker": "Mattingly",
+      "time": "1223708"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1223711"
+    },
+    {
+      "tokens": [
+        "Would you tell me - confirm how many frames are on the magazine XX.",
+        "Is it 70, total?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1223714"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1223724"
+    },
+    {
+      "tokens": [
+        "Ken, should be 48 total frames on the mag, and we show you 42 remaining."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1223821"
+    },
+    {
+      "tokens": [
+        "Forty-eight total.",
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1223836"
+    },
+    {
+      "tokens": [
+        "Okay; so I can take eight frames on this thing and still have plenty for the zodiacal light?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1223850"
+    },
+    {
+      "tokens": [
+        "That's correct, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1223920"
+    },
+    {
+      "tokens": [
+        "Okay; there's one.",
+        "This stuff isn't - just isn't as bright as it was even yesterday of - The first night it was really something."
+      ],
+      "speaker": "Mattingly",
+      "time": "1223924"
+    },
+    {
+      "tokens": [
+        "There's number 2.",
+        "And number 2 was not a part of a strip, but rather an interesting graben that runs through a crater.",
+        "And I'm coming up on - I believe this is Grimaldi."
+      ],
+      "speaker": "Mattingly",
+      "time": "1223946"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We show you north of Grimaldi."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1224004"
+    },
+    {
+      "tokens": [
+        "Why, that's where I recognized that - that double crater feature.",
+        "Let's see -"
+      ],
+      "speaker": "Mattingly",
+      "time": "1224024"
+    },
+    {
+      "tokens": [
+        "You're right, I'm west.",
+        "It's Riccioli."
+      ],
+      "speaker": "Mattingly",
+      "time": "1224041"
+    },
+    {
+      "tokens": [
+        "Can you see Riccioli C?",
+        "That looks like in the map a double - a double-ring crater."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1224049"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "Yes, sir.",
+        "That's the one I thought was north of Grimaldi, and that's what I'm looking at here.",
+        "Okay; this is the area where - I don't know if I can get a photo of the things I saw last night that were really interesting.",
+        "They had some - it's not as bright - not sure I can see it all.",
+        "Yeah, there it is.",
+        "I don't know if this is gonna."
+      ],
+      "speaker": "Mattingly",
+      "time": "1224049"
+    },
+    {
+      "tokens": [
+        "Okay, my third one here in this sequence was taken off the - of the crossed grabens in Grimaldi.",
+        "And, as I commented before, when you look out in the dark, you get a very dramatic terminator, just like you do from the earthshine, just like you do from the - [garble] shine.",
+        "And there's a place - I'll try to get a picture of this, because it shows - there's this bright thing on the horizon, which is obviously a big mountain chain and I would - It sticks up quite a number of degrees above the horizon.",
+        "Okay; I guess that's - that's all I'm gonna try to take in this sequence and I'll get back to the - I'll take one up to the north here.",
+        "There's some more interesting things.",
+        "We'll still be safe."
+      ],
+      "speaker": "Mattingly",
+      "time": "1224131"
+    },
+    {
+      "tokens": [
+        "Okay; okay, I'm now on frame 13.",
+        "So that was frames whatever we had before up through 13.",
+        "And I'm going back now to the zodiacal light configuration."
+      ],
+      "speaker": "Mattingly",
+      "time": "1224254"
+    },
+    {
+      "tokens": [
+        "Sure do get some interesting sensations when you try to float around in a dark cockpit here, and you run into a camera or something, and you try to figure out what it was that just tapped you on the back."
+      ],
+      "speaker": "Mattingly",
+      "time": "1224451"
+    },
+    {
+      "tokens": [
+        "[Laughter.] Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1224501"
+    },
+    {
+      "tokens": [
+        "Okay; we're in configuration for zodiacal light."
+      ],
+      "speaker": "Mattingly",
+      "time": "1224517"
+    },
+    {
+      "tokens": [
+        "Did you want me to do this at 123:05, on time?",
+        "Is that correct?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1224533"
+    },
+    {
+      "tokens": [
+        "Ken, I guess you just don't start earlier than that."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1224540"
+    },
+    {
+      "tokens": [
+        "I'm talking about the DSE now."
+      ],
+      "speaker": "Mattingly",
+      "time": "1224547"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "Configure the DSE at 123:06."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1224619"
+    },
+    {
+      "tokens": [
+        "123:06, okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1224626"
+    },
+    {
+      "tokens": [
+        "I guess you can do that, and then start your zodiacal light any time after that."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1224637"
+    },
+    {
+      "tokens": [
+        "The zodiacal light has to start on this PAD time, I think."
+      ],
+      "speaker": "Mattingly",
+      "time": "1224645"
+    },
+    {
+      "tokens": [
+        "You're correct."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1224651"
+    },
+    {
+      "tokens": [
+        "Heys Hank, if you run into Plenty [?] around there somewhere, you might tell him that - ask him to tell Stoner and Temple that all those hours they put in configuring the CMS so that it'd have the right stowage and all the little goodies'd be in place, has certainly paid off.",
+        "Man, I can run around, and I can reach for things and get it all done without - without feeling like I'm pressed for time.",
+        "And it's thanks to their keeping that thing in flight configuration."
+      ],
+      "speaker": "Mattingly",
+      "time": "1224713"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll relate that, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1224742"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "You're looking good at LOS, and you got about a minute to go.",
+        "Don't forget your DSE."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1224940"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you very much.",
+        "See you in about 40."
+      ],
+      "speaker": "Mattingly",
+      "time": "1224948"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1224951"
+    },
+    {
+      "tokens": [
+        "Loss of Signal at 122:50."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Lunar Rev 26 begins at 123:29."
+      ],
+      "speaker": "Commentary",
+      "time": "123_29"
+    },
+    {
+      "tokens": [
+        "Casper, Houston."
+      ],
+      "speaker": "Hartsfield",
+      "time": "123_38_56"
+    },
+    {
+      "tokens": [
+        "Hello there."
+      ],
+      "speaker": "Mattingly",
+      "time": "1233902"
+    },
+    {
+      "tokens": [
+        "Hello.",
+        "How'd it go on that rev?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1233903"
+    },
+    {
+      "tokens": [
+        "Well, that's right interesting.",
+        "On the zodiacal light, I got it done and took the last frame just as the Sun - I took the frame and it said stop the tape and the Sun came up.",
+        "So, I guess that all worked out pretty good.",
+        "In the process, I missed the settings for a quarter of a second and possibly one of them for a half because when I turned the filter, it came off.",
+        "And I figured there wasn't any sense in taking it with the filter in other than its 90-degree positions.",
+        "But the rest of the stuff - managed to get done on time and we rolled out at 31:09 and turned the Mapping Camera, On, at 31:09.",
+        "So, you missed about six seconds."
+      ],
+      "speaker": "Mattingly",
+      "time": "1233910"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1234000"
+    },
+    {
+      "tokens": [
+        "I guess the - it was - maybe that was - maybe I made it.",
+        "It was right close - yeah, 31:12 was when you wanted it.",
+        "That was a tight maneuver."
+      ],
+      "speaker": "Mattingly",
+      "time": "1234003"
+    },
+    {
+      "tokens": [
+        "Ken, you have your 9 Charlie handy?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1234034"
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "Go ahead."
+      ],
+      "speaker": "Mattingly",
+      "time": "1234101"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Our best guess for the LM is at coordinates 80 and Charlie Alfa 0.7.",
+        "That's about 200 meters northwest of Double Spot."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1234102"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's 80 and Charlie Alfa 0.7."
+      ],
+      "speaker": "Mattingly",
+      "time": "1234123"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1234128"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll go take a look."
+      ],
+      "speaker": "Mattingly",
+      "time": "1234136"
+    },
+    {
+      "tokens": [
+        "And, I do have one other Flight Plan change for you."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1234142"
+    },
+    {
+      "tokens": [
+        "Thank you very much."
+      ],
+      "speaker": "Mattingly",
+      "time": "1234145"
+    },
+    {
+      "tokens": [
+        "That occurs at 126:44."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1234153"
+    },
+    {
+      "tokens": [
+        "All righty."
+      ],
+      "speaker": "Mattingly",
+      "time": "1234154"
+    },
+    {
+      "tokens": [
+        "Okay, go ahead."
+      ],
+      "speaker": "Mattingly",
+      "time": "1234215"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You know we told you earlier we didn't really want to play around with that mass spec boom.",
+        "So, we want to delete the \"Mass spec retract to 8.4 feet.\""
+      ],
+      "speaker": "Hartsfield",
+      "time": "1234216"
+    },
+    {
+      "tokens": [
+        "Okay, that's deleted."
+      ],
+      "speaker": "Mattingly",
+      "time": "1234229"
+    },
+    {
+      "tokens": [
+        "And, at 1 - 128:29, since we didn't pull it back , we don't need to deploy it again.",
+        "We can delete the \"Mass spec deploy.\""
+      ],
+      "speaker": "Hartsfield",
+      "time": "1234231"
+    },
+    {
+      "tokens": [
+        "Hank, are you still there?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1234312"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Did you copy that last?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1234314"
+    },
+    {
+      "tokens": [
+        "No, you just stopped talking it sounded like."
+      ],
+      "speaker": "Mattingly",
+      "time": "1234319"
+    },
+    {
+      "tokens": [
+        "Oh - okay..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1234322"
+    },
+    {
+      "tokens": [
+        "You want me to delete the boom retraction."
+      ],
+      "speaker": "Mattingly",
+      "time": "1234323"
+    },
+    {
+      "tokens": [
+        "Okay, at 128:29, there - delete \"Mass spec deploy.\""
+      ],
+      "speaker": "Hartsfield",
+      "time": "1234327"
+    },
+    {
+      "tokens": [
+        "Okay, that's because it is already out."
+      ],
+      "speaker": "Mattingly",
+      "time": "1234342"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1234345"
+    },
+    {
+      "tokens": [
+        "And, Ken, your biomed data looks good now and I guess that's about all I got for you at AOS.",
+        "Did you see anything on this last back side that is worthy of comment?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1234350"
+    },
+    {
+      "tokens": [
+        "Ah - yeah.",
+        "Around Mandel'shtam, I was looking at some interesting flow features.",
+        "And, again, I am using the flow feature - that's the kind of appearance it has - not that's what it is.",
+        "And, right at AOS - oh, maybe 3 minutes after AOS - I mean IDS -"
+      ],
+      "speaker": "Mattingly",
+      "time": "1234403"
+    },
+    {
+      "tokens": [
+        "Hank, right now I am looking at - coming on across Smythii and I'm looking at some features there that - up on one of the - of the subdued filled-in craters that we see on the northern edge - I - well, it's out - out of where I can reach it now, what I - what I was looking at was a crater that's - all subdued and typical of those features in Smythii.",
+        "It had an outer ring and I think probably the crater I was looking at is the one that's about -"
+      ],
+      "speaker": "Mattingly",
+      "time": "1234731"
+    },
+    {
+      "tokens": [
+        "Hit Auto in the High Gain, Casper, when you get a chance."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1234825"
+    },
+    {
+      "tokens": [
+        "Okay, you've got Auto.",
+        "I guess the one I was looking at is the one that's on the map about 85 degrees - no, make that about 84 degrees east and about 2 degrees south - There's a large one there.",
+        "And on the northeast side of it, there is a little bright-rayed crater that I - first caught my eye.",
+        "And, then there's an arcuate pattern that goes with it that's concentric to this large crater.",
+        "And this bright crater is right at the head of it.",
+        "This concentric material is a very light color - and if it were in a straight line, you would say it was ray material.",
+        "It's possible - it doesn't look like a raised rim like the other rims on the concentric crater on the big basin.",
+        "However, it looks like this little bright-rayed crater is right at the head of it.",
+        "And it is - the bright-rayed crater appears to be domed up in just a slight rise and then this bright crater in top of it.",
+        "And then what looks like this other ring, which is concentric to the big crater.",
+        "We ought to have that on pan stuff, so I won't worry about it.",
+        "Because it is almost directly into the ground track."
+      ],
+      "speaker": "Mattingly",
+      "time": "1234831"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Can you see Neper from there?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1235007"
+    },
+    {
+      "tokens": [
+        "Not now.",
+        "I probably could have then."
+      ],
+      "speaker": "Mattingly",
+      "time": "1235013"
+    },
+    {
+      "tokens": [
+        "How far to the - either side of the ground track do you think you can adequately see?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1235026"
+    },
+    {
+      "tokens": [
+        "Not very far.",
+        "These windows really - You're really restricted.",
+        "Let me see if I can give you a gouge here."
+      ],
+      "speaker": "Mattingly",
+      "time": "1235035"
+    },
+    {
+      "tokens": [
+        "I was just curious.",
+        "We are going to be coming by La Perouse and Kapteyn here shortly and I just wondered if you could get a look at their central features."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1235044"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "I know you can't see - Oh, I'm almost positive you can't see that far."
+      ],
+      "speaker": "Mattingly",
+      "time": "1235052"
+    },
+    {
+      "tokens": [
+        "We're flying - what a - north - south of Blagg right now, right?",
+        "So, that means my window number 3 is straight down."
+      ],
+      "speaker": "Mattingly",
+      "time": "1235126"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1235137"
+    },
+    {
+      "tokens": [
+        "Okay, I've got - ol' La Perouse and Ansgarius."
+      ],
+      "speaker": "Mattingly",
+      "time": "1235215"
+    },
+    {
+      "tokens": [
+        "Well, wait a minute - maybe not."
+      ],
+      "speaker": "Mattingly",
+      "time": "1235229"
+    },
+    {
+      "tokens": [
+        "Okay, I can see La Perouse.",
+        "I missed him.",
+        "I got out here a little bit too late."
+      ],
+      "speaker": "Mattingly",
+      "time": "1235242"
+    },
+    {
+      "tokens": [
+        "I should be looking at the two I was always getting confused here.",
+        "And, that - must be getting pretty close to a subsolar point, because the terrain features are really hard to distinguish.",
+        "I do see Kapteyn and Langrenus A.",
+        "And the central feature in Langrenus A is more obvious than the one in Kapteyn from the Sun angle."
+      ],
+      "speaker": "Mattingly",
+      "time": "1235258"
+    },
+    {
+      "tokens": [
+        "You just passed the subsolar point, Ken, about three or four minutes ago."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1235341"
+    },
+    {
+      "tokens": [
+        "Yeah, it's pretty hard to see things, although I guess I'm equally impressed with how much you can see in - certainly see a lot more than these photographs have shown us."
+      ],
+      "speaker": "Mattingly",
+      "time": "1235348"
+    },
+    {
+      "tokens": [
+        "You are over the Maclaurin series now."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1235405"
+    },
+    {
+      "tokens": [
+        "Yeah, I have trouble with them up here just like I did in school."
+      ],
+      "speaker": "Mattingly",
+      "time": "1235416"
+    },
+    {
+      "tokens": [
+        "Okay, I am looking at the central peaks in Langrenus and you can see blocks with the telescope here."
+      ],
+      "speaker": "Mattingly",
+      "time": "1235532"
+    },
+    {
+      "tokens": [
+        "There's actually some fairly large ones on the - on the western slopes of the eastern part of the horseshoe.",
+        "And there appear to be an awful lot of them in the little alluvium fan that appears to be out to the south."
+      ],
+      "speaker": "Mattingly",
+      "time": "1235551"
+    },
+    {
+      "tokens": [
+        "And, I am trying to look at some of those dark patches that are in the southern walls.",
+        "They look like flat dark blobs of material that are in - along the terraced material.",
+        "And I really can't make out a great deal.",
+        "Terraces in this area are - are extremely wide and fairly steep .",
+        "And the walls here look relatively steep compared to the other walls around the Moon."
+      ],
+      "speaker": "Mattingly",
+      "time": "1235643"
+    },
+    {
+      "tokens": [
+        "This is really a nice attitude for viewing things.",
+        "I can see Petavius and it stacks up - great big central peak - I think that's Petavius because Petavius B is down there."
+      ],
+      "speaker": "Mattingly",
+      "time": "1235811"
+    },
+    {
+      "tokens": [
+        "Okay, I am looking at Messier and Messier A and they're - around the elongate of the two, there doesn't appear to be anything you can pick up with binoculars except it looks kind of mottled.",
+        "The interiors slope like all the rest.",
+        "The interior didn't look particularly different - on - the rounded one, it looks like there is a resistant - several resistant layers in the sides, and I'll get a picture of those.",
+        "In fact.",
+        "they're standing out.",
+        "And, it does look like there is a connection between the two craters.",
+        "Some subtle thing that comes out in the direction of the tails and, then as you come out to the west, there's some darker material that runs out and looks smooth and stands out and comes out into the mare and it - almost looks like dark material might be - might be - might be a result of the crater although I'm sure that the white - the light streaks on the - are the things that are supposed to be coming out -"
+      ],
+      "speaker": "Mattingly",
+      "time": "1240037"
+    },
+    {
+      "tokens": [
+        "It does appear to be, though, that when I look at the - I've got a place now where I can see the light tail and the - and the regular mare together and I got a picture of that.",
+        "That's frame number 14 [AS16-120-19196] on magazine Victor.",
+        "And that - It looks to me like there is a higher crater count of large craters in the light-rayed material than there is in the darker material."
+      ],
+      "speaker": "Mattingly",
+      "time": "1240213"
+    },
+    {
+      "tokens": [
+        "Say that again, Ken, about the crater count."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1240247"
+    },
+    {
+      "tokens": [
+        "It looks like it's higher in the light-rayed material than it is in the darker stuff, which is, I guess, what you would anticipate."
+      ],
+      "speaker": "Mattingly",
+      "time": "1220252"
+    },
+    {
+      "tokens": [
+        "If you are a fan of bright-rayed craters, frame number 15 [AS16-120-19197] is one of those, just coming up on - oh, lost my place."
+      ],
+      "speaker": "Mattingly",
+      "time": "1240321"
+    },
+    {
+      "tokens": [
+        "Yeah, it's about halfway between - oh, the beginning of the highlands - Gutenberg Highlands, and - where Censorinus is."
+      ],
+      "speaker": "Mattingly",
+      "time": "1240355"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1240413"
+    },
+    {
+      "tokens": [
+        "And, Hank, at this higher Sun angle now when we get down here and we look at this place where the - where we're talking about the bright rays that seem to take a Funny shape between Midler and a little crater out to the east of him.",
+        "It's not real obvious now that there is anything more than some bright material in between it."
+      ],
+      "speaker": "Mattingly",
+      "time": "1240501"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1240525"
+    },
+    {
+      "tokens": [
+        "I'll tell you, these Sun angles really can play tricks on you, and I'm looking at Midler now, and I got a real good view of him.",
+        "And we discussed the possibility of having material come in from the north and run down inside of him.",
+        "And it's not that obvious when you look down on him from here.",
+        "There's material that runs over - you see a little high.",
+        "As you look down inside, you see light and dark material, the same kind of combination you see in other craters.",
+        "With the naked eye, it looks very much like - there's an expression that says that this ridge to the north ran down inside there and formed that little tongue.",
+        "But when you look at it in blown-up detail, you see some vertical - well, now I can see places where I can see a flow pattern that's run down in.",
+        "And, as a matter of fact, I'll get a picture real fast [AS16-120-19198].",
+        "Hope that gets it."
+      ],
+      "speaker": "Mattingly",
+      "time": "1240543"
+    },
+    {
+      "tokens": [
+        "Do you think that - just looking at a map here - do you think that what you're seeing could be an expression of the rim of Nectaris?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1240642"
+    },
+    {
+      "tokens": [
+        "No.",
+        "No, I sure don't because this has a nice margin, and it curves down in and rolls down as though it had - it starts where there's a little terrace - a little - looks like part of a cratered terrace.",
+        "And it runs down inside and it runs out and forms that central feature, and it runs down on the floor.",
+        "And it certainly appears that it came and rolled down on there after the crater and all its slump features were already there.",
+        "We'll have to come back to the question of its relation to Theophilus."
+      ],
+      "speaker": "Mattingly",
+      "time": "1240652"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1240726"
+    },
+    {
+      "tokens": [
+        "Ken, for your information, John and Charlie are at Flag now."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1240920"
+    },
+    {
+      "tokens": [
+        "Okay, I'll wave to them.",
+        "I'll tell you, NASA needs to recruit some octopuses.",
+        "I could really use a couple of more hands."
+      ],
+      "speaker": "Mattingly",
+      "time": "1240929"
+    },
+    {
+      "tokens": [
+        "(Laughter) Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1240945"
+    },
+    {
+      "tokens": [
+        "Okay, I'm going to concentrate on North Ray as I distinctly believe that the - area that the traverse drawn on that goes up on the North Ray comes up on a - material that looks like it has flowed around and is part of the basic furrowed Descartes unit that's mapped back further to the east.",
+        "And it looks to me like it runs down around the crater and - and straight into it."
+      ],
+      "speaker": "Mattingly",
+      "time": "1241013"
+    },
+    {
+      "tokens": [
+        "I can see evidence of stratigraphy in North Ray, and lots of it in South Ray.",
+        "And as we come across at - boy, I'll tell you, the - the general topography down there looks about the same all the way across the board."
+      ],
+      "speaker": "Mattingly",
+      "time": "1241104"
+    },
+    {
+      "tokens": [
+        "And just at a cursory glance, we're coming up on Albategnius now and that material that's over to the east of it - that kind of hummocky and undulating material and it's furrowed.",
+        "And it looks very much like the material around Descartes.",
+        "I said it did in a very low Sun, and it has the appearance of having many of those same characteristics."
+      ],
+      "speaker": "Mattingly",
+      "time": "1241357"
+    },
+    {
+      "tokens": [
+        "Have you got pretty good shadows in this area now, Ken?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1241455"
+    },
+    {
+      "tokens": [
+        "The shadows are right here coming across Albategnius.",
+        "They're pretty well cleared out.",
+        "You just get the shadows from the very big peaks.",
+        "At Ptolemaeus, it's almost completely clear of shadows.",
+        "Alphonsus still has some.",
+        "I can pick out the crater chain now.",
+        "It's just now getting out of the shadow, and, sure enough, there is a great big little ridge that lays across the front of it that's been masking it all this time.",
+        "The floor of Ptolemaeus looks to be like all the rest of the Cayley material.",
+        "It's got a great deal of craters as you can see from the pictures.",
+        "I would say the preponderance of them are rimless.",
+        "As they get a little larger, they start to form with a - very - a very subtle rim, so I guess I can't say that they're all rimless.",
+        "There is one, looks like a fracture, about in the middle, and it may be a scarp that's caused by a fracture, or it may be a flow pattern."
+      ],
+      "speaker": "Mattingly",
+      "time": "1241501"
+    },
+    {
+      "tokens": [
+        "And as we come upon Davy chain, it appears that they do have - they don't each have an individual rim.",
+        "There is mottled material in this area, and I'm going to try and get that magazine.",
+        "I think you need to see this.",
+        "Can you give me the settings for the - so we can take a picture of this real fast."
+      ],
+      "speaker": "Mattingly",
+      "time": "1241651"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1241718"
+    },
+    {
+      "tokens": [
+        "Using VHBW."
+      ],
+      "speaker": "Mattingly",
+      "time": "1241733"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll - we see if we can get them, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1241742"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm going to take one here now at - that was 5.6 and t/125 I'll take a 250th.",
+        "Second one's a 250th.",
+        "And that ought to bracket it, I hope.",
+        "And that's of the crater chain itself.",
+        "And it just - it appears that they're essentially rimless, but the whole area down there is kind of mottled."
+      ],
+      "speaker": "Mattingly",
+      "time": "1241747"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Did you use the EL for that?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1241816"
+    },
+    {
+      "tokens": [
+        "It's a very pretty scarp.",
+        "No, I used VHBW."
+      ],
+      "speaker": "Mattingly",
+      "time": "1241817"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "You're coming up in about 20 seconds to a T-stop."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1241851"
+    },
+    {
+      "tokens": [
+        "I sure am.",
+        "Okay.",
+        "Thank you.",
+        "Give me a call at T-stop."
+      ],
+      "speaker": "Mattingly",
+      "time": "1241853"
+    },
+    {
+      "tokens": [
+        "Mark it; T-stop."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1241912"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're at T-stop.",
+        "Thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "1241917"
+    },
+    {
+      "tokens": [
+        "Okay, that's - We're now in frame 36 on magazine SS."
+      ],
+      "speaker": "Mattingly",
+      "time": "1241932"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You can go - Standby on a Mapping Camera and Image Motion, Off."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1241950"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Standby and Image Motion, Off.",
+        "Barber pole - gray."
+      ],
+      "speaker": "Mattingly",
+      "time": "1242000"
+    },
+    {
+      "tokens": [
+        "It's very interesting, Hank.",
+        "I've got a little stranger back here that's trailing me.",
+        "Must be one of Casper's friends."
+      ],
+      "speaker": "Mattingly",
+      "time": "1242021"
+    },
+    {
+      "tokens": [
+        "All righty.",
+        "We'll..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1242029"
+    },
+    {
+      "tokens": [
+        "Got a little light's just sitting out there.",
+        "I guess he's - I have no idea how far away it is, you know, though - I have the impression it's like ten feet, but it could be 100 feet or 1000 feet.",
+        "But it's apparently some little particle that's in orbit with me, and it's - it's probably rotating, because it's winking.",
+        "I first saw these last night, and I thought I'd seen something on the ground.",
+        "Then I realized I'd - it was moving at the same rate I was and every now and then I look out and I see these particles that are reflecting around me."
+      ],
+      "speaker": "Mattingly",
+      "time": "1242030"
+    },
+    {
+      "tokens": [
+        "If you see a blue one winking, you'd better pull over."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1242107"
+    },
+    {
+      "tokens": [
+        "Mass spec guys might be interested.",
+        "(Laughter) Yeah, if I hear someone say, \"Beep, beep,\" I'll wake the SPS or something."
+      ],
+      "speaker": "Mattingly",
+      "time": "1242110"
+    },
+    {
+      "tokens": [
+        "The mass spec guys might be interested in that though."
+      ],
+      "speaker": "Mattingly",
+      "time": "1242128"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "They're listening."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1242132"
+    },
+    {
+      "tokens": [
+        "Casper, Houston."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1242348"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mattingly",
+      "time": "1242353"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "To make up some of the SIM Bay data we lost here, we'd like to make a real-time change here, since we've got to maneuver over to the north oblique here in about 40 minutes or so.",
+        "We'd just like to now make a maneuver to plus-X SIM Bay, and we'll take SIM Bay data until you have to roll on over to the north oblique."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1242354"
+    },
+    {
+      "tokens": [
+        "I understand you'd like for me to go to plus-X forward SIM Bay attitude now."
+      ],
+      "speaker": "Mattingly",
+      "time": "1242421"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1242426"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I can do that and eat at the same time."
+      ],
+      "speaker": "Mattingly",
+      "time": "1242432"
+    },
+    {
+      "tokens": [
+        "Henry, I understand you want me to go to the north oblique photo attitude."
+      ],
+      "speaker": "Mattingly",
+      "time": "1242536"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "Now we just want you to go to the plus-X SIM Bay."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1242540"
+    },
+    {
+      "tokens": [
+        "Or just to the - Okay, fine."
+      ],
+      "speaker": "Mattingly",
+      "time": "1242543"
+    },
+    {
+      "tokens": [
+        "You playing music, Ken?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "1242910"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "How do you like Mahler from space?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1242914"
+    },
+    {
+      "tokens": [
+        "Sounds all right."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1242919"
+    },
+    {
+      "tokens": [
+        "I know you don't like him even - you don't even like him at home.",
+        "I'll tell you, this has got to be absolutely sinful - too much fun to be [garble]."
+      ],
+      "speaker": "Mattingly",
+      "time": "1242921"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I see you're at attitude."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1243009"
+    },
+    {
+      "tokens": [
+        "Hey, thank you.",
+        "Good call.",
+        "That'll keep me from having to do it again."
+      ],
+      "speaker": "Mattingly",
+      "time": "1243018"
+    },
+    {
+      "tokens": [
+        "And, Ken, to fill you in, what we're after is to get as much of the SIM Bay data as we can, since we missed some of it.",
+        "The alpha part[icle] especially needs a lot of it, and - if you've got you Flight Plan in front of you, at - at 125:15, we are supposed to now - then move over to the 40 degrees north oblique.",
+        "FAO says that maneuver takes a maximum of three minutes.",
+        "So if you could delay starting that until whatever you figure is a reasonable time before the mapping camera T-start, then we can - we can get a pretty good slug of data in there."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1243027"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Be glad to do that.",
+        "How's our little laser coming along?",
+        "Is it doing any better or any worse?",
+        "I guess we haven't had it on since you gave me your report, though."
+      ],
+      "speaker": "Mattingly",
+      "time": "1243108"
+    },
+    {
+      "tokens": [
+        "It's still toddling, Ken.",
+        "I guess when we get it back running again, we'll be getting about 80 percent with it."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1243138"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Is that latter [laser?] network working, or has it got a different problem?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1243149"
+    },
+    {
+      "tokens": [
+        "It's working okay, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1243154"
+    },
+    {
+      "tokens": [
+        "Hank, can I give you some comments that are not really pertinent to anything we're doing, but little observations that I had a chance to make, and I'm afraid I'll forget them.",
+        "I got too many things stored up in my head now."
+      ],
+      "speaker": "Mattingly",
+      "time": "1243303"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1243318"
+    },
+    {
+      "tokens": [
+        "But - one of - one of the things, I was just sitting here looking at the equipment and some of the things that have caused more interest than others in what we were doing.",
+        "And - one of the things that is at the heart of a lot of your time in this spacecraft is fixing something to eat.",
+        "Now, I'm - without discussing whether or not you need to eat this much, just the idea that if you try to eat part of it, it takes an awful long time to fix each of these things.",
+        "And one of the big hang-ups is we all get clustered around the water gun.",
+        "We've talked about gas coming out of the water gun, and this is not the drink port, but the food-preparation station.",
+        "And the - if you - one of the ways we found we could induce gas bubbles into the waker was by depressing the plunger before it had had a chance to complete its stroke.",
+        "If you let it complete its stroke, it seems to give you a nice, relatively gas-free shot of water.",
+        "And it looks like the hot water gives you more for an ounce than the cold water does.",
+        "But if you're very meticulous about waiting until you're sure that the plunger has made its full travel, and then count to ten or something before you push it again, the cold water isn't quite as short as it looks like it is.",
+        "And I don't really know how to explain why we have gas bubbles sometimes and why we don't.",
+        "It's almost as though the gas separator may not affect the problem.",
+        "We started out and the first couple of days we didn't have any gas.",
+        "I guess about two days.",
+        "Then on the third day, we started getting gas in the hot water and we were getting like 50 percent gas.",
+        "We tried the cigar gas separator, and that - that - after we got it flushed out the first time, seemed to work pretty well.",
+        "And then it started getting gas, so we decided to try the prototype model.",
+        "Then when we put it on the feed station - why, as soon as we put it on, why, we made a squirt and nothing came out, and we decided to try it again.",
+        "And by then, it was obvious that it was building up pressure inside, and the food station was putting out water, and it wasn't coming out the other end.",
+        "And we never did get water to come out the - the outlet side of the new gas separator.",
+        "And it looks like it has a crack in the top on the inlet side, and the gas - the water was bubbling out of that.",
+        "It was coming out under pressure.",
+        "When we took the thing off, why, you could tell that the check valve or something, had never been opened.",
+        "So we really don't know whether that thing has an effective use or not.",
+        "And it - it seems like the more water you use, the more gas you get.",
+        "I don't - I'm not sure I completely understand that.",
+        "You get more gas in the hot water than you do in the cold water.",
+        "But the water I've been getting out today and yesterday has been almost gas-free spin it up here, and I won't get - I get a zone of less than ten percent gas.",
+        "And that's ten percent of a seven-ounce food - juice bag.",
+        "The other day we were getting 50 percent.",
+        "And I really can't psych out exactly all the causes for it.",
+        "The cigar food - cigar dispenser there has some problems of its own.",
+        "And every time you get through with it, it dribbles.",
+        "And it will dribble for quite a while.",
+        "But I found out if you put the little cap on it right away, then it quits dribbling.",
+        "And it's only that initial dribble, and the rest of it from there on is easy.",
+        "I really don't expect anything to be done with these comments.",
+        "I just want to - we're supposed to evaluate these things, Hank.",
+        "And rather than write them down - it's a lot easier to put here, and I'll get it off the tape after the flight."
+      ],
+      "speaker": "Mattingly",
+      "time": "1243319"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I took notes there on most of that."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1243756"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm sorry.",
+        "I should have told you first.",
+        "I really wasn't anticipating you having to copy all that.",
+        "I'm kind of rambling and being verbose.",
+        "But I can see that I'm not going to get everything I see written down and probably ought to go ahead and get it jotted down some way."
+      ],
+      "speaker": "Mattingly",
+      "time": "1243801"
+    },
+    {
+      "tokens": [
+        "Ken, it looks like the next action in the Flight Plan for you is around 125:13 where it says \"GDC align.\" I think we've scratched out everything ahead of that."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1243937"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm taking advantage of that to get a little eating done, and maybe we can have a chance to look at the backside this time."
+      ],
+      "speaker": "Mattingly",
+      "time": "1244001"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1244008"
+    },
+    {
+      "tokens": [
+        "Hank, there's one other thing I'd like to comment on before I forget it."
+      ],
+      "speaker": "Mattingly",
+      "time": "1244424"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1244429"
+    },
+    {
+      "tokens": [
+        "That's the cockpit temperature.",
+        "I've been noticing a little gauge, and it (laughter) - it doesn't ever move.",
+        "I think it's got a - I think it's plugged into a dummy load somewhere.",
+        "But the cockpit temperature does, in fact, change quite a bit.",
+        "And on the way out, in PTC with the three of us in here, it never really got cool enough even for people as warmblooded as Charlie and I.",
+        "And we were wondering, you know, gee, if it was like that in PTC, what was it going to he like when we got in orbit.",
+        "And the first day in orbit there, it was - it really was kind of hot and stuffy.",
+        "And I don't know when it got cool, but last night it was nice and cool.",
+        "And, in fact, I woke up this morning because I was cold.",
+        "That was the reason I woke up.",
+        "And in the past, I've had a hard time sleeping sometimes, because it was warm.",
+        "I don't know whether that's a - that's caused by going to the 60-circular orbit, or whether that's caused by having only one body to take care of in here, instead of three.",
+        "But it was very obvious.",
+        "Unfortunately, we'd get a chance to - I couldn't tell you yesterday.",
+        "I was wearing a suit, and so it was never really comfortable most of the day.",
+        "Maybe when John and Charlie get back, we'll notice again, and see if it gets hot again."
+      ],
+      "speaker": "Mattingly",
+      "time": "1244433"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "We're about two minutes from LOS, and everything's looking good from this end."
+      ],
+      "speaker": "Hartsfield",
+      "time": "1244929"
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "You're cutting out; I understand."
+      ],
+      "speaker": "Mattingly",
+      "time": "1244941"
+    },
+    {
+      "tokens": [
+        "Loss of Signal at 124:51."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "No transcript for 18 minutes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Lunar Rev 27 begins at 125:27."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Acquisition of Signal at 125:42."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day6_part1_lunar_observation_revs_21_to_27.html"
+}

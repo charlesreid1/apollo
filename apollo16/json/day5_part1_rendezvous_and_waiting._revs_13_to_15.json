@@ -1,0 +1,5195 @@
+{
+  "description": "A16FJ - Day 5, Part 4: Rendezvous and Waiting. Revs 13 to 15",
+  "transcript": [
+    {
+      "tokens": [
+        "We rejoin Apollo 16 halfway through Rev 13, awaiting AOS."
+      ],
+      "speaker": "Commentary",
+      "time": "098_05"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control; 98 hours, 5 minutes Ground Elapsed Time into the mission of Apollo 16.",
+        "Three minutes and 50 seconds to Acquisition of Signal; that is, [for] the two spacecraft come around the Moon on the 13th lunar revolution.",
+        "Some 29 minutes, 24 seconds until ignition for the landing phase.",
+        "Ignition time for PDI or Powered Descent Initiate is 98:35:04.",
+        "The descent engine will burn for approximately 12 minutes and 53 seconds, according to the nominal plan, for a total velocity change from orbital velocity all the way down to zero, or landing at the lunar surface of 6,698 feet per second [2,041 metres per second].",
+        "The Lunar Module Orion will slim down at a rate that would make a calorie counter envious for at the start of PDI, the Orion will weigh some 18 tons.",
+        "By landing, she'll only weigh 9 tons.",
+        "All of this weight loss, of course, is propellant.",
+        "During the descent, the Lunar Module Pilot will be calling out numbers that the computer display has displayed for him.",
+        "He will call them out to the Commander.",
+        "Both men will be in what is called a Vox mode, or voice actuated communications so that those on the ground can hear their conversation.",
+        "The Lunar Module Pilot will call out these numbers for the angle at which the Commander can see the landing site on a grid on his window called the Landing Point Designator.",
+        "During the final descent phase of the touchdown, the Lunar Module Pilot will be calling out the landing radar readouts of H and H-dot, that is, altitude and descent rate respectively.",
+        "The so-called low level of propellant quantities will be called out when the propellant quantities reach 5.8 percent.",
+        "At that time, the burn time remaining will be approximately 111 seconds.",
+        "91 seconds into this margin, there's a point called 'Bingo'.",
+        "This is the point where the Commander has to make the decision to go ahead and land or to begin vertical motion and then abort stage in case it's a No-Go situation on the landing.",
+        "He has approximately 20 seconds to make this decision to land.",
+        "The CapCom, in this case, Jim Irwin, or the Orion, will be make this call of level and Bingo to the crew at the appropriate times.",
+        "Some 19 seconds away from predicted acquisition as Orion and Casper come around the Moon and Casper meanwhile will have circularized.",
+        "25 minutes, 47 seconds from ignition.",
+        "We should have acquisition now.",
+        "We're standing by for that."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It remains to be seen whether the steerable antenna on the Orion is functioning properly as we come around on Revolution 13.",
+        "In any case, whether it works or not, we're still Go for landing at this point.",
+        "Displays here in Mission Control have switched from the lunar orbit background projection plotters to the X-Y plotters of altitude, velocity and so on.",
+        "Colored lines that are driven by radar, for the descent and landing phase.",
+        "We have AOS on Lunar Module Orion.",
+        "Let's switch on to air-ground."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The available audio recordings do not include the communication between Ken in the CSM and Mission Control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "How do you read?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0981113"
+    },
+    {
+      "tokens": [
+        "Okay; they're locking up on me.",
+        "Hello, Houston.",
+        "This is Casper Bar [?] now.",
+        "We did not do [the] Circ [burn], and I'd like to talk about the TVC servo loops."
+      ],
+      "speaker": "Mattingly",
+      "time": "cm098_11_16"
+    },
+    {
+      "tokens": [
+        "Understand.",
+        "No Circ."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0981129"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "Presently, about a mile ahead of the LM.",
+        "And I'd like to talk about a TVC servo loop problem."
+      ],
+      "speaker": "Mattingly",
+      "time": "0981133"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "Go ahead."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0981151"
+    },
+    {
+      "tokens": [
+        "Okay, and - and break in and tell me as soon as you get the DS - get ready to dump the DSE, so you can take a look at what I'm talking about, and I'll leave the antenna Manual and Wide until you do.",
+        "Okay; the text is that we came up to the burn time and I was going through the gimbal checks.",
+        "Number 1 servo started normally, checked out.",
+        "I switched to - clockwise on the THC to perform the secondary gimbal check and started them - they looked normal.",
+        "I set the pitch trim normally, and I went to set the yaw trim; I'd just been checking that the trim lock [?] worked, and I got divergent oscillations on the yaw trim indicator, and you could feel them in the spacecraft.",
+        "So I switched to the - Servo Power to the Number 2 Servo to AC1/Main A, tried that.",
+        "That had no effect.",
+        "Then I cycled through looking at - at the gimbal - with the Auto Drive switch in Number 1, Number 2 in Auto.",
+        "Every time I selected Number 2, by some means, I had the same results.",
+        "Then I tried SCS in Auto, and as soon as I would excite some motion in the secondary yaw servo, why it would go unstable again.",
+        "I then tried using the G&N to drive the gimbal, and I did the first half of the gimbal drive in Servo Loop 1, then switched to the Servo Loop 2 for the second half, and again the same instability showed up.",
+        "Based on the [mission] rule of four servo loops, I canceled Circ.",
+        "I had no other indications in the cockpit, no warning lights, no - no other abnormalities."
+      ],
+      "speaker": "Mattingly",
+      "time": "0981155"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0981358"
+    },
+    {
+      "tokens": [
+        "The [garble] was in fact running, but I don't think that could have had any effect when SCS was going."
+      ],
+      "speaker": "Mattingly",
+      "time": "0981401"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Could we get you to go to the AOS attitude, Ken, so we can dump the data?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0981410"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "Will do."
+      ],
+      "speaker": "Mattingly",
+      "time": "0981420"
+    },
+    {
+      "tokens": [
+        "How about if I just give you the high gain from right here?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0981425"
+    },
+    {
+      "tokens": [
+        "CM on board transcript ends until 099:16:32."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, if you think you can get it up."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0981431"
+    },
+    {
+      "tokens": [
+        "Okay; I've got you a solid lock on the high gain."
+      ],
+      "speaker": "Mattingly",
+      "time": "0981530"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "We'd like to verify that..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0981540"
+    },
+    {
+      "tokens": [
+        "[Garble] So I can keep the LM in sight."
+      ],
+      "speaker": "Mattingly",
+      "time": "0981541"
+    },
+    {
+      "tokens": [
+        "Casper, we'd like to verify that the - that the oscillations were on servo loop Number 2.",
+        "Is that correct?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0981554"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "Servo loop Number 2, yaw only."
+      ],
+      "speaker": "Mattingly",
+      "time": "0981600"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And servo loop Number 1 is okay?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0981608"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Mattingly",
+      "time": "0981611"
+    },
+    {
+      "tokens": [
+        "And did I read that the first time through the servo checks, they were okay?",
+        "And then when you started to set the yaw trim, the oscillation started, and that once you had the malfunction, it occurred in..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0981618"
+    },
+    {
+      "tokens": [
+        "No, sir.",
+        "No, sir.",
+        "Primary loop checked out normally.",
+        "Secondary loop never checked out in yaw servo."
+      ],
+      "speaker": "Mattingly",
+      "time": "0981631"
+    },
+    {
+      "tokens": [
+        "Roger; copy.",
+        "And that was both..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0981640"
+    },
+    {
+      "tokens": [
+        "[Garble] started normally, and it's - Go ahead, Hank."
+      ],
+      "speaker": "Mattingly",
+      "time": "0981643"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And that occurred both in SCS and G&N, is that correct?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0981649"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "And I tried both Auto and Rate Command in SCS."
+      ],
+      "speaker": "Mattingly",
+      "time": "0981656"
+    },
+    {
+      "tokens": [
+        "And, Ken, We'd like to confirm that was a divergent oscillation.",
+        "Is that correct?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0981721"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Mattingly",
+      "time": "0981728"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "We'd like for you to run another gimbal drive check in the yaw axis on both SCS and G&N, and let us take a look at it."
+      ],
+      "speaker": "Hartsfield",
+      "time": "cm098_19_08"
+    },
+    {
+      "tokens": [
+        "Okay; I'm prepared to do that right now if you're ready."
+      ],
+      "speaker": "Mattingly",
+      "time": "0981918"
+    },
+    {
+      "tokens": [
+        "Ready to go."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0981924"
+    },
+    {
+      "tokens": [
+        "Okay; I'm bringing the Bus Ties on."
+      ],
+      "speaker": "Mattingly",
+      "time": "0982013"
+    },
+    {
+      "tokens": [
+        "Okay, and ServoPowers 1 and 2 are on in the loop configuration.",
+        "Are you ready for me to start the gimbals ?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0982030"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Ken.",
+        "Go ahead."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0982041"
+    },
+    {
+      "tokens": [
+        "Okay, here comes - You just wanted to look at the yaw.",
+        "Here comes Yaw number 2.",
+        "There it is, and it's oscillating now, and it's damped out, and that's in Auto.",
+        "I'll switch it to Number 2, and Number 2 in Auto.",
+        "I'm now going to move the , and it - Well, now it's - there it goes - now it's oscillating, and it's divergent, and I'm turning the Gimbals Off.",
+        "Okay, Yaw Gimbal Number 2 is Off.",
+        "I'll hold this configuration."
+      ],
+      "speaker": "Mattingly",
+      "time": "0982051"
+    },
+    {
+      "tokens": [
+        "No conversation for 12 minutes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ken, is your transponder on?"
+      ],
+      "speaker": "Young",
+      "time": "0983245"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "It is."
+      ],
+      "speaker": "Mattingly",
+      "time": "0983250"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're gonna try our radar lockup here again."
+      ],
+      "speaker": "Duke",
+      "time": "0983259"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "0983307"
+    },
+    {
+      "tokens": [
+        "John, you want to try to initialize VHF ranging while we're above it?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0983403"
+    },
+    {
+      "tokens": [
+        "Orion, Casper."
+      ],
+      "speaker": "Mattingly",
+      "time": "0983435"
+    },
+    {
+      "tokens": [
+        "Would you like to try and check out our VHF at the same time?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0983445"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0983449"
+    },
+    {
+      "tokens": [
+        "Sounds very garbled.",
+        "If you can read me, Orion, you're extremely garbled and making a pulsing-noise sound."
+      ],
+      "speaker": "Mattingly",
+      "time": "0983502"
+    },
+    {
+      "tokens": [
+        "Orion, do you read me on B Duplex?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0983551"
+    },
+    {
+      "tokens": [
+        "Orion, do you read Casper?",
+        "Orion, do you read Casper?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0983710"
+    },
+    {
+      "tokens": [
+        "Houston, Casper."
+      ],
+      "speaker": "Mattingly",
+      "time": "0983731"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0983733"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It looks like I'm losing comm with Orion.",
+        "Could you ask them to go back to A Simplex?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0983739"
+    },
+    {
+      "tokens": [
+        "Wilco."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0983745"
+    },
+    {
+      "tokens": [
+        "Go ahead, Ken."
+      ],
+      "speaker": "Duke",
+      "time": "0983800"
+    },
+    {
+      "tokens": [
+        "Okay, you were just about unreadable.",
+        "I don't know if you could pick me up on that other configuration, but that didn't work at all.",
+        "Yeah, but it was coming through completely garbled - unintelligible.",
+        "Okay.",
+        "Okay; and if no voice in 30 seconds, we'll come back to A Simplex.",
+        "Okay, how do you read me now?",
+        "You're still very scratchy, hardly make you out at all.",
+        "Yeah, that's pretty bad.",
+        "That's not much better; it's not near like what we got before.",
+        "Let's go back to A Simplex."
+      ],
+      "speaker": "Mattingly",
+      "time": "0983803"
+    },
+    {
+      "tokens": [
+        "Hey, you sound good now."
+      ],
+      "speaker": "Mattingly",
+      "time": "0983916"
+    },
+    {
+      "tokens": [
+        "Hey, Charlie."
+      ],
+      "speaker": "Mattingly",
+      "time": "0984000"
+    },
+    {
+      "tokens": [
+        "Okay, you want to turn your light on when it gets dark?",
+        "And how about let's try a little ranging here, before we go into the darkness?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0984018"
+    },
+    {
+      "tokens": [
+        "[Garble] CapCom..."
+      ],
+      "speaker": "MCC",
+      "time": "0984025"
+    },
+    {
+      "tokens": [
+        "...comm now - you're on - on configuration for ranging."
+      ],
+      "speaker": "Mattingly",
+      "time": "0984026"
+    },
+    {
+      "tokens": [
+        "Hey - am I - Hey, Gerry, am I on your loop?",
+        "Okay.",
+        "Hey, on - on this conversation here, I ran this rendezvous from the miniball."
+      ],
+      "speaker": "MCC",
+      "time": "0984030"
+    },
+    {
+      "tokens": [
+        "Hey, Stuart, you're on air-to-ground."
+      ],
+      "speaker": "Mattingly",
+      "time": "0984045"
+    },
+    {
+      "tokens": [
+        "Sorry about that, Ken."
+      ],
+      "speaker": "MCC",
+      "time": "0984048"
+    },
+    {
+      "tokens": [
+        "Hey, Charlie, let's - hey, Charlie, how about let's try out this ranging?",
+        "You're in the ranging configuration, right?",
+        "Okay, stand by for about 30 seconds until I try to lock up."
+      ],
+      "speaker": "Mattingly",
+      "time": "0984051"
+    },
+    {
+      "tokens": [
+        "Okay, I've got you at 0.36; 0.38; 0.36, bouncing around.",
+        "How does that compare?",
+        "It doesn't really."
+      ],
+      "speaker": "Mattingly",
+      "time": "0984134"
+    },
+    {
+      "tokens": [
+        "Gee, I think so.",
+        "Might as well keep an eye on it, looks like we're getting ready to go in the dark here.",
+        "Could you wait until we get in the dark so I can look at you?",
+        "Right now, I've got the Sun right smack in my eyes."
+      ],
+      "speaker": "Mattingly",
+      "time": "0984524"
+    },
+    {
+      "tokens": [
+        "Did you get any words out of Houston?",
+        "I haven't heard a word from them."
+      ],
+      "speaker": "Mattingly",
+      "time": "0984540"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "We're working on a problem down here."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0984550"
+    },
+    {
+      "tokens": [
+        "Roger, Henry.",
+        "I understand that; but I'm not bugging you.",
+        "We'll stay off the loop."
+      ],
+      "speaker": "Mattingly",
+      "time": "0984557"
+    },
+    {
+      "tokens": [
+        "Okay, we've got the data down, and we've got the strip charts, and we're taking a look here and see if we can't find some way to get around it."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0984602"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I know if there's a way, you'll find it."
+      ],
+      "speaker": "Mattingly",
+      "time": "0984611"
+    },
+    {
+      "tokens": [
+        "Stand by a second."
+      ],
+      "speaker": "Mattingly",
+      "time": "0984803"
+    },
+    {
+      "tokens": [
+        "Was doing temporary battle with our friend, the trash bag.",
+        "I have you, visual.",
+        "Tally ho."
+      ],
+      "speaker": "Mattingly",
+      "time": "0984812"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll keep you in sight."
+      ],
+      "speaker": "Mattingly",
+      "time": "0984839"
+    },
+    {
+      "tokens": [
+        "That old probe is really nice."
+      ],
+      "speaker": "Mattingly",
+      "time": "0984909"
+    },
+    {
+      "tokens": [
+        "Casper, Houston."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0985043"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Mattingly",
+      "time": "0985048"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're getting set up for another gimbal drive check, Ken, and what we want to do is go through a complete gimbal drive check by the numbers, and have you tell us as you do each thing and especially in relation to the - the yaw thumbwheel, which way you're moving it and how many degrees and - and what's happening.",
+        "And we'll give you the word when we're ready to start that.",
+        "We've got to get some things configured down here."
+      ],
+      "speaker": "Hartsfield",
+      "time": "cm098_50_50"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Was attitude - How about looking ahead to see if this attitude is going to hold throughout the test?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0985116"
+    },
+    {
+      "tokens": [
+        "Okay, I'll check it."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0985123"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "0985127"
+    },
+    {
+      "tokens": [
+        "The attitude is good, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0985133"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "0985138"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "We're ready to go.",
+        "Do you think VOX might make it easier for you?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0985410"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "I'll go to VOX now and, Orion, are you still working on your [P]52?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0985420"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm going to have my head in the cockpit here for a while, but if Mr.",
+        "Kepler isn't a high school dropout, why, we won't hit anyhow."
+      ],
+      "speaker": "Mattingly",
+      "time": "0985431"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Here we go.",
+        "I'm gonna run over the switch configuration that I've got in the cockpit.",
+        "We're going to do this - everything except calling P40, or do you want to call P40 for something?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0985446"
+    },
+    {
+      "tokens": [
+        "We don't need P40."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0985501"
+    },
+    {
+      "tokens": [
+        "[Garble] you do not want P40.",
+        "Okay, here we go.",
+        "I got - The circuit breakers are all checked over on Panel 8.",
+        "The only ones that are out are RCS Logic, the Probe, and the stuff on the bottom rows that don't matter.",
+        "Okay.",
+        "The switches for SCS are in Limit Cycle, Off; Dead Band, Min; Rate, Low.",
+        "I've got the Rotation Power at AC.",
+        "Direct are Off.",
+        "I've got my BMAGs.",
+        "I'm going to ungag them now.",
+        "They're ungagged.",
+        "I'm going to SCS Control.",
+        "Okay.",
+        "Now I'm going over and catch the - the bus ties.",
+        "Here comes Bus Tie, AC.",
+        "It's On.",
+        "EC is On.",
+        "Gimbal power Number 1 to AC 1, number 2 to AC 2.",
+        "Start Pitch Gimbal Number 1."
+      ],
+      "speaker": "Mattingly",
+      "time": "0985503"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "And Yaw Gimbal number 1."
+      ],
+      "speaker": "Mattingly",
+      "time": "0985614"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "I have a thumbwheel drive.",
+        "I'm driving it from zero to minus one-half to plus one-half, which is the trim.",
+        "The Yaw thumbwheel is at plus one half.",
+        "I'm going to take it to zero and back up to 1, and will set it at 122.",
+        "It runs smoothly in both directions.",
+        "I'm making an MTVC check in Pitch.",
+        "There's a little plus Pitch, a little minus Pitch - that's good - a little minus Yaw, a little plus Yaw.",
+        "That's good and stable.",
+        "I'm going to CMC Control."
+      ],
+      "speaker": "Mattingly",
+      "time": "0985619"
+    },
+    {
+      "tokens": [
+        "An audio recording is available on the PAO tape covering the communications between Mission Control and Ken Mattingly in the Command Module."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "Aboard the Command Module Casper, Ken Mattingly is troubleshooting the SCS, reading out what his onboard indications are.",
+        "Let's listen to that for a while, and switch away from Orion."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "I have no MTVC.",
+        "I'm going clockwise on the Translation Hand Controller."
+      ],
+      "speaker": "Mattingly",
+      "time": "0985655"
+    },
+    {
+      "tokens": [
+        "Mark it.",
+        "I still have no MTVC.",
+        "I'm bringing on the Pitch 2 Gimbal."
+      ],
+      "speaker": "Mattingly",
+      "time": "0985701"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "I'm checking the thumbwheel down to zero, up to 1, back to one-half.",
+        "The Yaw thumbwheel is going over to one and I don't - Let me try it again.",
+        "There it goes.",
+        "Didn't have the Motor on; turning it Off.",
+        "I'll turn it on one more time.",
+        "Okay, it's stable.",
+        "I'm taking the trim, which is now set at a little over 1 on the thumbwheel, down towards zero.",
+        "I move it slowly.",
+        "It gets a little dynamics, and then it stops.",
+        "I'm going to take it down to zero at about this rate.",
+        "It oscillates, and now it's diverging, and I'm turning the Gimbal Motor Off.",
+        "I'm going to hold in this configuration."
+      ],
+      "speaker": "Mattingly",
+      "time": "0985708"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0985754"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ken, what we would like for you to do now is crank up the Yaw 2 Gimbal again to that stable condition, and then let's see what MTVC does to it - see if that will excite the oscillation."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0985913"
+    },
+    {
+      "tokens": [
+        "It did last time.",
+        "I now have the Gimbal on again, and I'm going to give it a little Yaw, and there it goes.",
+        "Coming Off..."
+      ],
+      "speaker": "Mattingly",
+      "time": "0985928"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Mattingly",
+      "time": "0985936"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "[Pause.]"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0985938"
+    },
+    {
+      "tokens": [
+        "Would you like to take a look at it in Accel Command?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0985949"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0985953"
+    },
+    {
+      "tokens": [
+        "Understand.",
+        "Stand by."
+      ],
+      "speaker": "Mattingly",
+      "time": "0985959"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Ken, go ahead and let's try it in Accel Command.",
+        "[Long pause.]"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0990004"
+    },
+    {
+      "tokens": [
+        "Okay, and it's diverging all on its own in Accel Command.",
+        "I didn't put any inputs into it."
+      ],
+      "speaker": "Mattingly",
+      "time": "0990015"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0990022"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, 99 hours and 1 minute Ground Elapsed Time.",
+        "Flight Director Gerry Griffin is instructing the two spacecraft communicators to brief the crew on the current situation.",
+        "And which apparently we have as long as five lunar orbits to make a determination on the feasibility of continuing with the landing, or whether we'll have to rendezvous with the two spacecraft back together, and do an immediate return to Earth, assuming that the Service Propulsion System would be inoperative.",
+        "We're some 14 minutes away from Loss of Signal with the Command Module.",
+        "We'll monitor the discussion between the spacecraft communicator, and the crew of Orion, and Mattingly in Casper."
+      ],
+      "speaker": "PAO",
+      "time": "cm099_01"
+    },
+    {
+      "tokens": [
+        "Hello, Orion and Casper.",
+        "This is Houston."
+      ],
+      "speaker": "Irwin",
+      "time": "0990238"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It looks like we're not going to have a decision on this rev, and we do have the capability of spending about five revs in this configuration before we have to make that decision.",
+        "We would like y'all to move into a station-keeping position, and you should be at the closest point of approach at about 100 hours, and we're recommending a CSM active to move into a position and to station-keep.",
+        "And we're gonna run some simulations down here on this TVC problem, and we'll get back to you.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0990247"
+    },
+    {
+      "tokens": [
+        "Casper, this is Houston.",
+        "You copied, too, didn't you?",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0990332"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Irwin",
+      "time": "0990337"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "I'm with you.",
+        "I still have the - some of the gimbal motors on and the bus ties.",
+        "Want to stand by on that?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0990338"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "We'd like to try one more thing.",
+        "There's a remote possibility that the RHC may be inducing some noise or transients into the system.",
+        "We'd like you to kill all the power to the RHCs.",
+        "Turn off both AC and DC, and repeat the gimbal check in AC - Accel Command and see if the gimbal takes off."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0990343"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've got - I secured the hand controller by just taking Normal 2 Power to Off, and the rest of the Powers were Off.",
+        "I'm in Accel Command on Yaw and I'm going Number 2 up to Start, and it's in Accel, and it's stable.",
+        "Would you like for me to try the thumbwheels?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0990409"
+    },
+    {
+      "tokens": [
+        "Stand by one."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0990434"
+    },
+    {
+      "tokens": [
+        "And with a little excitation from the thumbwheel, it took off again."
+      ],
+      "speaker": "Mattingly",
+      "time": "0990435"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand.",
+        "[Long pause.]"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0990439"
+    },
+    {
+      "tokens": [
+        "Ken, for that rendezvous, we're suggesting you use the procedure you worked on there in the simulator, just moving in when you're at close - closest approach."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0990509"
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "Will do that.",
+        "Thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "0990519"
+    },
+    {
+      "tokens": [
+        "Let me see if there's anything else they want to do with this gimbal thing before we shut it down?",
+        "Stand by one."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0990523"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "We'd like you to try, for our data, one more Yaw primary - Yaw secondary G&N servo loop check - gimbal check.",
+        "[Long pause.]"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0990730"
+    },
+    {
+      "tokens": [
+        "Henry, did you say primary and secondary on this G&N drive?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0990809"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "Just - just the secondary loop.",
+        "I didn't mean to say primary."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0990814"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Can I turn the other three gimbal motors off?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0990821"
+    },
+    {
+      "tokens": [
+        "Say again.",
+        "You were blocked out."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0990827"
+    },
+    {
+      "tokens": [
+        "I say, I'd like to turn the other three gimbal motors off if we don't need them."
+      ],
+      "speaker": "Mattingly",
+      "time": "0990832"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead and turn those off.",
+        "[Long pause.]"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0990837"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm now in - I'm in S - in CMC Control.",
+        "I'm setting up 204, and I have program 509 loaded.",
+        "[Pause.] I'm starting Gimbal number 2 Yaw.",
+        "[Pause.] Okay.",
+        "It's stable now.",
+        "I'm going to do a Proceed on 204."
+      ],
+      "speaker": "Mattingly",
+      "time": "0990850"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0990916"
+    },
+    {
+      "tokens": [
+        "Well, doesn't look like I got anything that time."
+      ],
+      "speaker": "Mattingly",
+      "time": "0990949"
+    },
+    {
+      "tokens": [
+        "I suspect you've got to be in G&N or CMC Control, haven't you?",
+        "[Pause.]"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0990952"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let's try it again.",
+        "Go back over everything.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0991001"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm coming up.",
+        "I'm going to start it again.",
+        "I'm going to try it.",
+        "Now, as soon as I turn - Well, by golly, it - it damped itself there, it started out wild, and it's settled down.",
+        "Now I'm going to Proceed on 204."
+      ],
+      "speaker": "Mattingly",
+      "time": "0991030"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0991045"
+    },
+    {
+      "tokens": [
+        "Plus two, and it's oscillating.",
+        "Minus two, and it's oscillating about one degree each, and it's oscillating in the center, it is not divergent, however.",
+        "Well - now it's gone to trim, and it's oscillating about plus or minus - almost two degrees - or plus or minus one degree.",
+        "I'm going to turn it Off..."
+      ],
+      "speaker": "Mattingly",
+      "time": "0991053"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Mattingly",
+      "time": "0991114"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "[Long pause.]"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0991119"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 99 hours, 11 minutes into the mission of Apollo 16.",
+        "To recap the current situation, the crews of both vehicles, Casper and Orion, have been instructed to station-keep as they come to their closest approach during the next pass behind the Moon, with the Command Service Module being active in the rendezvous.",
+        "We have some five hours to resolve the current problem which consists of difficulty by Ken Mattingly in getting the Thrust Vector Control System, which keeps the Service Propulsion Engine aligned through the center of gravity on the Command Service Module.",
+        "At the same time people on the ground, here in Mission Control and over in the Training Building are running simulations to attempt to develop a bypass or a workaround for the situation that Ken Mattingly has encountered and as preparations for the circularization burn.",
+        "Some three minutes away from Loss Of Signal."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "You can go ahead and shut down the gimbal motors, and turn off the TV servo loops - TVC servo loops, and clean it up."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0991214"
+    },
+    {
+      "tokens": [
+        "All right, sir.",
+        "I'll power down.",
+        "Thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "0991226"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "I've been advised that the average g killed your EMP.",
+        "[Pause.]"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0991312"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "0991323"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "One slight correction.",
+        "We have five revolutions which amounts to ten hours in which to make the decision before the geometry of the two spacecraft orbits would dictate no landing, would be out of plane with the landing site beyond the capability of the Descent Propulsion System to steer into the landing site.",
+        "To repeat again, that is five revolutions instead of five hours."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "We're about two minutes from LOS, and when you come around next time, in that rendezvous, just come up on the best omni, and then we'll get High Gain from there.",
+        "[Pause.]"
+      ],
+      "speaker": "Hartsfield",
+      "time": "0991448"
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "And is there anything else you can think of we can do - we might try and take a look at?",
+        "Otherwise, we'll just be station-keeping at a hindred feet or so.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0991502"
+    },
+    {
+      "tokens": [
+        "We can't think of anything else down here, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0991518"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you, sir.",
+        "See you in a few minutes."
+      ],
+      "speaker": "Mattingly",
+      "time": "0991525"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ken, for your info, we up-linked a new vector to the the LM, and we weren't able to get yours in.",
+        "So there will be a small difference - a couple of feet per second."
+      ],
+      "speaker": "Hartsfield",
+      "time": "0991635"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "0991645"
+    },
+    {
+      "tokens": [
+        "Loss of Signal.",
+        "Casper's onboard transcript restarts at099:16:32."
+      ],
+      "speaker": "Commentary",
+      "time": "cm099_16"
+    },
+    {
+      "tokens": [
+        "Now for Orion's communications, with audio, restarting from 098:10:38."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston; I'm reading you.",
+        "We want you to stay with the omni antenna.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "lm098_10_49"
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston.",
+        "How do you read?",
+        "[No answer.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0981111"
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston.",
+        "How do you read?",
+        "[No answer.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0981144"
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston.",
+        "How do you read?",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0981213"
+    },
+    {
+      "tokens": [
+        "Hey, Ken.",
+        "Go off VHF please.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0981244"
+    },
+    {
+      "tokens": [
+        "Houston, Orion.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0981255"
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston.",
+        "We read you rather weak.",
+        "How do you read us?"
+      ],
+      "speaker": "Irwin",
+      "time": "0981258"
+    },
+    {
+      "tokens": [
+        "Roger; you're five by.",
+        "The Command Module did not reach Circ.",
+        "And we're standing by to - for y'alls' decision with him.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0981306"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand you standing by.",
+        "We want you to stay with the omni and we'll be requesting high bit rate shortly."
+      ],
+      "speaker": "Irwin",
+      "time": "0981315"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0981324"
+    },
+    {
+      "tokens": [
+        "And we're ready for high bit rate now."
+      ],
+      "speaker": "Irwin",
+      "time": "0981326"
+    },
+    {
+      "tokens": [
+        "Did you copy?",
+        "No Circ."
+      ],
+      "speaker": "Duke",
+      "time": "0981328"
+    },
+    {
+      "tokens": [
+        "We copied, no Circ."
+      ],
+      "speaker": "Irwin",
+      "time": "0981329"
+    },
+    {
+      "tokens": [
+        "Okay; you have high bit rate."
+      ],
+      "speaker": "Young",
+      "time": "0981333"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Anticipate a wave-off for this one.",
+        "We'll set you up for the next one."
+      ],
+      "speaker": "Irwin",
+      "time": "lm098_13_35"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0981342"
+    },
+    {
+      "tokens": [
+        "Okay, Ken's right out in front of us, maybe about a - 600 feet [180 metres], so we have a visual on him."
+      ],
+      "speaker": "Young",
+      "time": "0981419"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We copy."
+      ],
+      "speaker": "Irwin",
+      "time": "0981432"
+    },
+    {
+      "tokens": [
+        "What attitude do you want us to go to for bit."
+      ],
+      "speaker": "Young",
+      "time": "0981434"
+    },
+    {
+      "tokens": [
+        "Stay right where you are, John.",
+        "You're coming - comm's fairly good."
+      ],
+      "speaker": "Irwin",
+      "time": "0981441"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "0981446"
+    },
+    {
+      "tokens": [
+        "Orion, will you confirm forward omni?",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0981449"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "That's what you have, forward omni."
+      ],
+      "speaker": "Duke",
+      "time": "0981456"
+    },
+    {
+      "tokens": [
+        "Lunar Module Orion has been advised of the possibility of a wave-off for landing on this revolution.",
+        "It seems that the circularization burn on the Command Module Casper was unsuccessful."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston.",
+        "We'd like you to go back to normal RCS configuration.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0981658"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "0981707"
+    },
+    {
+      "tokens": [
+        "Jim, be advised we had a couple of RCS Reg A lights on the back side, and by flipping the system, it went out.",
+        "[Pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0981715"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy, Charlie."
+      ],
+      "speaker": "Irwin",
+      "time": "0981733"
+    },
+    {
+      "tokens": [
+        "Houston, how do you read.",
+        "Over?"
+      ],
+      "speaker": "Young",
+      "time": "0981912"
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston.",
+        "Read you loud and clear."
+      ],
+      "speaker": "Irwin",
+      "time": "0981917"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I don't think we're going to have a - remeeting problem here, but we're pointed right at him and as I look at him on my LPD, [pause] Ken is out at 46 degrees and about - oh, I'd say 800 or 900 feet, maybe a thousand [300 metres]."
+      ],
+      "speaker": "Young",
+      "time": "0981922"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Can you see those booms that had the problem?",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0981955"
+    },
+    {
+      "tokens": [
+        "Okay, we copy."
+      ],
+      "speaker": "Irwin",
+      "time": "0982009"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "We are going around at least one more rev before attempting the Power Descent Initiation for Lunar Module Orion.",
+        "Ken Mattingly in Command Module Casper encountered some problems in preparing for the Service Propulsion System burn for the circularization maneuver.",
+        "Seems that a secondary circuit on the Thrust Vector Control System apparently did not come up to specifications.",
+        "So the circularization burn was aborted, and we have a wave-off.",
+        "We'll stand by for the remainder of this front-side pass as a new circularization burn maneuver is calculated, and troubleshooting continued for Ken Mattingly and his problem aboard Casper."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 16."
+      ],
+      "speaker": "Duke",
+      "time": "0982721"
+    },
+    {
+      "tokens": [
+        "Okay, go ahead, 16."
+      ],
+      "speaker": "Irwin",
+      "time": "0982723"
+    },
+    {
+      "tokens": [
+        "All right, Jim.",
+        "You guys working on some more PADs and stuff for us?"
+      ],
+      "speaker": "Duke",
+      "time": "0982727"
+    },
+    {
+      "tokens": [
+        "Oh, yeah, we are, Charlie, and when you get a chance we'll take your AGS cal, if you have those."
+      ],
+      "speaker": "Irwin",
+      "time": "0982731"
+    },
+    {
+      "tokens": [
+        "Yeah, sure do.",
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0982740"
+    },
+    {
+      "tokens": [
+        "We'd like to pitch down to keep Ken in sight.",
+        "Is that possible?"
+      ],
+      "speaker": "Young",
+      "time": "0982744"
+    },
+    {
+      "tokens": [
+        "Okay, you're clear.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0982749"
+    },
+    {
+      "tokens": [
+        "Okay, starting with 540, minus 008, plus 001, plus 002, plus 006, plus 05 - correction plus 045, minus 088, and the initial numbers were the same as on the Data Card Book."
+      ],
+      "speaker": "Duke",
+      "time": "0982755"
+    },
+    {
+      "tokens": [
+        "Okay, beginning - here's the readback, beginning at 540, minus 008, plus 001, plus 002, plus 006, plus 045, minus 088, and the initial values were the same as on the card.",
+        "Over."
+      ],
+      "speaker": "Irwin",
+      "time": "0982814"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Duke",
+      "time": "0982833"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And on your RCS situation, we suspect that the burst disk went back side.",
+        "We'd like to make sure that the System A pressure, when the source pressure in System A gets down to 500 psi, we'd like you to close off System A.",
+        "Over."
+      ],
+      "speaker": "Irwin",
+      "time": "0982836"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0982856"
+    },
+    {
+      "tokens": [
+        "When you say source pressure, you mean helium?"
+      ],
+      "speaker": "Duke",
+      "time": "0982907"
+    },
+    {
+      "tokens": [
+        "Affirmative."
+      ],
+      "speaker": "Irwin",
+      "time": "0982909"
+    },
+    {
+      "tokens": [
+        "Okay, Jim, the helium is holding right up there.",
+        "It's 2400 and that was where it was before we started getting those RCS lights.",
+        "The pressure never has gone above about the 205, 210 maybe."
+      ],
+      "speaker": "Duke",
+      "time": "0982913"
+    },
+    {
+      "tokens": [
+        "Okay, we copy."
+      ],
+      "speaker": "Irwin",
+      "time": "0982927"
+    },
+    {
+      "tokens": [
+        "- Jim, give me a call when you want us to go to Aft Omni."
+      ],
+      "speaker": "Duke",
+      "time": "0983155"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We sure will, Charlie.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0983158"
+    },
+    {
+      "tokens": [
+        "You got a LOS time for us?",
+        "[No answer.",
+        "Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0983220"
+    },
+    {
+      "tokens": [
+        "LM transcript ceases until 099:22:56:"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ken, is your transponder on?"
+      ],
+      "speaker": "Young",
+      "time": "0983245"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "0983253"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're gonna try our radar lockup here too again."
+      ],
+      "speaker": "Young",
+      "time": "0983259"
+    },
+    {
+      "tokens": [
+        "Okay, Orion.",
+        "Let's go Lo bit rate."
+      ],
+      "speaker": "Irwin",
+      "time": "0983434"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "Here in Mission Control, all of the..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "Here in Mission Control, all of the options are being considered with the current situation in which the Thrust Vector Control portion of the Stabilization and Control System, which in turn controls the firing and gimbaling of the Service Propulsion System engine.",
+        "It's being mulled over.",
+        "The other options would be rendezvous over the next couple [of] revolutions and possibly using the Descent Propulsion System onboard Orion for injecting the spacecraft back into a trans-Earth trajectory.",
+        "Over the next several hours this consideration should sort itself out."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Orion, will you go Hi bit rate, again?",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0983610"
+    },
+    {
+      "tokens": [
+        "Orion, go Aft Omni.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0983641"
+    },
+    {
+      "tokens": [
+        "We have Aft Omni, Jim."
+      ],
+      "speaker": "Young",
+      "time": "0983648"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0983650"
+    },
+    {
+      "tokens": [
+        "Orion, go Lo bit rate.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0983733"
+    },
+    {
+      "tokens": [
+        "We have Lo bit rate."
+      ],
+      "speaker": "Young",
+      "time": "0983735"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 98:37.",
+        "The current situation in Apollo 16 is a wave-off.",
+        "That is another revolution before attempting a landing."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We have an RCS Reg A light, Jim.",
+        "We're going to [garble]."
+      ],
+      "speaker": "Duke",
+      "time": "0983750"
+    },
+    {
+      "tokens": [
+        "Orion, go A Simplex, Ken's trying to call you."
+      ],
+      "speaker": "Irwin",
+      "time": "0983752"
+    },
+    {
+      "tokens": [
+        "However as mentioned earlier other options are being looked at in case the trouble shooting on the Command Module - Command Service Module Stabilization and Control System fails to pan out to where the circularization burn or any other Service Propulsion System burns could be conducted successfully."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Go ahead, Ken.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0983800"
+    },
+    {
+      "tokens": [
+        "Orion, go Forward omni.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0983831"
+    },
+    {
+      "tokens": [
+        "Orion, Forward omni."
+      ],
+      "speaker": "Irwin",
+      "time": "0983902"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, that sounds pretty good.",
+        "[Pause.] Houston, how do you read Orion?",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0984140"
+    },
+    {
+      "tokens": [
+        "Read you loud and clear, Orion.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0984148"
+    },
+    {
+      "tokens": [
+        "Houston, this is Apollo 16 [garble].",
+        "[Long pause.] [Garble] PDI.",
+        "We'd like to try."
+      ],
+      "speaker": "Young",
+      "time": "0984233"
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston, if you're calling."
+      ],
+      "speaker": "Irwin",
+      "time": "0984256"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We wonder if there is any possibility of an answer on - We're going to do a P52 and get ready for another PDI.",
+        "Over."
+      ],
+      "speaker": "Young",
+      "time": "0984302"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "We'll tell you."
+      ],
+      "speaker": "Irwin",
+      "time": "0984321"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Orion, this is Houston.",
+        "You can go ahead with your P52, John, we're thinking of having you all try to get back closer together on the back side, of your - point of approach.",
+        "And we'll have some more words to you on that.",
+        "And if later we decide for the PDI, we'll have another procedure for you."
+      ],
+      "speaker": "Irwin",
+      "time": "0984410"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.] Understand."
+      ],
+      "speaker": "Young",
+      "time": "0984436"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "There's a rather busy huddle around the Flight Director's console here in Mission Control as all the options for the current situation in the mission are considered.",
+        "Shall we continue trying to troubleshoot the problem with the Command Service Module Stabilization and Control System or shall we proceed with re-rendezvous and a Trans-Earth Injection burn at several hours hence.",
+        "The possibility is still open for troubleshooting and fixing the problem with the system that controls the Service Propulsion System, and just landing at a later time.",
+        "We are hopeful that before Loss of Signal on this 12th revolution of Apollo 16 that the decision will be made.",
+        "At 98:46, this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "Spacecraft communicator Jim Irwin in the next few moments should pass up to the crew of Orion what the current thinking is here in the Control Room on attacking the problems that have arisen in the Apollo 16 mission."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, I gave you Aft omni."
+      ],
+      "speaker": "Duke",
+      "time": "0984959"
+    },
+    {
+      "tokens": [
+        "Orion, go Aft omni."
+      ],
+      "speaker": "Irwin",
+      "time": "0985029"
+    },
+    {
+      "tokens": [
+        "Orion is in Aft omni."
+      ],
+      "speaker": "Duke",
+      "time": "0985033"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Irwin",
+      "time": "0985036"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Orion, go Forward omni."
+      ],
+      "speaker": "Irwin",
+      "time": "0985226"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Garble] registering 10."
+      ],
+      "speaker": "Young",
+      "time": "0985429"
+    },
+    {
+      "tokens": [
+        "Yeah, the [garble] was off 10."
+      ],
+      "speaker": "Young",
+      "time": "0985443"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Orion, go Aft Omni."
+      ],
+      "speaker": "Irwin",
+      "time": "0985835"
+    },
+    {
+      "tokens": [
+        "Orion, Aft Omni."
+      ],
+      "speaker": "Duke",
+      "time": "0985840"
+    },
+    {
+      "tokens": [
+        "Hello, Orion and Casper.",
+        "This is Houston."
+      ],
+      "speaker": "Irwin",
+      "time": "0990240"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Young",
+      "time": "0990246"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It looks like we're not going to have a decision on this Rev, and we do have the capability of spending about five rev's in this configuration before we have to make that decision.",
+        "We would like y'all to move into a station-keeping position, and you should be at the closest point of approach at, about 100 hours.",
+        "And we're recommending a CSM active to move into a position and to station-keep.",
+        "And we're going to run some simulations down here on this TVC problem, and we'll get back to you."
+      ],
+      "speaker": "Irwin",
+      "time": "0990247"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0990322"
+    },
+    {
+      "tokens": [
+        "Casper, this is Houston.",
+        "You copied, too, didn't you?"
+      ],
+      "speaker": "Irwin",
+      "time": "0990330"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "He reads you."
+      ],
+      "speaker": "Duke",
+      "time": "0990334"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Irwin",
+      "time": "0990335"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0990516"
+    },
+    {
+      "tokens": [
+        "That..."
+      ],
+      "speaker": "Duke",
+      "time": "0990604"
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston.",
+        "We want to try another procedure here to improve our comm.",
+        "We want you to select Secondary Power Amplifier."
+      ],
+      "speaker": "Irwin",
+      "time": "0990656"
+    },
+    {
+      "tokens": [
+        "Okay, [garble] Secondary Power [garble]."
+      ],
+      "speaker": "Duke",
+      "time": "0990708"
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston.",
+        "Will you confirm that you changed power amplifiers?"
+      ],
+      "speaker": "Irwin",
+      "time": "0990825"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Duke",
+      "time": "0990832"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Irwin",
+      "time": "0990836"
+    },
+    {
+      "tokens": [
+        "Orion, let's go Hi bit rate."
+      ],
+      "speaker": "Irwin",
+      "time": "0990907"
+    },
+    {
+      "tokens": [
+        "You have Hi bit rate."
+      ],
+      "speaker": "Duke",
+      "time": "0990927"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Irwin",
+      "time": "0990928"
+    },
+    {
+      "tokens": [
+        "Hey, Jim; Orion.",
+        "Could we close off main B in this system A?"
+      ],
+      "speaker": "Duke",
+      "time": "0991023"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Irwin",
+      "time": "0991030"
+    },
+    {
+      "tokens": [
+        "Orion, we're happy with your present RCS configuration."
+      ],
+      "speaker": "Irwin",
+      "time": "0991035"
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston.",
+        "And if - you're in P00; if you'll go to Data, we'll send you a state vector.",
+        "Over."
+      ],
+      "speaker": "Irwin",
+      "time": "0991222"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You have it.",
+        "Go ahead."
+      ],
+      "speaker": "Young",
+      "time": "0991234"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Irwin",
+      "time": "0991235"
+    },
+    {
+      "tokens": [
+        "And, Orion, we're 2 minutes from LOS."
+      ],
+      "speaker": "Irwin",
+      "time": "0991501"
+    },
+    {
+      "tokens": [
+        "Copy, Jim.",
+        "And we're going to - Updata Link to Off."
+      ],
+      "speaker": "Duke",
+      "time": "0991517"
+    },
+    {
+      "tokens": [
+        "Orion, we're finished with your computer."
+      ],
+      "speaker": "Irwin",
+      "time": "0991543"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you much."
+      ],
+      "speaker": "Duke",
+      "time": "0991549"
+    },
+    {
+      "tokens": [
+        "The LM transcript restarts at099:23:02."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "We've had Loss of Signal at the end of the - near the end of the 13th lunar revolution as both spacecraft go around the back of the Moon.",
+        "Flight Director Gerry Griffin is having what he calls a 'tag up' with all of the console positions here in the Control Center for a discussion of the current situation in Apollo 16.",
+        "We've had a wave-off so far.",
+        "That is the current posture of the mission.",
+        "Crew will rendezvous at the next closest approach time and station-keep until such time as the resolution is made here on the ground whether or not to continue the mission or to re-rendezvous, dock and do an immediate Trans-Earth Injection burn.",
+        "They're attempting to work around the problem in the Command Service Module Thrust Vector Control circuitry, which apparently bombed out on Ken Mattingly when he was preparing for his circularization burn.",
+        "We have some five revolutions in which the decision can be made before it would be a definite No-Go for landing.",
+        "At 99:18, and 46 minutes away from acquisition on Rev 14, this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": "099_16"
+    },
+    {
+      "tokens": [
+        "We start with just under six minutes of CM transcript."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "LM transcript restarts and is combined with the CM one from 101:10:46."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, 99 hours, 31 minutes Ground Elapsed Time into the mission of Apollo 16.",
+        "To recap the current situation here in Mission Control Center, various considerations are underway on whether or not to continue the mission with a later landing or to have the two spacecraft, Orion and Casper, rendezvous, dock and do a Trans-Earth Injection burn using the Lunar Module's Descent Propulsion System.",
+        "This would assume of course that the Service Propulsion System on the Command Module is inoperative, because of the apparent problem in the SCS or Stabilization Control System, which in turn drives and controls the SPS system, aboard the Command Service Module.",
+        "We have something in the neighborhood of five revolutions or about 10 hours in which to reach the decision on the outcome of the lunar landing.",
+        "As Orion came around the east limb of the Moon this last revolution in preparation for Powered Descent Initiation, they were prepared for the landing.",
+        "However Casper, piloted by Ken Mattingly, reported that he had not made the Circularization Burn.",
+        "Since that time there have been many huddles here in the Control Room; engineers are going over drawings in the back rooms, simulations are underway here at the Manned Spacecraft Center to determine the nature of the Service Propulsion System control problem and hopefully by the time the crew comes around the corner again some 31 minutes from now, at least some clarity will come out of the situation.",
+        "But as mentioned earlier, it may take the entire five revolutions.",
+        "The limit of five revolutions has to do with the orbital geometry because after that time the orbital plane of the Lunar Module would be - would have drifted so far away from the landing site that the - there's not ample propellant to steer into the Descartes landing area from the present orbit without a [orbital] plane change.",
+        "At 99:34, and 30 minutes and 30 seconds from Acquisition of Signal [from] both spacecraft, this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control; 99 hours, 56 minutes Ground Elapsed Time into the mission of Apollo 16.",
+        "Some seven minutes, 40 seconds away from acquisition on the 14th lunar revolution.",
+        "To recap again the current situation in the mission, the circularization burn for Command Module Casper was aborted when Ken Mattingly discovered some discrepancies in the backup system which controls the Service Propulsion Engine.",
+        "We still have a good prime system, that is a Guidance and Navigation system aboard the Command Module.",
+        "However, we would be one failure away for the very critical Trans-Earth Injection maneuver which requires a fairly lengthy burn and a stable engine bell from the Service Propulsion System; therefore, quite a few people here in Houston and at the spacecraft manufacturer in Downey, California are looking into the ramifications of the backup system having apparently failed.",
+        "Would this present any structural strain on the spacecraft if the engine bell went to full yaw, and would we be able to do a successful Trans-Earth Injection with this engine?",
+        "As all of these questions are answered, the decision will be made whether or not to continue with the landing phase or to rendezvous and do a Trans-Earth Injection burn using the Descent Engine on the Lunar Module Orion.",
+        "We have about five revolutions, or some 10 hours in total time in which to make this decision.",
+        "This, again, is dictated by the orbital mechanics.",
+        "The fact that the Lunar Module would drift away from the desired ground track for the landing site at Descartes during any time past these five revolutions.",
+        "The Gold Team of flight controllers will stay on duty in the Control Center for the landing if the decision is made to land.",
+        "If the decision is made to rendezvous and do a docked Descent Propulsion System burn to bring the spacecraft home, Pete Frank's Orange Team will take over.",
+        "Some 4 minutes, 37 seconds now away from acquisition and at 100 hours even, this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In the following audio recording, Ken Mattingly's side of the conversation is missing."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control; 100 hours, 3 minutes Ground Elapsed Time.",
+        "Less than a minute now away from acquisition of Orion and Casper coming around the east limb of the Moon on the 14th lunar revolution.",
+        "Standing by for acquisition here half a minute away.",
+        "The atmosphere here in the control room is reminiscent of the period just after the cryogenic oxygen tank incident on Apollo 13.",
+        "Ten seconds.",
+        "We're waiting confirmation from the network controller that we've had acquisition."
+      ],
+      "speaker": "PAO",
+      "time": "100_03"
+    },
+    {
+      "tokens": [
+        "LM tech transcript restarts."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We have AOS, Lunar Module.",
+        "Let's stand by now for resumption of communications between the control center, Jim Irwin CapCom, and the crew of Casper and Orion."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Orion.",
+        "How do you read?"
+      ],
+      "speaker": "Duke",
+      "time": "1000519"
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston.",
+        "Read you loud and clear."
+      ],
+      "speaker": "Irwin",
+      "time": "1000524"
+    },
+    {
+      "tokens": [
+        "Roger; same-o, Jim.",
+        "We're about 0.7 of a mile [1.3 km] out from Casper now."
+      ],
+      "speaker": "Duke",
+      "time": "1000526"
+    },
+    {
+      "tokens": [
+        "Say again, Charlie.",
+        "We still have excessive noise down here."
+      ],
+      "speaker": "Irwin",
+      "time": "1000542"
+    },
+    {
+      "tokens": [
+        "I say our range to Casper is about 0.7 of a mile."
+      ],
+      "speaker": "Duke",
+      "time": "1000546"
+    },
+    {
+      "tokens": [
+        "And he's opening at 2½ [feet per second, 0.8 metres per second].",
+        "He put in some posigrade velocity to go up and above and come down and get with us."
+      ],
+      "speaker": "Young",
+      "time": "1000551"
+    },
+    {
+      "tokens": [
+        "John, I think that total is still slightly retrograde."
+      ],
+      "speaker": "Mattingly",
+      "time": "1000608"
+    },
+    {
+      "tokens": [
+        "The total is (slightly retrograde?) [Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1000612"
+    },
+    {
+      "tokens": [
+        "The rest of John's utterance is not on the air/ground recording."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yeah, you - I - I'm thinking maybe I ought to go put some more in there.",
+        "What do you think?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1000618"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1000631"
+    },
+    {
+      "tokens": [
+        "Okay, 16.",
+        "This is Houston.",
+        "We still do not have an answer, but people are working very feverishly.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1000650"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1000716"
+    },
+    {
+      "tokens": [
+        "That only shows 9.2 [2.8 metres per second].",
+        "Why don't we get them to get an arc on this?",
+        "I guess I'd like to know how good my vector was to start with."
+      ],
+      "speaker": "Mattingly",
+      "time": "1000725"
+    },
+    {
+      "tokens": [
+        "Say again?",
+        "I'm sorry; I can't hear you."
+      ],
+      "speaker": "Mattingly",
+      "time": "1000738"
+    },
+    {
+      "tokens": [
+        "I know, but my state vector is good.",
+        "How good is it?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1000749"
+    },
+    {
+      "tokens": [
+        "Stand by, Ken.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1000755"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I'm trying now."
+      ],
+      "speaker": "Mattingly",
+      "time": "1000804"
+    },
+    {
+      "tokens": [
+        "Go ahead, Orion."
+      ],
+      "speaker": "Irwin",
+      "time": "1000825"
+    },
+    {
+      "tokens": [
+        "Houston, do you read Casper?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1000856"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That looks that way to us, Charlie."
+      ],
+      "speaker": "Irwin",
+      "time": "1000900"
+    },
+    {
+      "tokens": [
+        "Houston, do you read Casper?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1000902"
+    },
+    {
+      "tokens": [
+        "Yes, Casper.",
+        "This is Houston.",
+        "Read you loud and clear."
+      ],
+      "speaker": "Irwin",
+      "time": "1000907"
+    },
+    {
+      "tokens": [
+        "Comm break (PAO tape)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Look like we got a - that 100 hours was a bad time, and I tried to close at him before he realized that it was all minus X.",
+        "I put in about 3½ foot per second and got to checking.",
+        "That didn't look like the right thing to do.",
+        "So I took about 3 of that out, and..."
+      ],
+      "speaker": "Mattingly",
+      "time": "1000908"
+    },
+    {
+      "tokens": [
+        "I'm doing that, John."
+      ],
+      "speaker": "Mattingly",
+      "time": "1000931"
+    },
+    {
+      "tokens": [
+        "...and so I took about three of that out, and I put in a half foot per second radial at about 100 hours and 5 minutes.",
+        "And I put in the rest, took two foot per second posigrade at about 100 hours and 6 minutes.",
+        "And at about 100 hours, then I put in three - it was about - roughly retrograde.",
+        "And my computer now shows 16.5 by 9.2.",
+        "And I had a good state vector when I started, and that's probably a good value - whenever you get a short arc or something on me."
+      ],
+      "speaker": "Mattingly",
+      "time": "1000931"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy, Ken.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1001011"
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston.",
+        "We're wondering where you got the estimate of 0.7 nautical-mile range [1.3 kilometres].",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1001107"
+    },
+    {
+      "tokens": [
+        "No, that's fine.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1001124"
+    },
+    {
+      "tokens": [
+        "Yeah, I show us now at about 0.9 mile [1.7 kilometres].",
+        "Is that correct?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1001130"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And still opening?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1001138"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We - we concur down here."
+      ],
+      "speaker": "Irwin",
+      "time": "1001214"
+    },
+    {
+      "tokens": [
+        "Okay, Casper; this is Houston.",
+        "We're recommending that you null the line-of-sight rates..."
+      ],
+      "speaker": "Irwin",
+      "time": "1001233"
+    },
+    {
+      "tokens": [
+        "...[garble] Go ahead."
+      ],
+      "speaker": "Mattingly",
+      "time": "1001238"
+    },
+    {
+      "tokens": [
+        "...and fire five feet per second toward the LM.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1001239"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's still going to be mostly retrograde, it looks like.",
+        "That's how I got in this place to start with."
+      ],
+      "speaker": "Mattingly",
+      "time": "1001246"
+    },
+    {
+      "tokens": [
+        "We copy you, Ken.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1001302"
+    },
+    {
+      "tokens": [
+        "Okay, I'm going to hold.",
+        "Can you guys get a short arc going on my trajectory?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1001306"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "We show you coming up on perilune now, so you'll be affecting your apolune.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1001335"
+    },
+    {
+      "tokens": [
+        "You show me coming up on perilune?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1001347"
+    },
+    {
+      "tokens": [
+        "That's affirm.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1001349"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "My state vector shows 19 miles up [35 kilometres], and we're not - I'm just passing Smythii.",
+        "is that - Does that sound reasonable, that we shifted that much in orbital track?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1001350"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That sounds good, Ken.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1001413"
+    },
+    {
+      "tokens": [
+        "Okay, I guess I'd like for you to - to summarize again where I stand.",
+        "I'm a little bit confused now, Jim."
+      ],
+      "speaker": "Mattingly",
+      "time": "1001427"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We were hoping that...",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1001435"
+    },
+    {
+      "tokens": [
+        "[Garble] I'm just passing Smythii, and my altitude according to my computer - Was my state vector a little bit off to start with?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1001440"
+    },
+    {
+      "tokens": [
+        "We think your state vector was fairly accurate, Ken.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1001452"
+    },
+    {
+      "tokens": [
+        "And you'll be at perilune in 15 minutes.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1001500"
+    },
+    {
+      "tokens": [
+        "Okay, that makes more sense.",
+        "All right.",
+        "Because I'm presently at 19 miles, and I think that's probably a good estimate.",
+        "All right.",
+        "If I do - Do you want me to thrust towards the LM now, because I'm approaching perilune.",
+        "Is that affirmative?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1001502"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1001521"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Now I'm - This is using up a great deal of RCS which is going to violate the next line.",
+        "Is this preferable to trying to do a regular rendezvous now?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1001526"
+    },
+    {
+      "tokens": [
+        "Because if we still have a chance at landing, then I need to [garble] to you..."
+      ],
+      "speaker": "Mattingly",
+      "time": "1001546"
+    },
+    {
+      "tokens": [
+        "Ken, could you give us your position, relative to the LM?",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1001546"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "I'm ahead of him and slightly below, and I show a - a mile [1.8 kilometres] on the EMS, and I don't know what John has on the radar."
+      ],
+      "speaker": "Mattingly",
+      "time": "1001556"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We copy your position as ahead, below, and about one nautical mile.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1001623"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Mattingly",
+      "time": "1001631"
+    },
+    {
+      "tokens": [
+        "And he's opening at 2½ on 16 78."
+      ],
+      "speaker": "Young",
+      "time": "1001634"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Irwin",
+      "time": "1001639"
+    },
+    {
+      "tokens": [
+        "And 3 feet a second on the tapemeter.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1001640"
+    },
+    {
+      "tokens": [
+        "Okay, Jim.",
+        "To make sure there's no confusion, I haven't done anything yet."
+      ],
+      "speaker": "Mattingly",
+      "time": "1001708"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1001717"
+    },
+    {
+      "tokens": [
+        "Thank you, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "1001722"
+    },
+    {
+      "tokens": [
+        "Okay, Casper.",
+        "This is Houston.",
+        "We're convinced that we want you to fire directly at the LM about 5 feet per second.",
+        "We want to get a positive closing rate."
+      ],
+      "speaker": "Irwin",
+      "time": "1001744"
+    },
+    {
+      "tokens": [
+        "Comm break (PAO tape)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's in work."
+      ],
+      "speaker": "Mattingly",
+      "time": "1001758"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Looks like the DAP isn't stable now.",
+        "How about if I give it a Verb 46?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1001938"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "Irwin",
+      "time": "1001945"
+    },
+    {
+      "tokens": [
+        "Is that a good idea?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1001949"
+    },
+    {
+      "tokens": [
+        "Ken, we show you in Free."
+      ],
+      "speaker": "Irwin",
+      "time": "1002002"
+    },
+    {
+      "tokens": [
+        "I am now: but I wasn't."
+      ],
+      "speaker": "Mattingly",
+      "time": "1002006"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Irwin",
+      "time": "1002009"
+    },
+    {
+      "tokens": [
+        "Does that mean I'm clear to do a Verb 46?",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1002011"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "No, that doesn't work.",
+        "I think maybe I've had one of those transients.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1002014"
+    },
+    {
+      "tokens": [
+        "For some reason, every time I pick up CMC Auto, this thing - starts doing maneuvers.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1002036"
+    },
+    {
+      "tokens": [
+        "Orion, let's go Lo Bit Rate."
+      ],
+      "speaker": "Irwin",
+      "time": "1002111"
+    },
+    {
+      "tokens": [
+        "You have it."
+      ],
+      "speaker": "Duke",
+      "time": "1002118"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've got it under control, Jim.",
+        "I had a bad DAP.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1002128"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 100 hours, 21 minutes.",
+        "Still standing by here for a resolution of the apparent problem with the Stabilization and Control System aboard the Command Service Module.",
+        "Meanwhile the two spacecraft are making the necessary maneuvers for rendezvous.",
+        "Or I should qualify that to say station-keeping.",
+        "Right now the Rendezvous Radar display shows a separation of some one nautical mile [1.85 km]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay; we'll [garble] 5 feet per second directly at the LM.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1002200"
+    },
+    {
+      "tokens": [
+        "Go."
+      ],
+      "speaker": "Irwin",
+      "time": "1002211"
+    },
+    {
+      "tokens": [
+        "Casper, this is Houston.",
+        "Hold up on that RCS maneuver."
+      ],
+      "speaker": "Irwin",
+      "time": "1002234"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've put in 3 foot per second."
+      ],
+      "speaker": "Mattingly",
+      "time": "1002240"
+    },
+    {
+      "tokens": [
+        "Hold up, Ken."
+      ],
+      "speaker": "Irwin",
+      "time": "1002243"
+    },
+    {
+      "tokens": [
+        "Say again, please?"
+      ],
+      "speaker": "Mattingly",
+      "time": "100:22:48"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Hold it there."
+      ],
+      "speaker": "Irwin",
+      "time": "1002248"
+    },
+    {
+      "tokens": [
+        "[Garble] Okay.",
+        "Holding at three."
+      ],
+      "speaker": "Mattingly",
+      "time": "1002252"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The maneuver Mattingly was attempting was a 5-foot-per-second line-of-sight RCS maneuver toward the Lunar Module.",
+        "Right now, he's ahead and below the Lunar Module by about one nautical mile [1.85 km], straight-line distance.",
+        "We would like to re-emphasize that this will be strictly for station-keeping.",
+        "Lunar landing is still not positively ruled out at this time depending on what decision is made on the reliability of the Stabilization and Control System to control the SPS engine on the Service Module.",
+        "Continuing to monitor air/ground for both spacecraft, this is Apollo Control [at] 100 hours, 24 minu..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Thrust down means towards the Moon or down as you see it?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1002410"
+    },
+    {
+      "tokens": [
+        "We need a range and range rate reading now."
+      ],
+      "speaker": "Irwin",
+      "time": "1002425"
+    },
+    {
+      "tokens": [
+        "[Garble]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1002428"
+    },
+    {
+      "tokens": [
+        "7000 feet [2100 metres], closing at 3 feet a second [0.9 m/s], and we have a line-of-site rate.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1002430"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1002444"
+    },
+    {
+      "tokens": [
+        "Roger, Charlie.",
+        "I'm standing by for instructions for best [garble]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1002449"
+    },
+    {
+      "tokens": [
+        "Yeah, Casper; this is Houston.",
+        "You should null the line-of-sight rates.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1002459"
+    },
+    {
+      "tokens": [
+        "Okay, do you want me to keep them nulled and go all the way in?",
+        "Is that the idea?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1002512"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Keep a positive closing rate."
+      ],
+      "speaker": "Irwin",
+      "time": "1002517"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's likely to be expensive, but we'll do that."
+      ],
+      "speaker": "Mattingly",
+      "time": "1002523"
+    },
+    {
+      "tokens": [
+        "Okay, [not on PAO recording] you're going to have to - Your needles are better than [back to PAO recording] mine, why don't you tell me what to do there, John."
+      ],
+      "speaker": "Mattingly",
+      "time": "1002530"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thrust down, and I'll tell you which way the needle moves.",
+        "[Garble]."
+      ],
+      "speaker": "Young",
+      "time": "1002538"
+    },
+    {
+      "tokens": [
+        "Wilco."
+      ],
+      "speaker": "Mattingly",
+      "time": "1002544"
+    },
+    {
+      "tokens": [
+        "That's the wrong way, Ken."
+      ],
+      "speaker": "Young",
+      "time": "1002549"
+    },
+    {
+      "tokens": [
+        "Were you thrusting?"
+      ],
+      "speaker": "Young",
+      "time": "1002553"
+    },
+    {
+      "tokens": [
+        "Okay, thrust away from the Moon.",
+        "That's doing it.",
+        "Little more.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1002555"
+    },
+    {
+      "tokens": [
+        "You didn't get it corrected, Ken.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1002613"
+    },
+    {
+      "tokens": [
+        "Oh, it's just not moving very much at all."
+      ],
+      "speaker": "Young",
+      "time": "1002621"
+    },
+    {
+      "tokens": [
+        "No, you - It's gonna be expensive, Ken, to do this, but you - you're gonna have to thrust up."
+      ],
+      "speaker": "Young",
+      "time": "1002626"
+    },
+    {
+      "tokens": [
+        "Okay, I just need some gauges to when I got it nulled."
+      ],
+      "speaker": "Mattingly",
+      "time": "1002632"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "What's my range rate?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1002655"
+    },
+    {
+      "tokens": [
+        "Three - 3 feet a second, closing."
+      ],
+      "speaker": "Young",
+      "time": "1002657"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1002700"
+    },
+    {
+      "tokens": [
+        "You're at 6,600 feet [2,000 metres]."
+      ],
+      "speaker": "Young",
+      "time": "1002701"
+    },
+    {
+      "tokens": [
+        "Still going down.?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1002703"
+    },
+    {
+      "tokens": [
+        "You've got it to 2 milliradians.",
+        "Now you've got it, Ken.",
+        "You killed it."
+      ],
+      "speaker": "Young",
+      "time": "1002728"
+    },
+    {
+      "tokens": [
+        "Looks to me now like I'm drifting the other way."
+      ],
+      "speaker": "Mattingly",
+      "time": "1002755"
+    },
+    {
+      "tokens": [
+        "Okay; I'll believe your needles.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1002801"
+    },
+    {
+      "tokens": [
+        "Range rate?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1002825"
+    },
+    {
+      "tokens": [
+        "Three and a half feet [1.1 metres] a second, and you're at 6300 feet [1900 metres]."
+      ],
+      "speaker": "Young",
+      "time": "1002831"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1002835"
+    },
+    {
+      "tokens": [
+        "Is the rate starting to build now?",
+        "I'm trying to calibrate the deadband activity here so I can tell what the rate - when it's really a rate and when it's just deadbanding."
+      ],
+      "speaker": "Mattingly",
+      "time": "1002901"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Your rates are nulled, essentially."
+      ],
+      "speaker": "Young",
+      "time": "1002914"
+    },
+    {
+      "tokens": [
+        "Okay, thank you.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1002920"
+    },
+    {
+      "tokens": [
+        "Orion, request you select the Secondary Transmitter and Receiver.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1002945"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Orion says that they have already selected the Secondary.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1003012"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "How do you read now?"
+      ],
+      "speaker": "Duke",
+      "time": "1003024"
+    },
+    {
+      "tokens": [
+        "Read you loud and clear, Orion."
+      ],
+      "speaker": "Irwin",
+      "time": "1003029"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're five by.",
+        "How's the problem looking?",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "1003032"
+    },
+    {
+      "tokens": [
+        "16, no answers yet.",
+        "We're still looking at it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1003054"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "You're at 5,600 feet [1,700 metres], closing at 4 feet a second [1.2 m/s]."
+      ],
+      "speaker": "Young",
+      "time": "1003142"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1003148"
+    },
+    {
+      "tokens": [
+        "Okay, Orion.",
+        "This is Houston.",
+        "We'd like you to open the Primary Power Amp circuit breaker on [Panel] 16.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1003210"
+    },
+    {
+      "tokens": [
+        "It's open, Jim."
+      ],
+      "speaker": "Duke",
+      "time": "1003223"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1003225"
+    },
+    {
+      "tokens": [
+        "Okay, Orion, let's go Hi Bit Rate."
+      ],
+      "speaker": "Irwin",
+      "time": "1003246"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "You have Hi Bit Rate."
+      ],
+      "speaker": "Duke",
+      "time": "1003252"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1003254"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "You're getting a line-of-sight rate.",
+        "You're going to have to thrust a little toward the Moon.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1003320"
+    },
+    {
+      "tokens": [
+        "Okay, let me try this."
+      ],
+      "speaker": "Mattingly",
+      "time": "1003329"
+    },
+    {
+      "tokens": [
+        "Okay, we can't hold Hi Bit Rate.",
+        "Request you go back to Lo Bit Rate, Orion."
+      ],
+      "speaker": "Irwin",
+      "time": "1003332"
+    },
+    {
+      "tokens": [
+        "Is that the right direction?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1003338"
+    },
+    {
+      "tokens": [
+        "Needles didn't move, Ken."
+      ],
+      "speaker": "Young",
+      "time": "1003341"
+    },
+    {
+      "tokens": [
+        "That's the right direction."
+      ],
+      "speaker": "Young",
+      "time": "1003346"
+    },
+    {
+      "tokens": [
+        "Okay, that's up for me - it looks like it ought to be down for you.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1003351"
+    },
+    {
+      "tokens": [
+        "That sounds pretty good, Ken."
+      ],
+      "speaker": "Duke",
+      "time": "1003402"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1003403"
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston.",
+        "Can you give us a range and range rate read-out?"
+      ],
+      "speaker": "Irwin",
+      "time": "1003423"
+    },
+    {
+      "tokens": [
+        "Okay; 4,900 feet [1,500 metres], closing at 5 [feet per second, 1.5 m/s]."
+      ],
+      "speaker": "Young",
+      "time": "1003430"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "4,900 closing at 5.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1003434"
+    },
+    {
+      "tokens": [
+        "You got the line-of-sight rates nulled now, Ken."
+      ],
+      "speaker": "Young",
+      "time": "1003453"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.] Man, this is expensive."
+      ],
+      "speaker": "Mattingly",
+      "time": "1003500"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rates nulled again, John?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1003618"
+    },
+    {
+      "tokens": [
+        "Yes, they're nulled right now."
+      ],
+      "speaker": "Young",
+      "time": "1003619"
+    },
+    {
+      "tokens": [
+        "Okay - They are going to keep building this way, and do we have some - some fuel point at which to cut off and switch over to LM power."
+      ],
+      "speaker": "Mattingly",
+      "time": "1003620"
+    },
+    {
+      "tokens": [
+        "How much are you using?"
+      ],
+      "speaker": "Young",
+      "time": "1003636"
+    },
+    {
+      "tokens": [
+        "Stand by, Ken."
+      ],
+      "speaker": "Irwin",
+      "time": "1003715"
+    },
+    {
+      "tokens": [
+        "Okay, well, you're at 4,000 feet [1,200 metres] now, at 5 feet a second [1.5 m/s], Ken."
+      ],
+      "speaker": "Young",
+      "time": "1003717"
+    },
+    {
+      "tokens": [
+        "And - and - and your line-of-sight rate is starting to build a little in the other direction.",
+        "You've got it now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1003723"
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston.",
+        "Is the CSM above you or below you?",
+        "We hope he's directly ahead.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1003754"
+    },
+    {
+      "tokens": [
+        "He's at 45 degrees above us."
+      ],
+      "speaker": "Young",
+      "time": "1003807"
+    },
+    {
+      "tokens": [
+        ": Forty-five degrees above."
+      ],
+      "speaker": "Irwin",
+      "time": "1003811"
+    },
+    {
+      "tokens": [
+        "Above the local vertical."
+      ],
+      "speaker": "Young",
+      "time": "1003815"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1003818"
+    },
+    {
+      "tokens": [
+        "And, he's got a - a 5-foot-a-second closing rate, and his line of sights are nulled on the radar."
+      ],
+      "speaker": "Young",
+      "time": "1003829"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1003834"
+    },
+    {
+      "tokens": [
+        "And they look like they're killed completely on the optics too.",
+        "[Pause.] Going to need your tracker light here in a minute.",
+        "We're just getting a little glinted sunlight now."
+      ],
+      "speaker": "Mattingly",
+      "time": "1003842"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1003858"
+    },
+    {
+      "tokens": [
+        "Boy, those rates look steady as they can be."
+      ],
+      "speaker": "Mattingly",
+      "time": "1003931"
+    },
+    {
+      "tokens": [
+        "You've really got them killed.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1003933"
+    },
+    {
+      "tokens": [
+        "Okay, and since we are going to get rendezvoused in the dark - I guess we'll just come up alongside and hold stations."
+      ],
+      "speaker": "Mattingly",
+      "time": "1003951"
+    },
+    {
+      "tokens": [
+        "That seems like a fair thing."
+      ],
+      "speaker": "Young",
+      "time": "1004005"
+    },
+    {
+      "tokens": [
+        "All right, sir.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1004009"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "You're going to have to thrust down a hair."
+      ],
+      "speaker": "Young",
+      "time": "1004050"
+    },
+    {
+      "tokens": [
+        "That's down to you, right?",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1004057"
+    },
+    {
+      "tokens": [
+        "Yeah, that's what I mean, you would thrust - you would thrust up."
+      ],
+      "speaker": "Mattingly",
+      "time": "1004105"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I think I got it killed again."
+      ],
+      "speaker": "Mattingly",
+      "time": "1004108"
+    },
+    {
+      "tokens": [
+        "Looks pretty good.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1004112"
+    },
+    {
+      "tokens": [
+        "What's that closure rate now?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1004117"
+    },
+    {
+      "tokens": [
+        "Still five feet a second.",
+        "Still off 3½ feet a second [1.1 m/s] now at 3,000 [900 metres]."
+      ],
+      "speaker": "Young",
+      "time": "1004119"
+    },
+    {
+      "tokens": [
+        "3½ feet per second."
+      ],
+      "speaker": "Mattingly",
+      "time": "1004123"
+    },
+    {
+      "tokens": [
+        "Okay, all I've got's the tracking light; I've lost the rest of your image."
+      ],
+      "speaker": "Mattingly",
+      "time": "1004126"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You've - you're gonna have to thrust a little more to kill that rate the same way.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1004132"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That got a lot of it, but not all of it.",
+        "[Pause.] Okay.",
+        "You got most of it."
+      ],
+      "speaker": "Young",
+      "time": "1004148"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Yeah, I see B is up high.",
+        "Is that due to the thruster activity?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1004209"
+    },
+    {
+      "tokens": [
+        "Affirmative, Ken."
+      ],
+      "speaker": "Irwin",
+      "time": "1004214"
+    },
+    {
+      "tokens": [
+        "Or is that due to heater fail-on?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1004215"
+    },
+    {
+      "tokens": [
+        "I think it's thruster activity."
+      ],
+      "speaker": "Irwin",
+      "time": "1004219"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Rog."
+      ],
+      "speaker": "Mattingly",
+      "time": "1004221"
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston.",
+        "Will you give us another range and range rate, John?"
+      ],
+      "speaker": "Irwin",
+      "time": "1004228"
+    },
+    {
+      "tokens": [
+        "Yep.",
+        "They're at 3,100 feet [950 metres], at 3½."
+      ],
+      "speaker": "Young",
+      "time": "1004235"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "3,100 at 3½."
+      ],
+      "speaker": "Irwin",
+      "time": "1004239"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "At an angle of 68 degrees to local vertical now."
+      ],
+      "speaker": "Young",
+      "time": "1004244"
+    },
+    {
+      "tokens": [
+        "Understand; 68 degrees.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1004250"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "You got a sight rate going to the south according to my needles.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1004333"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let's watch that for a minute before I start working on it, because we haven't had any plane component before."
+      ],
+      "speaker": "Mattingly",
+      "time": "1004351"
+    },
+    {
+      "tokens": [
+        "How's the line-of-sight rate doing now?",
+        "Holding?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1004358"
+    },
+    {
+      "tokens": [
+        "Holding.",
+        "It's holding - the vertical one is holding right on."
+      ],
+      "speaker": "Young",
+      "time": "1004401"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And range rate?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1004405"
+    },
+    {
+      "tokens": [
+        "You're at 3,000 feet [900 metres], at 3 feet a second [0.9 m/s]."
+      ],
+      "speaker": "Young",
+      "time": "1004402"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1004417"
+    },
+    {
+      "tokens": [
+        "Now we must be going in the right direction then."
+      ],
+      "speaker": "Mattingly",
+      "time": "1004421"
+    },
+    {
+      "tokens": [
+        "Yeah, you're just get there."
+      ],
+      "speaker": "Young",
+      "time": "1004425"
+    },
+    {
+      "tokens": [
+        "Yeah."
+      ],
+      "speaker": "Mattingly",
+      "time": "1004427"
+    },
+    {
+      "tokens": [
+        "You now have 2 milliradians to the south."
+      ],
+      "speaker": "Young",
+      "time": "1004433"
+    },
+    {
+      "tokens": [
+        "Okay, I'll take some of that out.",
+        "That means I go to the south, right?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1004437"
+    },
+    {
+      "tokens": [
+        "Yep.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1004442"
+    },
+    {
+      "tokens": [
+        "How's that?",
+        "Right direction?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1004449"
+    },
+    {
+      "tokens": [
+        "Yeah, that's got most of it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1004451"
+    },
+    {
+      "tokens": [
+        "100:45:13 Unknown speaker:Go ahead.",
+        "[Pause.]"
+      ],
+      "speaker": "Commentary",
+      "time": "1004513"
+    },
+    {
+      "tokens": [
+        "You still got some more to the south you've got to get.",
+        "Still 2 milliradians.",
+        "Okay.",
+        "That's got it, Ken."
+      ],
+      "speaker": "Young",
+      "time": "1004521"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1004532"
+    },
+    {
+      "tokens": [
+        "Okay, it looks like I'm picking up a rate in the opposite direction in the in-plane component."
+      ],
+      "speaker": "Mattingly",
+      "time": "1004622"
+    },
+    {
+      "tokens": [
+        "No, you're not - you're not - You don't have any rate yet."
+      ],
+      "speaker": "Young",
+      "time": "1004626"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1004630"
+    },
+    {
+      "tokens": [
+        "According to my needles."
+      ],
+      "speaker": "Young",
+      "time": "1004631"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1004532"
+    },
+    {
+      "tokens": [
+        "This is very much like the simulator where, because of the deadband lags, it looks like it takes a long time to pick up one of those rates.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1004643"
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston.",
+        "We want you to get the Rendezvous Radar and the tracking light off as soon as it's feasible, to conserve power."
+      ],
+      "speaker": "Irwin",
+      "time": "1004704"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We will.",
+        "It's not too feasible right now."
+      ],
+      "speaker": "Young",
+      "time": "1004715"
+    },
+    {
+      "tokens": [
+        "Yeah, we understand.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1004721"
+    },
+    {
+      "tokens": [
+        "Okay, it looks like I may be a little more to the south."
+      ],
+      "speaker": "Mattingly",
+      "time": "1004736"
+    },
+    {
+      "tokens": [
+        "Just a hair, Ken.",
+        "Okay.",
+        "You're at 2,400 feet [730 metres] at 2 [feet per second, 0.6 m/s]."
+      ],
+      "speaker": "Young",
+      "time": "1004739"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1004746"
+    },
+    {
+      "tokens": [
+        "How about that rate to the south?",
+        "It looks like it's building again.",
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1004824"
+    },
+    {
+      "tokens": [
+        "Ken, our needles don't show it."
+      ],
+      "speaker": "Young",
+      "time": "1004829"
+    },
+    {
+      "tokens": [
+        "Hey, I show quite a drift rate now, John.",
+        "Do you still show no out of plane?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1004923"
+    },
+    {
+      "tokens": [
+        "Yeah, I don't show any, and I've got you boresighted in Att Hold, and I don't show any motion there either, Ken.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1004929"
+    },
+    {
+      "tokens": [
+        "Just a little south, Ken."
+      ],
+      "speaker": "Young",
+      "time": "1004942"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It looks like - I'm going to take some of that out.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1004944"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "Flight Director Gerry Griffin has instructed the CapCom to tell the crew that at Acquisition of Signal on Rev 15 - that's in spite of the next revolution - they'll be given a Go/No-Go for a landing on Rev 16.",
+        "Hopefully by that time the situation will have resolved itself on the Thrust Vector Control System which drives the SPS.",
+        "Apparently there is a problem in the yaw gimbal actuator in the Service Propulsion System.",
+        "The decision has not yet been made, and hopefully will be made prior to the time of Acquisition of Signal on Revolution 15.",
+        "Some 19 minutes remaining in this 14th revolution.",
+        "Add to that 47 minutes of backside pass, and at start of that rev we'll either be Go for landing or for immediate rendezvous, docking, and subsequent return home.",
+        "This is Apollo Control at 100 hours, 51 minutes."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Can you tell if I'm going to - maybe I put that in the wrong direction, although I'm sure that that was the right - South is to your left, isn't it?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1005000"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're going the right way, then."
+      ],
+      "speaker": "Mattingly",
+      "time": "1005013"
+    },
+    {
+      "tokens": [
+        "Whoa, Ken.",
+        "You got it."
+      ],
+      "speaker": "Young",
+      "time": "1005006"
+    },
+    {
+      "tokens": [
+        "John, we've been going the right direction all along, then."
+      ],
+      "speaker": "Mattingly",
+      "time": "1005029"
+    },
+    {
+      "tokens": [
+        "Yeah, you have.",
+        "Yeah, don't worry about it."
+      ],
+      "speaker": "Young",
+      "time": "1005032"
+    },
+    {
+      "tokens": [
+        "It appears to be I'm still a little bit out of plane.",
+        "I guess that's the sensitivity of the Rendezvous Radar.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1005034"
+    },
+    {
+      "tokens": [
+        "Okay; how's my closure rate?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1005117"
+    },
+    {
+      "tokens": [
+        "We're showing a foot a second on the tapemeter.",
+        "It isn't closing very fast."
+      ],
+      "speaker": "Young",
+      "time": "1005121"
+    },
+    {
+      "tokens": [
+        "Well, that's what I was just wondering.",
+        "There could be a little more plus-X."
+      ],
+      "speaker": "Mattingly",
+      "time": "1005124"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Say when and how much."
+      ],
+      "speaker": "Young",
+      "time": "1005130"
+    },
+    {
+      "tokens": [
+        "Okay, I'm going to put in a foot plus-X."
+      ],
+      "speaker": "Mattingly",
+      "time": "1005133"
+    },
+    {
+      "tokens": [
+        "Okay?",
+        "As long as we are using brute force, we might as well."
+      ],
+      "speaker": "Mattingly",
+      "time": "1005138"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1005145"
+    },
+    {
+      "tokens": [
+        "Okay, that's about a foot."
+      ],
+      "speaker": "Mattingly",
+      "time": "1005200"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're at 2,000 feet [600 metres] at 2 [feet per second, 0.6 m/s].",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1005201"
+    },
+    {
+      "tokens": [
+        "There you go.",
+        "It worked."
+      ],
+      "speaker": "Young",
+      "time": "1005219"
+    },
+    {
+      "tokens": [
+        "How about that?",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1005222"
+    },
+    {
+      "tokens": [
+        "I can see the LM in Earthshine now.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1005256"
+    },
+    {
+      "tokens": [
+        "Okay, fine.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1005303"
+    },
+    {
+      "tokens": [
+        "You're getting over behind us, Ken.",
+        "You're going to have to - to thrust toward us a little more."
+      ],
+      "speaker": "Young",
+      "time": "1005314"
+    },
+    {
+      "tokens": [
+        "Okay, what's my range rate now?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1005319"
+    },
+    {
+      "tokens": [
+        "You're at 2,000 feet, but it's hardly closing at all."
+      ],
+      "speaker": "Young",
+      "time": "1005323"
+    },
+    {
+      "tokens": [
+        "Okay, give me another foot.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1005324"
+    },
+    {
+      "tokens": [
+        "Okay, there's another foot per second.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1005331"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1005344"
+    },
+    {
+      "tokens": [
+        "Now you're starting to build a rate to the north."
+      ],
+      "speaker": "Young",
+      "time": "1005355"
+    },
+    {
+      "tokens": [
+        "I don't think those needles are as good as we're using them in here."
+      ],
+      "speaker": "Mattingly",
+      "time": "1005404"
+    },
+    {
+      "tokens": [
+        "Yeah, I - I don't think they're quite as good."
+      ],
+      "speaker": "Young",
+      "time": "1005408"
+    },
+    {
+      "tokens": [
+        "It looks like I need to start reversing my in-plane direction."
+      ],
+      "speaker": "Mattingly",
+      "time": "1005412"
+    },
+    {
+      "tokens": [
+        "Okay, do I still have a positive closure rate?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1005420"
+    },
+    {
+      "tokens": [
+        "Yep, 3 feet a second; 2,000 feet."
+      ],
+      "speaker": "Young",
+      "time": "1005423"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1005427"
+    },
+    {
+      "tokens": [
+        "1,800 feet now [550 metres]."
+      ],
+      "speaker": "Young",
+      "time": "1005428"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "Now, you are moving north definitely."
+      ],
+      "speaker": "Young",
+      "time": "1005539"
+    },
+    {
+      "tokens": [
+        "Okay, I'm getting you centered back up in the COAS.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1005542"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1005550"
+    },
+    {
+      "tokens": [
+        "Okay, do I still have a closure rate?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1005612"
+    },
+    {
+      "tokens": [
+        "Say again?"
+      ],
+      "speaker": "Young",
+      "time": "1005615"
+    },
+    {
+      "tokens": [
+        "Do I still have a closure rate?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1005616"
+    },
+    {
+      "tokens": [
+        "That's affirmative; 2 feet a second."
+      ],
+      "speaker": "Young",
+      "time": "1005618"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Looks like the old EMS is just sort of sitting here looking at itself."
+      ],
+      "speaker": "Mattingly",
+      "time": "1005620"
+    },
+    {
+      "tokens": [
+        "Okay, I'm going to go ahead and use the EMS - I mean the COAS on the sync because that's working out pretty good in here.",
+        "Seems to be a more sensitive indicator of out of plane."
+      ],
+      "speaker": "Mattingly",
+      "time": "1005714"
+    },
+    {
+      "tokens": [
+        "Okay, you've got 4 milliradians to the north.",
+        "You're at 1,500 feet [450 metres] now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1005728"
+    },
+    {
+      "tokens": [
+        "Okay, well.",
+        "Just barely drifting in my COAS.",
+        "It's pretty good here.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1005748"
+    },
+    {
+      "tokens": [
+        "Okay; well, now, you have...",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1005812"
+    },
+    {
+      "tokens": [
+        "Can you see me at all?"
+      ],
+      "speaker": "Young",
+      "time": "1005832"
+    },
+    {
+      "tokens": [
+        "Yes, sir, in Earthshine I can see the whole LM now."
+      ],
+      "speaker": "Mattingly",
+      "time": "1005834"
+    },
+    {
+      "tokens": [
+        "Okay, fine."
+      ],
+      "speaker": "Young",
+      "time": "1005837"
+    },
+    {
+      "tokens": [
+        "I'm afraid we're going to run out of Earthshine here before we get it completed.",
+        "How's the closure rate now?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1005835"
+    },
+    {
+      "tokens": [
+        "Still 2 feet a second, Ken.",
+        "We're about 1,400 feet [430 metres] now."
+      ],
+      "speaker": "Young",
+      "time": "1005847"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1005854"
+    },
+    {
+      "tokens": [
+        "Man, that Moon in Earthshine is really something."
+      ],
+      "speaker": "Mattingly",
+      "time": "1005903"
+    },
+    {
+      "tokens": [
+        "Okay; And I show you with 4 milliradians to the north, and I see you drifting slowly across the COAS to the north."
+      ],
+      "speaker": "Young",
+      "time": "1005907"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "I didn't quite get it stopped.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1005916"
+    },
+    {
+      "tokens": [
+        "That looks to me like that's fixed."
+      ],
+      "speaker": "Mattingly",
+      "time": "1005930"
+    },
+    {
+      "tokens": [
+        "Okay, you're fixing it."
+      ],
+      "speaker": "Young",
+      "time": "1005925"
+    },
+    {
+      "tokens": [
+        "[Garble.] You still show some residuals?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1005931"
+    },
+    {
+      "tokens": [
+        "Yeah, you're still 3 milliradians to the north."
+      ],
+      "speaker": "Young",
+      "time": "1005936"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1005941"
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston.",
+        "We're showing about ten minutes to LOS, and I have some words for you on our general plan, when it's convenient."
+      ],
+      "speaker": "Irwin",
+      "time": "1005954"
+    },
+    {
+      "tokens": [
+        "101:00:XX Irwin:Okay, when you come up on AOS, on the next rev, Rev 15, we'll give you a Go or No-Go for another try, and we'd be looking at PDI on Rev 16.",
+        "And at that time, we'd have PADs for you and procedures.",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.] Fair enough."
+      ],
+      "speaker": "Young",
+      "time": "1010029"
+    },
+    {
+      "tokens": [
+        "And, Casper; this is Houston."
+      ],
+      "speaker": "Irwin",
+      "time": "1010038"
+    },
+    {
+      "tokens": [
+        "Go right ahead."
+      ],
+      "speaker": "Mattingly",
+      "time": "1010043"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We want you to verify that you're in Auto Dump on the water.",
+        "That's Pressure Relief in the number 2 position.",
+        "That's vertical.",
+        "And if you have an opportunity to get away from the controls there, we'd like you to manually dump the water to ten percent on the back side.",
+        "That should require about 17 minutes.",
+        "Over."
+      ],
+      "speaker": "Irwin",
+      "time": "1010046"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I am in Auto Dump and I'll have to wait until we get in daylight to go down there, I think."
+      ],
+      "speaker": "Mattingly",
+      "time": "1010108"
+    },
+    {
+      "tokens": [
+        "Okay, we copy."
+      ],
+      "speaker": "Irwin",
+      "time": "1010119"
+    },
+    {
+      "tokens": [
+        "I show about full, but I guess it isn't.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1010120"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "The line-of-sight rate is starting to - Have to thrust down a little - I mean, up a little.",
+        "[Pause.] That fixed it."
+      ],
+      "speaker": "Young",
+      "time": "1010127"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.] How's my closure rate?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1010141"
+    },
+    {
+      "tokens": [
+        "Two feet a second.",
+        "You have it."
+      ],
+      "speaker": "Young",
+      "time": "1010152"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1010154"
+    },
+    {
+      "tokens": [
+        "You're at a thousand feet [300 metres] now, approaching [garble]."
+      ],
+      "speaker": "Young",
+      "time": "1010155"
+    },
+    {
+      "tokens": [
+        "How's the out of plane?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1010200"
+    },
+    {
+      "tokens": [
+        "It's starting to go to the south of here.",
+        "Don't worry about it right now."
+      ],
+      "speaker": "Young",
+      "time": "1010202"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1010207"
+    },
+    {
+      "tokens": [
+        "You got it, Ken.",
+        "When you get in - when you get in..."
+      ],
+      "speaker": "Young",
+      "time": "1010241"
+    },
+    {
+      "tokens": [
+        "Orion, this is Houston.",
+        "We'd like you to configure for RCS Bravo only.",
+        "Over."
+      ],
+      "speaker": "Irwin",
+      "time": "1010250"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We'll open the Cross Feed and pull Main SOV A."
+      ],
+      "speaker": "Duke",
+      "time": "1010258"
+    },
+    {
+      "tokens": [
+        "We're configured."
+      ],
+      "speaker": "Duke",
+      "time": "1010312"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "You're about 990 feet [300 metres] now."
+      ],
+      "speaker": "Young",
+      "time": "1010415"
+    },
+    {
+      "tokens": [
+        "All righty.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1010419"
+    },
+    {
+      "tokens": [
+        "970 [295 metres].",
+        "[Pause.] You've got the line-of-sight rate.",
+        "[Long pause.] Okay; can you see me with the spotlight yet?"
+      ],
+      "speaker": "Young",
+      "time": "1010438"
+    },
+    {
+      "tokens": [
+        "No, that's what I was looking to see, because we're going to lose Earthshine here in just a minute.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1010450"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "You've got to thrust down just a hair.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1010527"
+    },
+    {
+      "tokens": [
+        "Yeah, I'm not sure if that was the same [garble] you're talking about.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1010539"
+    },
+    {
+      "tokens": [
+        "Does that fix it?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1010549"
+    },
+    {
+      "tokens": [
+        "It's really strange, it was sitting here in the COAS here, right in the middle.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1010602"
+    },
+    {
+      "tokens": [
+        "You thrust a hair down and a hair to the north."
+      ],
+      "speaker": "Young",
+      "time": "1010614"
+    },
+    {
+      "tokens": [
+        "You're upside down compared to me, and when you say down you mean you're going - you're going down on me - is that correct?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1010618"
+    },
+    {
+      "tokens": [
+        "I'm doing it from the needles.",
+        "If you don't ro - if you haven't rolled from the last way you were doing it, we were doing it okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1010630"
+    },
+    {
+      "tokens": [
+        "Okay; it's 820 feet [250 metres] now."
+      ],
+      "speaker": "Young",
+      "time": "1010644"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.] It still doesn't seem like it does much.",
+        "[Pause.] Okay; I show a line of-sight rate that's essentially killed."
+      ],
+      "speaker": "Mattingly",
+      "time": "1010647"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "They're about killed for this close in.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "1010714"
+    },
+    {
+      "tokens": [
+        "[Garble] One-four."
+      ],
+      "speaker": "Mattingly",
+      "time": "1010800"
+    },
+    {
+      "tokens": [
+        "Yes, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "1010804"
+    },
+    {
+      "tokens": [
+        "How much?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1010809"
+    },
+    {
+      "tokens": [
+        "Okay, I can see your image is about 2 degrees, now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1010811"
+    },
+    {
+      "tokens": [
+        "16, this is Houston.",
+        "We're showing about two minutes to LOS, and if you'll give us a range and range rate, and, Ken, perhaps you could repeat it for us."
+      ],
+      "speaker": "Irwin",
+      "time": "1010829"
+    },
+    {
+      "tokens": [
+        "Okay; 710 feet [215 metres], closing at 2 feet a second, rates essentially nulled."
+      ],
+      "speaker": "Young",
+      "time": "1010838"
+    },
+    {
+      "tokens": [
+        "Did you copy that, Houston?",
+        "The range is 710 feet, 2 feet per second, rates nulled.",
+        "[Long pause.] Houston, did you copy Casper?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1010847"
+    },
+    {
+      "tokens": [
+        "Roger; we copied down here.",
+        "Thank you."
+      ],
+      "speaker": "Irwin",
+      "time": "1010912"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1010919"
+    },
+    {
+      "tokens": [
+        "Uh huh.",
+        "Let me turn my spotlight now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1010936"
+    },
+    {
+      "tokens": [
+        "CM tape on until 101:59:29."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yeah, I can tell I got you, but it's a poor competitor for Earthshine.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1010954"
+    },
+    {
+      "tokens": [
+        "Beg your pardon."
+      ],
+      "speaker": "Mattingly",
+      "time": "1011002"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It will all of a sudden look very nice.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1011005"
+    },
+    {
+      "tokens": [
+        "You can rendezvous under these conditions very nicely, the problem being that you've got to keep referring to the reticle to get some kind of range, I because there's just no - you still don't have enough good depth perception to tell where you are.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "1011026"
+    },
+    {
+      "tokens": [
+        "LM tape off at 101:10:46.",
+        "Not resumed until much later."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, in order to have good comm, [pause] man, you just disappeared - got the spotlight on.",
+        "[Pause.] I tell you, the spotlight isn't nearly as good as Earthshine.",
+        "I'm really surprised."
+      ],
+      "speaker": "Mattingly",
+      "time": "1011047"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "End of Tech transcript until 101:59:34."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "We have had Loss Of Signal with both vehicles as they pass behind the Moon during the end of revolution number 14.",
+        "At the start of Revolution 15, the crew of Apollo 16, still at this time station-keeping in the two vehicles, will be given a Go/No-Go decision for powered descent and landing during Rev 16 which will be some 4 hours from now.",
+        "If the decision is Go, and all of the maneuver timelines will have to be read up to the crew during the front-side pass of revolution number 15.",
+        "If the decision is [for] no landing, then the crew would proceed to rendezvous, dock, and prepare the spacecraft for return home.",
+        "To recap the situation, the - the planned circularization maneuver by the Command Service Module back prior to AOS on Revolution 13 was aborted by Ken Mattingly when he discovered that the backup system, the Stabilization and Control System which in turn controls the gimbal actuators on the Service Propulsion System, apparently had a malfunction in the yaw direction - in other words the driver that moves the engine bell left and right apparently had some excursions of several degrees and fairly rapid amplitude - fairly rapid succession.",
+        "Simulations are underway here at - in Houston and with the Command Module simulator and some structural tests are underway at this time at the manufacturer's plant, Downey, California to determine if indeed the problem would present any structural hazard to the spacecraft should the backup SCS system have to be used in SPS burns.",
+        "Keep in mind, please, that the primary system - the G&N system - is still in perfect condition, but the mission rules call for both systems being operational before we have a 'Go' for landing.",
+        "Some 44 minutes remaining now until acquisition on Rev 15.",
+        "During the next three quarters of an hour, the decision should be firmed up on a Go for landing - Go/No-Go decision.",
+        "And at 101 hours, 14 minutes Ground Elapsed Time into the mission of Apollo 16; this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    }
+  ],
+  "source_file": "day5_part1_rendezvous_and_waiting._revs_13_to_15.html"
+}

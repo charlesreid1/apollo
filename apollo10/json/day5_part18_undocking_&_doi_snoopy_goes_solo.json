@@ -1,0 +1,4295 @@
+{
+  "description": "Apollo 10 Flight Journal - Day 5, part 18: Undocking & DOI, 'Snoopy' goes solo",
+  "transcript": [
+    {
+      "tokens": [
+        "The CDR runs through a routine to load the mission time into the LGC from the CMC.",
+        "Using Verb 26 Noun36 Enter, a nominated elapsed time is entered into the DSKY.",
+        "The CMP will call the Mark when the loaded time is reached, and the CDR hits the Enter button on the DSKY.",
+        "Using Verb 55, this time is then incorporated into the LGC.",
+        "The Mission Timer on panel 1 is powered up using the circuit breaker on panel 11.",
+        "The Mission Timer is set to correspond to the LGC mission time using the Mission Timer Slew Controls on panel 5.",
+        "The CDR presets an appropriate mission time and when this time is reached the Mission Timer is commanded to begin counting up by placing the Mission Time Cont switch also on panel 5 in the Start position.",
+        "The Mission Timer can only count up from its start time."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Event Timer is set by the CDR to help co-ordinate events.",
+        "It can count up or down.",
+        "The Event Timer Display is also on panel 1 and is set using the Reset/Count, Timer Cont and Slew Cont switches on panel 3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Overhead Dump valve is situated on the LM overhead docking hatch.",
+        "It provides for automatic LM cabin depressurization and cabin pressure relief.",
+        "In the Auto position, the valve can operate normally as a automatic pressure relief device."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the Pressure Regulator A and B on the ECS oxygen control panel, in the Cabin position, regulated oxygen flow is permitted into the suit circuit at a maintained pressure of 4.8, plus or minus 0.2 psia."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Guidance Control switch on panel 1 selects whether the PGNS or AGS provide the guidance control commands."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Mode Select switch on panel 1 selects radar or computer data for display on X-Pointer and altitude/range indicators."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The RNG/ALT Mon switch on panel 1 when set to the RNG/RNG RT position, selects the display legend on the altitude/range indicator and displays rendezvous radar range/range rate data or LR or computer altitude/altitude rate data."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is referring to the Rate/Error Monitor switch on the LMP side of the central control panels, panel 2, which selects the input for the FDAI and X-Pointer indicators.",
+        "When placed in the Landing Radar/Computer position, vehicle attitude errors are displayed on the FDAI error needles.",
+        "Forward and lateral velocities from the landing radar are displayed on the X-pointer indicator (illuminating the LAT VEL and FWD VEL labels on the indicator scales)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Rate/Error Monitor switch on the CDR side of the central control panels, on panel 1, again selects the input for the FDAI and X-Pointer indicators.",
+        "When placed in the RNDZ Radar position, the shaft and trunnion angles from the Rendezvous Radar are displayed by pitch and yaw error needles of FDAI; LOS (line of sight) azimuth and elevation rates are displayed on the X-Pointer indicator (illuminating LOS AZ and LOS ELEV)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Attitude Monitor switch on panel 1 for the CDR and panel 2 for the LMP are set to each of the two guidance systems, to ensure that the FDAI total attitude displays and input for the attitude error needles (panels 1 & 2) is provided in the event that one of the guidance systems malfunctions."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Rate Scale switch on panel 1, selects the scale factors of roll, pitch, and yaw rate scales of the FDAI.",
+        "The two options are 25°/sec or 5°/sec."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "X-Translation using 2 RCS jets is selected using the switch on panel 1.",
+        "This is for controlling translations along the LM's X axis (up or down from the crew's perspective).",
+        "The pair of RCS jets will be on diagonally opposing sides of the LM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The BAL CPL switch at the bottom of panel 1 selects either balanced pairs of RCS jets as a couple to maintain pitch and roll attitude control during use of the ascent engine, when the AGS is in the guidance control loop.",
+        "This switch is placed in the On position in preparation for the initial use of the ascent engine for the insertion maneuver and also its possible use in the event an abort was necessary.",
+        "In this position the maximum degree of stabilization and control is afforded for any center of gravity thrust vector misalignments."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Deadband switch on panel 3 is set to the Max position to provide a large deadband limit of 5°.",
+        "This is to help conserve RCS propellant during coasting flight, when the PGNS is not functional.",
+        "In conjunction with this switch setting, the FDAI error needle scaling is plus or minus 14.4°."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the three (roll, pitch and yaw) Attitude Control switches also on panel 3 in the Pulse position, two RCS jets in the selected axis fire at a constant pulsed rate as long as the ACA (Attitude Control Assembly) is displaced by more than a quarter of its full displacement.",
+        "The attitude rates induced must be nulled to zero by inputting the opposite command manually."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Mode Control switches also on panel 3 when set to Attitude Hold for both PGNS & AGS will allow the commander to command angular attitude rates proportional to the displacement of the ACA.",
+        "Stafford has switched the AGS Mode Control switch to Off temporarily so that if he inadvertently moves the ACA, it will have no effect as they are currently in AGS control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is confirming whether Stafford has selected the Jets position on the TTCA (Thrust/Translation Controller) selection level on his side of the cabin.",
+        "In this position, the TTCA is used to command RCS X-axis translation manoeuvres.",
+        "His next remark is in regards to the effort required to move this selection level to the Throttle position."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Rendezvous Radar mode selector rotary switch on panel 3 is placed in the SLEW position to enable manual control of the rendezvous radar antenna drive using the Slew switch, which is also on panel 3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is checking whether the ACA/4 Jet switch on the CDR side of panel 4 is in the Enable position.",
+        "This enables the nominal operation of the ACA (Attitude Control Assembly) on the CDR side of the cabin."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is closing the AOT (optics) HEATERS circuit breaker on panel 11 to avoid fogging."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew restraint assembly consists of ropes, restraint rings, and a constant-force reel system.",
+        "The ropes attach to D-rings on either side of the crewman's pressure suit, at waist height.",
+        "The constant-force reel control provides a downward, anchoring force of approximately 30 pounds (13.6 kg).",
+        "It is locked during landing and docking operations.",
+        "When the constant-force reel is locked, the ropes are allowed to reel in, and a ratchet stop prevents paying out of the ropes, thus providing restraint in zero-g.",
+        "During the docking manoeuvres, the commander uses a pin adjuster to enable him to use the COAS (crewman optical alignment sight) in the overhead docking window."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-56."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Placing the VHF AM A switch on panel 3 in the Simplex position provides voice only communications between MSFN and the CSM, and between the LM and CSM at 296.8 MHz.",
+        "This voice transmission can be triggered using the PTT switch on the electrical umbilical assembly and in VOX mode."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "By placing the LM VHF A XMTR switch on panel 12 for this test in the Voice position, only the VHF voice function is enabled.",
+        "In the proper VHF Ranging mode the VHF A XMTR switch will be placed in the Voice/RNG position which enables the ranging capability via the VHF A transmitter.",
+        "This ranging mode is only available through the VHF A transmitter in the lunar module."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The VHF/AM transmitter-receiver equipment provides the capability for two-way voice communications between the CSM, MSFN, LM, and an EVA astronaut.",
+        "It can be used as a voice relay between the LM or astronaut on EVA and MSFN, and ranging (distance measuring) with the LM.",
+        "The crew will be using it in the ranging mode during undocked operations.",
+        "In the Duplex B setting the VHF/AM transmits at 259.7 MHz and receives 296.8 MHz for both voice and ranging.",
+        "Duplex B is selected using the VHF AM switches on panel 3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew were briefed pre-flight that Apollo 9 had encountered some coronal build-up around the LM VHF antenna which had degraded its operation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is confirming that the VHF A mode switch on panel 8 is in the T/R (transmit/receive) position which enables any audio received on VHF A to be routed to the CDR audio headset amplifier and outputs from his microphone will be sent to the VHF A transmitter.",
+        "In this mode, any VOX keyed voice output would also be routed to the VHF A transmitter.",
+        "The VHF B switch also on panel 8 when in the RCV (receive) position enable any audio received on VHF B to be routed to the CDR audio headset amplifier."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young has confirmed that pressure difference between the CM cabin and the docking tunnel has not changed over the last few minutes.",
+        "Now that the main docking latches have been cocked, the docking probe capture latches are the only mechanism holding the two spacecraft securely together.",
+        "The stable pressure differential is a good indicator that the pressure seal between the two vehicles is being held tight."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford and Young are anxious to get undocked as soon as they are ready, so they can keep well ahead of the Flight Plan timeline just in case they have any issues regarding the apparent docking ring slippage during the station keeping, LM inspection and preparation for the separation burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The view of the LM from the CSM immediately after undocking will be straight into the Sun.",
+        "Stafford is advising Young that he should be ready to maneuver the CSM at short notice if the two vehicles get too close when visibility is impaired."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Due to the relative position of the Sun, the TV camera, which has been mounted in the right hand docking window, to televise the station keeping, will remain off and its lens covered up to avoid damage to the vidicon tube.",
+        "Once the Sun has moved from the camera's field of view, the camera will be activated."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The S-Band AUX SCI/TV switch on panel 3 is placed in the TV position.",
+        "This activates the FM transmitter of the USBE (Unified S Band Equipment) and connects the TV output to the power amplifier now selected on the S-Band Normal PWR AMPL Prim/Sec switch.",
+        "It activates the power amplifier in the high power mode.",
+        "It also connects the TV output to the FM transmitter modulator."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The horizontal hold on the onboard TV monitor may need to be adjusted as the TV is switched on."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is reminding Stafford that the combined spacecraft have not manoeuvred to the planned undocking attitude due to the docking interface slippage."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The LM plus-Z axis points out through the forward hatch.",
+        "It is offset 120° from the CSM plus-Z axis, which points straight down through the crew's feet.",
+        "The LM yaw 120° to the right will align these axis.",
+        "The LM will then be pitched up 90° so that the crew are looking straight at the CSM, with the CSM looking straight at them."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is suggesting that post undocking he place all 3 of the CSM axis in the 0° position."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Closing the Docking Probe circuit breakers on panel 8, provides 10 amps power supply from each bus to systems A & B capture latches motors, the Docking Probe talk back indicators and the Docking Probe temperature telemetry."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "CMP Young, using the Docking Probe, EXTD/REL switch on panel 2, commands the capture latch release motor to withdraw the three latches, hence allowing the probe head to come free from the center of the drogue in the LM.",
+        "The probe indicators also on panel 2 momentarily go to barber pole and then to gray to indicate release of the capture latches."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The LMSnoopyis moving away from the CSMCharlie Brown, due in part to the residual pressure in the docking tunnel being released as the docking probe capture latches released.",
+        "The motion is along the LM's minus-X axis, therefore the LM crew are pulsing the LM minus-X RCS thrusters to halt this motion."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The CSM separation attitude read up to John Young is Roll 0°, Pitch 14°, Yaw 0°.",
+        "These values are relative to the current LLS-2 REFSMMAT.",
+        "In relation to the LHLV the values are Roll 0°, Pitch 268.8°, Yaw 0°."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "AS10-34-5082is an image of LMSnoopyjust after undocking from the CSMCharlie Brown]."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "AS10-34-5083shows LMSnoopyduring station keeping following undocking."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In these photos, taken during station keeping, notice thatSnoopy, also known as LM-4, has four lunar surface probes installed.",
+        "Prior to Apollo 11, it was decided to remove the probe from the forward plus-Z footpad, due to concerns that the forward probe may snag up under the footpad and make it difficult for the astronauts as they egress the LM on the lunar surface at the beginning of the EVA."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The ORDEAL is providing the attitude display inputs to the FDAI and at this time is set to the Orb Rate position.",
+        "In this position the FDAI output displays the attitude with respect to the local horizontal reference framework."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "BEF is Blunt End Forward."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is setting the ORDEAL Alt Set dial to the 100 position.",
+        "This setting dictates the rate at which the ORDEAL torques the FDAI ball, which is dependent on the LM altitude.",
+        "The Alt Set setting is usually provided by MCC-H.",
+        "It can also be obtained onboard by following the LGC Orbit Parameter Display routine 30 or the Ground Track Determination program 21.",
+        "Cernan has now set the Alt Set dial correctly and the FDAI balls have both responded."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 98 hours, 24 minutes.",
+        "We're about 1 minute away from acquisition of Apollo 10 on its 12th revolution of the Moon.",
+        "We'll find out at acquisition how this undocking went.",
+        "We'll stand by here live to pick up the first communication."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Madrid has acquisition."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16-mm film from Lunar ModuleSnoopy."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "H.264 MP4 video file."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ice has been noticed building up around the urine dump nozzle outlet which is situated alongside the CM roll RCS thrusters."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The area of contamination described by Cernan can clearly be seen in imageAS10-27-3874above, which was taken during the station keeping just after undocking."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "During station keeping, LMSnoopyhas moved in closer to the CSMCharlie Brownto enable Young to make a detailed examination of the LM prior to separation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The LM crew have noticed the CSM High Gain Antenna manoeuvring automatically to reacquire MSFN as the two spacecraft come around the Moon and Earth comes back into view.",
+        "The HGA Track switch on panel 2 is in the Reacq position.",
+        "In this position the HGA will automatically point toward MSFN stations, provided the MSFN stations are within ±60° of the antenna boresight axis."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yes, we got him right away, Tom."
+      ],
+      "speaker": "Cernan",
+      "time": "0982707"
+    },
+    {
+      "tokens": [
+        "Hello, Snoop.",
+        "How you doing?"
+      ],
+      "speaker": "Duke",
+      "time": "0982710"
+    },
+    {
+      "tokens": [
+        "This is Snoop on high gain.",
+        "How are you reading, now?"
+      ],
+      "speaker": "Cernan",
+      "time": "0982717"
+    },
+    {
+      "tokens": [
+        "Five-by.",
+        "How me?"
+      ],
+      "speaker": "Duke",
+      "time": "0982719"
+    },
+    {
+      "tokens": [
+        "Reading you loud and clear.",
+        "We're about 30 or 40 feet [9 or 12 meters] away from him.",
+        "Been station keeping for about 5 or 10 minutes here."
+      ],
+      "speaker": "Cernan",
+      "time": "0982723"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Could you give us P00 and Data?",
+        "We've got a load for you, and are you ready to copy some PADs?"
+      ],
+      "speaker": "Duke",
+      "time": "0982729"
+    },
+    {
+      "tokens": [
+        "I sure am.",
+        "I'm going to give you P00 and Data."
+      ],
+      "speaker": "Cernan",
+      "time": "0982739"
+    },
+    {
+      "tokens": [
+        "And I'm ready to copy."
+      ],
+      "speaker": "Cernan",
+      "time": "0982751"
+    },
+    {
+      "tokens": [
+        "Roger, Gene-o.",
+        "It's DOI's first PAD, and we've got three PADs for you, starting with DOI.",
+        "I'll read them all - through all of them and then you can read me back.",
+        "Okay?",
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0982752"
+    },
+    {
+      "tokens": [
+        "[Garble] go ahead..."
+      ],
+      "speaker": "Cernan",
+      "time": "0982804"
+    },
+    {
+      "tokens": [
+        "It's DOI 099:46:00.89, minus 00699, plus all balls, minus 00138; Delta-VR, 00713; 027, 3 balls, 275; minus 00698, plus all balls, minus 00144; COAS star is Scorpii Delta, minus 023, minus 146; CSI time 103:45:34; TPI time 105:21:01, with an N equal to 1.",
+        "Phasing PAD is next if you're ready to copy.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0982805"
+    },
+    {
+      "tokens": [
+        "H.264 MP4 video file."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "CSMCharlie Brownshortly after undocking, during station keeping, taken using a Hasselblad camera by Tom Stafford in the LMSnoopy.",
+        "Note the extended docking probe."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I'm ready to copy.",
+        "Go ahead with phasing."
+      ],
+      "speaker": "Cernan",
+      "time": "0982940"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "100:58:25.20, plus 0..."
+      ],
+      "speaker": "Duke",
+      "time": "0982943"
+    },
+    {
+      "tokens": [
+        "Charlie?"
+      ],
+      "speaker": "Cernan",
+      "time": "0982955"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0982956"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "John said he's not reading you.",
+        "While I'm copying this, he said he's got a picture of the LM if you want to look at it on TV."
+      ],
+      "speaker": "Cernan",
+      "time": "0982957"
+    },
+    {
+      "tokens": [
+        "We have it, Gene-o.",
+        "We're ready to continue with Noun 81 if you're ready."
+      ],
+      "speaker": "Duke",
+      "time": "0983006"
+    },
+    {
+      "tokens": [
+        "I'm ready to copy.",
+        "Go ahead."
+      ],
+      "speaker": "Cernan",
+      "time": "0983014"
+    },
+    {
+      "tokens": [
+        "Plus 01666, plus all balls, minus 00594, 01769; 040, 3 balls, 255.",
+        "Noun 86 is plus 01675, plus all balls, minus 00568.",
+        "COAS star is Libra Alpha, that's Libra Alpha, plus 004, minus 119.",
+        "Okay.",
+        "Your 100-degree east time..."
+      ],
+      "speaker": "Duke",
+      "time": "0983017"
+    },
+    {
+      "tokens": [
+        "AOT breaker in, Tom?"
+      ],
+      "speaker": "Cernan",
+      "time": "0983120"
+    },
+    {
+      "tokens": [
+        "Your 100-degree east time is 33:31.",
+        "Your phasing Delta is minus 5 seconds - 05 seconds.",
+        "Site 2 time is 10:30.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0983123"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "I got everything except Delta-VXon Noun 81."
+      ],
+      "speaker": "Cernan",
+      "time": "0983149"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Delta-VXon Noun 81 is plus 01666.",
+        "I've got a PDI abort PAD if you'll just stand by.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0983155"
+    },
+    {
+      "tokens": [
+        "I'm waiting for you."
+      ],
+      "speaker": "Cernan",
+      "time": "0983208"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Let me try to raise Charlie Brown."
+      ],
+      "speaker": "Duke",
+      "time": "0983209"
+    },
+    {
+      "tokens": [
+        "Charlie Brown, Houston.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0983212"
+    },
+    {
+      "tokens": [
+        "Charlie Brown, Houston.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0983226"
+    },
+    {
+      "tokens": [
+        "Houston, this is Snoop.",
+        "He's reading you loud and clear."
+      ],
+      "speaker": "Stafford",
+      "time": "0983231"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "He's copying the PAD then; we're not reading him at all, Snoop, and I'm ready with a PDI abort PAD if you're ready to copy.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0983234"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "PDI abort.",
+        "Go ahead."
+      ],
+      "speaker": "Cernan",
+      "time": "0983245"
+    },
+    {
+      "tokens": [
+        "100:43:45.50; plus 00931, plus all balls, plus 3 balls 1.1 00931.",
+        "Burn time is 0:22, 3 balls 283, plus 00931, plus 00000, plus 3 balls 22.",
+        "NA on the rest of the PAD.",
+        "Thrust profile is 15 seconds at 10 per cent and then manually throttled to full thrust until completion.",
+        "CSI time, 101:44:25.",
+        "TPI time, 103:22:25 with an N equal to 1, and I'm standing by for your readback.",
+        "And, Snoopy, you've got the computer back.",
+        "We're through with the load."
+      ],
+      "speaker": "Duke",
+      "time": "0983248"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "Here they - Roger.",
+        "Thank you.",
+        "Here they come at you: DOI is 099:46:00.89, minus 00699, plus all balls, minus 00138; 00713, 027, 3 balls, 275.",
+        "Noun 86 is minus 00698, plus all balls, minus 0014.",
+        "Verb 5 Delta, minus 023, and minus l46."
+      ],
+      "speaker": "Cernan",
+      "time": "0983419"
+    },
+    {
+      "tokens": [
+        "Go."
+      ],
+      "speaker": "Duke",
+      "time": "0983452"
+    },
+    {
+      "tokens": [
+        "Phasing is at 100:58:25.20.",
+        "Are you with me?"
+      ],
+      "speaker": "Cernan",
+      "time": "0983453"
+    },
+    {
+      "tokens": [
+        "Go."
+      ],
+      "speaker": "Duke",
+      "time": "0983457"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll back up and give you CSI time and TPI time for DOI.",
+        "CSI is 103:45:34; TPI is 105:21:01 with an N equal 1.",
+        "Phasing - Phasing is 100:58:25.20, plus 01666, plus all balls, minus 00594, 01769, 040, 000255, plus 01675, plus all balls, minus 00568.",
+        "Libra Alpha is the star.",
+        "It's plus 004 and minus 119; and 100 degrees east is 33 plus 31; phasing Delta is minus 5 seconds; Site 2 is 10 plus 30.",
+        "Are you with me?"
+      ],
+      "speaker": "Cernan",
+      "time": "0983504"
+    },
+    {
+      "tokens": [
+        "Go."
+      ],
+      "speaker": "Duke",
+      "time": "0983557"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "PDI abort is 100:43:4550, plus 00931, plus all balls, plus 00011, 00931, 022, 000283, plus 00931, plus all balls, plus 00022.",
+        "The star is NA; 15 seconds at 10 percent, then manual to full thrust.",
+        "CSI is 101:44:25; TPI is 103:22:25 with an N equal 1."
+      ],
+      "speaker": "Cernan",
+      "time": "0983602"
+    },
+    {
+      "tokens": [
+        "Duke has read up the PADs for DOI, Phasing, and PDI abort.",
+        "All of these manoeuvres are carried out using the DPS.",
+        "The details are:DOI(Program 30 LM Manoeuvre.)Time of ignition, TIG(Noun 33):099:46:00.89Change in velocity (Noun 81), fps (m/s):X, -0069.9 (-21.3); Y, -0000.0 (-0.0); Z, -0013.8 (-4.2).",
+        "The change in velocity is resolved into three components expressed relative to the Local Vertical frame of reference.Total required change in velocity, Delta-VR, fps (m/s):0071.3 (21.7)Burn duration, BT(min:sec):0:27Attitude angles that should be displayed on the FDAI eight ball in the Inertial mode:Roll, 000°; Pitch, 275°.Change in velocity values used to target the AGS (Noun 86), fps (m/s):X, -0069.8 (-21.2), Y, -0000.0 (-0.0), Z, -0014.4 (-4.4).",
+        "These velocities are expressed relative to the Local Vertical frame of reference.The COAS star used to verify that the spacecraft attitude is at the burn attitude:Scorpii Delta.Azimuth angle of the COAS star:-023°Elevation angle of the COAS star:-146°The TIGtimes for CSI manoeuvre if the DOI occurs as planned:103:45:34.The TIGtimes for TPI manoeuvre if the DOI occurs as planned:105:21:01.Phasing(Program 30 LM Manoeuvre.)Time of ignition, TIGNoun 33):100:58:25.20Change in velocity (Noun 81), fps (m/s):X, +0166.6 (-50.8); Y, +0000.0 (+0.0); Z, -0059.4 (-18.1).",
+        "The change in velocity is resolved into three components expressed relative to the Local Vertical frame of reference.Total required change in velocity, Delta-VR, fps (m/s):0176.9 (53.9)Burn duration, BT(min:sec):0:40Attitude angles that should be displayed on the FDAI eight ball in the Inertial mode:Roll, 000°; Pitch, 255°.Change in velocity values used to target the AGS (Noun 86), fps (m/s):X, +0167.5 (-51.1); Y, +0000.0 (+0.0); Z, -0056.8 (-17.3).",
+        "These velocities are expressed relative to the Local Vertical frame of reference.The COAS star used to verify that the spacecraft is at the burn attitude:Libra Alpha.Azimuth angle of the COAS star:+004°Elevation angle of the COAS star:-119°Time when the spacecraft will pass the 100° East longitude line (min:sec):33:31.Phasing Delta (sec):-5.Time before ignition when the spacecraft with be over Apollo Site 2 (min:sec):10:30.PDI abort(Program 30 LM Manoeuvre.)Time of ignition, TIG (Noun 33):100:43:45.50Change in velocity (Noun 81), fps (m/s):X, +0093.1 (-28.4); Y, +0000.0 (+0.0); Z, +0001.1 (+0.3).",
+        "The change in velocity is resolved into three components expressed relative to the Local Vertical frame of reference.Total required change in velocity, Delta-VR, fps (m/s):0093.1 (28.4).Burn duration, BT(min:sec):0:22Attitude angles that should be displayed on the FDAI eight ball in the Inertial mode:Roll, 000°; Pitch, 283°.Change in velocity values used to target the AGS (Noun 86), fps (m/s):X, +0093.1 (28.4); Y, +0000.0 (+0.0); Z, -0002.2 (-0.7).",
+        "These velocities are expressed relative to the Local Vertical frame of reference.The PAD includes a note that the DPS thrust profile for this manoeuvre is 15 seconds and 10% throttle, then manually throttle up to maximum for the remainder of the burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Good readback, Snoop.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0983636"
+    },
+    {
+      "tokens": [
+        "Houston, this is Snoop.",
+        "Charlie Brown's trying to call you."
+      ],
+      "speaker": "Stafford",
+      "time": "0983649"
+    },
+    {
+      "tokens": [
+        "Roger, Snoop.",
+        "We don't read him.",
+        "Charlie Brown, verify your S-band switch is in T/R.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0983653"
+    },
+    {
+      "tokens": [
+        "John, is your S-band switch in T/R, and I'll give you anything you need?",
+        "Just ask.",
+        "Go ahead."
+      ],
+      "speaker": "Cernan",
+      "time": "0983703"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The time of DOI, Charlie Brown, is 099:46:00.89, minus 00699, plus all zeros, and minus 00138.",
+        "That's Noun 81 for DOI.",
+        "Okay.",
+        "Phasing is 100:58:25.20.",
+        "Noun 81 is plus 01666, plus all balls, and minus 00594.",
+        "And verify your T/R switch is in S-band T/R, John."
+      ],
+      "speaker": "Cernan",
+      "time": "0983712"
+    },
+    {
+      "tokens": [
+        "Noun 81 is the change in velocity."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, phasing is 100:58:25.20.",
+        "Noun 81 is plus 01666, plus all balls, and minus 00594."
+      ],
+      "speaker": "Cernan",
+      "time": "0983739"
+    },
+    {
+      "tokens": [
+        "And verify your T/R switch is in S-Band T/R, John."
+      ],
+      "speaker": "Cernan",
+      "time": "0983804"
+    },
+    {
+      "tokens": [
+        "Snoopy, Houston."
+      ],
+      "speaker": "Duke",
+      "time": "0983807"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0983810"
+    },
+    {
+      "tokens": [
+        "Snoopy, Houston.",
+        "And I'm breaking in.",
+        "It's a ground problem with the C - with the CSM.",
+        "We're losing his - We got the downlink to Goldstone, but we're not getting it here in the MCC."
+      ],
+      "speaker": "Duke",
+      "time": "0983811"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0983826"
+    },
+    {
+      "tokens": [
+        "I'll tell you, this comm has got to be fixed within the next couple of hours, Charlie, so tell them to get with it."
+      ],
+      "speaker": "Stafford",
+      "time": "0983828"
+    },
+    {
+      "tokens": [
+        "Stafford is expressing his frustration with the quality of the communications, both between both spacecraft and MCC-H and between the spacecraft themselves.",
+        "He is anxious that it is improved before the solo LM operations start in earnest.",
+        "This is one of the key requirements for the mission and must be mastered before the Apollo 11 landing mission."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0983833"
+    },
+    {
+      "tokens": [
+        "Everything else is going good here."
+      ],
+      "speaker": "Stafford",
+      "time": "0983838"
+    },
+    {
+      "tokens": [
+        "Houston, this is Snoopy.",
+        "Is that 69.2 by 57.5 good?"
+      ],
+      "speaker": "Cernan",
+      "time": "0983901"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0983909"
+    },
+    {
+      "tokens": [
+        "Snoop, Houston.",
+        "We aren't with you on the 69.2.",
+        "Say again."
+      ],
+      "speaker": "Duke",
+      "time": "0983919"
+    },
+    {
+      "tokens": [
+        "I'm reading Verb 82 out of the DSKY 69.9 by - or 62.9 by 57.5."
+      ],
+      "speaker": "Cernan",
+      "time": "0983927"
+    },
+    {
+      "tokens": [
+        "Verb 82 gives a readout of the current orbital parameters, 62.9 by 57.5 miles (116.5 x 106.5 km)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "We'll have it for you."
+      ],
+      "speaker": "Duke",
+      "time": "0983934"
+    },
+    {
+      "tokens": [
+        "Snoop, Houston.",
+        "FIDO's checking.",
+        "Stand by.",
+        "Snoop, Houston.",
+        "That's a..."
+      ],
+      "speaker": "Duke",
+      "time": "0983942"
+    },
+    {
+      "tokens": [
+        "The reason I asked is I saw..."
+      ],
+      "speaker": "Cernan",
+      "time": "0983950"
+    },
+    {
+      "tokens": [
+        "Go on the apogee and perigee."
+      ],
+      "speaker": "Duke",
+      "time": "0983952"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0983954"
+    },
+    {
+      "tokens": [
+        "Whilst the LM prepares for the SEP manoeuvre, John Young in the CSMCharlie Brownis using routine 03 to load the DAP with 11102.",
+        "This breaks down as:1- CSM only.1- Use RCS quadrants A&C for +X translation.1- Use RCS quadrants B&D for +X translation.0- 0.5° deadband.2- 0.5° manoeuvre rate."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We're about 7 minutes away from the separation burn."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Looks like we're pretty steady out here on the station keeping, John, once we got squared away on our attitude."
+      ],
+      "speaker": "Stafford",
+      "time": "0984027"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0984042"
+    },
+    {
+      "tokens": [
+        "Snoop, Houston.",
+        "We got a beautiful picture out there of you."
+      ],
+      "speaker": "Duke",
+      "time": "0984050"
+    },
+    {
+      "tokens": [
+        "LMSnoopycontinues to stationkeep close to the CSMCharlie Brownas shown in imagesAS10-34-5088andAS10-34-5089."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I'll - mark at 6 minutes."
+      ],
+      "speaker": "Young",
+      "time": "0984100"
+    },
+    {
+      "tokens": [
+        "Charlie Brown..."
+      ],
+      "speaker": "Duke",
+      "time": "0984103"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're counting down."
+      ],
+      "speaker": "Stafford",
+      "time": "0984104"
+    },
+    {
+      "tokens": [
+        "...We finally got you.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0984105"
+    },
+    {
+      "tokens": [
+        "No, that wasn't 6 minutes."
+      ],
+      "speaker": "Young",
+      "time": "0984107"
+    },
+    {
+      "tokens": [
+        "What was it, José?"
+      ],
+      "speaker": "Stafford",
+      "time": "0984111"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've got 5 seconds to 6 minutes."
+      ],
+      "speaker": "Young",
+      "time": "0984114"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0984118"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Six minutes and counting down to Sep."
+      ],
+      "speaker": "Young",
+      "time": "0984120"
+    },
+    {
+      "tokens": [
+        "Got you, babe."
+      ],
+      "speaker": "Stafford",
+      "time": "0984121"
+    },
+    {
+      "tokens": [
+        "Charlie Brown, Houston.",
+        "We're reading you five-by now.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0984126"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I've got 5 minutes and 45 seconds to Sep: 44, 43, 42."
+      ],
+      "speaker": "Young",
+      "time": "0984132"
+    },
+    {
+      "tokens": [
+        "We're right with you."
+      ],
+      "speaker": "Duke",
+      "time": "0984138"
+    },
+    {
+      "tokens": [
+        "Young is preparing the CSM for the Sep manoeuvre using Program 30 - External Delta-V, and Program 40 RCS manoeuvre."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, this is Snoopy.",
+        "With that drift you saw, how do you expect our platform to be, how close to good alignment?"
+      ],
+      "speaker": "Cernan",
+      "time": "0984145"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We expect very small torquing angles in all axes.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0984156"
+    },
+    {
+      "tokens": [
+        "That's good to hear.",
+        "Thank you."
+      ],
+      "speaker": "Cernan",
+      "time": "0984203"
+    },
+    {
+      "tokens": [
+        "Well, I hope we can get back on the nominal after that insulation kind of goofed us up, Charlie.",
+        "But everything's looking good here."
+      ],
+      "speaker": "Stafford",
+      "time": "0984207"
+    },
+    {
+      "tokens": [
+        "AOT is the Alignment Optical Telescope.",
+        "Though not as sophisticated as the sextant and telescope optics in the CSM, it fulfils some of the same functions, particularly the alignment of the LM's inertial platform."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Tom.",
+        "Could you - One question on the tracking light.",
+        "Have you tried it?"
+      ],
+      "speaker": "Duke",
+      "time": "0984215"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "John, there's the tracking light for you."
+      ],
+      "speaker": "Stafford",
+      "time": "0984222"
+    },
+    {
+      "tokens": [
+        "Yes!",
+        "Please turn it off."
+      ],
+      "speaker": "Young",
+      "time": "0984228"
+    },
+    {
+      "tokens": [
+        "It works."
+      ],
+      "speaker": "Stafford",
+      "time": "0984230"
+    },
+    {
+      "tokens": [
+        "Great.",
+        "Thank you.",
+        "We saw it."
+      ],
+      "speaker": "Duke",
+      "time": "0984232"
+    },
+    {
+      "tokens": [
+        "John, why don't you toss on your tracking light for a minute?"
+      ],
+      "speaker": "Stafford",
+      "time": "0984252"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's mine.",
+        "It may be underneath the vehicle; I don't think you can see it."
+      ],
+      "speaker": "Young",
+      "time": "0984314"
+    },
+    {
+      "tokens": [
+        "Three photos of LMSnoopyduring stationkeeping:"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "I saw one reflection here.",
+        "We're Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0984321"
+    },
+    {
+      "tokens": [
+        "Okay, John.",
+        "It looks like about 2:30 [2 minutes 30 seconds] coming up set, babe."
+      ],
+      "speaker": "Stafford",
+      "time": "0984452"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I agree."
+      ],
+      "speaker": "Young",
+      "time": "0984455"
+    },
+    {
+      "tokens": [
+        "Houston, you can pass on to our Support Division this Hasselblad film pack has failed about three or four times on us."
+      ],
+      "speaker": "Stafford",
+      "time": "0984503"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Snoop.",
+        "We copy."
+      ],
+      "speaker": "Duke",
+      "time": "0984510"
+    },
+    {
+      "tokens": [
+        "We're still getting some pictures, though.",
+        "The magazine and the camera's good - It's just the packing of the film in the magazines."
+      ],
+      "speaker": "Stafford",
+      "time": "0984512"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0984517"
+    },
+    {
+      "tokens": [
+        "The Hasselblad 70mm film magazines have been giving the crew issues with the film binding in the magazine housing.",
+        "The following description of the problem is taken from the post mission report"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "From theApollo 10 Mission Report:\"During the low-altitude lunar pass, the Hasselblad 70-mm camera, which had the last magazine installed, stopped because of film binding in the magazine.",
+        "The binding resulted from internal damage to the film advance mechanism, including burrs on the film guide (see fig.",
+        "15-45).",
+        "The emulsion scraped from the film by the burrs built up on the rollers, decreasing the clearance.",
+        "This condition continuously overloaded the drive motor until the motor failed approximately five frames from the end of film.",
+        "The 1.6-ampere fuse in the camera would have protected the motor against a direct short, but not against a continuous overload.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "From theApollo 10 Mission Report:\"The cameras are handled a number of times before launch, and the following actions will be taken to preclude a similar occurrence on Apollo 11: a.",
+        "Cameras and magazines will be inspected for damage, clearances, and contamination.",
+        "b.",
+        "High-reliability, 1.2 ampere fuses will be installed (each camera will have one fuse and one slug).\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "From theApollo 10 Mission Report:\"This anomaly is closed.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is becoming quite aggravated with the repeated problems they are encountering with the 70-mm film magazine.",
+        "This is especially so as the phase of the mission they are about to undertake is very busy and several photographic targets are planned, but the photography is time critical, so the crew can ill afford to be manually cranking the film forward by 3 or 4 frames to overcome the problem."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston, coming up on 2 minutes to Sep.",
+        "How about a Sync Mark?"
+      ],
+      "speaker": "Young",
+      "time": "0984608"
+    },
+    {
+      "tokens": [
+        "Roger, We copied 1 minute."
+      ],
+      "speaker": "Duke",
+      "time": "0984615"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You're right."
+      ],
+      "speaker": "Young",
+      "time": "0984620"
+    },
+    {
+      "tokens": [
+        "Big Brother's watching."
+      ],
+      "speaker": "Duke",
+      "time": "0984625"
+    },
+    {
+      "tokens": [
+        "Keep up the good work, boys.",
+        "You will never know how big this thing gets when there ain't nothing in here but one guy."
+      ],
+      "speaker": "Young",
+      "time": "0984630"
+    },
+    {
+      "tokens": [
+        "You will never know how small it looks when you are as far as we are."
+      ],
+      "speaker": "Cernan",
+      "time": "0984640"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Separation."
+      ],
+      "speaker": "Young",
+      "time": "0984718"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Can see your thrusters firing there, John, and we're moving away."
+      ],
+      "speaker": "Stafford",
+      "time": "0984725"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Show 5.3 on the DSKY and 5.0 on the EMS and I - Zero on the EMS.",
+        "I'd be inclined to believe the EMS today."
+      ],
+      "speaker": "Young",
+      "time": "0984731"
+    },
+    {
+      "tokens": [
+        "Young is reading out the separation rate following the Sep RCS manoeuvre.",
+        "The PGNS DSKY is displaying 5.3 feet per second (1.6 m/sec), whereas the Entry Monitoring System (EMS) is indicating 5.0 fps (1.5 m/sec).",
+        "See Young's remarks at 099:01:44."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We copy, Charlie Brown."
+      ],
+      "speaker": "Duke",
+      "time": "0984744"
+    },
+    {
+      "tokens": [
+        "Okay, José.",
+        "Say adios and we'll see you back in about 6 hours."
+      ],
+      "speaker": "Stafford",
+      "time": "0984752"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Young",
+      "time": "0984800"
+    },
+    {
+      "tokens": [
+        "Snoop and Charlie Brown, we see you separating on the big tube."
+      ],
+      "speaker": "Duke",
+      "time": "0984806"
+    },
+    {
+      "tokens": [
+        "See you, John, [garble]."
+      ],
+      "speaker": "Cernan",
+      "time": "0984810"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "0984813"
+    },
+    {
+      "tokens": [
+        "Have a good time while we're gone, babe."
+      ],
+      "speaker": "Cernan",
+      "time": "0984814"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Don't get lonesome out there, John."
+      ],
+      "speaker": "Stafford",
+      "time": "0984817"
+    },
+    {
+      "tokens": [
+        "And don't accept any TEI updates."
+      ],
+      "speaker": "Cernan",
+      "time": "0984821"
+    },
+    {
+      "tokens": [
+        "Cernan is making the point that the LM crew want the CMP to stay in lunar orbit and wait for them to return, rather than leave without them."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Laughter.]"
+      ],
+      "speaker": "Stafford",
+      "time": "0984822"
+    },
+    {
+      "tokens": [
+        "Don't you worry.",
+        "Until you get back, I ain't - I ain't copying any more PADs."
+      ],
+      "speaker": "Young",
+      "time": "0984827"
+    },
+    {
+      "tokens": [
+        "[Laughter.]"
+      ],
+      "speaker": "Stafford",
+      "time": "0984831"
+    },
+    {
+      "tokens": [
+        "Houston, this is Charlie Brown.",
+        "Over."
+      ],
+      "speaker": "Young",
+      "time": "0984846"
+    },
+    {
+      "tokens": [
+        "Go ahead, Charlie Brown."
+      ],
+      "speaker": "Duke",
+      "time": "0984848"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "While we were waiting to come over the hill, we checked out VHF and we're right now on VHF A - A and receive only B data."
+      ],
+      "speaker": "Young",
+      "time": "0984854"
+    },
+    {
+      "tokens": [
+        "Beautiful.",
+        "Sounds good.",
+        "Thanks a lot."
+      ],
+      "speaker": "Duke",
+      "time": "0984906"
+    },
+    {
+      "tokens": [
+        "And don't ask me to tell you what the dickens the trouble was."
+      ],
+      "speaker": "Young",
+      "time": "0984917"
+    },
+    {
+      "tokens": [
+        "Houston, one other interesting little fact.",
+        "I could never get my AGS local vertical angle and Verb 83 [Request Rendezvous Parameter Display] to agree until after we undocked."
+      ],
+      "speaker": "Cernan",
+      "time": "0984924"
+    },
+    {
+      "tokens": [
+        "One of Gene's tasks is to operate the AGS and check that it can fulfil its role of being a backup to the PGNS.",
+        "For this he is using the DEDA (Data Entry and Display Assembly), a simple keyboard and display that is his interface with the computer.",
+        "By depressing the CLR button on the DEDA, then entering address 277, then depressing the Readout button, he can display a readout of the in-plane angle between the Z body axis and the local horizontal (to 0.01° accuracy)]."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "To compare this to the main guidance system, the PGNS, he enters Verb 83 on the DSKY which calls up routine 31.",
+        "This displays the computer's calculated rendezvous parameters across three registers: on R1, range (to 0.01nm); on R2, range rate (to 0.1fps); on R3, Theta (to 0.01°).",
+        "Theta represents the angle between the LM plus-Z axis and the local horizontal plane."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy that, Snoop, and so logged."
+      ],
+      "speaker": "Duke",
+      "time": "0984934"
+    },
+    {
+      "tokens": [
+        "Charlie, how about giving me a 3 or 5 minute hack before LOS all the time today, will you, because this S-band's working so well I don't want to break it."
+      ],
+      "speaker": "Young",
+      "time": "0984946"
+    },
+    {
+      "tokens": [
+        "Roger, Snoop.",
+        "Will do.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0984954"
+    },
+    {
+      "tokens": [
+        "Okay, there, Snoopy babe.",
+        "Let's check out this duplex ranging.",
+        "Okay?"
+      ],
+      "speaker": "Young",
+      "time": "0985010"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll go to duplex ranging on your Mark, and we will be quiet and wait for your call."
+      ],
+      "speaker": "Cernan",
+      "time": "0985016"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Going duplex ranging, on my Mark."
+      ],
+      "speaker": "Young",
+      "time": "0985021"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Young",
+      "time": "0985023"
+    },
+    {
+      "tokens": [
+        "You guys shut up, because I can hear you.",
+        "You have to maintain silence about the ship on that VOX mode.",
+        "I'll give you - I'm going to range a Reset right now."
+      ],
+      "speaker": "Young",
+      "time": "0985038"
+    },
+    {
+      "tokens": [
+        "The VHF RNG (ranging) switch on panel 9 is momentarily placed in the Reset position.",
+        "This initiates an automatic tracking phase and resets the digital ranging generator."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "098:51:02 Stafford (onboardSnoopy):Rendezvous Radar In?"
+      ],
+      "speaker": "Commentary",
+      "time": "0985102"
+    },
+    {
+      "tokens": [
+        "The PNGS RNDZ RDR circuit breaker on panel 11, applies DC power and acts as an on-off switch to the RR electronics assembly."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "How about that?",
+        "800, 700..."
+      ],
+      "speaker": "Young",
+      "time": "0985106"
+    },
+    {
+      "tokens": [
+        "098:51:07 Cernan (onboardSnoopy):Got it John?"
+      ],
+      "speaker": "Commentary",
+      "time": "0985107"
+    },
+    {
+      "tokens": [
+        "...420 feet, 540 feet - (130 meters, 165 meters)."
+      ],
+      "speaker": "Young",
+      "time": "0985108"
+    },
+    {
+      "tokens": [
+        "Okay, babe..."
+      ],
+      "speaker": "Cernan",
+      "time": "0985118"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I hear you."
+      ],
+      "speaker": "Young",
+      "time": "0985124"
+    },
+    {
+      "tokens": [
+        "ICS - Intercommunication system."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "I don't hear any background noise, just you."
+      ],
+      "speaker": "Young",
+      "time": "0985132"
+    },
+    {
+      "tokens": [
+        "Hey, John, if you get a chance, you can turn on the radar transponder and we'll correlate the VHF ranging with it."
+      ],
+      "speaker": "Stafford",
+      "time": "0985148"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "My transponder is On.",
+        "Transponder is On, and the Test switch is in Operate."
+      ],
+      "speaker": "Young",
+      "time": "0985154"
+    },
+    {
+      "tokens": [
+        "Young is confirming that the RNDZ XPNDR switch on panel 100 is already in the PWR (power) position, and that the RNDZ XPNDR switch on panel 101 is also in the Operate position which disables the self-test oscillator, allowing normal operation of the rendezvous radar."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "I should be getting a radar signal here and I sure don't."
+      ],
+      "speaker": "Stafford",
+      "time": "0985204"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "How soon will you have our new uplink on the CSM state vector up?"
+      ],
+      "speaker": "Cernan",
+      "time": "0985227"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "We will have it in a moment."
+      ],
+      "speaker": "Duke",
+      "time": "0985233"
+    },
+    {
+      "tokens": [
+        "Stafford is expressing his concern about the CSM RR transponder malfunction, which would be a No-Go for solo operations by the LMSnoopy."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Snoopy, Houston.",
+        "We are ready with the load, P00 and Data.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0985310"
+    },
+    {
+      "tokens": [
+        "P00 and Data.",
+        "You've got it."
+      ],
+      "speaker": "Cernan",
+      "time": "0985322"
+    },
+    {
+      "tokens": [
+        "John, can you get any signal strength on your transponder there?",
+        "I've got you locked boresight on [AOT] - I don't get any rendezvous radar signal strength."
+      ],
+      "speaker": "Stafford",
+      "time": "0985344"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Am I below you, or above you?"
+      ],
+      "speaker": "Young",
+      "time": "0985352"
+    },
+    {
+      "tokens": [
+        "No, you're right at me.",
+        "Okay.",
+        "Pitch up maybe a little bit."
+      ],
+      "speaker": "Stafford",
+      "time": "0985355"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "0985359"
+    },
+    {
+      "tokens": [
+        "The AOT Lamp circuit breakers on panel 11, acts as the on-off switch for the lamp providing AC power to the AOT reticle illuminating lamps, from both of the AC buses.",
+        "The AOT reticle is illuminated by 10 red lamps mounted around the reticle pattern.",
+        "These lamps can be dimmed by using a thumbwheel mounted on the AOT."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Pitch up a little more now."
+      ],
+      "speaker": "Stafford",
+      "time": "0985415"
+    },
+    {
+      "tokens": [
+        "Say when."
+      ],
+      "speaker": "Young",
+      "time": "0985417"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm looking right at - I'm boresighted on your transponder; I don't get any AGC strength."
+      ],
+      "speaker": "Stafford",
+      "time": "0985418"
+    },
+    {
+      "tokens": [
+        "Okay, Tom.",
+        "I checked it out this morning and AGC was good."
+      ],
+      "speaker": "Young",
+      "time": "0985424"
+    },
+    {
+      "tokens": [
+        "I got 3.6 volts on Systems switch - Systems Test 1A - system test B, I got 2.1 volts on test, and then on C, I got 0.4 of a volt, and I guess that was unlocked."
+      ],
+      "speaker": "Young",
+      "time": "systest"
+    },
+    {
+      "tokens": [
+        "Using the Systems Test meter on panel 101, Young is checking the health of the radar transponder.",
+        "The systems test meter rotary selector dials are set to give three outputs on the meter.XPNDR A displays power output.XPNDR B displays the AGC (Automatic Gain Control) signal strength.XPNDR C displays the phase lockup, meter reading >4.0V DC indicates locked, <0.8V DC indicates unlocked.All of the readings obtained are nominal."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, do you have us on telemetry?",
+        "I can't get the AGC signal here, and we're only about a 1,000 feet away [300 meters]."
+      ],
+      "speaker": "Stafford",
+      "time": "0985459"
+    },
+    {
+      "tokens": [
+        "Roger, Snoopy.",
+        "We've been copying your problems.",
+        "We are working it down here, and we've got your load in.",
+        "The computer is yours again.",
+        "Stand by on the radar."
+      ],
+      "speaker": "Duke",
+      "time": "0985507"
+    },
+    {
+      "tokens": [
+        "Stafford is scanning over the rendezvous radar controls on panel 3, specifically the RNDZ Radar, Test Monitor rotary selector switch, checking that everything is in order."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford continues to scan the switches on panel 3, he is here referring to the Attitude Control-Roll switch."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, we had a real good radar self-test.",
+        "Everything worked.",
+        "I'm getting transmitting power that's reading 3.2.",
+        "We get the shaft error, the trunnion error, the AGC; I've got the needle boresighted and centered, but we get no AGC."
+      ],
+      "speaker": "Stafford",
+      "time": "0985609"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy.",
+        "Your PGNS needles are moving?"
+      ],
+      "speaker": "Duke",
+      "time": "0985624"
+    },
+    {
+      "tokens": [
+        "Duke is referring to the rendezvous radar signal strength indicator also on panel 3, the output of which is control by the PGNS.",
+        "The indicator is showing that the LM rendezvous radar is transmitting."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "I can Slew Up and Down, in High Rate and Low Rate; everything.",
+        "I've got him boresighted there."
+      ],
+      "speaker": "Stafford",
+      "time": "0985632"
+    },
+    {
+      "tokens": [
+        "Stafford confirms that he can control the rendezvous radar using the Slew Rate and Slew controls, again on panel 3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0985640"
+    },
+    {
+      "tokens": [
+        "Houston, I'll run through the self-test again, if you think that'll help any, from this end."
+      ],
+      "speaker": "Young",
+      "time": "0985647"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go down and look at it again.",
+        "You might give it another try, John."
+      ],
+      "speaker": "Stafford",
+      "time": "0985653"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "0985659"
+    },
+    {
+      "tokens": [
+        "So this is a No-Go for DOI."
+      ],
+      "speaker": "Stafford",
+      "time": "0985700"
+    },
+    {
+      "tokens": [
+        "The Apollo 10 mission rules dictate that loss of the LM rendezvous radar or the CSM transponder prior to DOI, would render DOI No-Go.",
+        "If either should fail after the DOI burn, the mission should continue as they are now committed to solo operations."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You're boresighted right there; the needles are centered, and nothing."
+      ],
+      "speaker": "Stafford",
+      "time": "0985709"
+    },
+    {
+      "tokens": [
+        "My AC Rendezvous Radar A is In, and my PGNS Rendezvous Radar is In."
+      ],
+      "speaker": "Stafford",
+      "time": "0985714"
+    },
+    {
+      "tokens": [
+        "Stafford now checks that the AC, Bus A RNDZ RDR and PGNS RNDZ RDR circuit breakers on panel 11 are closed."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Break, break, Snoop - this is- correction - Charlie Brown, this is Houston.",
+        "We need you in a Transponder position on the Systems Test before you get the proper readouts.",
+        "Over.",
+        "For the self-test of the rendezvous..."
+      ],
+      "speaker": "Duke",
+      "time": "0985718"
+    },
+    {
+      "tokens": [
+        "I'm in that Transponder position."
+      ],
+      "speaker": "Young",
+      "time": "0985731"
+    },
+    {
+      "tokens": [
+        "Young is repeating the radar transponder self-test using the systems test meter on panel 101, see notes at098:54:34"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0985732"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm reading..."
+      ],
+      "speaker": "Young",
+      "time": "0985738"
+    },
+    {
+      "tokens": [
+        "...Test A is reading zero, but it was working a few minutes ago."
+      ],
+      "speaker": "Young",
+      "time": "0985741"
+    },
+    {
+      "tokens": [
+        "Systems test meter reading XPNDR A displays the transponder power output.",
+        "It is now displaying 0.0 VDC, whereas it previously displayed 2.6 VDC."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Systems test meter reading XPNDR B displays the transponder AGC signal strength.",
+        "It is now displaying 0.0 VDC, whereas it previously displayed 2.1 VDC."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0985805"
+    },
+    {
+      "tokens": [
+        "On the original test self-test."
+      ],
+      "speaker": "Young",
+      "time": "0985806"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0985812"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "This thing is reading zero.",
+        "Let me check the circuit breaker."
+      ],
+      "speaker": "Young",
+      "time": "0985832"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0985837"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The Rendezvous Radar Bus circuit breaker is In."
+      ],
+      "speaker": "Young",
+      "time": "0985850"
+    },
+    {
+      "tokens": [
+        "The RNDZ XPNDR FLT Bus circuit breaker is on panel 225."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "How about trying to recycle the power switch, Charlie Brown?"
+      ],
+      "speaker": "Duke",
+      "time": "0985859"
+    },
+    {
+      "tokens": [
+        "Hey, that did it you guys.",
+        "It's on."
+      ],
+      "speaker": "Young",
+      "time": "0985911"
+    },
+    {
+      "tokens": [
+        "Oh, and I got signal strength, old buddy."
+      ],
+      "speaker": "Stafford",
+      "time": "0985913"
+    },
+    {
+      "tokens": [
+        "The CSM Rendezvous Radar Transponder has come to life following the recycling of its power switch on panel 100.",
+        "The cause of the malfunction could not be located during post flight investigations."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "What do you know about that?"
+      ],
+      "speaker": "Young",
+      "time": "0985918"
+    },
+    {
+      "tokens": [
+        "And I've got 3.2 on my AG [garble]."
+      ],
+      "speaker": "Stafford",
+      "time": "0985920"
+    },
+    {
+      "tokens": [
+        "You got so much AGC, I don't know what to do with it."
+      ],
+      "speaker": "Young",
+      "time": "0985924"
+    },
+    {
+      "tokens": [
+        "John I could kiss you!"
+      ],
+      "speaker": "Cernan",
+      "time": "0985932"
+    },
+    {
+      "tokens": [
+        "It was Charlie's idea to cycle the switch; that would never occur to me."
+      ],
+      "speaker": "Young",
+      "time": "0985935"
+    },
+    {
+      "tokens": [
+        "It was - it was Ed's idea..."
+      ],
+      "speaker": "Duke",
+      "time": "0985940"
+    },
+    {
+      "tokens": [
+        "Ed is Edgar Mitchell, the backup LMP."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Charlie Brown, Houston.",
+        "We're ready to go with your load if you'll give us..."
+      ],
+      "speaker": "Duke",
+      "time": "0985949"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm reading opening at 3.5 feet per second (1.06 m/s)."
+      ],
+      "speaker": "Stafford",
+      "time": "0985951"
+    },
+    {
+      "tokens": [
+        "...if you'll give us P00 and Accept, Charlie Brown."
+      ],
+      "speaker": "Duke",
+      "time": "0985952"
+    },
+    {
+      "tokens": [
+        "You have it."
+      ],
+      "speaker": "Young",
+      "time": "0985959"
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-57."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "What you guys got for range?"
+      ],
+      "speaker": "Young",
+      "time": "0990050"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We've got 2,500 feet (760 meters).",
+        "We're going to get you some raw data here, John, and my optical boresight is absolutely fantastic.",
+        "It's right with the needle."
+      ],
+      "speaker": "Stafford",
+      "time": "0990053"
+    },
+    {
+      "tokens": [
+        "It's got 0.37 miles (0.68 km).",
+        "This is going to be very interesting.",
+        "It keeps jumping."
+      ],
+      "speaker": "Young",
+      "time": "0990103"
+    },
+    {
+      "tokens": [
+        "Point 4 miles (0.74 km)."
+      ],
+      "speaker": "Young",
+      "time": "0990129"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That looks real good on my tape, here."
+      ],
+      "speaker": "Stafford",
+      "time": "0990131"
+    },
+    {
+      "tokens": [
+        "Houston, Charlie Brown.",
+        "The reason I believed the EMS over the CMC was I had three-tenths of a foot per second [0.1 m/s] of PIPA bias before I ever started the maneuver.",
+        "Over."
+      ],
+      "speaker": "Young",
+      "time": "0990144"
+    },
+    {
+      "tokens": [
+        "Young noted that the PIPAs (Pulsed Integrating Pendulous Accelerometers), which are a major element of the IMU (Inertial Measurement Unit), were displaying a 0.3 fps (0.1 m/s) bias so he is more inclined to trust the EMS accelerometer read-out.",
+        "The three PIPAs measure accelerating forces on the spacecraft in all three axis.",
+        "They do have a tendency to display a drift from the optimum accuracy.",
+        "This drift value had been establish during pre-flight qualification and the CMC is loaded with bias values to compensate for this drift."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Here comes the lunar sunset."
+      ],
+      "speaker": "Stafford",
+      "time": "0990156"
+    },
+    {
+      "tokens": [
+        "Okay, John.",
+        "We're out here in Earthshine."
+      ],
+      "speaker": "Stafford",
+      "time": "0990156"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0990158"
+    },
+    {
+      "tokens": [
+        "How about turning on your flashing light, José?",
+        "Beautiful.",
+        "You've got a nice one.",
+        "It looks like the old Gemini Agena, would you believe."
+      ],
+      "speaker": "Stafford",
+      "time": "0990159"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "0990215"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You can go start on P52.",
+        "I saw your tracking light there briefly, but I haven't seen it since."
+      ],
+      "speaker": "Young",
+      "time": "0990246"
+    },
+    {
+      "tokens": [
+        "Charlie Brown.",
+        "Houston.",
+        "CMC is yours."
+      ],
+      "speaker": "Duke",
+      "time": "0990300"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you."
+      ],
+      "speaker": "Young",
+      "time": "0990308"
+    },
+    {
+      "tokens": [
+        "John, do you see the tracking light now?",
+        "It's on?"
+      ],
+      "speaker": "Stafford",
+      "time": "0990310"
+    },
+    {
+      "tokens": [
+        "Can you guys see it flashing?"
+      ],
+      "speaker": "Young",
+      "time": "0990313"
+    },
+    {
+      "tokens": [
+        "No."
+      ],
+      "speaker": "Stafford",
+      "time": "0990316"
+    },
+    {
+      "tokens": [
+        "No."
+      ],
+      "speaker": "Cernan",
+      "time": "0990317"
+    },
+    {
+      "tokens": [
+        "Okay, John.",
+        "I'm ready when you are to VHF A Simplex and Data."
+      ],
+      "speaker": "Cernan",
+      "time": "0990337"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On your Mark, Simplex and Data."
+      ],
+      "speaker": "Young",
+      "time": "0990345"
+    },
+    {
+      "tokens": [
+        "And I'll wait for you to give us a call."
+      ],
+      "speaker": "Cernan",
+      "time": "0990348"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Simplex Data."
+      ],
+      "speaker": "Young",
+      "time": "0990352"
+    },
+    {
+      "tokens": [
+        "Snoopy, Charlie Brown.",
+        "How do you read?"
+      ],
+      "speaker": "Young",
+      "time": "0990401"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Loud and clear, John."
+      ],
+      "speaker": "Stafford",
+      "time": "0990404"
+    },
+    {
+      "tokens": [
+        "How us, John?"
+      ],
+      "speaker": "Cernan",
+      "time": "0990406"
+    },
+    {
+      "tokens": [
+        "You're the same."
+      ],
+      "speaker": "Young",
+      "time": "0990408"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're going to terminate our - our radar track here to go on a P52."
+      ],
+      "speaker": "Cernan",
+      "time": "0990410"
+    },
+    {
+      "tokens": [
+        "The crew using LGC program P52 will align the IMU to the known orientation of the landing site 2 (Mare Tranquillitatis) REFSMMAT.",
+        "The process is initiated on the DSKY by keying in Verb 37 Enter, Noun 52 Enter.",
+        "Verb 04 Noun 06 will now be displayed flashing, requesting the crew to advise the LGC which of the 4 P52 options they wish to use.",
+        "On this occasion option 3 is used to align to a known REFSMMAT."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Rendezvous Radar breaker on panel 11, is being pulled so that the crew can perform a P52 IMU realign.",
+        "The rendezvous radar antenna will remain in its current position, whilst the crew are using the AOT during the P52."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The rendezvous radar antenna can obscure some of the field of view of the AOT, so it is parked pointing down whilst sightings are being made using the AOT."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Charlie Brown, Snoop.",
+        "You can go ahead and kill the tube any time you want to and put the cover over it."
+      ],
+      "speaker": "Stafford",
+      "time": "0990550"
+    },
+    {
+      "tokens": [
+        "Say again.",
+        "Over."
+      ],
+      "speaker": "Young",
+      "time": "0990554"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You can go ahead and kill the TV and put the cover over the tube"
+      ],
+      "speaker": "Stafford",
+      "time": "0990556"
+    },
+    {
+      "tokens": [
+        "Have already."
+      ],
+      "speaker": "Young",
+      "time": "0990601"
+    },
+    {
+      "tokens": [
+        "Roger, boy."
+      ],
+      "speaker": "Stafford",
+      "time": "0990603"
+    },
+    {
+      "tokens": [
+        "The AOT has six detent predetermined azimuth positions.",
+        "The crewman selects the required detent using the selector knob.",
+        "For this particular P52 alignment, the forward detent position is required."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The reference to 'flashing 50' relates to the step in P52 where Verb 50 Noun 18 is flashing on the DSKY displaying the FDAI angles required for viewing the target star."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The post undocking DAP was loaded using LGC routine 03.",
+        "The data code entered into the DSKY register 1, 21002 breaks down as follows:2- Ascent and Descent stages still combined.1- 2-jet translation using RCS system B.0- Fine scaling ACA (4°/sec).0- Attitude deadband, 0.3°.2- KALCMANU rate, 2°/sec.KALCMANU is a routine which generates commands for the LM DAP to change the attitude of the spacecraft during free fall.",
+        "It is designed to manoeuvre the spacecraft from its initial orientation to some desired orientation specified by the program which calls KALCMANU, avoiding gimbal lock in the process."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "If the DAP was set whilst docked to the CSM, the ACA scaling would be lower by a factor of 10."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "I follow your tracking light now.",
+        "Are you able to do a P52 with that light on?"
+      ],
+      "speaker": "Young",
+      "time": "0990713"
+    },
+    {
+      "tokens": [
+        "I think so, John.",
+        "I'm going to try it."
+      ],
+      "speaker": "Cernan",
+      "time": "0990717"
+    },
+    {
+      "tokens": [
+        "That's beautiful.",
+        "Can you see mine?"
+      ],
+      "speaker": "Young",
+      "time": "0990719"
+    },
+    {
+      "tokens": [
+        "Oh yes, John.",
+        "You're absolutely great."
+      ],
+      "speaker": "Stafford",
+      "time": "0990721"
+    },
+    {
+      "tokens": [
+        "Your maneuver.",
+        "Yes, it's flashing about every second.",
+        "Just beautiful."
+      ],
+      "speaker": "Stafford",
+      "time": "0990725"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're going to Auto maneuver acquire a star."
+      ],
+      "speaker": "Stafford",
+      "time": "0990732"
+    },
+    {
+      "tokens": [
+        "I got you in the sextant, John.",
+        "In my telescope, right now, you're passing through it."
+      ],
+      "speaker": "Cernan",
+      "time": "0990753"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "0990758"
+    },
+    {
+      "tokens": [
+        "Boy, I'll tell you.",
+        "That's black out there, isn't it?"
+      ],
+      "speaker": "Cernan",
+      "time": "0990805"
+    },
+    {
+      "tokens": [
+        "No other color to describe that."
+      ],
+      "speaker": "Young",
+      "time": "0990810"
+    },
+    {
+      "tokens": [
+        "Snoop, Houston.",
+        "We've reached the limits on the high gain.",
+        "Go to omnis.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0990830"
+    },
+    {
+      "tokens": [
+        "Charlie Brown, Houston.",
+        "Pass to Snoop that he has reached the tracking limits on the high gain and please go to omnis.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0990842"
+    },
+    {
+      "tokens": [
+        "The high gain S-band antenna on the LM, although steerable, cannot be pointed in every direction and has limits to its articulation.",
+        "If the direction to Earth is outside these limits, the omnidirectional antennae must be used instead to maintain communications.",
+        "There are two of these; one forward and one aft and together they give better than 90% good coverage around the LM.",
+        "As the LM orbits across the lunar Earth-facing surface, the steerable antenna has tracked Earth to the limit of its available motion.",
+        "It has reached the stops and the crew are instructed to switch to the Omni antennae."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is confirming that the PGNS Mode Control switch on panel 3 is in the Attitude Hold position.",
+        "In this mode the crew can command angular rates proportional to the displacement of the ACA."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Hey - Hey, Gene-o, go to Omnis.",
+        "Your high gain has reached its limits."
+      ],
+      "speaker": "Young",
+      "time": "0990852"
+    },
+    {
+      "tokens": [
+        "Charlie Brown, Houston.",
+        "Pass to Snoop that we'd like..."
+      ],
+      "speaker": "Duke",
+      "time": "0990913"
+    },
+    {
+      "tokens": [
+        "I tell you, I've got a beautiful sight."
+      ],
+      "speaker": "Young",
+      "time": "0990915"
+    },
+    {
+      "tokens": [
+        "Young is performing a P52 at this time to realign the IMU in relation to the current REFSMMAT."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Charlie Brown, Houston.",
+        "Pass to Snoop that we'd like..."
+      ],
+      "speaker": "Duke",
+      "time": "0990919"
+    },
+    {
+      "tokens": [
+        "Go ahead there..."
+      ],
+      "speaker": "Young",
+      "time": "0990921"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm talking.",
+        "[Laughter.] Pass the - pass the - on to Snoop that we'd like the aft antenna.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0990924"
+    },
+    {
+      "tokens": [
+        "When the S-band steerable antenna reached the limit of its available tracking arc, it hit the stops which caused its circuit breaker on panel 16 to pop open."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "They want the aft antenna there, Snoop, babe."
+      ],
+      "speaker": "Young",
+      "time": "0990941"
+    },
+    {
+      "tokens": [
+        "Loaded camera film magazine."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "I can see it myself.",
+        "Hey, did you hear they want the aft antenna?"
+      ],
+      "speaker": "Young",
+      "time": "0991005"
+    },
+    {
+      "tokens": [
+        "Now that the S-band steerable is no longer able to track the Earth MSFN station, MCC-H is advising the LM should switch to the aft S-band omnidirectional spiral antenna.",
+        "There are two S-band omni antennae, one on the front and one on the aft of the LM.",
+        "Each antenna covers a 170° cone."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "0991011"
+    },
+    {
+      "tokens": [
+        "The vertical cross hair, an orientation line designated the Y-line, is parallel to the LM X-axis when the reticle is at the 0 degree reference position.",
+        "The horizontal cross hair, an auxiliary line designated the X-line, is perpendicular to the orientation line.",
+        "Using the mark X and mark Y pushbuttons on the AOT enables the astronauts to send discrete signals to the primary guidance computer when star sightings are made."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At the moment a star image crosses the Y-line, the astronaut presses the mark Y pushbutton; when it is crosses the X-line, he presses the mark X pushbutton.",
+        "The astronaut can do this in either order and, if necessary, he may erase the latest mark by pressing the reject pushbutton.",
+        "When a mark pushbutton is pressed, a discrete is sent to the guidance computer.",
+        "The guidance computer then records the time of mark and the inertial measurement unit gimbal angles at the instant of the mark."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The reference to 54 relates to Verb 54, used as part of the P52 IMU realignment program to enter a mark on a object (star or landmark) being sighted through the AOT in both the X and Y axis."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 99 hours, 14 minutes.",
+        "We still have 23 minutes left in this pass before we lose signal.",
+        "Just prior to the Loss of Signal, Snoopy will be given a Go/No-Go for the Descent Orbit Insertion which will take place behind the Moon."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan needs the external tracking lights turned off to aid his star sightings."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan needs the integral lights illuminating the panels to the right of his station in the LM turned off to aid his vision through the AOT.",
+        "The switch controlling these lights is on panel 3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is referring to the sound the RCS motors make as they fire."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Whilst in P52 and using auto optics to bring the target star in to the field of view of the AOT optics, the target star was assessed to be within 10 star widths of the crosshairs, which showed that the IMU docked alignment was satisfactory."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Both vehicles are now in small equal period orbits.",
+        "The separation maneuver was performed by the Command and Service Module,Charlie Brown.",
+        "It sentCharlie Browndown in ahead of Snoopy.",
+        "However, on the relative motion plot, and fromCharlie Brown's point of view,Snoopywas going above and behind him.",
+        "Maximum distance in this orbit would be about differential heights would be close to 5 miles and not quite 2 nautical miles distance separating them."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Charlie Brown.",
+        "Houston.",
+        "A couple of reminders.",
+        "We'd like the Delta-VCGto go to CSM and the BMAGs to either rate 1 or rate 2; your choice."
+      ],
+      "speaker": "Duke",
+      "time": "0991744"
+    },
+    {
+      "tokens": [
+        "Placing the Delta-V/CG switch on panel 1 in the CSM position enables different filtering in the SC Auto TVC control path, which is part of the stabilization and control system.",
+        "This is required as the CSM is now flying solo, and therefore its centre of gravity (or more correctly 'centre of mass') has changed from that of the two docked spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The selection of a particular BMAG rate, 1 or 2, using the switch on panel 1, dictates which BMAG is used as the source for the attitude rate display."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Thank you kindly."
+      ],
+      "speaker": "Young",
+      "time": "0991800"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Roger.",
+        "Out."
+      ],
+      "speaker": "Duke",
+      "time": "0991802"
+    },
+    {
+      "tokens": [
+        "The Descent Orbit Insertion will be performed one half a revolution after the separation maneuver.",
+        "Time for the Descent Orbit Insertion 99 hour, 46 minutes."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, this is Charlie Brown.",
+        "What time is LOS?",
+        "Over."
+      ],
+      "speaker": "Young",
+      "time": "0992052"
+    },
+    {
+      "tokens": [
+        "Roger, Charlie Brown.",
+        "Coming up LOS to you 16 minutes and 30 seconds."
+      ],
+      "speaker": "Duke",
+      "time": "0992056"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Duke",
+      "time": "0992100"
+    },
+    {
+      "tokens": [
+        "And we'll see you AOS at 100:24."
+      ],
+      "speaker": "Duke",
+      "time": "0992103"
+    },
+    {
+      "tokens": [
+        "Charlie Brown?..."
+      ],
+      "speaker": "Duke",
+      "time": "0992117"
+    },
+    {
+      "tokens": [
+        "Could you give me the LOS in GET?"
+      ],
+      "speaker": "Young",
+      "time": "0992118"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "LOS GET is 99:37:32.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0992121"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you.",
+        "Houston."
+      ],
+      "speaker": "Young",
+      "time": "0992126"
+    },
+    {
+      "tokens": [
+        "And, Charlie Brown, Houston.",
+        "We noticed the readout temp(erature) a little high, and if you get a little stuffy in there, we recommend you activate the secondary evaporator and the secondary pump.",
+        "And then when you cool down, you can just turn off the Evap and leave the pump running.",
+        "Your choice.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0992138"
+    },
+    {
+      "tokens": [
+        "The cabin temperature is 74 and the suit temperature is 51.",
+        "Can't beat that."
+      ],
+      "speaker": "Young",
+      "time": "0992200"
+    },
+    {
+      "tokens": [
+        "The Secondary Coolant Loop switch is situated on panel 2 and when in the Evap position it supplies power to the secondary glycol evaporator temperature control.",
+        "The Secondary Coolant Loop-Pump switch also on panel 2 allows the crew to select which AC bus should be powering the pump."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Sounds like uptown.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0992208"
+    },
+    {
+      "tokens": [
+        "It's some place.",
+        "I mean to tell you."
+      ],
+      "speaker": "Young",
+      "time": "0992216"
+    },
+    {
+      "tokens": [
+        "And, Charlie Brown, if you have some good word from Snoop - We still don't have any data and if they pass on to you about the P52, we'd be interested.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0992219"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "0992232"
+    },
+    {
+      "tokens": [
+        "Hey, Snoopy.",
+        "How's your P52 going?"
+      ],
+      "speaker": "Young",
+      "time": "0992237"
+    },
+    {
+      "tokens": [
+        "P52 is the platform realignment in the Lunar Module.",
+        "Gene Cernan is doing that while Tom Stafford is running checks on other systems."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Charlie Brown, Houston.",
+        "You can go back to Block on your Up Telemetry switch."
+      ],
+      "speaker": "Duke",
+      "time": "0992327"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I wouldn't want anybody to zip me in any bad data on the back side."
+      ],
+      "speaker": "Young",
+      "time": "0992336"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0992341"
+    },
+    {
+      "tokens": [
+        "Did you talk to Snoop there Charlie Brown?",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0992347"
+    },
+    {
+      "tokens": [
+        "Hey, Snoopy.",
+        "This is Charlie Brown.",
+        "Over.",
+        "Is Gene-o keying his mike all the time?",
+        "Sometimes I hear him, and sometimes I don't.",
+        "Maybe that feed-through problem isn't as bad as they thought."
+      ],
+      "speaker": "Young",
+      "time": "0992355"
+    },
+    {
+      "tokens": [
+        "The P30 program takes the required time of ignition and the impulsive Delta-V along the local vertical axes at ignition and computes the required velocity and other initial conditions required by the LGC for execution of the desired manoeuvre."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The P40 program computes a preferred IMU orientation and a vehicle attitude for a LM DPS thrusting manoeuvre and procedure to manoeuvre the vehicle to that attitude.",
+        "It also controls the PGNS during countdown, ignition, thrusting, and thrust termination of a PGNS controlled DPS manoeuvre."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Attitude angles for DOI that should be displayed on the FDAI eight ball in the Inertial mode: roll 000.00°, pitch 275.00°."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Snoop's calling you."
+      ],
+      "speaker": "Young",
+      "time": "0992546"
+    },
+    {
+      "tokens": [
+        "Charlie Brown, Houston.",
+        "We don't read Snoop.",
+        "We haven't locked up on his data yet.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0992549"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Did you hear that, Houston?"
+      ],
+      "speaker": "Young",
+      "time": "0992604"
+    },
+    {
+      "tokens": [
+        "That's negative, Charlie Brown.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0992607"
+    },
+    {
+      "tokens": [
+        "They say, have you been monitoring their descent fuel?",
+        "You've been monitoring his descent stage fuel pressure.",
+        "His gauge went to zero during a P52...",
+        "burn."
+      ],
+      "speaker": "Young",
+      "time": "0992609"
+    },
+    {
+      "tokens": [
+        "The Main Propulsion Press meter on panel 1, displays the pressure of both the fuel and oxidizer of either the ascent or descent stage.",
+        "At this time the descent stage values were being displayed in preparation for DOI.",
+        "Whilst the crew were performing the P52 IMU realignment, the descent stage oxidizer pressure readout has fallen to zero psi although the actual tank pressures were nominal.",
+        "The pressure meter gave accurate readouts when displaying the ascent oxidizer reading.",
+        "The cause of the failure was either a failed transducer in the descent stage oxidizer tanks or a wiring failure from those tanks.",
+        "Cernan has erroneously called out that the problem reading is from the descent fuel tank, but the problem really lies in the descent oxidiser tanks."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Charlie Brown, We have no data at all.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0992621"
+    },
+    {
+      "tokens": [
+        "The alignment.",
+        "Okay, Snoopy.",
+        "This is Charlie Brown.",
+        "Houston doesn't have any data from you today, right now."
+      ],
+      "speaker": "Young",
+      "time": "0992628"
+    },
+    {
+      "tokens": [
+        "Charlie Brown, Houston.",
+        "Tell Snoop to do a Verb 64 to get us to high gain, and we got another transducer that we can verify that pressure.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0992647"
+    },
+    {
+      "tokens": [
+        "Verb 64 initiates LCG routine 05 which is used to compute and display the two gimbal angles which will point the steerable high-gain antenna at the center of the Earth.",
+        "The pitch angle will be displayed on register 1, and the yaw angle on register 2, given to 0.01°.",
+        "If the crew consider these angles will result in an unobstructed LOS to the Earth, they set these angles into the S-band steerable antenna position control selectors on panel 12."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, you're looking at high gain right now, or you will be in a second?",
+        "How about checking it?",
+        "It's out on descent 1 and descent 2."
+      ],
+      "speaker": "Cernan",
+      "time": "0992700"
+    },
+    {
+      "tokens": [
+        "Charlie?"
+      ],
+      "speaker": "Duke",
+      "time": "0992729"
+    },
+    {
+      "tokens": [
+        "Yes, sir."
+      ],
+      "speaker": "Young",
+      "time": "0992730"
+    },
+    {
+      "tokens": [
+        "Snoopy?"
+      ],
+      "speaker": "Duke",
+      "time": "0992731"
+    },
+    {
+      "tokens": [
+        "Yes sir.",
+        "Charlie..."
+      ],
+      "speaker": "Stafford",
+      "time": "0992732"
+    },
+    {
+      "tokens": [
+        "Snoopy, Houston."
+      ],
+      "speaker": "Duke",
+      "time": "0992733"
+    },
+    {
+      "tokens": [
+        "Snoopy is calling you, and he says that you have high gain."
+      ],
+      "speaker": "Young",
+      "time": "0992734"
+    },
+    {
+      "tokens": [
+        "Roger, We got the..."
+      ],
+      "speaker": "Duke",
+      "time": "0992739"
+    },
+    {
+      "tokens": [
+        "And they are looking at you right now with it."
+      ],
+      "speaker": "Young",
+      "time": "0992740"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We got the data, Snoopy."
+      ],
+      "speaker": "Duke",
+      "time": "0992742"
+    },
+    {
+      "tokens": [
+        "Houston, Go..."
+      ],
+      "speaker": "Young",
+      "time": "0992743"
+    },
+    {
+      "tokens": [
+        "Roger, we got the data, Snoopy, and the descent pressure looks fine.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0992744"
+    },
+    {
+      "tokens": [
+        "Okay, I figure it was a gauge because I got..."
+      ],
+      "speaker": "Stafford",
+      "time": "0992750"
+    },
+    {
+      "tokens": [
+        "He said the pressure looks fine, Tom."
+      ],
+      "speaker": "Young",
+      "time": "0992751"
+    },
+    {
+      "tokens": [
+        "Descent 1 and descent 2 both out."
+      ],
+      "speaker": "Stafford",
+      "time": "0992752"
+    },
+    {
+      "tokens": [
+        "Descent..."
+      ],
+      "speaker": "Young",
+      "time": "0992754"
+    },
+    {
+      "tokens": [
+        "We got data, Snoopy, and the descent pressure looks fine.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0992755"
+    },
+    {
+      "tokens": [
+        "...1 and 2 are both out?"
+      ],
+      "speaker": "Young",
+      "time": "0992756"
+    },
+    {
+      "tokens": [
+        "Copy."
+      ],
+      "speaker": "Duke",
+      "time": "0992800"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And you are giving me a Go on descent pressure.",
+        "Is that correct?"
+      ],
+      "speaker": "Cernan",
+      "time": "0992803"
+    },
+    {
+      "tokens": [
+        "That's correct."
+      ],
+      "speaker": "Duke",
+      "time": "0992806"
+    },
+    {
+      "tokens": [
+        "They said both descent pressures look good there, Snoop."
+      ],
+      "speaker": "Young",
+      "time": "0992812"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I can read them, John.",
+        "That's what I wanted to hear from them."
+      ],
+      "speaker": "Cernan",
+      "time": "0992816"
+    },
+    {
+      "tokens": [
+        "Snoop, Houston.",
+        "Could you..."
+      ],
+      "speaker": "Duke",
+      "time": "0992822"
+    },
+    {
+      "tokens": [
+        "I don't kind of - I don't know exactly what kind of a..."
+      ],
+      "speaker": "Young",
+      "time": "0992824"
+    },
+    {
+      "tokens": [
+        "Snoop, Houston.",
+        "Could you give us your P52 results?",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0992829"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by."
+      ],
+      "speaker": "Cernan",
+      "time": "0992838"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The stars were 33 (Antares) and 25 (Acrux).",
+        "Star angle difference was 4 balls 9 (000.09°).",
+        "Gyro torquing angles are minus 668, minus 195, minus 055 (roll, -000.668° pitch, -000.195° yaw, 000.055°).",
+        "Over."
+      ],
+      "speaker": "Stafford",
+      "time": "0992840"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy Snoop.",
+        "Out."
+      ],
+      "speaker": "Duke",
+      "time": "0992900"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And initial acquisition of the star for the docked IMU align look pretty good."
+      ],
+      "speaker": "Stafford",
+      "time": "0992907"
+    },
+    {
+      "tokens": [
+        "The PGNS LDG RDR circuit breaker is on panel 11 and provides DC power to the antenna and its control electronics."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, this is Snoopy.",
+        "When's AOS - or LOS, rather?"
+      ],
+      "speaker": "Cernan",
+      "time": "0992921"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're coming up on LOS for you at 99:37 - correction 99:38.",
+        "We'll see you AOS at 100:26.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0992926"
+    },
+    {
+      "tokens": [
+        "Hey, Tom.",
+        "What was your biggest Gyro torquing angle?",
+        "Over."
+      ],
+      "speaker": "Young",
+      "time": "0992942"
+    },
+    {
+      "tokens": [
+        "I got them, Charlie."
+      ],
+      "speaker": "Cernan",
+      "time": "0992946"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Biggest Gyro torquing angle was - registered 1 minus 668."
+      ],
+      "speaker": "Stafford",
+      "time": "0992948"
+    },
+    {
+      "tokens": [
+        "Is that 0.66?"
+      ],
+      "speaker": "Young",
+      "time": "0992957"
+    },
+    {
+      "tokens": [
+        "It was 2 balls 668, 2 balls 195, and 3 balls 55.",
+        "All minus."
+      ],
+      "speaker": "Stafford",
+      "time": "0992959"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "0993008"
+    },
+    {
+      "tokens": [
+        "The Radar Test switch on panel 3 is placed in the LDG position.",
+        "This imitates the test circuitry.",
+        "The landing radar performance is checked by monitoring the Signal Strength meter after placing the Test Monitor rotary selector, also on panel 3, in the appropriate position.",
+        "This could be ALT XMTR which provides the altitude range transmitter power for display on the Signal Strength meter, or VEL XMTR which does the same with the velocity transmitter."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Snoopy, Houston.",
+        "We got us some word on your Hasselblad problem - on the magazine problem.",
+        "We'd like you to react the magazine flag so that the red just disappears and no further.",
+        "If this doesn't work consistently, then change magazines.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0993032"
+    },
+    {
+      "tokens": [
+        "They already know that technique [garble]."
+      ],
+      "speaker": "Young",
+      "time": "0993055"
+    },
+    {
+      "tokens": [
+        "Well, that didn't work consistently, and that's why we changed magazines.",
+        "Over."
+      ],
+      "speaker": "Stafford",
+      "time": "0993056"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy.",
+        "Out."
+      ],
+      "speaker": "Duke",
+      "time": "0993101"
+    },
+    {
+      "tokens": [
+        "Hello, Snoop and Charlie Brown, This is Houston..."
+      ],
+      "speaker": "Duke",
+      "time": "0993144"
+    },
+    {
+      "tokens": [
+        "Houston, you are satisfied with the descent..."
+      ],
+      "speaker": "Cernan",
+      "time": "0993148"
+    },
+    {
+      "tokens": [
+        "Snoop, Houston.",
+        "You are Go for a DOI.",
+        "Recommend you check on CB 16 Display Engine Override breaker.",
+        "It might recover your descent monitoring capability.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0993150"
+    },
+    {
+      "tokens": [
+        "The DISP/ENG OVRD Logic circuit breaker on panel 16, provides DC power to the Main Propulsion Temp and Press indicators (panel 1), the Ascent and Descent He Reg talkbacks (panel 1), and the DES Propulsion Vent talkbacks (panel 8."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger [garble]."
+      ],
+      "speaker": "Stafford",
+      "time": "0993205"
+    },
+    {
+      "tokens": [
+        "No, There's no breakers out there that'd hurt that, Charlie.",
+        "I'm going, as long as you're satisfied, I'm going Omni this time."
+      ],
+      "speaker": "Cernan",
+      "time": "0993228"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy.",
+        "Got 4 minutes."
+      ],
+      "speaker": "Duke",
+      "time": "0993236"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I did - when I went in that P52 and when I slammed the S-band into the stops, I did pop my S-band antenna breaker under Comm on panel 16."
+      ],
+      "speaker": "Cernan",
+      "time": "0993240"
+    },
+    {
+      "tokens": [
+        "See explanation at099:08:42."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Duke",
+      "time": "0993250"
+    },
+    {
+      "tokens": [
+        "With the Landing Radar antenna switch in the Auto position, the LGC can control its position, either Descent (position 1) or Hover (position 2).",
+        "This can be overridden manually."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Selecting Verb 60 Enter on the DSKY, enables the FDAI error needles to display the vehicle's PNGS-derived attitude rates."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is confirming the LM is at the DOI pitch angle of 275°."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Snoop, Houston.",
+        "We show 2 minutes to LOS for you.",
+        "Do you read me?",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0993546"
+    },
+    {
+      "tokens": [
+        "Snoopy, Houston wonders if you're reading him.",
+        "I guess you're not, or you would answer him."
+      ],
+      "speaker": "Young",
+      "time": "0993559"
+    },
+    {
+      "tokens": [
+        "Charlie Brown, Houston.",
+        "No sweat."
+      ],
+      "speaker": "Duke",
+      "time": "0993606"
+    },
+    {
+      "tokens": [
+        "Okay, Snoopy.",
+        "Charlie Brown.",
+        "Do you read?",
+        "Over."
+      ],
+      "speaker": "Young",
+      "time": "0993614"
+    },
+    {
+      "tokens": [
+        "Alright."
+      ],
+      "speaker": "Young",
+      "time": "0993623"
+    },
+    {
+      "tokens": [
+        "We need to keep at least one set of communications open at all times."
+      ],
+      "speaker": "Young",
+      "time": "0993627"
+    },
+    {
+      "tokens": [
+        "Somehow."
+      ],
+      "speaker": "Young",
+      "time": "0993640"
+    },
+    {
+      "tokens": [
+        "Charlie Brown, Houston.",
+        "Forty-five seconds to LOS.",
+        "You're still Go for DOI."
+      ],
+      "speaker": "Duke",
+      "time": "0993647"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "What - what is my P20 doing?",
+        "Can anybody tell me?"
+      ],
+      "speaker": "Young",
+      "time": "0993656"
+    },
+    {
+      "tokens": [
+        "Young has observed computer activity on the DSKY in program 20.",
+        "CSM program 20 is the rendezvous navigation program.",
+        "It is used to control the CSM attitude and optics to acquire the LM in the sextant field-of-view and to point the CSM radar transponder at the LM or control the CSM attitude to the LM along the plus-X axis.",
+        "It also can be used to update the CSM state vector on the basis of optical tracking data and/or VHF ranging data."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0993703"
+    },
+    {
+      "tokens": [
+        "Well, it's made up its mind."
+      ],
+      "speaker": "Young",
+      "time": "0993709"
+    },
+    {
+      "tokens": [
+        "What are we doing, running?"
+      ],
+      "speaker": "Cernan",
+      "time": "0993711"
+    },
+    {
+      "tokens": [
+        "Charlie Brown..."
+      ],
+      "speaker": "Duke",
+      "time": "0993718"
+    },
+    {
+      "tokens": [
+        "Charlie Brown, Houston.",
+        "Charlie Brown, Houston.",
+        "It's integrating a state vector, P20."
+      ],
+      "speaker": "Duke",
+      "time": "0993721"
+    },
+    {
+      "tokens": [
+        "You want to leave this in Hover?",
+        "The landing..."
+      ],
+      "speaker": "Stafford",
+      "time": "0993728"
+    },
+    {
+      "tokens": [
+        "What?",
+        "Yes, yes.",
+        "That's where it's supposed to..."
+      ],
+      "speaker": "Cernan",
+      "time": "099:37:30"
+    },
+    {
+      "tokens": [
+        "The LM landing radar has two positions, position 1 (descent) or position 2 (hover).",
+        "In position 1 (descent), the LR antenna orientation is boresighted 24° with respect to the LM's X axis.",
+        "In position 2 (hover), the LR antenna is boresighted parallel to the LM's X axis and perpendicular to the Z axis.",
+        "As Apollo 10 is not making the final descent to the lunar surface and this is only a flight test of the landing radar as the LM passes the low point of its solo orbit, the positions used are not typical at this phase of the mission."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The required LR position is selected using the LDG ANT switch on panel 3.",
+        "The switch also has an Auto position which enables the LGC to position the LR antenna based on its knowledge of the mission phase."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Well, wait a minute.",
+        "It goes to - Tom, read through.",
+        "I don't know.",
+        "I - I thought I got it - Let me go through..."
+      ],
+      "speaker": "Cernan",
+      "time": "0993733"
+    },
+    {
+      "tokens": [
+        "You're on VOX."
+      ],
+      "speaker": "Stafford",
+      "time": "0993741"
+    },
+    {
+      "tokens": [
+        "Huh?",
+        "I'm not on VOX."
+      ],
+      "speaker": "Cernan",
+      "time": "0993744"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 99 hours, 38 minutes; and we have Loss Of Signal on both vehicles.Charlie Browngoing around the corner 25 seconds beforeSnoopy.",
+        "This separation maneuver has put the Command Module,Charlie Brown, ahead ofSnoopy."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Acquisition times forCharlie Brown: 100 hours, 24 minutes.",
+        "ForSnoopy: 100 hours, 26 minutes.",
+        "To recap, the situation during this 12th revolution, while we were in contact withCharlie BrownandSnoopy, as we acquired the vehicles, had undocked and were 30 to 40 feet away in station keeping.",
+        "We passed up a number of maneuver PADs, times, and Delta-Vs for the maneuvers that will take place in the rendezvous sequence and I'll recap those times in a short time.",
+        "Tom Stafford reported some trouble with the Hasselblad film pack.",
+        "Apparently film jamming.",
+        "We did pass up, later in the pass, a procedure to try to correct this situation.",
+        "Advised him that if it did not correct it to change magazines.",
+        "The separation maneuver was performed on time and the controllers here on the ground said that it was at the proper Delta-V, 2.5 (fps).",
+        "We copied the orbital parameters just prior to separation as 62.5 by 57.5 nautical miles (100.6 by 92.5 km).",
+        "The Lunar Module,Snoopy, would have stayed in that essentially that same orbit.",
+        "The separation maneuver forCharlie Brownwas targeted for an orbit of 62.1 by 57.9 nautical miles (115.0 by 107.2 km), essentially the same orbit because 2½ feet per second (0.76 m/s) would not change that very much."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We had a television pass during the separation and as the vehicles separated you heard Gene Cernan caution John Young not to accept any TEI updates while they were gone.",
+        "TEI, of course, is Trans Earth Injection and Tom Stafford and Gene Cernan want to find John Young there when they get back and complete this rendezvous.",
+        "We then appear to have a rendezvous radar problem which eventually was traced to the transponder in the Command Module.",
+        "Some concern at the time that we would not be able to perform DOI and we would not have been able to giveSnoopya Go for DOI if the transponder had not become operable.",
+        "We need the rendezvous radar for the rendezvous sequence.",
+        "John Young recycled a power switch and got power back into the transponder and the system is working fine.Snoopycannot monitor the propellant tank pressures for the Descent Propulsion System on board.",
+        "However, we can look at them from the ground.",
+        "We checked them prior to givingSnoopya Go for DOI and those pressures are very good and we're not concerned about them."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Several of the burn duration times and resultant Delta-V values given in this PAO commentary are do not match those from the Apollo 10 Mission Report, perhaps because they are preliminary.",
+        "Where this occurs, the correct real-time values are shown."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "SoSnoopywill be performing the Descent Orbit Insertion burn at 99 hours, 46 minutes at Delta-V of 71.3 feet per second (21.7 m/s).",
+        "The duration of the burn 59 seconds (real-time planned duration 27.4 sec).",
+        "This will he performed by the Descent Propulsion System, at 10% throttle for the first 15 seconds and then throttling to 40% for the remainder of the burn.",
+        "The orbit targeted as a result of the DOI forSnoopy: 61.2 by 8.4 nautical miles (113.3 by 15.6 km) and as a result of this maneuverSnoopywill start coming down to swoop over the lunar landscape at this low point.",
+        "Pericynthion, 8.4 miles (15.6 km) coming 15 degrees prior to reaching landing site 2."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Times on the remainder of maneuvers in the rendezvous sequence: Phasing; 100 hours, 58 minutes 25 seconds - again a Descent Propulsion System burn; duration, 1 minute, 12 seconds (real-time planned duration 40.1 sec); Delta-V, 176.8 feet per second (53.9 m/s).",
+        "We are targeting for an orbit for Snoopy at 189.8 by 11.7 nautical miles (351.5 by 21.7 km).",
+        "The time for staging, at which timeSnoopywill jettison the descent stage; 102 hours, 45 minutes.",
+        "Ten minutes later; at 102 hours, 55 minutes and 1 second; the insertion maneuver will be performed.",
+        "Duration of that maneuver is 10 seconds (real-time planned duration 15.3 sec); Delta-V, 220.9 feet per second (67.3 m/s).",
+        "This will be performed with the Ascent Propulsion System.",
+        "We are targeting for an orbit 45.9 by 10.7 nautical miles (85.0 by 19.8 km).",
+        "The concentric sequence initiation maneuver, CSI, at 103 hours, 45 minutes, 33 seconds.",
+        "Duration of the burn, 51 seconds (real-time planned duration 27.3 sec); Delta-V, 44.9 feet per second (13.7 m/s) (real-time planned Delta-V, 45.3 fps (13.8 m/s)).",
+        "This will be performed with the Lunar Module Reaction Control System.",
+        "Targeting for 47.7 by 41.9 nautical miles (88.3 by 77.6 km).",
+        "The Constant Delta Height, CDH maneuver, at 104 hours, 43 minutes, 31 seconds.",
+        "Duration, 58 seconds (real-time planned duration 3.4 sec), Delta-V of 2 feet per second (0.61 m/s.",
+        "Real-time planned Delta-V 2.8 fps [0.85 m/s]).",
+        "Again, with the RCS system of the Lunar Module, targeting for 47.8 by 42.1 nautical miles (88.5 by 78.0 km).",
+        "Terminal Phase Initiation, TPI, at 105 hours, 21 minutes, 1 second.",
+        "Duration, 38 seconds (real-time planned 14.7 sec), with the Lunar Module Reaction Control System Delta-V, 24.7 feet per second (real-time planned Delta-V, 24.3 fps).",
+        "Resulting orbit, 58.7 by 47.5 nautical miles (108.7 by 88.0 km).",
+        "The terminal phase braking to begin at 106 hours, 3 minutes, 57 seconds.",
+        "Again an RCS maneuver in which the Lunar Module will null its velocity and start station keeping withCharlie Brown.",
+        "This is Mission Control, Houston; at 99 hours, 48 minutes."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Verb 47 starts routine 47 which initializes the AGS.",
+        "This routine is used to provide the AGS AEA (Abort Electronics Assembly) with the LM and CSM state vector in LM IMU co-ordinates.",
+        "In other words, it tells the AGS where the PNGS thinks it is and fast it thinks it is going."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is frustrated at the length of time the AGS initialization is taking, preventing use of the PGNS to call up P40."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Engine Gimbal switch on panel 3, in the Enable position enables the DPS engine gimbal drive capability, to displace the descent engine along the Y and Z axes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The TTCA is placed in the 10-per-cent minimum thrust position.",
+        "It must be in this position as the automatic thrust level control by the LGC cannot be at a level below that set by the TTCA."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the Throttle Control switch on panel 1 in the Auto position, the LGC command signals are summed with manual command signals from the particular TTCA selected with Man Throt (CDR or SE) switch for descent engine throttle control.",
+        "TTCA always provides minimum 10 per cent command; it cannot be set below this level."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "When the switch is set to Auto, the Thrust indicator, also on panel 1, displays the LGC command plus 10 pre cent fixed bias.",
+        "Manual throttle commands may be introduced by displacing active TTCA.",
+        "This causes the displayed per cent Thrust CMD to decrease because only the LGC commands plus fixed bias are displayed."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Man Throt switch selects which TTCA will be used to manually adjust the DPS throttle level, in this case CDR."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "See explanation of BAL CPL at97:57:31."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The DESC ENG CMD OVRD switch on panel 3 is used to keep the DPS engine shut off valves open if DECA power fails.",
+        "In the Off position, power is removed from these valves."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Resetting the Engine Stop push buttons on panels 5 and 6, removes the engine start inhibit in preparation for the DOI, DPS burn.",
+        "The Engine Stop button can be used to manually command an engine shutdown of both the DPS and APS by either astronaut."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Abort pushbutton on panel 1 is used to initiate a DPS abort.",
+        "Resetting the button at this time, arms the DPS if under AGS control, resets the computer abort discrete to preclude an erroneous bit in the computer program initiating an abort when the DPS is ignited, and provides attitude hold at the end of any DPS burn if under AGS control.",
+        "Pushing the Abort Stage push button, also on panel 1, initiates a APS abort.",
+        "Resetting the button at this time, arms the APS if under AGS control, resets the computer abort discrete to preclude an erroneous bit in the computer program initiating an abort when the APS is ignited, and provides attitude hold at the end of any APS burn controlled by AGS."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Temp Monitor rotary selector on panel 3 is placed in the LDG Radar position to display the temperature of the landing radar antenna on the Temp gauge also on panel 3.",
+        "The operating temperature range is between +50° to +150° F (10° to 66° Celsius)"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Verb 79 is used to terminate routine 77.",
+        "Routine 77 is the landing radar spurious test.",
+        "It is used to to read out the LR range and velocity data and put this data on the LGC downlink."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is requesting a readout of the Verb 06 Noun 86 values given to the crew as part of the DOI PAD at 098:36:02."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "These values are the local vertical Delta-V components of the DOI manoeuvre used to target the AGS expressed in fps (m/s).ΔVX, -0069.8 (-21.2)ΔVY, -0000.0 (-0.0)ΔVZ, -0014.4 (-4.4)These are the values given on the DOI PAD.",
+        "The figures Stafford is passing to Cernan; X, -69.9 fps (21.3 m/s); Y -000.0 fps (0.0 m/s); Z, -14.1 fps (4.3 m/s); are the live values given by the PNGS via the DSKY displays when calling up Verb 06 Noun 86.",
+        "Cernan requires this information to load the delta-V values into the AGS."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is initiating a PGNS Automaneuver to the final FDAI attitude for the DOI burn.",
+        "He starts this manoeuvre by keying Proceed when Verb 50 Noun 18 flashes on the DSKY.",
+        "Once Proceed has been pushed, Verb 06 Noun 18 will appear displaying the final FDAI attitude parameters, so the crew can monitor the Automaneuver and avoid gimbal lock.",
+        "If it was apparent that this manoeuvre was taking them towards gimbal lock, the crew could stop the Automaneuver by placing the PNGS switch in the ATT Hold position.",
+        "An Automaneuver is more fuel efficient than a manually controller attitude manoeuvre."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew are concerned that the AGS alignment and update has taken too long and been completed to close to the DOI manoeuvre time, so they agree to start this procedure earlier for subsequent manoeuvres."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew performed the DOI manoeuvre without the AGS monitoring the PGNS performance.",
+        "Cernan described the problem he was having with the AGS during the post flight crew debriefing."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan, from the1969 Technical debrief:\"I could not get the proper numbers loaded into the AGS for this particular burn.",
+        "The reason I could not get the proper numbers loaded in to the AGS for this particular burn was because I failed to put the external Delta-V flag in the AGS, which is address 410, to 5000.",
+        "I realized this after the burn, so the AGS was not available to monitor the DOI burn.",
+        "That was a problem induced by the LMP.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is referring to the Entry Code associated with the EXT Delta-V address 410 on the AGS DEDA on panel 6.",
+        "For an external ΔV manoeuvre, this should be entered as 5000 on the DEDA, Data Indicator display.",
+        "He probably used the entry code 00000, which is used in conjunction with address 410 to enter the ΔV value for LM orbital insertion manoeuvres."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is reminding himself he must set the Master Arm on panel 8 to On at the ignition minus 35-second point to enable actuation of any required explosive devices during the DPS DOI manoeuvre."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Countdown time called out is incorrect, Stafford corrects Cernan who is distracted by problems with the AGS."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Closing the Stab/Cont, DECA Power circuit breaker on panel 11, provides power to the descent engine control assembly."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Closing the EPS Inverter 1 circuit breaker on panel 11, provides DC power to inverter 1 for generation of 115V AC."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Master Arm switch on panel 8 is placed in the On position to enable SHe pressurization of the DPS propellants.",
+        "The explosive valves can now be fired when required."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Engine Arm switch on panel 1, arms the engine selected, in this case the Descent engine, and informs the LGC that this engine is armed."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The DSKY displays go blank at ignition minus 35 seconds for 5 seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is confirming he will key Proceed on the DSKY when Verb 99 Noun 40 flashes at TIGminus 5 seconds and that he will start the Event Timer at DPS ignition."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "PGNS displays a flashing Verb 99 Noun 40 on the DSKY at TIGminus 5 seconds, requesting that the crew push Proceed to confirm they wish to start this DPS maneuver.",
+        "The three registers on the DSKY at this time are displaying:R1:Time from ignition (min/sec)R2:Magnitude of velocity to be gained (fps)R3:Delta-V accumulated so far (fps)"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "DOI DPS ignition.",
+        "As the DPS ignites the DSKY display changes to Verb 06 Noun 40.",
+        "The three registers on the DSKY at this time are displaying:R1:Time from cut-off (min/sec)R2:Velocity left to be gained (fps)R3:Delta-V accumulated so far (fps)The display quickly changes to a flashing Verb 16 Noun 40 with the three registers displaying the same information as above.",
+        "The DPS ignites at a 11.3 per cent throttle setting."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is tracking the LM using the CM optics."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford advances the DPS throttle to the 40 per cent level for the remainder of the DOI burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "DOI DPS cut-off.",
+        "Burn duration: 27.4 seconds.",
+        "Delta-V: 71.3 fps (21.7 m/s)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The DSKY displays a flashing Verb 16 Noun 85 and displays the maneuver residuals in all three axis."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The velocity residuals from the DOI burn displayed were expressed in fps (m/s).",
+        "X, -0.1 (0.03); Y, -0.3 (0.9); Z, -0.5 (0.15).",
+        "The crew would null the X residual if it was significant, but on this occasion it was to small to require nulling."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is requesting that the crew ofSnoopyconfigure for VHF ranging."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is referring to the Engine Arm switch on panel 1."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With VHF Simplex A in Voice/RNG, the crews microphones are live for communications between the two spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Verb 82 is used to initiate routine 30 to display the current orbital parameters."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The landing radar test for this period is now complete, so the crew have run Verb 79 to stop the LR spurious test, and are now opening the LR circuit breaker on panel 11."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "SHe stands for supercritical helium."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Apollo 10 Mission Reported, states that the measured supercritical helium tank pressure profile was essentially nominal."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Verb 82 has given the resultant orbit after the DOI burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "MSFN tracking refined the post DOI orbit to 60.9 by 8.5 nautical miles (112.8 by 15.7 km)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day5_part18_undocking_&_doi_snoopy_goes_solo.html"
+}

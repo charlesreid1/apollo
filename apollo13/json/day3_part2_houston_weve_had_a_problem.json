@@ -1,0 +1,3697 @@
+{
+  "description": "A13FJ - Day 3, part 2: 'Houston, we've had a problem'",
+  "transcript": [
+    {
+      "tokens": [
+        "It is about nine hours since the Apollo 13 crew awoke on their third day in space.",
+        "The mission has progressed much like any other Apollo voyage, with its fair share of minor bugs to test the crew and the flight controllers in Mission Control, all of which are dealt with competently.",
+        "Jim Lovell and Fred Haise entered the Lunar Module Aquarius earlier to check it over as per the Flight Plan and check the supercritical helium situation as well.",
+        "Later they took a TV camera with them for a transmission to Earth.",
+        "At this point, there is nothing that hints to the profound problems the CSM is about to endure."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston; 55 hours, 47 minutes.",
+        "Apollo 13 presently at 177,861 nautical miles [329,399 km] away.",
+        "Velocity now reading 3,263 feet per second [995 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Director Gene Kranz has gone around the Mission Control stations, asking if they have any business they would like to put forward to the crew at this moment.",
+        "They report to the Flight Director who then relays the requests to the CapCom, who is the only one who is generally allowed to speak up to the crew.",
+        "All this is done to keep a careful check on the flow of information and procedures within Mission Control.",
+        "Once various controllers relay their suggestions to Gene Kranz, he passes them over to the CapCom who will send them to the crew."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston.",
+        "The next thing we'd like you to do is to..."
+      ],
+      "speaker": "Lousma",
+      "time": "0554840"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0554845"
+    },
+    {
+      "tokens": [
+        "...we'd like you to roll right to 060 and null your rates for photography of the Comet Bennett.",
+        "To do that, we'd like you to enable quads C and D.",
+        "For the maneuver, use all your quads.",
+        "And in precisely 1 minute, we'd like you to terminate the battery charge on battery B.",
+        "One other request, we'd like to have you verify..."
+      ],
+      "speaker": "Lousma",
+      "time": "0554846"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Will do."
+      ],
+      "speaker": "Swigert",
+      "time": "0554912"
+    },
+    {
+      "tokens": [
+        "One other request, we'd like you to verify your High Gain configuration.",
+        "We'd like to know what track mode, what servo, and what beam width.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0554914"
+    },
+    {
+      "tokens": [
+        "Jack Lousma is asking Jack Swigert about the comm system configuration used for sending the TV broadcast from the spacecraft back to Earth.",
+        "This is of special interest to the INCO (Instrumentation and Communications) controller in Mission Control, considering they had trouble locking onto the signal earlier before the TV show."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Jack, during the TV, we were Auto Track, Narrow Beam Width, and the Primary Electronics.",
+        "And we had a good lockup.",
+        "Just after we started the maneuver, I was able to lock you up and get real good signal strength, and it just seemed that right there at about 239 degrees in yaw, that the signal strength would just drop off and yaw would go to zero and pitch would go to 90."
+      ],
+      "speaker": "Swigert",
+      "time": "0554925"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy, and the TV show was great."
+      ],
+      "speaker": "Lousma",
+      "time": "0555005"
+    },
+    {
+      "tokens": [
+        "Jack is complimenting the crew of the TV show - perhaps guiltily, since it didn't air live anywhere on American TV.",
+        "According to Lovell and Kluger's 'Lost Moon', none of the US networks were interested in the program, and hence only the people in Mission Control saw the transmission."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, real fine.",
+        "Okay, I'm going to maneuver to 060, 090, and 0.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0555012"
+    },
+    {
+      "tokens": [
+        "And, 13, we'd like to - to check C-4 thruster.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0555031"
+    },
+    {
+      "tokens": [
+        "Telemetry shows that the C-4 thruster is not enabled at the moment, and Mission Control wants it on for the upcoming PTC."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "The battery charge has been terminated on the battery B."
+      ],
+      "speaker": "Swigert",
+      "time": "0555133"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We see it, Jack.",
+        "And we got a reading of minus 2 degrees on the docking index.",
+        "We'd like to know if that's 2.0 precise or if it's 2.1 or 1.9."
+      ],
+      "speaker": "Lousma",
+      "time": "0555138"
+    },
+    {
+      "tokens": [
+        "No.",
+        "It's, uh, minus 2.0 precisely."
+      ],
+      "speaker": "Swigert",
+      "time": "0555154"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Lousma",
+      "time": "0555156"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The docking index number indicates the relative positioning of the Command Module and the Lunar Module to each other during their current docked condition.",
+        "This is important information in regards to configuring the Lunar Module's attitude reference for later navigational purposes.",
+        "Since both modules were floating free in space during the docking, and the docking system is symmetrical, the two spacecraft could theoretically have docked at any angle around the CSM's X-axis.",
+        "In practice, the aids used by the CMP during docking, the COAS and the docking target, constrain the relative angle to about 60°.",
+        "The docking index number allows this angle to be determined more accurately and is required to be taken into account when calculating the gyroscopic reference angles for the Lunar Module's guidance system when using the Command Module's inertial platform orientation as the basis."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The next task that Mission Control has for Jack is to have him stir the cryo tanks.",
+        "This is to homogenise their contents in order to gain a more accurate reading of their quantities.",
+        "EECOM Sy Liebergot has requested more frequent stirs of the tanks, in particular the two oxygen tanks, because earlier in the day the quantity sensor for tank 2 had failed.",
+        "If tank 2's sensor can't be trusted, then it becomes important to keep a closer eye on tank 1's quantity and extrapolate tank 2's depletion from that.",
+        "This is the reason for an evening stir when normally these would only be carried out in the crew's morning period."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, we've got one more item for you, when you get a chance.",
+        "We'd like you to stir up your cryo tanks.",
+        "In addition, I have shaft and trunnion...",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0555258"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0555306"
+    },
+    {
+      "tokens": [
+        "...for looking at the Comet Bennett, if you need it."
+      ],
+      "speaker": "Lousma",
+      "time": "0555307"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by."
+      ],
+      "speaker": "Swigert",
+      "time": "0555312"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "By throwing the switch to stir oxygen tank 2, Jack sends power to a pair of fans via Teflon-shielded wires within the tank.",
+        "Unfortunately, this Teflon insulation has been damaged prior to flight by excessive heat.",
+        "The heat was the result of an attempt to boil the tank empty after a ground test.",
+        "During that attempt, thermostatic switches ought to have cut the power to the tank's internal heaters if the temperature within the tank had risen above 27°C (80°F) but they failed to do so.",
+        "The reason they failed was that they were rated for the wrong voltage."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "When the tank was being built, an important instruction did not reach a company who was supplying thermostatic switches to the tank's subcontractor.",
+        "Although the spacecraft worked on 28V DC, the ground systems at the launch pad were changed to work on 65V DC.",
+        "This change to 65V occurred during Apollo's development and the word had gone out to ensure that all systems could tolerate this higher voltage.",
+        "However, the supplier of the thermostatic switches had missed this change.",
+        "Therefore, when their switches had been called upon to operate and interrupt the power to the heaters, thereby protecting the tank after the ground test, the devices had instead welded themselves shut due to the higher operating voltage.",
+        "As a result, the heaters within the tank continued to operate, raising its internal temperature to around 500°C (1,000°F).",
+        "The intense heat rendered the electrical insulation within the tank cracked and brittle."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The leading theory for why the heaters had to be called upon to empty the tank concerns an event that occurred eighteen months earlier, on 21 October 1968.",
+        "The tank that became Apollo 13's No.2 oxygen tank was being removed from the Apollo 10 Service Module during modifications.",
+        "As this operation was being carried out, a bolt snapped and the tank dropped about 5 centimetres.",
+        "The theory suggests that the jolt could have caused slight damage to the fitting that was used to fill and drain the tank.",
+        "Despite having suffered the jolt, the tank was considered to be flight ready as no problems were indicated at the time.",
+        "it was then installed in Apollo 13's Service Module."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Following the countdown demonstration test on 16 March 1970, the fill/drain system for oxygen tank No.2 failed to allow it to be emptied properly.",
+        "Eleven days later, technicians at the pad decided to use the heaters to boil off the remaining oxygen in the tank and it is said that one particular technician was tasked to monitor a gauge and ensure it didn't rise above a reading of 80°F, this being despite the fact that 80°F was the highest reading the gauge could display.",
+        "For eight hours, the tank's innards baked.",
+        "A second test of the tank three days later repeated the mistake."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Now 178,000 nautical miles from Earth, the cracked and flaked Teflon insulation around the wires finally fails and the wires come close enough to spark.",
+        "In an environment of pure oxygen at extremely high pressure, the Teflon ignites and a vigorous fire ensues which begins to engulf every flammable substance it reaches.",
+        "The pressure in the tank rises rapidly until its structure fails and, at 055:54:53 GET, the tank explodes with a force equivalent to about 7 pounds of TNT.",
+        "As a result the outer skin panel of the Service Module is blown off by a pressure of about 60,000 psi.",
+        "In response to the force, the spacecraft stack begins to rotate wildly and RCS thrusters fire to restore attitude."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Lovell, from1970 Technical debrief:\"To the best of my knowledge, Jack, you were in the left-hand seat.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Swigert, from1970 Technical debrief:\"I was in the left-hand seat.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Lovell, from1970 Technical debrief:\"I was in the LEB, and Fred was somewhere up in the LM.",
+        "We all heard the explosion together.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At 55 hours, 55 minutes, 4 seconds, INCO communications data shows that the spacecraft suddenly switches to wide beam communications.",
+        "A strange crackle is heard on the otherwise very quiet recording of the radio loop, which can be interpreted as a disturbance of the radio link to the spacecraft due to the explosion."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Lovell, from1970 Technical debrief:\"There was a dull but definite bang - not much of a vibration, though.",
+        "I didn't think there was much vibration - just a noise.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Swigert, from1970 Technical debrief:\"Just a noise.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Lovell, from1970 Technical debrief:\"Probably came through the structure.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Haise, from1970 Technical debrief:\"I felt just a slight shudder.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Lovell, from1970 Technical debrief:\"Maybe I was floating at the time; I didn't feel it.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston..."
+      ],
+      "speaker": "Swigert",
+      "time": "0555519"
+    },
+    {
+      "tokens": [
+        "...Houston..."
+      ],
+      "speaker": "Lovell",
+      "time": "0555519"
+    },
+    {
+      "tokens": [
+        "...we've had a problem here.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0555520"
+    },
+    {
+      "tokens": [
+        "This is Houston.",
+        "Say again, please."
+      ],
+      "speaker": "Lousma",
+      "time": "0555528"
+    },
+    {
+      "tokens": [
+        "Although the CapCom is asking for a confirmation of the alarming radio call, in Mission Control in Houston, the flight controllers monitoring the ship have already noticed what they think are erratic readings from the ship's remote telemetry and have begun to troubleshoot the possible issues."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The telemetry displays in Mission Control are produced by the computers in the Real Time Computer Complex - or RTCC - on the ground floor of the Mission Control building.",
+        "The TV displays are updated once a second, although many values in the systems are recorded several times per second."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Garble.] Ah, Houston, we've had a problem.",
+        "We've had a Main B Bus Undervolt."
+      ],
+      "speaker": "Lovell",
+      "time": "0555535"
+    },
+    {
+      "tokens": [
+        "The legendary line delivered by Lovell is \"Houston, we've had a problem\" and not the familiar \"Houston, we have a problem\" made especially popular by the Tom Hanks movie.",
+        "The writers of the movie have admitted that they had to use the line expected by the viewers, instead of the historically accurate one, for the sake of drama.",
+        "This of course has perpetuated the line in the popular consciousness, putting it into the top three of misquoted movies alongside \"Play it again, Sam\" and \"Beam me up, Scotty!\" Overall, \"Houston, we have a problem\" surely counts among the most famous spaceflight-related quotes alongside \"A small step for [a] man, one giant leap for mankind\" and \"That's no moon, that's a space station!\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Main B Undervolt.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0555542"
+    },
+    {
+      "tokens": [
+        "Okay, stand by, 13.",
+        "We're looking at it.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0555558"
+    },
+    {
+      "tokens": [
+        "The force of the explosion has had profound effects within the Service Module.",
+        "Two of the three fuel cell units that supply the spacecraft with its electrical power have been knocked out, causing a temporary dip in the supply voltage.",
+        "This has been picked up by the Caution & Warning system.",
+        "The remaining fuel cell, number 2, is still working and it is being fed oxygen from the other tank, tank 1.",
+        "However, the pipework leading from tank 1 has also been damaged and its contents are now leaking away into space.",
+        "It will be essentially empty in three hours."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Right now, Houston, the voltage is - is looking good.",
+        "And we had a pretty large bang associated with the Caution and Warning there.",
+        "And as I recall, Main B was the one that had had an amp spike on it once before.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0555610"
+    },
+    {
+      "tokens": [
+        "Fred has come up from the Lunar Module and taken his spot in front of the Main Display Console to report on the electrical system.",
+        "Although both the crew and the mission controllers are suspecting that this is a false alarm generated by spurious sensor readings, the bang is a genuine worry.",
+        "The power supply appears to be stabilizing, too, hence Fred sounds positive that this might not be anything too serious.",
+        "The alarm he mentions has been tripping several times during their trip so far, and it generally does not cause the crew too much worry unless they can see an immediate cause for concern."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Fred.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0555640"
+    },
+    {
+      "tokens": [
+        "In Mission Control, Flight Director Gene Kranz is getting the first news from his controllers.",
+        "Intercom systems allow him to speak to the controllers in the room, as well as listen in on the Air to Ground loop, the principal channel of communication with the crew onboard the spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Sensors in the spacecraft systems monitor their status constantly.",
+        "The analogue electric signals are fed into signal conditioners to process them for the onboard display and caution and warning systems as well as for telemetry, to be radioed to Earth.",
+        "It would not be the first time for the instrumentation to produce faulty readings, including during this mission.",
+        "The pressure transducers in the suit loop have given erratic readings earlier, as has the measurement for the quantity of drinking water in the potable water tank.",
+        "None of these have been crucial for the mission, unlike the current strange readings from the cryogenic system."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In the interim here, we're starting to go ahead and button up the tunnel again.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0555654"
+    },
+    {
+      "tokens": [
+        "The hatches connecting the Command Module to the Lunar Module are open at the moment.",
+        "The developing emergency situation is prompting them to close the hatches in order to isolate the two spacecraft from one another in case that the trouble is originating in the LM or it has suffered damage, such as a hull breach from an impact."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Lousma",
+      "time": "0555701"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "That - That jolt, uh, must have rocked the, uh, the sensor on - uh, see now - on O2Quantity 2.",
+        "It's, uh - was oscillating down around 20 to 60 percent.",
+        "Now it's full-scale high again."
+      ],
+      "speaker": "Haise",
+      "time": "0555704"
+    },
+    {
+      "tokens": [
+        "The previously failed readout has come to life again briefly, as observed by Fred.",
+        "It is now showing another obviously faulty figure."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0555722"
+    },
+    {
+      "tokens": [
+        "And, Houston, we had a Restart on our computer and we had a PGNCS light and the Restart Reset."
+      ],
+      "speaker": "Lovell",
+      "time": "0555730"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Restart and a PGNCS light.",
+        "Restart on a PGNCS and Reset..."
+      ],
+      "speaker": "Lousma",
+      "time": "0555737"
+    },
+    {
+      "tokens": [
+        "The computer has restarted itself, as indicated by a warning light on the DSKY.",
+        "The sudden drop in electric current into the computer due to the explosion is the most likely cause for the restart."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The optics control panel in the Lower Equipment Bay has three caution and warning lights of its own.",
+        "The PGNS light has come on due to the computer restart.",
+        "The red Master Alarm would have been illuminated as well."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And we're looking at our S - Service Module RCS Helium 1.",
+        "We have - B is barber poled and D is barber poled; Helium 2, D is barber pole, and Secondary Propellants, I have A and C barber pole.",
+        "BMAG temperatures?"
+      ],
+      "speaker": "Lovell",
+      "time": "0555744"
+    },
+    {
+      "tokens": [
+        "Currently Commander Lovell is reporting that the high pressure helium gas system used to pump the rocket propellant into the RCS thrusters is showing alarms, as are some of the propellant systems.",
+        "'Barber pole' is a black and white flag in the control console that is used as the fault indicator.",
+        "These indicators are called talkbacks in the Apollo lingo.",
+        "A grey indicator means 'status normal', a striped one means trouble.The explosion has caused enough of a shock to close the magnetic solenoid valves in the propellant lines.",
+        "This has been known to happen under normal flight conditions as well when the Command-Service Module is subjected to sudden, brief accelerations including separation from the S-IVB third stage.",
+        "It should be an indication to the crew and Mission Control staff that the earlier reported bang was not something small."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, AC 2 is showing zip.",
+        "I'm going to try to reconfigure on that, Jack."
+      ],
+      "speaker": "Haise",
+      "time": "0555807"
+    },
+    {
+      "tokens": [
+        "Three fuel cells supply all the onboard power.",
+        "Fuel cells 1 and 2 are connected to Main Bus A, and fuel cell 3 to Main Bus B.",
+        "The Main Buses distribute direct current DC power to the onboard systems at 27 volts.",
+        "For alternating current, one or two of the three onboard power inverters are used, which then supply the AC Buses 1 and 2.",
+        "As per normal operation at the time, Main Bus A powered Inverter 1 connected to AC Bus 1 and Main Bus B provided the DC current for Inverter 2 and hence to AC Bus 2."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Fred Haise sits on the right side couch and also acts as the engineer of the spacecraft.",
+        "Currently he is reporting that the ship's alternating current supply has been cut down by the AC 2 inverter bus being unable to supply any power.",
+        "Fred is trying to get the power back on by changing the distribution grid configuration.",
+        "AC 2 is powered by Main Bus B, which is down."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0555813"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "We got a Main Bus A Undervolt now, too, showing."
+      ],
+      "speaker": "Haise",
+      "time": "0555825"
+    },
+    {
+      "tokens": [
+        "Main A Undervolt."
+      ],
+      "speaker": "Lousma",
+      "time": "0555829"
+    },
+    {
+      "tokens": [
+        "Jack Lousma is confirming the crew's report.",
+        "Now they have an apparent malfunction in three of the spacecraft's four main power distribution systems."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It's reading about 25½.",
+        "Main B is reading zip right now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0555833"
+    },
+    {
+      "tokens": [
+        "The limit trigger for Main Bus Undervolt is 26.25 volts.",
+        "If the main bus voltage drops below that, the alarm goes off."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Houston, Odyssey."
+      ],
+      "speaker": "Lovell",
+      "time": "0555933"
+    },
+    {
+      "tokens": [
+        "Stand by one, Jim.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0555938"
+    },
+    {
+      "tokens": [
+        "Five minutes have passed since the explosion.",
+        "The situation is still entirely unclear."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Several Staff Support rooms flank the Mission Control on the third floor of the building.",
+        "Additional engineers work there to support the flight controllers in Mission Control.",
+        "Currently they are busy looking through the telemetry as well."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In Mission Control, Gene Kranz consults with his team to figure out just what is going on with their spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "We'd like you to attempt to reconnect fuel cell 1 to Main A and fuel cell 3 to Main B.",
+        "Verify that quad Delta is open.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0560035"
+    },
+    {
+      "tokens": [
+        "Each fuel cell can be used to power either of the DC Main Buses.",
+        "Normally 1 and 2 feed Main Bus A while 3 feeds Main Bus B.",
+        "The initial suggestion from Mission Control is to try to get the power grid back in working order by resetting the connections between the electricity-producing fuel cells and the power system and returning the fuel cells to their usual configuration."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mission Control also wants them to check the helium valve on quad Delta.",
+        "The RCS thrusters do not appear to be firing properly."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "I'm showing - I tried to reset and fuel cell 1 and 3 are both showing gray flags, but they're both showing zip on the flows."
+      ],
+      "speaker": "Haise",
+      "time": "0560053"
+    },
+    {
+      "tokens": [
+        "We copy."
+      ],
+      "speaker": "Lousma",
+      "time": "0560108"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "As the crew examine the gauges available to them, they are gaining a greater insight into the magnitude of the failure that faces them.",
+        "They can see that reactants are no longer flowing to fuel cells 1 and 3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Are you still reading 13?"
+      ],
+      "speaker": "Swigert",
+      "time": "0560317"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "We're reading you.",
+        "We're trying to come up with some good ideas here for you."
+      ],
+      "speaker": "Lousma",
+      "time": "0560320"
+    },
+    {
+      "tokens": [
+        "Since joining the Astronaut Corps in 1966, one of Jack Swigert's support duties in the program had been the development of troubleshooting and emergency procedures for the Command Module.",
+        "As they are now into what is indeed the most serious malfunction ever encountered in Apollo so far, Jack's handbook has become exactly what they need."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Despite their earlier optimism and suggestions that the problem might be somehow tied into the High Gain Antenna onboard Apollo 13, Gene Kranz has a very fatalistic conversation with Sy Liebergot about the spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let me give you some readings, in the interim to help Main A voltage, Jack.",
+        "I've got Bus Tie AC on."
+      ],
+      "speaker": "Haise",
+      "time": "056:03:29"
+    },
+    {
+      "tokens": [
+        "Fred has connected Battery A into the power grid to boost their failing voltage and keep their systems running.",
+        "The ship's batteries are designed to be used whenever the power usage goes above what the fuel cells can comfortably provide, such as during engine thrust maneuvers.",
+        "They are also the sole source of electric power during the Earth landing phase after separation from the Service Module.",
+        "To prop up the power system with the batteries in an emergency situation must therefore be a temporary measure at best.",
+        "Fred switched the battery on moments before EECOM Sy Liebergot was about to request that to be done to stabilize the current."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Say again, Fred."
+      ],
+      "speaker": "Lousma",
+      "time": "0560337"
+    },
+    {
+      "tokens": [
+        "In the interim, to help out Main A voltage, I've got Main Bus Tie Bat AC, On.",
+        "Or would you rather accept the 25 volts we're seeing on Main A?"
+      ],
+      "speaker": "Haise",
+      "time": "0560342"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Bus Tie AC, On.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0560352"
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "We need Omni Charlie, please.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0560409"
+    },
+    {
+      "tokens": [
+        "You got it."
+      ],
+      "speaker": "Haise",
+      "time": "0560419"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It is ten minutes since the explosion occurred and the spacecraft was knocked out of its attitude, yet the RCS is failing to bring it under control.",
+        "The High Gain Antenna is no longer providing a link to Earth so Mission Control are looking for an omnidirectional antenna they can use instead."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "We'd like you to verify couple of readings for us.",
+        "We would like the nitrogen pressure on fuel cell 1.",
+        "We need the oxygen pressure on fuel cell 2."
+      ],
+      "speaker": "Lousma",
+      "time": "0560532"
+    },
+    {
+      "tokens": [
+        "Nitrogen is contained inside each fuel cell and is used to maintain operational pressure.",
+        "The N2pressure reflects the oxygen pressure since they are calibrated to be close to one another.",
+        "Sy Liebergot has requested that they ask for the onboard readouts due to the unbelievable data coming in through the telemetry that is suggesting that two fuel cells have stopped functioning.",
+        "\"But surely that can't be\" is what they are thinking."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Nitrogen on 1 and oxygen on 2.",
+        "Is that correct?"
+      ],
+      "speaker": "Haise",
+      "time": "0560546"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "Oxygen on 3."
+      ],
+      "speaker": "Lousma",
+      "time": "0560650"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0560554"
+    },
+    {
+      "tokens": [
+        "Only a subset of readings from the spacecraft's many sensors are available directly to the crew via their instrument panels.",
+        "This is because room on the Main Display Console has limited space.",
+        "All sensor readings are telemetered to Earth but the spacecraft's erratic attitude is making it difficult for that data to get through to the displays in front of the flight controllers.",
+        "The crew can access an additional set of measurements via the Systems Test Meter, essentially just a voltmeter with a range of 0 to 5 volts."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "After a measurement has been taken, the resultant signal is scaled to be represented by a voltage between 0V and 5V in prior to being digitised and sent to Earth.",
+        "Two multipole switches allow a selection of these scaled measurements to be fed to the meter."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "While Fred gets to work checking the pressure readings, Gene Kranz in Mission Control worries about their continued erratic motions."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The RCS fuel is carefully budgeted for each part of the mission.",
+        "They are currently spending more fuel than expected for the translunar coast, doing PTC rotation.",
+        "The computer has been firing the thrusters almost continuously since the explosion."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Although Kranz dismisses this call from TELMU - LM Electrical, Environmental and EMU Officer - it is hinting at several issues that will come up.",
+        "Power from the Command Module's Main Bus B is fed into the LM through the tunnel umbilical.",
+        "The telemetry now indicates that with the power out, the heaters in the LM that maintain critical equipment at constant operational temperatures have stopped working.",
+        "Usually, when the power transfer is cut, the LM turns on its internal power to supply the heaters, but now that is not the case.",
+        "Although this could pose a danger to the operation of the equipment later on, for now the Command Module issues are much more time critical."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Systems test 1-A says zip.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0560624"
+    },
+    {
+      "tokens": [
+        "And 2-Baker, which is 3 oxygen, says 0.6."
+      ],
+      "speaker": "Haise",
+      "time": "0560644"
+    },
+    {
+      "tokens": [
+        "Fuel cell 3's oxygen pressure reading converts to 9 psi - much below the operational pressure of 62.5 psi."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "2 Baker says 0.6, and say again the other one."
+      ],
+      "speaker": "Lousma",
+      "time": "0560650"
+    },
+    {
+      "tokens": [
+        "Fuel cell 1 nitrogen reads zero."
+      ],
+      "speaker": "Haise",
+      "time": "0560657"
+    },
+    {
+      "tokens": [
+        "The normal nitrogen pressure value is 53 psi, about the same as the oxygen pressure.",
+        "The nitrogen pressure is used to calibrate the oxygen pressure in the system and to pressurize the electrolyte.",
+        "To have the nitrogen pressure read zero is highly suggestive that the oxygen press is also down, since the two readings are usually very close to one another.",
+        "It may also be a sensor problem, which would only add to the confusion."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Zero."
+      ],
+      "speaker": "Lousma",
+      "time": "0560701"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the prevailing problems with the electric power system, the RCS and the communications, Gene Kranz turns to EECOM Sy again."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "We'd like you to open circuit fuel cell 1; leave 2 and 3 as is."
+      ],
+      "speaker": "Lousma",
+      "time": "0560847"
+    },
+    {
+      "tokens": [
+        "Mission Control is trying to get fuel cell 1 back to function by removing it from the power grid.",
+        "They hope that putting the power plant into a zero load condition will help it recover from whatever has happened to it.",
+        "This is a temporary measure, for the fuel cells need to have a load on them to maintain their internal temperature that is essential for their continuous operation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll get to work on that."
+      ],
+      "speaker": "Haise",
+      "time": "0560855"
+    },
+    {
+      "tokens": [
+        "The act of open circuiting fuel cell 1 is as simple as throwing the switch that applies fuel cell 1 current to Main Bus A."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Jack, our O2quantity number 2 tank is reading zero.",
+        "Did you get that?",
+        "[Pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0560857"
+    },
+    {
+      "tokens": [
+        "The sensor that was previously giving spurious readings by claiming the tank content was out of scale high has now started to show that the tank contents are gone.",
+        "At this point EECOM still thinks that it could be just the power to the sensor lost due to the loss of AC Bus 2 which powers the tank 2 systems."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "O2Quantity number 2 is zero."
+      ],
+      "speaker": "Lousma",
+      "time": "0560904"
+    },
+    {
+      "tokens": [
+        "That's AC, okay.",
+        "Yeah, that's - that's a - good with AC and it looks to me, looking out the hatch, that we are venting something.",
+        "We are - We are venting something out into the - into space."
+      ],
+      "speaker": "Lovell",
+      "time": "0560907"
+    },
+    {
+      "tokens": [
+        "In this remarkable comment from Jim, he calmly finishes talking about the AC power situation before he announces the startling news that he can see something leaking from the ship."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy your venting."
+      ],
+      "speaker": "Lousma",
+      "time": "0560922"
+    },
+    {
+      "tokens": [
+        "It's a gas of some sort.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0560929"
+    },
+    {
+      "tokens": [
+        "Jim is seeing the leakage from oxygen tank 1.",
+        "Readers should note that documentaries often illustrate this exchange with 16-mm footage of water being dumped during an earlier flight.",
+        "No photographs were taken by the 13 crew."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Gene Kranz, the man who landed Apollo 11 on the Moon without raising his voice, cannot help but exclaim when the news of the leak come to Mission Control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Fuel cell 1, you just wanted it off the line now, Jack, is that right?"
+      ],
+      "speaker": "Haise",
+      "time": "0560949"
+    },
+    {
+      "tokens": [
+        "We just wanted you to open the circuit on fuel cell 1."
+      ],
+      "speaker": "Lousma",
+      "time": "0560952"
+    },
+    {
+      "tokens": [
+        "Open circuit it, right?"
+      ],
+      "speaker": "Haise",
+      "time": "0560953"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "She's off the line."
+      ],
+      "speaker": "Haise",
+      "time": "0560958"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The report of the venting is causing further consternation among the Mission Control personnel.",
+        "Obviously a leak is not something that can be attributed to a mere failure in the ship's instrumentation.",
+        "The situation is dire enough that Flight Director Gene Kranz is already reminding his crew that the LM lifeboat option is there, but he doesn't want them to make things even worse by acting too abruptly or trying to guess what's going on."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It was getting crowded in Mission Control at the time with both Gene Kranz's team and the upcoming flight control team present, as well as many others.",
+        "The CapCom station with Jack Lousma in charge was one of the most well populated.",
+        "Fellow astronauts began to converge, offering help and perhaps also unsure where else to be on such an hour when their long time comrades are fighting for their lives."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The EECOM team considers the possibility that the purge valves in the fuel cells have opened accidentally.",
+        "They think that powering down the onboard system is something they have to do soon."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It's now 15 minutes since Apollo 13's Service Module exploded.",
+        "The gravity of the crew's situation is becoming clearer."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "This rapid exchange of conversation you've heard, may the main B bus is off the line, fuel cells 1 and 3 also off the line, fuel cell 2 is presently on the line.",
+        "We now show 13 in an altitude of 178,643 nautical miles [330,847 km].",
+        "We're at 56 hours, 12 minutes into the flight."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "We see you getting close to gimbal lock there.",
+        "We'd like you to bring up all quad Cs on Main A, quad C-1, C-2, C-3, C-4 on Main A, and also bring B-3 and B-4 up on Main A.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0561247"
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "Do you read?"
+      ],
+      "speaker": "Lousma",
+      "time": "0561314"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "We got it."
+      ],
+      "speaker": "Haise",
+      "time": "0561320"
+    },
+    {
+      "tokens": [
+        "Affirm."
+      ],
+      "speaker": "Lovell",
+      "time": "0561321"
+    },
+    {
+      "tokens": [
+        "The venting of the spacecraft's oxygen supplied is acting like a rocket thruster, constantly pushing them out of their desired attitude.",
+        "This is then fought by the RCS thrusters.",
+        "If the attitude goes too far in the wrong direction, it can cause the guidance platform to reach 'gimbal lock', a condition whereby two of the three axes of the gimbals line up, reducing the degrees of freedom of the arrangement from three to two.",
+        "In this condition, the platform's orientation cannot be kept separate from the spacecraft's attitude and their attitude reference is therefore lost."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Can you tell us anything about the venting..."
+      ],
+      "speaker": "Lousma",
+      "time": "0561322"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0561324"
+    },
+    {
+      "tokens": [
+        "...where it's coming from, what window you see it at."
+      ],
+      "speaker": "Lousma",
+      "time": "0561325"
+    },
+    {
+      "tokens": [
+        "It's coming out of window 1, right now, Jack, and could you give me the thrusters again?"
+      ],
+      "speaker": "Haise",
+      "time": "0561330"
+    },
+    {
+      "tokens": [
+        "Okay, the thrusters..."
+      ],
+      "speaker": "Lousma",
+      "time": "0561335"
+    },
+    {
+      "tokens": [
+        "What buses?"
+      ],
+      "speaker": "Haise",
+      "time": "0561337"
+    },
+    {
+      "tokens": [
+        "We'd like - on Main A, we'd like Charlie 1, 2, 3, and 4.",
+        "Also Bravo 3 and 4 on Main A."
+      ],
+      "speaker": "Lousma",
+      "time": "0561338"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Got it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0561352"
+    },
+    {
+      "tokens": [
+        "The ship's continuous erratic movements prompt Mission Control to try to reconfigure the maneuvering rockets to operate on the power from the still functioning Main Bus A.",
+        "The control panel for the RCS thrusters allows them to select the power source from either of the main buses."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The reference there is to the Reaction Control System thrusters.",
+        "We're at 56 hours, 14 minutes now into the flight."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, we need Omni Bravo."
+      ],
+      "speaker": "Lousma",
+      "time": "0561442"
+    },
+    {
+      "tokens": [
+        "Omni Bravo."
+      ],
+      "speaker": "Haise",
+      "time": "0561446"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It is twenty minutes since the explosion.",
+        "The engineers are coming to terms with the idea that the CSM's Electrical Power System (EPS) is dying.",
+        "Soon, all effort will be made to reduce the spacecraft's power consumption.",
+        "Among the EECOM staff, they are wondering whether they have lost oxygen tank 1 pressure as well."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, 13; this is Houston.",
+        "We'd like you to go to your G&C checklist, the pink pages, 1-5.",
+        "Do powerdown until we get a Delta of 10 amps.",
+        "Over."
+      ],
+      "speaker": "Lousma",
+      "time": "0561608"
+    },
+    {
+      "tokens": [
+        "In other words, the crew are to reduce their power consumption by 10 amps in order to be able to maintain the primary systems on the output of the single fuel cell and to take the entry battery offline."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Haise",
+      "time": "0561621"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0561621"
+    },
+    {
+      "tokens": [
+        "Gene Kranz's reaction to the request of a 10-amp power down was a \"phew!\" whistle into his headset, in surprise of the stark demand."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston.",
+        "That last report from Lousma asked the 13 crew to reduce the electrical load on the spacecraft."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Jack, say again that - [Garbled] for the power-down; it's not in the pink pages, the 1-5."
+      ],
+      "speaker": "Lovell",
+      "time": "0561703"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'd like you to go down that power-down procedure until you get a Delta of 10 amps.",
+        "Over."
+      ],
+      "speaker": "Lousma",
+      "time": "0561710"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Say - uh, never mind.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0561721"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "We'll..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "Did you copy our power-down request?"
+      ],
+      "speaker": "Lousma",
+      "time": "0561750"
+    },
+    {
+      "tokens": [
+        "Roger, Jack.",
+        "We're - we're doing it right now."
+      ],
+      "speaker": "Swigert",
+      "time": "0561757"
+    },
+    {
+      "tokens": [
+        "Yeah, where - Where did you say that was located, Jack?"
+      ],
+      "speaker": "Lovell",
+      "time": "0561759"
+    },
+    {
+      "tokens": [
+        "That's in your systems checklist, page 1-5.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0561803"
+    },
+    {
+      "tokens": [
+        "It is no wonder that the crew might have trouble locating the emergency plans - not designed for particularly easy access.",
+        "The so-called 'Flight Data File' consisted of several spiral-bound books carried onboard the Command Module, containing all their checklists, flight plans, star charts and various other references they were thought to need during the trip.",
+        "Their total weight was approximately 20 pounds of paper being flown to the Moon.",
+        "All the material had to be taken with them on printed form, in a hard copy, considering they did not have any way to store data onboard or display it on a monitor, for example."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston, we repeat again that..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, 13, you might also check for those pages in your launch checklist.",
+        "They're emergency pages; pink pages, 1-5, and we'd like you to power down until you get..."
+      ],
+      "speaker": "Lousma",
+      "time": "0561826"
+    },
+    {
+      "tokens": [
+        "The pages, as printed in the onboard material, were indeed pink, as seen in the corresponding page fromMichael Collins' flown copy of the Command Module Systems Checklist, courtesies of the Smithsonian."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That was must be in the launch checklist, Jack."
+      ],
+      "speaker": "Swigert",
+      "time": "0561837"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Power down until you get a amperage of 10 amps less than what you got now.",
+        "Over."
+      ],
+      "speaker": "Lousma",
+      "time": "0561842"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Lovell",
+      "time": "0561850"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It takes several minutes for the crew to proceed along the power-down checklist.",
+        "In Mission Control, the engineers discuss the possibility of trying to establish PTC to aid with thermal control of the spacecraft.",
+        "The ship's erratic movements make it impossible."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "25 minutes since the explosion."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston.",
+        "We repeat again that Main Bus B on the Command and Service Module is now off the line.",
+        "They're functioning with Main Bus A.",
+        "Fuel Cells 1 and 3 connected with Bus B are now off the line."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Jack.",
+        "Are you happy with the amps we have now?"
+      ],
+      "speaker": "Haise",
+      "time": "0562206"
+    },
+    {
+      "tokens": [
+        "Stand by one, Fred."
+      ],
+      "speaker": "Lousma",
+      "time": "0562210"
+    },
+    {
+      "tokens": [
+        "Okay, Jack, and on this page 1-5, we proceeded right down the list, all the way down; we're right now at BMAG number 2 is in Warm Up."
+      ],
+      "speaker": "Swigert",
+      "time": "0562215"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy BMAG 2 in Warm Up.",
+        "We'll follow you through."
+      ],
+      "speaker": "Lousma",
+      "time": "0562226"
+    },
+    {
+      "tokens": [
+        "They've gone through the first 16 steps on the checklist.",
+        "The latest step has been to turn the BMAG 2's power down to Warm Up which maintains operational temperature but uses less power than having the BMAG running."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, and something is giving us a reach, Jack, both in pitch and roll, so I'm suspecting that maybe it's whatever it is that's venting back there.",
+        "I've had to use Direct in order to stabilize this, and as soon as I do, we're starting to pick up rates again.",
+        "Can you pick up any jets firing?"
+      ],
+      "speaker": "Swigert",
+      "time": "0562231"
+    },
+    {
+      "tokens": [
+        "Jack complains that the ship is still moving out of control, and he's using the manual RCS function to try and stabilize them.",
+        "He wonders if some of the RCS thrusters are firing on their own, and wonders if Mission Control can tell him anything about it."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "What direction are your rates in, Jack?"
+      ],
+      "speaker": "Lousma",
+      "time": "0562254"
+    },
+    {
+      "tokens": [
+        "It's negative pitch and negative roll."
+      ],
+      "speaker": "Swigert",
+      "time": "0562306"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Lousma",
+      "time": "0562312"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Half an hour has passed since oxygen tank 2 blew up."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "We need to get some more instrumentation up.",
+        "We'd like you to put Inverter 1 on both AC Buses.",
+        "Over."
+      ],
+      "speaker": "Lousma",
+      "time": "0562442"
+    },
+    {
+      "tokens": [
+        "Mission Control wants to look properly into the status of O2tank 2.",
+        "The sensors measuring the quantity and temperature in that tank draw power from AC Bus 2, an early casualty of the emergency.",
+        "Mission Control wants to alleviate the situation by switching Inverter 1 to supply alternating current to both AC buses.",
+        "AC Bus 2 was receiving power via Inverter 2 earlier on, and although one inverter can easily support both AC buses, there is concern that the highly burdened Main Bus A might go to Undervolt again as a result of the new load."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0562453"
+    },
+    {
+      "tokens": [
+        "Okay, you got Inverter 1 on both AC Buses now.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0562506"
+    },
+    {
+      "tokens": [
+        "And Jack, one of the items that we turned off was the - all the fuel cell pumps.",
+        "Okay, and you might let us know when fuel cell 2 needs its pump back; we ought to take care of that guy."
+      ],
+      "speaker": "Haise",
+      "time": "0562519"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0562537"
+    },
+    {
+      "tokens": [
+        "The fuel cell pumps circulate liquid hydrogen in the fuel cell and provide pressurization as well as cooling in addition to glycol in the coolant system loop.",
+        "They can be turned off for some time to conserve power, but the crew does not want to risk any drop in performance in the remaining working fuel cell."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In Mission Control, Gene Kranz asks the Lunar Module controllers to check their systems and see if their spacecraft could be the one that is leaking after all.",
+        "Meanwhile, the people monitoring Apollo's trajectory confirm that they can see the ship deviating from its flight path due to the leak."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Fred, we want Fuel Cell 2 Pumps to AC1, please."
+      ],
+      "speaker": "Lousma",
+      "time": "0562545"
+    },
+    {
+      "tokens": [
+        "Fuel Cell 2 to AC1.",
+        "Roger."
+      ],
+      "speaker": "Lovell",
+      "time": "0562555"
+    },
+    {
+      "tokens": [
+        "Okay, it's on AC1."
+      ],
+      "speaker": "Haise",
+      "time": "0562600"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Omni Charlie, please, 13."
+      ],
+      "speaker": "Lousma",
+      "time": "0562748"
+    },
+    {
+      "tokens": [
+        "The ship has once again moved and Mission Control requests they switch to antenna C for communications."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Omni Charlie.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0562752"
+    },
+    {
+      "tokens": [
+        "Okay, 13.",
+        "We've got lots and lots of people working on this; we'll give you some dope as soon as we have it, and you'll be the first one to know."
+      ],
+      "speaker": "Lousma",
+      "time": "0562806"
+    },
+    {
+      "tokens": [
+        "Oh, thank you.",
+        "[Pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0562819"
+    },
+    {
+      "tokens": [
+        "Okay, Jack, and the weird configuration we're sitting in now is we have the hatch installed, we still have the probe and drogue inside the Command Module, and we're going to stay in this situation until you - kind of give us an okay to reinstall the probe and drogue."
+      ],
+      "speaker": "Swigert",
+      "time": "0562829"
+    },
+    {
+      "tokens": [
+        "An initial worry was that a meteor strike had damaged the Lunar Module, prompting them to install the hatches between the craft in a hurry."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We'll give you an answer."
+      ],
+      "speaker": "Lousma",
+      "time": "0562847"
+    },
+    {
+      "tokens": [
+        "Or, if necessary, to use the LM consumables."
+      ],
+      "speaker": "Haise",
+      "time": "0562848"
+    },
+    {
+      "tokens": [
+        "Fred is already suggesting that if things go even worse, they can use the lunar module as a lifeboat.",
+        "Even though it has not been mentioned on air, it appears that both the crew and the Mission Control are considering this possibility.",
+        "Although he only mentions 'consumables', since there is no way to actually transfer them from the LM to the Command Module, this effectively means that the crew may have to take shelter onboard the LM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Lousma",
+      "time": "0562852"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, we'd like to have you put thruster Alpha 3 on Main A, please."
+      ],
+      "speaker": "Lousma",
+      "time": "0563211"
+    },
+    {
+      "tokens": [
+        "Alpha 3 on Main A."
+      ],
+      "speaker": "Lovell",
+      "time": "0563219"
+    },
+    {
+      "tokens": [
+        "Okay, Jack, are you monitoring the quad temps in quad A - package temps?"
+      ],
+      "speaker": "Haise",
+      "time": "0563224"
+    },
+    {
+      "tokens": [
+        "Affirmative."
+      ],
+      "speaker": "Lousma",
+      "time": "0563231"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Fred is worried about the RCS quad temperatures.",
+        "The prolonged firing of the thrusters due to the attitude control system trying to stabilise their attitude has caused the temperature to rise."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, this is Houston.",
+        "We'd like to power down just a little bit more, so let's get BMAG 2, Off; and make sure your lights are down.",
+        "Over."
+      ],
+      "speaker": "Lousma",
+      "time": "0563337"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The lights are down, and BMAG 2's going from Standby to Off."
+      ],
+      "speaker": "Lovell",
+      "time": "0563349"
+    },
+    {
+      "tokens": [
+        "EECOM Sy Liebergot has requested that the crew reduces the power load in the remaining Main Bus A so that they will be able to take the reentry battery offline and then use the spare power to troubleshoot the cryo tanks further.",
+        "To do so, they go through two more steps on the E1-5 power down list, and turn off BMAG 2 as well as cabin lights."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Long pause."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The BMAG is part of the SCS system on the Apollo Command Module, of course, we're still attached to the Lunar Module, so this is less of a crucial item to power down at this time.",
+        "We're at 56 hours, 34 minutes into the flight.",
+        "Continuing to monitor, this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, Houston..."
+      ],
+      "speaker": "Lousma",
+      "time": "0563427"
+    },
+    {
+      "tokens": [
+        "Okay, Jack, now I've got a rate..."
+      ],
+      "speaker": "Swigert",
+      "time": "0563428"
+    },
+    {
+      "tokens": [
+        "...we'd like you to open circuit fuel cell 3."
+      ],
+      "speaker": "Lousma",
+      "time": "0563429"
+    },
+    {
+      "tokens": [
+        "After attempting to recover fuel cell 1 by removing it from the power grid, they are now trying the same procedure on the other malfunctioning fuel cell.",
+        "Sy Liebergot originally wanted both 1 and 3 open circuited simultaneously, but Gene Kranz suggested they do them one at a time, just in case the configuration change causes problems with the still working parts of the power system."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Open circuit fuel cell 3."
+      ],
+      "speaker": "Lovell",
+      "time": "0563436"
+    },
+    {
+      "tokens": [
+        "Go ahead, Jack.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0563437"
+    },
+    {
+      "tokens": [
+        "Okay, fuel cell 3 is off the line now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0563446"
+    },
+    {
+      "tokens": [
+        "And 13, Houston.",
+        "We'd like you to turn all your Bravo thrusters Off; and put all your Delta thrusters on Main A, please."
+      ],
+      "speaker": "Lousma",
+      "time": "0563516"
+    },
+    {
+      "tokens": [
+        "All Delta thrusters on Main A and all Bravo thrusters Off.",
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0563526"
+    },
+    {
+      "tokens": [
+        "They want to reconfigure the RCS thruster power again to see if that will help with the continuous issues with the ship rotating when they don't want it to."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "Turn Battery A, Off..."
+      ],
+      "speaker": "Lousma",
+      "time": "0563555"
+    },
+    {
+      "tokens": [
+        "Okay, Jack, we've pretty well got the [garble]."
+      ],
+      "speaker": "Lovell",
+      "time": "0563556"
+    },
+    {
+      "tokens": [
+        "Battery A has been connected to the power grid for about 32 minutes to supply extra power after the loss of the fuel cells.",
+        "Right now Mission Control wants to save the power in the battery, knowing that it cannot be recharged."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's right; we were pulling current all the time."
+      ],
+      "speaker": "Swigert",
+      "time": "0563601"
+    },
+    {
+      "tokens": [
+        "Battery A, Off.",
+        "Roger."
+      ],
+      "speaker": "Lovell",
+      "time": "0563602"
+    },
+    {
+      "tokens": [
+        "Now you have no..."
+      ],
+      "speaker": "Swigert",
+      "time": "0563605"
+    },
+    {
+      "tokens": [
+        "I'm transmitting.",
+        "I don't have any current now."
+      ],
+      "speaker": "Lovell",
+      "time": "0563607"
+    },
+    {
+      "tokens": [
+        "Hey, it's off - it's off.",
+        "They - they killed the bus completely now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0563615"
+    },
+    {
+      "tokens": [
+        "Kranz' momentary lapse in recalling the location of the surge tank was not forgotten by his Flight Control team.",
+        "The post-flight unwinding party included a remix tape of the flight control loop audio where his assessment of \"I don't understand that, Sy\" was made into the main punchline."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "We'd like you to isolate your O2surge tank.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0563707"
+    },
+    {
+      "tokens": [
+        "Surge tank off now, Jack?",
+        "Okay, Jack, are you copying - O2tank 1 cryo pressure?"
+      ],
+      "speaker": "Swigert",
+      "time": "0563719"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "And we're trying to get power to that tank.",
+        "Stand by; we're working on it."
+      ],
+      "speaker": "Lousma",
+      "time": "0563730"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0563738"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The reason for getting power to oxygen tank 1 is to raise its pressure by switching on its heaters.",
+        "The oxygen system relies on the source tank pressures being within a range of values.",
+        "As the gas is depleted, both temperature and pressure fall so heaters are switched on to restore the pressure.",
+        "In this case, because the tank is leaking, heating it can only remedy the problem temporarily, and will actually help to empty it faster."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Command Module has its own small oxygen tank, known as the surge tank, that is used for the crew's oxygen supply during re-entry.",
+        "By isolating it, they are preserving it for that eventuality, a sign that minds are thinking in the longer term, while the rest of the CSM's oxygen leaks away."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We had a - Service Module RCS B light, Jack, due to a package temperature."
+      ],
+      "speaker": "Swigert",
+      "time": "0563905"
+    },
+    {
+      "tokens": [
+        "Service Module RCS B.",
+        "We copy.",
+        "No problem."
+      ],
+      "speaker": "Lousma",
+      "time": "0563913"
+    },
+    {
+      "tokens": [
+        "While usually the erratic temperature on a crucial system such as the maneuvering rockets would be the source of much consternation and troubleshooting, compared to the rest of their problems, they are barely blinking an eye on the issue.",
+        "It is not something that will put the crew's life in danger for the moment."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Let's read you the lights we got on now; Cryo Press, Fuel Cell 1, Fuel Cell 3, Main Bus B Undervolt, Suit Compressor."
+      ],
+      "speaker": "Swigert",
+      "time": "0563921"
+    },
+    {
+      "tokens": [
+        "Roger, we copy them and we'd like to build up the pressure in O2tank 1, so turn the heaters on manually; we'll watch the pressure for you."
+      ],
+      "speaker": "Lousma",
+      "time": "0563933"
+    },
+    {
+      "tokens": [
+        "Okay, do you want to see..."
+      ],
+      "speaker": "Swigert",
+      "time": "0563944"
+    },
+    {
+      "tokens": [
+        "Oxygen is normally stored at a pressure exceeding 900 psi (pounds per square inch) within the cryogenic tank.",
+        "With the leak in tank 1 causing the pressure to plummet, by now to one third of the normal storage pressure, they are attempting to restore it by using the tank heaters."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Lousma",
+      "time": "0563945"
+    },
+    {
+      "tokens": [
+        "...We're going to get a Main Bus A Undervolt, probably."
+      ],
+      "speaker": "Swigert",
+      "time": "0563946"
+    },
+    {
+      "tokens": [
+        "Jack thinks that in their current state, the power system will be overloaded if they turn on the tank heater, a high-power item."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We realize that; we feel we can stand 5 more amps on it."
+      ],
+      "speaker": "Lousma",
+      "time": "0563949"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0563956"
+    },
+    {
+      "tokens": [
+        "Okay, heater on tank 1's On."
+      ],
+      "speaker": "Lovell",
+      "time": "0564000"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "We'd like you to additionally bring on the fans in O2tank 1, and we can stand the additional amperage on that."
+      ],
+      "speaker": "Lousma",
+      "time": "0564152"
+    },
+    {
+      "tokens": [
+        "Okay - bring on the fans on O2tank 1."
+      ],
+      "speaker": "Lovell",
+      "time": "0564203"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The tank 1 fans are turned on because the cryo pressure does not show signs of increasing despite the effort to do so by operating the heaters.",
+        "It is only moments later that Sy Liebergot gives a rather damning verdict on the situation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "We'd like you to check some circuit breakers on panel 226.",
+        "Cryo O2Heater number 1, Main A, and check the three Cryo Fan Motors, Tank 1, three phases.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0564432"
+    },
+    {
+      "tokens": [
+        "A separate circuit breaker panel manages power allocation into the fuel cells and the cryo tank operation systems.",
+        "Gene Kranz and Sy Liebergot have conferred on the oxygen pressure situation and decided to check the circuit breakers to see if power is really getting to the systems used to try and raise the pressure in the tank.",
+        "Sy did suggest that they did see the ship's electric power consumption rise accordingly when the heaters were turned on, hence the breaker theory is very much a long shot."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "While the crew is checking the circuit breakers, Gene Kranz issues the order to prepare the lifeboat."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "226 is configured just like it should be.",
+        "I got three Reac breakers and three Rad breakers open.",
+        "All the rest are closed."
+      ],
+      "speaker": "Haise",
+      "time": "0564456"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "Thank you.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0564511"
+    },
+    {
+      "tokens": [
+        "Jack, looking outside, the number of particles has diminished greatly, almost ceased now, which indicates maybe what was venting has almost stopped."
+      ],
+      "speaker": "Swigert",
+      "time": "0564555"
+    },
+    {
+      "tokens": [
+        "The oxygen leak is growing weaker because the pressure in the tank has dropped due to the loss of oxygen.",
+        "By now a whole cloud of oxygen surrounds the spacecraft and is even visible to telescopic observers on Earth."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Jack.",
+        "Thank you.",
+        "We copy."
+      ],
+      "speaker": "Lousma",
+      "time": "0564609"
+    },
+    {
+      "tokens": [
+        "I'm still getting some rates in negative pitch, though."
+      ],
+      "speaker": "Swigert",
+      "time": "0564614"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0564617"
+    },
+    {
+      "tokens": [
+        "And, 13, we'd like to verify that both BMAGs are Off, please."
+      ],
+      "speaker": "Lousma",
+      "time": "0564628"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "We just have one BMAG.",
+        "BMAG number 1 is still On."
+      ],
+      "speaker": "Swigert",
+      "time": "0564635"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "Let's take BMAG 1, Off."
+      ],
+      "speaker": "Lousma",
+      "time": "0564643"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "BMAG number 1, Off, now."
+      ],
+      "speaker": "Swigert",
+      "time": "0564650"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mission Control has told Jack Swigert to shut down the remaining BMAG - this stands for Body-Mounted Attitude Gyro.",
+        "There are two units, Gyro Assemblies 1 and 2, each containing three BMAGs, and they can form a backup attitude reference system onboard the Command Module.",
+        "Right now BMAG 1 is still on and it is an undue power drain so is switched off.",
+        "In their hurried and slightly confused state, Mission Control forgot to ask to shut both of them down earlier."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, this is Houston.",
+        "We'd like you to give us a survey of your displays on MDCs 1 and 2.",
+        "Give us gauge readings and talkbacks.",
+        "Over."
+      ],
+      "speaker": "Lousma",
+      "time": "0564806"
+    },
+    {
+      "tokens": [
+        "Gene Kranz wants to know what the crew is seeing on their own instruments.",
+        "At fellow Flight Director Glynn Lunney's request, Gene has requested the CapCom to ask the crew to read it all out back to Mission Control and mark it on a diagram of the control panels."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "They've barely given out this order when EECOM chimes in again."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The picture above is from another mission.",
+        "No photos or film exist of the EECOM station during the crisis situation.",
+        "According to Sy Liebergot's memoirsApollo EECOM, the on-site photographers continued to record the expressions and mood in the Flight Control and CapCom stations - sometimes even using the EECOM console as a seat to get a better shot!"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll start with display number 1.",
+        "Are, uh..."
+      ],
+      "speaker": "Lovell",
+      "time": "0564822"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "On MDC 1, there is nothing abnormal.",
+        "All the rate indicators are zero.",
+        "Ball number 2 is, uh, frozen, of course; we lost - lost, uh.",
+        "Main B.",
+        "I've got Ball number 1 appears to be working normally.",
+        "Right now I'm sitting at roll 0, pitch 180, and, uh, yaw about 13 degrees.",
+        "I'm going to try and hold, uh, 0, 180, and 0."
+      ],
+      "speaker": "Swigert",
+      "time": "0564830"
+    },
+    {
+      "tokens": [
+        "Jack is referring to the 8-ball displays, formally known as the Flight Director/Attitude Indicator (FDAI).",
+        "It tells them their attitude, how fast they are rotating (their 'rates') and it includes needles to help direct them to a desired attitude."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "The center panel - I'm looking at the RCS indicator A.",
+        "We have a package temperature of about 180.",
+        "Our helium pressure is 3900.",
+        "I'm looking at fuel pressure of about 180 and percentage of about, I'd say 85 percent.",
+        "B is about the same, except that that package pressure is 190.",
+        "On quad C, we're looking about the same, except that the package temperature is 100.",
+        "On quad D, we're looking at package temperature of 160.",
+        "All other indications about the same.",
+        "CM pressure - RCS pressure is looking nominal.",
+        "Helium pressure's up around 4000.",
+        "And package temperature is about - a little less than 80 on ring 1 and about the same on ring 2."
+      ],
+      "speaker": "Lovell",
+      "time": "0564908"
+    },
+    {
+      "tokens": [
+        "Jim has given them a quick tour of both RCS systems; that on the SM and on the CM.",
+        "Both RCS systems are essentially fine except that having been used heavily to counter the venting, the temperatures of three quads on the SM are elevated."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And the - talkbacks on the SM RCS, I've got Helium 1 now are all gray.",
+        "Helium 2 are all gray.",
+        "Primary Propellant all gray.",
+        "Secondary Propellant, I've got two barber pole, and A is barber pole, B gray, C barber pole, and D gray.",
+        "Okay.",
+        "On the ECS Radiators, barber pole is gray.",
+        "On the - On the ECS, Primary indicator."
+      ],
+      "speaker": "Lovell",
+      "time": "0565002"
+    },
+    {
+      "tokens": [
+        "After the dark prediction made by Sy Liebergot a moment earlier, Gene Kranz sees no option but to lay down the law in regards to the future of the mission."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "LM DPS is pronounced 'lem dips'"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Gene Kranz has apparently written off the engine in the Service Module.",
+        "They are unsure of its status and whether it could be used to bring them home.",
+        "The trajectory people will now start to calculate ways to use the Lunar Module's Descent Engine to perform a burn to return to Earth as quickly as possible."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Although the use of the DPS for the return burn will be a triumph of Apollo 13, it is not a mere effort of brilliant improvisation.",
+        "Planning for the potential use for the LM to produce propulsion for both docked spacecraft goes back at least as early as 1963.",
+        "The very Flight Plan carried onboard has procedures for the use of the DPS should they be unable to enter lunar orbit due to a failure of the SPS engine.",
+        "These procedures, however, were not drawn up for a scenario where the Command Service Module is also unable to support the crew."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "Starting at the top.",
+        "Okay.",
+        "The Cryo Tanks; H21 is reading 230 and the same for 2.",
+        "Our O2Cryo Tank 1 is - looks like it's barely holding its own at 300.",
+        "And Cryo Tank 2 is reading zip.",
+        "Our quantities: H21 is reading 73; 2, 74.",
+        "On the O2side, we're reading O21 at quantity 76; O22 pegged to full scale high.",
+        "RAD Temps Primary Inlet, we're reading about 55; RAD Out is reading about 30, and, uh, Secondary Outlet is reading..."
+      ],
+      "speaker": "Haise",
+      "time": "0565057"
+    },
+    {
+      "tokens": [
+        "...fifty - 52 degrees.",
+        "And the Evap Out Temp's 45; Steam Pressure, 0.17; and Glycol Discharge, 48.",
+        "Suit Compressor's reading zip.",
+        "The Accum is reading 30; H2O Waste is reading about 34; Potable's reading about 98; Secondary RAD Inlet is reading about 71; and the RAD Out is about 30; Glycol Evap Temp is reading 65, Steam Pressure pegged full scale high; Discharge Pressure, 9 psi."
+      ],
+      "speaker": "Haise",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In Mission Control, Sy Liebergot and his support staff have come to an important realization about the Electrical Power System."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Excuse me, Fred; I'd like to butt in here a minute.",
+        "We'd like to have Thruster C-1 off."
+      ],
+      "speaker": "Lousma",
+      "time": "0565306"
+    },
+    {
+      "tokens": [
+        "C-1 is off."
+      ],
+      "speaker": "Lovell",
+      "time": "0565317"
+    },
+    {
+      "tokens": [
+        "And proceed..."
+      ],
+      "speaker": "Lousma",
+      "time": "0565318"
+    },
+    {
+      "tokens": [
+        "Okay..."
+      ],
+      "speaker": "Haise",
+      "time": "0565019"
+    },
+    {
+      "tokens": [
+        "...my last copy is Secondary RAD In.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0565320"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Your Secondary RAD In, I gave to you 70 - about 72 degrees; the RAD Out's about 30; the Glycol Evap Temp is reading about 65; Steam Pressure full scale high, Glycol Discharge Pressure about 9 psi.",
+        "The Accum - Secondary Accumulator is about 30 - 34 percent.",
+        "Our temperatures: Suits showing about 52 degrees; Cabin, about 58 degrees; pressures, Suit reading 4.1, Cabin at 5.",
+        "Partial Pressure CO2is up to little over 1, about 1.1.",
+        "On the SPS side of the house, the temperature is 72 degrees, helium's reading 3500; N2A is reading 2300; N2B, about 2450.",
+        "And our ullage pressures: Fuel is reading about 165; Oxidizer 170.",
+        "Fuel cells: Fuel Cell 1, both Closed, they're zip; Skin Temp 405 degrees; Condenser Exhaust is lower scale.",
+        "Fuel Cell 2 - right now we've got an O2or an H2Flow reading of 0.13 to 0.14, and the O2Flow is right now pegged full scale high although it's been varying dependant on thruster activity which has also given us Main Bus A undervolts from a steady reading of about 1.1 up to full scale high.",
+        "The T-skin is about 445 and the Condenser Exhaust, 17 - correction, 180.",
+        "Let's see if you want it on the DC indicator: Fuel Cell 1 is 0 amps; 2 is reading somewhere between 44 and about - oscillating 44 to 48 again dependant on thruster activity."
+      ],
+      "speaker": "Haise",
+      "time": "0565328"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Lousma",
+      "time": "0565603"
+    },
+    {
+      "tokens": [
+        "...is 0 amps.",
+        "Ah, Say again, Jack.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0565604"
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston; continuing to troubleshoot with the Apollo 13 crew.",
+        "Closely watching oxygen quantities and pressures in the Command Module.",
+        "Isolating the surge tank leaves oxygen for entry if this should become necessary.",
+        "Also, if necessary, the 13 crew could open the tunnel and use oxygen from the Lunar Module.",
+        "We now..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Apollo 13 crew is just over one hour into the crisis."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 13.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0565623"
+    },
+    {
+      "tokens": [
+        "Hello, Houston; Apollo 13.",
+        "How do you read?",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0565655"
+    },
+    {
+      "tokens": [
+        "Okay, 13.",
+        "This is Houston.",
+        "It appears to us that we're losing O2flow through fuel cell 3.",
+        "So, we want you to close the Reac valve on fuel cell 3.",
+        "It looks like fuel cell 1 and 2 are trying to hold up okay.",
+        "You copy?"
+      ],
+      "speaker": "Lousma",
+      "time": "0565707"
+    },
+    {
+      "tokens": [
+        "Are you saying fuel cell 1 and 2 - 1 and 2 are trying to hold up but we're leaking O2out of fuel cell 3?",
+        "And you want me to shut the Reac valve on fuel cell 3?",
+        "Did I hear you right?"
+      ],
+      "speaker": "Haise",
+      "time": "0565726"
+    },
+    {
+      "tokens": [
+        "Fred's incredulous response was shared by Jack Lousma, who earlier asked the same questions from Gene Kranz as well."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "Close the Reac valve on fuel cell 3."
+      ],
+      "speaker": "Lousma",
+      "time": "0565740"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll go to the SSR page.",
+        "Do you want me to go through that whole smash for fuel cell shutdown?",
+        "Is that correct?"
+      ],
+      "speaker": "Haise",
+      "time": "0565748"
+    },
+    {
+      "tokens": [
+        "Fred Haise is apparently unable to believe that Mission Control is indeed telling him to shut down the Reac valves.",
+        "This is a procedure that cannot be reversed once performed.",
+        "Hence, NASA has apparently written off one third of the ship's power production capacity, and Mission Control is effectively scrubbing their mission at the moment, whatever the actual damage the ship might have sustained.",
+        "It would be against mission rules to continue the mission with only 2 fuel cells, which means that even if they were able to restore the remaining fuel cells to maximum function, the lunar landing is out of the question."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0565757"
+    },
+    {
+      "tokens": [
+        "Current thinking in Mission Control is that somehow fuel cell 3 is damaged and causing them to lose their oxygen supply through the fuel cell.",
+        "Their suggested solution is to isolate the fuel cell physically by closing the valves that control the oxygen and hydrogen flow into the fuel cell."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The thinking for the moment is sound.",
+        "If they are able to shut down the leak through fuel cell 3, they would have one oxygen tank and at least one working fuel cell in fuel cell 2, enough to get the crew back home safely with power to use and oxygen to breathe."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, now 180,098 nautical miles [333,541 km] from Earth.",
+        "Velocity now reading 3,219 feet per second [981 m/s].",
+        "We're at 56 hours, 58 minutes now into the flight."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, 13.",
+        "We want you to turn the inline heaters off on fuel cell 1.",
+        "Then we want you to go through the fuel cell shutdown procedure on fuel cell 3.",
+        "Read back."
+      ],
+      "speaker": "Lousma",
+      "time": "0565824"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Shut down the inline heaters on fuel cell 1.",
+        "We're proceeding with the shutdown, special subroutine, for fuel cell 3."
+      ],
+      "speaker": "Swigert",
+      "time": "0565840"
+    },
+    {
+      "tokens": [
+        "Jack authored the fuel cell shutdown procedure as well."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0565851"
+    },
+    {
+      "tokens": [
+        "13.",
+        "Omni Bravo, please.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0565912"
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "Over."
+      ],
+      "speaker": "Lousma",
+      "time": "0565954"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0565958"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You got Omni Bravo and we'd like to have you verify that the tape recorder is off please."
+      ],
+      "speaker": "Lousma",
+      "time": "0565959"
+    },
+    {
+      "tokens": [
+        "The CapCom is meaning exactly what it sounds like - the tape recorder, officially known as DSE or Data Storage Equipment - is used to record systems data during crucial system phases and while the ship is outside communications contact with Earth, so that this information can be passed on to Earth later on.",
+        "It also has an audio track option, to record what is being said in the cockpit by the crew even when they are not talking to Earth on the radio."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The cockpit voice recorder could even be used to pass clandestine messages to Earth.",
+        "During the flight of Apollo 8, Commander Frank Borman of the mission fell sick soon after they headed for the Moon.",
+        "The crew made a recording of his health situation on the audio track of the tape and then asked Mission Control to play back the tape.",
+        "This way they were able to report on the sickness without using the public radio channel, and cause undue worry in anyone listening in."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's verified.",
+        "Okay, Jack.",
+        "I'm sitting here with an 0618 showing and I can't get rid of it here.",
+        "Oh, stand by just a...",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0570008"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Fuel cell 3 Reac's are Off, Houston."
+      ],
+      "speaker": "Lovell",
+      "time": "0570048"
+    },
+    {
+      "tokens": [
+        "Roger, Jim.",
+        "Thank you."
+      ],
+      "speaker": "Lousma",
+      "time": "0570052"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "Speaking from the spacecraft for most of that conversation has been Lunar Module Pilot, Fred Haise.",
+        "We're at 57 hours, 1 minutes now in the flight."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "Step 2, special subroutine 1 for the fuel cell procedure, has been completed."
+      ],
+      "speaker": "Swigert",
+      "time": "0570154"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you."
+      ],
+      "speaker": "Lousma",
+      "time": "0570201"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Jack.",
+        "I'd like to bring on jet A-4.",
+        "I've got, uh, no - negative pitch control - negative pitch control, and right now neither Direct or Auto coils."
+      ],
+      "speaker": "Swigert",
+      "time": "0570429"
+    },
+    {
+      "tokens": [
+        "The RCS attitude control jets can be fired through two control paths, Auto or Direct, each with their own individual wiring and electric solenoid valves that inject the propellant into the thrusters.",
+        "In Auto, the RCS jets are fired according to automatic computer commands based on the computer programming or the crew using various switches on the control console to choose from automatic and semi-automatic control modes.",
+        "In Direct mode, the automatic control is bypassed and moving the hand controller in the Command Module causes the jets to fire under manual control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You say no pitch in either Direct or Auto?",
+        "You want to bring on A-4?"
+      ],
+      "speaker": "Lousma",
+      "time": "0570447"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "I got a - I got a positive pitch rate and I can't stop it."
+      ],
+      "speaker": "Swigert",
+      "time": "0570453"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0570458"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "Bring A-4 on; stop the pitch rate."
+      ],
+      "speaker": "Lousma",
+      "time": "0570508"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That got it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0570514"
+    },
+    {
+      "tokens": [
+        "Positive pitch rate implies that the nose of spacecraft is tipping 'upwards' in terms of the inertial platform sensing it.",
+        "By allowing the aft-facing A-4 jet to fire, they are able to push their nose back down."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, 13, we need Omni Charlie, please."
+      ],
+      "speaker": "Lousma",
+      "time": "0570535"
+    },
+    {
+      "tokens": [
+        "Omni Charlie."
+      ],
+      "speaker": "Haise",
+      "time": "0570541"
+    },
+    {
+      "tokens": [
+        "And, Freddo, we'd like to have you, uh, verify fuel cell reactants talkback is barber poled"
+      ],
+      "speaker": "Lousma",
+      "time": "0570546"
+    },
+    {
+      "tokens": [
+        "That's affirm.",
+        "I watched it and it went barber pole as I threw the switch."
+      ],
+      "speaker": "Haise",
+      "time": "0570554"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0570601"
+    },
+    {
+      "tokens": [
+        "Okay, all Flight Controllers, I'm handing over to Glynn.",
+        "I assume the majority of all the team guys are pretty much briefed and up to speed as best we can.",
+        "Now what I'd suggest is the White Team do two things.",
+        "They go over the D-logs..."
+      ],
+      "speaker": "Kranz",
+      "time": "0570612"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "By mistake, Kranz has come up on the air-ground loop.",
+        "It is convention that only another astronaut, the designated CapCom, can speak with the crew.",
+        "A flight controller has informed him of the error by calling on the flight loop \"FLIGHT, you're on GOSS Conference.\" Kranz continues on the flight loop."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Although it might seem odd to do so in the middle of an emergency, there is a change of shift in Mission Control.",
+        "Gene Kranz' White Team is replaced by Glynn Lunney's Black Team in Mission Control, and they continue to troubleshoot the spacecraft's problems.",
+        "The White Team isn't about to just go home for the night.",
+        "They are soon busy at work trying to decipher what's going on onboard the ship by looking into the telemetry logs, stored in the computers at the RTCC."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Jack.",
+        "Let me give you a thruster configuration right now.",
+        "Able 1, Charlie 1, Able 2 are off.",
+        "Charlie 2, Main A, all the thrusters that I call that are on are on Main A.",
+        "Baker 1, Off.",
+        "Dog 1, On; Baker 2, Off; Dog 2, On.",
+        "Able 3, Charlie 3, Able 4, Charlie 4, On.",
+        "Baker 3, Off; Dog 3, On; Baker 4, Off; Dog 4, on.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0570801"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "That thruster configuration looks okay."
+      ],
+      "speaker": "Lousma",
+      "time": "0570927"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "Okay.",
+        "Do you want some readings from the Systems Test Meter regarding fuel cells?"
+      ],
+      "speaker": "Swigert",
+      "time": "0570935"
+    },
+    {
+      "tokens": [
+        "Stand by one on that, Jack.",
+        "Let me ask the EECOM."
+      ],
+      "speaker": "Lousma",
+      "time": "0570945"
+    },
+    {
+      "tokens": [
+        "We've got some incompatibilities here.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0570946"
+    },
+    {
+      "tokens": [
+        "Okay, 13.",
+        "We'd like to have you give us those systems test readings on fuel cell 1 and 3, please."
+      ],
+      "speaker": "Lousma",
+      "time": "0571003"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "1 and 3 coming up."
+      ],
+      "speaker": "Lovell",
+      "time": "0571011"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Jack, 1-A is reading, lower scale, 0; 1-B is reading.",
+        "3.45.",
+        "Okay.",
+        "You only want fuel cells 1 and 3.",
+        "Okay.",
+        "Ignore that 1-B reading.",
+        "1-C is reading 3.4.",
+        "Now, 1-D is reading 2.4.",
+        "2-B is reading 0.25."
+      ],
+      "speaker": "Haise",
+      "time": "0571014"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Is that 2 Bravo, Fred?"
+      ],
+      "speaker": "Lousma",
+      "time": "0571109"
+    },
+    {
+      "tokens": [
+        "That's 2 Bravo is reading - oh, about 0.25 to 0.3.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0571115"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let me get back with you, a minute, FLIGHT.",
+        "Would - Stand by on these readouts."
+      ],
+      "speaker": "Burton",
+      "time": "0571130"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston, 57 hours, 11 minutes..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "2-C is reading 4.1.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0571139"
+    },
+    {
+      "tokens": [
+        "Flight Director Glynn Lunney's infamous handwriting becomes even more so as he starts to record the slowly dropping oxygen tank pressure almost minute by minute."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We now show an altitude of 180,521 nautical miles [334,325 km].",
+        "Here in Mission Control we're looking - now looking towards an alternate mission swinging around the Moon and using the Lunar Module power systems because of the situation that has developed here this evening.",
+        "We now show a velocity of 3,210 feet per second [978 m/s].",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Even though the crew is still troubleshooting the fuel cells, the PAO is already announcing the plans to use the Lunar Module as a lifeboat and the way to get back to Earth."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And 3-A is reading 4.0."
+      ],
+      "speaker": "Haise",
+      "time": "0571210"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "4.0.",
+        "Say again what it is, please.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0571215"
+    },
+    {
+      "tokens": [
+        "3 Able, 3-A.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0571222"
+    },
+    {
+      "tokens": [
+        "3-B is reading 1.8.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0571248"
+    },
+    {
+      "tokens": [
+        "And 3-D is reading 1.95."
+      ],
+      "speaker": "Haise",
+      "time": "0571258"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Fuel cell 1's nitrogen pressure is zero, which indicates a sensor issue.",
+        "Nitrogen pressure on fuel cells 2 and 3 is normal.",
+        "Oxygen pressure at fuel cells 2 and 3 is abnormal, with three being close to zero at 3 psi."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "After observing the situation before taking over as the Flight Director, Glynn Lunney jumps right into action.",
+        "He has to make some very quick and difficult decisions as soon as he has taken over the Flight Director's seat.",
+        "With Sy Liebergot also standing down, the on-duty EECOM Clint Burton continues to report on the oxygen issue."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Houston, 13.",
+        "O2tank pressure number 1 is less than 300 now."
+      ],
+      "speaker": "Lovell",
+      "time": "0571408"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're seeing that.",
+        "We confirm it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0571414"
+    },
+    {
+      "tokens": [
+        "Despite the shutdown of the reactant flow to fuel cell 3, the oxygen tank pressure is still dropping.",
+        "This is bad news to the troubleshooting effort.",
+        "There is still a leak going on somewhere."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "We're going to have to have you go through the shutdown procedure on fuel cell 1.",
+        "Our O2pressure is going down as you note and the temperature confirms it.",
+        "Did you copy?"
+      ],
+      "speaker": "Lousma",
+      "time": "0571504"
+    },
+    {
+      "tokens": [
+        "The ship's instruments and Mission Control use a variety of sensors to calculate the quantities of fuel - not an easy feat in weightless conditions.",
+        "The quantity sensors and the pressure sensors are supplemented by the temperature sensor, and the temperature data too can be used to determine the state of the tank."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, what bus configuration - What main bus do you want powered?",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0571524"
+    },
+    {
+      "tokens": [
+        "Jack's comment could be interpreted as a show of disbelief at what he just heard from the Mission Control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "We want you to leave the bus configuration as it is.",
+        "Fuel cell 2 on Main A, and we need Omni Bravo."
+      ],
+      "speaker": "Lousma",
+      "time": "0571536"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "We're proceeding with the shutdown procedures for fuel cell 1.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0571552"
+    },
+    {
+      "tokens": [
+        "And, 13, Houston.",
+        "We'd like you to isolate the Repress package, please."
+      ],
+      "speaker": "Lousma",
+      "time": "0571635"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0571642"
+    },
+    {
+      "tokens": [
+        "The Repress package is a set of three small high pressure oxygen tanks in the Command Module, used for repressurizing the cabin in special situations.",
+        "They can also supply oxygen into emergency breathing masks to be used in case of cabin air contamination while the crew is not wearing their spacesuits.",
+        "Mission Control wants to preserve this oxygen source as well.",
+        "EECOM Sy requested the procedure earlier but it was lost in the general hectic state of Mission Control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Isolate the Repress package.",
+        "Roger."
+      ],
+      "speaker": "Lovell",
+      "time": "0571643"
+    },
+    {
+      "tokens": [
+        "I can confirm Repress package is off."
+      ],
+      "speaker": "Haise",
+      "time": "0571645"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "So now you've got the Repress package and the surge tank isolated.",
+        "Is that affirm?"
+      ],
+      "speaker": "Lousma",
+      "time": "0571648"
+    },
+    {
+      "tokens": [
+        "That is Charlie."
+      ],
+      "speaker": "Haise",
+      "time": "0571655"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Now, this is - We're ready to close the Reacs on fuel cell 1; is that right?",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0571659"
+    },
+    {
+      "tokens": [
+        "Jack, stand by on the fuel..."
+      ],
+      "speaker": "Lousma",
+      "time": "0571735"
+    },
+    {
+      "tokens": [
+        "On that last - confirmation.",
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0571736"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're - We're giving you one last..."
+      ],
+      "speaker": "Lousma",
+      "time": "0571741"
+    },
+    {
+      "tokens": [
+        "We want to just get one last confirmation."
+      ],
+      "speaker": "Swigert",
+      "time": "0571742"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "We're getting that last confirmation.",
+        "Stand by, please."
+      ],
+      "speaker": "Lousma",
+      "time": "0571745"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0571751"
+    },
+    {
+      "tokens": [
+        "Okay, 13.",
+        "We verify that we want you to close down - shut down fuel cell 1, close Reacs valve."
+      ],
+      "speaker": "Lousma",
+      "time": "0571801"
+    },
+    {
+      "tokens": [
+        "After multiple seesawing back and forth, Lovell and Swigert have been convinced that they have to shut down fuel cell 1 and hope for the best.",
+        "Their apparent reluctance to go through with the procedure is another display of the crew's knowledge that the power loss will be final.",
+        "At best they are looking at an abortive mission with a single working fuel cell, at worst...",
+        "it can only get worse."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger..."
+      ],
+      "speaker": "Lovell",
+      "time": "0571810"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0571811"
+    },
+    {
+      "tokens": [
+        "...fuel cell 1; close the Reacs valve.",
+        "[Pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0571812"
+    },
+    {
+      "tokens": [
+        "Fuel cell..."
+      ],
+      "speaker": "Swigert",
+      "time": "0571819"
+    },
+    {
+      "tokens": [
+        "Reacs valve on fuel cell 1 is closed.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0571820"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "I can confirm step 2.",
+        "The fuel cell shutdown procedure is complete for fuel cell 1."
+      ],
+      "speaker": "Swigert",
+      "time": "0571845"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Lousma",
+      "time": "0571855"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, we recommend that you enable BD roll in the DAP.",
+        "Over."
+      ],
+      "speaker": "Lousma",
+      "time": "0571958"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Will do..."
+      ],
+      "speaker": "Swigert",
+      "time": "0572005"
+    },
+    {
+      "tokens": [
+        "Enable BD roll in the DAP.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0572006"
+    },
+    {
+      "tokens": [
+        "DAP stands for Digital Autopilot.",
+        "It is a routine in the Command Module Computer used for maintaining or changing the spacecraft's attitude.",
+        "'BD roll' refers to a configuration of the DAP that will use the RCS clusters B and D for roll maneuvers.",
+        "Roll is a rotation of the spacecraft around its longitudinal axis."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "We're working on the big dish now, so turn the High Gain Power switch, Off, please."
+      ],
+      "speaker": "Lousma",
+      "time": "0572023"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0572032"
+    },
+    {
+      "tokens": [
+        "Turning off High Gain Power is saving them another 2.9 amps of power drain."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "When we got the loud bang, we got also a restart.",
+        "Did you copy that?",
+        "Is - does GUIDO want anything, a Verb 74 or anything done with the CMC?"
+      ],
+      "speaker": "Swigert",
+      "time": "0572055"
+    },
+    {
+      "tokens": [
+        "GUIDO stands for Guidance, and figures out how the ship knows which way its nose is pointing.",
+        "They are also responsible for the onboard computer, and Jack wants to know if they require some action on it."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0572106"
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "We're ready with a Verb 74 now, please.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0572154"
+    },
+    {
+      "tokens": [
+        "Coming down at you."
+      ],
+      "speaker": "Swigert",
+      "time": "0572205"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Verb 74 begins the dump of the computer's erasable 2K word memory to Earth."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The situation has grown very dire, and Glynn Lunney is now questioning the LM people in Mission Control about plans on how to power up the LM quickly.",
+        "His hope of a ready solution in one of their checklists that the crew can look up is not to be.",
+        "However, they do have an emergency operations plan for one kind of a 'lifeboat' mode.",
+        "This was designed to keep a two-man crew alive in a powered down, stranded LM Ascent stage in lunar orbit while the CMP comes in with the CSM to effect a rescue.",
+        "The LM lifeboat option for the transearth coast had been investigated over the years and described in detail at least as early as August 1968.",
+        "it deals with a scenario similar to what TELMU Merlin Merritt proposes here."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The plan preceding even the flight of Apollo 8 as well as the first manned LM flights of Apollo 9 and 10, suggests that in the case of an SPS engine failure, the inert Service Module should be ejected and a return home is made using the DPS engine for the abort burn and the Lunar Module as a lifeboat to support the crew.",
+        "It also includes plans for transferring power to the Command Module to maintain the onboard computer online.",
+        "Yet the plan imagines the LM being used for this purpose only for the period following flying past the Moon - while now they are still 24 hours away from that moment."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day3_part2_houston_weve_had_a_problem.html"
+}

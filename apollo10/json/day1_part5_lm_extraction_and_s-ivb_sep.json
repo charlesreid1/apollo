@@ -1,0 +1,3512 @@
+{
+  "description": "A19FJ - Day 1, part 5: LM extraction and S-IVB separation",
+  "transcript": [
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "Gene Cernan indicates he's going to have the camera off for about 10 minutes while they do some work.",
+        "We'll continue to stay up in case we get any communications."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Charlie, go ahead.",
+        "I'll take the evasive maneuver."
+      ],
+      "speaker": "Cernan",
+      "time": "0032858"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "If you're ready to copy, we have a P30 PAD evasive maneuver, SPS/G&N: 63556, plus 0.91, minus 0.21; 004:39:09.00; Noun 81 is plus 3 balls 51, plus 5 balls, plus 0019.0.",
+        "How do you copy?"
+      ],
+      "speaker": "Duke",
+      "time": "0032901"
+    },
+    {
+      "tokens": [
+        "I'm still with you.",
+        "That's just the right speed; I got gloves on yet."
+      ],
+      "speaker": "Cernan",
+      "time": "0032945"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Want me to slow down?"
+      ],
+      "speaker": "Duke",
+      "time": "0032950"
+    },
+    {
+      "tokens": [
+        "No.",
+        "Just go the way you are."
+      ],
+      "speaker": "Cernan",
+      "time": "0032953"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "061, 255, 358.",
+        "Apogee and perigee are NA, 0019.7, 0:03, 0015.0.",
+        "The rest of the pad is NA, and no ullage."
+      ],
+      "speaker": "Duke",
+      "time": "0032955"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Charlie.",
+        "Repeat roll, pitch, and yaw."
+      ],
+      "speaker": "Cernan",
+      "time": "0033026"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "061, 255, 358.",
+        "Did you copy?"
+      ],
+      "speaker": "Duke",
+      "time": "0033028"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "Do you read?"
+      ],
+      "speaker": "Duke",
+      "time": "0033058"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "This is 10."
+      ],
+      "speaker": "Cernan",
+      "time": "0033137"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "We read you now.",
+        "We had a handover to Goldstone and lost you for a while.",
+        "How do you read me?"
+      ],
+      "speaker": "Duke",
+      "time": "0033140"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've got you on omni, and I'll copy the rest of the pad on omni and get High Gain back again.",
+        "I got roll of 061, pitch of 255, and give me Yaw."
+      ],
+      "speaker": "Cernan",
+      "time": "0033145"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Yaw 358."
+      ],
+      "speaker": "Duke",
+      "time": "0033154"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Purpose is evasive.",
+        "SPS/G&N: 63556, plus 0.91, minus 0.21; 004:39:09.00.",
+        "Noun 81 - and plus 0005.1, plus all balls, plus 0019.0; roll 061, 255, 358; Delta-VTis 0019.7, burn time is 0:03, and Delta-VCis 0015.0."
+      ],
+      "speaker": "Cernan",
+      "time": "0033159"
+    },
+    {
+      "tokens": [
+        "The evasive PAD details are as follows:Purpose:The PAD is for a short burn that takes the Apollo stack away from the S-IVB.",
+        "It also acts as a short test of the SPS engine, important given its critical function in returning the crew to Earth.Systems:The burn would be made using the SPS engine under the control of the Guidance and Navigation system.CSM Weight (Noun 47):63,556 pounds (28,829 kg).Pitch and yaw trim (Noun 48):+0.91° and -0.21°.Time of ignition (Noun 33):4 hours, 39 minutes, 9.00 seconds.Change in velocity (Noun 81), fps (m/s):x, +5.1 (+1.6); y, 0; z, +19.0 (5.8).",
+        "These are with respect to the Local Vertical/Local Horizontal.Spacecraft attitude:Roll, 61°; Pitch, 255°; Yaw, 358°.",
+        "This attitude is with respect to the launch pad REFSMMAT.HA, expected apogee of resulting orbit (Noun 44):Not applicable.HP, expected perigee of resulting orbit (Noun 44):Not applicable.Delta-VT, the total velocity change resulting from the burn:19.7 fps (6 m/s).Burn duration or burn time:3 seconds.Delta-VC:15.0 fps (4.6 m/s).",
+        "This figure, when entered into the EMS velocity display, can be used as a backup method of shutting down the engine.No ullage will be required as the SM propellant tanks are full."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Good readback, Gene."
+      ],
+      "speaker": "Duke",
+      "time": "0033231"
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston.",
+        "The S-IVB's getting ready to do an auxiliary hydraulic pump cycling which you may feel, and we will have a non propulsive vent in a few minutes, also."
+      ],
+      "speaker": "Duke",
+      "time": "0033258"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Roger.",
+        "I would reckon that possibly 10, latches 10, 3 - 3, and 4 are probably going to be one shot in progress from the position of the bungee, but they all are automatically made."
+      ],
+      "speaker": "Young",
+      "time": "0033309"
+    },
+    {
+      "tokens": [
+        "Young, from the1969 Technical debrief:\"All the latches were engaged solidly.",
+        "I felt around the edge, over on the bungees and springs.",
+        "Springs 3, 4, and 10 were still partially compressed.",
+        "In other words, they weren't all the way up to the top of the bungee, and that indicated they'd be one shot to cock and they were.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy, John."
+      ],
+      "speaker": "Duke",
+      "time": "0033322"
+    },
+    {
+      "tokens": [
+        "And it looks just like - just like downtown up here."
+      ],
+      "speaker": "Cernan",
+      "time": "0033327"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You have seen it before."
+      ],
+      "speaker": "Duke",
+      "time": "0033331"
+    },
+    {
+      "tokens": [
+        "Houston, this is Charlie Brown.",
+        "How do you read me?",
+        "High Gain?"
+      ],
+      "speaker": "Cernan",
+      "time": "0033707"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Five-by, Gene."
+      ],
+      "speaker": "Duke",
+      "time": "0033710"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're just getting the hatch area squared away at this time."
+      ],
+      "speaker": "Cernan",
+      "time": "0033714"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Get the umbilicals connected?"
+      ],
+      "speaker": "Duke",
+      "time": "0033720"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "We just - just now completed that."
+      ],
+      "speaker": "Cernan",
+      "time": "0033725"
+    },
+    {
+      "tokens": [
+        "Young, from the1969 Technical debrief:\"I took my helmet and gloves off to attach the 1M umbilical.",
+        "The umbilical configured normally and we applied power, and that was normal.",
+        "We were suited from pre-TLI through latch verification.",
+        "We installed the umbilicals, vented the probe, and reinstalled the hatch.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0033728"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We're reading 2 volts on system test meter 4D, and it just bounced back to four-tenths of a volt, so I guess the heaters are cycling or something in the LM."
+      ],
+      "speaker": "Cernan",
+      "time": "0033752"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0033807"
+    },
+    {
+      "tokens": [
+        "Hello, 10.",
+        "Houston.",
+        "TELCOM see's the LM current; it looks nominal."
+      ],
+      "speaker": "Duke",
+      "time": "0033839"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Young",
+      "time": "0033841"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "Apollo 10."
+      ],
+      "speaker": "Stafford",
+      "time": "0034040"
+    },
+    {
+      "tokens": [
+        "Go ahead, Tom."
+      ],
+      "speaker": "Duke",
+      "time": "0034042"
+    },
+    {
+      "tokens": [
+        "Okay,.",
+        "When we pressurized the LM, the Mylar all blew out of the tunnel hatch there, and we have got a spacecraft that has beaucoup insulation in it here.",
+        "It looks like it didn't leave a big enough hole.",
+        "Just like the same way when the LM forward tunnel insulation used to blow out."
+      ],
+      "speaker": "Stafford",
+      "time": "0034046"
+    },
+    {
+      "tokens": [
+        "Young, from the1969 Technical debrief:\"When we opened the hatch and pulled it down into the spacecraft it was obvious that the Mylar, bonded insulation, had broken loose and we had fiberglass insulation all over the inside of the spacecraft.",
+        "We shoved the hatch in the bag and crawled back over in the tunnel to check the latches.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "From theApollo 10 Mission Report:\"When the Lunar Module cabin was first pressurized, the thermal coating on the Command Module hatch came off in pieces.",
+        "The insulation blanket vent holes were plugged, producing the damage.",
+        "One possibility is that the preflight baking of the hatch at 900°F for 15 hours weakened the insulation to the extent that internal pieces of insulation broke loose and plugged the holes during tunnel depressurization.",
+        "Another possibility is that the vent holes were inadvertently sealed when the insulation blanket was potted with RTV or when the H-film tape was installed on the hatch surface.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "You lost every bit of the Mylar in the back side of the hatch?"
+      ],
+      "speaker": "Duke",
+      "time": "0034109"
+    },
+    {
+      "tokens": [
+        "Not every bit, but a whole bunch of it."
+      ],
+      "speaker": "Stafford",
+      "time": "0034112"
+    },
+    {
+      "tokens": [
+        "Oh, just a little of it, Charlie."
+      ],
+      "speaker": "Young",
+      "time": "0034114"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0034116"
+    },
+    {
+      "tokens": [
+        "But, of course, they do away with it on 107 and subs."
+      ],
+      "speaker": "Young",
+      "time": "0034117"
+    },
+    {
+      "tokens": [
+        "John Young is making the point that the Mylar insulation will not be installed on CM-107 (Apollo 11) and all subsequent CMs."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0034119"
+    },
+    {
+      "tokens": [
+        "You got lots of pieces floating around?"
+      ],
+      "speaker": "Duke",
+      "time": "0034125"
+    },
+    {
+      "tokens": [
+        "A few."
+      ],
+      "speaker": "Stafford",
+      "time": "0034128"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0034129"
+    },
+    {
+      "tokens": [
+        "Just a little snow."
+      ],
+      "speaker": "Cernan",
+      "time": "0034132"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 3 hours, 54 minutes.",
+        "We have 2 to 3 minutes of tape at this conference at the Cape.",
+        "We'll play that for you now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston.",
+        "We still show the EDS power, On, and the EDS breakers, Closed.",
+        "Would you turn the power off and open the breakers, if you've got a second?"
+      ],
+      "speaker": "Duke",
+      "time": "0034817"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Power coming off."
+      ],
+      "speaker": "Stafford",
+      "time": "0034828"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "This is 10.",
+        "We've got the logic On, and we're standing by for your Go for Pyro Arm."
+      ],
+      "speaker": "Young",
+      "time": "0035059"
+    },
+    {
+      "tokens": [
+        "The pyrotechnic devices that will separate the LM from the S-IVB are about to be armed."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by.",
+        "You have our Go for Pyro Arm, 10."
+      ],
+      "speaker": "Duke",
+      "time": "0035104"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Pyros coming up and on."
+      ],
+      "speaker": "Young",
+      "time": "0035111"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0035113"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "The S-IVB is still venting non-propulsively."
+      ],
+      "speaker": "Duke",
+      "time": "0035143"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "0035148"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're going to separate in just a minute."
+      ],
+      "speaker": "Stafford",
+      "time": "0035149"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0035152"
+    },
+    {
+      "tokens": [
+        "And, 10.",
+        "We'd like you to stand by until that vent's over in about 2 minutes."
+      ],
+      "speaker": "Duke",
+      "time": "0035153"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0035158"
+    },
+    {
+      "tokens": [
+        "We're standing by for your Go for Sep."
+      ],
+      "speaker": "Stafford",
+      "time": "0035200"
+    },
+    {
+      "tokens": [
+        "Roger, Tom."
+      ],
+      "speaker": "Duke",
+      "time": "0035203"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "The vent's over; we're Go for Sep."
+      ],
+      "speaker": "Duke",
+      "time": "0035429"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand that we are Go for Sep."
+      ],
+      "speaker": "Stafford",
+      "time": "0035432"
+    },
+    {
+      "tokens": [
+        "Houston, I'll turn the TV on, on this one."
+      ],
+      "speaker": "Cernan",
+      "time": "0035444"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0035446"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm going to count down to Sep."
+      ],
+      "speaker": "Stafford",
+      "time": "0035613"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Standing by."
+      ],
+      "speaker": "Duke",
+      "time": "0035615"
+    },
+    {
+      "tokens": [
+        "3, 2, 1"
+      ],
+      "speaker": "Stafford",
+      "time": "0035623"
+    },
+    {
+      "tokens": [
+        "Go."
+      ],
+      "speaker": "Stafford",
+      "time": "0035625"
+    },
+    {
+      "tokens": [
+        "We have TV coming up again right now.",
+        "The Command Module Service Module and the LM have just separated from the S-IVB."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Snoopy's coming out of the doghouse."
+      ],
+      "speaker": "Stafford",
+      "time": "0035627"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0035629"
+    },
+    {
+      "tokens": [
+        "And we got the TV."
+      ],
+      "speaker": "Duke",
+      "time": "0035636"
+    },
+    {
+      "tokens": [
+        "H.264 MP4 video file."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Clip courtesy John Stoll, ACR Senior Technician at NASA Johnson."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, we have Cryo pressure light; O2tank 1 and 2 are reading about 800 [psia]."
+      ],
+      "speaker": "Cernan",
+      "time": "0035648"
+    },
+    {
+      "tokens": [
+        "Both O2cryogenic storage tanks are indicating that their pressure has dropped below the normal minimum of 865 psia.",
+        "Tank pressures and quantities are monitored on meters located on MDC 2 (Main Display Console 2).",
+        "The caution and warning system (Cryo Press) will alarm when oxygen pressure in either tank exceeds 950 psia or falls below 800 psia.",
+        "The hydrogen system alarms above 270 psia and below 220 psia.",
+        "Since a common lamp is provided, reference must be made to the individual pressure and quantity meters (MDC 2) to determine the malfunctioning tank.",
+        "Tank pressures, quantities, and reactant temperatures of each tank are telemetered to MSFN.",
+        "The manual mode of operation bypasses the pressure switches, and supplies power directly to the heaters and/or fans through the individual control switches.",
+        "It can be used in case of automatic control failure, heater failure, or fan failure.",
+        "Two parallel dc heaters in each tank supply the heat necessary to maintain design pressures.",
+        "Two parallel 3-phase ac circulating fans circulate the fluid over the heating elements to maintain a uniform density and decrease the probability of stratification."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0035655"
+    },
+    {
+      "tokens": [
+        "10, we'd like to have you turn the fans on."
+      ],
+      "speaker": "Duke",
+      "time": "0035705"
+    },
+    {
+      "tokens": [
+        "They're on."
+      ],
+      "speaker": "Cernan",
+      "time": "0035712"
+    },
+    {
+      "tokens": [
+        "Houston, we're maneuvering around right now, acquired the S-IVB, going into SEP attitude."
+      ],
+      "speaker": "Cernan",
+      "time": "0035838"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0035841"
+    },
+    {
+      "tokens": [
+        "Houston, that was fans in Auto or Off on the O2?"
+      ],
+      "speaker": "Cernan",
+      "time": "0035915"
+    },
+    {
+      "tokens": [
+        "On, Gene; On."
+      ],
+      "speaker": "Duke",
+      "time": "0035920"
+    },
+    {
+      "tokens": [
+        "They're On; On."
+      ],
+      "speaker": "Cernan",
+      "time": "0035924"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0035926"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We can see the S-IVB now."
+      ],
+      "speaker": "Stafford",
+      "time": "0040029"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Out of which window, Tom?"
+      ],
+      "speaker": "Duke",
+      "time": "0040032"
+    },
+    {
+      "tokens": [
+        "John's looking at it out the hatch window."
+      ],
+      "speaker": "Stafford",
+      "time": "0040035"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0040037"
+    },
+    {
+      "tokens": [
+        "Houston, it's the S-IVB in the TV right now."
+      ],
+      "speaker": "Cernan",
+      "time": "0040201"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We got it right over the quad - thrusters there, Gene."
+      ],
+      "speaker": "Duke",
+      "time": "0040206"
+    },
+    {
+      "tokens": [
+        "That's it.",
+        "I'll see if I can bring it into you."
+      ],
+      "speaker": "Cernan",
+      "time": "0040210"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thanks."
+      ],
+      "speaker": "Duke",
+      "time": "0040212"
+    },
+    {
+      "tokens": [
+        "10, that TV is really fantastic."
+      ],
+      "speaker": "Duke",
+      "time": "0040235"
+    },
+    {
+      "tokens": [
+        "It looks like the dome there of the S-IVB is gold."
+      ],
+      "speaker": "Stafford",
+      "time": "0040241"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0040245"
+    },
+    {
+      "tokens": [
+        "It looks like we got good separation, distance and no problems."
+      ],
+      "speaker": "Stafford",
+      "time": "0040249"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It looks like about the size of a quarter to us here, Tom.",
+        "What do you estimate your range?"
+      ],
+      "speaker": "Duke",
+      "time": "0040253"
+    },
+    {
+      "tokens": [
+        "I'd say at least 300 feet, now."
+      ],
+      "speaker": "Stafford",
+      "time": "0040306"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0040308"
+    },
+    {
+      "tokens": [
+        "Are you getting anything, Charlie?"
+      ],
+      "speaker": "Cernan",
+      "time": "0040322"
+    },
+    {
+      "tokens": [
+        "Roger, Gene.",
+        "That zoom was real good.",
+        "We have the S-IVB; the Sun's real bright on it."
+      ],
+      "speaker": "Duke",
+      "time": "0040323"
+    },
+    {
+      "tokens": [
+        "How's the focus?"
+      ],
+      "speaker": "Cernan",
+      "time": "0040328"
+    },
+    {
+      "tokens": [
+        "Looks real good."
+      ],
+      "speaker": "Duke",
+      "time": "0040329"
+    },
+    {
+      "tokens": [
+        "That LM antenna is showing up real bright."
+      ],
+      "speaker": "Duke",
+      "time": "0040335"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "Apollo 10."
+      ],
+      "speaker": "Stafford",
+      "time": "0040357"
+    },
+    {
+      "tokens": [
+        "Go ahead, 10."
+      ],
+      "speaker": "Duke",
+      "time": "0040359"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I wish you'd tell Dr.",
+        "Von Braun, Lee James, Kurt Debus, and Rocco Petrone thanks a lot for all the people who worked on the great ride."
+      ],
+      "speaker": "Stafford",
+      "time": "0040401"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're going out to the networks now, I think.",
+        "They probably heard it; we'll pass it on, though."
+      ],
+      "speaker": "Duke",
+      "time": "0040410"
+    },
+    {
+      "tokens": [
+        "A few thousand people worked on that machine, and we sure appreciate it."
+      ],
+      "speaker": "Stafford",
+      "time": "0040415"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It looked beautiful from here"
+      ],
+      "speaker": "Duke",
+      "time": "0040420"
+    },
+    {
+      "tokens": [
+        "Did you move the camera, Gene?"
+      ],
+      "speaker": "Duke",
+      "time": "0040426"
+    },
+    {
+      "tokens": [
+        "Say again."
+      ],
+      "speaker": "Cernan",
+      "time": "0040429"
+    },
+    {
+      "tokens": [
+        "Did you move the camera?"
+      ],
+      "speaker": "Duke",
+      "time": "0040430"
+    },
+    {
+      "tokens": [
+        "It's out the hatch window; John's got it now."
+      ],
+      "speaker": "Cernan",
+      "time": "0040431"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0040434"
+    },
+    {
+      "tokens": [
+        "In fact, you can see the S-IVB's attitude, thrusters firing, now."
+      ],
+      "speaker": "Stafford",
+      "time": "0040437"
+    },
+    {
+      "tokens": [
+        "We haven't been able to pick that up yet; S-IVB's really good."
+      ],
+      "speaker": "Duke",
+      "time": "0040441"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Stafford",
+      "time": "0040445"
+    },
+    {
+      "tokens": [
+        "I'd estimate now that we're a good 300 to 400 feet away."
+      ],
+      "speaker": "Stafford",
+      "time": "0040452"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0040457"
+    },
+    {
+      "tokens": [
+        "And we're slowly going away.",
+        "We're starting to see one side of it."
+      ],
+      "speaker": "Stafford",
+      "time": "0040458"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0040501"
+    },
+    {
+      "tokens": [
+        "And 10, Houston.",
+        "\"Eagle-Eyes\" Cooper said he can see your thrusters firing up there on the S-IVB."
+      ],
+      "speaker": "Duke",
+      "time": "0040518"
+    },
+    {
+      "tokens": [
+        "Good show."
+      ],
+      "speaker": "Stafford",
+      "time": "0040527"
+    },
+    {
+      "tokens": [
+        "I can't even see them from here.",
+        "He must be about 2,500 miles away."
+      ],
+      "speaker": "Cernan",
+      "time": "0040533"
+    },
+    {
+      "tokens": [
+        "[Laughter.] Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0040537"
+    },
+    {
+      "tokens": [
+        "You're looking out the wrong window."
+      ],
+      "speaker": "Cooper",
+      "time": "0040543"
+    },
+    {
+      "tokens": [
+        "I'm sure going to like Snoopy, because that's all I'm going to see."
+      ],
+      "speaker": "Cernan",
+      "time": "0040544"
+    },
+    {
+      "tokens": [
+        "Distance from the Earth now 13,531 miles, velocity 16,063 feet per second."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've got the S-IVB out my window now."
+      ],
+      "speaker": "Stafford",
+      "time": "0040658"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "This is CDR.",
+        "I've got the S-IVB out of my window, here."
+      ],
+      "speaker": "Stafford",
+      "time": "0040753"
+    },
+    {
+      "tokens": [
+        "Roger, Tom.",
+        "It's looking great.",
+        "It's a pretty bright network.",
+        "We'd like you to keep the camera moving around so we don't burn anything."
+      ],
+      "speaker": "Duke",
+      "time": "0040759"
+    },
+    {
+      "tokens": [
+        "Houston, this is 10.",
+        "Can you see all the particles around us?"
+      ],
+      "speaker": "Stafford",
+      "time": "0040849"
+    },
+    {
+      "tokens": [
+        "Negative, Tom.",
+        "All we got in the S-IVB, and it's a real bright blob."
+      ],
+      "speaker": "Duke",
+      "time": "0040852"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Okay.",
+        "Looks like..."
+      ],
+      "speaker": "Stafford",
+      "time": "0040901"
+    },
+    {
+      "tokens": [
+        "Is your ALC [Automatic Light Compensation] switch on Inside or Exterior/Interior?"
+      ],
+      "speaker": "Duke",
+      "time": "0040904"
+    },
+    {
+      "tokens": [
+        "On Interior.",
+        "You want to go Exterior?"
+      ],
+      "speaker": "Stafford",
+      "time": "0040910"
+    },
+    {
+      "tokens": [
+        "Let's try that."
+      ],
+      "speaker": "Duke",
+      "time": "0040911"
+    },
+    {
+      "tokens": [
+        "That better?"
+      ],
+      "speaker": "Stafford",
+      "time": "0040917"
+    },
+    {
+      "tokens": [
+        "On the black and white it is.",
+        "Stand by on the color.",
+        "We got that delay.",
+        "Hey, yes.",
+        "That's a lot better.",
+        "It took all that washout out.",
+        "Looks good."
+      ],
+      "speaker": "Duke",
+      "time": "0040919"
+    },
+    {
+      "tokens": [
+        "Charlie, we're looking for the Earth right now.",
+        "We'd like to show it too, but we can't Find it."
+      ],
+      "speaker": "Cernan",
+      "time": "0040941"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It's down there somewhere."
+      ],
+      "speaker": "Duke",
+      "time": "0040945"
+    },
+    {
+      "tokens": [
+        "That's a smart comment."
+      ],
+      "speaker": "Young",
+      "time": "0040949"
+    },
+    {
+      "tokens": [
+        "Ask the navigator.",
+        "He should know."
+      ],
+      "speaker": "Duke",
+      "time": "0040952"
+    },
+    {
+      "tokens": [
+        "He's the housekeeper right now."
+      ],
+      "speaker": "Young",
+      "time": "0040957"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Now, this is Apollo 10.",
+        "We want to get ahead and get some other things done.",
+        "We're going to go ahead and turn off the TV for a while."
+      ],
+      "speaker": "Stafford",
+      "time": "0041005"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Duke",
+      "time": "0041011"
+    },
+    {
+      "tokens": [
+        "This to Apollo Control at 4 hours, 10 minutes.",
+        "Tom Stafford indicates that's all of the television for a while.",
+        "We're sure he'll give us-enough notice when he wants to come back up with it.",
+        "We're 28 minutes away from the nominal evasive maneuver time, however, both the ground and the spacecraft are GO for this maneuver and at crew option they could perform it early.",
+        "This will be a 19.7 feet per second burn with the service propulsion system, the big engine in the service module, retrograde burn.",
+        "It will put the S-IVB out ahead of the Apollo 10 spacecraft, the dock configuration.",
+        "Then shortly after the burn the remaining propellants in the S-IVB will be vented through the engine, be a propulsive vent."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 10.",
+        "We're still slowly moving away from the S-IVB, but that rascal is boresighted right at us."
+      ],
+      "speaker": "Stafford",
+      "time": "0041200"
+    },
+    {
+      "tokens": [
+        "Roger, Tom."
+      ],
+      "speaker": "Duke",
+      "time": "0041206"
+    },
+    {
+      "tokens": [
+        "There will be enough energy in this propulsive vent to put the S-IVB on a trajectory that will go around the trailing edge of the moon and then into solar orbit.",
+        "This is the sling shot maneuver.",
+        "Distance from earth now 14,449 miles, Apollo 10's velocity now 15,635 feet per second."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 4 hours, 14 minutes.",
+        "We still have about 3 minutes worth of tape left that accumulated during the news conference at the Kennedy Space Center.",
+        "We'll turn that tape over to the transcript typist, and we'll continue to stay up alive through this evasive maneuver."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10 is now 15,023 miles away from the Earth.",
+        "The velocity is 15,364 feet per second."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "Me would like you to verify that the suit circuit return value is Open."
+      ],
+      "speaker": "Duke",
+      "time": "0042212"
+    },
+    {
+      "tokens": [
+        "Thank you, Charlie.",
+        "We got it."
+      ],
+      "speaker": "Young",
+      "time": "0042222"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0042224"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "Apollo 10."
+      ],
+      "speaker": "Stafford",
+      "time": "0042513"
+    },
+    {
+      "tokens": [
+        "Go ahead, 10."
+      ],
+      "speaker": "Duke",
+      "time": "0042515"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Estimate now that we are out a good 1,000 - 800 to 1,000 feet from the S-IVB and it moved out laterally - oh, maybe 400 feet."
+      ],
+      "speaker": "Stafford",
+      "time": "0042517"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0042528"
+    },
+    {
+      "tokens": [
+        "It looks like out of the burn direction that we will be in will put us in the right direction, if we keep moving laterally."
+      ],
+      "speaker": "Stafford",
+      "time": "0042530"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Duke",
+      "time": "0042535"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 10.",
+        "We are in burn attitude at this time."
+      ],
+      "speaker": "Stafford",
+      "time": "0042632"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "Duke",
+      "time": "0042637"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "We'd like for you to turn off the O2CRYO fan."
+      ],
+      "speaker": "Duke",
+      "time": "0043018"
+    },
+    {
+      "tokens": [
+        "MCC is requesting that the crew cease the O2cryogenic stir now that the pressure has returned to desired level."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "O2Cryo fan.",
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "0043024"
+    },
+    {
+      "tokens": [
+        "Houston, this is Apollo 10.",
+        "We are back on OMNI.",
+        "We were getting a bad squeal on our S-band."
+      ],
+      "speaker": "Young",
+      "time": "0043223"
+    },
+    {
+      "tokens": [
+        "Communications have been switched from the High Gain Antenna to the CM omni antenna, due to interference over the High Gain."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Duke",
+      "time": "0043229"
+    },
+    {
+      "tokens": [
+        "Is that okay, or do you want to look at this one on High Gain."
+      ],
+      "speaker": "Young",
+      "time": "0043232"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "It looks good on the omni, if you can stay where we are."
+      ],
+      "speaker": "Duke",
+      "time": "0043236"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Apollo 10 coming up to 5 minutes.",
+        "We are going to start our gimbal drive check."
+      ],
+      "speaker": "Stafford",
+      "time": "0043357"
+    },
+    {
+      "tokens": [
+        "The SPS gimbal motors are powered up at this time to provide SPS control during the S-IVB evasive manoeuvre.",
+        "See gimbal motor details atGET 00:05:58."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Duke",
+      "time": "0044303"
+    },
+    {
+      "tokens": [
+        "Pitch 1 coming On.",
+        "Yaw 1 On."
+      ],
+      "speaker": "Stafford",
+      "time": "0043412"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0043416"
+    },
+    {
+      "tokens": [
+        "Pitch 2 coming On."
+      ],
+      "speaker": "Stafford",
+      "time": "0043427"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0043428"
+    },
+    {
+      "tokens": [
+        "Yaw 2 coming On."
+      ],
+      "speaker": "Stafford",
+      "time": "0043429"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "Tom Stafford running some gimbal checks on the SPS engine prior to this evasive maneuver.",
+        "We are about 3 minutes, 57 seconds away from that maneuver which will occur at 4 hours, 39 minutes, 9 seconds.",
+        "Duration of the burn, 2.8 seconds; delta-V, 19.7 feet per second.",
+        "Apollo 10 is 17,529 nautical miles away from the Earth; its velocity, 14,368 feet per second.",
+        "The weight of the combined vehicles; 94,271 pounds."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0043431"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Coming up on 2 minutes.",
+        "Delta-V thrust A normal [panel 1]."
+      ],
+      "speaker": "Stafford",
+      "time": "0043710"
+    },
+    {
+      "tokens": [
+        "The SPS injector prevalves are two positive solenoid-operated valves, one for each pneumatic control system, and are identified as A and B.",
+        "The valve is energized open and spring-loaded closed.",
+        "The injector prevalves are controlled by the Delta-V Thrust Normal switches on MDC-1 (Main Display Console 1).",
+        "When switch A is placed to Normal, injector prevalve A is energized open.",
+        "If switch B is placed to Normal, injector prevalve B is energized open.",
+        "The injector prevalves, when energized open, allow GN2supply tank pressure to be directed through an orifice, into a regulator, relief valve, and to a pair of solenoid control valves.",
+        "The solenoid control valves are controlled by the SPS thrust On-Off commands.",
+        "The Off position of the Delta-V Thrust switches de-energizes the injector prevalves and springloads closed."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0043714"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "1 minute to the burn."
+      ],
+      "speaker": "Stafford",
+      "time": "0043811"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0043812"
+    },
+    {
+      "tokens": [
+        "30 seconds."
+      ],
+      "speaker": "Stafford",
+      "time": "0043844"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0043845"
+    },
+    {
+      "tokens": [
+        "20 seconds."
+      ],
+      "speaker": "Stafford",
+      "time": "0043852"
+    },
+    {
+      "tokens": [
+        "Burn."
+      ],
+      "speaker": "Stafford",
+      "time": "0043912"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0043914"
+    },
+    {
+      "tokens": [
+        "SPS shows 90 psi."
+      ],
+      "speaker": "Stafford",
+      "time": "0043915"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0043916"
+    },
+    {
+      "tokens": [
+        "Switches off."
+      ],
+      "speaker": "Stafford",
+      "time": "0043917"
+    },
+    {
+      "tokens": [
+        "Looks like a good burn to us."
+      ],
+      "speaker": "Duke",
+      "time": "0043920"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We have - You see the residuals, plus one, two-tenths, and five-tenths."
+      ],
+      "speaker": "Cernan",
+      "time": "0043944"
+    },
+    {
+      "tokens": [
+        "We copy."
+      ],
+      "speaker": "Duke",
+      "time": "0043949"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "That burn looked real good to us.",
+        "I think the SPS is Go."
+      ],
+      "speaker": "Duke",
+      "time": "0044035"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And we're leaving S-IVB way behind."
+      ],
+      "speaker": "Stafford",
+      "time": "0044040"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0044043"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 10.",
+        "All the postburn items are cleaned up."
+      ],
+      "speaker": "Stafford",
+      "time": "0044101"
+    },
+    {
+      "tokens": [
+        "Roger, Tom.",
+        "We copy.",
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0044107"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Could you give us a - before we pick up the PTC at 12 hours, could you give us an angle so we can look at the Earth out of one of the windows?"
+      ],
+      "speaker": "Stafford",
+      "time": "0044115"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're going to have an update on that Flight Plan maneuver for you.",
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0044122"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "We're about 95 percent sure that we're going to skip midcourse number 1.",
+        "Give us some time to look at the data, and we'll get back and confirm that with you definitely."
+      ],
+      "speaker": "Duke",
+      "time": "0044209"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0044223"
+    },
+    {
+      "tokens": [
+        "And, 10, Houston.",
+        "When you doff your suits, we'd like each one of you to read - give us a reading on your suit radiation dosimeters, please."
+      ],
+      "speaker": "Duke",
+      "time": "0044230"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "0044241"
+    },
+    {
+      "tokens": [
+        "Houston, this is 10.",
+        "You want to go ahead and start charging Batt A?"
+      ],
+      "speaker": "Cernan",
+      "time": "0044246"
+    },
+    {
+      "tokens": [
+        "A constant voltage, solid-state battery charger, located in the CM lower equipment bay, is incorporated into the EPS.",
+        "The Battery Charge selector switch [MDC-3] controls power input to the charger, as well as connecting the charger output to the selected battery.",
+        "When the Battery Charge selector switch is positioned to entry battery A, B, or C, a relay (Kl) is activated completing circuits from ac and dc power sources to the battery charger.",
+        "Battery charger output is also connected to the selected battery to be charged through contacts of the Main Bus Tie motor switch.",
+        "Positioning the Main Bus Tie switch (A/C or B/C) [panel 5] to Off for battery A or B, and both switches to Off for battery C will disconnect main bus loads from the respective batteries and also complete the circuit from the charger to the battery."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0044251"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Gene.",
+        "Go ahead.",
+        "You can start the Batt A charge."
+      ],
+      "speaker": "Duke",
+      "time": "0044258"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "0044302"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "When somebody is down in the LEB, we'd like a readout of the LM/CM Delta-P [panel 12]."
+      ],
+      "speaker": "Duke",
+      "time": "0044342"
+    },
+    {
+      "tokens": [
+        "The LM/CM Delta-P reading gave the pressure differential between the two modules, so that the crew could confirm the pressure of the LM tunnel prior to opening the CM forward hatch.",
+        "A reading of zero psid would indicate that the pressure was the same in the CM and the LM tunnel."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "John's able to get it for you."
+      ],
+      "speaker": "Stafford",
+      "time": "0044348"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0044351"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're reading eight-tenths right now."
+      ],
+      "speaker": "Young",
+      "time": "0044354"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "Eight-tenths."
+      ],
+      "speaker": "Duke",
+      "time": "0044358"
+    },
+    {
+      "tokens": [
+        "Make that 8500."
+      ],
+      "speaker": "Young",
+      "time": "0044401"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0044403"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "In about 3 minutes, we're going to have a short LOX dump on the Saturn."
+      ],
+      "speaker": "Duke",
+      "time": "0044441"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We can't see it.",
+        "It's just long gone from us."
+      ],
+      "speaker": "Stafford",
+      "time": "0044448"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0044451"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "This is 10."
+      ],
+      "speaker": "Young",
+      "time": "0044608"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0044609"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm reading 100.5 percent oxidizer and 101.2 percent fuel.",
+        "My unbalance went from on that short burn - from a minus 50 to a minus 200."
+      ],
+      "speaker": "Young",
+      "time": "0044611"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "Duke",
+      "time": "0044628"
+    },
+    {
+      "tokens": [
+        "10, we'll have that attitude for you for the righthand hatch window for the Earth in a couple of seconds."
+      ],
+      "speaker": "Duke",
+      "time": "0044707"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0044715"
+    },
+    {
+      "tokens": [
+        "10, this is Charlie."
+      ],
+      "speaker": "Duke",
+      "time": "0044716"
+    },
+    {
+      "tokens": [
+        "Is that okay, or do you want the hatch window?"
+      ],
+      "speaker": "Duke",
+      "time": "0044718"
+    },
+    {
+      "tokens": [
+        "Right hand's alright."
+      ],
+      "speaker": "Young",
+      "time": "0044720"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0044721"
+    },
+    {
+      "tokens": [
+        "With the right hand, we could use the mount, then."
+      ],
+      "speaker": "Stafford",
+      "time": "0044722"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0044725"
+    },
+    {
+      "tokens": [
+        "The last time I saw it, it started to look - The last time I saw it, it started to look like a medicine ball."
+      ],
+      "speaker": "Stafford",
+      "time": "0044732"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0044738"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "0044746"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "We have an update for your P23 attitudes and stars if you care to copy at this time."
+      ],
+      "speaker": "Duke",
+      "time": "0044810"
+    },
+    {
+      "tokens": [
+        "P23 (program 23) is used for midcourse navigation by taking star/Earth or star/Moon optical measurements, to enable onboard determination of the present state vector.",
+        "By combining the angle measured between the planet and the star at a particular point in time, the Apollo Guidance Computer (AGC) can calculate the current state vector, using P23."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead."
+      ],
+      "speaker": "Cernan",
+      "time": "0044824"
+    },
+    {
+      "tokens": [
+        "Roger, Gene.",
+        "At 5 hours, this attitude for the P23 as listed in the Flight Plan is incorrect.",
+        "We'd like you to have a roll of 180, pitch of 167, a yaw of zero."
+      ],
+      "speaker": "Duke",
+      "time": "0044825"
+    },
+    {
+      "tokens": [
+        "180, 167, 000 at 5 hours for P23."
+      ],
+      "speaker": "Cernan",
+      "time": "0044845"
+    },
+    {
+      "tokens": [
+        "That's affirmative, and we've got an update to your stars also on page 3-9 [of the Flight Plan] if you're ready to copy."
+      ],
+      "speaker": "Duke",
+      "time": "0044849"
+    },
+    {
+      "tokens": [
+        "Yes, go ahead."
+      ],
+      "speaker": "Cernan",
+      "time": "0044856"
+    },
+    {
+      "tokens": [
+        "You ready?"
+      ],
+      "speaker": "Duke",
+      "time": "0044900"
+    },
+    {
+      "tokens": [
+        "All set."
+      ],
+      "speaker": "Young",
+      "time": "0044902"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Roger.",
+        "Set 1 is now Nunki, number 37, and it's near side.",
+        "Set 2 is Peacock, number 42, I and it's near horizon.",
+        "Set 3 is also Peacock 42, near horizon.",
+        "And the last two sets, 4 and 5, are Antares, far horizon."
+      ],
+      "speaker": "Duke",
+      "time": "0044903"
+    },
+    {
+      "tokens": [
+        "Did you say Peacock set 3 was far horizon?"
+      ],
+      "speaker": "Young",
+      "time": "0044945"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "Near horizon for both sets 2 and 3 on Peacock."
+      ],
+      "speaker": "Duke",
+      "time": "0044950"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "0044954"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The reason for the update, we forgot we had Snoop [LM] out there."
+      ],
+      "speaker": "Duke",
+      "time": "0044956"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "0045003"
+    },
+    {
+      "tokens": [
+        "Hello, Charlie Brown.",
+        "This is Houston.",
+        "We've got that attitude for the Earth out the right-hand window.",
+        "It's a roll of 277, pitch 187, yaw 15."
+      ],
+      "speaker": "Duke",
+      "time": "0045306"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston."
+      ],
+      "speaker": "Duke",
+      "time": "0045443"
+    },
+    {
+      "tokens": [
+        "Hello, 10.",
+        "Houston.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0045509"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "Apollo 10 just passed the 20,000 mile mark.",
+        "Now, 20,007 miles from Earth; velocity is 13,508 feet per second, weight 94,096 and one-half pounds."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston.",
+        "Do you read me?"
+      ],
+      "speaker": "Duke",
+      "time": "0045628"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "In the blind.",
+        "If..."
+      ],
+      "speaker": "Duke",
+      "time": "0045641"
+    },
+    {
+      "tokens": [
+        "Hello, Charlie Brown.",
+        "Houston.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0045710"
+    },
+    {
+      "tokens": [
+        "Hello, Charlie Brown.",
+        "Houston.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0045719"
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0045849"
+    },
+    {
+      "tokens": [
+        "Hello, Charlie Brown.",
+        "This is Houston.",
+        "Do you read?",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0045923"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "We are receiving data from Apollo 10."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Charlie Brown.",
+        "This is Houston.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0045943"
+    },
+    {
+      "tokens": [
+        "Having some difficulty with the voice communications.",
+        "The communication officer says it looks like Apollo 10 may be trying to lock on with the High Gain Antenna now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "This is Apollo 10."
+      ],
+      "speaker": "Stafford",
+      "time": "0050000"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead, Tom.",
+        "We are reading you now."
+      ],
+      "speaker": "Duke",
+      "time": "0050002"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "We are reading you intermittent."
+      ],
+      "speaker": "Duke",
+      "time": "0050016"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "Houston, how you read?"
+      ],
+      "speaker": "Cernan",
+      "time": "0050058"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Five - five, Gene.",
+        "How me?"
+      ],
+      "speaker": "Duke",
+      "time": "0050102"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 10.",
+        "How do you read?"
+      ],
+      "speaker": "Stafford",
+      "time": "0050107"
+    },
+    {
+      "tokens": [
+        "Reading you five-by.",
+        "How me?"
+      ],
+      "speaker": "Duke",
+      "time": "0050110"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Apollo 10, this is Houston.",
+        "How do you read?",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0050115"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "Do you read?"
+      ],
+      "speaker": "Duke",
+      "time": "0050317"
+    },
+    {
+      "tokens": [
+        "Hello, Houston, Houston.",
+        "This is 10.",
+        "How do you read?"
+      ],
+      "speaker": "Cernan",
+      "time": "0050326"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Reading you five-by, Gene-o.",
+        "How me?"
+      ],
+      "speaker": "Duke",
+      "time": "0050328"
+    },
+    {
+      "tokens": [
+        "Reading you all right now.",
+        "I've been having a lot of trouble with the omnis, and the High Gain borrows.",
+        "We get about three-fourths signal strength, and the noise gets so bad, and apparently you're not hearing us."
+      ],
+      "speaker": "Cernan",
+      "time": "0050331"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "We've been hearing the same thing.",
+        "We think you're going from omni to omni a little bit too fast and not giving us a chance to get locked up real good.",
+        "Are you with - I guess we're on the omnis now, and we're hearing you five-by."
+      ],
+      "speaker": "Duke",
+      "time": "0050341"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm on omni C right now.",
+        "We've got the Earth here, and we'd like to be able to go high gain and show it to you, if you can figure it."
+      ],
+      "speaker": "Cernan",
+      "time": "0050357"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0050406"
+    },
+    {
+      "tokens": [
+        "We've configured network's ready to go.",
+        "You can go High Gain."
+      ],
+      "speaker": "Duke",
+      "time": "0050414"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0050416"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control; 5 hours, 4 minutes.",
+        "Apollo 10 is going to try to bring up another live color TV show, showing the Earth.",
+        "We'll stand by for this transmission.",
+        "Apollo 10's distance from the Earth now 21,119 nautical miles.",
+        "Velocity; 13,170 feet per second."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Charlie, if you see this, it's going to be out of this world, literally."
+      ],
+      "speaker": "Cernan",
+      "time": "0050527"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Standing by, Gene"
+      ],
+      "speaker": "Duke",
+      "time": "0050530"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We can see exactly all of..."
+      ],
+      "speaker": "Stafford",
+      "time": "0050532"
+    },
+    {
+      "tokens": [
+        "You're cutting out, Tom."
+      ],
+      "speaker": "Duke",
+      "time": "0050539"
+    },
+    {
+      "tokens": [
+        "Are you getting any signal now?"
+      ],
+      "speaker": "Stafford",
+      "time": "0050542"
+    },
+    {
+      "tokens": [
+        "I'm looking right at the good old U.S.",
+        "of A.",
+        "there."
+      ],
+      "speaker": "Stafford",
+      "time": "0050551"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0050554"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "We're looking for the TV.",
+        "How does the High Gain signal strength look to you?"
+      ],
+      "speaker": "Duke",
+      "time": "0050604"
+    },
+    {
+      "tokens": [
+        "It's loud and clear."
+      ],
+      "speaker": "Young",
+      "time": "0050611"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0050613"
+    },
+    {
+      "tokens": [
+        "Still nothing, Charlie?"
+      ],
+      "speaker": "Cernan",
+      "time": "0050633"
+    },
+    {
+      "tokens": [
+        "Picture coming up shortly."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We got you on the black and white.",
+        "Stand by about 12 seconds.",
+        "It looks great on the black and white."
+      ],
+      "speaker": "Duke",
+      "time": "0050635"
+    },
+    {
+      "tokens": [
+        "I figure right there you should be able to see the United States, Mexico, Baja California -"
+      ],
+      "speaker": "Stafford",
+      "time": "0050654"
+    },
+    {
+      "tokens": [
+        "Hey, it's really beautiful, Tom.",
+        "It's coming in great."
+      ],
+      "speaker": "Duke",
+      "time": "0050657"
+    },
+    {
+      "tokens": [
+        "You ought to see it up here, Charlie."
+      ],
+      "speaker": "Stafford",
+      "time": "0050701"
+    },
+    {
+      "tokens": [
+        "We've got the whole globe there."
+      ],
+      "speaker": "Young",
+      "time": "0050703"
+    },
+    {
+      "tokens": [
+        "Yes, you're looking right at the United States there."
+      ],
+      "speaker": "Stafford",
+      "time": "0050705"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0050707"
+    },
+    {
+      "tokens": [
+        "See the Rocky Mountains sticking out?",
+        "Baja California?",
+        "Can't tell whether you have any smog in LA or not, but Alaska is pretty much socked in."
+      ],
+      "speaker": "Stafford",
+      "time": "0050708"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0050720"
+    },
+    {
+      "tokens": [
+        "It's really a beautiful picture."
+      ],
+      "speaker": "Duke",
+      "time": "0050725"
+    },
+    {
+      "tokens": [
+        "We'll just let it go here for a couple of minutes."
+      ],
+      "speaker": "Stafford",
+      "time": "0050732"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thanks.",
+        "Hey, Gene-o, on your monitor, which way is the North Pole to you?",
+        "We've got it up at the northeast corner?"
+      ],
+      "speaker": "Duke",
+      "time": "0050734"
+    },
+    {
+      "tokens": [
+        "That's right, Charlie.",
+        "The northeast corner is the North Pole."
+      ],
+      "speaker": "Stafford",
+      "time": "0050746"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0050750"
+    },
+    {
+      "tokens": [
+        "You can see cloud - covers the northern part of Alaska, and it comes down and cloudcovers over the northeastern part of Canada, and I can see out into the New England area.",
+        "We've got a low pressure area out there."
+      ],
+      "speaker": "Stafford",
+      "time": "0050751"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0050801"
+    },
+    {
+      "tokens": [
+        "The color is fantastic.",
+        "It really is."
+      ],
+      "speaker": "Duke",
+      "time": "0050807"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And it looks like the Rocky Mountains are orange colored to me.",
+        "The rest of U.S., Baja California, that really stands out as all brownish, and the oceans are blue; but there are so many clouds out to the northeast of the United States, you can't believe it.",
+        "Covers the Far East over to Europe as far as you can see."
+      ],
+      "speaker": "Stafford",
+      "time": "0050810"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We see all that.",
+        "We've got a brownish spot that's pretty hard to pick out just exactly what we're looking at, but we do see the brown and the clouds out over the ocean about the center of the globe."
+      ],
+      "speaker": "Duke",
+      "time": "0050826"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Okay.",
+        "The brown spot is the Rocky Mountains.",
+        "It runs down around into New Mexico, up into Colorado."
+      ],
+      "speaker": "Stafford",
+      "time": "0050837"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0050849"
+    },
+    {
+      "tokens": [
+        "This resolution is fantastic.",
+        "The LM, you can count the rivets on it, and yet the Earth and the colors are really beautiful."
+      ],
+      "speaker": "Duke",
+      "time": "0050854"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, I can zoom in a bit on a certain part of the Earth here; I'll try to zoom in on the Rocky Mountains and California."
+      ],
+      "speaker": "Stafford",
+      "time": "0050902"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Standing by, Tom."
+      ],
+      "speaker": "Duke",
+      "time": "0050907"
+    },
+    {
+      "tokens": [
+        "How's that, Charlie?",
+        "Better?"
+      ],
+      "speaker": "Stafford",
+      "time": "0050920"
+    },
+    {
+      "tokens": [
+        "We're looking at it on the black and white.",
+        "It looks great.",
+        "Stand by.",
+        "Here he comes in on the color now."
+      ],
+      "speaker": "Duke",
+      "time": "0050922"
+    },
+    {
+      "tokens": [
+        "Hey, boy!",
+        "That is really fantastic.",
+        "We can pick out Baja and the smog over LA and we see Mexico and we go off to the east, in our picture, and come into the Rockies area.",
+        "The Baja California and the Gulf, they really stand out beautiful."
+      ],
+      "speaker": "Duke",
+      "time": "0050929"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll move it around."
+      ],
+      "speaker": "Stafford",
+      "time": "0050946"
+    },
+    {
+      "tokens": [
+        "Looks like we've got some cloud down over New Orleans and down in that way."
+      ],
+      "speaker": "Duke",
+      "time": "0050949"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Okay.",
+        "Charlie.",
+        "That's full zoom."
+      ],
+      "speaker": "Stafford",
+      "time": "0050955"
+    },
+    {
+      "tokens": [
+        "Okay, this has got to be the greatest sight ever."
+      ],
+      "speaker": "Duke",
+      "time": "0051005"
+    },
+    {
+      "tokens": [
+        "You ought to see it up here."
+      ],
+      "speaker": "Stafford",
+      "time": "0051008"
+    },
+    {
+      "tokens": [
+        "Hey, Tom.",
+        "Boy, it is really fantastic.",
+        "Could you get Baja in a little bit?",
+        "We're showing this deal to the Pacific now."
+      ],
+      "speaker": "Duke",
+      "time": "0051011"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We've got the Baja now on the right-hand side of our screen, and it's right in the center now, and we can see Mexico and the clouds up over the Rockies.",
+        "It's really a fantastic sight, almost see the freeways in LA."
+      ],
+      "speaker": "Duke",
+      "time": "0051027"
+    },
+    {
+      "tokens": [
+        "Right.",
+        "Okay, I'm going to move down.",
+        "You can take a look down by the Gulf of Mexico now."
+      ],
+      "speaker": "Stafford",
+      "time": "0051048"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0051053"
+    },
+    {
+      "tokens": [
+        "Charlie, this is - It's so hard to describe.",
+        "You can go right up past Alaska, and you can see the polar caps.",
+        "It's incredible."
+      ],
+      "speaker": "Cernan",
+      "time": "0051057"
+    },
+    {
+      "tokens": [
+        "We see it all here, Gene.",
+        "The colors are really beautiful."
+      ],
+      "speaker": "Duke",
+      "time": "0051108"
+    },
+    {
+      "tokens": [
+        "That's great.",
+        "And the blackest black that you ever could conceive is the setting for all this."
+      ],
+      "speaker": "Cernan",
+      "time": "0051112"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0051119"
+    },
+    {
+      "tokens": [
+        "Looks like the people of New York have a little bit of cloud cover today.",
+        "It goes all the way down, in fact, down back by the Cape."
+      ],
+      "speaker": "Stafford",
+      "time": "0051122"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0051129"
+    },
+    {
+      "tokens": [
+        "You guys are really giving us a great show.",
+        "This is fantastic."
+      ],
+      "speaker": "Duke",
+      "time": "0051136"
+    },
+    {
+      "tokens": [
+        "We just want to thank all the peop1e who helped get us up here, Charlie."
+      ],
+      "speaker": "Stafford",
+      "time": "0051140"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I know."
+      ],
+      "speaker": "Duke",
+      "time": "0051143"
+    },
+    {
+      "tokens": [
+        "That includes the taxpayers, too."
+      ],
+      "speaker": "Stafford",
+      "time": "0051149"
+    },
+    {
+      "tokens": [
+        "[Laughter.] Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0051150"
+    },
+    {
+      "tokens": [
+        "Charlie, you know, you blink your eyes and you look out there and you know it's three dimensional, but it is just sitting out there in the middle of nowhere and it's unbelievable."
+      ],
+      "speaker": "Cernan",
+      "time": "0051153"
+    },
+    {
+      "tokens": [
+        "We copy, Gene.",
+        "We are getting a real idea now, for the first time, of what you are really seeing up there.",
+        "The colors on the oceans are just as blue as they can be and real white clouds all over, and the land is a real deep brown, Almost a reddish brown."
+      ],
+      "speaker": "Duke",
+      "time": "0051207"
+    },
+    {
+      "tokens": [
+        "And the North Pole, the Arctic area, is just solidly, whitely, snow-covered."
+      ],
+      "speaker": "Cernan",
+      "time": "0051226"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0051231"
+    },
+    {
+      "tokens": [
+        "It's a brown around in the Rocky Mountains and orange down into New Mexico and becomes a little more of a purplish orange..."
+      ],
+      "speaker": "Stafford",
+      "time": "0051233"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We see all - I cut you off there, Tom.",
+        "We see all that, and it is looking good."
+      ],
+      "speaker": "Duke",
+      "time": "0051240"
+    },
+    {
+      "tokens": [
+        "You can actually pick out what I think is the San Joaquin Valley down there, just on the west side of the hills."
+      ],
+      "speaker": "Cernan",
+      "time": "0051247"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0051254"
+    },
+    {
+      "tokens": [
+        "Okay, I am going to open the zoom and bring it back in the other way."
+      ],
+      "speaker": "Stafford",
+      "time": "0051300"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "Would you check your TV servo power.",
+        "We show it On."
+      ],
+      "speaker": "Duke",
+      "time": "0051304"
+    },
+    {
+      "tokens": [
+        "Sorry.",
+        "I must have knocked it on there when I was wrestling around here."
+      ],
+      "speaker": "Stafford",
+      "time": "0051318"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0051321"
+    },
+    {
+      "tokens": [
+        "Boy, we are looking at a black background now."
+      ],
+      "speaker": "Duke",
+      "time": "0051328"
+    },
+    {
+      "tokens": [
+        "There, you have the whole Earth."
+      ],
+      "speaker": "Stafford",
+      "time": "0051346"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We - It is really beautiful.",
+        "Tom, we can even pick up the little tip of the northern part of South America down below Baja."
+      ],
+      "speaker": "Duke",
+      "time": "0051349"
+    },
+    {
+      "tokens": [
+        "Yes, it's coming in now."
+      ],
+      "speaker": "Cernan",
+      "time": "0051400"
+    },
+    {
+      "tokens": [
+        "It's really blue, you guys."
+      ],
+      "speaker": "Duke",
+      "time": "0051404"
+    },
+    {
+      "tokens": [
+        "That's for sure."
+      ],
+      "speaker": "Stafford",
+      "time": "0051407"
+    },
+    {
+      "tokens": [
+        "We are looking right at you.",
+        "Looks like you may have a few clouds there right now in Houston."
+      ],
+      "speaker": "Cernan",
+      "time": "0051409"
+    },
+    {
+      "tokens": [
+        "It's sort of a constant overcast here in the MOCR but we have never been..."
+      ],
+      "speaker": "Duke",
+      "time": "0051413"
+    },
+    {
+      "tokens": [
+        "You are right on the edge of what might be some clouds, but certainly to the northeast of that area, it's clobbered."
+      ],
+      "speaker": "Cernan",
+      "time": "0051423"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0051429"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "John is going ahead through P52 [IMU realignment] here."
+      ],
+      "speaker": "Stafford",
+      "time": "0051433"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0051436"
+    },
+    {
+      "tokens": [
+        "I think I can see all the way up into the Newfoundland area now, up along the eastern coast that is not covered."
+      ],
+      "speaker": "Cernan",
+      "time": "0051437"
+    },
+    {
+      "tokens": [
+        "Right, Gene-o.",
+        "It looks to us that it is just completely clouded up over that way."
+      ],
+      "speaker": "Duke",
+      "time": "0051445"
+    },
+    {
+      "tokens": [
+        "You might say we have moved out in the last couple of hours."
+      ],
+      "speaker": "Stafford",
+      "time": "0051458"
+    },
+    {
+      "tokens": [
+        "Boy, I'll say.",
+        "We got you at about 26,000 miles here - or a little bit more."
+      ],
+      "speaker": "Duke",
+      "time": "0051500"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I am going to put the zoom on 55, which will give you the exact resolution we have."
+      ],
+      "speaker": "Stafford",
+      "time": "0051512"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0051516"
+    },
+    {
+      "tokens": [
+        "And, just for the record, it looks to me like a pretty nice place to live."
+      ],
+      "speaker": "Cernan",
+      "time": "0051518"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And we see you at P52."
+      ],
+      "speaker": "Duke",
+      "time": "0051522"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "55 on the zoom, and that is about exactly the same thing we are seeing now."
+      ],
+      "speaker": "Stafford",
+      "time": "0051528"
+    },
+    {
+      "tokens": [
+        "Well, that is really fantastic."
+      ],
+      "speaker": "Duke",
+      "time": "0051533"
+    },
+    {
+      "tokens": [
+        "10, can you see the Hawaiian Islands?"
+      ],
+      "speaker": "Duke",
+      "time": "0051546"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "Too much cloud coverage."
+      ],
+      "speaker": "Stafford",
+      "time": "0051554"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0051556"
+    },
+    {
+      "tokens": [
+        "10.",
+        "Houston, this is 10.",
+        "Those Gyro torquing angles look okay to you?"
+      ],
+      "speaker": "Young",
+      "time": "0051602"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0051606"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "They look okay to us, John."
+      ],
+      "speaker": "Duke",
+      "time": "0051611"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You can't verify these stars with this LM on right now."
+      ],
+      "speaker": "Young",
+      "time": "0051615"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Are these your P23 stars?"
+      ],
+      "speaker": "Duke",
+      "time": "0051621"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "These are P52 stars."
+      ],
+      "speaker": "Young",
+      "time": "0051629"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0051632"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "How do the stars look in this attitude?"
+      ],
+      "speaker": "Duke",
+      "time": "0051642"
+    },
+    {
+      "tokens": [
+        "Houston, in the telescope, I have difficulty telling the stars from the particles, right now."
+      ],
+      "speaker": "Young",
+      "time": "0051654"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0051703"
+    },
+    {
+      "tokens": [
+        "There are some that look like stars but I have not been able to stop long enough to really see if they are or not."
+      ],
+      "speaker": "Young",
+      "time": "0051705"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Through the sextant they are okay?"
+      ],
+      "speaker": "Duke",
+      "time": "0051711"
+    },
+    {
+      "tokens": [
+        "Affirmative."
+      ],
+      "speaker": "Young",
+      "time": "0051715"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0051716"
+    },
+    {
+      "tokens": [
+        "The Earth is just starting now to take on - a little bit of the terminator is coming across and we are losing the roundness on the bottom side."
+      ],
+      "speaker": "Cernan",
+      "time": "0051722"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0051733"
+    },
+    {
+      "tokens": [
+        "I should say on the eastern side."
+      ],
+      "speaker": "Cernan",
+      "time": "0051734"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We are seeing that now - coming in."
+      ],
+      "speaker": "Duke",
+      "time": "0051736"
+    },
+    {
+      "tokens": [
+        "I hope the colors are as good down there as they are up here."
+      ],
+      "speaker": "Cernan",
+      "time": "0051740"
+    },
+    {
+      "tokens": [
+        "Absolutely fantastic.",
+        "That is the only way I can describe it.",
+        "It's really beautiful."
+      ],
+      "speaker": "Duke",
+      "time": "0051743"
+    },
+    {
+      "tokens": [
+        "Houston, I have a question.",
+        "Does that picture fill up your whole screen now?",
+        "I want to correlate it with the monitor."
+      ],
+      "speaker": "Stafford",
+      "time": "0051751"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "We got about - quite a ways to go before we fill up our screen, Tom.",
+        "It looks about the size of a basketball, sort of.",
+        "It's pretty hard, you are zooming in now and we are just about to fill up the whole picture."
+      ],
+      "speaker": "Duke",
+      "time": "0051757"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The monitor has a little different aspect ratio than the standard view."
+      ],
+      "speaker": "Stafford",
+      "time": "0051820"
+    },
+    {
+      "tokens": [
+        "Right."
+      ],
+      "speaker": "Duke",
+      "time": "0051824"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0051829"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "We are ready for the P27 [AGC update] update, if you can give us P00 and Accept."
+      ],
+      "speaker": "Duke",
+      "time": "0051840"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We want to get busy here.",
+        "We are going to kill the TV for a while."
+      ],
+      "speaker": "Stafford",
+      "time": "0051847"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thanks a lot for a good show, 10.",
+        "It was beautiful.",
+        "Right about now, from top to bottom, we have the whole Earth, and we still have some on the side."
+      ],
+      "speaker": "Duke",
+      "time": "0051850"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It looks beautiful from here."
+      ],
+      "speaker": "Stafford",
+      "time": "0051859"
+    },
+    {
+      "tokens": [
+        "We'll go off the air now, Charlie, for a while.",
+        "But, doggone, I'm glad that came through to you.",
+        "It's just phenomenal."
+      ],
+      "speaker": "Cernan",
+      "time": "0051928"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy.",
+        "Thanks a lot again for the show."
+      ],
+      "speaker": "Duke",
+      "time": "0051935"
+    },
+    {
+      "tokens": [
+        "The distance is 22,781 miles."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Guess we know somebody that's crying in his beer."
+      ],
+      "speaker": "Stafford",
+      "time": "0051940"
+    },
+    {
+      "tokens": [
+        "Yes - No, I think he is happy, too."
+      ],
+      "speaker": "Cernan",
+      "time": "0051943"
+    },
+    {
+      "tokens": [
+        "I am kidding,"
+      ],
+      "speaker": "Duke",
+      "time": "0051944"
+    },
+    {
+      "tokens": [
+        "Hello.",
+        "Apollo 10, Houston.",
+        "We'd like for you to put the S-band squelch switch Off [panel 180 LEB] and when you're changing omnis, to pause 30 seconds in each position so we can get a good lockup."
+      ],
+      "speaker": "Duke",
+      "time": "0052026"
+    },
+    {
+      "tokens": [
+        "The S-band Squelch circuit removes unwanted noise from the S-band up-link signal.",
+        "This switch and circuit was only fitted on CM-106 (Apollo 10) & CM-107 (Apollo 11)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "S-band squelch is Off."
+      ],
+      "speaker": "Cernan",
+      "time": "0052043"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0052045"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 5 hours, 21 minutes.",
+        "Tom Stafford has indicated they are going to close up shop for a little while as far as communications are concerned.",
+        "Apollo 10 is 23,059 miles away from the Earth.",
+        "its velocity 12,646 feet per second.",
+        "We'll come back up if there is any more air to ground.",
+        "This is Mission Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, this is 10.",
+        "How are you reading our omni?"
+      ],
+      "speaker": "Cernan",
+      "time": "0052233"
+    },
+    {
+      "tokens": [
+        "10, this is Houston, And we're reading you loud and clear.",
+        "We had a little noise there a minute or so ago.",
+        "It sounded like the S-band was getting weak."
+      ],
+      "speaker": "Duke",
+      "time": "0052236"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're in now and I believe we're on the omni D right now."
+      ],
+      "speaker": "Cernan",
+      "time": "0052249"
+    },
+    {
+      "tokens": [
+        "Roger, omni Delta."
+      ],
+      "speaker": "Duke",
+      "time": "0052254"
+    },
+    {
+      "tokens": [
+        "Apollo 10, this is Houston, Over."
+      ],
+      "speaker": "Duke",
+      "time": "0052406"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston.",
+        "Apollo 10."
+      ],
+      "speaker": "Stafford",
+      "time": "0052409"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're through with the uplink.",
+        "You can have the computer back and Up Telemetry to Block and on your primary evaporator we'd like you to secure the H2O flow.",
+        "That is H2O flow to Off.",
+        "We recommend not attempting to service the system until after LOI.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0052411"
+    },
+    {
+      "tokens": [
+        "CapCom Duke is referring back to the problem encountered during launch with the primary evaporator drying out.",
+        "The evaporator system will be reserviced with water just prior to LOI."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Cernan",
+      "time": "0052430"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "This is Apollo 10."
+      ],
+      "speaker": "Cernan",
+      "time": "0053130"
+    },
+    {
+      "tokens": [
+        "Apollo 10, this is Houston.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0053134"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Just for information, I don't know how far away, it's far away, but we can tell that there is still a SLA panel out there just spinning around slowly and reflecting sunlight."
+      ],
+      "speaker": "Cernan",
+      "time": "0053136"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Do you have any more information on apparent size, range, or anything like this on it?"
+      ],
+      "speaker": "Duke",
+      "time": "0053150"
+    },
+    {
+      "tokens": [
+        "No, it's the size of Venus but it's obviously a SLA panel because you can see it rotating slowly in reflected light."
+      ],
+      "speaker": "Cernan",
+      "time": "0053155"
+    },
+    {
+      "tokens": [
+        "This is Houston.",
+        "Roger.",
+        "Out."
+      ],
+      "speaker": "Duke",
+      "time": "0053205"
+    }
+  ],
+  "source_file": "day1_part5_lm_extraction_and_s-ivb_sep.html"
+}

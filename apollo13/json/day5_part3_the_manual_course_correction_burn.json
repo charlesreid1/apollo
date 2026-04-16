@@ -1,0 +1,2542 @@
+{
+  "description": "Apollo 13 Flight Journal - Day 5, part 3: The Manual Course Correction Burn",
+  "transcript": [
+    {
+      "tokens": [
+        "The increasingly uncomfortable crew of Apollo 13 has accomplished another important task on their unexpectedly early return home.",
+        "By temporarily powering up parts of the Command Module, they have discovered that the systems needed for making their Earth landing are still in working order.",
+        "With a plan to charge the CM batteries, they hope that everything will function properly once they reach the moment of reentry.",
+        "Before that, however they will have to adjust their trajectory at least once more, without the use of the guidance computer in the powered-down Lunar Module Aquarius, and the time for that course correction burn is approaching."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Houston, how do you read Aquarius?"
+      ],
+      "speaker": "Haise",
+      "time": "1034251"
+    },
+    {
+      "tokens": [
+        "Read you loud and clear, Fred.",
+        "How do you read?"
+      ],
+      "speaker": "Brand",
+      "time": "1034354"
+    },
+    {
+      "tokens": [
+        "Okay [Garble]."
+      ],
+      "speaker": "Haise",
+      "time": "1034259"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We were just about to send you up some items of information pertaining to the burn.",
+        "Are you ready to copy?"
+      ],
+      "speaker": "Brand",
+      "time": "1034301"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Haise",
+      "time": "1034313"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "1034315"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead, Vance."
+      ],
+      "speaker": "Haise",
+      "time": "1034340"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "First of all, preparations for this, starting with contingency checklist, page 24, we would recommend should start at 104:30 GET, and we'll be happy to receive any comments you have on that, though.",
+        "Second point: when you're in the burn attitude, you should see the Sun at the very top of the AOT.",
+        "It'll be splitting the cursor, when your cursor's set at zero.",
+        "One thing to be aware of though, that it'll slip right out of the AOT very easily since it'll be very sensitive to roll and yaw.",
+        "Understand that's in detent 2, by the way.",
+        "Next point: the burn is very insensitive to burn time and attitude.",
+        "In other words, if necessary, we can slip it if there's any problem at all, and attitude isn't too critical.",
+        "So that brings us to the point that we only have one real burn rule; that is, if ...",
+        "rate about any axis gets to 10 degrees a second, that's the limit to stop the burn.",
+        "Next point, after you finish the burn, and before you trim, request that you leave DEDA in address 470 up a while so we can take a look at it, and let us holler when we've seen it, and then proceed on.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "1034343"
+    },
+    {
+      "tokens": [
+        "Although Earth viewed through the COAS will be the main visual reference, the crew is passed information on the AOT's use for this purpose as well.",
+        "While most normal burn procedures can have dozens of rules on when to abort, this time they are only given one - fast erratic motions on any of the three axes are their cue to stop."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Vance.",
+        "You're saying we should start into the Prep in the contingency book at about 104:30, and I'll talk this over in a minute with Jim and we'll get back with you on it.",
+        "When in the burn attitude, we should see the Sun right at the top of the AOT, and I assume this is detent number 2.",
+        "Jim and I'd already been talking about that, and just eyeballing the terminator in the Earth, we figured the Sun at about something like a 70-degree angle ...",
+        "65-degree angle, so that'll be right up there.",
+        "We get one burn rule that says if the rates are greater than 10 degrees per second, shut her down.",
+        "And, after we trim, you want me to leave 470 up for a while so you all can have a look at it, and you'll tell me when to get rid of it."
+      ],
+      "speaker": "Haise",
+      "time": "1034554"
+    },
+    {
+      "tokens": [
+        "That's right, Fred.",
+        "And, if you have any questions at all regarding the alignment, why please let us know.",
+        "We'll be happy to answer them, like aligning on the Earth, as was described before.",
+        "Also, you should know that the pitch is the most critical attitude so far as errors are concerned in this burn; but, as I said, it's still not very sensitive.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "1034652"
+    },
+    {
+      "tokens": [
+        "Yes, the ...",
+        "and unfortunately, the way we're looking out the window through the COAS, we can align the yaw and roll pretty well, but it's the ...",
+        "Sun that has to get us pitch."
+      ],
+      "speaker": "Haise",
+      "time": "1034730"
+    },
+    {
+      "tokens": [
+        "Right.",
+        "And ...",
+        "and a correction on this DEDA 470 thing.",
+        "Request that we let you ...",
+        "Give you a Go before you trim.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "1034743"
+    },
+    {
+      "tokens": [
+        "Say ...",
+        "Say again, Vance, on that last."
+      ],
+      "speaker": "Haise",
+      "time": "1034757"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We would like to see address 470, and give you a Go before you trim.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "1034800"
+    },
+    {
+      "tokens": [
+        "'Trim' is adjusting the burn with the help of the RCS jets."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Oh, okay.",
+        "I ...",
+        "I see.",
+        "Okay.",
+        "After burn, we'll leave 470 up a while and wait for your word to do the trim."
+      ],
+      "speaker": "Haise",
+      "time": "1034810"
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "How was the sleep?"
+      ],
+      "speaker": "Brand",
+      "time": "1034818"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And ...",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1034959"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Vance, are you there?"
+      ],
+      "speaker": "Haise",
+      "time": "1035015"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead."
+      ],
+      "speaker": "Brand",
+      "time": "1035017"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The picture that Jim gave me on his view through the COAS was within the ...",
+        "the partial Earth, the lit portion laying in the top half of the COAS with the cusp laying right on the Y-Y line.",
+        "And so the ...",
+        "The whole dark part of the Earth would be at the bottom part of the Earth, except a very thin crescent of the dark part to a line ...",
+        "line above the Y-Y line."
+      ],
+      "speaker": "Haise",
+      "time": "1035021"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That is correct."
+      ],
+      "speaker": "Brand",
+      "time": "1035059"
+    },
+    {
+      "tokens": [
+        "And that in essence ...",
+        "that in ...",
+        "Yes, that in essence would put our X-axis pointing toward the Sun."
+      ],
+      "speaker": "Haise",
+      "time": "1035100"
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "The plus X-axis pointing toward the Sun and perpendicular to the terminator of the Earth.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "1035107"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "1035118"
+    },
+    {
+      "tokens": [
+        "Two other points, Fred.",
+        "One is that we don't expect hardly any misalignment of your engine for the burn, so we don't really expect any rates throughout the length of the burn, especially since it's at very low thrust.",
+        "Second point, request you verify that your suit temperature rheostat's in Full Cold.",
+        "That ...",
+        "if it ...",
+        "If it were in Full Cold, that might help your cabin temperature situation.",
+        "It might bring the temperature up."
+      ],
+      "speaker": "Brand",
+      "time": "1035120"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1035202"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The latter was a good point.",
+        "We had it in Full Hot."
+      ],
+      "speaker": "Haise",
+      "time": "1035219"
+    },
+    {
+      "tokens": [
+        "Very good."
+      ],
+      "speaker": "Brand",
+      "time": "1035224"
+    },
+    {
+      "tokens": [
+        "TELMU (Lunar Module Electrical, Environmental and EMU Officer) has figured a seemingly unintuitive way to try to warm up the cabin a little.",
+        "The Suit Temp rheostat controls the temperature of the oxygen in the suit circuit by managing the flow of the coolant glycol into the regenerative heat exchanger.",
+        "The coolant is warm when it enters the heat exchanger, hence able to warm up the gas flow.",
+        "At the Cold setting, the flow of coolant is decreased, bringing in less heat, while at Hot, the high flow rate brings more heat.",
+        "However, with the spacecraft powered down, the glycol is very cold as a result of the low overall thermal load, and hence the glycol that is meant to warm the air flow is actually making it colder.",
+        "By using the Cold setting, they reduce the glycol flow which should also reduce the unfortunate cooling of their oxygen flow."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And Roger on the ...",
+        "Roger on the rates, too."
+      ],
+      "speaker": "Haise",
+      "time": "1035225"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "1035230"
+    },
+    {
+      "tokens": [
+        "Okay, Vance.",
+        "Is the TIGtime going to be approximately ...",
+        "Is it 105 or 105:30?"
+      ],
+      "speaker": "Haise",
+      "time": "1035318"
+    },
+    {
+      "tokens": [
+        "It's 105:30."
+      ],
+      "speaker": "Brand",
+      "time": "1035326"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Your 104:30 time to start in is ...",
+        "sounds pretty good.",
+        "That'll give us lots of time to get set up with the attitude business, in case we have any trouble stopping PTC and getting there and ...",
+        "That will give us a little time to be sitting and waiting, all set up."
+      ],
+      "speaker": "Haise",
+      "time": "1035331"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "Good."
+      ],
+      "speaker": "Brand",
+      "time": "1035349"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "1035853"
+    },
+    {
+      "tokens": [
+        "Are you calling, Vance?"
+      ],
+      "speaker": "Haise",
+      "time": "1035900"
+    },
+    {
+      "tokens": [
+        "Right, Fred.",
+        "We just noticed a 2-pound drop in your water quantity.",
+        "Have you guys had a drink recently or do you know any reason why it might have dropped?",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "1035902"
+    },
+    {
+      "tokens": [
+        "A sudden disappearance of nearly a litre of water from the LM tank has made Mission Control suspicious that the crew has been drinking out of the LM, which they've been told not to do."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Negative."
+      ],
+      "speaker": "Haise",
+      "time": "1035916"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Brand",
+      "time": "1035921"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "1040028"
+    },
+    {
+      "tokens": [
+        "Hi.",
+        "Go ahead, Vance."
+      ],
+      "speaker": "Haise",
+      "time": "1040033"
+    },
+    {
+      "tokens": [
+        "Fred, that may be a funny in the data.",
+        "The rate's gone back to normal; and we'll keep an eye on it, but we don't think you should worry about it too much."
+      ],
+      "speaker": "Brand",
+      "time": "1040035"
+    },
+    {
+      "tokens": [
+        "Let's hope not."
+      ],
+      "speaker": "Haise",
+      "time": "1040050"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 104 hours, 11 minutes.",
+        "Apollo 13 now 155,111 nautical miles from Earth.",
+        "Velocity is 4,399 feet per second.",
+        "We are an hour and 18 minutes away from the nominal midcourse burn time.",
+        "As you heard Vance Brand tell the crew, this burn is insensitive or relatively insensitive at least to time and, if for some reason the crew is busy and can't make it at that time, they could at their option slip this burn as much as 30 minutes.",
+        "However, at the present time we expect it will be done very close to the nominal time of 105 hours, 30 minutes.",
+        "Approximately 30 minutes later at 106 hours we still expect the burst disc on the supercritical helium tank of the LM descent stage to go and vent that helium tank overboard.",
+        "We'll continue to stay up live for air-ground conversation."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Distance to go, 287,265 km, velocity 1,341 m/s.",
+        "They've picked up 40 m/s of velocity in the last two hours from the increasing pull of Earth's gravity."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Houston, Aquarius."
+      ],
+      "speaker": "Haise",
+      "time": "1041906"
+    },
+    {
+      "tokens": [
+        "Go ahead, Aquarius."
+      ],
+      "speaker": "Brand",
+      "time": "1041907"
+    },
+    {
+      "tokens": [
+        "Are we going to get any sort of a PAD on this?"
+      ],
+      "speaker": "Haise",
+      "time": "1041912"
+    },
+    {
+      "tokens": [
+        "That's affirm, Fred.",
+        "Estimating we'll have it to you in about 15 minutes."
+      ],
+      "speaker": "Brand",
+      "time": "1041920"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1041928"
+    },
+    {
+      "tokens": [
+        "And, Houston, you might just let us know if there's any chance it's going to slip further down the road, because we're going to kind of hold to that 104:30 start time.",
+        "And if you're going to delay any, we'll delay accordingly."
+      ],
+      "speaker": "Haise",
+      "time": "1041947"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We won't have any trouble making that, Fred, I'm told."
+      ],
+      "speaker": "Brand",
+      "time": "1042003"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "1042012"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston; Aquarius."
+      ],
+      "speaker": "Lovell",
+      "time": "1043101"
+    },
+    {
+      "tokens": [
+        "Go ahead, Aquarius."
+      ],
+      "speaker": "Brand",
+      "time": "1043108"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We have about 104 degrees now.",
+        "How does that [Garble]?"
+      ],
+      "speaker": "Lovell",
+      "time": "1043112"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "FIDO's hustling here.",
+        "We'll try to get it right up to you.",
+        "Stand by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "1043123"
+    },
+    {
+      "tokens": [
+        "[Garble]"
+      ],
+      "speaker": "Lovell",
+      "time": "1043210"
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "1043213"
+    },
+    {
+      "tokens": [
+        "We have [Garble] [Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "1043218"
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "1043237"
+    },
+    {
+      "tokens": [
+        "Vance, we have the quad heaters on, now."
+      ],
+      "speaker": "Lovell",
+      "time": "1043241"
+    },
+    {
+      "tokens": [
+        "They've started to warm up the RCS jet quads so that they will be safely usable during the burn for attitude control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy, Jim.",
+        "And the ...",
+        "Jack's going to read you the PAD right now, so I recommend you go ahead and get started.",
+        "You shouldn't be delayed by the PAD at all.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "1043244"
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "I've got your burn PAD.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1043324"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "Stand by.",
+        "Are you ready ...",
+        "Stand by to copy.",
+        "Okay.",
+        "Ready to copy."
+      ],
+      "speaker": "Lovell",
+      "time": "1043337"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "A P30 maneuver pad on the DPS: purpose is midcourse 5, Noun 33, 105:30:00.00, Noun 81 is N/A, HAis N/A, perigee, plus 0019.8, 0.007.8, 0.15, the rest is N/A.",
+        "Shut down the engine at 1 second prior to the end of burn time.",
+        "Shut down at 14 seconds manually.",
+        "Ullage is four jets for 10 seconds, 10-percent throttle.",
+        "Go ahead.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1043343"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "We've got a DPS midcourse 5: Noun 33, 105:30:00.00; Noun 81, N/A; HAN/A; plus 0019.8, 0007.8, burn time 0.15, the rest of the pad, N/A.",
+        "Shut down manually at 14 seconds, ullage four jets for 10 seconds, and the entire burn is at 10-percent throttle."
+      ],
+      "speaker": "Haise",
+      "time": "1043500"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "I want to verify that your Delta-VRis 0007.8.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1043536"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I read you back 0007.8."
+      ],
+      "speaker": "Haise",
+      "time": "1043548"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Good readback.",
+        "You got it."
+      ],
+      "speaker": "Lousma",
+      "time": "1043553"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This manual maneuver PAD is interpreted as follows:Purpose:Midcourse correction to improve entry corridor angle.Time of ignition (Noun 33):105 hours, 30 minutes GET.",
+        "Issuing a Noun 33 value is arbitrary in this case since they are not using the computer to control the burn.",
+        "It is simply used as a familiar term in filling the PAD.",
+        "Timing will be performed manually.Change in velocity, fps (m/s) (Noun 81):Not applicable.",
+        "The change in velocity is usually resolved into three components which are quoted relative to the LVLH (Local Vertical/Local Horizontal).",
+        "However, this burn is performed without the LGC that would perform the calculations based on the values given here.",
+        "They will simply point their vehicle and fire the engine.HAandHPThe apogee is not applicable since their trajectory is not an orbit around any spatial body but a reentry trajectory.",
+        "The perigee is 19.8 miles (31.8 km), meaning that they will enter Earth's atmosphere.Delta-VR:7.8 fps (2.38 m/s).",
+        "Normally this would be the the total resultant change in velocity the spacecraft would experience and is a vector sum of the three components given above.",
+        "Since this will be a manual burn, the normal calculations are not applicable.Burn duration or burn time:15 seconds.Spacecraft attitude:N/AChange in velocity for the AGS (Noun 86):N/AGDA angles:N/A.",
+        "These would be the angles to which the nozzle of the descent engine would be aimed to place its thrust axis through the stack's estimated centre of mass.",
+        "It was noted earlier that burn will be made with the engine nozzle locked into place, hence nothing is recorded here."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Additional notes: Ullage to settle the fuel in the tanks will be performed manually, with 4 RCS jets for 10 seconds.",
+        "DPS will be manually throttled to 10 percent thrust for the duration of the burn.",
+        "Engine start and stop will be manual."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The CapCom on that call was Jack Lousma.",
+        "We passed up the PAD for this midcourse correction.",
+        "The time 105 hours, 30 minutes elapsed.",
+        "Delta velocity 7.8 feet per second.",
+        "A burn time of 15 seconds with the notation to shut down the engine manually at 14 seconds.",
+        "The targeting for the perigee after this burn 19.8 nautical miles versus present perigee of 87 nautical miles."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And at 104 hours, 37 minutes, Apollo 13's distance from Earth is 153,971 nautical miles, velocity 4,421 feet per second."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Way to go, 285,154 km; velocity, 1,348 m/s."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston, I have some additional entry data that goes with the PAD I just read up.",
+        "It's five items.",
+        "Let me know when you're ready to copy.",
+        "It's on a maneuver PAD.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1043838"
+    },
+    {
+      "tokens": [
+        "Lunar Module maneuver PADs do not have room for Earth entry information.",
+        "This has to be written down in a CSM PAD."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll try to squeeze them in there, Jack.",
+        "I'm rapidly running out of PADs.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1043855"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Haise",
+      "time": "1043908"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's N/A all the way down to Noun 61.",
+        "Your latitude is minus 21 ..."
+      ],
+      "speaker": "Lousma",
+      "time": "1043911"
+    },
+    {
+      "tokens": [
+        "Hold on a minute; hold on.",
+        "You need the ...",
+        "Hold on, Jack, I need the other PAD book, that CSM PAD."
+      ],
+      "speaker": "Haise",
+      "time": "1043920"
+    },
+    {
+      "tokens": [
+        "That's affirm.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1043926"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Now I'm ready."
+      ],
+      "speaker": "Haise",
+      "time": "1043945"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Noun 61: latitude, minus 21.67, minus 165.37, 1163.1, 36292, 142:41:02.",
+        "Read back.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1043947"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Noun 61; minus 21.67, minus 165.37.",
+        "1163.1, 36292, 142:41:02."
+      ],
+      "speaker": "Haise",
+      "time": "1044020"
+    },
+    {
+      "tokens": [
+        "This partial entry PAD is interpreted as follows:Expected splashdown point (Noun 61):Latitude, 21.67 ° south; longitude, 165.36° west; in the mid-Pacific/Primary recovery area.Range to go at the 0.05 g event:1,163.1 nautical miles.",
+        "To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel from the 0.05 g event to landing.",
+        "This figure will be decremented by the EMS based on signals from its own accelerometer.Expected velocity at the 0.05 g event:36,292 fps.",
+        "This is another entry for the EMS.",
+        "It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.Predicted GET of 0.05 g event:142 hours, 41 minutes, 02 seconds GET."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Good readback."
+      ],
+      "speaker": "Lousma",
+      "time": "1044043"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 104 hours, 41 minutes.",
+        "The splash coordinates for which this burn is targeted are 21.67 degrees south, 165.37 west."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And you should have high bit rate now, Jack.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1044232"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "We're getting it now."
+      ],
+      "speaker": "Lousma",
+      "time": "1044251"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Aquarius."
+      ],
+      "speaker": "Lovell",
+      "time": "1044642"
+    },
+    {
+      "tokens": [
+        "Go ahead, Aquarius."
+      ],
+      "speaker": "Lousma",
+      "time": "1044644"
+    },
+    {
+      "tokens": [
+        "Did you have readouts on our quad temps to know when we can start?",
+        "We're taking a time hack.",
+        "We'd just like a verification with you."
+      ],
+      "speaker": "Lovell",
+      "time": "1044647"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Your quad temps look good from here."
+      ],
+      "speaker": "Lousma",
+      "time": "1044655"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The LM RCS jets are ready for action."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston; Aquarius.",
+        "We're going to stop PTC at this time."
+      ],
+      "speaker": "Lovell",
+      "time": "1045003"
+    },
+    {
+      "tokens": [
+        "Roger, Aquarius.",
+        "Go ahead."
+      ],
+      "speaker": "Lousma",
+      "time": "1045009"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "How about if you do ..."
+      ],
+      "speaker": "Lousma",
+      "time": "1045251"
+    },
+    {
+      "tokens": [
+        "Say again, Jack."
+      ],
+      "speaker": "Haise",
+      "time": "1045256"
+    },
+    {
+      "tokens": [
+        "Negits on my last, Fred.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1045259"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "How do you read now?",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1045312"
+    },
+    {
+      "tokens": [
+        "Go ahead, Aquarius."
+      ],
+      "speaker": "Lousma",
+      "time": "1045320"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I thought you called, Jack.",
+        "We're maneuvering around here to fish for the Earth.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1045326"
+    },
+    {
+      "tokens": [
+        "And, Houston, Aquarius.",
+        "How's the ASA package temp look now?",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1045426"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "The ASA package temp is looking good.",
+        "It's around 98 degrees, and we'd like to see it go up about 15 to 20 degrees."
+      ],
+      "speaker": "Lousma",
+      "time": "1045452"
+    },
+    {
+      "tokens": [
+        "The Abort Sensor Assembly's operational temperature is rated at +120°F, or +49°C"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Why don't you give me the word before I proceed with the AGS.",
+        "We really don't need it right this instant."
+      ],
+      "speaker": "Haise",
+      "time": "1045503"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We'll be watching it."
+      ],
+      "speaker": "Lousma",
+      "time": "1045510"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "The ASA package temp is up now so you can activate the AGS."
+      ],
+      "speaker": "Lousma",
+      "time": "1045811"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Very good."
+      ],
+      "speaker": "Haise",
+      "time": "1045819"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Abort Guidance System, or AGS, interfaces with the Control Electronics Section in many ways, just like the PGNS main guidance system does.",
+        "The Abort Sensor Assembly, or ASA, uses hull-strapped accelerometers and gyroscopes to provide inertial sensing data.",
+        "The Abort Electronics Assembly is a computer that takes over the functions of the LGC should it fail.",
+        "While more rudimentary and less capable, the AGS is able to maintain attitude control and calculate DPS, APS and RCS burns that would be needed to get the crew to a safe rendezvous with the orbiting Command Service Module.",
+        "Right now they are pressing the AGS into duty to maintain partial attitude control while the crew performs the rest of the course correction under manual crew control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It is interesting to note that in the Command Module, the backup control system, the Stabilization Control System (SCS), was electromechanical, utilizing dedicated sensors, manual crew input, and separate electronics packages.",
+        "For the LM an independent, fully fledged backup guidance and control was required due to the complex demands put on the LM by its highly specialized mission.",
+        "The SCS is capable of maintaining vehicle attitude and can permit manually controlled SPS engine burns, which is enough for what is required to get the crew home even without the guidance computer.",
+        "The LM's mission profile is much more dynamic.",
+        "Emergency return to orbit from powered descent would simply not be possible without computer-assisted control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "So we can make sure and get our timer set here, I wondered when your ...",
+        "you've got about 48 minutes to the burn which should be coming up pretty quick ...",
+        "you'd give us a hack so we could set our event timer at 12.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1050107"
+    },
+    {
+      "tokens": [
+        "Roger, Fred.",
+        "I understand you want a mark at 12 minutes prior to the burn.",
+        "Is that affirm?"
+      ],
+      "speaker": "Lousma",
+      "time": "1050132"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We think we got it set now.",
+        "We just wanted to check it.",
+        "If we don't, then I'll set it to 13, and you can give me another hack at 47 to go.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1050139"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We got 33 to go."
+      ],
+      "speaker": "Lousma",
+      "time": "1050156"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Lousma",
+      "time": "1050159"
+    },
+    {
+      "tokens": [
+        "My mistake.",
+        "It was 33 ..."
+      ],
+      "speaker": "Lousma",
+      "time": "1050203"
+    },
+    {
+      "tokens": [
+        "Right on."
+      ],
+      "speaker": "Haise",
+      "time": "105:02:05"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It was reading 33 on my mark.",
+        "Right?",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1050206"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You got about 105:03 GET now down there?"
+      ],
+      "speaker": "Haise",
+      "time": "1050232"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Fred.",
+        "Going through 105:03:45."
+      ],
+      "speaker": "Lousma",
+      "time": "1050239"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Lousma",
+      "time": "1050344"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1050348"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "Give me the next number you want me to set then, and I'll take another hack here."
+      ],
+      "speaker": "Haise",
+      "time": "1050403"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You're counting up, right?"
+      ],
+      "speaker": "Lousma",
+      "time": "1050408"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1050412"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "On my mark, be 35 minutes to the burn."
+      ],
+      "speaker": "Lousma",
+      "time": "1050449"
+    },
+    {
+      "tokens": [
+        "Standing by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1050458"
+    },
+    {
+      "tokens": [
+        "We missed her, Fred.",
+        "Let's get it on the next minute."
+      ],
+      "speaker": "Lousma",
+      "time": "1050513"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1050517"
+    },
+    {
+      "tokens": [
+        "Okay, Aquarius.",
+        "On my mark, it's going to be 24 minutes to the burn, and you'll be reading 36.",
+        "Stand by."
+      ],
+      "speaker": "Lousma",
+      "time": "1050552"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Lousma",
+      "time": "1050559"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We got it cranked up."
+      ],
+      "speaker": "Haise",
+      "time": "1050603"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 105 hours, 8 minutes.",
+        "Following this burn, passive thermal control will be reestablished, and the command module pilot, Jack Swigert, and the lunar module pilot, Fred Haise, will begin a 6 hour rest period."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "We will wait until the burst disk on the super critical helium goes before we reestablishing passive thermal control, however.",
+        "Apollo 13 now 152,604 nautical miles from Earth.",
+        "Velocity 4,450 feet per second."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "They are 282,622 kilometers away from Earth and their velocity is 1,356.4 m/s."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We have our attitude set."
+      ],
+      "speaker": "Lovell",
+      "time": "1051029"
+    },
+    {
+      "tokens": [
+        "Roger, Jim."
+      ],
+      "speaker": "Lousma",
+      "time": "1051035"
+    },
+    {
+      "tokens": [
+        "I hope the guys in the back room who thought this up right knew what they were saying.",
+        "[Pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "1051039"
+    },
+    {
+      "tokens": [
+        "And I'm looking through the AOT there, Jack, and the Sun's right in the top and it's about maybe 2 degrees to the right of the cursor.",
+        "So that looks real good."
+      ],
+      "speaker": "Haise",
+      "time": "1051050"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Good going."
+      ],
+      "speaker": "Lousma",
+      "time": "1051101"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "They have managed to twist and turn the Apollo stack into position for the course correction."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Aquarius.",
+        "The attitude looks good here and your choice when you want to start the burn.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1051204"
+    },
+    {
+      "tokens": [
+        "We're counting down, aren't we, or do you want us to start any time?"
+      ],
+      "speaker": "Lovell",
+      "time": "1051216"
+    },
+    {
+      "tokens": [
+        "Your choice."
+      ],
+      "speaker": "Lousma",
+      "time": "1051222"
+    },
+    {
+      "tokens": [
+        "You guys are getting easy."
+      ],
+      "speaker": "Lovell",
+      "time": "1051228"
+    },
+    {
+      "tokens": [
+        "It's not time critical, Jim."
+      ],
+      "speaker": "Slayton",
+      "time": "1051232"
+    },
+    {
+      "tokens": [
+        "I understand."
+      ],
+      "speaker": "Lovell",
+      "time": "1051236"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Houston, we reset our clock and we're making the burn in about ...",
+        "I'll give you a hack here at 2 minutes to go."
+      ],
+      "speaker": "Haise",
+      "time": "1051559"
+    },
+    {
+      "tokens": [
+        "Roger, Fred.",
+        "And let us know when you're going to ullage, will you?"
+      ],
+      "speaker": "Lousma",
+      "time": "1051611"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1051616"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by.",
+        "2, 1."
+      ],
+      "speaker": "Haise",
+      "time": "1051625"
+    },
+    {
+      "tokens": [
+        "Mark it."
+      ],
+      "speaker": "Haise",
+      "time": "1051628"
+    },
+    {
+      "tokens": [
+        "Three minutes to go.",
+        "Correction, 2 minutes to go, Jack."
+      ],
+      "speaker": "Haise",
+      "time": "1051629"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Two minutes.",
+        "We got it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1051634"
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "Check engine gimbal off, please."
+      ],
+      "speaker": "Lousma",
+      "time": "1051701"
+    },
+    {
+      "tokens": [
+        "They will not adjusting the pointing of the engine nozzle for this burn, hence they want to make sure that the system responsible for it isn't on."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It's verified to off.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1051707"
+    },
+    {
+      "tokens": [
+        "And ...",
+        "Mark it."
+      ],
+      "speaker": "Haise",
+      "time": "1051728"
+    },
+    {
+      "tokens": [
+        "One minute."
+      ],
+      "speaker": "Haise",
+      "time": "1051729"
+    },
+    {
+      "tokens": [
+        "Roger, Fred.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1051731"
+    },
+    {
+      "tokens": [
+        "Engine Arm to Descent.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1051758"
+    },
+    {
+      "tokens": [
+        "Ullage.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1051818"
+    },
+    {
+      "tokens": [
+        "Ignition."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The thrust looks good."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It shut down."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're looking at 470."
+      ],
+      "speaker": "Haise",
+      "time": "1051848"
+    },
+    {
+      "tokens": [
+        "Fred is referring to address470in the DEDA, set up to display their acceleration from the burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy 7.4."
+      ],
+      "speaker": "Lousma",
+      "time": "1051853"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "7.4 and I had about 0.2 showing, I guess, when we started."
+      ],
+      "speaker": "Haise",
+      "time": "1051859"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We verify that, Okay, Aquarius.",
+        "Trim it to 7.6."
+      ],
+      "speaker": "Lousma",
+      "time": "1051905"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You want plus-X now to get 7.6.",
+        "Is that correct?"
+      ],
+      "speaker": "Haise",
+      "time": "1051918"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1051923"
+    },
+    {
+      "tokens": [
+        "The Descent Engine has not provided quite enough Delta-V; 7.8 fps desired versus 7.4 gained.",
+        "They can add the extra 0.4 fps by firing the LM's downward-facing RCS thrusters (those that point in the same direction as the DPS) so that the total retrograde Delta-V is 7.8.",
+        "However, Mission Control seem to have decided that 7.6 fps is acceptable.",
+        "This is perhaps in case the trim overshoots.",
+        "If so, they would have had to use the LM's upward-facing thrusters which would impinge on the CM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're looking at it, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "1051942"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Looks good.",
+        "Nice work."
+      ],
+      "speaker": "Lousma",
+      "time": "1051946"
+    },
+    {
+      "tokens": [
+        "Let's hope it was.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1051951"
+    },
+    {
+      "tokens": [
+        "Okay, Aquarius.",
+        "We're ready to follow you through on setting up PTC and powerdown.",
+        "Your choice."
+      ],
+      "speaker": "Lousma",
+      "time": "1052023"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're pressing into getting PTC established right now."
+      ],
+      "speaker": "Haise",
+      "time": "1052030"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 105 hours 23 minutes.",
+        "That trimming was done with the reaction control system.",
+        "The burn looked good.",
+        "FIDO will want to get some tracking now and look at that for a while before he can tell precisely what was achieved.",
+        "Decision has been made to go ahead and reestablish passive thermal control prior to the super critical helium tank venting.",
+        "There's enough uncertainty into the time when that will vent now that we're going to go ahead and establish the PTC.",
+        "We can expect venting anytime up to and within the next 2 hours probably.",
+        "We'll continue to standby for live air to ground transmission."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "We'd like to change the number of yaw pulses we gave you before as 21.",
+        "We'd like to reduce that to 12.",
+        "Twelve pulses yaw right, and that'll take you about 3 seconds to get them in if you don't want to count them."
+      ],
+      "speaker": "Lousma",
+      "time": "1052649"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll make it 12 versus 21."
+      ],
+      "speaker": "Haise",
+      "time": "1052708"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The plan to set up the Passive Thermal Control rotation consists of the crew using the hand controllers to rotate the spacecraft along the X-axis (essentially to start a spin), with the help of the AGS-driven 8-ball to show them the movement.",
+        "The number of pulses referred to here is the amount of very quick puffs of RCS fire, to impart the force required to set up the motion."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "I'm just about there now and as soon as I get 90, we'll start damping rates."
+      ],
+      "speaker": "Lovell",
+      "time": "1052950"
+    },
+    {
+      "tokens": [
+        "Roger, Aquarius."
+      ],
+      "speaker": "Lousma",
+      "time": "1052957"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "Jim Lovell setting up the passive thermal control now.",
+        "We're reading a pressure in the super critical helium tank of 1,834 pounds per square inch.",
+        "The burst disc range is 1,881 to 1,970 per square inch.",
+        "The latest prediction is that we'll reach the lower limit, the burst limit, the lower burst limit 1,881 at in about an hour and a half.",
+        "We're predicting a rise rate of 33 pounds per square inch per hour right now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "I'm trying to damp rates now.",
+        "We're at the proper roll attitude and pitch."
+      ],
+      "speaker": "Lovell",
+      "time": "1053358"
+    },
+    {
+      "tokens": [
+        "Roger, Aquarius.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1053405"
+    },
+    {
+      "tokens": [
+        "Working a little bit better this time.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1053422"
+    },
+    {
+      "tokens": [
+        "Are you copying any attitudes down there, rates, et cetera?",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "1053429"
+    },
+    {
+      "tokens": [
+        "Okay, Aquarius.",
+        "We're seeing some extremely low rates at this time, really below our capability to measure them.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1053456"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Lovell",
+      "time": "1053509"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Remarkably, their unwieldy stack has reached a very stable attitude for the moment, and they are ready to start the PTC rotation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 105 hours 35 minutes.",
+        "The flight dynamics officer expects a fairly reasonable estimate of the trajectory in approximately 2 hours."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, I think I've got pitch and roll just about squared away.",
+        "I let yaw just slightly drift; it's drifting in a clockwise direction and I'm about all set now to put in my 12 clicks to the right."
+      ],
+      "speaker": "Lovell",
+      "time": "1053625"
+    },
+    {
+      "tokens": [
+        "Roger, Jim.",
+        "Ready to look at it with you."
+      ],
+      "speaker": "Lousma",
+      "time": "1053644"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 105 hours, 37 minutes.",
+        "Ignition time of that midcourse burn was 105 hours, 18 minutes 32 seconds.",
+        "The total duration of both the descent propulsion system and the trim burn was 15.4 seconds.",
+        "Delta V achieved was 7.6 foot per second."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Twelve clicks right.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "1053759"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "Are we clear now to proceed with the powerdown?",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1053813"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Fred.",
+        "We're ready to press on with powerdown.",
+        "I've got two changes for you.",
+        "Step 1 of the emergency powerdown on page power dash 5.",
+        "Over."
+      ],
+      "speaker": "Lousma",
+      "time": "1053822"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Haise",
+      "time": "1053836"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Leave your Power Amplifier switch in PrimaryviceOff and put your Ranging switch to Range,viceOff/Reset."
+      ],
+      "speaker": "Lousma",
+      "time": "1053837"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're in Prim in the Power Amp and Ranging on Ranging."
+      ],
+      "speaker": "Haise",
+      "time": "1053853"
+    },
+    {
+      "tokens": [
+        "Affirmative.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1053859"
+    },
+    {
+      "tokens": [
+        "They are reconfiguring the comms system to include the S-Band ranging being kept on, to assist with establishing their exact trajectory after the course correction burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm going to pull.",
+        "Well, here, let's just look at the checklist."
+      ],
+      "speaker": "Lovell",
+      "time": "1053911"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Configure CBs.",
+        "There you go."
+      ],
+      "speaker": "Haise",
+      "time": "1053914"
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston, hold off 1 on powerdown, please."
+      ],
+      "speaker": "Lousma",
+      "time": "1053918"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll hold off.",
+        "And we're looking at a SHe pressure, incidentally, of about 1830 now."
+      ],
+      "speaker": "Haise",
+      "time": "1053923"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We concur with that.",
+        "And it looks like you got a little pitch rate going on here.",
+        "Do you copy the same?"
+      ],
+      "speaker": "Lousma",
+      "time": "1053937"
+    },
+    {
+      "tokens": [
+        "Oooooh...okay.",
+        "My pitch needle is just slightly up now.",
+        "I could try to take it out if you want me to."
+      ],
+      "speaker": "Lovell",
+      "time": "1053947"
+    },
+    {
+      "tokens": [
+        "Not ...",
+        "Wait, wait.",
+        "There you go."
+      ],
+      "speaker": "Haise",
+      "time": "1053958"
+    },
+    {
+      "tokens": [
+        "Just hold off on it 1, Jim.",
+        "We'd like to take a look at it."
+      ],
+      "speaker": "Lousma",
+      "time": "1054007"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "1054014"
+    },
+    {
+      "tokens": [
+        "Aquarius, we'll need high bit rate, please."
+      ],
+      "speaker": "Lousma",
+      "time": "1054021"
+    },
+    {
+      "tokens": [
+        "Uuuuh...flashlight, Jack.",
+        "Jack, flashlight over here a minute."
+      ],
+      "speaker": "Haise",
+      "time": "1054026"
+    },
+    {
+      "tokens": [
+        "Aquarius, we need the Power Amplifier back in high bit rate please."
+      ],
+      "speaker": "Lousma",
+      "time": "1054031"
+    },
+    {
+      "tokens": [
+        "You got it.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1054037"
+    },
+    {
+      "tokens": [
+        "You got a couple in the roll pretty soon.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "1054048"
+    },
+    {
+      "tokens": [
+        "Aaaaah what is it, 1.7?",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "1054102"
+    },
+    {
+      "tokens": [
+        "You have another set of them by the PGNS.",
+        "[Pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "1054134"
+    },
+    {
+      "tokens": [
+        "Now we got to turn off the heaters you wanna save ...",
+        "[Pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "1054144"
+    },
+    {
+      "tokens": [
+        "What's that flitting out there in the breeze?",
+        "Are we venting again?",
+        "Take a look, Jack.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "1054159"
+    },
+    {
+      "tokens": [
+        "Well, once we get squared away, Joe, I think I am going to have to go to the space center and take a good healthy one and leave just about everything.",
+        "I've held up long enough."
+      ],
+      "speaker": "Lovell",
+      "time": "1054217"
+    },
+    {
+      "tokens": [
+        "These somewhat disjointed comments are one side of a conversation between Jim and presumably Fred in the Lunar Module.",
+        "His mic catches it, while Fred's replies are heard very faintly.",
+        "We can only speculate what Jim was planning to do here upon returning home."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's coming from above.",
+        "Another one just ...",
+        "is just coming down right over here.",
+        "Well, there's the old terminator at Fra Mauro.",
+        "We'd been landing about 2 hours ago, huh?",
+        "Right on the ..."
+      ],
+      "speaker": "Haise",
+      "time": "1054232"
+    },
+    {
+      "tokens": [
+        "Fred is not wrong in his musings.",
+        "Had they been following the regular flight plan, their landing was scheduled for 103:42:02 GET, exactly two hours previously.",
+        "Fred is now gazing at the Moon where the lunar terminator nearly marks the spot."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Aquarius."
+      ],
+      "speaker": "Lovell",
+      "time": "1054256"
+    },
+    {
+      "tokens": [
+        "...",
+        "to the right of the terminator."
+      ],
+      "speaker": "Haise",
+      "time": "1054257"
+    },
+    {
+      "tokens": [
+        "Go ahead, Aquarius."
+      ],
+      "speaker": "Lousma",
+      "time": "1054259"
+    },
+    {
+      "tokens": [
+        "Just for information, although I thought I'd never have to use it, that technique looked like it was a pretty good one.",
+        "[Pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "1054303"
+    },
+    {
+      "tokens": [
+        "Roger, Jim.",
+        "And we'd like you to give us your idea of how the PTC looks.",
+        "We're not sure we're seeing what we ought to here.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1054313"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I still have my ball powered up and I'm coming around past 270 right now.",
+        "I've got a slight roll and pitch offset in there.",
+        "My pitch needle about halfway up and my roll needle is about 4 degrees over now."
+      ],
+      "speaker": "Lovell",
+      "time": "1054326"
+    },
+    {
+      "tokens": [
+        "Okay, Jim.",
+        "With that info we'll go on the PTC, and let's proceed with the powerdown.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1054348"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll proceed with the PTC and proceed with the powerdown.",
+        "I guess if we have to we can re-establish PTC at a later date.",
+        "Okay.",
+        "Okay."
+      ],
+      "speaker": "Lovell",
+      "time": "1054359"
+    },
+    {
+      "tokens": [
+        "First row.",
+        "Ullage.",
+        "AGS.",
+        "[Pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "1054422"
+    },
+    {
+      "tokens": [
+        "Your AGS on?"
+      ],
+      "speaker": "Lovell",
+      "time": "1054431"
+    },
+    {
+      "tokens": [
+        "My what?",
+        "My what?",
+        "Oh, yes.",
+        "Go ahead."
+      ],
+      "speaker": "Haise",
+      "time": "1054433"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The four Inverters of this AC Bus volt, Fred."
+      ],
+      "speaker": "Lovell",
+      "time": "1054438"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1054444"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let's ...",
+        "give the last thing to Jack and I'll keep it all out.",
+        "Okay?",
+        "RCS System A.",
+        "That's in.",
+        "TCAs are going off.",
+        "Why do they need the Isol valves in the Ascent Feed in?"
+      ],
+      "speaker": "Lovell",
+      "time": "1054452"
+    },
+    {
+      "tokens": [
+        "The sound of circuit breakers being pulled can be heard over the radio."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You're not sucking any power unless you take these switches and move them."
+      ],
+      "speaker": "Haise",
+      "time": "1054517"
+    },
+    {
+      "tokens": [
+        "How come we pulled them out, then, in this burn?"
+      ],
+      "speaker": "Lovell",
+      "time": "1054521"
+    },
+    {
+      "tokens": [
+        "Because you didn't want them to get moved inadvertently, I guess.",
+        "It doesn't matter, Jim, they can be out or in in terms of powerdown.",
+        "They just don't count.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1054523"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I got 1, 2, 3.",
+        "[Pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "1054546"
+    },
+    {
+      "tokens": [
+        "Isol valve should be in 2."
+      ],
+      "speaker": "Lovell",
+      "time": "1054554"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Okay.",
+        "Third row.",
+        "Attitude Direct Control I still have in.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "1054556"
+    },
+    {
+      "tokens": [
+        "Jack, how do you read now in baseband?"
+      ],
+      "speaker": "Haise",
+      "time": "1054641"
+    },
+    {
+      "tokens": [
+        "Reading you 5-square, Fred.",
+        "How me?"
+      ],
+      "speaker": "Lousma",
+      "time": "1054644"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll stay this mode, if it's all right, so we won't be hot miked.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1054648"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Lousma",
+      "time": "1054656"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "You're cleared to open the Power Amplifier circuit breaker and go to Low Bit Rate, leaving the Power Amp switch in Primary."
+      ],
+      "speaker": "Lousma",
+      "time": "1055228"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll pull the prime S-Band Power Amp breaker and go Low Bit Rate."
+      ],
+      "speaker": "Haise",
+      "time": "1055240"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 106 hours 2 minutes.",
+        "We're in the midst of a shift change over here in Mission Control at this time.",
+        "Flight Director, Milton Windler and the Maroon Team of Flight Controllers are replacing Flight Director, Gerry Griffin and the Gold Team.",
+        "Our Capsule Communicator on this shift will be Astronaut, Jack Lousma.",
+        "One of our large LM status boards here in Mission Control would indicate that the power down in the LM is completed at this time.",
+        "During the burn, the power levels off the LM were running around 25 amps.",
+        "We're now showing the power somewhere between 10 and 12 amps.",
+        "The target level during the power down is to keep it to at least 14 amps, so we're well below the minimum target, and in very good shape on LM power at this time.",
+        "Flight Director Windler at this time is reviewing the status from each of his Flight Controllers, and at the present time Apollo 13 is 150,302 nautical miles from Earth.",
+        "Travelling at a velocity of 4,498 feet per second.",
+        "There will be a change of shift briefing.",
+        "We do not have a time at the moment.",
+        "We'll pass that along to you as soon as it is available.",
+        "At 106 hours 3 minutes, this Mission Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Distance to go, 278,359 km, velocity 1,371 m/s."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Aquarius."
+      ],
+      "speaker": "Haise",
+      "time": "1060425"
+    },
+    {
+      "tokens": [
+        "Go ahead, Aquarius."
+      ],
+      "speaker": "Lousma",
+      "time": "1060428"
+    },
+    {
+      "tokens": [
+        "About how far out are we now, Jack?",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1060434"
+    },
+    {
+      "tokens": [
+        "Okay, Aquarius.",
+        "You're 150,000 miles and you're coming in at 4,500 feet a second.",
+        "That's from the Earth."
+      ],
+      "speaker": "Lousma",
+      "time": "1060449"
+    },
+    {
+      "tokens": [
+        "Their distance is 277,800 km, velocity 1,371.6 m/s.",
+        "Speed is picking up very slowly still due to the weak, if dominant pull of Earth's gravity."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're at 100 ...",
+        "Yes.",
+        "150K, 4,500 feet a second.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1060501"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "Our LM control officer reports that ..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Aquarius, how much TTCA control did you have to do in the burn?"
+      ],
+      "speaker": "Lousma",
+      "time": "1060527"
+    },
+    {
+      "tokens": [
+        "How much ...",
+        "What was that, Jack?"
+      ],
+      "speaker": "Haise",
+      "time": "1060534"
+    },
+    {
+      "tokens": [
+        "How much control of the TTCA did you have to do during the burn?"
+      ],
+      "speaker": "Lousma",
+      "time": "1060536"
+    },
+    {
+      "tokens": [
+        "I wasn't noticing Jim too much.",
+        "I'd say I put in maybe about six or seven inputs.",
+        "I don't think it ever got off more than a couple of needle widths.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "1060544"
+    },
+    {
+      "tokens": [
+        "Roger, Fred.",
+        "Thank you.",
+        "[Pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "1060602"
+    },
+    {
+      "tokens": [
+        "I think it's probably the same for Jim.",
+        "I wasn't noticing his input but the ...",
+        "his needle was hanging in there pretty good."
+      ],
+      "speaker": "Haise",
+      "time": "1060611"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you, Fred."
+      ],
+      "speaker": "Lousma",
+      "time": "1060620"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day5_part3_the_manual_course_correction_burn.html"
+}

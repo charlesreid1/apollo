@@ -1,0 +1,4622 @@
+{
+  "description": "Apollo 16 Flight Journal - Day 2, Part 1: Electrophoresis Experiment and Midcourse Correction Burn",
+  "transcript": [
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 22 hours, 57 minutes Ground Elapsed Time.",
+        "Our displays presently show Apollo 16 at a distance of 97,619 nautical miles [180,790 km] away from the Earth and traveling at a speed of 5,334 feet per second [1,626 m/s].",
+        "We're about two minutes away now from scheduled time of crew wakeup.",
+        "We'll leave the line up at this time as - as a means of picking up conversation as it transpires.",
+        "We're at 22 hours, 58 minutes Ground Elapsed Time; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 23 hours, 3 minutes Ground Elapsed Time.",
+        "We're still standing by awaiting Tony England's call up to the crew of Apollo 16.",
+        "We presently show Apollo 16 at a distance of 97,906 nautical miles [181,321 km] away from the Earth.",
+        "Velocity now reading 5,322 feet per second [1,622 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Standing by now awaiting CapCom Tony England's call to the crew of Apollo 16.",
+        "This is Apollo Control, Houston at 23 hours, 4 minutes into the mission."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 16, Houston.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "023_04_37"
+    },
+    {
+      "tokens": [
+        "Apollo 16, Houston."
+      ],
+      "speaker": "England",
+      "time": "0230451"
+    },
+    {
+      "tokens": [
+        "Go ahead there, Houston.",
+        "How you doing?"
+      ],
+      "speaker": "Young",
+      "time": "0230456"
+    },
+    {
+      "tokens": [
+        "Hey, you sound good.",
+        "Good morning up there.",
+        "How are you doing?"
+      ],
+      "speaker": "England",
+      "time": "0230457"
+    },
+    {
+      "tokens": [
+        "Great."
+      ],
+      "speaker": "Young",
+      "time": "0230504"
+    },
+    {
+      "tokens": [
+        "Good.",
+        "All your systems look..."
+      ],
+      "speaker": "England",
+      "time": "0230506"
+    },
+    {
+      "tokens": [
+        "Sure beats work."
+      ],
+      "speaker": "Young",
+      "time": "0230509"
+    },
+    {
+      "tokens": [
+        "Good show.",
+        "Everything looks fine up there from down here."
+      ],
+      "speaker": "England",
+      "time": "0230510"
+    },
+    {
+      "tokens": [
+        "Oh, yeah.",
+        "Sure beats work."
+      ],
+      "speaker": "Young",
+      "time": "0230517"
+    },
+    {
+      "tokens": [
+        "[Chuckle, pause.] How are your comrades doing?",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0230518"
+    },
+    {
+      "tokens": [
+        "Oh, they're just starting to stir.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0230531"
+    },
+    {
+      "tokens": [
+        "I'd hum something for you to wake you up, but I got a tin ear.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0230553"
+    },
+    {
+      "tokens": [
+        "Ah, we'll make it, Tony."
+      ],
+      "speaker": "Young",
+      "time": "0230605"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston; 23 hours, 9 minutes Ground Elapsed Time.",
+        "Apollo 16 presently 98,222 nautical miles [181,907 km] away from the Earth.",
+        "The velocity now reading 5,309 feet per second [1,618 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 23 hours and 16 minutes Ground Elapsed Time.",
+        "Apollo 16 now 98,558 nautical miles [182,529 kilometres] away from the Earth and traveling at a speed of 5,295 feet [1,614 metres] per second.",
+        "Very little conversation with Apollo 16 thus far, however, the wakeup call has been placed and we'll standby and continue to monitor.",
+        "We're at 23 hours, 16 minutes at Ground Elapsed Time and this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 16.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0232526"
+    },
+    {
+      "tokens": [
+        "Go ahead, Charlie."
+      ],
+      "speaker": "England",
+      "time": "0232530"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'd like to give you our postsleep report here for today.",
+        "The Commander ate his sandwich and his orange juice that was in his suit, and all of his meal for Day 1, and his PRD is 22028, and he had 7 hours sleep.",
+        "Best ever in space flight.",
+        "No medication.",
+        "Three voids: 34, 20, 18.",
+        "Fluid intake: total, 21 ounces.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "023_25_34"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We got that, Charlie."
+      ],
+      "speaker": "England",
+      "time": "0232620"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "For Ken, he had from Meal C everything but the pecans, and he ate his sandwich and his orange juice.",
+        "His PRD is 15030.",
+        "Six hours in an 8-hour period; he was awake every - once every hour.",
+        "Okay.",
+        "Excuse me."
+      ],
+      "speaker": "Duke",
+      "time": "0232624"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0232652"
+    },
+    {
+      "tokens": [
+        "We're switching Omnis at this time.",
+        "That is Charlie Duke with the post-sleep report."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Tony.",
+        "Had one more than 41 and he let some of them off, and 13 ounces total intake.",
+        "[Long pause.] Okay..."
+      ],
+      "speaker": "Duke",
+      "time": "0232702"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie ...",
+        "Charlie, could you say the voids again?"
+      ],
+      "speaker": "England",
+      "time": "0232726"
+    },
+    {
+      "tokens": [
+        "...PRD coming..."
+      ],
+      "speaker": "Duke",
+      "time": "0232727"
+    },
+    {
+      "tokens": [
+        "Could you say the voids again on Ken?"
+      ],
+      "speaker": "England",
+      "time": "0232728"
+    },
+    {
+      "tokens": [
+        "One was timed 41 - 41 seconds; the other one was lost due to a malfunctioning bag.",
+        "And we got on me now - for my meal, I had the sandwich and the orange juice that was in the suit.",
+        "For Meal C, I had half the spaghetti, all the ambrosia, and the cocoa.",
+        "My PRD is 21040.",
+        "I got about 5 hours sleep; got two voids of 20 and 25 with about a 20-ounce fluid intake.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0232736"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I got it all.",
+        "Sounds like you all slept pretty good.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0232819"
+    },
+    {
+      "tokens": [
+        "Well, it was off and on for me.",
+        "I must have been...",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0232828"
+    },
+    {
+      "tokens": [
+        "I tell you, I'd be so excited, I wouldn't sleep at all."
+      ],
+      "speaker": "England",
+      "time": "0232842"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 23 hours, 32 minutes Ground Elapsed Time.",
+        "Apollo 16 now 99,379 nautical miles [184,050 km] away from the Earth.",
+        "Now traveling at a speed of 5,261 feet per second [1,603 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, we're charging Battery A.",
+        "[Pause.] And on that food, Tony, add my apricot cubes, I just ate them.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0233236"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie."
+      ],
+      "speaker": "England",
+      "time": "0233304"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Charlie, Houston."
+      ],
+      "speaker": "England",
+      "time": "0234103"
+    },
+    {
+      "tokens": [
+        "Go ahead"
+      ],
+      "speaker": "Duke",
+      "time": "0234108"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On that fluid consumption there, the numbers you gave were in ounces.",
+        "Could you verify that's ounces and not bags?",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0234110"
+    },
+    {
+      "tokens": [
+        "Say that again, Tony."
+      ],
+      "speaker": "Duke",
+      "time": "0234125"
+    },
+    {
+      "tokens": [
+        "In the fluid you've consumed - the drinks, you gave the numbers in ounces, and I guess the blank here is listed in number of bags and partial bags, and they just want to verify the fact that the number you have was in ounces and also to check and see what unit you want to use for the rest of the mission on that so everybody will have it straight."
+      ],
+      "speaker": "England",
+      "time": "0234128"
+    },
+    {
+      "tokens": [
+        "Okay, we'll use - we'd like to use ounces, and that's what we'll go with."
+      ],
+      "speaker": "Duke",
+      "time": "0234150"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "England",
+      "time": "0234156"
+    },
+    {
+      "tokens": [
+        "That's what I read."
+      ],
+      "speaker": "Duke",
+      "time": "0234157"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Understand.",
+        "Thank you.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0234158"
+    },
+    {
+      "tokens": [
+        "Tony, the - the menu side of it, the things that are in the menus are in, of course, bags."
+      ],
+      "speaker": "Duke",
+      "time": "0234207"
+    },
+    {
+      "tokens": [
+        "Okay, we understand."
+      ],
+      "speaker": "England",
+      "time": "0234216"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 23 hours, 42 minutes Ground Elapsed Time.",
+        "That was Lunar Module Pilot Charlie Duke talking to CapCom Tony England here in Mission Control clarifying one point in the post-sleep report.",
+        "We presently show Apollo 16 at a distance of 99,923 nautical miles [185,057 km] from the Earth, and traveling at a speed of 5,238 feet per second [1,596 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We can see the Earth out there, and it's getting a good deal smaller.",
+        "It's about the same size as the Moon almost, out the other window.",
+        "And Africa is clear this morning - at least the part that we can see, which is what's usually clear, right around from the Canaries on."
+      ],
+      "speaker": "Young",
+      "time": "0234254"
+    },
+    {
+      "tokens": [
+        "Very good.",
+        "We've got you about a little over - well, you just passed 100,000 miles [185,200 kilometres] on our chart here."
+      ],
+      "speaker": "England",
+      "time": "0234424"
+    },
+    {
+      "tokens": [
+        "I would guess we're about 100,000 miles out.",
+        "Yes."
+      ],
+      "speaker": "Young",
+      "time": "0234432"
+    },
+    {
+      "tokens": [
+        "Well, sounds like a milestone.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0234440"
+    },
+    {
+      "tokens": [
+        "[Laughter.] They say you're only 14 miles off, John.",
+        "You're going to have to recalibrate your eyeball.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0234456"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "From our point of view, you only got a little more than half an Earth."
+      ],
+      "speaker": "Young",
+      "time": "0234517"
+    },
+    {
+      "tokens": [
+        "Oh, that's right.",
+        "We forgot; you're kind of handicapped."
+      ],
+      "speaker": "England",
+      "time": "0234523"
+    },
+    {
+      "tokens": [
+        "Right."
+      ],
+      "speaker": "Young",
+      "time": "0234528"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 23 hours, 51 minutes Ground Elapsed Time.",
+        "Apollo 16 now 100,355 nautical miles [185,857 km] away from the Earth, and now traveling at a speed of 5,220 feet per second [1,591 m/s].",
+        "It's been a very quiet day thus far for the crew of Apollo 16.",
+        "We've heard from them with their post-sleep report, and aside from a brief commentary by John Young on his view of the Earth, we've heard little else at this point, but we'll stand by and continue to monitor.",
+        "This is Apollo Control, Houston at 23 hours, 52 minutes Ground Elapsed Time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ken, Houston.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0240107"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mattingly",
+      "time": "0240115"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've got a systems status report whenever you're comfortable and would like to hear it.",
+        "There's nothing to write down on that."
+      ],
+      "speaker": "England",
+      "time": "024_01_18"
+    },
+    {
+      "tokens": [
+        "Okay, can we stand by awhile?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0240126"
+    },
+    {
+      "tokens": [
+        "Sure, no hurry at all."
+      ],
+      "speaker": "England",
+      "time": "0240128"
+    },
+    {
+      "tokens": [
+        "[Garble] a few minutes."
+      ],
+      "speaker": "Mattingly",
+      "time": "0240129"
+    },
+    {
+      "tokens": [
+        "Okay, just give me a call when you're ready."
+      ],
+      "speaker": "England",
+      "time": "0240130"
+    },
+    {
+      "tokens": [
+        "All righty.",
+        "Thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "0240140"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 24 hours, 5 minutes Ground Elapsed Time.",
+        "Apollo 16 now 101,035 nautical miles [187,117 km] away from the Earth.",
+        "Velocity now reading 5,193 feet per second [1,583 m/s].",
+        "During this period of relative calm and quiet, we'll pass along a brief update to our status on the crew report of last night of a - of particles emitting from the Lunar Module in the vicinity of the aluminum closeout panel which covers the Mylar insulation over the RCA [sic] system number - or System A.",
+        "The panel in question is 50-56 aluminum .004 inches thick [0.1 millimetres] with a 0.001 [inch - 0.025 millimetre] coating of white silicone paint.",
+        "The paint is applied and baked for one-half hour at 400°F [200°C].",
+        "Grumman Aircraft Engineering has been checking the paperwork on the panel to see if its processing has been different than that before; making a thermal analysis to see if the mission could possibly be affected by the situation.",
+        "The analysis shows the flaking will not affect the mission.",
+        "Preparing a test plan to conduct on a similar panel that is being flown to Grumman from the Kennedy Space Center.",
+        "Tests would be expected to include such things as wiping the finish with different solvents and then to simulate flight vacuum and temperature conditions in an altitude chamber.",
+        "The paint on this panel is applied to eight panels on each side of the Lunar Module.",
+        "The coating is applied to handle the thermal conditions on the Moon in the event of a T plus 24-hour launch when the sun angle of the Moon would be higher.",
+        "[In other words, a take-off from the lunar surface 24 hours later than planned.] We're at 24 hours, 7 minutes Ground Elapsed Time.",
+        "We'll continue to monitor for any conversations with the crew of Apollo 16.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 24 hours, 14 minutes Ground Elapsed Time.",
+        "Apollo 16 now 101,502 nautical miles [187,982 km] away from the Earth and traveling at a speed of 5,173 feet per second [1,576 m/s].",
+        "We presently show the spacecraft weight at 103,078 pounds [45,848 kilograms].",
+        "We'll stand by and continue to monitor any conversations that might take place between the crew of Apollo 16 and our CapCom in Mission Control, Tony England.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Tony."
+      ],
+      "speaker": "Mattingly",
+      "time": "0241509"
+    },
+    {
+      "tokens": [
+        "Ah, go ahead, Ken.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0241511"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm about to finish up on my coffee here.",
+        "If it's something I don't need to write down, I'll just listen to what you have to say as you - as you read it off."
+      ],
+      "speaker": "Mattingly",
+      "time": "0241518"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That sounds good.",
+        "[Pause.] On the systems status, the RCS - everything looks fine.",
+        "You're 27 pounds [12.2 kg] ahead on your usage.",
+        "Must have a pretty light hand on the throttle there.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0241527"
+    },
+    {
+      "tokens": [
+        "Okay, and on the ECS, the failure mode's probably in the control electronics.",
+        "The valve was driving at a max rate - that's 12 seconds, full open to full close, and they saw that on TM by the flow rate.",
+        "I don't recommend making any sensor changes since that doesn't seem to be the problem, and thermal runs are being made here at this time to determine the setting for lunar orbit.",
+        "They don't anticipate any problems with it.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0241558"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I - I kept watching it since we've set it.",
+        "We haven't touched that thing now for a long time, and maybe I just haven't caught any of the extremes, but it looks like it's been holding nicely between about 45 and 50."
+      ],
+      "speaker": "Mattingly",
+      "time": "0241631"
+    },
+    {
+      "tokens": [
+        "Right.",
+        "We concur.",
+        "We - we don't think you're gonna have to touch it until you go to the dark side.",
+        "[Long pause.] Okay, and on the SPS - normally during SPS cooldown during translunar coast, the helium in the SPS oxidizer tanks is absorbed by the oxidizer, causing a decrease in oxidizer tank pressure.",
+        "Your transducer hasn't indicated this, and there - there may be a problem with that transducer.",
+        "We've got a procedure change that I'll give to you later in your Flight Plan update, prior to the Midcourse 2, that will allow them to check that transducer.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0241646"
+    },
+    {
+      "tokens": [
+        "Okay, Tony.",
+        "And is there any change in the Midcourse 2 time, or is it going to be like the Flight Plan?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0241745"
+    },
+    {
+      "tokens": [
+        "Right now, it looks as per Flight Plan.",
+        "[Pause.] Okay.",
+        "And on your DSE tape, Hank had a chance to take a look at it.",
+        "Sounded - said it sounds fine.",
+        "Dick will be in a little later and listen also, so everything looks Go for - for the operations in lunar orbit.",
+        "[Pause.] And everything else looks great.",
+        "It's kind of nice not to have much to say here.",
+        "Sure isn't like the sims.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0241752"
+    },
+    {
+      "tokens": [
+        "Yeah, I hope we've [garble] the last sim [laughter]."
+      ],
+      "speaker": "Mattingly",
+      "time": "0241836"
+    },
+    {
+      "tokens": [
+        "Right.",
+        "I got a little..."
+      ],
+      "speaker": "England",
+      "time": "0241839"
+    },
+    {
+      "tokens": [
+        "...You said it all."
+      ],
+      "speaker": "Duke",
+      "time": "0241842"
+    },
+    {
+      "tokens": [
+        "That's right.",
+        "I went through the news.",
+        "I don't know whether you guys, over your coffee, would like to read the newspaper, but I've got all the news that's fit to print, and I really don't have much to say.",
+        "A great piece here is in the world of art.",
+        "One of Vincent Van Gogh's best was stolen from the San - San Diego Art Gallery as part of a display that was named \"Out of Sight.\" And I've got an input from Dottie here for Charlie.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0241846"
+    },
+    {
+      "tokens": [
+        "I'm all ears."
+      ],
+      "speaker": "Duke",
+      "time": "0241923"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "She says your - your five bird eggs have hatched, and so you've got five new, healthy neighbors.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0241925"
+    },
+    {
+      "tokens": [
+        "Oh, great; thank you [laughter]."
+      ],
+      "speaker": "Duke",
+      "time": "0241938"
+    },
+    {
+      "tokens": [
+        "You're welcome.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0241939"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And on the Flight Plan update, we have five items, and there's no hurry to get them up there.",
+        "Whenever you're ready to take them and - and can write the stuff down, I'll send them on up."
+      ],
+      "speaker": "England",
+      "time": "0241953"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Why don't you give us another ten minutes or so?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0242010"
+    },
+    {
+      "tokens": [
+        "Okay, that'll be fine.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0242011"
+    },
+    {
+      "tokens": [
+        "Tony, you'd enjoy seeing this place.",
+        "After all the things you had to go through to keep the cockpit nice and clean out there, you'd never recognize it.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0242029"
+    },
+    {
+      "tokens": [
+        "Ah, it probably looks like any - any bachelor's pad."
+      ],
+      "speaker": "England",
+      "time": "0242046"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston; 24 hours, 22 minutes Ground Elapsed Time.",
+        "Apollo 16 now 101,860 nautical miles [188,645 km] away from the Earth, and traveling at a speed of 5,159 feet per second [1,572 metres]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "You speak with the Flight Plan update."
+      ],
+      "speaker": "Duke",
+      "time": "0242650"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by a second, Charlie."
+      ],
+      "speaker": "England",
+      "time": "0242655"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Charlie, Houston."
+      ],
+      "speaker": "England",
+      "time": "0242833"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0242837"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On the Flight Plan update, [pause] if you could dig out your CSM Updates, we'll make a change to a couple of procedures in there.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "024_28_39"
+    },
+    {
+      "tokens": [
+        "Did you want the Flight Plan or the Update Book?"
+      ],
+      "speaker": "Duke",
+      "time": "0242904"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "This will be in the Update Book, this first one.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0242907"
+    },
+    {
+      "tokens": [
+        "Okay, go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0242933"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go to the section on \"Flight Plan Updates.\" It has the EMP programs.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0242934"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0242945"
+    },
+    {
+      "tokens": [
+        "Okay, we'd like you to add a last step to each of the four EMP probe procedures.",
+        "That would make a fourth step on the \"Shortened P23\" and a seventh step on \"Manual range input,\" et cetera."
+      ],
+      "speaker": "England",
+      "time": "0242947"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by, Tony.",
+        "They must had a hand over.",
+        "You were cut out.",
+        "Start over again, please."
+      ],
+      "speaker": "Duke",
+      "time": "0243004"
+    },
+    {
+      "tokens": [
+        "Okay, understand.",
+        "All right.",
+        "In the \"Flight Plan Update\" section, on the four EMP programs, we'd like you to add a fourth - correction, a final termination procedure to each of the four programs.",
+        "So on the \"Shortened P23,\" we'd have a Step 4, which reads \"Verb 25 Noun 26 Enter,\" and then the \"Four registers, Enter all balls\" - correction, \"Three registers, Enter all balls.\" [Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0243010"
+    },
+    {
+      "tokens": [
+        "Okay, copy.",
+        "Four step for P23 is \"Verb 25 Noun 26, Enter all balls in all registers.\""
+      ],
+      "speaker": "Duke",
+      "time": "0243053"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And on the next program, the \"Manual range input,\" Step 7 would be the same thing.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0243101"
+    },
+    {
+      "tokens": [
+        "Copy.",
+        "\"Manual range input,\" Step 7 to \"Verb 25 Noun 26, Enter all balls.\""
+      ],
+      "speaker": "Duke",
+      "time": "0243130"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And on the \"Optics angle to body angles,\" we'll add a Step 7, and it would be the same as before.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0243136"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copy all balls."
+      ],
+      "speaker": "Duke",
+      "time": "0243207"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And on the \"Jet monitor\" program, it'll be a Step 6, the same thing.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0243211"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0243234"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The purpose for these were - was to protect the E-memory from other programs."
+      ],
+      "speaker": "England",
+      "time": "0243236"
+    },
+    {
+      "tokens": [
+        "Okay..."
+      ],
+      "speaker": "Duke",
+      "time": "0243244"
+    },
+    {
+      "tokens": [
+        "...Okay.",
+        "The next change is to your \"SPS burn rules.\" So if you can get that card.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0243246"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0243302"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On the fuel to oxidizer pressure, [pause] it should read - or it does read \"Greater than 115.\" Will you change it to read \"124 for oxidizer, 110 for fuel.\" [Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0243304"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "\"Pressure greater than 115\" is changed to \"124, oxidizer; 110, fuel.\""
+      ],
+      "speaker": "Duke",
+      "time": "0243334"
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "And in the \"Fuel to oxidizer Delta-P,\" it reads \"Less than 20 psi.\" We'd like to change that to \"35 psi oxidizer greater than fuel, or 5 psi oxidizer less than fuel.\" [Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0243339"
+    },
+    {
+      "tokens": [
+        "Okay; copy \"35 oxidizer greater than fuel; 5 oxidizer less than fuel.\""
+      ],
+      "speaker": "Duke",
+      "time": "0243409"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And the final part of that is in the \"Tight constraints\" there in the box, [pause] it says \"Greater than 160, and greater than 80.\" We'd like to change that to \"Greater than 168 oxidizer, and greater than 153 fuel.\" [Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0243414"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "\"Greater than 168 oxidizer; 153, fuel.\" [Pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0243444"
+    },
+    {
+      "tokens": [
+        "And I guess on that \"Tight constraints\" also, it's the - the chamber pressure says \"Greater than 80\" for the \"Tight constraints.\" [Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0243452"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0243507"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And that's the end of that procedure.",
+        "A note here that this assumes a - a good oxidizer transducer, and there may be a - a problem that it's hung up.",
+        "And we'll have a - a little later change in the Midcourse 2 burn procedure.",
+        "And from this, we'll be able to tell what - what - where the problem is.",
+        "I'll get that up to you as soon as they've sorted it out here.",
+        "[Pause.] Okay, and there are two notes here.",
+        "[Pause.] For Ken, a reminder to watch the UV film consumption magazine Oscar Oscar.",
+        "He's right on the budget now, and there's no pad."
+      ],
+      "speaker": "England",
+      "time": "0243508"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "And there's no way to cut a film out."
+      ],
+      "speaker": "Mattingly",
+      "time": "0243554"
+    },
+    {
+      "tokens": [
+        "I understand."
+      ],
+      "speaker": "England",
+      "time": "0243557"
+    },
+    {
+      "tokens": [
+        "Now, we're - we're aware of it being tight, Tony.",
+        "If you see us slip behind - I - I guess I don't know what to do about it.",
+        "You'll have to come up with a recommendation of what - what other photo to delete."
+      ],
+      "speaker": "Mattingly",
+      "time": "0243600"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, we just thought we'd let you know that you had a two-frame pad, and we've already used it."
+      ],
+      "speaker": "England",
+      "time": "0243611"
+    },
+    {
+      "tokens": [
+        "You mean we've taken two frames we weren't supposed to?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0243618"
+    },
+    {
+      "tokens": [
+        "I don't understand the note here.",
+        "That was the note I got.",
+        "Maybe it was used up before - before they loaded it or something.",
+        "I'll find out."
+      ],
+      "speaker": "England",
+      "time": "0243621"
+    },
+    {
+      "tokens": [
+        "As far as I know, Tony - Yeah, yeah, I just want to make sure that there's no misunderstanding on our part about what it is we're supposed to do, because we took only those frames that were selected, because we are aware of the tight budget."
+      ],
+      "speaker": "Mattingly",
+      "time": "0243632"
+    },
+    {
+      "tokens": [
+        "Okay; understand."
+      ],
+      "speaker": "England",
+      "time": "0243646"
+    },
+    {
+      "tokens": [
+        "And we might be off a little bit on the numbers we gave you, because, you know, that counter's kind of gross, and it's easy to get off by a - by a number or so, particularly when you start at the low end."
+      ],
+      "speaker": "Mattingly",
+      "time": "0243648"
+    },
+    {
+      "tokens": [
+        "All right; understand.",
+        "I'm just off that more than a number.",
+        "Okay, and a last note.",
+        "We'd like you to take a look when you get a chance at that - the LM thermal surface, and see if you notice any changes or can give us any more words on it.",
+        "We really don't anticipate a problem there.",
+        "It turns out in looking back, there was a history of one batch of bad paint, and they sort of think it's just the paint blistering up.",
+        "And it doesn't seem to be on a..."
+      ],
+      "speaker": "England",
+      "time": "0243658"
+    },
+    {
+      "tokens": [
+        "All right..."
+      ],
+      "speaker": "Duke",
+      "time": "0243728"
+    },
+    {
+      "tokens": [
+        "...on the surface that'll give us a real bad problem."
+      ],
+      "speaker": "England",
+      "time": "0243729"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're ready to bring up the High Gain if you've got some angles for us."
+      ],
+      "speaker": "Duke",
+      "time": "0243737"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll get them."
+      ],
+      "speaker": "England",
+      "time": "0243741"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'd like you to stand by for ten minutes on that High Gain.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0243752"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Duke",
+      "time": "0243800"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 24 hours, 39 minutes Ground Elapsed Time.",
+        "Apollo 16 now 102,739 nautical miles [190,273 km] away from the Earth, and traveling at a velocity of 5,123 feet per second [1,561 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Charlie, Houston.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0244514"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0244519"
+    },
+    {
+      "tokens": [
+        "Okay, on the High Gain, we'd like you to select Pitch, minus 40; Yaw, plus 90; and the Beam width in Narrow.",
+        "And we'll give you a cue to switch over to the High Gain.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0244521"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You've got them selected.",
+        "You going to cue us, you say?"
+      ],
+      "speaker": "Duke",
+      "time": "0244552"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "We'll give you a cue."
+      ],
+      "speaker": "England",
+      "time": "0244555"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0244559"
+    },
+    {
+      "tokens": [
+        "Charlie, Houston.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0244642"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0244649"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'd like you to go Reacquisition now, and we'll command.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0244650"
+    },
+    {
+      "tokens": [
+        "Say again?"
+      ],
+      "speaker": "Duke",
+      "time": "0244658"
+    },
+    {
+      "tokens": [
+        "We'd like you to go Reacquisition now.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0244659"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You've got Reacq and High Gain."
+      ],
+      "speaker": "Duke",
+      "time": "0244704"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0244707"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "To discuss that thermal layer of grass that we got [pause] growing on the - growing just outside the docking target, it's thinned out a pretty good bit since last night.",
+        "I think it's gone somewhere, but there're a lot of these little square - rectangular strips about - up to two inches long; I see one that must be three inches long, and they're just sort of - look like they're glued - somebody glued a bunch of strips of grass onto that thermal shield, but most of them have gone.",
+        "Where it was 100 percent coverage before, it looks like it's about 50 percent coverage now.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0244725"
+    },
+    {
+      "tokens": [
+        "Okay, we copy that."
+      ],
+      "speaker": "England",
+      "time": "0244824"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston; 24 hours, 48 minutes Ground Elapsed Time.",
+        "That was John Young describing the current status of the particles on the Lunar Module.",
+        "We show Apollo 16 at 103,197 nautical miles [191,120 km] away from the Earth, traveling at a speed of 5,106 feet per second [1,556 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Tony, are you folks ready for us to press on with a little film cycle?",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "024_49_33"
+    },
+    {
+      "tokens": [
+        "Stand by a second, Ken."
+      ],
+      "speaker": "England",
+      "time": "0244943"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0244947"
+    },
+    {
+      "tokens": [
+        "Okay, Ken; Houston."
+      ],
+      "speaker": "England",
+      "time": "0245031"
+    },
+    {
+      "tokens": [
+        "[Garble]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0245035"
+    },
+    {
+      "tokens": [
+        "Okay, we'd like you to go ahead on the film cycling down to the MSFN cue and then call us back."
+      ],
+      "speaker": "England",
+      "time": "0245037"
+    },
+    {
+      "tokens": [
+        "Wilco."
+      ],
+      "speaker": "Mattingly",
+      "time": "0245047"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "How about a cue?",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0245220"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by a second.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0245239"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "Go on, then, with your procedure."
+      ],
+      "speaker": "England",
+      "time": "0245320"
+    },
+    {
+      "tokens": [
+        "Okay, I'll read these out as I go through them."
+      ],
+      "speaker": "Mattingly",
+      "time": "0245325"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "England",
+      "time": "0245328"
+    },
+    {
+      "tokens": [
+        "And the only thing that looked a little different is when I got down to the step where it said \"Pan Camera Mode to Standby,\" it already was.",
+        "I guess that's just an oversight."
+      ],
+      "speaker": "Mattingly",
+      "time": "0245329"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Okay, that's no problem.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0245340"
+    },
+    {
+      "tokens": [
+        "John?",
+        "John?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0245403"
+    },
+    {
+      "tokens": [
+        "What's the thumbwheel setting?",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0245406"
+    },
+    {
+      "tokens": [
+        "I - Okay, Tony.",
+        "Can you read me now?",
+        "I'm on vox."
+      ],
+      "speaker": "Mattingly",
+      "time": "0245416"
+    },
+    {
+      "tokens": [
+        "Yes, you sound fine."
+      ],
+      "speaker": "England",
+      "time": "0245418"
+    },
+    {
+      "tokens": [
+        "All righty.",
+        "Mapping Camera is coming On.",
+        "Stand by."
+      ],
+      "speaker": "Mattingly",
+      "time": "0245421"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0245429"
+    },
+    {
+      "tokens": [
+        "You like to have the Pan Camera Self Test simultaneously, or would you like to do it sequentially?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0245442"
+    },
+    {
+      "tokens": [
+        "Okay; we'd like it simultaneously."
+      ],
+      "speaker": "England",
+      "time": "0245446"
+    },
+    {
+      "tokens": [
+        "You hear..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay; Pan Camera to Self Test, getting Self Test."
+      ],
+      "speaker": "Mattingly",
+      "time": "0245452"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Barber pole now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0245455"
+    },
+    {
+      "tokens": [
+        "You can hear Command Module Pilot Ken Mattingly checking out the Pan Camera and the Mapping Camera onboard with the Mission Control Center in Houston.",
+        "This is Apollo Control, Houston at 24 hours, 55 minutes Ground Elapsed Time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston at 24 hours, 56 minutes Ground Elapsed Time.",
+        "Apollo 16 now 103,540 nautical miles [191,756 km] away from Earth."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, I've got the gray flag on the Pan Camera Mode talkback, and that took about 45 seconds, as opposed to a minute."
+      ],
+      "speaker": "Mattingly",
+      "time": "0245548"
+    },
+    {
+      "tokens": [
+        "Okay, we copy that."
+      ],
+      "speaker": "England",
+      "time": "0245557"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "So I'm going to go ahead and take the Pan Camera Power to Off."
+      ],
+      "speaker": "Mattingly",
+      "time": "0245600"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0245607"
+    },
+    {
+      "tokens": [
+        "Okay, I'm getting ready to take the Mapping Camera to Off, center."
+      ],
+      "speaker": "Mattingly",
+      "time": "0245626"
+    },
+    {
+      "tokens": [
+        "Okay, I've got two minutes here."
+      ],
+      "speaker": "England",
+      "time": "0245630"
+    },
+    {
+      "tokens": [
+        "You got a good watch."
+      ],
+      "speaker": "Mattingly",
+      "time": "0245634"
+    },
+    {
+      "tokens": [
+        "Right.",
+        "It's a Mickey special.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0245636"
+    },
+    {
+      "tokens": [
+        "Okay, there's our 30 seconds."
+      ],
+      "speaker": "Mattingly",
+      "time": "0245701"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "England",
+      "time": "0245704"
+    },
+    {
+      "tokens": [
+        "Take the SM/AC Power Off.",
+        "[Pause.] Man, that's what you call good timing.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0245708"
+    },
+    {
+      "tokens": [
+        "Okay, Tony.",
+        "We're going to Omni Bravo, and selecting is returned to High Gain."
+      ],
+      "speaker": "Duke",
+      "time": "0245721"
+    },
+    {
+      "tokens": [
+        "Oh..."
+      ],
+      "speaker": "England",
+      "time": "0245724"
+    },
+    {
+      "tokens": [
+        "Okay; sounds good, Charlie."
+      ],
+      "speaker": "England",
+      "time": "0245730"
+    },
+    {
+      "tokens": [
+        "Yes, please, John; back to PTT Intercom.",
+        "Thank you.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0245732"
+    },
+    {
+      "tokens": [
+        "End of CM tape."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Tony, we got a Delta - LM/CM Delta-P of 0.8..."
+      ],
+      "speaker": "Duke",
+      "time": "0245750"
+    },
+    {
+      "tokens": [
+        "Okay..."
+      ],
+      "speaker": "England",
+      "time": "0245754"
+    },
+    {
+      "tokens": [
+        "...and John's on the biomed now."
+      ],
+      "speaker": "Duke",
+      "time": "0245755"
+    },
+    {
+      "tokens": [
+        "Okay; we copy that."
+      ],
+      "speaker": "England",
+      "time": "0245759"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston; 24 hours, 58 minutes Ground Elapsed Time.",
+        "The crew of Apollo 16 following very closely the timeline in the Flight Plan.",
+        "Apollo 16 Commander John Young has just donned a biomedical harness as reported by Lunar Module Pilot Charles Duke.",
+        "At 24 hours, 59 minutes; Apollo 16 is 103,686 nautical miles [192,026 km] away from the Earth."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, John, you're giving us some great TV there.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0250637"
+    },
+    {
+      "tokens": [
+        "What did you say?",
+        "What did you say, Tony?"
+      ],
+      "speaker": "Young",
+      "time": "0250652"
+    },
+    {
+      "tokens": [
+        "I said we're getting some great TV down here.",
+        "Looks good."
+      ],
+      "speaker": "England",
+      "time": "0250654"
+    },
+    {
+      "tokens": [
+        "Was that one of your tapes?"
+      ],
+      "speaker": "Young",
+      "time": "0250700"
+    },
+    {
+      "tokens": [
+        "Ah so, that's a tape.",
+        "Sorry about that."
+      ],
+      "speaker": "England",
+      "time": "0250705"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 25 hours, 7 minutes Ground Elapsed Time.",
+        "That exchange between Tony England and Apollo 16, the reference was to a replay which is taking place in the Mission Control Center of the tape of yesterday evening's television.",
+        "This picture's being studied by some of the flight controllers here who had not had an opportunity to see it before along with Dr.",
+        "Robert R.",
+        "Gilruth who was the former director of the Manned Spacecraft Center.",
+        "We're at 25 hours, 8 minutes Ground Elapsed Time.",
+        "Apollo 16 now 104,125 nautical miles [192,839 km] away from the Earth and traveling at a speed of 5,068 feet per second [1,545 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 25 hours, 11 minutes Ground Elapsed Time.",
+        "Very little conversation taking place between our CapCom Tony England and the Mission Control Center and the crew of Apollo 16.",
+        "It is during this time frame however that the crew of Apollo 16 should be performing the electrophoresis demonstration.",
+        "During this demonstration, the crew will attempt onboard to prove the higher purity of particle migrations in zero g.",
+        "Three Mylar tubes containing microspheres are used for this activity.",
+        "The tubes are positively and negatively charged at either end.",
+        "The movement of the microspheres is then studied.",
+        "This movement is documented by means of the 70 millimeter Hasselblad camera.",
+        "This is the demonstration that was also performed during Apollo 14.",
+        "We're at 25 hours, 12 minutes Ground Elapsed Time; continuing to monitor; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": "025_11"
+    },
+    {
+      "tokens": [
+        "Houston, 16."
+      ],
+      "speaker": "Mattingly",
+      "time": "0251807"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "England",
+      "time": "0251811"
+    },
+    {
+      "tokens": [
+        "Okay, Tony.",
+        "We're on the electrophoresis now, and we're now - just about to - to hook up the power cable and turn the power on, and it says at that point \"Hold for instructions from Houston.\""
+      ],
+      "speaker": "Mattingly",
+      "time": "0251814"
+    },
+    {
+      "tokens": [
+        "Okay [laughter], instructions I have there are to press on through that hold and go on down to just before starting the camera and then hold again and give us a call."
+      ],
+      "speaker": "England",
+      "time": "0251829"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "0251841"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 16, Houston."
+      ],
+      "speaker": "England",
+      "time": "0252025"
+    },
+    {
+      "tokens": [
+        "Go ahead.",
+        "Over."
+      ],
+      "speaker": "Mattingly",
+      "time": "0252029"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "At your convenience, when you get a chance, we'd like you to read out all quads of the RCS propellant quantity for correlation with the TM."
+      ],
+      "speaker": "England",
+      "time": "0252031"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "A is 90; B is 96; C is 96; D is over 100, about 101 or 2."
+      ],
+      "speaker": "Mattingly",
+      "time": "0252048"
+    },
+    {
+      "tokens": [
+        "Okay, we copy that."
+      ],
+      "speaker": "England",
+      "time": "0252105"
+    },
+    {
+      "tokens": [
+        "Houston."
+      ],
+      "speaker": "Young",
+      "time": "0252354"
+    },
+    {
+      "tokens": [
+        "Go ahead, Charlie."
+      ],
+      "speaker": "England",
+      "time": "0252356"
+    },
+    {
+      "tokens": [
+        "Houston, we're - we're down to the step - before Ken turns on the electrophoresis fire.",
+        "Where do you want us to hold that?",
+        "Over."
+      ],
+      "speaker": "Young",
+      "time": "0252357"
+    },
+    {
+      "tokens": [
+        "Okay, we'd like you to hold just prior to starting the camera.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0252412"
+    },
+    {
+      "tokens": [
+        "Okay, just prior to starting the camera."
+      ],
+      "speaker": "Young",
+      "time": "0252420"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "On the next page."
+      ],
+      "speaker": "England",
+      "time": "0252422"
+    },
+    {
+      "tokens": [
+        "Okay; how about telling us where we're going here, because..."
+      ],
+      "speaker": "Mattingly",
+      "time": "0252425"
+    },
+    {
+      "tokens": [
+        "Okay..."
+      ],
+      "speaker": "England",
+      "time": "0252428"
+    },
+    {
+      "tokens": [
+        "...I've got to turn this thing on, and I'd like to have it in my mind what it is we're going to do."
+      ],
+      "speaker": "Mattingly",
+      "time": "0252429"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "It's no big deal.",
+        "The note here was, at that point, you're supposed to observe the current meters, and if there's no indication of a current flow in any tube, you tap the box gently along the - the axis, parallel with the face, and then you allow the whole se - the whole unit to lie motionless for additional three to five minutes before proceeding.",
+        "They're afraid there may be a bubble in one of the tubes, and you don't get a current."
+      ],
+      "speaker": "England",
+      "time": "0252434"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, actually, there's a bubble in each tube."
+      ],
+      "speaker": "Mattingly",
+      "time": "0252506"
+    },
+    {
+      "tokens": [
+        "Say that again."
+      ],
+      "speaker": "England",
+      "time": "0252510"
+    },
+    {
+      "tokens": [
+        "Actually, there's a bubble in each tube.",
+        "And it's - each tube has a bubble.",
+        "They are in exactly the same place.",
+        "They're lined up in a row, and they are directly over meter Number 3.",
+        "And the bubbles are about - oh, one-eighth of an inch in diameter.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0252512"
+    },
+    {
+      "tokens": [
+        "Okay, the PI says that's okay, and we should go ahead and proceed."
+      ],
+      "speaker": "England",
+      "time": "0252541"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Now, the question that you had for me was that if - if any of the meters do not go into the green, we turn the power on.",
+        "Did you want me to tap the box, and then do what?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0252547"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The instructions were to tap the box gently, allow the unit to remain motionless for an additional three to five minutes, and then proceed."
+      ],
+      "speaker": "England",
+      "time": "0252602"
+    },
+    {
+      "tokens": [
+        "Okay; and this time, if we don't get the meters into the green, we proceed anyhow; is that correct?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0252613"
+    },
+    {
+      "tokens": [
+        "According to the instructions, that's correct."
+      ],
+      "speaker": "England",
+      "time": "0252618"
+    },
+    {
+      "tokens": [
+        "All righty."
+      ],
+      "speaker": "Mattingly",
+      "time": "0252622"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 25 hours, 27 minutes Ground Elapsed Time.",
+        "That was Ken Mattingly, Command Module Pilot of Apollo 16, discussing procedures for the electrophoresis demonstration with CapCom Tony England here in Mission Control.",
+        "We now show Apollo 16 at the 105,057 nautical miles [194,566 km] away from the Earth and traveling at a speed of 5,032 feet per second [1,534 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Tony.",
+        "It turns out that meter Number 1 is just barely into the red; meter Number 2 didn't come up quite into the red; meter Number 3 is about a needle width below the red.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0252744"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'd like you to go on with the experiment.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0252806"
+    },
+    {
+      "tokens": [
+        "Okay, I've jiggled it a little bit and I'm gonna let it settle here for a second, and then we'll start.",
+        "We'll give you a mark when we start."
+      ],
+      "speaker": "Mattingly",
+      "time": "0252814"
+    },
+    {
+      "tokens": [
+        "Roger, we concur."
+      ],
+      "speaker": "England",
+      "time": "0252823"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston; we have started the experiment.",
+        "And as soon as we got it rotating - got it running, and I turned according to the decal on the box, which is counterclockwise, half rotation; and, soon as I did, the orange film disappeared and - I see white particles coming through - coming through as a stream.",
+        "It looks much like a - a - it looks like latex.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0253016"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We copy that.",
+        "Any difference in rates between the different tubes?",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0253101"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "The first thing that happened, as soon as I opened it, I got a big blob of this stuff inside of the - it looks like the inside of the window here between where it shows - the decal on the outside says \"Sample 1 and 2.\" it's got a big - couple of big blobs in there [garble under radio static] the Number 1 sample is approaching it.",
+        "The Number 3 sample is about halfway between ring 2 and 3.",
+        "Also have current meter Number 1 is in the green, current meter Number 2 is in the green, and Number 3 is still about a needle width below the red line and didn't move at all.",
+        "The bubbles are moving at about the same rate as the white material, and the first bubble in tube Number 2 has just reached the yellow band, and as I understand this, I'm going to have to wait until the white material reaches that yellow band."
+      ],
+      "speaker": "Mattingly",
+      "time": "0253106"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "The white material in the fastest tube."
+      ],
+      "speaker": "England",
+      "time": "0253228"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "0253233"
+    },
+    {
+      "tokens": [
+        "And we had some bad comm right there in the middle when you were describing the rates and the difference in the three tubes of the white material.",
+        "If you could say a little bit of that again, it might help."
+      ],
+      "speaker": "England",
+      "time": "0253236"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's moving much more rapidly than I had anticipated it would, Tony.",
+        "Right now, the Number 2 sample is leading by about a nose.",
+        "It's just crossed the one - two - three - four - fifth ring inscribed on that center tube.",
+        "The Number 3 sample has just crossed the fourth one; the Number 1 sample has just crossed the fifth one now; and Number 2 is about halfway between five and six.",
+        "Number 3 sample is maintaining a very cohesive shape and looks like a little cylinder with a pointed nose on it, and it's maintaining its white consistency.",
+        "And it's going in - I can guess that the length of the - group of particles in there that's maintaining a solid appearance is about the width of one of these lines.",
+        "Then, it tails out to a very diffuse gaseous - just a swirl material behind it that goes all the way back to the Lexam.",
+        "The faster samples are diffusing much more rapidly, and they have a little nose on them, which is very thin and leads ahead of the larger mass of material.",
+        "And they form sort of a cone shape.",
+        "and they are about two and a half to three ring lengths in length, and - I'm talking about the distance between - sets of rings.",
+        "And they both appear to be diffusing about the same amount.",
+        "The Number 2 sample is really starting to break up now and starting to twist the - looks like it's taking on a corkscrew appearance as it approaches the yellow line.",
+        "And it's approaching the yellow line, and now Nunber 1 is approaching one [garble] so I'm gonna hit the Reversal Switch."
+      ],
+      "speaker": "Mattingly",
+      "time": "0253247"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You say there is no difference in diffusion between 1 and 2?"
+      ],
+      "speaker": "England",
+      "time": "0253438"
+    },
+    {
+      "tokens": [
+        "Well, there wasn't when we started, now - well, now that we've hit the Reversal Switch [laughter], I guess all bets are off.",
+        "The - [laughter] they've just really - really broken up in Number 2 and in - Number 1 is holding together a little better.",
+        "They really looked very, very similar; except that just as it crossed the last ring before the yellow ring, Number 2 started to get an elongate nose on the point, and it was starting to twist - I say it was looking like a corkscrew.",
+        "And then about the same time, when - just about the time I hit the Reversal Switch, the sample in Number 1 did the same thing.",
+        "The sample in Number 3 is doing entirely a different operation.",
+        "It retained sort of a bullet shape all the way down as far as it went, and now - that we've reversed it, the pointed end, which was on the right side, the direction of motions has now become a flat blunt end, and it's picking up - kind of an arrow-shaped head on the left side as it goes back towards the container.",
+        "But it's still retaining its cohesiveness.",
+        "The sample Number 2 just really got all diffused and spread around.",
+        "And Number 1 is holding together a little bit better.",
+        "It's starting to take shape that looks very much like Number 3; in fact, the trailing edge - that's the one on the right side now, or sample Number 1 - has just about caught up and looks very much like sample Number 3, except that you can tell that some of the material in sample 1 has been diffused."
+      ],
+      "speaker": "Mattingly",
+      "time": "0253448"
+    },
+    {
+      "tokens": [
+        "Outstanding."
+      ],
+      "speaker": "England",
+      "time": "0253631"
+    },
+    {
+      "tokens": [
+        "And we're about to approach the original end.",
+        "Do you want me to reverse it again, or what do you suggest at this point?",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0253632"
+    },
+    {
+      "tokens": [
+        "Yeah, Ken.",
+        "We'd like you to reverse it again."
+      ],
+      "speaker": "England",
+      "time": "0253648"
+    },
+    {
+      "tokens": [
+        "Okay, and I'll do that when the first large portion of the sample reaches the Lexan manifold; is that okay?",
+        "That's - some of the diffused material will already coincide."
+      ],
+      "speaker": "Mattingly",
+      "time": "0253651"
+    },
+    {
+      "tokens": [
+        "Okay, that sounds good.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0253705"
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston, that is Ken Mattingly describing the movement inside the three tubes for the electrophoresis demonstration.",
+        "We're at 25 hours, 37 minutes into the mission.",
+        "Apollo 16 now 105,559 nautical miles [195,495 km] out from the Earth."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, I've reversed it, and I reversed it when the pointed end of sample Number 3 reached the first marked ring before reaching the Lexan manifold."
+      ],
+      "speaker": "Mattingly",
+      "time": "0253733"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "England",
+      "time": "0253742"
+    },
+    {
+      "tokens": [
+        "And it's starting to snake now.",
+        "I - These - these little blobs don't seem to take this reversal so well.",
+        "Another thing that was a little different on that first - when I - after I reversed it, sample Number 1, I mentioned that all three had bubbles who were right together when we started.",
+        "The bubble on - on them all passed over to the extreme right end, except that Number 1, when we reversed the samples, it remained over in the right end, and Numbers 2 and 3 traveled with the material."
+      ],
+      "speaker": "Mattingly",
+      "time": "0253745"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copy that."
+      ],
+      "speaker": "England",
+      "time": "0253821"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Tony, Number 2 has reached the end again.",
+        "I'm going to reverse it for the last time."
+      ],
+      "speaker": "Mattingly",
+      "time": "0254008"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "England",
+      "time": "0254016"
+    },
+    {
+      "tokens": [
+        "It's reversed at this time.",
+        "Mark it."
+      ],
+      "speaker": "Mattingly",
+      "time": "0254017"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0254019"
+    },
+    {
+      "tokens": [
+        "Number 2 is completely - looks like a - an emulsion.",
+        "Number 1 still has a central core that's holding together, and Number 3 is doing a good job of staying together.",
+        "It's diffused very little."
+      ],
+      "speaker": "Mattingly",
+      "time": "0254023"
+    },
+    {
+      "tokens": [
+        "Okay, we copy that."
+      ],
+      "speaker": "England",
+      "time": "0254041"
+    },
+    {
+      "tokens": [
+        "Okay, and at the end of this - it looks to me like it's so diffused that at the end of this run when we get it back, I'll just go ahead and secure it."
+      ],
+      "speaker": "Mattingly",
+      "time": "0254045"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yeah, Ken, I think they're gonna have fun analyzing that one."
+      ],
+      "speaker": "England",
+      "time": "0254237"
+    },
+    {
+      "tokens": [
+        "I think they've got their work cut out for them.",
+        "[Pause.] Are there any questions that you might want to get resolved that maybe I - were obvious to me but weren't obvious to you [laughter] before we put it all away?",
+        "We're going to be closing down here in a couple of minutes."
+      ],
+      "speaker": "Mattingly",
+      "time": "0254242"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The PI is back there, and hopefully he's working on some questions."
+      ],
+      "speaker": "England",
+      "time": "0254300"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ken, Houston."
+      ],
+      "speaker": "England",
+      "time": "0254425"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mattingly",
+      "time": "0254429"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "One, you said you - you tapped the box there at the beginning to try to get rid of the bubbles.",
+        "How long did you wait before you started?",
+        "I know you gave a mark, but we'd like to verify that."
+      ],
+      "speaker": "England",
+      "time": "0254431"
+    },
+    {
+      "tokens": [
+        "Between the time we tapped the bubbles and the time we started the experiment?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0254445"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "England",
+      "time": "0254449"
+    },
+    {
+      "tokens": [
+        "Is that the time frame you - ?",
+        "Okay.",
+        "That time frame was - I would guess it was about a minute, Tony.",
+        "Because when I tapped it, I just couldn't get them to move.",
+        "I had already - I had already tapped that thing once before, for the bubbles, and - because when - as soon as we unpacked it, we saw the bubbles out there, and I banged it a little bit to try and see if I could get them to move and didn't have any luck at all.",
+        "So we didn't wait any three or five minutes, it - it was about two minutes, I guess."
+      ],
+      "speaker": "Mattingly",
+      "time": "0254451"
+    },
+    {
+      "tokens": [
+        "Okay, we copy that; two minutes.",
+        "And on the Tube 1, did you notice any separation of the two sizes?"
+      ],
+      "speaker": "England",
+      "time": "0254519"
+    },
+    {
+      "tokens": [
+        "Not unless that's what this diffuse and central feature turns out to be.",
+        "But the dark - oh, let me rephrase that, the higher concentration of material that makes it look more solid - if that's a large particle and the diffuse material is the finer particles, then I would say that perhaps there was a separation of small particles from larger ones in tube Number 2 just about the time I reversed it, just starting to show up, and Number 1 perhaps the same.",
+        "And Number 3, I would say, if that's the proper interpretation, that there was no appreciable separation of any kind.",
+        "And I'm not sure that Number 1 ever exhibited the - some of the symptoms that Number 2 did.",
+        "I can't tell you right now which of these tubes splurted these blobs of particles under the window unit.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0254529"
+    },
+    {
+      "tokens": [
+        "All right, we copy that.",
+        "We - I sort of expected from the information we got here that [Number] 1 would be the one that split up into two sizes, but I guess we'll have to look at that later."
+      ],
+      "speaker": "England",
+      "time": "0254630"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Again, I'm not sure what this little burst of material that got out on the window might be.",
+        "Maybe we lost some of the stuff from one of them."
+      ],
+      "speaker": "Mattingly",
+      "time": "0254643"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's all the questions I had here.",
+        "[Pause.] At least the bugs didn't eat the particles."
+      ],
+      "speaker": "England",
+      "time": "025_46_53"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston; 25 hours, 48 minutes Ground Elapsed Time.",
+        "We've had a continuing discussion with Command Module Pilot Ken Mattingly on the electrophoresis demonstration.",
+        "We now show Apollo 16 at 106,097 nautical miles [196,492 km] out from the Earth and traveling at a velocity of 4,992 feet per second [1,522 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, did you get that?",
+        "That was magazine UU up to Frame 55 on that experiment."
+      ],
+      "speaker": "Young",
+      "time": "0255022"
+    },
+    {
+      "tokens": [
+        "Okay, Uncle Uncle 55.",
+        "Thank you."
+      ],
+      "speaker": "England",
+      "time": "0255028"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "0255032"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 16, Houston."
+      ],
+      "speaker": "England",
+      "time": "0255536"
+    },
+    {
+      "tokens": [
+        "Go ahead.",
+        "Over."
+      ],
+      "speaker": "Young",
+      "time": "0255540"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "At your convenience, we've got the change to your SPS burn procedure.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0255542"
+    },
+    {
+      "tokens": [
+        "Okay, you've got to stand by on that one.",
+        "Things are kind of busy right now."
+      ],
+      "speaker": "Young",
+      "time": "0255551"
+    },
+    {
+      "tokens": [
+        "Right, understand.",
+        "No hurry at all."
+      ],
+      "speaker": "England",
+      "time": "0255556"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 26 hours, 13 minutes Ground Elapsed Time.",
+        "Literally no conversation with the crew of Apollo 16 during a good part of this shift thus far.",
+        "We now show Apollo 16 at 107,262 nautical miles [198,649 km] away from the Earth.",
+        "Velocity now reading 4,947 feet per second [1,508 m/s].",
+        "Apollo 16's present weight 103,026 pounds [46,732 kilograms].",
+        "This is Apollo Control, Houston; continuing to monitor at 26 hours, 13 minutes since lift-off."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 26 hours, 33 minutes Ground Elapsed Time.",
+        "We presently show Apollo 16 at a distance of 108,209 nautical miles [200,403 km] away from the Earth.",
+        "Velocity now reads 4,912 feet per second [1,497 m/s].",
+        "We're standing by continuing to monitor in the event we have any conversation with the crew of Apollo 16, but it's been a very quiet shift.",
+        "We're at 26 hours, 33 minutes Ground Elapsed Time; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 16."
+      ],
+      "speaker": "Duke",
+      "time": "0263355"
+    },
+    {
+      "tokens": [
+        "Go ahead, Charlie."
+      ],
+      "speaker": "England",
+      "time": "0263358"
+    },
+    {
+      "tokens": [
+        "Tony, you just went by my window, and that half-Earth, man, is a spectacular sight."
+      ],
+      "speaker": "Duke",
+      "time": "0263401"
+    },
+    {
+      "tokens": [
+        "I bet it is.",
+        "I tell you, I'm green with envy.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0263406"
+    },
+    {
+      "tokens": [
+        "Well, I don't want to trade with you."
+      ],
+      "speaker": "Duke",
+      "time": "0263417"
+    },
+    {
+      "tokens": [
+        "[Laughter, pause.] You say the world looked pretty good when it went by?"
+      ],
+      "speaker": "England",
+      "time": "0263419"
+    },
+    {
+      "tokens": [
+        "How far out are we now, Tony?"
+      ],
+      "speaker": "Duke",
+      "time": "0263429"
+    },
+    {
+      "tokens": [
+        "108,285.1 [nautical miles - 200,538.4 kilometres]."
+      ],
+      "speaker": "England",
+      "time": "0263434"
+    },
+    {
+      "tokens": [
+        "Say again.",
+        "You were broken up."
+      ],
+      "speaker": "Duke",
+      "time": "0263437"
+    },
+    {
+      "tokens": [
+        "Okay; 108,285.1.",
+        "Change to point 6."
+      ],
+      "speaker": "England",
+      "time": "0263441"
+    },
+    {
+      "tokens": [
+        "Okay, thank you.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0263448"
+    },
+    {
+      "tokens": [
+        "I think one of the most impressive sights, Tony, is the cloud formations you can see and the polar icecap."
+      ],
+      "speaker": "Duke",
+      "time": "0263508"
+    },
+    {
+      "tokens": [
+        "Very good.",
+        "Have you had a chance to look long enough to see your - see the dynamics at all?"
+      ],
+      "speaker": "England",
+      "time": "0263517"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "We just now took the shade down on my side.",
+        "That's the first view I've had all morning."
+      ],
+      "speaker": "Duke",
+      "time": "0263524"
+    },
+    {
+      "tokens": [
+        "Very good."
+      ],
+      "speaker": "England",
+      "time": "0263531"
+    },
+    {
+      "tokens": [
+        "There was that awful big storm up off the coast of Alaska in the Bering Sea, I guess it was yesterday.",
+        "I can't see that now, though.",
+        "I think you all are in the dark.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0263533"
+    },
+    {
+      "tokens": [
+        "I guess our weather chart doesn't go up that high.",
+        "I was going to see what we've got there now, but it only includes your recovery areas.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0263554"
+    },
+    {
+      "tokens": [
+        "We were reviewing that film that you took - that TV that you took last night.",
+        "And there are a lot of sparklies out the window.",
+        "Were those all just loose particles floating around?"
+      ],
+      "speaker": "England",
+      "time": "0263634"
+    },
+    {
+      "tokens": [
+        "Yes, the LM was really shedding on that one panel there, Tony, and, in fact, we've still got quite a few particles floating along with us right now."
+      ],
+      "speaker": "Duke",
+      "time": "0263643"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 27 hours Ground Elapsed Time.",
+        "We presently show Apollo 16 at a distance of 109,490 nautical miles [202,775 kilometres] from Earth and traveling at a speed of 4,864 feet [1,482 metres] per second.",
+        "Meanwhile in the Mission Control Center, we do presently plan for Apollo 16 to perform midcourse correction Number 2.",
+        "This would be at the normal Flight Plan time; 30 hours, 39 minutes Ground Elapsed Time.",
+        "And the MCC-2 burn would have a Delta-V of 12.6 feet per second [3.84 m/s], and this would be a burn of a two-second duration performed with the Service Propulsion System engine.",
+        "We're at 27 hours, 1 minute to [sic] Ground Elapsed Time, continuing to monitor.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 27 hours, 8 minutes Ground Elapsed Time.",
+        "During this quiet period in the Mission Control Center we are replaying the launch television on one of the large screens.",
+        "This was the team of flight controllers that was on station during launch, and quite frankly very few had the opportunity to follow the sequence during the - visually during the actual launch.",
+        "We presently show Apollo 16 at an altitude of 109,854 nautical miles [203,450 km] and a velocity of 4,850 feet per second [1,478 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 16."
+      ],
+      "speaker": "Duke",
+      "time": "0272909"
+    },
+    {
+      "tokens": [
+        "Go ahead, Charlie."
+      ],
+      "speaker": "England",
+      "time": "0272913"
+    },
+    {
+      "tokens": [
+        "Okay, Tony.",
+        "I'm back up again.",
+        "Do you want to talk at - to us about those SPS burn rules?"
+      ],
+      "speaker": "Duke",
+      "time": "027_29_15"
+    },
+    {
+      "tokens": [
+        "Oh..."
+      ],
+      "speaker": "England",
+      "time": "0272923"
+    },
+    {
+      "tokens": [
+        "Stand by one.",
+        "Ken wants to - Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0272924"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0272926"
+    },
+    {
+      "tokens": [
+        "Okay, Tony.",
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0272952"
+    },
+    {
+      "tokens": [
+        "Okay, this isn't the burn rules.",
+        "It's a discussion of procedures for Midcourse-2 only.",
+        "And a change could be noted in your cue card - SPS cue card - or the G&C Checklist G/5-2, but you might want to hear the whole thing before you write it down.",
+        "Okay, at burn minus 6 minutes, the line that reads \"SPS Helium Valve, two, to Auto\" should be changed to \"SPS Helium Valves, two, to Manual for 10 seconds.\" And \"After 10 seconds, SPS Helium Valves, two, to Auto.\" And then they'd remain in Auto for the burn.",
+        "And we have a couple of notes to that.",
+        "First..."
+      ],
+      "speaker": "England",
+      "time": "0272955"
+    },
+    {
+      "tokens": [
+        "You're talking about going to On when you say \"Manual.\" And you don't want us to stay there ten seconds if it exceeds 200, do you?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0273053"
+    },
+    {
+      "tokens": [
+        "That's right.",
+        "If it exceeds 210, we want you to turn them off.",
+        "And we'll do the burn with them off - because if it went to Auto during the burn, we'd go right back into the problem."
+      ],
+      "speaker": "England",
+      "time": "0273105"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "0273124"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That was one of the notes, and you just anticipated it there.",
+        "The other note is, you may, if - if we've diagnosed the transducer problem correctly, you'll probably get an SPS Pressure light.",
+        "That will go on at 201 pounds.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0273126"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0273157"
+    },
+    {
+      "tokens": [
+        "Right now, they're anticipating that, by the time of the burn, that transducer will be biased about 15 pounds high.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0273159"
+    },
+    {
+      "tokens": [
+        "Okay; that's the oxidizer side?"
+      ],
+      "speaker": "Duke",
+      "time": "0273210"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "England",
+      "time": "0273215"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "What is - what do you think's wrong with that transducer?"
+      ],
+      "speaker": "Duke",
+      "time": "0273218"
+    },
+    {
+      "tokens": [
+        "Right now, the note is that the comparison chamber, which should be at about atmospheric pressure, has leaked.",
+        "And the leak is just making up for the normal absorption of helium, so the gauge is reading about constant.",
+        "Eventually, that comparison chamber will leak down to zero, and then you'll be comparing - instead of comparing to 14.7, you'll be comparing to zero, and it will read 15 pounds high.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0273223"
+    },
+    {
+      "tokens": [
+        "We're reading about 11 pounds high now.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0273301"
+    },
+    {
+      "tokens": [
+        "Okay; our gauge has been constant since lift-off."
+      ],
+      "speaker": "Duke",
+      "time": "0273307"
+    },
+    {
+      "tokens": [
+        "Right.",
+        "We can read the pressure farther on down the line; and, in the fuel side, the tank pressure and the pressure down the line are tracking right along, and they should be on the oxidizer side.",
+        "But on the oxidizer side, the tank's staying constant and the one down the line is dropping down as it should.",
+        "So either the one in the tank is just locked up or the leak out of the comparison chamber is just making up the difference.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0273311"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0273338"
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston at 27 hours, 34 minutes.",
+        "Apollo 16 now 111,051 nautical miles [205,666 km] away from the Earth.",
+        "Velocity now reads 4,806 feet per second [1,465 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Charlie, Houston."
+      ],
+      "speaker": "England",
+      "time": "0273553"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0273558"
+    },
+    {
+      "tokens": [
+        "Just so there is no misunderstanding here, I'd like to verify this up - this - procedure.",
+        "We're going to Manual for 10 seconds at six minutes before the burn, and then, nominally, we'll go back to Auto even if you get a - a caution.",
+        "The only point where we'd go to Off would be if it went above 210.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0273600"
+    },
+    {
+      "tokens": [
+        "Okay, copy.",
+        "At six minutes, Helium Valves go to Manual for 10 seconds, then to Auto.",
+        "If pressure goes to greater than 210, go to Off."
+      ],
+      "speaker": "Duke",
+      "time": "0273629"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "England",
+      "time": "0273638"
+    },
+    {
+      "tokens": [
+        "If we get a caution light, but less than 210, we still stay in Auto."
+      ],
+      "speaker": "Duke",
+      "time": "0273639"
+    },
+    {
+      "tokens": [
+        "That's right."
+      ],
+      "speaker": "England",
+      "time": "0273644"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston at 27 hours, 37 minutes into the mission.",
+        "That was CapCom Tony England updating the crew of Apollo 16 the procedures for the Midcourse Correction Number 2 burn, which is ...",
+        "MCC2 scheduled for 30 hours, 39 minutes Ground Elapsed Time.",
+        "That would be a 12.6 foot per second [3.84 m/s] burn with a duration of two seconds using the Service Propulsion System engine.",
+        "We're 27 hours, 38 minutes Ground Elapsed Time.",
+        "Apollo 16 now 111,245 nautical miles [206,026 km] away from the Earth.",
+        "Velocity continuing to decrease and now reading 4,799 feet per second [1,463 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 16.",
+        "Do you guys feel like that your transducers are good on the...",
+        "[Pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0273811"
+    },
+    {
+      "tokens": [
+        "What I mean to say is, do you feel like your telemetry's good on the SPS tank pressure?",
+        "[Pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0273826"
+    },
+    {
+      "tokens": [
+        "Stand by one, Charlie."
+      ],
+      "speaker": "England",
+      "time": "0273836"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Charlie, Houston."
+      ],
+      "speaker": "England",
+      "time": "0274029"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0274033"
+    },
+    {
+      "tokens": [
+        "Okay, the telemetry here - the telemetry is good.",
+        "And we can read from the transducer that you're reading your oxidizer tank pressure; we can also read from the inlet pressure transducer, which you can't read on board.",
+        "The inlet pressure transducer indicates that nominal decay and pressure due to helium absorption by the oxidizer.",
+        "And this looks just like all the other flights.",
+        "The other one is the one that you're reading, and it looks like it's locked up.",
+        "The reason for the procedure that we've sent up is to make sure that the - we know the pressures in the lines before this burn, which will give us a baseline to plan the management during the LOI."
+      ],
+      "speaker": "England",
+      "time": "0274034"
+    },
+    {
+      "tokens": [
+        "Well, okay.",
+        "That's what had us a - talking in here about how we're going to monitor the LOI."
+      ],
+      "speaker": "Duke",
+      "time": "0274120"
+    },
+    {
+      "tokens": [
+        "Right.",
+        "That's our concern, too.",
+        "And what we're trying to do is get enough unknowns out of this Midcourse so that we can have a good handle on the LOI."
+      ],
+      "speaker": "England",
+      "time": "0274127"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston, at 28 hours, 4 minutes into the mission.",
+        "We presently show Apollo 16 at the distance of 112,448 nautical miles [208,253 km] away from the Earth and now traveling at a speed of 4,755 feet per second [1,449 m/s].",
+        "We're standing by continuing to monitor any conversation which has been quite sparse through the past several hours of the flight, but we'll continue to do that and this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 16.",
+        "Over."
+      ],
+      "speaker": "Young",
+      "time": "0281001"
+    },
+    {
+      "tokens": [
+        "Go ahead, John."
+      ],
+      "speaker": "England",
+      "time": "0281004"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "The bias test is completed at the end of a minute, 40 seconds.",
+        "We got 102.0 on our Delta-V counter."
+      ],
+      "speaker": "Young",
+      "time": "0281007"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "102.0."
+      ],
+      "speaker": "England",
+      "time": "0281019"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 28 hours, 10 minutes.",
+        "That was Apollo 16 Commander John Young reporting that the EMS bias check was completed.",
+        "We presently show Apollo 16 at 112,740 nautical miles [208,794 km] away from the Earth and now traveling at a speed of 4,744 feet per second [1,446 m/s].",
+        "Thus far, during this shift, the White Team of flight controllers; it's been very straight forward, by the books.",
+        "Very little conversation between Mission Control and the flight crew.",
+        "We're standing by and continuing to monitor at 28 hours, 11 minutes; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The EMS or Entry Monitor System is a unit mounted directly in front of the left-seat crewman.",
+        "Its primary role is, as its name suggests, to monitor the quality of the Command Module's entry into and through Earth's atmosphere at the end of the mission.",
+        "One of the important component within is an accelerometer that allows the pilot to see the rate at which they are slowing.",
+        "The same accelerometer is also used throughout the mission as a backup sensor of their change of velocity any time they make manoeuvres.",
+        "Once in a weightless state, any bias in the sensor can be measured by offsetting it to 100 fps, then waiting a known length of time and seeing how far the velocity reading changes in that time."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 16, Houston.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0282456"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0282508"
+    },
+    {
+      "tokens": [
+        "Okay, we've got a few more questions on that paint shredding.",
+        "When you have a break, if you'll give us a call, we'll send them up to you.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "028_25_10"
+    },
+    {
+      "tokens": [
+        "Okay, Tony; go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0282556"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Last night during the TV show, the lighting wasn't ideal.",
+        "Maybe you have observed something that we couldn't see in the tapes here.",
+        "Okay, that panel behind the docking target - was it completely covered with the shredded material?",
+        "There's an access panel right in the middle of that - of the overall panel there - and we're curious to know if it was just in the access panel, or the whole panel.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0282559"
+    },
+    {
+      "tokens": [
+        "Okay, Tony, it was on the whole panel."
+      ],
+      "speaker": "Duke",
+      "time": "0282629"
+    },
+    {
+      "tokens": [
+        "Okay, how about any other panels around?",
+        "It looked like on TV there might be some on that panel just to the right.",
+        "And, if so, do you have any words on any other panels?"
+      ],
+      "speaker": "England",
+      "time": "0282633"
+    },
+    {
+      "tokens": [
+        "Okay, it's on that whole section there, Tony.",
+        "There's two triangular panels, one on each side of this rectangular pattern which is right below the docking target.",
+        "That whole section that is parallel of the Plus-X [axis], below the docking target, the two triangular panels and the rectangular panel, all are shredded."
+      ],
+      "speaker": "Duke",
+      "time": "0282646"
+    },
+    {
+      "tokens": [
+        "Okay, we copy that."
+      ],
+      "speaker": "England",
+      "time": "0282707"
+    },
+    {
+      "tokens": [
+        "[Garble.]"
+      ],
+      "speaker": "Duke",
+      "time": "0282711"
+    },
+    {
+      "tokens": [
+        "Say again?",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0282712"
+    },
+    {
+      "tokens": [
+        "Was there any gold Mylar, Kapton visible on the panel behind the docking target?"
+      ],
+      "speaker": "England",
+      "time": "0282722"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "It's - it's - apparently just a black surface now, most of the white-looking paint, or whatever it is, is all - most all gone now.",
+        "There's just a - oh, I'd say maybe a ten percent of the surface is now covered with this shredded white stuff."
+      ],
+      "speaker": "Duke",
+      "time": "0282729"
+    },
+    {
+      "tokens": [
+        "The origin of that question was there was some question whether the panel may not have come off entirely and, underneath that, is some of that Mylar stuff."
+      ],
+      "speaker": "England",
+      "time": "0282747"
+    },
+    {
+      "tokens": [
+        "Well, the panel is still on, in fact, you - you can't even see the Mylar - the - the - below it is a black surface that looks much like the top of the ascent prop - propellant tank."
+      ],
+      "speaker": "Duke",
+      "time": "0282757"
+    },
+    {
+      "tokens": [
+        "Okay, and I guess you mentioned last night there was some streaming of the paint as it was coming off.",
+        "Was there a preferred direction - or what was it?"
+      ],
+      "speaker": "England",
+      "time": "0282810"
+    },
+    {
+      "tokens": [
+        "Yeah, radially - well, from us, it was radial to the X-axis.",
+        "Almost right out over the ascent module - out the Y-axis.",
+        "[Pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0282820"
+    },
+    {
+      "tokens": [
+        "Was it independent of your jet firings?"
+      ],
+      "speaker": "England",
+      "time": "0282838"
+    },
+    {
+      "tokens": [
+        "When Ken fired the jets, it really blew it off then."
+      ],
+      "speaker": "Duke",
+      "time": "0282844"
+    },
+    {
+      "tokens": [
+        "Uh-huh.",
+        "In the same direction?"
+      ],
+      "speaker": "England",
+      "time": "0282848"
+    },
+    {
+      "tokens": [
+        "No, it made it go the other way down towards - the - the legs of the LM."
+      ],
+      "speaker": "Duke",
+      "time": "0282852"
+    },
+    {
+      "tokens": [
+        "Okay, and, without the RCS then, it was almost at right angles to the panel and, otherwise, it was going down towards the legs?"
+      ],
+      "speaker": "England",
+      "time": "0282857"
+    },
+    {
+      "tokens": [
+        "Yes, and it looks like - like John said, right now, Tony, as we come around into the Sun, there's some particles coming out - off now more towards Quad 2.",
+        "And it looks like it's on the underside of this panel as we cannot - we cannot see it, and - but it's between Quad 3 - 2 and the APS propellant module - correction - the APS propellant tank."
+      ],
+      "speaker": "Duke",
+      "time": "0282906"
+    },
+    {
+      "tokens": [
+        "Okay, we're looking at the drawing here and see where you mean."
+      ],
+      "speaker": "England",
+      "time": "0282940"
+    },
+    {
+      "tokens": [
+        "Say again?"
+      ],
+      "speaker": "Duke",
+      "time": "0282946"
+    },
+    {
+      "tokens": [
+        "Roger; we copy that, Charlie.",
+        "What we're searching for on this direction of flow is if you think there's any - anything in the area that might cause it to stream out like some - a leaky tank or anything of that sort, or whether it just seems to be almost random."
+      ],
+      "speaker": "England",
+      "time": "0282947"
+    },
+    {
+      "tokens": [
+        "Say again Tony, you cut out after - all after 'What we're searching for.'"
+      ],
+      "speaker": "Duke",
+      "time": "0283003"
+    },
+    {
+      "tokens": [
+        "Okay, what we're searching for here is just - We don't think there is any leak over there or anything of that sort.",
+        "but, if there is a preferred direction of flow, we're looking for any indication of what it might be so we'll know where - where the flow is coming from."
+      ],
+      "speaker": "England",
+      "time": "0283008"
+    },
+    {
+      "tokens": [
+        "Tony, please, you're - for some reason, you weren't up-linking, and we've had all after 'What - what we're searching for.'"
+      ],
+      "speaker": "Duke",
+      "time": "0283023"
+    },
+    {
+      "tokens": [
+        "Okay; stand by a second, Charlie.",
+        "I'll be back with you in a minute.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0283038"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie; Houston.",
+        "How do you copy now?",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0283123"
+    },
+    {
+      "tokens": [
+        "You're five by."
+      ],
+      "speaker": "Duke",
+      "time": "0283130"
+    },
+    {
+      "tokens": [
+        "Okay, we were just searching around here a little bit - Far-out possibility might be that we had a small leak in there or something and it was causing the peeled paint to flow off in a particular direction; and we were just wondering if you had any indication that that might be the case, or whether it's just flying off at right angles?",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0283132"
+    },
+    {
+      "tokens": [
+        "Well, when - when we first saw it, that was our opinion also, but now that most of it's gone - is - it - it's sort of just coming off in different directions.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0283154"
+    },
+    {
+      "tokens": [
+        "Okay, we copy that."
+      ],
+      "speaker": "England",
+      "time": "0283213"
+    },
+    {
+      "tokens": [
+        "And, Tony, the stuff that - is really not white; it's more of - now it's more of a gold-looking color or sandy color now."
+      ],
+      "speaker": "Duke",
+      "time": "0283217"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's the shredded stuff you're talking about?"
+      ],
+      "speaker": "England",
+      "time": "0283226"
+    },
+    {
+      "tokens": [
+        "That affirmative."
+      ],
+      "speaker": "Duke",
+      "time": "0283232"
+    },
+    {
+      "tokens": [
+        "All right, the thermal people aren't - aren't upset about this at all.",
+        "They don't think it will give us any constraint.",
+        "Evidently, that surface was only on there for the very high-Sun case.",
+        "[Pause.]"
+      ],
+      "speaker": "England",
+      "time": "0283235"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, the panel is intact underneath that paint job, whatever it was.",
+        "The panel apparently is intact."
+      ],
+      "speaker": "Duke",
+      "time": "0283249"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0283258"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie, I guess that's the whole set of questions here.",
+        "Everybody is very happy with - with what we're hearing.",
+        "[Long pause.]"
+      ],
+      "speaker": "England",
+      "time": "0283314"
+    },
+    {
+      "tokens": [
+        "Tony, that panel that shredded - the ones we were telling you about are - have some more pronounced wrinkle ridges in them than any of the other panels."
+      ],
+      "speaker": "Duke",
+      "time": "0283415"
+    },
+    {
+      "tokens": [
+        "Okay, we copy that, Charlie.",
+        "We'll find out what that means."
+      ],
+      "speaker": "England",
+      "time": "0283429"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 28 hours, 36 minutes Ground Elapsed Time.",
+        "We presently show Apollo 16 at 113,903 nautical miles [210,948 km] away from the Earth and traveling at a speed of 4,703 feet per second [1,433 m/s].",
+        "The exchange that you heard between Charlie Duke, the Lunar Module Pilot aboard Apollo 1,6 and CapCom Tony England dealt, of course, with the particles that were sighted first yesterday evening.",
+        "The Grumman thermal people who operated one of the staff support rooms, here have identified it as not being a problem, and here in Mission Control we're attempting to acquire more precise explanation for the behavior of these paint particles.",
+        "We're at 28 hours, 37 minutes Ground Elapsed Time and this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 28 hours, 52 minutes Ground Elapsed Time.",
+        "Our displays presently show Apollo 16 at a distance of 114,597 nautical miles [212,234 km] away from the Earth.",
+        "Velocity now reads 4,678 feet per second [1,426 m/s].",
+        "We're at 28 hours, 52 minutes and this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 28 hours, 57 minutes Ground Elapsed Time.",
+        "Apollo 16 now 114,858 nautical miles [212,717 km] away from the Earth, and now traveling at a speed of 4,669 feet per second [1,423 m/s].",
+        "In the Mission Control Center we're in the process of a shift changeover.",
+        "This being the Orange Team of flight controllers replacing the White Team of flight controllers.",
+        "And we're at 28 hours, 58 minutes into the mission.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 16.",
+        "Do you read?"
+      ],
+      "speaker": "Duke",
+      "time": "0291128"
+    },
+    {
+      "tokens": [
+        "Go ahead, 16."
+      ],
+      "speaker": "England",
+      "time": "0291131"
+    },
+    {
+      "tokens": [
+        "Okay, did you read John there?"
+      ],
+      "speaker": "Duke",
+      "time": "0291134"
+    },
+    {
+      "tokens": [
+        "Negative."
+      ],
+      "speaker": "England",
+      "time": "0291138"
+    },
+    {
+      "tokens": [
+        "Okay, we're exiting PTC and going to the far-UV attitude."
+      ],
+      "speaker": "Mattingly",
+      "time": "0291141"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "England",
+      "time": "0291145"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 29 hours, 14 minutes.",
+        "We've completed our shift handover in Mission Control.",
+        "Flight Director Pete Frank has been checking with his flight controllers.",
+        "He'll being going around the room shortly and getting a status and briefing for the things that will be going on during this shift.",
+        "We will have a change of shift press briefing.",
+        "That is scheduled to begin in about ten to 15 minutes and will be in the News Center Briefing Room.",
+        "Participants in the briefing will be Flight Director Gene Kranz, and Flight Surgeon Dr.",
+        "Royce Hawkins.",
+        "That again will be in about ten to 15 minutes in the MSC News Center Briefing Room."
+      ],
+      "speaker": "PAO",
+      "time": "029_14"
+    },
+    {
+      "tokens": [
+        "16, we've got a state vector and a target load whenever you're ready to accept.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0292138"
+    },
+    {
+      "tokens": [
+        "You've got it."
+      ],
+      "speaker": "Mattingly",
+      "time": "0292148"
+    },
+    {
+      "tokens": [
+        "Roger, thank you.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0292150"
+    },
+    {
+      "tokens": [
+        "How long you been down there?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0292158"
+    },
+    {
+      "tokens": [
+        "Oh, about 20 minutes.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0292200"
+    },
+    {
+      "tokens": [
+        "How's the weather down there today, Pete?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0292213"
+    },
+    {
+      "tokens": [
+        "Beautiful.",
+        "A little warm.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0292216"
+    },
+    {
+      "tokens": [
+        "And, Charlie, you're right over the Gulf of Mexico."
+      ],
+      "speaker": "Peterson",
+      "time": "0292248"
+    },
+    {
+      "tokens": [
+        "[Garble] looked out his window and said that you guys are still there."
+      ],
+      "speaker": "Mattingly",
+      "time": "0292250"
+    },
+    {
+      "tokens": [
+        "Say again, Ken."
+      ],
+      "speaker": "Peterson",
+      "time": "0292259"
+    },
+    {
+      "tokens": [
+        "Looks like you guys are still there."
+      ],
+      "speaker": "Mattingly",
+      "time": "0292302"
+    },
+    {
+      "tokens": [
+        "Affirmative."
+      ],
+      "speaker": "Peterson",
+      "time": "0292305"
+    },
+    {
+      "tokens": [
+        "What did you say about the Gulf, Pete?"
+      ],
+      "speaker": "Duke",
+      "time": "0292308"
+    },
+    {
+      "tokens": [
+        "Yeah, you should be right directly over the Gulf of Mexico.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0292311"
+    },
+    {
+      "tokens": [
+        "Yeah, I was thinking the same thing - that we could see it, anyway."
+      ],
+      "speaker": "Duke",
+      "time": "0292328"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, 16, you can have the computer.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0292502"
+    },
+    {
+      "tokens": [
+        "Thank you.",
+        "Do you want us to go to Delta now, or you guys going to hang on to the antennas?",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0292509"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "You can stay there."
+      ],
+      "speaker": "Peterson",
+      "time": "0292520"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "We are ready to switch now to the MSC News Center Briefing Room for our change of shift press briefing."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, do you have the angles?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0293921"
+    },
+    {
+      "tokens": [
+        "Affirmative; we got them.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0293924"
+    },
+    {
+      "tokens": [
+        "Torqued at 39:30."
+      ],
+      "speaker": "Mattingly",
+      "time": "0293933"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0293938"
+    },
+    {
+      "tokens": [
+        "And, 16, we can get the MCC-2 PAD and the high gain antenna angles for MCC-2 whenever you're ready.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "029_40_03"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Go ahead with your PAD."
+      ],
+      "speaker": "Duke",
+      "time": "0294047"
+    },
+    {
+      "tokens": [
+        "Okay, MCC-2: SPS/G&N; 66768; plus 1.24, minus 0.11; 030:39:00.01; Noun 81 is plus 0008.9, minus 0001.1, plus 0008.9; 094, 354, 010; Noun 44s are NA; Delta-VT, 0012.6, 0:02, 0008.3; sextant star, 40, 256.4, 30.3; rest of the PAD is NA.",
+        "Set stars are Sirius and Rigel; 219; 166; 313; ullage, none; LM weight, 36258."
+      ],
+      "speaker": "Peterson",
+      "time": "0294050"
+    },
+    {
+      "tokens": [
+        "Okay, we copy MCC-2, SPS slash G&N; 66768; plus 1.24, minus 0.11; 030:39:00.01; plus 0008.9, minus 0001.1, plus 0008.9; 094, 354, 010; NA; NA; 0012.6, 0:02, 0008.3; 40, 256.4, 30.3; rest of the PAD is NA.",
+        "Sirius and Rigel; 219; 166; 313; no ullage; LM weight, 36258."
+      ],
+      "speaker": "Duke",
+      "time": "0294225"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Johnny.",
+        "Are you ready for the High Gain angles?"
+      ],
+      "speaker": "Peterson",
+      "time": "0294313"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0294325"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Pitch, minus 46; Yaw, plus 0."
+      ],
+      "speaker": "Peterson",
+      "time": "0294326"
+    },
+    {
+      "tokens": [
+        "Pitch, minus 46; Yaw, plus 0."
+      ],
+      "speaker": "Duke",
+      "time": "0294337"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Peterson",
+      "time": "0294340"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston, we turned on the Hydrogen Purge Line Heaters; maybe we can get this purge off a hair early."
+      ],
+      "speaker": "Young",
+      "time": "0294550"
+    },
+    {
+      "tokens": [
+        "Roger; copied."
+      ],
+      "speaker": "Peterson",
+      "time": "0294559"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 29 hours, 52 minutes into the flight of Apollo 16.",
+        "During our change of shift press briefing, the crew aboard the spacecraft has been completing preparations for their first Midcourse Correction on the translunar leg of this flight.",
+        "That midcourse coming at the second opportunity, at a Ground Elapsed Time of 30 hours, 39 minutes.",
+        "And they have now completed aligning the guidance platform which is used as an attitude reference for the maneuver.",
+        "The burn will be performed with the Service Propulsion System engine in the Service Module and will be a 12.6-foot-per-second [3.8 m/s] maneuver, burning the engine for two seconds.",
+        "We've accumulated about four minutes of taped conversation with the crew and we'll play that back for you now and then stand by live."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, can we do this waste water dump now, or do you want us to wait closer in?"
+      ],
+      "speaker": "Young",
+      "time": "0295641"
+    },
+    {
+      "tokens": [
+        "Stand by a minute, John; we'll check it.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0295650"
+    },
+    {
+      "tokens": [
+        "John, we'd prefer you wait until after the sextant star check."
+      ],
+      "speaker": "Peterson",
+      "time": "0295701"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "0295707"
+    },
+    {
+      "tokens": [
+        "I'll tell you one thing about that - that sextant business, Don.",
+        "We got so many particles off the LM out there that I don't believe you could recognize a star pattern - in the telescope ever, but they show up just perfect in the sextant."
+      ],
+      "speaker": "Mattingly",
+      "time": "0295710"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Peterson",
+      "time": "0295731"
+    },
+    {
+      "tokens": [
+        "Sure makes you appreciate one of these nondrifting platforms."
+      ],
+      "speaker": "Mattingly",
+      "time": "0295735"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Ken, in view of that, you can do that water dump any time you want."
+      ],
+      "speaker": "Peterson",
+      "time": "0295739"
+    },
+    {
+      "tokens": [
+        "Oh, we'll go ahead and do that.",
+        "Do you have any objections to our going ahead and going to the attitude?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0295753"
+    },
+    {
+      "tokens": [
+        "Looks like we're really crowding the length of time it's going to take to dump the water - up against the burn time."
+      ],
+      "speaker": "Mattingly",
+      "time": "0295811"
+    },
+    {
+      "tokens": [
+        "Yeah, you can go ahead - you can go ahead to attitude, or do the water dump whichever you want."
+      ],
+      "speaker": "Peterson",
+      "time": "0295820"
+    },
+    {
+      "tokens": [
+        "Okay, we'll - we'll go ahead and go to attitude and see what we have for time."
+      ],
+      "speaker": "Mattingly",
+      "time": "0295829"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Peterson",
+      "time": "0295835"
+    },
+    {
+      "tokens": [
+        "I'd like to - We'll get the star check off in the first priority."
+      ],
+      "speaker": "Mattingly",
+      "time": "0295836"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Peterson",
+      "time": "0295839"
+    },
+    {
+      "tokens": [
+        "Pete, we go to stop charging Bat A now?"
+      ],
+      "speaker": "Duke",
+      "time": "0300248"
+    },
+    {
+      "tokens": [
+        "Roger, 16.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0300254"
+    },
+    {
+      "tokens": [
+        "And, 16, you can delete charging Battery A after the burn; it's charged sufficiently."
+      ],
+      "speaker": "Peterson",
+      "time": "0300334"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0300342"
+    },
+    {
+      "tokens": [
+        "16, I've got some gyro drift updates and PIPA bias for you, when you're ready to copy.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0300427"
+    },
+    {
+      "tokens": [
+        "Okay, go ahead."
+      ],
+      "speaker": "Mattingly",
+      "time": "0300454"
+    },
+    {
+      "tokens": [
+        "Okay, the gyro drift - I'll give you addresses and numbers.",
+        "Address 1460, 77552; address 1461, 77756; address 1462, 77307.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0300457"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's 1460, 77552; 1461, 77756; 1462, 77307."
+      ],
+      "speaker": "Mattingly",
+      "time": "0300531"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "And on the PIPA bias, the address is 1456, 76747.",
+        "[Pause.] Omni Alpha, 16."
+      ],
+      "speaker": "Peterson",
+      "time": "0300544"
+    },
+    {
+      "tokens": [
+        "Okay, 1456, 76747."
+      ],
+      "speaker": "Mattingly",
+      "time": "0300601"
+    },
+    {
+      "tokens": [
+        "That's affirmative, and did you copy Omni Alpha?"
+      ],
+      "speaker": "Peterson",
+      "time": "0300606"
+    },
+    {
+      "tokens": [
+        "You say Omni Alpha?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0300615"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Peterson",
+      "time": "0300617"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 30 hours, 11 minutes.",
+        "We're now about 28 minutes away from the scheduled ignition, for the midcourse correction; the first to be performed on this leg of the flight to the Moon.",
+        "That maneuver again will be performed with the spacecraft Service Propulsion System engine.",
+        "It will be a burn of about two seconds duration, providing about 12.6 feet per second [3.84 m/s] in velocity change."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Pete, you're on the High Gain.",
+        "Do you want Reacq and Narrow?"
+      ],
+      "speaker": "Young",
+      "time": "0301140"
+    },
+    {
+      "tokens": [
+        "Just a moment.",
+        "Reacq and Narrow, Charlie."
+      ],
+      "speaker": "Peterson",
+      "time": "0301147"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0301154"
+    },
+    {
+      "tokens": [
+        "Okay, the star check checks out good.",
+        "It's right in the middle, and the waste water dump is in work."
+      ],
+      "speaker": "Young",
+      "time": "0301246"
+    },
+    {
+      "tokens": [
+        "Say, again, John; I didn't copy that."
+      ],
+      "speaker": "Peterson",
+      "time": "0301255"
+    },
+    {
+      "tokens": [
+        "Star checks good; it's right in the middle, and the waste water dump is in work."
+      ],
+      "speaker": "Young",
+      "time": "0301301"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Peterson",
+      "time": "0301305"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Don, could you tell us if - if the Delta-VCnumber you gave us includes any kind of a bias to compensate for the minute of EMS on time prior to ignition?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0302257"
+    },
+    {
+      "tokens": [
+        "Just a moment."
+      ],
+      "speaker": "Peterson",
+      "time": "0302310"
+    },
+    {
+      "tokens": [
+        "Yeah, I'm not asking for one; I'm just asking if that's in there."
+      ],
+      "speaker": "Mattingly",
+      "time": "0302313"
+    },
+    {
+      "tokens": [
+        "Okay, stand by while I check it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0302316"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're terminating the waste water dump now."
+      ],
+      "speaker": "Mattingly",
+      "time": "0302347"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0302352"
+    },
+    {
+      "tokens": [
+        "Ken, the PAD does take that into account.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0302416"
+    },
+    {
+      "tokens": [
+        "Okay; thank you, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "0302422"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 30 hours, 29 minutes.",
+        "We're now about ten minutes away from the scheduled ignition time for the midcourse correction maneuver to be performed with the spacecraft Service Propulsion System engine, a very short burn of about two seconds duration.",
+        "This maneuver will change the point of closest approach to the Moon from it's present value of about 117 nautical miles [217 km] down to the desired altitude of 71 nautical miles [131 km] at which point the Lunar Orbit Insertion maneuver would be performed placing the spacecraft in the nominal 58 by 170-nautical-mile [107 by 315 km] orbit about the Moon.",
+        "Again that maneuver now is scheduled to be performed nine minutes, 30 seconds from now.",
+        "At the present time Apollo 16 is 118,926 nautical miles [220,251 km] from Earth, traveling at a speed of 4,528 feet per second [1,380 m/s].",
+        "Flight Director Pete Frank has checked the status with all of his flight controllers and we appear to be in good shape for the maneuver.",
+        "The crew has completed virtually all of the activities prior to the midcourse correction and everything looks good at this point."
+      ],
+      "speaker": "PAO",
+      "time": "030_29"
+    },
+    {
+      "tokens": [
+        "Okay, we've pressurize the - the - pressure in the SPS now."
+      ],
+      "speaker": "Young",
+      "time": "0303304"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0303312"
+    },
+    {
+      "tokens": [
+        "CM Tape starts."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "I'm looking at oxidizer pressure of just about 210.",
+        "We're going to leave the valves in Auto."
+      ],
+      "speaker": "Duke",
+      "time": "0303353"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Peterson",
+      "time": "0303400"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "We're now about three minutes away from the ignition of this midcourse correction.",
+        "Everything continues to look good.",
+        "The spacecraft is in the proper attitude, the SPS tanks are pressurized.",
+        "And we're now two minutes, 35 seconds from ignition."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Now one minute from ignition."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Coming up on ten seconds to ignition."
+      ],
+      "speaker": "PAO",
+      "time": "030_38_42"
+    },
+    {
+      "tokens": [
+        "And our Guidance officer reports the burn is complete.",
+        "It was scheduled to be a two second burn with a change in velocity of 12.6 feet [3.84 metres] per second."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Well, the old burn's complete, Houston.",
+        "It's a big boot."
+      ],
+      "speaker": "Young",
+      "time": "0303924"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Peterson",
+      "time": "0303929"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And we're still waiting for the preliminary numbers on that burn.",
+        "First reports from the Guidance officer..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Do you want a burn report or did y'all see everything?"
+      ],
+      "speaker": "Duke",
+      "time": "0304112"
+    },
+    {
+      "tokens": [
+        "Stand by one.",
+        "[Pause.] 16, we'd like a burn report."
+      ],
+      "speaker": "Peterson",
+      "time": "0304116"
+    },
+    {
+      "tokens": [
+        "Okay, Delta-TIGwas 0.",
+        "Burn time was, on my watch, 2.1.",
+        "We got trim within an attitude of 094, 352, 008; plus 0.1; minus 0; plus 0.1; Delta-VC, minus 3.1.",
+        "Fuel's reading 010, and Ox, 010; no unbalance."
+      ],
+      "speaker": "Duke",
+      "time": "0304125"
+    },
+    {
+      "tokens": [
+        "Roger; copy."
+      ],
+      "speaker": "Peterson",
+      "time": "0302155"
+    },
+    {
+      "tokens": [
+        "And on board, our fuel - Okay, Pete, and on board, the fuel pres - during the burn, the fuel pressure dropped to 170 and the oxidizer dropped to 200."
+      ],
+      "speaker": "Duke",
+      "time": "0304156"
+    },
+    {
+      "tokens": [
+        "Understand, 170 and 200."
+      ],
+      "speaker": "Peterson",
+      "time": "0304208"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston, our LM/CM Delta-P is 0.8.",
+        "You want to go ahead and do the Tunnel Vent to Vent until greater than 2.7, right?"
+      ],
+      "speaker": "Young",
+      "time": "0304321"
+    },
+    {
+      "tokens": [
+        "Affirmative."
+      ],
+      "speaker": "Peterson",
+      "time": "0304334"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, what's your best guess on how long this baby will get to 2.7 if it started off at 0.9?"
+      ],
+      "speaker": "Young",
+      "time": "0304607"
+    },
+    {
+      "tokens": [
+        "Stand by 1.",
+        "I'll get you a number.",
+        "[Pause.] They're saying an hour and 50 minutes."
+      ],
+      "speaker": "Peterson",
+      "time": "0304613"
+    },
+    {
+      "tokens": [
+        "That's about what we - that's about what it looks like to me."
+      ],
+      "speaker": "Young",
+      "time": "0304624"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0304628"
+    },
+    {
+      "tokens": [
+        "John, you using Charlie's wristwatch to get that number?",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0304646"
+    },
+    {
+      "tokens": [
+        "No, I was just remembering how small that tunnel venthole is."
+      ],
+      "speaker": "Young",
+      "time": "0304653"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Peterson",
+      "time": "0304657"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 3 hours - at 30 hours, 52 minutes.",
+        "It'll probably be on the order of 2 to 2½ hours from now before the Flight Dynamics Officer has sufficient tracking data to confirm that the midcourse correction had the desired effect; that being to lower the point of closest approach to the Moon from the value that we had prior to the maneuver of 117 nautical miles [217 km] down to the desired altitude of 71 [nautical miles - 131 km] and also to place the spacecraft arrival time at the desired Flight Plan time.",
+        "The preliminary numbers however did appear to be normal and we'll be confirming that with tracking data.",
+        "At the present time, the crew is beginning preparations for entering the Lunar Module, this for the second time.",
+        "And at present they are venting the tunnel, the docking tunnel between the LM and the Command Module so that they have a differential pressure of about 2.7 pounds per square inch [19 kilopascals] between the tunnel and the Command Module.",
+        "The Command Module's cabin pressure is somewhere around 5 to 5½ pounds per square inch [35 to 38 kilopascals].",
+        "This venting is being done to remove as much of the atmosphere from the LM as possible within a reasonable amount of time.",
+        "The first time that we went into the Lunar Module last night the atmosphere in the Command Module still contains a small percentage of nitrogen.",
+        "Of course at launch, we're launching 60% oxygen, 40% nitrogen, and this is gradually replaced with pure oxygen in the Command Module.",
+        "By going into the Lunar Module, earlier than normal, the amount of nitrogen that's allowed into the Lunar Module is greater than normal.",
+        "Therefore, in order to have the oxygen content in the LM as close to pure oxygen as possible, we are venting the Lunar Module down.",
+        "The cabin will then be pumped up again prior to ingress, with pure oxygen and using this procedure we remove as much of the nitrogen as possible from the Lunar Module cabin.",
+        "The estimate on this venting procedure was that it would require about an hour and a half.",
+        "And we don't expect this to have any effect on the Flight Plan schedule for the crew's entering the Lunar Module.",
+        "This should occur as it is planned in the Flight Plan.",
+        "At the present time Apollo 16 is 120,000 nautical miles [222,240 km] from Earth and the spacecraft velocity is down now to 4,486 feet per second [1,367 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, would you verify H2Tanks 1 and 2 Heaters, Off, and H2Tank 3 Fan, Auto?"
+      ],
+      "speaker": "Peterson",
+      "time": "0305531"
+    },
+    {
+      "tokens": [
+        "Oh, oh, we got Tanks 1 and 2 Heaters in Auto, and - and Fan 3 in Auto.",
+        "I'll turn H2Heaters 1 and 2, Off."
+      ],
+      "speaker": "Young",
+      "time": "0305544"
+    },
+    {
+      "tokens": [
+        "Roger; thank you."
+      ],
+      "speaker": "Peterson",
+      "time": "0305553"
+    }
+  ],
+  "source_file": "day2_part1_electrophoresis_experiment_and_midcourse_correction_burn.html"
+}

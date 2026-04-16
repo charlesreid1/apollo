@@ -1,0 +1,2722 @@
+{
+  "description": "Landing at Descartes",
+  "transcript": [
+    {
+      "tokens": [
+        "Jim, could we yaw right a little bit and point that omni right at you?",
+        "Would that help?"
+      ],
+      "speaker": "Duke",
+      "time": "104:01:42"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Irwin",
+      "time": "104:01:48"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Any words on that uplink, Jim?"
+      ],
+      "speaker": "Duke",
+      "time": "104:03:07"
+    },
+    {
+      "tokens": [
+        "Why don't you put in that yaw maneuver; yaw right 20 degrees, that might help."
+      ],
+      "speaker": "Irwin",
+      "time": "104:03:10"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "(Long Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:03:19"
+    },
+    {
+      "tokens": [
+        "Here's yaw right 20."
+      ],
+      "speaker": "Young",
+      "time": "104:03:32"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Irwin",
+      "time": "104:03:34"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And how about reading that up to me, and I'll copy it down."
+      ],
+      "speaker": "Duke",
+      "time": "104:03:35"
+    },
+    {
+      "tokens": [
+        "Looks like we're getting good data now, Charlie.",
+        "Stand by.",
+        "We're uplinking now.",
+        "(Long Pause)"
+      ],
+      "speaker": "Irwin",
+      "time": "104:03:38"
+    },
+    {
+      "tokens": [
+        "Okay, Jim.",
+        "I think we'll start the...John says we'll start the PDI from zero yaw since the omni is pointing right at you."
+      ],
+      "speaker": "Duke",
+      "time": "104:04:25"
+    },
+    {
+      "tokens": [
+        "(Would) that be better for you?"
+      ],
+      "speaker": "Young",
+      "time": "104:04:32"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "(Pause) Okay, Orion.",
+        "We're finished with your computer.",
+        "(Pause)"
+      ],
+      "speaker": "Irwin",
+      "time": "104:04:35"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "(Long Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:04:47"
+    },
+    {
+      "tokens": [
+        "Okay, Orion.",
+        "This is Houston.",
+        "That zero yaw looks okay."
+      ],
+      "speaker": "Irwin",
+      "time": "104:05:19"
+    },
+    {
+      "tokens": [
+        "All right, fine.",
+        "Thank you.",
+        "(Very Long Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:05:25"
+    },
+    {
+      "tokens": [
+        "...",
+        "and call P63, John.",
+        "How do you read us VOX, Jim?"
+      ],
+      "speaker": "Duke",
+      "time": "104:06:48"
+    },
+    {
+      "tokens": [
+        "Loud and clear."
+      ],
+      "speaker": "Irwin",
+      "time": "104:06:52"
+    },
+    {
+      "tokens": [
+        "Read loud and clear on VOX.",
+        "Okay?"
+      ],
+      "speaker": "Young",
+      "time": "104:06:55"
+    },
+    {
+      "tokens": [
+        "Yes, sir, John.",
+        "You're loud and clear.",
+        "(Pause)"
+      ],
+      "speaker": "Irwin",
+      "time": "104:06:58"
+    },
+    {
+      "tokens": [
+        "Ten minutes."
+      ],
+      "speaker": "Young",
+      "time": "104:07:04"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let's check the DPS configuration card.",
+        "(Reading settings John will check) CB(11): Deca Gimbal AC, Closed."
+      ],
+      "speaker": "Duke",
+      "time": "104:07:07"
+    },
+    {
+      "tokens": [
+        "It's closed, and Deca Power's closed."
+      ],
+      "speaker": "Young",
+      "time": "104:07:13"
+    },
+    {
+      "tokens": [
+        "CB(16): Display/Engine Override Logic, Closed."
+      ],
+      "speaker": "Duke",
+      "time": "104:07:16"
+    },
+    {
+      "tokens": [
+        "It's in.",
+        "Yeah, go."
+      ],
+      "speaker": "Young",
+      "time": "104:07:19"
+    },
+    {
+      "tokens": [
+        "Stab/Control, all closed except the AEA."
+      ],
+      "speaker": "Duke",
+      "time": "104:07:20"
+    },
+    {
+      "tokens": [
+        "All closed except the AEA."
+      ],
+      "speaker": "Young",
+      "time": "104:07:22"
+    },
+    {
+      "tokens": [
+        "Okay, 25 degrees a second."
+      ],
+      "speaker": "Duke",
+      "time": "104:07:24"
+    },
+    {
+      "tokens": [
+        "25 degrees a second."
+      ],
+      "speaker": "Young",
+      "time": "104:07:26"
+    },
+    {
+      "tokens": [
+        "Throttle Control, Auto/Commander."
+      ],
+      "speaker": "Duke",
+      "time": "104:07:27"
+    },
+    {
+      "tokens": [
+        "Auto/Commander."
+      ],
+      "speaker": "Young",
+      "time": "104:07:29"
+    },
+    {
+      "tokens": [
+        "ATT/Translation of 4 Jets."
+      ],
+      "speaker": "Duke",
+      "time": "104:07:30"
+    },
+    {
+      "tokens": [
+        "4 Jets.",
+        "(John now reads settings Charlie will check) Balance Couple, On.",
+        "Engine Gimbal, Enable.",
+        "Descent Engine Command Override, Off."
+      ],
+      "speaker": "Young",
+      "time": "104:07:31"
+    },
+    {
+      "tokens": [
+        "Off.",
+        "Go."
+      ],
+      "speaker": "Duke",
+      "time": "104:07:35"
+    },
+    {
+      "tokens": [
+        "Abort/Abort Stage, Reset.",
+        "Dead Band, Min.",
+        "Attitude Control.",
+        "Three to Mode Control.",
+        "PGNS/"
+      ],
+      "speaker": "Young",
+      "time": "104:07:37"
+    },
+    {
+      "tokens": [
+        "Go."
+      ],
+      "speaker": "Duke",
+      "time": "104:07:43"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "104:07:44"
+    },
+    {
+      "tokens": [
+        "Pro."
+      ],
+      "speaker": "Duke",
+      "time": "104:07:45"
+    },
+    {
+      "tokens": [
+        "On Hi Mult, Landing Radar/Computer; Monitor the PGNS.",
+        "PGNS, Guidance; AGS, Mode Select.",
+        "Altitude/Altitude Rate.",
+        "Supercrit Pressure, 1220; Ambient Pressure, 390."
+      ],
+      "speaker": "Young",
+      "time": "104:07:46"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "(Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:08:00"
+    },
+    {
+      "tokens": [
+        "Orion, you can configure for normal RCS configuration now."
+      ],
+      "speaker": "Irwin",
+      "time": "104:08:12"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "System A is on."
+      ],
+      "speaker": "Young",
+      "time": "104:08:21"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Irwin",
+      "time": "104:08:23"
+    },
+    {
+      "tokens": [
+        "Hey, Jim.",
+        "We got an RCS A Reg light when that went on.",
+        "The pressures are good, though."
+      ],
+      "speaker": "Duke",
+      "time": "104:08:32"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "(Pause)"
+      ],
+      "speaker": "Irwin",
+      "time": "104:08:36"
+    },
+    {
+      "tokens": [
+        "Got it, Charlie."
+      ],
+      "speaker": "Young",
+      "time": "104:09:22"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "104:09:23"
+    },
+    {
+      "tokens": [
+        "(Garbled) (Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:09:25"
+    },
+    {
+      "tokens": [
+        "AGS and PGNS are aligned.",
+        "410 is ...",
+        "(Pause) ...",
+        "Back to zero.",
+        "400 plus 1 going in.",
+        "(Pause) And the needles deflect.",
+        "(Pause) 433."
+      ],
+      "speaker": "Duke",
+      "time": "104:09:34"
+    },
+    {
+      "tokens": [
+        "Amazing.",
+        "How do you read, Jim?"
+      ],
+      "speaker": "Duke",
+      "time": "104:10:04"
+    },
+    {
+      "tokens": [
+        "Loud and clear."
+      ],
+      "speaker": "Irwin",
+      "time": "104:10:06"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "104:10:12"
+    },
+    {
+      "tokens": [
+        "What happened?"
+      ],
+      "speaker": "Young",
+      "time": "104:10:13"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We are clear down to 5 minutes.",
+        "At 5, we close the"
+      ],
+      "speaker": "Duke",
+      "time": "104:10:23"
+    },
+    {
+      "tokens": [
+        "Right.",
+        "(Long Pause) Starting a little high (garbled).",
+        "Based on the (garbled), it will probably be double at first (garbled).",
+        "(Long Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:10:30"
+    },
+    {
+      "tokens": [
+        "The old Earth is sure pretty."
+      ],
+      "speaker": "Duke",
+      "time": "104:11:11"
+    },
+    {
+      "tokens": [
+        "Orion, bring battery 3 on (line) at minus 5."
+      ],
+      "speaker": "Irwin",
+      "time": "104:11:17"
+    },
+    {
+      "tokens": [
+        "Roger; copy.",
+        "(Pause) (Garbled) pull me right up under my - little (garbled)."
+      ],
+      "speaker": "Duke",
+      "time": "104:11:24"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "05:36, John.",
+        "Everything looks great.",
+        "(Pause) Hey, Casper.",
+        "How do you read?",
+        "Over.",
+        "(Garbled)."
+      ],
+      "speaker": "Duke",
+      "time": "104:11:50"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Five minutes, Landing Radar breaker is going closed."
+      ],
+      "speaker": "Young",
+      "time": "104:12:10"
+    },
+    {
+      "tokens": [
+        "Batt 3 is On."
+      ],
+      "speaker": "Duke",
+      "time": "104:12:16"
+    },
+    {
+      "tokens": [
+        "Altitude Transmitter is 3.4, almost; Velocity Transmitter is 3.82."
+      ],
+      "speaker": "Young",
+      "time": "104:12:17"
+    },
+    {
+      "tokens": [
+        "Say again the reading on the velocity, John."
+      ],
+      "speaker": "Irwin",
+      "time": "104:12:29"
+    },
+    {
+      "tokens": [
+        "(Not yet having heard Jim) Okay; Altitude Transmitter.",
+        "(Answering Jim) 3.8."
+      ],
+      "speaker": "Young",
+      "time": "104:12:31"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy 3.4 and 3.8."
+      ],
+      "speaker": "Irwin",
+      "time": "104:12:39"
+    },
+    {
+      "tokens": [
+        "Correct.",
+        "(Long Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:12:44"
+    },
+    {
+      "tokens": [
+        "Orion, you're Go for PDI."
+      ],
+      "speaker": "Irwin",
+      "time": "104:13:09"
+    },
+    {
+      "tokens": [
+        "Roger, Go for PDI.",
+        "(Pause) Okay.",
+        "Pro for the final trim."
+      ],
+      "speaker": "Young",
+      "time": "104:13:14"
+    },
+    {
+      "tokens": [
+        "Pro.",
+        "(Pause) Looks better than it did.",
+        "Go ahead.",
+        "Enter."
+      ],
+      "speaker": "Duke",
+      "time": "104:13:23"
+    },
+    {
+      "tokens": [
+        "Enter."
+      ],
+      "speaker": "Young",
+      "time": "104:13:31"
+    },
+    {
+      "tokens": [
+        "Go.",
+        "My watch is set and wound.",
+        "(Long Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:13:35"
+    },
+    {
+      "tokens": [
+        "It checks."
+      ],
+      "speaker": "Young",
+      "time": "104:14:05"
+    },
+    {
+      "tokens": [
+        "About a second off here."
+      ],
+      "speaker": "Duke",
+      "time": "104:14:07"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by for 2 minutes, John."
+      ],
+      "speaker": "Duke",
+      "time": "104:14:11"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "(Long Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:14:15"
+    },
+    {
+      "tokens": [
+        "Okay; good.",
+        "(Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:15:12"
+    },
+    {
+      "tokens": [
+        "Starting at about 10 (nautical) miles, it looks like.",
+        "(Garbled)"
+      ],
+      "speaker": "Duke",
+      "time": "104:15:16"
+    },
+    {
+      "tokens": [
+        "Okay, 2 minutes.",
+        "Master Arm, On.",
+        "(Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:15:24"
+    },
+    {
+      "tokens": [
+        "Two minutes; Master Arm's On.",
+        "Two lights, Houston."
+      ],
+      "speaker": "Young",
+      "time": "104:15:29"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy, two lights."
+      ],
+      "speaker": "Irwin",
+      "time": "104:15:31"
+    },
+    {
+      "tokens": [
+        "PGNS in Mode Select.",
+        "367 is in.",
+        "Next thing is at 30 seconds, John.",
+        "(To himself) Turn the (checklist) page.",
+        "(Long Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:15:33"
+    },
+    {
+      "tokens": [
+        "Hey, Jim.",
+        "You want us to turn the ranging back on?"
+      ],
+      "speaker": "Duke",
+      "time": "104:16:08"
+    },
+    {
+      "tokens": [
+        "Negative."
+      ],
+      "speaker": "Irwin",
+      "time": "104:16:13"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're in Voice Backup."
+      ],
+      "speaker": "Duke",
+      "time": "104:16:16"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "(Long Pause)"
+      ],
+      "speaker": "Irwin",
+      "time": "104:16:21"
+    },
+    {
+      "tokens": [
+        "50 seconds.",
+        "(Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:16:38"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "(Reading) At 30, we hit Engine Arm.",
+        "30 seconds, Engine Arm goes to Descent, then we ullage."
+      ],
+      "speaker": "Duke",
+      "time": "104:16:48"
+    },
+    {
+      "tokens": [
+        "Pro.",
+        "Five (Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:16:58"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "104:17:00"
+    },
+    {
+      "tokens": [
+        "Engine Arm, Descent."
+      ],
+      "speaker": "Duke",
+      "time": "104:17:01"
+    },
+    {
+      "tokens": [
+        "Arm is Descent.",
+        "Altitude light and Velocity light."
+      ],
+      "speaker": "Young",
+      "time": "104:17:02"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "If no ullage, plus-X."
+      ],
+      "speaker": "Duke",
+      "time": "104:17:05"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "(Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:17:07"
+    },
+    {
+      "tokens": [
+        "If no ignition, just Start Pushbutton if we get ullage."
+      ],
+      "speaker": "Duke",
+      "time": "104:17:14"
+    },
+    {
+      "tokens": [
+        "Ullage..."
+      ],
+      "speaker": "Duke",
+      "time": "104:17:19"
+    },
+    {
+      "tokens": [
+        "Auto ullage."
+      ],
+      "speaker": "Young",
+      "time": "104:17:20"
+    },
+    {
+      "tokens": [
+        "LM Crew: Pro.",
+        "(Pause)"
+      ],
+      "speaker": "Unknown",
+      "time": "104:17:23"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Engine Start."
+      ],
+      "speaker": "Duke",
+      "time": "104:17:28"
+    },
+    {
+      "tokens": [
+        "Engine Start.",
+        "Descent Engine Command Override is on."
+      ],
+      "speaker": "Young",
+      "time": "104:17:29"
+    },
+    {
+      "tokens": [
+        "Stick your throttle in min."
+      ],
+      "speaker": "Duke",
+      "time": "104:17:32"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "Irwin",
+      "time": "104:17:35"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Young",
+      "time": "104:17:36"
+    },
+    {
+      "tokens": [
+        "Descent Engine Command Override; Master Arm, Off."
+      ],
+      "speaker": "Duke",
+      "time": "104:17:39"
+    },
+    {
+      "tokens": [
+        "Master Arm is coming Off."
+      ],
+      "speaker": "Young",
+      "time": "104:17:42"
+    },
+    {
+      "tokens": [
+        "Stand by for throttle up; thrust-to-weight is okay."
+      ],
+      "speaker": "Duke",
+      "time": "104:17:45"
+    },
+    {
+      "tokens": [
+        "22, 23, 24, 25, 26..."
+      ],
+      "speaker": "Young",
+      "time": "104:17:49"
+    },
+    {
+      "tokens": [
+        "LM Crew: Throttle up!"
+      ],
+      "speaker": "Unknown",
+      "time": "104:17:53"
+    },
+    {
+      "tokens": [
+        "On time!"
+      ],
+      "speaker": "Young",
+      "time": "104:17:54"
+    },
+    {
+      "tokens": [
+        "Feel that beauty come on!"
+      ],
+      "speaker": "Duke",
+      "time": "104:17:55"
+    },
+    {
+      "tokens": [
+        "Roger; we copy."
+      ],
+      "speaker": "Irwin",
+      "time": "104:17:56"
+    },
+    {
+      "tokens": [
+        "Okay, thrust-to-weight is good.",
+        "(Pause) 66,000 feet.",
+        "They (meaning the flight dynamics analysts in Houston) were right on.",
+        "(Long Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:17:57"
+    },
+    {
+      "tokens": [
+        "We're looking at a minute.",
+        "Hey, Jim; at pitchover, do you want me to go Aft omni or stay Forward?."
+      ],
+      "speaker": "Duke",
+      "time": "104:18:18"
+    },
+    {
+      "tokens": [
+        "Stay Forward and you've got a Go at 1 (minute into the burn)."
+      ],
+      "speaker": "Irwin",
+      "time": "104:18:26"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "104:18:31"
+    },
+    {
+      "tokens": [
+        "Okay, we're way high, John; we got to get down.",
+        "Way high on the"
+      ],
+      "speaker": "Duke",
+      "time": "104:18:32"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "Just a minute, Charlie.",
+        "Down to 45 already.",
+        "(Long Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:18:36"
+    },
+    {
+      "tokens": [
+        "Systems look good.",
+        "Passing 1:30 (minutes)."
+      ],
+      "speaker": "Duke",
+      "time": "104:18:55"
+    },
+    {
+      "tokens": [
+        "Okay, Orion.",
+        "I have a 169 for you..."
+      ],
+      "speaker": "Irwin",
+      "time": "104:18:58"
+    },
+    {
+      "tokens": [
+        "Double H-dot, almost."
+      ],
+      "speaker": "Duke",
+      "time": "104:19:00"
+    },
+    {
+      "tokens": [
+        "Yep."
+      ],
+      "speaker": "Young",
+      "time": "104:19:01"
+    },
+    {
+      "tokens": [
+        "LM Crew: (To Irwin) Go ahead."
+      ],
+      "speaker": "Unknown",
+      "time": "104:19:03"
+    },
+    {
+      "tokens": [
+        "Plus 00800."
+      ],
+      "speaker": "Irwin",
+      "time": "104:19:05"
+    },
+    {
+      "tokens": [
+        "Plus 00800.",
+        "(Garbled) hundred feet.",
+        "(Garbled) [Journal Contributor Paul Fjeld notes that the ability to update the LM targeting \"was added on Apollo 12.",
+        "DLAND - Noun 69 - was an unusual vector!",
+        "It was added to the Position of the landing site (RLS)"
+      ],
+      "speaker": "Duke",
+      "time": "104:19:12"
+    },
+    {
+      "tokens": [
+        "And you've a Go for enter..."
+      ],
+      "speaker": "Irwin",
+      "time": "104:19:17"
+    },
+    {
+      "tokens": [
+        "(Garbled)"
+      ],
+      "speaker": "Duke",
+      "time": "104:19:18"
+    },
+    {
+      "tokens": [
+        "Excuse me, John."
+      ],
+      "speaker": "Duke",
+      "time": "104:19:20"
+    },
+    {
+      "tokens": [
+        "Okay, that's entered.",
+        "It's entered.",
+        "(Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:19:21"
+    },
+    {
+      "tokens": [
+        "And you're Go at 2."
+      ],
+      "speaker": "Irwin",
+      "time": "104:19:27"
+    },
+    {
+      "tokens": [
+        "Passing two minutes."
+      ],
+      "speaker": "Duke",
+      "time": "104:19:28"
+    },
+    {
+      "tokens": [
+        "Really looking good."
+      ],
+      "speaker": "Young",
+      "time": "104:19:30"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're going to have to yaw out here at 3.",
+        "(Pause) Might take that out when we get (garbled)."
+      ],
+      "speaker": "Duke",
+      "time": "104:19:31"
+    },
+    {
+      "tokens": [
+        "AGS and PGNS are tracking right on, Jim!"
+      ],
+      "speaker": "Duke",
+      "time": "104:19:47"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Irwin",
+      "time": "104:19:49"
+    },
+    {
+      "tokens": [
+        "Within a tenth of a foot a second."
+      ],
+      "speaker": "Duke",
+      "time": "104:19:50"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "(Long Pause)"
+      ],
+      "speaker": "Irwin",
+      "time": "104:19:52"
+    },
+    {
+      "tokens": [
+        "At 3 minutes, (I'll check) propellants.",
+        "(Pause) Pressures are holding good in the DPS (Descent Propulsion System, pronounced \"dips\")."
+      ],
+      "speaker": "Duke",
+      "time": "104:20:05"
+    },
+    {
+      "tokens": [
+        "(Garbled) oxidizer pressure looks good.",
+        "(Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:20:20"
+    },
+    {
+      "tokens": [
+        "Orion, you're Go at 3."
+      ],
+      "speaker": "Irwin",
+      "time": "104:20:24"
+    },
+    {
+      "tokens": [
+        "3."
+      ],
+      "speaker": "Duke",
+      "time": "104:20:26"
+    },
+    {
+      "tokens": [
+        "Roger; Go at 3."
+      ],
+      "speaker": "Young",
+      "time": "104:20:27"
+    },
+    {
+      "tokens": [
+        "I'll check the ED (Explosive Device) batteries one more time.",
+        "(Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:20:31"
+    },
+    {
+      "tokens": [
+        "And they're still 37 volts, Jim."
+      ],
+      "speaker": "Duke",
+      "time": "104:20:41"
+    },
+    {
+      "tokens": [
+        "Roger; we copy."
+      ],
+      "speaker": "Irwin",
+      "time": "104:20:43"
+    },
+    {
+      "tokens": [
+        "Velocity light's out, Charlie."
+      ],
+      "speaker": "Young",
+      "time": "104:20:45"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Wrong transmitter, probably."
+      ],
+      "speaker": "Duke",
+      "time": "104:20:46"
+    },
+    {
+      "tokens": [
+        "We got a (garbled).",
+        "(Pause) Watch it now."
+      ],
+      "speaker": "Duke",
+      "time": "104:20:52"
+    },
+    {
+      "tokens": [
+        "Locked on at (garbled) thousand (garbled) way."
+      ],
+      "speaker": "Duke",
+      "time": "104:20:57"
+    },
+    {
+      "tokens": [
+        "(You're) cutting out, Charlie."
+      ],
+      "speaker": "Young",
+      "time": "104:20:59"
+    },
+    {
+      "tokens": [
+        "I say, there's no way to get the Altitude light at this height.",
+        "(Pause) (Four) minutes...",
+        "(Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:21:02"
+    },
+    {
+      "tokens": [
+        "Orion, you're Go at 4."
+      ],
+      "speaker": "Irwin",
+      "time": "104:21:26"
+    },
+    {
+      "tokens": [
+        "We're 50,000 (feet)."
+      ],
+      "speaker": "Duke",
+      "time": "104:21:28"
+    },
+    {
+      "tokens": [
+        "Look at that!",
+        "Altitude and Velocity lights are out at 50k!"
+      ],
+      "speaker": "Young",
+      "time": "104:21:30"
+    },
+    {
+      "tokens": [
+        "Isn't that amazing?",
+        "Copy that, Houston?"
+      ],
+      "speaker": "Duke",
+      "time": "104:21:34"
+    },
+    {
+      "tokens": [
+        "We copy."
+      ],
+      "speaker": "Irwin",
+      "time": "104:21:38"
+    },
+    {
+      "tokens": [
+        "Look at that data, Houston.",
+        "When do you want to accept it?"
+      ],
+      "speaker": "Young",
+      "time": "104:21:40"
+    },
+    {
+      "tokens": [
+        "Okay, you have a Go to accept.",
+        "(Pause)"
+      ],
+      "speaker": "Irwin",
+      "time": "104:21:48"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's in."
+      ],
+      "speaker": "Duke",
+      "time": "104:21:56"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "(Long Pause)"
+      ],
+      "speaker": "Irwin",
+      "time": "104:21:59"
+    },
+    {
+      "tokens": [
+        "At 5 minutes.",
+        "Coming in like gangbusters."
+      ],
+      "speaker": "Duke",
+      "time": "104:22:28"
+    },
+    {
+      "tokens": [
+        "Orion, you're Go at 5."
+      ],
+      "speaker": "Irwin",
+      "time": "104:22:32"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "(Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:22:39"
+    },
+    {
+      "tokens": [
+        "39,000.",
+        "Hey, look at that.",
+        "136 feet difference now.",
+        "(Garbled) radar."
+      ],
+      "speaker": "Duke",
+      "time": "104:22:51"
+    },
+    {
+      "tokens": [
+        "AGS is tracking about 1000 (feet) high."
+      ],
+      "speaker": "Irwin",
+      "time": "104:23:06"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "We'll get there."
+      ],
+      "speaker": "Young",
+      "time": "104:23:10"
+    },
+    {
+      "tokens": [
+        "Six minutes, we should be at 32,000 (garbled)."
+      ],
+      "speaker": "Duke",
+      "time": "104:23:14"
+    },
+    {
+      "tokens": [
+        "35 (thousand feet altitude)."
+      ],
+      "speaker": "Young",
+      "time": "104:23:16"
+    },
+    {
+      "tokens": [
+        "Not quite back on profile, but almost."
+      ],
+      "speaker": "Duke",
+      "time": "104:23:16"
+    },
+    {
+      "tokens": [
+        "(Garbled)"
+      ],
+      "speaker": "Young",
+      "time": "104:23:17"
+    },
+    {
+      "tokens": [
+        "Orion, you're Go at 6."
+      ],
+      "speaker": "Irwin",
+      "time": "104:23:24"
+    },
+    {
+      "tokens": [
+        "45 percent (fuel remaining).",
+        "Right on."
+      ],
+      "speaker": "Duke",
+      "time": "104:23:26"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "104:23:27"
+    },
+    {
+      "tokens": [
+        "Right on.",
+        "(Long Pause) Okay.",
+        "At 6:30, should be at 30,000."
+      ],
+      "speaker": "Duke",
+      "time": "104:23:28"
+    },
+    {
+      "tokens": [
+        "Mark it, 32,000.",
+        "Looking pretty.",
+        "Okay.",
+        "Looking good, John.",
+        "(Pause) Sun angle's getting down there."
+      ],
+      "speaker": "Duke",
+      "time": "104:23:58"
+    },
+    {
+      "tokens": [
+        "Throttle down (will be at) 7 plus 23."
+      ],
+      "speaker": "Irwin",
+      "time": "104:24:15"
+    },
+    {
+      "tokens": [
+        "AGS and PGNS H-Dot are right on."
+      ],
+      "speaker": "Duke",
+      "time": "104:24:16"
+    },
+    {
+      "tokens": [
+        "(Garbled)"
+      ],
+      "speaker": "Duke",
+      "time": "104:24:20"
+    },
+    {
+      "tokens": [
+        "(To Irwin) Understand, 7:23."
+      ],
+      "speaker": "Young",
+      "time": "104:24:22"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "(Pause) And you're Go at 7."
+      ],
+      "speaker": "Irwin",
+      "time": "104:24:23"
+    },
+    {
+      "tokens": [
+        "Seven minutes.",
+        "Mark it.",
+        "Seven minutes.",
+        "(Responding to Irwin) Rog, go.",
+        "104 (feet per second) down, 28,000 (feet) altitude.",
+        "(The AGS is) still about 1000 (feet) high, looks like."
+      ],
+      "speaker": "Duke",
+      "time": "104:24:27"
+    },
+    {
+      "tokens": [
+        "Well, it's starting to look pretty good."
+      ],
+      "speaker": "Young",
+      "time": "104:24:37"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "223.",
+        "Setting up ready...(Getting his tongue untied) (Getting) the AGS ready (for an update) at 14k.",
+        "Then I do a 360 and then turn the (16mm movie) camera on.",
+        "(Circuit) breaker is in."
+      ],
+      "speaker": "Duke",
+      "time": "104:24:39"
+    },
+    {
+      "tokens": [
+        "Throttle down.",
+        "Right on time."
+      ],
+      "speaker": "Young",
+      "time": "104:24:54"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Irwin",
+      "time": "104:25:00"
+    },
+    {
+      "tokens": [
+        "It was right on time, wasn't it?"
+      ],
+      "speaker": "Duke",
+      "time": "104:25:01"
+    },
+    {
+      "tokens": [
+        "Yep."
+      ],
+      "speaker": "Young",
+      "time": "104:25:03"
+    },
+    {
+      "tokens": [
+        "How are you reading, Jim?"
+      ],
+      "speaker": "Duke",
+      "time": "104:25:05"
+    },
+    {
+      "tokens": [
+        "Loud and clear."
+      ],
+      "speaker": "Irwin",
+      "time": "104:25:07"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You were clipping a little bit, John."
+      ],
+      "speaker": "Duke",
+      "time": "104:25:11"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "(Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:25:13"
+    },
+    {
+      "tokens": [
+        "21,000 (feet) Coming up on 8 minutes."
+      ],
+      "speaker": "Duke",
+      "time": "104:25:22"
+    },
+    {
+      "tokens": [
+        "Orion, you're Go at 8."
+      ],
+      "speaker": "Irwin",
+      "time": "104:25:25"
+    },
+    {
+      "tokens": [
+        "I can see the landing site from here, Charlie."
+      ],
+      "speaker": "Young",
+      "time": "104:25:27"
+    },
+    {
+      "tokens": [
+        "Amazing.",
+        "Okay.",
+        "Go at 8.",
+        "John's got a visual."
+      ],
+      "speaker": "Duke",
+      "time": "104:25:28"
+    },
+    {
+      "tokens": [
+        "We copy."
+      ],
+      "speaker": "Irwin",
+      "time": "104:25:33"
+    },
+    {
+      "tokens": [
+        "130 (feet per second descent rate).",
+        "We're right on, John.",
+        "Right back on profile.",
+        "(Long Pause) How does it (meaning the targeting) look, to you?"
+      ],
+      "speaker": "Duke",
+      "time": "104:25:34"
+    },
+    {
+      "tokens": [
+        "We're right in there."
+      ],
+      "speaker": "Young",
+      "time": "104:25:50"
+    },
+    {
+      "tokens": [
+        "Okay, standing by to update the"
+      ],
+      "speaker": "Duke",
+      "time": "104:25:52"
+    },
+    {
+      "tokens": [
+        "Monitor Descent 1."
+      ],
+      "speaker": "Irwin",
+      "time": "104:25:59"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Descent 1.",
+        "(Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:26:03"
+    },
+    {
+      "tokens": [
+        "Okay, Jim.",
+        "We got about a 3-degree roll command in."
+      ],
+      "speaker": "Duke",
+      "time": "104:26:09"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Irwin",
+      "time": "104:26:12"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Enter, 360, minus 0172, 0 Enter, 367 is coming up, and I'm starting the clock...(correcting himself) I mean the (16-mm movie) camera."
+      ],
+      "speaker": "Duke",
+      "time": "104:26:16"
+    },
+    {
+      "tokens": [
+        "Go at 9."
+      ],
+      "speaker": "Irwin",
+      "time": "104:26:29"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're out of 12,000, John.",
+        "Go at 9.",
+        "Coming down at 182 (feet per second), a little steep.",
+        "(Pause) Okay, we're going to be right on.",
+        "It's just about right on, maybe 10 feet (feet per second off).",
+        "10,000 feet.",
+        "Stand by.",
+        "Okay, P64, at 8200.",
+        "Pro."
+      ],
+      "speaker": "Duke",
+      "time": "104:26:30"
+    },
+    {
+      "tokens": [
+        "Pitchover."
+      ],
+      "speaker": "Young",
+      "time": "104:26:55"
+    },
+    {
+      "tokens": [
+        "Pitchover.",
+        "Hey, there it is.",
+        "Gator, Lone Star.",
+        "Right on!"
+      ],
+      "speaker": "Duke",
+      "time": "104:26:56"
+    },
+    {
+      "tokens": [
+        "Call me the things, Charlie."
+      ],
+      "speaker": "Young",
+      "time": "104:27:00"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "40...38 degrees."
+      ],
+      "speaker": "Duke",
+      "time": "104:27:01"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "104:27:02"
+    },
+    {
+      "tokens": [
+        "(Looking out his window to the north) Palmetto and Dot; North Ray."
+      ],
+      "speaker": "Duke",
+      "time": "104:27:03"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "104:27:06"
+    },
+    {
+      "tokens": [
+        "Looks like we're going to be able to make it, John.",
+        "There's not too many blocks up there."
+      ],
+      "speaker": "Duke",
+      "time": "104:27:08"
+    },
+    {
+      "tokens": [
+        "Orion, you're Go for landing."
+      ],
+      "speaker": "Irwin",
+      "time": "104:27:12"
+    },
+    {
+      "tokens": [
+        "Okay, 4000 feet,..."
+      ],
+      "speaker": "Duke",
+      "time": "104:27:16"
+    },
+    {
+      "tokens": [
+        "(Acknowledging Irwin) Okay.",
+        "Go for landing."
+      ],
+      "speaker": "Young",
+      "time": "104:27:17"
+    },
+    {
+      "tokens": [
+        "...42"
+      ],
+      "speaker": "Duke",
+      "time": "104:27:19"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Two (LPD clicks) to the south, Charlie."
+      ],
+      "speaker": "Young",
+      "time": "104:27:20"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's in.",
+        "Okay, 42...41 LPD.",
+        "3000 feet (and we're) on profile."
+      ],
+      "speaker": "Duke",
+      "time": "104:27:26"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "There's...We're coming right down.",
+        "It's going to be a little past (garbled)."
+      ],
+      "speaker": "Young",
+      "time": "104:27:31"
+    },
+    {
+      "tokens": [
+        "41 LPD."
+      ],
+      "speaker": "Duke",
+      "time": "104:27:39"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "A little more to the left (south)."
+      ],
+      "speaker": "Young",
+      "time": "104:27:42"
+    },
+    {
+      "tokens": [
+        "2000 feet; 60 (feet per second [fps] descent rate).",
+        "On profile."
+      ],
+      "speaker": "Duke",
+      "time": "104:27:43"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "(Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:27:44"
+    },
+    {
+      "tokens": [
+        "Okay, 42 LPD.",
+        "Couple of more in.",
+        "(Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:27:51"
+    },
+    {
+      "tokens": [
+        "1400 feet, 44 (fps) down.",
+        "Looking good.",
+        "Okay, out of a 1000 feet.",
+        "Right on profile.",
+        "54 LPD; dropping out the bottom now.",
+        "800 feet, 30 down."
+      ],
+      "speaker": "Duke",
+      "time": "104:27:56"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We're going to be just a little long..."
+      ],
+      "speaker": "Young",
+      "time": "104:28:13"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Irwin",
+      "time": "104:28:15"
+    },
+    {
+      "tokens": [
+        "...but we're just now abeam of Double Spot."
+      ],
+      "speaker": "Young",
+      "time": "104:28:16"
+    },
+    {
+      "tokens": [
+        "Copy."
+      ],
+      "speaker": "Irwin",
+      "time": "104:28:22"
+    },
+    {
+      "tokens": [
+        "Okay, 23 (fps down).",
+        "22 down at 500 feet."
+      ],
+      "speaker": "Duke",
+      "time": "104:28:24"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "104:28:25"
+    },
+    {
+      "tokens": [
+        "Some big blocks over here to the left, John.",
+        "(Pause) Okay, 300 feet, 15 down."
+      ],
+      "speaker": "Duke",
+      "time": "104:28:29"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Okay.",
+        "(I'm going to) take over, Charlie."
+      ],
+      "speaker": "Young",
+      "time": "104:28:33"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "(Pause) Okay, fuel is good: 10 percent.",
+        "There comes the (LM) shadow."
+      ],
+      "speaker": "Duke",
+      "time": "104:28:39"
+    },
+    {
+      "tokens": [
+        "Okay, 200 feet, 11 (fps) down.",
+        "Give me a couple of clicks up."
+      ],
+      "speaker": "Duke",
+      "time": "104:28:45"
+    },
+    {
+      "tokens": [
+        "Okay, 5 down at 130 feet, 2 forward."
+      ],
+      "speaker": "Duke",
+      "time": "104:28:52"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "(Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:28:54"
+    },
+    {
+      "tokens": [
+        "(Garbled).",
+        "Drifting.",
+        "Okay, looking good.",
+        "Perfect place over here, John, a couple of big boulders.",
+        "Not too bad."
+      ],
+      "speaker": "Duke",
+      "time": "104:28:59"
+    },
+    {
+      "tokens": [
+        "Okay, 80 feet, down at 3.",
+        "Looking super.",
+        "There's dust.",
+        "(Pause) Okay, down at 3.",
+        "50 feet, down at 4.",
+        "Give me one click up.",
+        "You're backing up slightly.",
+        "(Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:29:08"
+    },
+    {
+      "tokens": [
+        "Okay, 2 down.",
+        "Stand by for contact.",
+        "Come on, let her down.",
+        "You leveled off.",
+        "(Pause) Let her on down.",
+        "Okay, 7...(correcting himself) 6 percent (fuel remaining).",
+        "Plenty fat."
+      ],
+      "speaker": "Duke",
+      "time": "104:29:22"
+    },
+    {
+      "tokens": [
+        "Contact!",
+        "Stop.",
+        "(Pause while they drop to the surface) Boom.",
+        "(Static)"
+      ],
+      "speaker": "Duke",
+      "time": "104:29:36"
+    },
+    {
+      "tokens": [
+        "Pro.",
+        "Engine Arm.",
+        "(Pause) Wow!!!",
+        "(Garbled) man!",
+        "Look at that!"
+      ],
+      "speaker": "Duke",
+      "time": "104:29:40"
+    },
+    {
+      "tokens": [
+        "Pro.",
+        "Engine Arm.",
+        "Descent Engine Command Override."
+      ],
+      "speaker": "Young",
+      "time": "104:29:43"
+    },
+    {
+      "tokens": [
+        "Okay, 413.",
+        "It's in.",
+        "Check the APS (Ascent Propulsion System)."
+      ],
+      "speaker": "Duke",
+      "time": "104:29:46"
+    },
+    {
+      "tokens": [
+        "Well, we don't have to walk far to pick up rocks, Houston.",
+        "We're among them!"
+      ],
+      "speaker": "Young",
+      "time": "104:29:52"
+    },
+    {
+      "tokens": [
+        "Open, close, open, close."
+      ],
+      "speaker": "Duke",
+      "time": "104:29:57"
+    },
+    {
+      "tokens": [
+        "Old Orion is finally here, Houston.",
+        "Fantastic!"
+      ],
+      "speaker": "Duke",
+      "time": "104:30:00"
+    },
+    {
+      "tokens": [
+        "Sounds great."
+      ],
+      "speaker": "Irwin",
+      "time": "104:30:12"
+    },
+    {
+      "tokens": [
+        "I can look right out to the left and see..."
+      ],
+      "speaker": "Young",
+      "time": "104:30:13"
+    },
+    {
+      "tokens": [
+        "Let's go Aft omni, Orion."
+      ],
+      "speaker": "Irwin",
+      "time": "104:30:15"
+    },
+    {
+      "tokens": [
+        "...Double Spot.",
+        "And we're about..."
+      ],
+      "speaker": "Young",
+      "time": "104:30:19"
+    },
+    {
+      "tokens": [
+        "(Responding to Irwin; the comm improves dramatically) Okay, you got it."
+      ],
+      "speaker": "Duke",
+      "time": "104:30:21"
+    },
+    {
+      "tokens": [
+        "That's better."
+      ],
+      "speaker": "Irwin",
+      "time": "104:30:22"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're forward and to the north of Double Spot.",
+        "I would guess about 200 meters to the north and maybe 150 meters to the west.",
+        "(Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:30:23"
+    },
+    {
+      "tokens": [
+        "It's not flatlands, though, Houston."
+      ],
+      "speaker": "Young",
+      "time": "104:30:40"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I copy 200 meters north..."
+      ],
+      "speaker": "Irwin",
+      "time": "104:30:42"
+    },
+    {
+      "tokens": [
+        "(Garbled) attitude is super, though."
+      ],
+      "speaker": "Duke",
+      "time": "104:30:43"
+    },
+    {
+      "tokens": [
+        "...of Double Spot and about 150 meters west."
+      ],
+      "speaker": "Irwin",
+      "time": "104:30:44"
+    },
+    {
+      "tokens": [
+        "Man, I could see the...all the way to the ground.",
+        "Just like flying the LLTV.",
+        "Piece of cake."
+      ],
+      "speaker": "Young",
+      "time": "104:30:46"
+    },
+    {
+      "tokens": [
+        "(To himself, checking a gauge) That's good.",
+        "Ascent pressures look good.",
+        "Okay, Ascent Helium Monitor, cycle; I did.",
+        "O2 Ascent..."
+      ],
+      "speaker": "Duke",
+      "time": "104:30:58"
+    },
+    {
+      "tokens": [
+        "(Garbled)"
+      ],
+      "speaker": "Young",
+      "time": "104:31:05"
+    },
+    {
+      "tokens": [
+        "(Garbled) Fantastic!!",
+        "Percy Precision (meaning John) has planted one on the plains of Descartes!",
+        "(Pause) Camera Stop."
+      ],
+      "speaker": "Duke",
+      "time": "104:31:06"
+    },
+    {
+      "tokens": [
+        "I better go easy on this Landing Radar circuit breaker, huh?"
+      ],
+      "speaker": "Young",
+      "time": "104:31:16"
+    },
+    {
+      "tokens": [
+        "Yeah, don't...Okay, that's the right one.",
+        "Okay; (movie) camera's off.",
+        "Ha, ha!",
+        "Hey, it sure ain't flat, John.",
+        "Wow!",
+        "There's that ridge to the north."
+      ],
+      "speaker": "Duke",
+      "time": "104:31:19"
+    },
+    {
+      "tokens": [
+        "Yep.",
+        "Sure is."
+      ],
+      "speaker": "Young",
+      "time": "104:31:33"
+    },
+    {
+      "tokens": [
+        "All we got to do is jump out the hatch and we got plenty of rocks."
+      ],
+      "speaker": "Duke",
+      "time": "104:31:35"
+    },
+    {
+      "tokens": [
+        "Houston, boy, it sure looks like you could make - I see Crown Crater (near the summit of Stone Mountain) from here; I can see (South) Ray Crater from here.",
+        "Not a...Boy!"
+      ],
+      "speaker": "Young",
+      "time": "104:31:38"
+    },
+    {
+      "tokens": [
+        "I almost had apoplexy, that Program alarm, and that's your radar breaker."
+      ],
+      "speaker": "Duke",
+      "time": "104:31:49"
+    },
+    {
+      "tokens": [
+        "Charlie's about had...(Laughs and changes the subject) Charlie's got nothing but a ridge to look at."
+      ],
+      "speaker": "Young",
+      "time": "104:31:54"
+    },
+    {
+      "tokens": [
+        "Sounds beautiful, John.",
+        "Wish I were there."
+      ],
+      "speaker": "Irwin",
+      "time": "104:31:59"
+    },
+    {
+      "tokens": [
+        "There's a ridge out in front (stops to listen to Irwin) There's a ridge out in front of us, too, John."
+      ],
+      "speaker": "Duke",
+      "time": "104:32:02"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "There's a ridge in front of us, one to the side of us, and my guess is that we're in a subdued old crater that's got a lot more craters (in it)."
+      ],
+      "speaker": "Young",
+      "time": "104:32:07"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "Irwin",
+      "time": "104:32:16"
+    },
+    {
+      "tokens": [
+        "What a neat place."
+      ],
+      "speaker": "Young",
+      "time": "104:32:18"
+    },
+    {
+      "tokens": [
+        "Okay, Jim, this ridge in front of us does look like a subdued crater and it may be the raised rim about 50 meters in front of us, about, oh, 4 or 5 meters tall.",
+        "About 30 or 40 percent of the surface is covered with boulders that are maybe half a meter in size.",
+        "On out in front of us and to the right, where we landed, there were..."
+      ],
+      "speaker": "Duke",
+      "time": "104:32:21"
+    },
+    {
+      "tokens": [
+        "Wait a minute, Charlie.",
+        "(To Mission Control) We gonna stay, Houston?"
+      ],
+      "speaker": "Young",
+      "time": "104:32:45"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "(Long Pause) Everything's looking okay up to this point, John.",
+        "We'll give you a final word here shortly."
+      ],
+      "speaker": "Irwin",
+      "time": "104:32:48"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We were coming down pretty good until I hit the Stop button, and then it fell out.",
+        "You know, the engine stopped."
+      ],
+      "speaker": "Young",
+      "time": "104:33:14"
+    },
+    {
+      "tokens": [
+        "I know exactly what you mean.",
+        "(Pause)"
+      ],
+      "speaker": "Irwin",
+      "time": "104:33:22"
+    },
+    {
+      "tokens": [
+        "It's really nice to have your shadow out there; that's a good help.",
+        "It's a good altitude gouge (sic)."
+      ],
+      "speaker": "Young",
+      "time": "104:33:29"
+    },
+    {
+      "tokens": [
+        "John, that was super.",
+        "(Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:33:37"
+    },
+    {
+      "tokens": [
+        "The way these blocks are laid in here, out my window, I'd guess they come from South Ray.",
+        "There's some biggies out there.",
+        "We've got, right out in front of us about 100 meters, at my 10:30 position (that is, southeast of the LM), I've got one that must be 3 meters across."
+      ],
+      "speaker": "Young",
+      "time": "104:33:58"
+    },
+    {
+      "tokens": [
+        "Orion, you're stay for T-1."
+      ],
+      "speaker": "Irwin",
+      "time": "104:34:17"
+    },
+    {
+      "tokens": [
+        "Understand."
+      ],
+      "speaker": "Young",
+      "time": "104:34:22"
+    },
+    {
+      "tokens": [
+        "Okay, stay for T-1.",
+        "P68, John, and I'll get the AGS going.",
+        "414 plus 2 is in, 400 to 4."
+      ],
+      "speaker": "Duke",
+      "time": "104:34:23"
+    },
+    {
+      "tokens": [
+        "Hey, Jim, hats off and a case of beer to FIDO (Flight Dynamics Officer).",
+        "I'll tell you, that targeting was just beautiful."
+      ],
+      "speaker": "Duke",
+      "time": "104:34:40"
+    },
+    {
+      "tokens": [
+        "Boy!",
+        "You guys just started us right in there.",
+        "(Pause) That was superb!"
+      ],
+      "speaker": "Young",
+      "time": "104:34:46"
+    },
+    {
+      "tokens": [
+        "Very good.",
+        "(Pause)"
+      ],
+      "speaker": "Irwin",
+      "time": "104:35:53"
+    },
+    {
+      "tokens": [
+        "(To Charlie) (Garbled) where it says we are.",
+        "I believe it."
+      ],
+      "speaker": "Young",
+      "time": "104:35:02"
+    },
+    {
+      "tokens": [
+        "Okay, Jim, our Noun 43s are minus 896..."
+      ],
+      "speaker": "Duke",
+      "time": "104:35:05"
+    },
+    {
+      "tokens": [
+        "We have them, Charlie."
+      ],
+      "speaker": "Irwin",
+      "time": "104:35:08"
+    },
+    {
+      "tokens": [
+        "...plus 1552.",
+        "(To John) Okay; (Reading) Engine Stop, Reset."
+      ],
+      "speaker": "Duke",
+      "time": "104:35:10"
+    },
+    {
+      "tokens": [
+        "Okay; Engine Stop, Reset."
+      ],
+      "speaker": "Young",
+      "time": "104:35:14"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Pro."
+      ],
+      "speaker": "Duke",
+      "time": "104:35:16"
+    },
+    {
+      "tokens": [
+        "Pro."
+      ],
+      "speaker": "Young",
+      "time": "104:35:17"
+    },
+    {
+      "tokens": [
+        "Call P12.",
+        "(Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:35:18"
+    },
+    {
+      "tokens": [
+        "Go on in there, Charlie."
+      ],
+      "speaker": "Young",
+      "time": "104:35:24"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "(Reading) Tig (time-of-ignition) time for T-2 is 104 (pause) plus 42 plus 16.64.",
+        "Pro.",
+        "(Long Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:35:27"
+    },
+    {
+      "tokens": [
+        "Those numbers are good."
+      ],
+      "speaker": "Duke",
+      "time": "104:35:52"
+    },
+    {
+      "tokens": [
+        "Those numbers are good?"
+      ],
+      "speaker": "Young",
+      "time": "104:35:53"
+    },
+    {
+      "tokens": [
+        "Yep."
+      ],
+      "speaker": "Duke",
+      "time": "104:35:54"
+    },
+    {
+      "tokens": [
+        "Outstanding.",
+        "(Pause) Pro.",
+        "It's Auto."
+      ],
+      "speaker": "Young",
+      "time": "104:35:55"
+    },
+    {
+      "tokens": [
+        "Auto."
+      ],
+      "speaker": "Duke",
+      "time": "104:36:01"
+    },
+    {
+      "tokens": [
+        "Pro.",
+        "(Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:36:03"
+    },
+    {
+      "tokens": [
+        "Okay; (Reading) \"PGNS Mode Control, Noun 33\", you got.",
+        "6 minutes, we're counting down."
+      ],
+      "speaker": "Duke",
+      "time": "104:36:09"
+    },
+    {
+      "tokens": [
+        "(To Houston) Boy, this is really a nice place!",
+        "Feel that one-sixth g, Charlie."
+      ],
+      "speaker": "Young",
+      "time": "104:36:16"
+    },
+    {
+      "tokens": [
+        "My restraint harness has got me anchored."
+      ],
+      "speaker": "Duke",
+      "time": "104:36:20"
+    },
+    {
+      "tokens": [
+        "Oh, that's what the trouble is.",
+        "(Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:36:24"
+    },
+    {
+      "tokens": [
+        "Okay, the AGS is set, 410.",
+        "Standing by.",
+        "(Pause) John, that was a sup(erb landing)!",
+        "(Long Pause) It's just about level (that is, the LM is nearly vertical), we're not going to have a bit of trouble getting out..."
+      ],
+      "speaker": "Duke",
+      "time": "104:36:29"
+    },
+    {
+      "tokens": [
+        "Yeah, it's going to be neat.",
+        "But it sure is not...It's not a smooth...It's not that FS smooth, Houston."
+      ],
+      "speaker": "Young",
+      "time": "104:36:57"
+    },
+    {
+      "tokens": [
+        "Say again, John."
+      ],
+      "speaker": "Irwin",
+      "time": "104:37:08"
+    },
+    {
+      "tokens": [
+        "It's not that FS smooth; we're in the middle of a block field."
+      ],
+      "speaker": "Young",
+      "time": "104:37:12"
+    },
+    {
+      "tokens": [
+        "Roger; we copy."
+      ],
+      "speaker": "Irwin",
+      "time": "104:37:16"
+    },
+    {
+      "tokens": [
+        "(Looking out John's window to the south) There's Crown Crater up there (near the summit of Stone Mountain)."
+      ],
+      "speaker": "Duke",
+      "time": "104:37:17"
+    },
+    {
+      "tokens": [
+        "(Garbled) little blocks.",
+        "We may have squashed a few."
+      ],
+      "speaker": "Young",
+      "time": "104:37:22"
+    },
+    {
+      "tokens": [
+        "And, Jim, we got Crown Crater out John's left window (at) about 9 o'clock."
+      ],
+      "speaker": "Duke",
+      "time": "104:37:29"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Irwin",
+      "time": "104:37:34"
+    },
+    {
+      "tokens": [
+        "And just looking at it from here, I don't think the Rover's going to have any trouble going up that hill."
+      ],
+      "speaker": "Young",
+      "time": "104:37:37"
+    },
+    {
+      "tokens": [
+        "Glad to hear that."
+      ],
+      "speaker": "Irwin",
+      "time": "104:37:41"
+    },
+    {
+      "tokens": [
+        "I could be wrong.",
+        "Slopes tend to fool you.",
+        "(Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:37:45"
+    },
+    {
+      "tokens": [
+        "It looked good going (to) North Ray, too.",
+        "There were some big blocks on the rim but not...The track just looked good."
+      ],
+      "speaker": "Duke",
+      "time": "104:37:48"
+    },
+    {
+      "tokens": [
+        "It looked good, huh?"
+      ],
+      "speaker": "Young",
+      "time": "104:37:54"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "Uh-huh.",
+        "(Long Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:37:55"
+    },
+    {
+      "tokens": [
+        "(Garbled)"
+      ],
+      "speaker": "Duke",
+      "time": "104:38:24"
+    },
+    {
+      "tokens": [
+        "Turn on the water for a second, Charlie."
+      ],
+      "speaker": "Young",
+      "time": "104:38:25"
+    },
+    {
+      "tokens": [
+        "Okay, that's a good idea.",
+        "(Long Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:38:27"
+    },
+    {
+      "tokens": [
+        "That shadow is not as long as I thought it was going to be.",
+        "It looks like we're right on top of the ground."
+      ],
+      "speaker": "Duke",
+      "time": "104:38:50"
+    },
+    {
+      "tokens": [
+        "Yeah, we didn't drop very far.",
+        "(Long Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:39:00"
+    },
+    {
+      "tokens": [
+        "Man, we got a lot of rocks, that's for sure.",
+        "(Pause)"
+      ],
+      "speaker": "Young",
+      "time": "104:39:15"
+    },
+    {
+      "tokens": [
+        "(To Houston) How's it (meaning the LM) looking, Jim?"
+      ],
+      "speaker": "Duke",
+      "time": "104:39:22"
+    },
+    {
+      "tokens": [
+        "It's still looking good.",
+        "We're just standing by here..."
+      ],
+      "speaker": "Irwin",
+      "time": "104:39:24"
+    },
+    {
+      "tokens": [
+        "I wish I could tell you what kind of rocks those are Houston.",
+        "But some of them are very white; and, doggone, if I could see...I'm not close enough to them, but...And I see one white one with some black...Can't tell whether that's dirt or not on it.",
+        "But it could be a white breccia, if you believe such a thing."
+      ],
+      "speaker": "Young",
+      "time": "104:39:27"
+    },
+    {
+      "tokens": [
+        "We copy."
+      ],
+      "speaker": "Irwin",
+      "time": "104:39:51"
+    },
+    {
+      "tokens": [
+        "Every one of them are (sic) angular, too, John."
+      ],
+      "speaker": "Duke",
+      "time": "104:39:52"
+    },
+    {
+      "tokens": [
+        "Yeah, they're all angular.",
+        "They're out of South Ray, I believe."
+      ],
+      "speaker": "Young",
+      "time": "104:39:54"
+    },
+    {
+      "tokens": [
+        "There's a pretty one over there, without any dust on it at all.",
+        "Out about 50 meters, by those three little craters?",
+        "(Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:39:58"
+    },
+    {
+      "tokens": [
+        "Right (Pause) In fact, Houston, when I told you that I thought this terrain might be very spectacular; boy, I was just kidding.",
+        "It really is something looking at that mountain.",
+        "That is a big mountain, Charlie!"
+      ],
+      "speaker": "Young",
+      "time": "104:40:07"
+    },
+    {
+      "tokens": [
+        "Yeah, we're within 2 minutes (of T-2), John.",
+        "Let's...(Pause) I agree with you.",
+        "It is really (spectacular) (Pause) Is that South Ray?",
+        "That big bright (garbled)?...",
+        "(Long Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:40:30"
+    },
+    {
+      "tokens": [
+        "Orion, you're stay for T-2."
+      ],
+      "speaker": "Irwin",
+      "time": "104:41:03"
+    },
+    {
+      "tokens": [
+        "Rog; ..."
+      ],
+      "speaker": "Duke",
+      "time": "104:41:08"
+    },
+    {
+      "tokens": [
+        "Okay...."
+      ],
+      "speaker": "Young",
+      "time": "104:41:09"
+    },
+    {
+      "tokens": [
+        "...Super."
+      ],
+      "speaker": "Duke",
+      "time": "104:41:09"
+    },
+    {
+      "tokens": [
+        "...Thank you."
+      ],
+      "speaker": "Young",
+      "time": "104:41:10"
+    },
+    {
+      "tokens": [
+        "Stay for T-2.",
+        "Okay; let's go to P00, and then ICS PTT (Push-to-Talk).",
+        "(Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "104:41:14"
+    }
+  ],
+  "source_file": "surface_02_landing_at_descartes.html"
+}

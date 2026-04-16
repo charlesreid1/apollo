@@ -1,0 +1,1119 @@
+{
+  "description": "Apollo 10 Flight Journal - Day 4, part 12b: Lunar encounter - Lunar Orbit Insertion",
+  "transcript": [
+    {
+      "tokens": [
+        "The Apollo 10 stack has just disappeared around the back of the Moon as viewed from Earth.",
+        "In a few minutes, the crew will perform the Lunar Orbit Insertion (LOI) burn which will slow the spacecraft down enough to be captured in orbit around the Moon.",
+        "Failure to achieve LOI would cause the spacecraft to return to Earth's vicinity, thanks to the free return trajectory that was chosen for Apollo 10's coast to the Moon."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The transcript for this chapter is exclusively derived from an onboard recording that was made while Apollo 10 was out of radio contact.",
+        "The Data Storage Equipment (DSE) is a multitrack tape recorder that records digital data streams from around the spacecraft.",
+        "This allows engineers to inspect the spacecraft's performance during farside passes when most of the important manoeuvres are carried out.",
+        "The DSE also includes an analogue voice track that records the conversations of the crew.",
+        "These recordings are not brought back to Earth as tape.",
+        "Indeed, the tape will be recorded over many times on subsequent farside passes.",
+        "Instead, once the spacecraft comes back into view of Earth, the DSE is replayed to a ground station at high speed using an auxiliary radio channel."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The overburn criteria of 10 seconds is the mission rule that the crew must manually shut down the SPS engine should it still be burning 10 seconds after the predicted cut-off.",
+        "They will monitor the burn-time and Delta-V change using the EMS."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The DSE should be recording at Loss Of Signal (LOS).",
+        "If not, the crew must move the spring loaded Up Telemetry switch on panel 3 to the Command Reset position and it will then return to the Normal position.",
+        "Setting this switch briefly to CMD Reset performs a real-time Command Reset function and maintains the power supply.",
+        "This resets all read time commands (RTC) relays except those relays affecting the system A abort light and the crew alarm so the affected equipment will resume the operational mode dictated by their control switches on the panel 3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "High Bit Rate on the DSE."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "As set out in the LOI-1 PAD previously, the EMS Delta-VCvalue of 2,975.2 fps [907.0 m/s] is entered into the Delta-V display of the EMS (Entry Monitor System) panel.",
+        "The crew monitor this figure as it descends to zero as the engine burns.",
+        "If the Guidance and Control System fails to stop the burn, the EMS will do so but it has to be given a lower Delta-V figure to take account of the engine's tail-off thrust after shutdown.",
+        "The EMS switches and displays are situated at the top of Main Display Panel 1."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The EMS function switch is placed in the Vo SET position which enables the Delta-V/Range display to be set to the desired figure using the Delta-V/EMS Set switch."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "BMAG Rate 2 switch is set for each of the three axes; roll, pitch and yaw, and ensures the BMAG output is not utilized.",
+        "The Delta-V CG switch on panel 1 is set to LM/CM enables body-bending filters in the SCS Auto TVC control path."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "No Auto RCS Select switches have yet been set to select the required RCS quads and the buses they will be tied to."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The CM DAP has been set to support the upcoming LOI burn using the CMC routine R03 detailed below.Routine R03-Digital Autopilot Data LoadTo load and verify the CMC DAPTo provide the crew a means for selecting appropriate coast autopilots, after completion of this routine, which identifies the vehicle configuration, the use of Verb 46 Enter (\"establish GNC control\") will cause the appropriate DAP to become active.Key Verb 48 Enter to commence the R03 routine to load the DAP.Verb and Noun displays flash to request crew input and display the DAP configuration data Verb 04 Noun 46 Enter:Register 1 (R1): ABCDERegister 2 (R2): ABCDERegister 3 (R3): BLANKR1 data code:A-vehicle configuration:0-No DAP1-CSM only2-CSM + LM (Ascent & Descent stages)3-S-IVB6-CSM + LM (Ascent stage only)B-Quads AC for +X translation code:0-Don't use quads1-Use quadsC-Quads BD for +X translation code:0-Don't use quads1-Use quadsD-Deadband code:0-0.5 deg1-5.0 degE-(USB) maneuver rate code:0-0.05 deg/sec1-0.2 deg/sec2-0.5 deg/sec3-4.0 deg/secR2 data codeA-AC or BD roll code0-Use BD quads1-Use AC quadsB-Quad A code0-Don't use1-Use quadC-Quad B code0-Don't use1-Use quadD-Quad C code0-Don't use1-Use quadE-Quad D code0-Don't use1-Use quadIf satisfied with existing DAP configuration codes, key in Proceed.If not satisfied with existing DAP configuration codes, key Verb 21 Enter to load the desired R1 code, Verb 22 Enter to load the desired R2 code.A flashing Verb/Noun request for crew to respond with CSM and LM weights.Verb 06 (display decimal in R1 & R2) Noun 47 (R1 this vehicle weight XXXXX.",
+        "lbs, R2 other vehicle weight XXXXX.",
+        "Lbs).R1-CSM weightR2-LM weightR3-BLANKBoth weights in pounds to the nearest pound.Is the LM attached?If Yes, are the weights entered for both vehicles correct?",
+        "Key Proceed.If No, is the weight entered for the CSM correct?",
+        "If YES key Proceed.If the weights entered are incorrect, reload using Verb 21 (CSM only) or Verb 22 (CSM & LM) Enter then key ProceedFlashing will terminate.Flashing Verb 06 (display decimal in R1 & R2) Noun 48 (Gimbal pitch trim XXX.XX deg, Gimbal yaw trim XXX.XX deg)R1-Pitch trimR2-Yaw trimR3-BLANKIf displayed values agree with expected values, key Proceed.",
+        "If they are incorrect, load using Verb 21 or 22 Enter then key Proceed.Data will now be transferred to the digital autopilot and routine R03 will be exited."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The SC Cont switch on panel 1 is set to the CMC position to inhibit spacecraft control functions by the SCS.",
+        "When the spacecraft is under CMC control, a translation command by the crew using the translation controller, results in a logic signal (28V DC) being sent to the CMC.",
+        "The CMC would provide a translation command to the roll jets.",
+        "The crew can immediately switch to SCS control if required by rotating the translation controller clockwise 17°."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The CMC Mode switch is set to Auto to enable the computer to control the spacecraft's attitude during the LOI burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-39a."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Spacecraft attitude during the LOI burn and the initial part of lunar orbit 1.",
+        "This document is from the final Flight Plan.",
+        "The times shown should be amended by adding 11 minutes due to the slightly later than planned lunar arrival due the cancellation of midcourse correction 3 as unnecessary."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The SCS breakers are the 4 SCS Logic Bus circuit breakers on panel 8 which supply 28V DC power over the main power buses A & B to the SCS logic (command) buses (circuits).",
+        "These logic buses were used to send commands to the RCS, TVC (Thrust Vector Control) gimbals to steer the SPS engine, the Flight Director Attitude Indicator (FDAI) display and the Body Mounted Attitude Gyros (BMAG), if SCS control is required."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Manual Attitude switch on panel 1 is placed in the Rate Command position to provide the capability to command spacecraft attitude translation rates that are proportional to the rotation controller (RC) deflection.",
+        "If there is no deflection of the RC the spacecraft will be under automatic control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Limit Cycle switch also on panel 1 is set to the Off position.",
+        "It is placed in this position to conserve RCS propellant by allowing manual proportional rate command and automatic rate damping.",
+        "If it was left in the up (On) position the spacecraft would be attitude hold mode, which is propellant expensive."
+      ],
+      "speaker": "Commentary",
+      "time": "LIMITCYC"
+    },
+    {
+      "tokens": [
+        "The Att Deadband and Rate switch positions establish rate and deadband response.",
+        "With the Att Deadband switch placed in the Min position, it switches the electrical deadband out of the Electronic Control Assembly (ECA) attitude control loop in all 3 axes.",
+        "The Rate switch is set to High to set the attitude rates (see below)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Translation Control Power switch is set to On to allow use of this controller in all 3 axes.",
+        "SCS-TVC Servo Power switch on panel 7, is set to AC1 to provide AC power over AC power bus 1 and DC power over main power bus A to the Trust Vector Control (TVC) servos in both pitch & yaw."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rotational Control Power-Direct, are both set to off.",
+        "This removes all DC and AC power from the controller."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "John Young has repeated the instruction regarding the Spacecraft Control and CMC Mode which he called out at 075:47:37.",
+        "SCS TVCs in Rate Command on panel 1 allows thrust vector control to be switched to SCS control as a backup to the CMC.",
+        "This both in pitch and yaw."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "TVC Gimbal Drive in Auto provides an automatic transfer from servo 1 to servo 2 if either a Translation Controller-Clockwise motion is made or an over-current logic signal is sent from the SPS."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young also is noting that they have had Loss Of Signal between the combined spacecraft and the Earth as they finally swing behind the Moon for the first time, just prior to the planned LOI burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The latter two values are High Gain Antenna pointing angles."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is ensuring the communications settings onboard are ready for acquisition of signal (AOS) when the spacecraft emerges from behind the Moon as seen from Earth.",
+        "Stafford has given him the steering angles (Pitch -86°, Yaw 0°) for the high gain antenna, so that it is oriented correctly to get a strong lock on to the signal from the Earth MSFN station.",
+        "Using CMC Verb 64 (request S-band antenna routine) to run routine R05, the CMC can calculate and display the S-band antenna gimbal angles required to point the antenna at the center of the Earth."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The CM RCS switch must be in Logic position (up) before power is available to the CM Prplnt Dump, Purge, and CM RCS Htrs switches, and circuitry controlling automatic transfer of engine firing command from SM RCS to CM RCS."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The EMS was set previously to monitor the LOI Delta-V at 075:47:21.",
+        "There are two Helium SPS Helium Valve circuit breakers on panel 8, which provide DC power on main bus A to 2 SPS He Valve switches and the talkback indicators for these switches, which are all on panel 3.",
+        "When both switches are set to the Auto position, the valve opening is controlled by the thrust On-Off signal from either the CMC or SCS.",
+        "The valve position is indicated by the talkback indicator above the switches; barberpole indicates closed, gray indicates open.",
+        "The helium is used to pressurize the SPS fuel and oxidiser tanks.",
+        "The helium tank pressure is monitored on the strip meter at the top of panel 3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The two Pilot Valve circuit breakers on panel 8 are pushed in to provide power to the Delta-V Thrust Normal switch via both DC power buses."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The battery relay bus provides DC power to the AC sensing units, the fuel cell and inverter control circuits, fuel cell reactant and radiator valves and the fuel cell main bus A and B talkback indicators."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is referring to the LOI abort modes detailed at073:37:19"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Pitch and Yaw SPS Gimbal Motor switches are in a single bank on panel 1.",
+        "The three position toggle switch with upper (Start) position spring-loaded to return the switch to the center position when released.",
+        "Pitch 1 and Yaw 1 switches control the gimbal actuator primary drive motors.",
+        "The Pitch 2 and Yaw 2 switches control the gimbal actuator secondary drive motors."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "MTVC - Manual Thrust Vector Control.",
+        "Rotational Controller clockwise action signals are used to command spacecraft rotation rates during SCS proportional rate control and to command SPS engine gimbal position during manual thrust vector control.",
+        "The manual proportional commands to the TVC are input via the rotation controller.",
+        "The crew is checking that the TVC is under the control of the CMC."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Pitch 2 and Yaw 2 SPS Gimbal Motors have now been set to start."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Gimbal trim angles, 0.95° pitch and 0.17° yaw."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In SCS Delta-V mode, manual SPS engine gimbal trim capability is provided.",
+        "Desired gimbal trim angles are set with the pitch and yaw trim thumbwheels on panel 1.",
+        "The indicator displays SPS engine position relative to actuator null and not body axes.",
+        "The range of the engine pitch and yaw gimbal displays are ±4.5°.",
+        "This range is graduated with marks at each 0.5° and reference numeral at each 2° division.",
+        "The range of the fuel pressure scale is 0 to 50 psi with graduations at each 5-psi division, and reference numerals at each 10-psi division."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is saying the gimbal position indicator needs to be set to the neutral position using the translation controller."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Provides 28V DC via main buses A & B and 26V AC via AC bus 1 to rotation controller 2."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Translation controller to its neutral position."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is manually testing the SPS pitch and yaw gimbals by ±2°."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "3 minutes and 30 seconds to LOI ignition.",
+        "The Rotational Control Power switches are being set to Direct via both DC buses.",
+        "This enables direct manual control of the RCS once the rotation controller has been deflected by 11 degrees in any axes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With both SPS Helium Valves switches set to Auto, the supply of power to the valves is controlled by the CMC, SCS or SPS Thrust Direct, On switch."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew are confirming the Limit Cycle switch is Off which they set at075:47:58"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "GDC Align pushbutton on panel 1, provides a means of aligning the Gyro Display Coupler (GDC) to a given reference.",
+        "The GDC has two gyro assemblies associated with it, which can provide attitude determination.",
+        "They are normally aligned to match the current IMU orientation.",
+        "This provides a backup attitude reference in case of an IMU malfunction."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Spacecraft currently at 351° roll angle.",
+        "355° is the planned roll attitude at LOI ignition."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the BMAG Mode switches (one in each axes) in the Att 1/Rate 2 position the BMAG in GA-2 provides rate signals for control and display, plus GDC update.",
+        "The BMAG in GA-1 provides attitude error signals for control and display."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "3 minutes to LOI burn.",
+        "We won't know how this maneuver has gone until we acquire Apollo 10 as it comes around the front of the Moon."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The SPS gimbal trim angles of plus 0.95° pitch and minus 0.17° yaw are those read up to the crew as part of the LOI PAD at073:34:51."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Both of the Delta-V Thrust switches on panel 1 are covered by flip up guards to prevent inadvertent use.",
+        "These switches provide an SPS-ready signal to the GDC and provide power to the Flight Combustion Stability Monitor (FCSM), and the SPS valves via both main power buses."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "SPS ignition will only occur with the Delta-V Thrust A switch in the Normal position."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Translational Control Power switch on panel 1 provides 28V DC power to the controller via both main power buses.",
+        "Young actually powers up the rotational controller which was the next step on the checklist.",
+        "Stafford double checks the actions and catches the small error."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "EMS Mode switch on panel 1 is set to Normal <30 seconds prior to thrusting to minimize build-up of Delta-V indicator errors, caused by accelerometer bias.",
+        "The Rate switch on panel 1 selects low gains in both rate and attitude in all axes, and high gain in roll manual control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "One minute to LOI."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "High Bite Rate on the data storage equipment recorder."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is encouraging his crew to concentrate on their preparations for the LOI burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Despite Stafford instruction to his crew, Young is voicing his concern over Cernan's distraction by the view of the Moon outside.",
+        "He is quite firmly encouraging Cernan to concentrate on the matters at hand inside the spacecraft as the crew prepare for the LOI burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the SCS in Delta-V mode, the Thrust On push button provides a logic signal which energizes the SPS relays and solenoid control valves.",
+        "It remains on throughout the SPS thrusting period."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is repeating to himself the instruction to set the Delta-V Thrust switch A to the Normal position.",
+        "See note at075:53:28"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At ignition minus 5 seconds, Stafford has to command the CMC that he approves the SPS ignition on time by pressing the Proceed button on the DSKY whilst in program P40."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "5 seconds.",
+        "Ignition.",
+        "Apollo 10 should be burning now.",
+        "And at that time of ignition, Apollo 10 was 98.4 nautical miles [182.2 km] from the Moon, 215,847 nautical miles [399,746 km] from Earth.",
+        "We have 2 clocks counting in the control room now.",
+        "The top clock reading AOS CM.",
+        "It reads 25 minutes, 8 seconds.",
+        "That's the acquisition of signal time with a good LOI burn.",
+        "The bottom clock reads 14 minutes, 24 seconds and that is the acquisition time if Apollo 10 did not perform the burn.",
+        "Flight Director Chris Kraft describes the attitude in this Control Center now as anticipatory.",
+        "It's very quiet in this control room right now.",
+        "A few conversations going but not very many.",
+        "Most controllers sitting at their consoles very quietly.",
+        "The entire Apollo 10 backup crew is here in the Control Center; Gordon Cooper, Donn Eisele, and Ed Mitchell.",
+        "Two CapComs; Charlie Duke and Bruce McCandless.",
+        "Jack Schmitt is still here.",
+        "Deke Slayton, the Director of Flight Crew Operations is here talking at the moment with Dr.",
+        "Robert Gilruth, the Director of MSC.",
+        "George Low, the Apollo Spacecraft Program Manager is here with Chris Kraft, the Director of Flight Operations.",
+        "Lt.",
+        "General Samuel Phillips, the Apollo Program Director, is seated next to them.",
+        "On the other side of General Phillips is George Hage, the Mission Director.",
+        "We understand that Dr.",
+        "Kurt Debus, the Director of the Kennedy Space Center and Dr.",
+        "von Braun, the Director of the Marshall Space Flight Center are in the viewing room.",
+        "We'll try to get a list of some of the other people in the viewing room.",
+        "And this is Apollo Control.",
+        "Among other distinguished visitors in the viewing room are Dr.",
+        "George Mueller, the Associate Administrator for Manned Space Flight, NASA; Mr.",
+        "Lou Evans, the President of Grumman Aircraft Engineering Corporation, the prime contractor for the Lunar Module; and the Vice President for Space of that company, Joe Gavin.",
+        "The manufacturer of the Command ModuleCharlie Brownis represented by William Bergen, President of the Space Division of North American Rockwell.",
+        "And Rusty Schweickart who was the Lunar Module Pilot on the Apollo 9 mission is in the viewing room."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is referring to the SPS control banks which are selected by the Delta-V Thrust switch."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The four valves are the SPS solenoid control valves, which control the propellant ball valves.",
+        "The SPS pressurization helium valves are closed during SPS non thrusting periods, with its talkback indicator showing barber pole."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Any deviation from the nominal oxidizer to fuel ratio (1.6:1 by mass) is displayed by the Unbalance indicator in pounds.",
+        "The upper half of the indicator is marked Inc and the lower half is marked Dec to identify the required change in oxidizer flow rate to correct any unbalance condition.",
+        "The marked or shaded area is a normal unbalance range area."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew can determine if a true unbalance of propellant remaining exists.",
+        "With the PUG (Propellant Utilization and Gauging Subsystem) mode switch in Prim or Norm, the crew display percentage readouts would not indicate the same percentage value and the unbalance meter would indicate the amount of unbalance in pounds.",
+        "To verify if a true unbalance condition exists, the PUG mode switch would be positioned to Aux.",
+        "If the crew display percentage readouts and the unbalance meter now read similar to the readouts when in Prim, a true unbalance condition exists."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew display readouts and unbalance meter could not be considered accurate until the SPS engine is thrusting for at least 25 seconds.",
+        "This is to allow complete propellant settling in the SPS tanks before the gauging system is within its design accuracy."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "If an unbalance condition exists, which is determined from the Incr, Decr readings on the unbalance meter on panel 3, the crew use the propellant utilization valve to return the remaining propellants to a balanced condition.",
+        "The propellant utilization is not powered until a Thrust On command is provided to the propellant utilization gauging control unit.",
+        "The propellant utilization valve housing contains two sliding gate valves within one housing.",
+        "One of the sliding gate valves is the primary, and the remaining valve is the secondary.",
+        "Stops are provided within the valve housing for the full increase or decrease positions.",
+        "There are separate stops for the primary and secondary sliding gate valves.",
+        "The secondary propellant utilization valve has twice the travel of the primary propellant utilization valve.",
+        "This is to compensate for the primary propellant utilization valve failure in any position."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The propellant utilization valve controls are located on panel 3.",
+        "The Oxid Flow Prim/Sec switch, selects the primary or secondary propellant utilization valve for operation.",
+        "The normal position of the Oxid Flow Valve select switch is Prim.",
+        "The Oxid Flow Valve select switch will not be moved to Sec unless a problem is encountered with the primary valve.",
+        "The Oxid Flow Valve Incr, Norm, Decr switch is utilized to position the selected primary or secondary propellant utilization valve.",
+        "When the Oxid Flow Valve switch is in Norm and the Oxid Flow Valve select switch is in Prim, the sliding gate valves are in a nominal flow position.",
+        "The upper and lower Oxid Flow Valve position indicators are gray.",
+        "When the unbalance meter informs the crew of Incr, the Oxid Flow Valve switch is positioned to Incr and the Oxid Flow Valve select switch is in Prim.",
+        "The primary sliding gate valve then moves to the increase flow position.",
+        "The valve movement will take approximately 3.5 seconds to reach the full increase position.",
+        "The upper Oxid Flow Valve position indicator would then indicate Max and the lower indicator would remain gray.",
+        "The Oxid Flow Valve would then be left in the Incr oxidizer flow position.",
+        "This will increase the oxidizer flow approximately 3 percent above the nominal oxidizer flow.",
+        "When the unbalance meter informs the crew of approximately zero unbalance, the Oxid Flow Valve switch is then positioned to Norm.",
+        "The primary sliding gate valve would then return to the nominal flow position.",
+        "The valve movement will take approximately 3.5 seconds to reach the nominal flow position.",
+        "The Oxid Flow Valve upper indicator would then return to gray.",
+        "The lower indicator would remain gray."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "When the unbalance meter informs the crew to Decr the oxidizer flow, the Oxid Flow Valve switch is then positioned to Decr with the Oxid Flow Valve select switch in Prim.",
+        "The primary sliding gate valve then moves to the decrease flow position.",
+        "The valve movement will take approximately 3.5 seconds to reach the decrease flow position.",
+        "This will decrease the oxidizer flow approximately 3½ percent below that of the nominal oxidizer flow.",
+        "When the primary gate valve reaches the Decr position, the upper Oxid Flow Valve position indicator remains gray and the lower indicator would indicate Min.",
+        "The Oxid Flow Valve would then be left in the Decr position.",
+        "When the unbalance meter informs the crew of approximately zero unbalance.",
+        "The Oxid Flow Valve switch is then positioned to Norm.",
+        "The primary sliding gate valve would then return to the nominal flow position.",
+        "The valve movement will take approximately 3.5 seconds to reach the nominal flow position.",
+        "The Oxid Flow Valve upper indicator would then return to gray.",
+        "The lower indicator would remain gray."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The secondary propellant utilization valve is selected by positioning the Oxid Flow Valve select switch from Prim to Sec.",
+        "The Sec position would be selected in the event of a problem with the Prim.",
+        "The secondary sliding gate valve would then be controlled and operated by the Oxid Flow Valve Incr.",
+        "Norm, Decr switch in the same manner as the primary valve.",
+        "The position indicators would then operate in the same manner as in the primary.",
+        "however, now indicating the secondary valve position."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The SPS engine combustion chamber pressure is displayed as a percentage to the crew on the multi-purpose rotary SPS PCmeter on panel 1.",
+        "The normal range during an SPS burn is 95 to 105%.",
+        "The percentage readout correlates directly to the same measurement in psia, i.e.",
+        "98 per cent = 98 psia.",
+        "The measurement is provide by a transducer on the engine injector."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The SPS engine has dual banks of controls and valves to provide redundancy.",
+        "The burn could be made using only one bank, but the Apollo 10 mission rules set out that for long burns, the engine should be ignited using bank A only and after 30 seconds, bank B should be energized so as to provide a redundant set of controls should bank A malfunction.",
+        "The banks are selected using the Delta-V Thrust A or B switch.",
+        "See note at075:53:28"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew would be running program P40 on the CMC, which will display the remaining Delta-V in the LOI burn.",
+        "The EMS Delta Velocity Indicator is set prior to ignition to the desired Delta-V of the LOI burn.",
+        "It will display the remaining Delta-V as the burn proceeds.",
+        "This gives a comparison to the figure provided by the CMC."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is noting that the SPS chamber pressure indicated on the SPS PCmeter continues to climb."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The SPS chamber pressure jumped momentarily by 4 percent when the bank B SPS controls were switched on and then returned to the previous reading of 97 percent."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is referring to the measurements he is observing on the bank of four gauges displaying the SPS temperature, helium, fuel and oxidiser pressures on panel 3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The gimbal motors on the SPS engine have settled down now that the burn has become established, the chamber pressure has come up to its optimum value and the propellant have settled fully.",
+        "The gimbals are no longer so active to maintain the spacecraft's vector."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The PUGS system is not considered accurate until at least 25 seconds of the SPS burn has elapsed whilst the SPS propellants settle in their tanks.",
+        "Cernan is happy that he is controlling the propellant balancing using the output from the PUG display."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "SPS chamber pressure continues to climb slowly."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is the helium that is pressurising the tanks, forcing propellant into the engine."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The four valves Cernan is referring to are the SPS solenoid control valves, which control the propellant ball valves."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Abort mode 1 lasts for the first 105 seconds of the Apollo 10 LOI burn.",
+        "See the details of the various LOI abort modes at073:37:19"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "For 15 seconds on Apollo 10 they were between abort modes, hence Cernan's reference to no-man's land."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "They are now into the mode-2 abort period.",
+        "See the details of the various LOI abort modes at073:37:19"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "LOI burn time in seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Propellant quantity is down to 70%.",
+        "Cernan is controlling the propellant balancing.",
+        "See notes on balancing at075:56:07."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "LOI-1 burn has 3 minutes, 55 seconds remaining."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is making a prediction of the total SPS burn time; 5 minutes, 56 seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The roll RCS thrusters are firing under command from the CMC to correct the spacecraft's attitude.",
+        "In the Apollo 10 Crew Technical Debrief, Young described the roll transients."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young, from the1969 Technical debrief:\"It was steady, and the thing that was noted about the burn transient, as on the D mission, was that you get continued control in roll; it's up against the deadband, but it gives you a very good feeling of how the vehicle is performing.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The roll deadband during the LOI burn was set at ±5°."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is encouraging Cernan not to switch to the secondary propellant utilization valve.",
+        "See the notes on balancing at075:56:07"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-40."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Based on the indicated SPS engine performance, Stafford is estimating the engine will be shut off automatically by the CMC after a burn time of 5 minutes, 58 seconds.",
+        "He is making this estimation so they can calculate how long they should let the SPS engine burn beyond that time should the auto cut-off not occur and they have to manually shut it down."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "They are now into the time period of the mode 3 abort plan.",
+        "See the details of the various LOI abort modes at073:37:19"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is amending his estimate of the total SPS burn time to 5 minutes, 56 seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is preparing to set the Delta-V Thrust switches A and B to Off to shut down the SPS controlling banks A and B."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is sticking with his estimate of a total SPS burn time of 5 minutes, 56 seconds and will count down to cut-off based on this estimate."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Both Delta-V Thrust switches are set to Off."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is confirming that the four SPS Engine Injector Valve indicators have moved to their Closed position, and he has set the Helium Valves to the Closed position."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew is now safing the SPS engine and its associated systems."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "As Apollo 10 went behind the Moon, we were showing a distance of 256 nautical miles [474 km] from the Moon, velocity of 7,770 feet per second [2,369 m/s] and a spacecraft weight of 93,281 pounds [42,408 kg].",
+        "They were in a good Lunar Orbital Insertion burn.",
+        "We should reacquire Apollo 10 in 20 minutes, 52 seconds; at an elapsed time of 76 hours, 22 minutes, 58 seconds."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "During high power demand, supplemental power to the main DC buses can be supplied from the CM batteries A and B via the battery buses and directly from battery C.",
+        "By setting the Main Bus Tie to Bat A/C, the battery A bus is connected to DC main bus A and battery C to DC main bus B.",
+        "Also, setting the Main Bus Tie to Bat B/C connects battery B bus to DC main bus B and battery C to DC main bus A.",
+        "During the SPS burn both switches were set as detailed above."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The EMS MODE switch is set to Stby (standby).",
+        "In this position, all of the settings on the EMS Function rotary switch are inhibited except Delta-V Set, Rng Set (range) and Vo Set."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The EMS was counting down the velocity change (Delta-VC) as the LOI burn progressed, ready to shut down the engine when it reached zero.",
+        "This should have happened at the same time the G&N system decided to do so.",
+        "However, unlike the G&N system, the EMS did not take account of the SPS thrust tail-off.",
+        "Minus 7.0 fps (2.1 m/s) represents how much velocity change the EMS measured after it reached zero.",
+        "Some of the figure will be due to the thrust tail-off and some to the errors in MCC-H prediction of what figure Delta-VCshould have been."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford's burn time prediction was spot on."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hot time = total LOI burn time."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "A long burn with the SPS such as the LOI burn is unlikely to achieve the precise velocity changes required in the three axes as called for in the LOI PAD.",
+        "Using Noun 85 whilst in program P40 on the CMC the velocity errors in the three axes are displayed as VGX, VGY, VGZ.",
+        "These values represent the velocities, in fps, still to be gained and are known as residual velocities.",
+        "For Apollo 10's LOI burn the residuals are VGX0.0, VgYminus 0.2, VGZ0.0.",
+        "After many burns, these residuals would be corrected for (or nulled) but not on this occasion as they will be factored in to the second LOI burn PAD."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the deadband set to wide (maximum), the spacecraft can wander in attitude as much as ±5° before active steps are made to correct the drift."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is just double-checking the checklist items that have already been carried out."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew are discussing whether to leave the DSE recorder in High Bit Rate."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is trying to establish the longitude they are currently crossing.",
+        "The Flight Plan states they should be passing 150° East GET 075:53."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Verb 66 transfers the present CSM state vector to the LM state vector slots in the computer's erasable memory."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Verb 46 activates the DAP."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The planned spacecraft attitude is detailed inFlight Plan page 3-39attitude diagram.",
+        "Verb 21 (to load a star code into register 1) is run as part of program P51 (IMU orientation determination)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Translation Control has a sliding switch on it with two positions, Armed or Locked.",
+        "Stafford is moving this switch to the Locked position to avoid any inadvertent movement of the controller."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "When the early Apollo flights reached the Moon's far side, the IAU (International Astronautical Union, a body tasked with giving names to bodies and places in the Solar System) had not caught up with the pace of exploration and had not yet officially named the major features around the Moon's far side.",
+        "Understandably, and to help with identification, the people of Apollo applied their own names.",
+        "Most of the names for small-scale features around landing sites have stuck but all those for large features were eventually replaced by the IAU according to their naming conventions."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "What the Apollo 10 crew are calling 'America' is now known as Korolev.",
+        "This massive 437-km walled plain is really a small multiring basin, having the vestiges of an inner ring visible within the main crater rim.",
+        "Sergei P.",
+        "Korolev (1906-1966) was the mastermind behind the early Soviet space program, being largely responsible for both the first unmanned and manned spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Verb 82 is used as part of computer routine R30.",
+        "This routine is used to provide the crew with their current orbital parameters."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is struggling to find his post-burn notes of the orbit parameters displayed by the CMC.",
+        "Apolune (orbit high point), 169.1 nautical miles (313.2 km); perilune (orbit low point), 59.6 nautical miles ( 110.4 km)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan's Mickey Mouse comment, refers to his role during the LOI burn, of balancing the fuel to oxidiser ratio.",
+        "He had found it difficult at times to bring the mix into balance.",
+        "See balancing notes at075:56:07"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan has noted that the propellants became unbalanced at 3:00 minutes into the LOI burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Camera aperture stop setting.",
+        "f:5.6."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The ORDEAL (Orbital Rate Display - Earth And Lunar) drives one or both FDAI (Flight Director/Attitude Indicator, or \"8-ball\") instruments to display the spacecraft's attitude relative to the ground below.",
+        "It is a separate box of electronic controls which is connected by the crew for use by virtue of it being an add-on to the system as originally designed."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The ORDEAL has several controls:The two FDAI switches set the relevant FDAI to Orb Rate to display the pitch attitude with respect to the local horizontal, or Intrl to display the inertial attitude (bypassing the ORDEAL)The 3-way mode switch - Earth/Power Off/Lunar enables the ORDEAL to work in Earth or Lunar Orbit.The Alt Set rotary switch allows the crew to dial in the orbital altitude, which determines the rotation rate at which the FDAI will be driven.The 3-way Lighting switch controls the ORDEAL's electroluminescent panel, BRT, OFF, DIM.The 2-way Mode-Opr/Slow or Hold/Fast and the 3-way Slew-Up or Down, switches allow the FDAI to be set to the correct initial attitude slowly (0.55 degrees/sec) or fast (10 degrees/sec).",
+        "Once set using the Slew switch, the ORDEAL is set to Opr for normal operation.",
+        "Hold would be used to maintain a constant ORDEAL output.ORDEAL control panel.When the ORDEAL panel is not in use during launch and entry, it is stored in compartment U3 in the Upper Equipment Bay.",
+        "When in use, it is mounted above window 1 on the left side of the crew compartment.",
+        "Stafford is setting the ORDEAL up for initial use in lunar orbit.",
+        "He is setting the mode switch to LUNAR, and the ALT SET switch as prescribed to the 350 position."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The propellant quantities were recorded at LOI cut-off for Cernan to read to MCC-H as part of the burn status report.",
+        "The figures recorded were fuel 37.7 percent, oxidizer 39.5 percent.",
+        "MCC-H need to know this to calculate the spacecraft weight and assess the propellant margins for the remainder of the mission."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Flight Plan dictates that the crew should pitch down the combined spacecraft to 315° inertial and then set the ORDEAL to orb-rate at GET 076:17 plus the 11-minute slippage in the schedule mentioned by Young, i.e.",
+        "GET 076:27"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Jack is scientist-astronaut, Harrison (Jack) Schmitt who, as a field geologist, helped train the crews in lunar geology."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Coolant in the primary loop absorbs heat from the CM and is transported to the radiators in the SM where a portion of this heat is rejected to space.",
+        "When the temperature of the coolant from the SM radiators entering the evaporator (water boiler) rises to 48.0 to 50.5° F, the radiators are not rejecting enough heat to space and the evaporator mode of cooling is initiated to supplement the cooling.",
+        "The glycol temperature control (Glycol Evap-Steam Press switch, Auto position on panel 2) opens the steam pressure valve allowing the water in the evaporator wicks to evaporate, using some of the heat contained in the coolant for the heat of vaporization."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is setting up the ORDEAL to drive FDAI number 2."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Verb 64 starts the S-Band antenna routine R05.",
+        "This routine computes and displays the yaw and pitch gimbal angles to point the antenna at the centre of the Earth.",
+        "The crew set the angles accordingly, having taken into account whether these angles and the present spacecraft attitude, give an unobstructed line of sight view of the Earth.",
+        "If they are in the attitude dictated in the Flight Plan they should have no issue with the LM obstructing the antenna's view of Earth."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day4_part12_lunar_encounter_-_lunar_orbit_insertion.html"
+}

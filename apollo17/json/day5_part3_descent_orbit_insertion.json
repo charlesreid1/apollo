@@ -1,0 +1,1674 @@
+{
+  "description": "Apollo 17 Flight Journal - Day 5, part 3: Descent Orbit Insertion",
+  "transcript": [
+    {
+      "tokens": [
+        "The crew of Apollo 17 have entered lunar orbit and have made a single pass across the nearside of the Moon.",
+        "They have just disappeared around the far side for a second time.",
+        "When they do so for a third time, they will make a 22-second burn of the SPS engine in order to lower their nearside altitude down to only 14.9 nautical-miles [27.6 km].",
+        "This will be the descent orbit from where Cernan and Schmitt will descend to their landing site at Taurus-Littrow"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "091:23:40 -This is Apollo Control at 91 hours, 23 minutes.",
+        "We're 23 seconds away from acquiring Apollo 17 on it's second revolution of the Moon.",
+        "During this pass, we will send up a DOI-1 PAD.",
+        "That's instructions to the crew for the Descent Orbit Insertion maneuver.",
+        "We should be acquiring any time now.",
+        "We'll stand by for the first call."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We're with you in Omni Delta.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0912434"
+    },
+    {
+      "tokens": [
+        "Roger, Ron.",
+        "Read you loud and clear.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0912442"
+    },
+    {
+      "tokens": [
+        "Okay, Robert.",
+        "We should have gotten everything right on up through AOS here in the Flight Plan."
+      ],
+      "speaker": "Cernan",
+      "time": "0912448"
+    },
+    {
+      "tokens": [
+        "Good show."
+      ],
+      "speaker": "Overmyer",
+      "time": "0912457"
+    },
+    {
+      "tokens": [
+        "And the Pan Camera should be running right now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0912501"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "America here.",
+        "We stopped the orbital photo path, frame 59.",
+        "And at about the sub-stellar point, we took 59 to 66, and frame 67 was taken of the, oh, the dark slide on the corner of Lobachevsky.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0912528"
+    },
+    {
+      "tokens": [
+        "Roger, America.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0912557"
+    },
+    {
+      "tokens": [
+        "Those frames that Ron mentioned - this is Jack - that he mentioned were taken of a area where there's a much lighter gray albedo.",
+        "Rather than the tannish gray, it's pure gray material that generally is on the rim crest of a number of craters.",
+        "It may be related to the swirls that we see elsewhere."
+      ],
+      "speaker": "Schmitt",
+      "time": "0912634"
+    },
+    {
+      "tokens": [
+        "Roger, Jack.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0912705"
+    },
+    {
+      "tokens": [
+        "Bob, we're..."
+      ],
+      "speaker": "Schmitt",
+      "time": "0912756"
+    },
+    {
+      "tokens": [
+        "Roger, America.",
+        "We're tracking you on the map here, watching it."
+      ],
+      "speaker": "Overmyer",
+      "time": "0912808"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0912814"
+    },
+    {
+      "tokens": [
+        "Al-Biruni has got a - variations in the - in its floor, variations in albedo.",
+        "It almost looks like a pattern as if water were flowing on a beach.",
+        "It's that irregular.",
+        "Not in great areas, but in small areas around on the southern side, and the part that looks like it's a water-washing pattern is of a much lighter albedo, although I cannot see any real source for it.",
+        "The texture, however, looks about the same."
+      ],
+      "speaker": "Schmitt",
+      "time": "0912824"
+    },
+    {
+      "tokens": [
+        "Roger, Jack.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0912856"
+    },
+    {
+      "tokens": [
+        "And Houston, America.",
+        "For your info, it took an hour - an hour [laughter] - a minute and 45 seconds for the map - your Mapping Camera to extend and a minute and 45 for it to retract."
+      ],
+      "speaker": "Evans",
+      "time": "0912926"
+    },
+    {
+      "tokens": [
+        "Roger, Ron.",
+        "Copy.",
+        "1:45, extend and retract.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0912939"
+    },
+    {
+      "tokens": [
+        "Bob, what's our altitude now?"
+      ],
+      "speaker": "Cernan",
+      "time": "0912952"
+    },
+    {
+      "tokens": [
+        "Looks like you're crossing - you're just about 90 [nautical] miles, but we'll firm that up here, Gene.",
+        "You're 90.8..."
+      ],
+      "speaker": "Overmyer",
+      "time": "0912957"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0913006"
+    },
+    {
+      "tokens": [
+        "...America."
+      ],
+      "speaker": "Overmyer",
+      "time": "0913006"
+    },
+    {
+      "tokens": [
+        "Okay; thank you.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0913010"
+    },
+    {
+      "tokens": [
+        "Bob, this is Jack.",
+        "And the question of these irregular swirls that we've got in Mare Marginis, and we are looking just north of Nep - Neper now.",
+        "I tell you, in the mare, there just is no visible relief.",
+        "Although there seem to be some sinuous systematics anyway to the distribution.",
+        "Like, there'll be a very dark area associated with the light area.",
+        "And that dark area is darker than the mare.",
+        "I think the pictures will show that.",
+        "Now, in the highlands, however, the - the light albedo areas, which are very comparable, that appear to be swirl-like patterns of the same type, seem to be associated with a crest of crater ridges and other high points.",
+        "[Long pause.] We're on over - right over a concentration of these now in the northern part of Marginis, where the rule of a - of the light areas being associated with a - either - either symmetrically around a much darker area than the normal mare, or on one side, and in this case, generally the south side - of a dark area is - that rule is very clear.",
+        "[Long pause.] And that also seemed to hold in the back side that there was a slightly darker region between areas of light-colored swirls."
+      ],
+      "speaker": "Schmitt",
+      "time": "0913018"
+    },
+    {
+      "tokens": [
+        "Roger, Jack.",
+        "We understand, and we're standing by.",
+        "We have a DOI PAD and some other updates."
+      ],
+      "speaker": "Overmyer",
+      "time": "0913242"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll go back to work.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0913251"
+    },
+    {
+      "tokens": [
+        "America, Houston.",
+        "We'd like Pan Camera, Off.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0913321"
+    },
+    {
+      "tokens": [
+        "You're reading our minds, Bob."
+      ],
+      "speaker": "Cernan",
+      "time": "0913331"
+    },
+    {
+      "tokens": [
+        "It's Off."
+      ],
+      "speaker": "Schmitt",
+      "time": "0913332"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0913334"
+    },
+    {
+      "tokens": [
+        "It's off."
+      ],
+      "speaker": "Cernan",
+      "time": "0913334"
+    },
+    {
+      "tokens": [
+        "Pan Camera'S Off, and we'd like Accept.",
+        "We've got the DOI target load, the CSM state vector, PIPA - and an SPS tailoff constant.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0913335"
+    },
+    {
+      "tokens": [
+        "Okay; you've got Accept, Bob."
+      ],
+      "speaker": "Cernan",
+      "time": "0913349"
+    },
+    {
+      "tokens": [
+        "Roger, Gene.",
+        "And there will be no PIPA bias."
+      ],
+      "speaker": "Overmyer",
+      "time": "0913351"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0913356"
+    },
+    {
+      "tokens": [
+        "While they have access to the computer, and in particular to its 2K words of random access memory, Mission Control upload the following data: The target load represents the goals of the engine burn that will refine their orbit.",
+        "The state vector is the most recent determination of their velocity and position based on measurements from Earth.",
+        "It will be loaded into the section of memory reserved for the CSM's state vector.",
+        "With the SPS engine having made a major burn in space, the engineers now have a better idea of how much thrust it continues to impart after shutdown.",
+        "This is the tail-off thrust.",
+        "The computer can take this into account when deciding the correct moment to stop the engine.",
+        "After inadvertently mentioning 'PIPA', Overmyer added that they are not uploading numbers for the PIPA bias.",
+        "A PIPA is a Pulse Integrating Pendulous Accelerometer and there are three of them in the IMU to measure acceleration along three orthogonal axes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Bob, I can start with that PAD if you want to."
+      ],
+      "speaker": "Schmitt",
+      "time": "0913447"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're standing by.",
+        "I'll start with DOI-1.",
+        "Are you ready to copy?",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0913450"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Schmitt",
+      "time": "0913459"
+    },
+    {
+      "tokens": [
+        "Purpose: DOI-1, SPS/G&N; 40035; plus 1.90, minus 0.64; 093:11:36.60.",
+        "Noun 81s; minus 01916, all balls for Delta-VY, Delta-VZis plus 0047.8; 000, 228, 000; 0058.9, plus 0014.5; 0197.4, 0:22, 0192.1; sextant star is 45, 187.5, 19.1.",
+        "Let me say trunnion again; it's 19.1.",
+        "The rest of the PAD is not applicable.",
+        "Set stars will be Sirius and Rigel; 133, 200, 030.",
+        "Four jet, 15 second on the ullage.",
+        "Other comments: overburn limits, Delta-V 17 - seventeen feet per second; burn time, 2 seconds.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0913500"
+    },
+    {
+      "tokens": [
+        "The PAD is interpreted as follows:Purpose:This PAD provides the details of a burn of theSPSengine that will be fired while the spacecraft is around the far side of the Moon.",
+        "The burn will reduce their velocity in order to lower their near side altitude from its current 170-nautical-mile or 315-km value down to only 14.5 nautical miles or 26.9 km.Systems:The burn would be made using the largeSPSengine at the rear of the Service Module, under the control of the Guidance and Navigation system.CSM mass (Noun 47):40,035 pounds (18,160 kg).Pitch and yaw trim (Noun 48):+1.90° and -0.64°.",
+        "These angles represent an initial direction for the gimbal-mounted engine to aim the thrust through the stack's centre of mass.",
+        "As the burn progresses, slow shifts in the stack's centre of mass will be compensated for by the nozzle's aim being altered by the TVC (Thrust Vector Control) system.Time of ignition (Noun 33):93 hours, 11 minutes, 36.60 seconds.Change in velocity (Noun 81), fps (m/s):X, -191.6 (-58.4); Y, 0 (0); Z, +47.8 (+14.6).",
+        "The change in velocity is resolved into three components which are quoted relative to the local vertical frame of reference.",
+        "The large negative component indicates the largely retrograde nature of the burn, slowing them down.Spacecraft attitude:Roll, 0°; Pitch, 228°; Yaw, 0°.",
+        "The desired spacecraft attitude is measured relative to the alignment of the guidance platform which itself is still aligned per the LOI REFSMMAT.HA, expected apogee of resulting orbit (Noun 44):58.9 nautical miles (109.1 km).HP, expected perigee of resulting orbit (Noun 44):+14.5 nautical miles (26.9 km).",
+        "The burn will shape their orbit in preparation for the Lunar Module's eventual manoeuvres for the descent.",
+        "They are keeping the perilune a little higher than previous missions to take account of the way it will be altered by the Moon's uneven gravity.",
+        "Like Apollo 15 before it, Apollo 17 is orbiting over two of the Moon's strongest gravitational anomalies, the mascons (short for mass concentrations).",
+        "As the 15 crew slept, their perilune descended much more than had been expected.",
+        "The flight dynamics people are prempting this drop with this burn.",
+        "Note the emphatic plus sign on the figure.",
+        "This indicates that the altitude is a positive value; i.e.",
+        "above the surface and not below it!Delta-VT:197.4 fps (60.2 m/s).",
+        "This is the total change in velocity the spacecraft would experience and is a vector sum of the three components given above.Burn duration or burn time:22 seconds.Delta-VC:192.1 fps.",
+        "This figure is entered into the EMS Delta-V counter.",
+        "The EMS's independent accelerometer will shut the engine down in case the G&N system fails to do so.",
+        "This figure, Delta-VC, is slightly lower than Delta-VTbecause the EMS does not take account of the engine's tail-off thrust.",
+        "Instead, the engineers have factored it into the number that will be entered into the counter.Sextant star:Star 45 (Fomalhaut, Alpha Piscis Austrini) visible in sextant when shaft and trunnion angles are 187.5° and 19.1° respectively.",
+        "This is part of an attitude check.GDC Align or Set stars:Should the IMU fail to provide a trustworthy attitude reference, the crew can use the spacecraft's other gyros (the BMAGs) and their associated Gyro Display Couplers as a reference.",
+        "To align these, the spacecraft is rotated so as to place Sirius and Rigel against the telescope's graticule (or reticle) in a predetermined fashion.",
+        "If they were to do so, the spacecraft's attitude with respect to the desired REFSMMAT would be given by the GDC Align angles.GDC Align angles:133°, 200°, and 30° in roll, pitch and yaw respectively.Additional notes are that an ullage burn would be required to settle the contents of the propellant tanks to the rear.",
+        "This would be achieved using four rear-facing thrusters firing for 15 seconds.",
+        "An additional note concerns the real dangers of the engine overburning, slowing the spacecraft more than intended.",
+        "If only 22 seconds of burn can drop their nearside altitude by 155 nautical miles to 14.5 nm, it is clear that an overburn of only 2 seconds would be enough to put them in real danger of hitting the surface.",
+        "The Flight Plan includes details of what to do if the computer indicates an overburn.",
+        "Further, if radio tracking after AOS indicates possible impact, a bailout burn is scheduled to place them into a safe orbit."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Bob.",
+        "Ready for a readback.",
+        "DOI-1, SPS/G&N; 40035; plus 1.90, minus 0.64; 093:11:36.60; minus 01916, all zeros, plus 0047.8; all zeros, 228, all zeros; 0058.9, plus 0014.5; 0197.4, 0:22, 0192.1; 45, 187.5, 19.1.",
+        "Rest of PAD is NA.",
+        "Sirius and Rigel; 133, 200, 030.",
+        "Four jets, 15 seconds ullage - Overburn limits: Delta-V 7 - 17 feet per second; burn time, 2 seconds."
+      ],
+      "speaker": "Schmitt",
+      "time": "0913711"
+    },
+    {
+      "tokens": [
+        "Roger, Jack.",
+        "Good readback.",
+        "Okay; I've got a map update for - at 93:38 in the Flight Plan.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0913814"
+    },
+    {
+      "tokens": [
+        "Okay; go ahead.",
+        "I have it."
+      ],
+      "speaker": "Evans",
+      "time": "0913833"
+    },
+    {
+      "tokens": [
+        "Okay, Ron.",
+        "AOS without burn, 93:31:37; with burn is 34:24.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0913835"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Without, 93:31:37; with burn is 34:24."
+      ],
+      "speaker": "Evans",
+      "time": "0913852"
+    },
+    {
+      "tokens": [
+        "The later AOS time that results from the burn having occurred shows how the spacecraft will have been slowed down."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Ron.",
+        "I've got a - You can go back to Block, Ron.",
+        "And on that same page with the J-3, I've got the T-horizon and TCA."
+      ],
+      "speaker": "Overmyer",
+      "time": "0913858"
+    },
+    {
+      "tokens": [
+        "Okay; ready to copy.",
+        "Go ahead."
+      ],
+      "speaker": "Evans",
+      "time": "0913917"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You can go to Block on the computer.",
+        "T-horizon time 93:48:04; TCA minus 20 is 93:50:44.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0913919"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "T-horizon, 93:48:04; TCA minus 20 is 50:44."
+      ],
+      "speaker": "Evans",
+      "time": "0913941"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Good readback."
+      ],
+      "speaker": "Overmyer",
+      "time": "0913948"
+    },
+    {
+      "tokens": [
+        "Okay, Ron.",
+        "Over at 93:52, 93:52, we've got a difference in the Noun 89 value."
+      ],
+      "speaker": "Overmyer",
+      "time": "0913951"
+    },
+    {
+      "tokens": [
+        "Okay; go ahead."
+      ],
+      "speaker": "Evans",
+      "time": "0914004"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "the Noun 89s have changed to the following: Noun 89, the first one, plus 20.284, plus 15.151, minus 001.96.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0914005"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's a plus 20.284, and a plus 15.151, and a minus 001.96."
+      ],
+      "speaker": "Evans",
+      "time": "0914036"
+    },
+    {
+      "tokens": [
+        "After they come around in the descent orbit, Ron will carry out an exercise where he will track a landmark at the landing site using a combination of the spacecraft's rotation and the movement of the sextant.",
+        "Combined with a knowledge of the spacecraft's orbit based on tracking from Earth, this will help flight controllers pin down the position of the landing site."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Prior to Apollo, most photographic mapping of the Moon from orbit was carried out using imagery provided by the Lunar Orbiter probes that flew in 1965 and 66.",
+        "These provided high resolution coverage of much of the nearside near the equator in support of the first landings.",
+        "However, terrain to the north and south was only photographed using the wide-field camera on the probes, and often from some distance away.",
+        "Thus, mission planning for Apollos 15 and 17 had to deal with an inherent lack of precision in knowing exactly where the landing site is.",
+        "This tracking exercise will help refine that.",
+        "The three values represent the landmark's latitude (20.284° north), its longitude divided by two (+15.151 which yields 30.302° east.) and its altitude below the lunar datum of 1.96 nautical miles.",
+        "The reason they divide the longitude by two is to increase the precision of the numbers.",
+        "In its early simplicity, the computer was limited to storing values of five digits with the position of the decimal point being fixed.",
+        "Since latitudes only go up to ±90.000°, they can be represented to three decimal places.",
+        "Longitude has a range of ±180.00° which would limit the precision to two decimal places.",
+        "Dividing my to bring the range of values to ±90.000°, restoring three decimal place accuracy, though only five times more precise instead of ten times."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Ron.",
+        "And here's a note for you.",
+        "The landmark is F Crater, located on landing site - picture 4 of 4 in the Lunar Landmark Maps.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0914045"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Understand.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0914103"
+    },
+    {
+      "tokens": [
+        "Okay; and I've got a TEI minus 5 PAD.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0914108"
+    },
+    {
+      "tokens": [
+        "Okay; go ahead.",
+        "TEI-5."
+      ],
+      "speaker": "Schmitt",
+      "time": "0914126"
+    },
+    {
+      "tokens": [
+        "Roger, Jack.",
+        "TEI minus 5: SPS/G&N; 38570; plus 0.49, plus 0.92; 098:39:43.24.",
+        "Noun 81s, plus 2329.8, minus 2403.1, minus 1152.8; 193, 099, 318.",
+        "The rest of the PAD is all not applicable.",
+        "Set stars, Sirius and Rigel; 133, 200, 030.",
+        "Ullage four jet, 12 second.",
+        "Comments: burn undocked; assumes a DOI.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0914129"
+    },
+    {
+      "tokens": [
+        "The PAD is interpreted as follows:Purpose:This PAD is another in a series of contingency PADs that are read up to the crew for burns that are intended to get them home in case of an emergency, the idea being to ensure that while the radio os working, they always have a valid get-you-home PAD.",
+        "This one, if used, would be fired after they have completed five orbits around the Moon.Systems:The burn would be made using the large SPS engine at the rear of the Service Module, under the control of the Guidance and Navigation system.CSM mass (Noun 47):38,570 pounds (17,495 kg).Pitch and yaw trim (Noun 48):+0.49° and +0.92°.",
+        "These angles represent an initial direction for the gimbal-mounted engine.",
+        "As the burn progresses, the nozzle will be slowly and automatically steered to track shifts in the stack's centre of mass.Time of ignition (Noun 33):98 hours, 39 Minutes, 43.24 seconds.Change in velocity (Noun 81), fps (m/s):x, +2,329.8 (+710.1); y, -2,403.1 (-732.5); z, -1,152.8 (-351.4).",
+        "The change in velocity is resolved into three components which are quoted relative to the local vertical frame of reference.Spacecraft attitude:Roll, 193°; Pitch, 99°; Yaw, 318°.",
+        "The desired spacecraft attitude is measured relative to the alignment of the guidance platform.Subsequent items on the PAD are not applicable.",
+        "These are HA, HP, Delta-VT, burn duration, Delta-VC, sextant star, boresight star and parameters that relate to Earth landing.GDC Align (or set) stars:The stars to be used for GDC Align purposes are Sirius and Rigel.",
+        "When these two stars are viewed through the telescope in the correct manner, the spacecraft's attitude will be given by the GDC Align angles.GDC Align angles:133°, 200°, and 30° in roll, pitch and yaw respectively.Additional notes in the PAD state that an ullage burn of 12 seconds duration using the four rearward-firing RCS thrusters would be required to settle the contents of the SPS tanks.",
+        "The burn's details assume that the LM has been undocked and that they have carried out the Descent Orbit Insertion (DOI) burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Bob.",
+        "TEI-5, SPS/G&N; 38570; plus 0.49, plus 0.92; 098:39:43.24; plus 2329.8, minus 2403.1, minus 1152.8; 193, 099, 318.",
+        "Rest of PAD NA.",
+        "Sirius and Rigel; 133, 200, 030.",
+        "Ullage: four jets for 12 seconds.",
+        "Comment 1: burn undocked; comment 2: assume DOI."
+      ],
+      "speaker": "Schmitt",
+      "time": "0914258"
+    },
+    {
+      "tokens": [
+        "Good readback, Jack."
+      ],
+      "speaker": "Overmyer",
+      "time": "0914341"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "What else can we do for you?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0914349"
+    },
+    {
+      "tokens": [
+        "Stand by 1, here.",
+        "I've got an addition for Ron on that comment about that F Crater landmark.",
+        "Let me get it.",
+        "It's right here, and I'll come right up to Ron on it."
+      ],
+      "speaker": "Overmyer",
+      "time": "0914352"
+    },
+    {
+      "tokens": [
+        "Okay; I'll stand by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0914402"
+    },
+    {
+      "tokens": [
+        "Ron, this additional comment will have - the crater is 8 nautical miles north of your track.",
+        "You will lose the landmark at a 36-degree elevation angle.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0914419"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's 8 miles north, and I'll lose it at 30 degrees.",
+        "Okay; so that'll be pretty quick."
+      ],
+      "speaker": "Evans",
+      "time": "0914441"
+    },
+    {
+      "tokens": [
+        "Thirty-six degrees; pretty quick still.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0914447"
+    },
+    {
+      "tokens": [
+        "Is that the one on Family Mountain?"
+      ],
+      "speaker": "Evans",
+      "time": "0914506"
+    },
+    {
+      "tokens": [
+        "Stand by on that, Ron.",
+        "Let me look at the book here.",
+        "And I'll get Farouk to help me out on that one."
+      ],
+      "speaker": "Overmyer",
+      "time": "0914511"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "I've got F Crater, now.",
+        "I'm all squared away.",
+        "Thank you."
+      ],
+      "speaker": "Evans",
+      "time": "0914640"
+    },
+    {
+      "tokens": [
+        "Okay, Ron.",
+        "It's - it's right in the middle of that landing site 4 of 4 which is right before Ignin in the book on your - on the Landmark Tracking Book.",
+        "And it's right dead center on that page."
+      ],
+      "speaker": "Overmyer",
+      "time": "0914645"
+    },
+    {
+      "tokens": [
+        "Okay, I've got it now.",
+        "I wrote down 404; it's 4 of 4."
+      ],
+      "speaker": "Evans",
+      "time": "0914701"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We've got a good shot of the landing site."
+      ],
+      "speaker": "Schmitt",
+      "time": "0914706"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Understand.",
+        "And Roger, Ron.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0914709"
+    },
+    {
+      "tokens": [
+        "The shadows, Bob, go all the way across the Scarp and very long pyramiding shadows go all the way past Family Mountain.",
+        "It looks like the Sculptured Hills are lit up on this side, but it almost puts the entire North Massif in shadow, from where I stand.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0914727"
+    },
+    {
+      "tokens": [
+        "America, Houston."
+      ],
+      "speaker": "Overmyer",
+      "time": "0914805"
+    },
+    {
+      "tokens": [
+        "Quite an interesting place to land down there."
+      ],
+      "speaker": "Schmitt",
+      "time": "0914806"
+    },
+    {
+      "tokens": [
+        "America, Houston.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0914812"
+    },
+    {
+      "tokens": [
+        "We can now, I think, see contrast down in the shadow.",
+        "[Pause.] And the only part of the scarp that's visible - I think Jack picked it out - as being right where Lara is."
+      ],
+      "speaker": "Cernan",
+      "time": "0914821"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "America, Houston."
+      ],
+      "speaker": "Overmyer",
+      "time": "0914841"
+    },
+    {
+      "tokens": [
+        "Roger; go ahead."
+      ],
+      "speaker": "Schmitt",
+      "time": "0914847"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Just some words in your - You'll be going through your systems checklist here and you'll probably see that it says dump the waste water if it's greater than 85 percent and you are at about 89.6 percent.",
+        "We'd - we'd like you not to dump the waste water until the nominal time in the Flight Plan.",
+        "Do not dump the waste water during this systems check.",
+        "Over."
+      ],
+      "speaker": "Overmyer",
+      "time": "0914849"
+    },
+    {
+      "tokens": [
+        "Okay, and I understand that was about 94 hours as I recall."
+      ],
+      "speaker": "Cernan",
+      "time": "0914912"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "That's where the nominal time is and that is where we'd like it dumped."
+      ],
+      "speaker": "Overmyer",
+      "time": "0914917"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0914922"
+    },
+    {
+      "tokens": [
+        "Bob, that's a - a fantastic black-and-white shot of the landing area with the shadow stretching across most of it."
+      ],
+      "speaker": "Cernan",
+      "time": "0914936"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0914945"
+    },
+    {
+      "tokens": [
+        "Bob, I can now see down in through the shadow.",
+        "I can see - Bear Mountain, I can see - I can't really make out the - the slide yet.",
+        "Most of the North Masstif - Massif are still in shadow due to the - due to the Sculptured Hills.",
+        "And just at the point where we can start really to see through the shadows and see the - some hummocky terrain on the North Massif, it just went out of my next reach.",
+        "But, I did see some sort of albedo change that went across the canyon about in the vicinity of the - of the scarp.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0915035"
+    },
+    {
+      "tokens": [
+        "Bob, with respect to the landing site - this is Jack - when we had near - or were closer to low phase angle, approaching it - when I first had it in view - there was a clear lightening in the area of the light mantle.",
+        "It was not sharply defined, but around the crater Lara and Nansen and to the west of the scarp - there was very clearly, slightly brighter - reflectivity."
+      ],
+      "speaker": "Schmitt",
+      "time": "0915220"
+    },
+    {
+      "tokens": [
+        "Roger, Jack."
+      ],
+      "speaker": "Overmyer",
+      "time": "0915300"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "091:54:51 -Apollo 17's orbit is 168.8 by 52.5 nautical miles [312.6 by 97.2 km].",
+        "Present altitude; 154.9 nautical miles [286.9 km] and moving towards apolune."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, America.",
+        "The Mapping Camera and Laser Altimeter covers are Closed.",
+        "I'm going to Enable A-1, A-2, and C-2."
+      ],
+      "speaker": "Cernan",
+      "time": "0915627"
+    },
+    {
+      "tokens": [
+        "Roger, Gene.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0915635"
+    },
+    {
+      "tokens": [
+        "Yeah, it looks like the old gravity gradient worked there or something.",
+        "I didn't see it get out of attitude at all.",
+        "Did you all see any movement at all?",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0915648"
+    },
+    {
+      "tokens": [
+        "The gravity gradient effect comes about when the strength of gravity from a large nearby body (like Earth or the Moon) changes across the width of an irregular body nearby which causes a torque.",
+        "In the case of Apollo, the Moon's gravity is very slightly stronger on the side of the spacecraft nearest the lunar surface than it is on the opposite side of the spacecraft.",
+        "This tends to make the spacecraft turn very slowly in order to make its long axis point moonward, the most stable arrangement.",
+        "Another term for the gravity gradient effect is the tidal effect.",
+        "It explains why the Moon always has one hemisphere facing Earth.",
+        "The Moon feels the gravity gradient due to Earth's gravity weakening across the lunar diameter.",
+        "Billions of years ago, the Moon gradually aligned its axis that had the minimum moment of inertia to point to Earth and so we have a near side and a far side."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Max error was about 0.2 - 0.3 of a degree, Ron.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0915700"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0915708"
+    },
+    {
+      "tokens": [
+        "I'm sorry, Houston.",
+        "I should have cued you on changing the SPS pressure indicators.",
+        "You want to see that again?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0915736"
+    },
+    {
+      "tokens": [
+        "Stand by on that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0915747"
+    },
+    {
+      "tokens": [
+        "Jack, it's not required to go back and do them again.",
+        "We watched it on telemetry."
+      ],
+      "speaker": "Overmyer",
+      "time": "0915832"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll try to remember to be a little more informative."
+      ],
+      "speaker": "Schmitt",
+      "time": "0915839"
+    },
+    {
+      "tokens": [
+        "No problem, Jack; no problem."
+      ],
+      "speaker": "Overmyer",
+      "time": "0915846"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "There are the torquing angles."
+      ],
+      "speaker": "Evans",
+      "time": "0920852"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We see them.",
+        "They look good.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0920856"
+    },
+    {
+      "tokens": [
+        "Just for another little matter of interest - once the Earth is in the field of view, which it's about - looks like it must be about 12 degrees from Regulus - it's so bright, that it blacks out any - blanks out the telescope for any star recognition.",
+        "However, it worked real good, in the sextant.",
+        "You can see the star real well.",
+        "You just have to assume it's Regulus, though."
+      ],
+      "speaker": "Evans",
+      "time": "0920904"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Would that star angle difference..."
+      ],
+      "speaker": "Overmyer",
+      "time": "0920929"
+    },
+    {
+      "tokens": [
+        "Okay, I'll torque at 30."
+      ],
+      "speaker": "Evans",
+      "time": "0920931"
+    },
+    {
+      "tokens": [
+        "I torqued at 30 - 09:30."
+      ],
+      "speaker": "Evans",
+      "time": "0920935"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "Overmyer",
+      "time": "0920939"
+    },
+    {
+      "tokens": [
+        "And the first - the first star angle difference was - you know, you can get a little bit lax about it - if you want to spend a little time at it, you can get five balls every time, looks like."
+      ],
+      "speaker": "Evans",
+      "time": "0920942"
+    },
+    {
+      "tokens": [
+        "Rog, Ron.",
+        "With that star angle difference on the second one, I can assume it was Regulus.",
+        "I think you're safe in your assumption."
+      ],
+      "speaker": "Overmyer",
+      "time": "0920957"
+    },
+    {
+      "tokens": [
+        "Oh, yeah.",
+        "Right."
+      ],
+      "speaker": "Evans",
+      "time": "0921007"
+    },
+    {
+      "tokens": [
+        "He had to do it, or else I'd have to go down there and do it."
+      ],
+      "speaker": "Cernan",
+      "time": "0921011"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0921014"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ron has completed the seventeenth platform realignment of the mission using P52 in the computer.",
+        "For this, he used stars 15 (Sirius, Alpha Canis Majoris) and 22 (Regulus, Alpha Leonis).",
+        "As a result of these sightings, the computer determined that the gimbals that support the guidance platform have to be rotated, or torqued by 0.046° in X, 0.014° in Y and -0.069° in Z.",
+        "As alluded to in the conversation, Ron achieved a star angle difference of 0.00°, this being a comparison of the measured angle between the two stars and the angle that the computer knows is between them from its internal tables.",
+        "Earth's proximity to Regulus caused a lot of spilled light in the optics so Ron had to trust that when the computer had slewed the sextant to view the star, it really was pointing at Regulus."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "092:11:02 -This is Apollo Control at 92 hours, 11 minutes.",
+        "Apollo 17 now at the highest point of it's orbit; 168.8 nautical miles [312.6 km].",
+        "37 minutes remaining before Loss of Signal on this revolution."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "America, Houston.",
+        "P40 looks good."
+      ],
+      "speaker": "Overmyer",
+      "time": "0921406"
+    },
+    {
+      "tokens": [
+        "P40 is the SPS thrusting program and it is being set up with the parameters for the upcoming LOI burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Mighty fine; we'll go ahead and maneuver to attitude then."
+      ],
+      "speaker": "Evans",
+      "time": "0921412"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0921417"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, I think I've put the wrong number in on the Pitch.",
+        "We'll correct it.",
+        "It's 228, isn't it?"
+      ],
+      "speaker": "Cernan",
+      "time": "0921517"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Gene."
+      ],
+      "speaker": "Overmyer",
+      "time": "0921526"
+    },
+    {
+      "tokens": [
+        "Okay, we'll fix that."
+      ],
+      "speaker": "Cernan",
+      "time": "0921531"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "092:16:37 -This is Apollo Control.",
+        "Apollo 17 is maneuvering to the proper attitude for Descent Orbit Insertion maneuver.",
+        "This will put the crew heads down."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "America, Houston.",
+        "We'd like the High Gain to Auto.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0921809"
+    },
+    {
+      "tokens": [
+        "You've got it."
+      ],
+      "speaker": "Evans",
+      "time": "0921820"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0921822"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "America, Houston.",
+        "We'd like you to hold off switching to Omni Charlie until we cue you on that.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0922148"
+    },
+    {
+      "tokens": [
+        "Wilco.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0922158"
+    },
+    {
+      "tokens": [
+        "Bob, this is Jack."
+      ],
+      "speaker": "Schmitt",
+      "time": "0922243"
+    },
+    {
+      "tokens": [
+        "Go ahead, Jack.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0922245"
+    },
+    {
+      "tokens": [
+        "Was there any indication on the seismometers of an impact, about the time I thought I saw a light flash on the surface?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0922249"
+    },
+    {
+      "tokens": [
+        "Jack reported seeing a flash as they passed over the night-time, Earthlit part of the Moon at 090:18:11."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by that - we'll check on that, Jack."
+      ],
+      "speaker": "Overmyer",
+      "time": "0922259"
+    },
+    {
+      "tokens": [
+        "Don't worry about it.",
+        "Some - I thought somebody was looking at it.",
+        "It could have been one of the other light flashes.",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0922305"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "We copied the time and..."
+      ],
+      "speaker": "Overmyer",
+      "time": "0922315"
+    },
+    {
+      "tokens": [
+        "I have a place marked."
+      ],
+      "speaker": "Schmitt",
+      "time": "0922317"
+    },
+    {
+      "tokens": [
+        "...passed it to the back room."
+      ],
+      "speaker": "Overmyer",
+      "time": "0922317"
+    },
+    {
+      "tokens": [
+        "Okay, I got it marked on the map, too."
+      ],
+      "speaker": "Schmitt",
+      "time": "0922322"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Bob.",
+        "The star sextant checks out okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0923119"
+    },
+    {
+      "tokens": [
+        "Roger, Gene.",
+        "Good show."
+      ],
+      "speaker": "Overmyer",
+      "time": "0923123"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "092:33:02 -Flight Director Pete Frank now checking all flight control positions for a Go/No-Go on the Descent Orbit Insertion burn.",
+        "He's getting a Go from all positions."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "America, Houston.",
+        "You are Go for DOI and you can leave the High Gain selected.",
+        "We're holding good."
+      ],
+      "speaker": "Overmyer",
+      "time": "0923441"
+    },
+    {
+      "tokens": [
+        "Okay, Robert.",
+        "DOI.",
+        "[Garble] the High Gain."
+      ],
+      "speaker": "Cernan",
+      "time": "0923450"
+    },
+    {
+      "tokens": [
+        "Ro - Gene, say again.",
+        "You were way down in the mud on that one.",
+        "Can you say again, please?",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0923458"
+    },
+    {
+      "tokens": [
+        "Roger; understand.",
+        "We are Go for DOI, and you have the High Gain."
+      ],
+      "speaker": "Cernan",
+      "time": "0923507"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Gene.",
+        "Just...",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0923511"
+    },
+    {
+      "tokens": [
+        "Hey, Bob, I know I've argued against this kind of thing, but you got tenths on that burn time?",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0923524"
+    },
+    {
+      "tokens": [
+        "It's 0.1 on that.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0923536"
+    },
+    {
+      "tokens": [
+        "Okay, 0.1."
+      ],
+      "speaker": "Schmitt",
+      "time": "0923543"
+    },
+    {
+      "tokens": [
+        "Jack, just some words from the back room on you.",
+        "The - There may have been an impact at the time you called, but the Moon is still ringing from the S-IVB impact.",
+        "So it's masked any other - would mask any other impact.",
+        "So they may be able to strip it out at a later time, but right now they don't see anything at your called time."
+      ],
+      "speaker": "Overmyer",
+      "time": "0923544"
+    },
+    {
+      "tokens": [
+        "Just my luck."
+      ],
+      "speaker": "Schmitt",
+      "time": "0923605"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Bob, log us for a picture of the Earth at 92:40 on mag Oscar Oscar.",
+        "And we're on frame 68."
+      ],
+      "speaker": "Schmitt",
+      "time": "0924037"
+    },
+    {
+      "tokens": [
+        "Roger, Jack; we've got that."
+      ],
+      "speaker": "Overmyer",
+      "time": "0924053"
+    },
+    {
+      "tokens": [
+        "You've got a lot of healthy weather out there in the Pacific today.",
+        "Looks like most of those things we talked about yesterday, up in the Hawaii region and also in the south, have intensified."
+      ],
+      "speaker": "Schmitt",
+      "time": "0924059"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0924117"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "America, Houston.",
+        "We're about 3 minutes until LOS and everything is looking great.",
+        "No changes since our Go for DOI.",
+        "We'll expect to see you at 93:34:24."
+      ],
+      "speaker": "Overmyer",
+      "time": "0924537"
+    },
+    {
+      "tokens": [
+        "We'll see you at 93:34:24, Bob."
+      ],
+      "speaker": "Cernan",
+      "time": "0924553"
+    },
+    {
+      "tokens": [
+        "Roger, Gene."
+      ],
+      "speaker": "Overmyer",
+      "time": "0924558"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Very often on Apollo, the crews would take photos of Earthrise over the Moon's sunlit horizon.",
+        "On this occasion, Ron Evans had the wit to take a unique series of shots showing Earth setting behind the Moon's night-time horizon.",
+        "He mentions this during his second day alone in orbit at145:18:21"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "092:49:03 -This is Apollo Control at 92 hours, 49 minutes.",
+        "And, we've had Loss of Signal as Apollo 17 goes behind the Moon.",
+        "During this pass [means the previous pass], Jack Schmitt saw a flash just north of the crater Grimaldi at an elapsed time of 90 hours, 18 minutes and thought it might be a meteor impact.",
+        "We could not confirm that; however, the Moon was still ringing from the S-IVB impact and would mask out other activity on the seismometer recorders in the science support room here.",
+        "Apollo 17 will perform the Descent Orbit Insertion maneuver behind the Moon just after the start of the third revolution and at a point near perilune, the low point in that revolution.",
+        "Ignition time for that maneuver is 93 hours, 11 minutes, 36 seconds.",
+        "Delta-V, change of velocity of 197.4 feet per second [60.2 m/s].",
+        "Duration of the burn, 22 seconds, and we anticipate a result orbit of 58.9 by 14.5 nautical miles [109.1 by 26.9 km].",
+        "If the burn is performed as expected, we'll next acquire Apollo 17 at 93 hours, 34 minutes, 24 seconds.",
+        "If Apollo 17 is unable to perform the burn, acquisition time will be 93 hours, 31 minutes, 37 seconds.",
+        "We'll come back up just prior to the no-burn acquisition time and stand by through that period of several minutes.",
+        "At 92 hours, 51 minutes; this is Mission Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "VHBW refers to very high-speed black & white film, type 2485, whose light sensitivity is rated at 6,000 ASA.",
+        "For the Hasselblad 70-mm cameras, this is loaded into magazines QQ and RR (photo serials 154 and 155 respectively)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The critical nature of the burn's timing is illustrated by the fact that if the burn were to last only 2 seconds longer than required, it would drop their nearside altitude to a negative value; i.e.",
+        "it would put them in real danger of hitting the surface."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "093:30:00 -This is Apollo Control at 93 hours, 30 minutes.",
+        "We're a minute and a half away from acquisition without a burn; 4 minutes, 10 seconds away from acquisition given a nominal Descent Orbit Insertion burn.",
+        "Acquisition between those two times would indicate a partial burn of some kind.",
+        "We'll leave the line up now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "093:31:55 -We've passed the no-burn AOS time and do not have a signal.",
+        "That's an encouraging sign that we did perform a maneuver."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "093:33:24 -One minute to nominal AOS."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "093:34:25 -We have a signal, right on the money."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston; America."
+      ],
+      "speaker": "Cernan",
+      "time": "0933450"
+    },
+    {
+      "tokens": [
+        "America, Houston.",
+        "Go ahead.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0933454"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The burn was good on all counts, 22-second burn.",
+        "It was on time, VGX, 1982; roll after the burn, 357, 225, and 003.",
+        "Residuals were plus 0, plus 0.2, and plus 0.1.",
+        "Delta-VCis 0.1, and that was with Delta-V total set into the EMS.",
+        "Should have been - should been zero and the residual on the EMS was plus 0.1.",
+        "Oxidizer's 305, and Fuel is 311 and an Unbalance of 150 Decrease.",
+        "We're in a 59.1 by 14.9 [nautical-mile orbit, 109.5 by 27.6 km]."
+      ],
+      "speaker": "Cernan",
+      "time": "0933500"
+    },
+    {
+      "tokens": [
+        "Okay, America; sounds great.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0933555"
+    },
+    {
+      "tokens": [
+        "It looks pretty great.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0933601"
+    },
+    {
+      "tokens": [
+        "We're getting back down among us where us plain folks belong."
+      ],
+      "speaker": "Cernan",
+      "time": "0933614"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0933620"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "093:36:45 -Those orbital numbers are an on-board readout, we'll confirm those in a few minutes after some tracking."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    }
+  ],
+  "source_file": "day5_part3_descent_orbit_insertion.html"
+}

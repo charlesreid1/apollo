@@ -1,0 +1,5965 @@
+{
+  "description": "Apollo 16 Flight Journal - Day 3, Part 1: ALFMED Experiment",
+  "transcript": [
+    {
+      "tokens": [
+        "Houston, Apollo 16.",
+        "Good morning.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "045_59_11"
+    },
+    {
+      "tokens": [
+        "Houston, how do you read Apollo 16?",
+        "Over."
+      ],
+      "speaker": "Young",
+      "time": "0455956"
+    },
+    {
+      "tokens": [
+        "16, you're loud and clear.",
+        "How me?"
+      ],
+      "speaker": "Peterson",
+      "time": "0455959"
+    },
+    {
+      "tokens": [
+        "I read you the same.",
+        "Good morning to you."
+      ],
+      "speaker": "Young",
+      "time": "0460003"
+    },
+    {
+      "tokens": [
+        "How are you doing this morning?"
+      ],
+      "speaker": "Peterson",
+      "time": "0460007"
+    },
+    {
+      "tokens": [
+        "Doing great.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0460010"
+    },
+    {
+      "tokens": [
+        "I guess that sort of depends on what y'all can say about the old platform."
+      ],
+      "speaker": "Young",
+      "time": "0460022"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0460027"
+    },
+    {
+      "tokens": [
+        "Okay, 16.",
+        "The gimbal lock and the coarse align that you had back at 38 plus 18 [GET] was caused by a CDU transient in the yaw axis.",
+        "The transient was induced when the TVC relay was disabled.",
+        "And this relay is normally enabled when the Optics is in Manual and disabled when you select P00, and that's kind of the situation that you were in when that occurred.",
+        "And Ken had just selected P00, and he had, prior to that, been using the Optics in Manual.",
+        "And they say that this type transient has been observed in CSM 117 [Apollo 17] testing, and we're presently looking at - a software work-around for LOI.",
+        "And we'll get some more words to you later on this - on this same subject."
+      ],
+      "speaker": "Peterson",
+      "time": "046_00_37"
+    },
+    {
+      "tokens": [
+        "Now you're talking.",
+        "That's the best news I've heard today, so far.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0460126"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And, John, we've had some problems here getting commands up to the bird - real-time commands.",
+        "And we've got a command test we want to run.",
+        "And - we'll be standing by.",
+        "As soon as you can get ready, let us know and we'll get into it."
+      ],
+      "speaker": "Peterson",
+      "time": "0460141"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We've got some seat swap to do and we'll let you know."
+      ],
+      "speaker": "Young",
+      "time": "0460158"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Peterson",
+      "time": "0460205"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control; 46 hours, 1 minute Ground Elapsed Time, and about 30 minutes early, the - or ahead of the scheduled wakeup time, the crew has called Mission Control.",
+        "We have a few seconds of accumulated tape caught unawares.",
+        "Then we will rejoin the conversation with the crew of Apollo 16 live.",
+        "Let's roll the tape."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, in the situation we're in now, we've only got one omni that we can read, and we can't command.",
+        "So we're only getting about 11 minutes of low-bit rate data out of every 18 while you're in PTC.",
+        "It's possible - we might lose you; if so, just stand by and we'll pick you up again."
+      ],
+      "speaker": "Peterson",
+      "time": "0460236"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're ready for that command test, Pete."
+      ],
+      "speaker": "Duke",
+      "time": "0460257"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0460302"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "We're gonna go one step at a time.",
+        "First thing we want to do is Up Telemetry, Command Reset and then Normal.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0460312"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I can give you - You want a Command Reset and then Normal?"
+      ],
+      "speaker": "Duke",
+      "time": "0460325"
+    },
+    {
+      "tokens": [
+        "Charlie, we want the Up Telemetry Command switch to Reset and then Normal."
+      ],
+      "speaker": "Peterson",
+      "time": "0460332"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It's Reset, Normal."
+      ],
+      "speaker": "Duke",
+      "time": "0460342"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "Stand by.",
+        "We're gonna try some command.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0460348"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "That apparently didn't work.",
+        "We're going on in.",
+        "But we want to cycle the Up Telemetry switch, Off, for three seconds and then back to Normal."
+      ],
+      "speaker": "Peterson",
+      "time": "0460409"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "In work."
+      ],
+      "speaker": "Duke",
+      "time": "0460422"
+    },
+    {
+      "tokens": [
+        "Okay, you're back to Normal."
+      ],
+      "speaker": "Duke",
+      "time": "0460430"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're trying commands now, Charlie.",
+        "Stand by."
+      ],
+      "speaker": "Peterson",
+      "time": "0460435"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "That apparently cleared it up."
+      ],
+      "speaker": "Peterson",
+      "time": "0460452"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0460459"
+    },
+    {
+      "tokens": [
+        "And, Charlie, we've got commands again.",
+        "We'll handle the antenna and the bit rate for you now."
+      ],
+      "speaker": "Peterson",
+      "time": "0460503"
+    },
+    {
+      "tokens": [
+        "Okay, fine."
+      ],
+      "speaker": "Duke",
+      "time": "0460509"
+    },
+    {
+      "tokens": [
+        "To repeat an old phrase, Charlie, we had a lot of people down here turning blue on this - until that - until that last little situation got cured there."
+      ],
+      "speaker": "Peterson",
+      "time": "0460521"
+    },
+    {
+      "tokens": [
+        "Was that that IMU problem?"
+      ],
+      "speaker": "Duke",
+      "time": "0460532"
+    },
+    {
+      "tokens": [
+        "No, the - the - comm problem."
+      ],
+      "speaker": "Peterson",
+      "time": "0460535"
+    },
+    {
+      "tokens": [
+        "Well, you could put Fendell in the backup mode and just put him up on top of the building."
+      ],
+      "speaker": "Duke",
+      "time": "0460539"
+    },
+    {
+      "tokens": [
+        "We may have to put him up there anyway, Charlie."
+      ],
+      "speaker": "Peterson",
+      "time": "0460601"
+    },
+    {
+      "tokens": [
+        "[Laughter.] Afraid so."
+      ],
+      "speaker": "Duke",
+      "time": "0460606"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "I've got about three - a couple, three updates to the Flight Plan.",
+        "Whenever you're - it's convenient for you, we'll read them up."
+      ],
+      "speaker": "Peterson",
+      "time": "0461850"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Don, you about ready for a little status report?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0463608"
+    },
+    {
+      "tokens": [
+        "Stand by a minute, Ken."
+      ],
+      "speaker": "Peterson",
+      "time": "0463614"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "We're all set.",
+        "Go ahead.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0463619"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "We're all set."
+      ],
+      "speaker": "Peterson",
+      "time": "0463644"
+    },
+    {
+      "tokens": [
+        "Houston.",
+        "Casper.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0463645"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "How do you read me?",
+        "[No answer.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0463652"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "How do you read?",
+        "[No answer.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0463710"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "How do you read me?",
+        "[No answer.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0463732"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "Do you read?",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0463819"
+    },
+    {
+      "tokens": [
+        "Houston.",
+        "Casper."
+      ],
+      "speaker": "Mattingly",
+      "time": "0463837"
+    },
+    {
+      "tokens": [
+        "Casper we read you loud and clear.",
+        "Do you read me?",
+        "[No answer.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0463839"
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "How do you read?",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0463907"
+    },
+    {
+      "tokens": [
+        "Houston.",
+        "Casper.",
+        "Over."
+      ],
+      "speaker": "Mattingly",
+      "time": "0463920"
+    },
+    {
+      "tokens": [
+        "Casper, we read you.",
+        "Do you read us?",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0463924"
+    },
+    {
+      "tokens": [
+        "Houston, if you're reading Casper, we're transmitting in the blind.",
+        "We have a signal strength on the meter of about 60 percent.",
+        "We're not receiving you and, based on your comment about the antennas, we'll wait about five minutes and then try again before we change the configuration.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0464009"
+    },
+    {
+      "tokens": [
+        "16, you're loud and clear.",
+        "Do you read Houston?",
+        "[No answer.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0464043"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Casper, Houston.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0464608"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "We lost you there for a while there, Don."
+      ],
+      "speaker": "Young",
+      "time": "0464615"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You're loud and clear now.",
+        "You read me okay?"
+      ],
+      "speaker": "Peterson",
+      "time": "0464619"
+    },
+    {
+      "tokens": [
+        "Loud and clear."
+      ],
+      "speaker": "Young",
+      "time": "0464624"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You were loud and clear all the time.",
+        "Apparently, you just lost us.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0464626"
+    },
+    {
+      "tokens": [
+        "And, 16, the comm problem may have been on the ground.",
+        "We'll try to find out and let you know in a minute.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0464653"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0464709"
+    },
+    {
+      "tokens": [
+        "The background tone at the - the background noise that the system is making right now is a little different than it was making before, if that would help you figure out what the problem was.",
+        "It's almost like it wasn't up-linking, maybe."
+      ],
+      "speaker": "Young",
+      "time": "0464719"
+    },
+    {
+      "tokens": [
+        "Roger, 16."
+      ],
+      "speaker": "Peterson",
+      "time": "0464738"
+    },
+    {
+      "tokens": [
+        "Okay, Don; and, if you're ready, I'll give you some status reports."
+      ],
+      "speaker": "Mattingly",
+      "time": "046_47_43"
+    },
+    {
+      "tokens": [
+        "Stand by just a minute, Ken.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0464748"
+    },
+    {
+      "tokens": [
+        "Okay, Casper, go ahead with your status report.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0464814"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm using that famous old trick on how to get someone to talk to you, but every time I pick up a juice bag and get halfway down, why it seems like we are able to establish comm.",
+        "So I'll start with the Commander's list and I'll go through and I'll skip the menus since they're on separate pages and come back to them.",
+        "So let's start with A-1: 22035; Alpha 3: 7, good; Alpha 4: none; Alpha 5: 19, 15, 18; Alpha 6: 6, 5, 6, and 3.",
+        "That's a total of four.",
+        "Going to Bravo.",
+        "[Pause.] Bravo 1: 15035; 6: good - that's on Bravo 3.",
+        "Bravo 4: none; Bravo 5: 10, 30, 25; Bravo 6: 2, 2, and 5.",
+        "[Pause.] Charlie 1: 21059; Charlie 3: 7, good; Charlie 4: none; Charlie 5: 15, 30; Charlie 6: 7, 7, 5, 5, 5.",
+        "Okay, and if you want the menu stuff, I'll go back to that now."
+      ],
+      "speaker": "Mattingly",
+      "time": "0464822"
+    },
+    {
+      "tokens": [
+        "Okay, go ahead.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0465036"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "For John, and that's day 2, Meal B, scratch the bread and peanut butter.",
+        "[Pause.] On Meal C, scratch the frankfurters; add an orange drink.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0465055"
+    },
+    {
+      "tokens": [
+        "Okay, on Bravo 2.",
+        "Are you still there, Don?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0465150"
+    },
+    {
+      "tokens": [
+        "Affirmative; we're getting a lot of background noise.",
+        "16, hold off a minute..."
+      ],
+      "speaker": "Peterson",
+      "time": "0465158"
+    },
+    {
+      "tokens": [
+        "Okay, [garble] keep on going.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0465203"
+    },
+    {
+      "tokens": [
+        "...",
+        "we'll switch omnis [garble].",
+        "[Pause.] Hold off a minute, 16; we'll switch omnis."
+      ],
+      "speaker": "Peterson",
+      "time": "0465204"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Casper.",
+        "Go ahead.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0465419"
+    },
+    {
+      "tokens": [
+        "Okay, just a second.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0465426"
+    },
+    {
+      "tokens": [
+        "Okay, starting on - Where did you copy last?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0465439"
+    },
+    {
+      "tokens": [
+        "Okay, we got John, day 2, Meal Charlie complete, and we're ready, I guess, for Bravo."
+      ],
+      "speaker": "Peterson",
+      "time": "0465444"
+    },
+    {
+      "tokens": [
+        "Okay, Bravo 2.",
+        "On Meal A, you can scratch sausage patties and - orange juice - and fruit cocktail.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0465454"
+    },
+    {
+      "tokens": [
+        "On Bravo, that's Meal B, you can scratch turkey and gravy, vanilla pudding, bread, peanut butter.",
+        "Meal C, you can scratch the chocolate pudding.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0465537"
+    },
+    {
+      "tokens": [
+        "Going to Charlie 2."
+      ],
+      "speaker": "Mattingly",
+      "time": "0465613"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Peterson",
+      "time": "0465616"
+    },
+    {
+      "tokens": [
+        "On meal A, scratch the sausage patties.",
+        "Meal B, you can scratch the bread and peanut butter.",
+        "Meal C, you can delete two of the frankfurters and scratch the chocolate pudding."
+      ],
+      "speaker": "Mattingly",
+      "time": "0465619"
+    },
+    {
+      "tokens": [
+        "Okay, Casper, we copied all that.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0465640"
+    },
+    {
+      "tokens": [
+        "Okay, and a couple of other words here on the - We got ALFMED coming up; and, to date, Charlie saw some flashes the other night and not a whole heck of a lot of them last night.",
+        "And I'm not sure I have seen any at all yet, and John may or may not.",
+        "So, what we thought we'd do here is - We've got a little more house cleaning to do here and finish our chores.",
+        "And we'll probably take a look at what we see, and if Charlie is seeing sufficient - you know, enough flashes that he's pretty sure he's seeing things, why, we'll go and run the experiment now.",
+        "And if we aren't seeing a sufficient number to look like it justifies sitting here for an hour with it, why, what would you think about saving it until such time as it looks like maybe we see more of them?"
+      ],
+      "speaker": "Mattingly",
+      "time": "046_56_46"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "We'll - we'll think on that a little.",
+        "And also, I've got a note on the Nikon camera light meter here in connection with the ALFMED photography.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0465745"
+    },
+    {
+      "tokens": [
+        "Okay, stand by another second.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0465802"
+    },
+    {
+      "tokens": [
+        "Ken, you don't really need to copy much, I think.",
+        "If you've got the camera handy there where you can look at it, I can give it to you in a few words."
+      ],
+      "speaker": "Peterson",
+      "time": "0465815"
+    },
+    {
+      "tokens": [
+        "You know one of the things we need in this program is some octopuses."
+      ],
+      "speaker": "Mattingly",
+      "time": "0465824"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0465829"
+    },
+    {
+      "tokens": [
+        "Okay, Don, I don't have the camera out, but how about just reading to me whatever it is you want to say, and I'll write it down here."
+      ],
+      "speaker": "Mattingly",
+      "time": "0465857"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's not - it's probably not worth writing down except maybe a little note to remind you the - the camera was observed to hang up in the Battery Check position full down, when you hit the camera light meter On, Check.",
+        "And what we want you to do is - the little button on top of the camera there has a while band around the base of it - they want to make sure that white line is visible on the light meter switch button.",
+        "If it's not visible, you can take your fingernail and catch the top of that button and pull out on it until the white line is visible.",
+        "And then, verify that the meter is operating by holding the camera up to a light and observing the meter response to varying light levels."
+      ],
+      "speaker": "Peterson",
+      "time": "0465905"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "We'll make sure it works before we use it."
+      ],
+      "speaker": "Mattingly",
+      "time": "0465953"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "That's all I've got on that one."
+      ],
+      "speaker": "Peterson",
+      "time": "0465957"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Houston, 16."
+      ],
+      "speaker": "Duke",
+      "time": "0470244"
+    },
+    {
+      "tokens": [
+        "Go ahead, 16."
+      ],
+      "speaker": "Peterson",
+      "time": "0470246"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Flash, with a hot report here.",
+        "Pass on to the chefs that the grits were delicious."
+      ],
+      "speaker": "Duke",
+      "time": "0470250"
+    },
+    {
+      "tokens": [
+        "Say again, Charlie.",
+        "I didn't copy that."
+      ],
+      "speaker": "Peterson",
+      "time": "0470259"
+    },
+    {
+      "tokens": [
+        "I say, pass on to the chef that the grits were delicious."
+      ],
+      "speaker": "Duke",
+      "time": "0470304"
+    },
+    {
+      "tokens": [
+        "Roger; will do.",
+        "[Pause.] And for Ken's information, the status report that we just got was excellent as far as format, readability, and everything.",
+        "The - Doc said he really appreciates it."
+      ],
+      "speaker": "Peterson",
+      "time": "0470307"
+    },
+    {
+      "tokens": [
+        "Always glad to help."
+      ],
+      "speaker": "Mattingly",
+      "time": "0470325"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control; 47 hours and 27 minutes into the mission of Apollo 16.",
+        "Crew awake now, presumably conducting either the ALFMED experiment or beyond the eat period.",
+        "As a matter of fact, part of their first activities after wakeup was the status report, which [lists] all the parts not eaten; in other words, negative reporting on the meals for the three crewmen are read down.",
+        "Also the problems with the commanding through the omni antennas have cleared themselves up, with the crew cycling a switch Off, back On again, which cleared the logic in the switching circuit.",
+        "And everything is properly working now in that area.",
+        "As soon as the crew completes the current housekeeping activities, the trouble shooting procedures for the Inertial Measuring Unit in the Guidance and Control System - Guidance and Navigation System will be read up to the crew, and they'll pursue that problem.",
+        "As a little aside to the crew food report, Charlie Duke, a good southern boy from South Carolina, said \"pass on to the chef that the grits were delicious,\" grits having been packed in the menu on his request.",
+        "Present distance of Apollo 16, 157,253 nautical miles [291,233 km] out from Earth.",
+        "Velocity ever decreasing as we near the crossover point.",
+        "Now 3,396 feet per second [1,035 m/s].",
+        "Total spacecraft weight still 102,890 pounds [46,670 kg].",
+        "We're continuing to leave the circuit live, background noise and all, as we anticipate resumption of communications between the spacecraft communicator Don Peterson and the crew of Apollo 16 for the day's activities.",
+        "This is Apollo Control at 47:30."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 16.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0473332"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Peterson",
+      "time": "0473336"
+    },
+    {
+      "tokens": [
+        "Okay, Pete, I'm up on biomed.",
+        "How does it look?"
+      ],
+      "speaker": "Duke",
+      "time": "0473339"
+    },
+    {
+      "tokens": [
+        "Stand by one.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0473345"
+    },
+    {
+      "tokens": [
+        "Okay, the biomed data looks good."
+      ],
+      "speaker": "Peterson",
+      "time": "0473429"
+    },
+    {
+      "tokens": [
+        "Okay, thank you.",
+        "[Pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0473435"
+    },
+    {
+      "tokens": [
+        "You can tell Charlie's still breathing, huh?"
+      ],
+      "speaker": "Young",
+      "time": "0473441"
+    },
+    {
+      "tokens": [
+        "It looks that way.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0473445"
+    },
+    {
+      "tokens": [
+        "We've been suspecting it up here all along."
+      ],
+      "speaker": "Young",
+      "time": "0473451"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0473455"
+    },
+    {
+      "tokens": [
+        "Houston, based on the burn yesterday, is the data you gave us for the SPS burn card still going to hold for LOI?"
+      ],
+      "speaker": "Young",
+      "time": "0473544"
+    },
+    {
+      "tokens": [
+        "Stand by a minute."
+      ],
+      "speaker": "Peterson",
+      "time": "0473555"
+    },
+    {
+      "tokens": [
+        "And the other question is, does it look like we're going to have another midcourse, and which one and how much is it?"
+      ],
+      "speaker": "Young",
+      "time": "0473600"
+    },
+    {
+      "tokens": [
+        "Okay, we'll get back to you in a minute."
+      ],
+      "speaker": "Peterson",
+      "time": "0473607"
+    },
+    {
+      "tokens": [
+        "Okay, thank you, Pete.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0473612"
+    },
+    {
+      "tokens": [
+        "Okay, 16.",
+        "On the burn card, we will probably have to do some more updating, we'll get to that tomorrow.",
+        "And on the midcourses, Midcourse 4, right now, is - looks like it's less than one foot per second.",
+        "If it gets much bigger, we'll probably do it.",
+        "But we'll advise you.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0473641"
+    },
+    {
+      "tokens": [
+        "Houston, 16.",
+        "You're breaking up badly.",
+        "How do you read us?",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0473704"
+    },
+    {
+      "tokens": [
+        "[Garble], Pete, you probably read us loud and clear in the [garble] mode [garble].",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0473716"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston, [garble].",
+        "Say again on all [garble] on the burn card.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0473749"
+    },
+    {
+      "tokens": [
+        "Okay, 16, if you read.",
+        "We probably will have to do some updating on that - on that PAD.",
+        "And we'll let you know on that and we'll update it tomorrow.",
+        "And on the Midcourse 4 - Midcourse 4 is looking pretty small, less than one foot per second now.",
+        "If it gets larger, we'll probably go ahead and do it, but we'll keep you advised on it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0473808"
+    },
+    {
+      "tokens": [
+        "Houston, your up-link keeps fading in and out on you.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0473843"
+    },
+    {
+      "tokens": [
+        "Roger, 16, We're switching on you."
+      ],
+      "speaker": "Peterson",
+      "time": "0473850"
+    },
+    {
+      "tokens": [
+        "[Garble] fading [garble].",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0473851"
+    },
+    {
+      "tokens": [
+        "Houston, 16.",
+        "Do you read us now?"
+      ],
+      "speaker": "Young",
+      "time": "0473910"
+    },
+    {
+      "tokens": [
+        "I read you loud and clear.",
+        "Do you read me?"
+      ],
+      "speaker": "Peterson",
+      "time": "0473912"
+    },
+    {
+      "tokens": [
+        "And I read you same.",
+        "You faded cut on your last transmission again."
+      ],
+      "speaker": "Young",
+      "time": "0473917"
+    },
+    {
+      "tokens": [
+        "Okay, hang on a minute until the comm clears up a little bit and then I'll come back to you."
+      ],
+      "speaker": "Peterson",
+      "time": "0473923"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0473929"
+    },
+    {
+      "tokens": [
+        "Okay, 16.",
+        "Let's try it again.",
+        "On that updating the PAD, we'll get that to you tomorrow.",
+        "And right now, Midcourse 4 looks very small, less than one foot per second.",
+        "If it gets larger, we will probably do it, but we'll keep you advised on that."
+      ],
+      "speaker": "Peterson",
+      "time": "0473944"
+    },
+    {
+      "tokens": [
+        "Outstanding.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0474001"
+    },
+    {
+      "tokens": [
+        "Just to review that SPS pressure system - as near as I can make out, it's purely - we don't actually have a Delta-P.",
+        "It's just - of about more than five psi.",
+        "What we do have is a gauge difference.",
+        "Is that not correct?"
+      ],
+      "speaker": "Young",
+      "time": "0474016"
+    },
+    {
+      "tokens": [
+        "That's affirmative, John.",
+        "There's a - there's a chamber in there - a reference chamber that's supposed to be at atmospheric pressure.",
+        "It has apparently vented to a vacuum condition, which brings in about - about a 14.7-psi bias.",
+        "Then there's a 5-psi meter bias on top of that."
+      ],
+      "speaker": "Peterson",
+      "time": "0474041"
+    },
+    {
+      "tokens": [
+        "Okay, so actually, the two meters, as we look at them now, are actually balanced.",
+        "Is that not correct?"
+      ],
+      "speaker": "Young",
+      "time": "0474101"
+    },
+    {
+      "tokens": [
+        "I believe that's correct."
+      ],
+      "speaker": "Peterson",
+      "time": "0474108"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0474112"
+    },
+    {
+      "tokens": [
+        "John, the actual pressures on both meters - the actual pressures are the same, although the meters are reading differently."
+      ],
+      "speaker": "Peterson",
+      "time": "0474120"
+    },
+    {
+      "tokens": [
+        "Okay, we got the message."
+      ],
+      "speaker": "Young",
+      "time": "0474129"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 16.",
+        "Will we need to charge Battery B, just looking ahead in the Flight Plan a little bit?"
+      ],
+      "speaker": "Duke",
+      "time": "0474401"
+    },
+    {
+      "tokens": [
+        "Just a moment.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0474407"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie, you can go ahead and start charging the battery now.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0474436"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Duke",
+      "time": "0474445"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Pete, Bat B is on charge now."
+      ],
+      "speaker": "Duke",
+      "time": "0474731"
+    },
+    {
+      "tokens": [
+        "Understand.",
+        "Bat B on charge."
+      ],
+      "speaker": "Peterson",
+      "time": "0474735"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 16."
+      ],
+      "speaker": "Duke",
+      "time": "0480025"
+    },
+    {
+      "tokens": [
+        "Go ahead, 16."
+      ],
+      "speaker": "Peterson",
+      "time": "0480028"
+    },
+    {
+      "tokens": [
+        "Okay, Pete.",
+        "We got you.",
+        "Finally had time to look out the window and you're just coming into view again and just as pretty as ever."
+      ],
+      "speaker": "Duke",
+      "time": "0480032"
+    },
+    {
+      "tokens": [
+        "Very nice.",
+        "What you looking at right now?",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0480043"
+    },
+    {
+      "tokens": [
+        "Can you tell what part of the Earth?"
+      ],
+      "speaker": "Peterson",
+      "time": "0480053"
+    },
+    {
+      "tokens": [
+        "We've got a half-Earth.",
+        "Say again?"
+      ],
+      "speaker": "Duke",
+      "time": "0480054"
+    },
+    {
+      "tokens": [
+        "Can you yell what part of the Earth you're looking at?"
+      ],
+      "speaker": "Peterson",
+      "time": "0480058"
+    },
+    {
+      "tokens": [
+        "Well, we got a half-Earth, and we see a land mass - see the North Pole - the north polar cap with two big swirls coming out off of it to the southwest.",
+        "I can see the subsolar point very distinctly.",
+        "It's a big white dot in the center towards the LM, away from the terminator.",
+        "And there's a big land mass that's visible in the center.",
+        "And can't really make out exactly what it is.",
+        "It's clear of clouds, though.",
+        "It's the only place that's fairly clear."
+      ],
+      "speaker": "Duke",
+      "time": "0480103"
+    },
+    {
+      "tokens": [
+        "Okay, we show you directly over North Africa.",
+        "[Pause.] And that's just about the terminator.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0480144"
+    },
+    {
+      "tokens": [
+        "Okay, you got North Africa at the terminator?"
+      ],
+      "speaker": "Duke",
+      "time": "0480200"
+    },
+    {
+      "tokens": [
+        "Just about."
+      ],
+      "speaker": "Peterson",
+      "time": "0480204"
+    },
+    {
+      "tokens": [
+        "Okay, that's what it is, then, looking at it, yeah.",
+        "It's - it's Africa.",
+        "[Pause.] Looks like a good storm system up in the Atlantic Ocean and above the subsolar point."
+      ],
+      "speaker": "Duke",
+      "time": "0480206"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0480218"
+    },
+    {
+      "tokens": [
+        "The blue color and the white of the clouds and the blue of the ocean, Dick.",
+        "Things just stayed pretty constant as we move out - still really a spectacular sight."
+      ],
+      "speaker": "Duke",
+      "time": "0480245"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 16.",
+        "Over."
+      ],
+      "speaker": "Young",
+      "time": "0480622"
+    },
+    {
+      "tokens": [
+        "Go ahead, 16.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0480624"
+    },
+    {
+      "tokens": [
+        "What do they think of this PTC down there in the trenches?"
+      ],
+      "speaker": "Young",
+      "time": "0480630"
+    },
+    {
+      "tokens": [
+        "It's looking real good.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0480635"
+    },
+    {
+      "tokens": [
+        "It really does look good.",
+        "I don't know who to congratulate, Ken or the computer.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0480644"
+    },
+    {
+      "tokens": [
+        "I guess we'll give Ken credit for that one.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0480713"
+    },
+    {
+      "tokens": [
+        "Darned right."
+      ],
+      "speaker": "Young",
+      "time": "0480724"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, let us know what you think about the number of light flashes and whether or not it's feasible to try the ALFMED."
+      ],
+      "speaker": "Peterson",
+      "time": "0480831"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's in work right now."
+      ],
+      "speaker": "Young",
+      "time": "0480840"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Peterson",
+      "time": "0480843"
+    },
+    {
+      "tokens": [
+        "That is, if you can work on seeing flashes."
+      ],
+      "speaker": "Young",
+      "time": "0480845"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0480850"
+    },
+    {
+      "tokens": [
+        "That's a low metabolic load."
+      ],
+      "speaker": "Young",
+      "time": "0480856"
+    },
+    {
+      "tokens": [
+        "Understand."
+      ],
+      "speaker": "Peterson",
+      "time": "0480901"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We're going to start on the ALFMED now.",
+        "I guess it'll take us about an hour and a half from the time we start to the time we finish up."
+      ],
+      "speaker": "Young",
+      "time": "048_19_49"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And you think you are seeing enough light flashes to make it valid?"
+      ],
+      "speaker": "Peterson",
+      "time": "0482000"
+    },
+    {
+      "tokens": [
+        "They haven't gotten around to doing that yet, but we're working on it."
+      ],
+      "speaker": "Young",
+      "time": "0482007"
+    },
+    {
+      "tokens": [
+        "Roger; understand."
+      ],
+      "speaker": "Peterson",
+      "time": "0482012"
+    },
+    {
+      "tokens": [
+        "Don, Charlie saw some this morning when he got up.",
+        "And so we're going to put the ALFMED on Charlie.",
+        "And we will not turn it on until we start to see some flashes, and if we don't see any, we'll just terminate it.",
+        "We'll wait some reasonable time.",
+        "We'll talk it over with you.",
+        "We'll tell you when we're ready to go through it.",
+        "That's our present plan."
+      ],
+      "speaker": "Mattingly",
+      "time": "0482013"
+    },
+    {
+      "tokens": [
+        "Okay, Ken, we'll be standing by.",
+        "And, Ken, while I'm talking to you, we've got a little more information on this platform problem and its a fairly big mouthful, so, sometime when you get a chance where you can copy some information, give me a call."
+      ],
+      "speaker": "Peterson",
+      "time": "0482039"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It looks like it'll be a couple of hours."
+      ],
+      "speaker": "Mattingly",
+      "time": "0482100"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We don't want you to get into another P52 before we have time to talk about it.a16_0480622"
+      ],
+      "speaker": "Peterson",
+      "time": "0482103"
+    },
+    {
+      "tokens": [
+        "All righty.a16_0480622"
+      ],
+      "speaker": "Mattingly",
+      "time": "0482110"
+    },
+    {
+      "tokens": [
+        "Pete, (clear's throat) a little background on these flashes [garble]."
+      ],
+      "speaker": "Duke",
+      "time": "0482118"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "We missed your comments on the light flashes.",
+        "You'd started to give them to us, and you were blocked out by noise."
+      ],
+      "speaker": "Peterson",
+      "time": "0482402"
+    },
+    {
+      "tokens": [
+        "Rog, Pete.",
+        "I was just telling you - the first night - during the first sleep period, whatever that was GET, I saw numerous light flashes before going to sleep, probably a - as freq - as high as three or four a minute.",
+        "The next morning, they were not as numerous as that, and then last night still not as numerous.",
+        "This morning, I was perhaps seeing maybe one every couple of minutes or so.",
+        "If that frequency repeats itself during this test, is that good enough to go ahead?"
+      ],
+      "speaker": "Duke",
+      "time": "0482413"
+    },
+    {
+      "tokens": [
+        "Stand by one, Charlie.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0482450"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "If you see one every minute or so, that's enough to go ahead."
+      ],
+      "speaker": "Peterson",
+      "time": "0482503"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0482509"
+    },
+    {
+      "tokens": [
+        "And, 16.",
+        "At 48:30 in the Flight Plan, there's a line that says \"Synchronize mission timer to CMC clock,\" and it is not required."
+      ],
+      "speaker": "Peterson",
+      "time": "0482601"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0482611"
+    },
+    {
+      "tokens": [
+        "Oh, that's great.",
+        "Thank you."
+      ],
+      "speaker": "Young",
+      "time": "0482612"
+    },
+    {
+      "tokens": [
+        "Hey, Don, is our comm gonna be good enough the way we're going here now for you to get the marks or are we gonna - can we count on recording them on board too?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0482616"
+    },
+    {
+      "tokens": [
+        "You better record on board as well."
+      ],
+      "speaker": "Peterson",
+      "time": "0482628"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You'll start the tape recorder, is that affirmative ?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0482634"
+    },
+    {
+      "tokens": [
+        "Affirmative.",
+        "Call us when you're ready."
+      ],
+      "speaker": "Peterson",
+      "time": "0482539"
+    },
+    {
+      "tokens": [
+        "Or you want us to do that?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0482641"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll do that; thank you.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0482642"
+    },
+    {
+      "tokens": [
+        "Okay, if at any time, the voice quality goes down, our procedures, as I understand them described, will - I'll knock off or I'll take Charlie's place here, and I'll knock off the observations and go to recording.",
+        "And other than that, Charlie will be doing all the things that I was going to be doing.",
+        "But, if you want us to record them in pen and ink at the same time, just give us a call."
+      ],
+      "speaker": "Mattingly",
+      "time": "0482652"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Peterson",
+      "time": "0482720"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "Voice check."
+      ],
+      "speaker": "Peterson",
+      "time": "0483630"
+    },
+    {
+      "tokens": [
+        "Loud and clear there, Pete."
+      ],
+      "speaker": "Young",
+      "time": "0483635"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You all were so quiet, you scared us."
+      ],
+      "speaker": "Peterson",
+      "time": "0483640"
+    },
+    {
+      "tokens": [
+        "Okay, Pete.",
+        "I just got the ALFMED on and in position, and we're gonna see if we see anything."
+      ],
+      "speaker": "Duke",
+      "time": "0483651"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Peterson",
+      "time": "0483658"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 16."
+      ],
+      "speaker": "Duke",
+      "time": "0485333"
+    },
+    {
+      "tokens": [
+        "Go ahead, 16."
+      ],
+      "speaker": "Peterson",
+      "time": "0485336"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've seen five in 15 minutes."
+      ],
+      "speaker": "Duke",
+      "time": "0485339"
+    },
+    {
+      "tokens": [
+        "Five in 15 minutes, Charlie?"
+      ],
+      "speaker": "Peterson",
+      "time": "0485342"
+    },
+    {
+      "tokens": [
+        "That's affirm."
+      ],
+      "speaker": "Duke",
+      "time": "0485346"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by a minute; we'll look at that."
+      ],
+      "speaker": "Peterson",
+      "time": "0485350"
+    },
+    {
+      "tokens": [
+        "Okay, Don.",
+        "We were just about ready to call this thing off and try it another day.",
+        "And then looked like Charlie was starting to see them at - at a pretty fair rate.",
+        "That five in 15 minutes was like four in the last minute or two.",
+        "And John has seen one; I have not seen any yet.",
+        "But sounds like Charlie is gonna be able to see these and I'm gonna go ahead and take the photographs and get - get all set and wait for your answer."
+      ],
+      "speaker": "Mattingly",
+      "time": "0485352"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We've been advised that we do want to go ahead with the ALFMED experiment."
+      ],
+      "speaker": "Peterson",
+      "time": "0485426"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's in work.",
+        "I'll tell you when we're ready to start timing."
+      ],
+      "speaker": "Mattingly",
+      "time": "0485433"
+    },
+    {
+      "tokens": [
+        "All righty."
+      ],
+      "speaker": "Peterson",
+      "time": "0485437"
+    },
+    {
+      "tokens": [
+        "Okay, Pete.",
+        "They seem to come in clusters.",
+        "You get one or two right after - and then - then nothing for a while."
+      ],
+      "speaker": "Duke",
+      "time": "0485441"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Peterson",
+      "time": "0485450"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Don.",
+        "Can you help us [garble] record our [garble] 12 [garble] 0.15, 1.2, [garble] at three feet shows Charlie in the ALFMED with his face sticking out.",
+        "I'm taking a picture from the LEB looking up towards the center couch."
+      ],
+      "speaker": "Mattingly",
+      "time": "0485807"
+    },
+    {
+      "tokens": [
+        "16, that was so garbled we didn't copy, so you're gonna have to say it again."
+      ],
+      "speaker": "Peterson",
+      "time": "0485840"
+    },
+    {
+      "tokens": [
+        "Did you copy that, Don?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0485845"
+    },
+    {
+      "tokens": [
+        "Negative, Ken.",
+        "We were in - had a lot of background noise, and we didn't get any of that."
+      ],
+      "speaker": "Peterson",
+      "time": "0485847"
+    },
+    {
+      "tokens": [
+        "Houston, Casper."
+      ],
+      "speaker": "Mattingly",
+      "time": "0485852"
+    },
+    {
+      "tokens": [
+        "Casper, go ahead."
+      ],
+      "speaker": "Peterson",
+      "time": "0485855"
+    },
+    {
+      "tokens": [
+        "Did you copy comments about the film?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0485900"
+    },
+    {
+      "tokens": [
+        "Negative; we did not.",
+        "We had too much background noise.",
+        "Can you say again?"
+      ],
+      "speaker": "Peterson",
+      "time": "0485902"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I guess I'll write it down.",
+        "I think that's faster after all."
+      ],
+      "speaker": "Mattingly",
+      "time": "0485909"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Peterson",
+      "time": "0485913"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We're ready to start.",
+        "Could you make sure the tape recorder's running?",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0490842"
+    },
+    {
+      "tokens": [
+        "Ken, it's been running awhile.",
+        "We're going to rewind it, and I'll get it back to you in a minute.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0490858"
+    },
+    {
+      "tokens": [
+        "In the meantime, Ken, if you've got comments we'll take them on air-to-ground.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0490912"
+    },
+    {
+      "tokens": [
+        "Does that mean you want us to go ahead and start?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0490921"
+    },
+    {
+      "tokens": [
+        "Affirmative.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0490925"
+    },
+    {
+      "tokens": [
+        "Was that Roger or Stand by?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0490933"
+    },
+    {
+      "tokens": [
+        "Affirmative; go ahead and start.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0490936"
+    },
+    {
+      "tokens": [
+        "Okay, Don.",
+        "We're running at 49:10."
+      ],
+      "speaker": "Mattingly",
+      "time": "0491012"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0491016"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Okay, a bright dot in the - in my right eye in the upper - upper left center."
+      ],
+      "speaker": "Duke",
+      "time": "0491022"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0491031"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Bright dot in the left eye, upper left - right center.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0491039"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Duke",
+      "time": "0491111"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "The first one was a fuzzy dot in the right eye - the left eye.",
+        "The second one was a bright dot in the right eye, lower left center.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0491112"
+    },
+    {
+      "tokens": [
+        "You copying, Houston?"
+      ],
+      "speaker": "Duke",
+      "time": "0491147"
+    },
+    {
+      "tokens": [
+        "Affirmative.",
+        "We're copying.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0491149"
+    },
+    {
+      "tokens": [
+        "DSE - DSE is now running."
+      ],
+      "speaker": "Peterson",
+      "time": "0491202"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0491208"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Light streak - white streak in the right eye, upper center - moving from up - bottom to up - top."
+      ],
+      "speaker": "Duke",
+      "time": "0491246"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Faint left - faint white dot in the left eye - extreme left."
+      ],
+      "speaker": "Duke",
+      "time": "0491259"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Duke",
+      "time": "0491547"
+    },
+    {
+      "tokens": [
+        "[Garble] upper right eye [garble]."
+      ],
+      "speaker": "Duke",
+      "time": "0491549"
+    },
+    {
+      "tokens": [
+        "Mark again.",
+        "Same spot.",
+        "That was a bright dot.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0491550"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Bright flash in upper left eye.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0491631"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "Apollo 16 crew now conducting the Apollo light flash experiment, using the blinders.",
+        "The Apollo ALFMED, Apollo Light Flash in Moving Emulsion Detector, is the acronym, ALFMED.",
+        "At 1:30 today, Central Standard Time, in the small briefing room in the Apollo News Center, MSC, there'll be a briefing by a panel of several scientist.",
+        "The topic is \"Magnetic Enigmas of the Moon\".",
+        "Spacecraft distance at the present time, 160,746 nautical miles [297,702 km].",
+        "Velocity 3,307 feet per second [1,008 m/s].",
+        "At 49:17, still up live air-to-ground, this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Flash across the bottom of right eye - white dot - from right [garble] left to right but I doubt it.",
+        "[sic] [Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0491708"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Simultaneous white dots in the right eye, upper and lower center."
+      ],
+      "speaker": "Duke",
+      "time": "0491732"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Right eye center.",
+        "A - just a bright flash."
+      ],
+      "speaker": "Duke",
+      "time": "0492005"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "A bright flash in the lower center of the right eye.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0492152"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "A little light dim streak in the lower right eye - lower left.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0492242"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Lower left - left eye, in the outboard, and it was a bright flash - looked like a streak - probably going from right to left."
+      ],
+      "speaker": "Mattingly",
+      "time": "0492306"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Bright dot, upper right, outboard, right eye."
+      ],
+      "speaker": "Duke",
+      "time": "0492452"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At about 049:25:10, the air/ground line is interrupted by a Spanish voice.",
+        "As the PAO announcer will shortly explain, this is a Spanish telephone engineer who is inadvertently connected to the circuit."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Dot - bright dot in the upper right eye, center."
+      ],
+      "speaker": "Young",
+      "time": "0492741"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "I've also had some very subtle things that - just very - looks like little dim flashes that I haven't been calling.",
+        "They're just so subtle, I've been afraid to call them a definite mark."
+      ],
+      "speaker": "Duke",
+      "time": "0492856"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "We copied that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0492915"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Upper right eye going from left to right.",
+        "[Pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0493000"
+    },
+    {
+      "tokens": [
+        "Light flash.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0493012"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And, Charlie, if you see any more of the subtle marks, how about calling them and just call them a subtle mark.",
+        "We'd like to record that information."
+      ],
+      "speaker": "Peterson",
+      "time": "0493025"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0493035"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "The mysterious comments and singing and frequent repetition of 'hello, hello' on the Public Affairs broadcast line a few moments ago has been identified by the Network controller as a telephone company technician in Spain who inadvertently somehow got patched over onto the network line coming from the tracking station on the air/ground circuit.",
+        "He has been isolated, electronically that is; and hopefully, we shouldn't have anymore of that sort of thing.",
+        "Continuing with the ALFMED experiment at 49:31."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Bright dot, right eye, center, upper.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0493316"
+    },
+    {
+      "tokens": [
+        "[Garble] Left, right, the last one, I got the impression it was moving toward me.",
+        "Why, I don't know, but it didn't - didn't [garble]."
+      ],
+      "speaker": "Duke",
+      "time": "0493345"
+    },
+    {
+      "tokens": [
+        "16, you're very weak.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0493401"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Subtle one, very subtle on the left eye, outboard, upper.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0493413"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Flash in the lower right eye, sort of a distant lightning flash.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0493514"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Upper center of upper right eye - bright light flash."
+      ],
+      "speaker": "Young",
+      "time": "0493541"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Faint dot, lower left eye, inboard."
+      ],
+      "speaker": "Duke",
+      "time": "0493958"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Flash, a - a light streak in the left eye, starting at the center going to the bottom right from upper - from upper - center down to right in movement."
+      ],
+      "speaker": "Duke",
+      "time": "0494204"
+    },
+    {
+      "tokens": [
+        "[Garble] Charlie [garble].",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0494217"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Bright dot, center, right eye.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0494239"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Left eye, sort of subtle, towards inboard center, a white flash.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0494301"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Subtle dot - white dot - in the inboard center of the right eye."
+      ],
+      "speaker": "Duke",
+      "time": "0494355"
+    },
+    {
+      "tokens": [
+        "Mark again.",
+        "That was the left eye.",
+        "That was the center upper, white dot, left eye; both of those were in left eye.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0494403"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Upper right - part of right eye, white flash, small.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0494423"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Subtle white flash, inboard upper right eye, inboard corner, that was."
+      ],
+      "speaker": "Duke",
+      "time": "0494451"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Same spot.",
+        "A white streak."
+      ],
+      "speaker": "Duke",
+      "time": "0494501"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Right eye, center, white dot."
+      ],
+      "speaker": "Young",
+      "time": "0494615"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "White dot, center - center right; lower of the left eye."
+      ],
+      "speaker": "Duke",
+      "time": "0494727"
+    },
+    {
+      "tokens": [
+        "Same here.",
+        "All at the same time Charlie did.",
+        "Only mine were in the lower left side and not the right."
+      ],
+      "speaker": "Young",
+      "time": "0494734"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Flash across the bottom of the left eye, high speed."
+      ],
+      "speaker": "Young",
+      "time": "0494744"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Don.",
+        "Can you tell us how we're doing on time?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0494911"
+    },
+    {
+      "tokens": [
+        "Stand by one; I'll let you know."
+      ],
+      "speaker": "Peterson",
+      "time": "0494915"
+    },
+    {
+      "tokens": [
+        "You've got about 20 more minutes.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0494920"
+    },
+    {
+      "tokens": [
+        "Okay, thank you.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0494927"
+    },
+    {
+      "tokens": [
+        "Don, this thing was made for about a size 6¼ or something head.",
+        "It's really tight on me."
+      ],
+      "speaker": "Duke",
+      "time": "0494935"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "We'll make a note of that."
+      ],
+      "speaker": "Peterson",
+      "time": "0494948"
+    },
+    {
+      "tokens": [
+        "I'm not complaining, it's just a little tight."
+      ],
+      "speaker": "Duke",
+      "time": "0494952"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0494955"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Bright flash down at the right center of the right eye.",
+        "White flash [garble].",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0495034"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "A dull fuzzy spot in the outboard center of the left eye.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0495111"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Flash in the center of the right eye - sort of like a small flash."
+      ],
+      "speaker": "Young",
+      "time": "0495205"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Flash in the center of left eye, just a faint flash - much more like a dot."
+      ],
+      "speaker": "Mattingly",
+      "time": "0495356"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "White dot, outboard, right eye, center.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0495636"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Small flash in the lower center of the right eye.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0495709"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Very tiny flash in the lower center of the left eye.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0495802"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Streak across the lower left of the left eye, on the inboard side.",
+        "The light was going to left - from right to left.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0495814"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Two little dot flashes in the upper right center of the right eye - left eye, excuse me.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0495839"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Small flash in the upper right center of the [garble].",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0495938"
+    },
+    {
+      "tokens": [
+        "[Garble.]"
+      ],
+      "speaker": "Crew",
+      "time": "0500008"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "My last mark was the upper center right eye, little flash."
+      ],
+      "speaker": "Duke",
+      "time": "0500011"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Small flash in the left center of the right eye.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0500021"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Mark.",
+        "A - one - the first one was right eye, a streak going from inboard center to the upper right.",
+        "Left one was a streak, pencil shaped - a pencil line, left eye from center to upper right.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0500104"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Very subtle flash in the light - right eye, upper cen - upper right."
+      ],
+      "speaker": "Duke",
+      "time": "0500204"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Another subtle one just below that, center right, right eye.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0500213"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Left eye, a streak starting in the center."
+      ],
+      "speaker": "Duke",
+      "time": "0500312"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Right eye, dot, center.",
+        "The left eye was a streak starting in the center going out to the right.",
+        "It increased in size as it went from right to left.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0500316"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Subtle dot, outboard side, center left eye."
+      ],
+      "speaker": "Duke",
+      "time": "0500402"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Mark.",
+        "Faint dot in the right eye, center, upper, and the inboard side is a white dot in the left eye - and the second one - was in the inboard side, center.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0500626"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Dot, right eye, outboard center.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0500709"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Streak in the lower left of - left eye, moving from top to bottom.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0500731"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Simultaneous white dots, right and left eye.",
+        "Left one was in the upper right, inboard center.",
+        "Left - right one was in the inboard bottom, left.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0500829"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Subtle flash in the right eye, upper inboard."
+      ],
+      "speaker": "Duke",
+      "time": "0500924"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Flash in the right eye, right side."
+      ],
+      "speaker": "Young",
+      "time": "0500931"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 16.",
+        "How's the time?",
+        "[Pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0501057"
+    },
+    {
+      "tokens": [
+        "16, we figure the time's about up on the ALFMED experiment.",
+        "We'd like to know if the motor's stopped.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0501108"
+    },
+    {
+      "tokens": [
+        "No, it's still running."
+      ],
+      "speaker": "Mattingly",
+      "time": "0501119"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "A streak in the lower left side of the left eye, moving down."
+      ],
+      "speaker": "Duke",
+      "time": "0501120"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "Keep going until the motor stops.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0501128"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "0501135"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Thin white dot upper right, inboard, left eye."
+      ],
+      "speaker": "Duke",
+      "time": "0501137"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Lightning-flash-type phenomena, lower right, inboard, left eye."
+      ],
+      "speaker": "Duke",
+      "time": "0501318"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "White dot, center, left eye.",
+        "[Long pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0501434"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "White dot, left eye, outboard, center."
+      ],
+      "speaker": "Duke",
+      "time": "0501522"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "White dot, left eye, center.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0501529"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Right eye, center, inboard, a white dot."
+      ],
+      "speaker": "Duke",
+      "time": "0501541"
+    },
+    {
+      "tokens": [
+        "Okay, Ken, we've got all the ALFMED data we need.",
+        "We want you to give us a mark when you shut the motor off.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0501548"
+    },
+    {
+      "tokens": [
+        "Okay, Pete."
+      ],
+      "speaker": "Duke",
+      "time": "0501608"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "ALFMED is off."
+      ],
+      "speaker": "Duke",
+      "time": "0501610"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Peterson",
+      "time": "0501614"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "Whenever you can copy, I've got some words on the IMU problem that we had.",
+        "Also some - an entry to the G&C Checklist."
+      ],
+      "speaker": "Peterson",
+      "time": "0501837"
+    },
+    {
+      "tokens": [
+        "Okay, Don.",
+        "How about standing by, would you?",
+        "Stand by until we clean up all the [garble]."
+      ],
+      "speaker": "Mattingly",
+      "time": "0501847"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0501854"
+    },
+    {
+      "tokens": [
+        "You're cutting out pretty bad, Don."
+      ],
+      "speaker": "Mattingly",
+      "time": "0501858"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Peterson",
+      "time": "0501903"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, the PI advises on the ALFMED experiment that we got about 70 counts, and he's very happy with the results, and he wants you to verify that the clutch is in the Stow position."
+      ],
+      "speaker": "Peterson",
+      "time": "0502805"
+    },
+    {
+      "tokens": [
+        "That's a verify."
+      ],
+      "speaker": "Duke",
+      "time": "0502819"
+    },
+    {
+      "tokens": [
+        "Roger; thank you."
+      ],
+      "speaker": "Peterson",
+      "time": "0502823"
+    },
+    {
+      "tokens": [
+        "Okay, great.",
+        "Those things - those things are really something, Don.",
+        "There were a couple of the phenomena that I had seen previously that I didn't see today, but there were some other ones today that were different too.",
+        "The phenomena - the flashes leave no afterglow and they're - they're just instantaneous.",
+        "All the colors are white - were all we saw.",
+        "We saw no colors at all; neither John nor I.",
+        "It was - every one we saw was white."
+      ],
+      "speaker": "Duke",
+      "time": "0502824"
+    },
+    {
+      "tokens": [
+        "Roger, copy that."
+      ],
+      "speaker": "Peterson",
+      "time": "0502855"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Don.",
+        "I'm ready to copy some things now."
+      ],
+      "speaker": "Mattingly",
+      "time": "0503216"
+    },
+    {
+      "tokens": [
+        "Say again, Ken."
+      ],
+      "speaker": "Peterson",
+      "time": "0503222"
+    },
+    {
+      "tokens": [
+        "Before we get into copying stuff, let me confirm what Charlie said about that clutch.",
+        "Now I listened to that thing retract before, and as soon as we went to the mid-position on the clutch - why, you can hear the plates come down.",
+        "And we went ahead and rapped it once, anyhow, just to be sure, but I didn't hear anything jiggle.",
+        "And we cycled it to Operate and then back to Stow, and it all felt normal and the - the plate travel sounded proper."
+      ],
+      "speaker": "Mattingly",
+      "time": "0503223"
+    },
+    {
+      "tokens": [
+        "Okay, we copied that, Ken."
+      ],
+      "speaker": "Peterson",
+      "time": "0503256"
+    },
+    {
+      "tokens": [
+        "Okay, and I guess my only comment on ALFMED is that I think those light flashes are made by the same guy that makes the emperor's clothes."
+      ],
+      "speaker": "Mattingly",
+      "time": "0503300"
+    },
+    {
+      "tokens": [
+        "That makes what?"
+      ],
+      "speaker": "Peterson",
+      "time": "0503308"
+    },
+    {
+      "tokens": [
+        "I think they're made by the same guy that makes the emperor's clothes."
+      ],
+      "speaker": "Mattingly",
+      "time": "0503313"
+    },
+    {
+      "tokens": [
+        "Roger; understand."
+      ],
+      "speaker": "Peterson",
+      "time": "0503317"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Don, I'm standing by to copy whatever words you got about P52s and G&N and any of those other subjects pertaining to our operation."
+      ],
+      "speaker": "Mattingly",
+      "time": "0503419"
+    },
+    {
+      "tokens": [
+        "Okay, Ken, I'll - we'll talk about the platform problem first, and I'm gonna back up and talk about the original data that we passed up because there are some small corrections to that.",
+        "And then I'll - I'll try to break it down into about four shovelfuls here for you, because it's a fairly big mouthful if we try to do it all at once."
+      ],
+      "speaker": "Peterson",
+      "time": "0503428"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You have some stuff that I probably should copy, huh?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0503450"
+    },
+    {
+      "tokens": [
+        "Yes, I will have some items for you to copy."
+      ],
+      "speaker": "Peterson",
+      "time": "0503454"
+    },
+    {
+      "tokens": [
+        "Hold off a minute, 16.",
+        "We're coming up on an omni switch.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0503501"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Mattingly",
+      "time": "0503510"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, 16.",
+        "How do you read now?",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0503653"
+    },
+    {
+      "tokens": [
+        "Loud and clear."
+      ],
+      "speaker": "Mattingly",
+      "time": "0503658"
+    },
+    {
+      "tokens": [
+        "Okay, we'll start here on this thing.",
+        "First of all, the - the problem occurs, apparently, in CSM-117 when the TVC relay changes state, either going from enable to disable or from disable to enable.",
+        "And it causes an electric glitch that makes the CDUs go to 90 degrees; in particular, the yaw CDU, and therefore the CMC thinks it's in gimbal lock and goes into a coarse align mode.",
+        "The - some of the cases that could cause this, for example, are when you go to - when you select Manual Optics, you have the TVC relay enabled and then if you go from Manual to Auto, or if you hit the Zero Optics switch with Manual Optics selected, or if you go from P52 to P00 with the Manual Optics selected, you will reset the TVC relay, and that can cause the glitch.",
+        "This is apparently what happened last night.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "050_37_00"
+    },
+    {
+      "tokens": [
+        "Okay, is it important for me to copy those things that cause this, or are you going to give me a way to prevent it?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0503815"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "You don't have to copy those.",
+        "That's just background.",
+        "Now we're going to talk about what you can do here in P52s and maybe subsequently in - for the LOI and for P40s.",
+        "There are two ways to approach the P52.",
+        "There's a - there's a quick and dirty way which is to simply go to SCS Control, because with SCS control, the TVC relay is not enabled.",
+        "And, by doing that, you don't run the risk of generating this glitch.",
+        "That's not the way, however, that the guys are recommending, because they have a procedure that they think will handle not only the P52, but the burn cases.",
+        "And they'd like you to get that procedure, and you're going to have to copy that one."
+      ],
+      "speaker": "Peterson",
+      "time": "0503821"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "How about running down that list of things that causes the TVC enable to change state again?",
+        "Let me - let me copy those this time."
+      ],
+      "speaker": "Mattingly",
+      "time": "0503911"
+    },
+    {
+      "tokens": [
+        "Okay, will do.",
+        "And - now - these cases are not all inclusive.",
+        "These are just some examples that - that we can bring up to you.",
+        "First of all, the TVC relay is enabled when you select Manual Optics.",
+        "It is then subsequently disabled if you go from Manual to Auto or if you go to zero the Optics with Manual selected, or if you go with Manual - with the Manual Optics selected, if you go from P52 to P00.",
+        "But these are probably not the only cases; they're probably just some examples that we know of.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0503923"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "0504011"
+    },
+    {
+      "tokens": [
+        "Another important point, Ken, is that it changes state during the TVC gimbal drive check."
+      ],
+      "speaker": "Peterson",
+      "time": "0504012"
+    },
+    {
+      "tokens": [
+        "Yeah, that's what I was afraid of.",
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "0504022"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're going to - this next procedure that I have to read up to you is probably going to be the one that we'll use to try to get around that.",
+        "And also, we'd like you to use it in the P52s because it allows us to monitor for the glitch, and at the same time prevents the glitch from bringing your platform down."
+      ],
+      "speaker": "Peterson",
+      "time": "0504024"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "0504044"
+    },
+    {
+      "tokens": [
+        "Okay, if you're ready to copy..."
+      ],
+      "speaker": "Peterson",
+      "time": "0504047"
+    },
+    {
+      "tokens": [
+        "[Garble]..."
+      ],
+      "speaker": "Mattingly",
+      "time": "0504048"
+    },
+    {
+      "tokens": [
+        "...I'll read you up the procedures."
+      ],
+      "speaker": "Peterson",
+      "time": "0504049"
+    },
+    {
+      "tokens": [
+        "...[garble] copy this or - Okay, I'll just copy this on a scratch pad, and we'll put it in the appropriate place, if that sounds reasonable."
+      ],
+      "speaker": "Mattingly",
+      "time": "0504051"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That sounds real good.",
+        "Number 1, we want you to key Verb 48 Enter and load Noun 46, Register 1.",
+        "The first digit should be loaded as a 3.",
+        "The rest of the numbers can be left as they are.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0504057"
+    },
+    {
+      "tokens": [
+        "Okay, why don't you read on at about that pace, Don, and I'll just copy, and then I'll read it back to you?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0504125"
+    },
+    {
+      "tokens": [
+        "Okay, the second step is key Verb 25 Noun 07 Enter, 75 Enter, 1 Enter, 1 Enter.",
+        "That sets the Average g flag, but does not turn Average g on.",
+        "The combination of those two will prevent the CMC from going into coarse align.",
+        "[Pause.] After you've done that, you can select P52 and use your normal alignment procedures.",
+        "[Long pause.] And, when you've completed the P52 to terminate this - EMP, we'll have you key Verb 48 Enter, load Noun 4 Register 1 with its original value, whether that was 2 or 1 in the first digit.",
+        "Step 2, we'll have you a key Verb 25 Noun 07 Enter, 75 Enter, 1 Enter, Enter.",
+        "[Pause.] That'll then return your - you to the correct DAP and also reset the Average g flag."
+      ],
+      "speaker": "Peterson",
+      "time": "0504131"
+    },
+    {
+      "tokens": [
+        "Okay, that - that was, in Verb 25 Noun 07, that was a 75 Enter, 1 Enter, and then zero Enter or a 1 Enter?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0504318"
+    },
+    {
+      "tokens": [
+        "Zero Enter."
+      ],
+      "speaker": "Peterson",
+      "time": "0504326"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "0504330"
+    },
+    {
+      "tokens": [
+        "Okay, that's the whole procedure."
+      ],
+      "speaker": "Peterson",
+      "time": "0504332"
+    },
+    {
+      "tokens": [
+        "Okay, let me look it over here for a second.",
+        "At first glance, the first thing I see here looks like - do I - should I [garble]?",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0504337"
+    },
+    {
+      "tokens": [
+        "16, we're switching omnis; hold off a minute."
+      ],
+      "speaker": "Peterson",
+      "time": "0504358"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, 16.",
+        "How do you read now?"
+      ],
+      "speaker": "Peterson",
+      "time": "0504550"
+    },
+    {
+      "tokens": [
+        "Loud and clear."
+      ],
+      "speaker": "Mattingly",
+      "time": "0504555"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We lost comm there temporarily.",
+        "You can go ahead now with the readback on that any time you're ready."
+      ],
+      "speaker": "Peterson",
+      "time": "0504556"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Did you get my question about the Verb 46?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0504605"
+    },
+    {
+      "tokens": [
+        "Negative, but we have a caution note that says, \"Do not key Verb 46 Enter while this EMP is in to prevent Sap - Saturn DAP actually coming on.\""
+      ],
+      "speaker": "Peterson",
+      "time": "0504609"
+    },
+    {
+      "tokens": [
+        "Okay, thank you.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0504620"
+    },
+    {
+      "tokens": [
+        "Okay, what you would do then is - we're gonna set Saturn DAP in Average g in order to prevent coarse aligning in the event the middle gimbal picks up spurious signals.",
+        "And to do this, we set Verb 48 with a Noun 46.",
+        "Digit A is set to a 3, and we set the Average g flag with a Verb 25 Noun 07, address 75, bit 1, set it to a 1.",
+        "Then we should call P52 normally, and if the glitch occurs, it'll be ignored.",
+        "I assume from this that if the glitch occurs sometime while we're in the process of taking marks, that we get some kind of garbage out of P52, but it should be obvious.",
+        "And from what you gave me on this list up at the top, it looks like normally we would not run across TVC Enable during that period.",
+        "At the completion of a 52, we go back into a Verb 48, and now we take Noun 46 back to its original values.",
+        "Then we reset the Average g flag by taking channel 75 bit 1 to a zero, using Verb 25 Noun 07, and the restrictions on this EMP is that we will not use Verb 46 at any time while this is punched in."
+      ],
+      "speaker": "Mattingly",
+      "time": "0504634"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Ken.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0504804"
+    },
+    {
+      "tokens": [
+        "Okay, do you - do you have some words on how - on how we handle the P40?",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0504812"
+    },
+    {
+      "tokens": [
+        "Okay, Ken, and - in the P40 is what we're thinking about, and we haven't completely decided now, is that we'll probably use this EMP before and after the TVC gimbal check, and we may move the TVC gimbal check earlier or before the burn so that we have plenty of time to get this thing in and out.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0504830"
+    },
+    {
+      "tokens": [
+        "Okay, that sounds like a good plan."
+      ],
+      "speaker": "Mattingly",
+      "time": "0504856"
+    },
+    {
+      "tokens": [
+        "Okay, now I've got the last shovelful here if you're ready to copy."
+      ],
+      "speaker": "Peterson",
+      "time": "0504900"
+    },
+    {
+      "tokens": [
+        "Okay, I've got my bucket out."
+      ],
+      "speaker": "Mattingly",
+      "time": "0504906"
+    },
+    {
+      "tokens": [
+        "Okay, if you should lose the platform alignment, we'll do the same thing we tried last night, a Verb 23 Noun 20 Enter, Enter, Verb 40 Enter, and then go to the checklist, G/7-1, and do the rapid IMU realign.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0504908"
+    },
+    {
+      "tokens": [
+        "Okay, Don.",
+        "If we - if we tumble the thing again, we're gonna release the platform by setting Noun 20 to - to zeros, and we do that with the Verb 23 Noun 20 Enter, Enter.",
+        "Then we release the platform with the Verb 40 Enter, and then we go through page G/7-1 and get a rapid alignment to the GDC.",
+        "Now that - that assumes that what happened to us was the glitch in the middle gimbal.",
+        "If I understood your conversation, it's possible to have a glitch in one of the other gimbals.",
+        "Is that correct?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0504944"
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "That will not, however, get you into the - into the problem that causes the platform to go into coarse align.",
+        "And also, we were advised that while this EMP is in, you shouldn't have the problem with losing the platform alignment.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0505023"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "If we - if we get this glitch in one of the other axes - I - and we have the controls enabled, I assume one of the things we would - we'd see would be some unusual thruster activity."
+      ],
+      "speaker": "Mattingly",
+      "time": "0505041"
+    },
+    {
+      "tokens": [
+        "That's affirmative, and in that case I guess all you need..."
+      ],
+      "speaker": "Peterson",
+      "time": "0505058"
+    },
+    {
+      "tokens": [
+        "[Garble] proper correction.",
+        "Well, I'm trying to figure out what we'd do if we have a - say we're in attitude hold.",
+        "If we have that glitch occur right now and - with our engines disabled, I don't think there would be any way I'd see it until I went to use some auto optics or something.",
+        "And that - if we were in an attitude hold, it appears to me that I would see a - a DAP that appeared to be unstable in the axis that it was going for, or at least it would take off for some place other than where it is.",
+        "And we would go to SCS momentarily, and the proper response would be a Verb 40, Enter, and allow the CMC to zero and recount the IMU CDUs.",
+        "Is that correct?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0505100"
+    },
+    {
+      "tokens": [
+        "Right on.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0505150"
+    },
+    {
+      "tokens": [
+        "This TVC enable that we're talking about that's used for the gimbal drive test - now that's a function only of the gimbal drive test and not a function of the setting of the trims in P40.",
+        "Is that correct?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0505200"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Peterson",
+      "time": "0505215"
+    },
+    {
+      "tokens": [
+        "Okay, so, our P40 then would be something like we would go out and we'll get a gimbal drive check to you folks early, then we'll turn the gimbals back off probably, and I'm just reiterating what I'm [garble]."
+      ],
+      "speaker": "Mattingly",
+      "time": "0505220"
+    },
+    {
+      "tokens": [
+        "Omni switch coming up, 16.",
+        "Stand by.",
+        "Stand by, 16; we're switching omnis."
+      ],
+      "speaker": "Peterson",
+      "time": "0505235"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Mattingly",
+      "time": "0505246"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, how do you read now?"
+      ],
+      "speaker": "Peterson",
+      "time": "0505419"
+    },
+    {
+      "tokens": [
+        "Loud and clear, Don."
+      ],
+      "speaker": "Mattingly",
+      "time": "0505423"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead with your question."
+      ],
+      "speaker": "Peterson",
+      "time": "0505424"
+    },
+    {
+      "tokens": [
+        "I'm trying to give you my impression of what we're gonna be - the general approach to the burn - and we check out the gimbal drives and the gimbal trims, then when we come into P40 to do it for the actual burn, we would go ahead and use the SCS gimbal checks to verify all the gimbals are properly hooked up.",
+        "Then we would bypass the flashing 202 with an Enter, and we'd just let the gimbals go to trim, and everything else would be done nominally.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0505425"
+    },
+    {
+      "tokens": [
+        "Ken, I think your general impression's right.",
+        "I guess we're not yet ready to commit ourselves to a - a set of procedures.",
+        "We're going to have Stu take a look at it in the simulator here, and we'll come up to you later with some detailed procedures specifically for the burn."
+      ],
+      "speaker": "Peterson",
+      "time": "0505507"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "I understand that; I just wanted to make sure I had a general understanding in case we had to do some original thinking."
+      ],
+      "speaker": "Mattingly",
+      "time": "0505527"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "I think we concur with what you said so far.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0505535"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And the other thing, that's out of curiosity - if the guys in the back rooms, after they get through getting all the important things squared away, that they could kind of think some more about their list of things that causes this enable relay to change state.",
+        "I'll compile a list of those things in case we come across something later on that we hadn't thought about."
+      ],
+      "speaker": "Mattingly",
+      "time": "0505551"
+    },
+    {
+      "tokens": [
+        "Okay, Ken, we'll do that for you.",
+        "And there's one last note here, that, prior to your P52s, it'd be a good idea to align the GDC just prior to going in."
+      ],
+      "speaker": "Peterson",
+      "time": "0505616"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "I don't think I'll let that guy get very far away from us."
+      ],
+      "speaker": "Mattingly",
+      "time": "0505630"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0505633"
+    },
+    {
+      "tokens": [
+        "The GDCs (Gyro Display Couplers) are part of the secondary system that keeps track of the spacecraft's attitude (the IMU and its associated couplers being primary).",
+        "The gyros used for the secondary system are 'strapped down'; that is they are not mounted on a stabilised platform but instead are fixed to the spacecraft's body.",
+        "They are known as Body Mounted Attitude Gyros (BMAGs).",
+        "They don't measure absolute attitude but rather measure the rate of rotation.",
+        "Absolute attitude can be derived from these measurements, a job that is carried out by the GDCs.",
+        "However, this only works if they have a known starting point, usually given to them by the primary system using the GDC Align button.",
+        "The attitude measurement given by the GDCs is much more prone to drift than the primary system so if Ken is to use the GDCs to realign a misaligned IMU platform, it would be a good idea for him to press the GDC Align button just prior to starting any task that might cause the IMU to becomes misaligned.",
+        "That way, any drift of the GDCs will be minimised."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Ken, I've got an update to the G&C Checklist on page 9-4 any time you're ready to copy.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "050_56_54"
+    },
+    {
+      "tokens": [
+        "Okay, pencil in hand."
+      ],
+      "speaker": "Mattingly",
+      "time": "0505709"
+    },
+    {
+      "tokens": [
+        "Okay, on Page 9-4, line 07, column A ..."
+      ],
+      "speaker": "Peterson",
+      "time": "0505713"
+    },
+    {
+      "tokens": [
+        "Yes, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "0505720"
+    },
+    {
+      "tokens": [
+        "Column A, line 07, should read '76747.' Line 11 should read '77552.' Line 12, '77756'; line 13, '77307.' [Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0505721"
+    },
+    {
+      "tokens": [
+        "Okay, I 'm on page G/9-4, reading down column A.",
+        "On line 7, I replace '77426' with '76747.' On line 11, I replace '00214' with '77552.' On line 12, I replace '77714' with '77756.' Line 13, I replace '77446' with '77307.'"
+      ],
+      "speaker": "Mattingly",
+      "time": "0505805"
+    },
+    {
+      "tokens": [
+        "That's correct, Ken.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0505849"
+    },
+    {
+      "tokens": [
+        "And we've got, Ken, here some notes on this jet-on monitor EMP.",
+        "We'd like to do a check on it at 54:25, and I can read you up the procedure for that any time you're ready to copy."
+      ],
+      "speaker": "Peterson",
+      "time": "0505910"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mattingly",
+      "time": "0505924"
+    },
+    {
+      "tokens": [
+        "Okay, at 54:25 in the Flight Plan, we would like to add 'P20 option 5,' in the 'LM checkout attitude', Noun 78, minus 09000, minus 03000, plus 25500; Noun 79, plus 00050; Noun 70, plus 00047.",
+        "We will up link the jet-on monitor loads and, when the P20 maneuver's complete, you can do a Verb 74 Enter.",
+        "[Pause.] And the P20 attitude that we've selected will be the attitude that you're already in, so there is actually not a maneuver involved here."
+      ],
+      "speaker": "Peterson",
+      "time": "0505927"
+    },
+    {
+      "tokens": [
+        "Okay, when you say when maneuver complete, - does that mean that you would want us to maneuver to the LM checkout attitude using P20, or are you going to let us go to Verb 49 to that?",
+        "And then, I'll call it up and bypass the maneuver, is that correct?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0510049"
+    },
+    {
+      "tokens": [
+        "You can use a Verb 49 for that, Ken."
+      ],
+      "speaker": "Peterson",
+      "time": "0510106"
+    },
+    {
+      "tokens": [
+        "Okay, I understand.",
+        "A Verb 49, and then we'll call P20, and then you can command the same attitude I'm in."
+      ],
+      "speaker": "Mattingly",
+      "time": "0510111"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Peterson",
+      "time": "0510117"
+    },
+    {
+      "tokens": [
+        "In other words, I've got the 50 18 the second time.",
+        "Then you want the Verb 74, Enter."
+      ],
+      "speaker": "Mattingly",
+      "time": "0510118"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "Coming up on an omni switch, 16.",
+        "Stand by."
+      ],
+      "speaker": "Peterson",
+      "time": "0510124"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, how do you read now?"
+      ],
+      "speaker": "Peterson",
+      "time": "0510324"
+    },
+    {
+      "tokens": [
+        "Loud and clear, Don."
+      ],
+      "speaker": "Mattingly",
+      "time": "0510329"
+    },
+    {
+      "tokens": [
+        "Okay, the only other thing is at 56 hours, that's 56:00, we want you to terminate the jet-on monitor EMP.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0510331"
+    },
+    {
+      "tokens": [
+        "Okay, can you tell me what deadband you're gonna be setting in there?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0510353"
+    },
+    {
+      "tokens": [
+        "Stand by one.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0510357"
+    },
+    {
+      "tokens": [
+        "Okay, Ken, it'll be a one-degree deadband.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0510435"
+    },
+    {
+      "tokens": [
+        "Okay, you're setting me in the EMP at one-degree deadband; is that affirm?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0510449"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0510455"
+    },
+    {
+      "tokens": [
+        "Ken, on the Noun 70, I read you a - a plus 00047.",
+        "You actually don't need that plus; that's an octal number."
+      ],
+      "speaker": "Peterson",
+      "time": "0510515"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "I understand."
+      ],
+      "speaker": "Mattingly",
+      "time": "0510525"
+    },
+    {
+      "tokens": [
+        "Okay, it's not clear to me - if we're going to exceed this or not; we normally would not.",
+        "Do you want to try letting us drift out of the deadband and see if the monitor works?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0510529"
+    },
+    {
+      "tokens": [
+        "Negative; that's - that's not the intent, I think.",
+        "They just want to get the program in and look at it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0510555"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, sometime before we get through, would you ask them if they would object to letting us see if that thing triggers the same response that we're used to?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0510603"
+    },
+    {
+      "tokens": [
+        "Okay, Ken; we'd like to think that over.",
+        "We'll get back to you on that."
+      ],
+      "speaker": "Peterson",
+      "time": "0510616"
+    },
+    {
+      "tokens": [
+        "Okay, fine.",
+        "Thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "0510621"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Now I've still got this note that we've had since about 24 hours ago on changing the angle on that Sun wheel and if you have that out now, we can clean that up otherwise, I'll hold it a while."
+      ],
+      "speaker": "Peterson",
+      "time": "0510623"
+    },
+    {
+      "tokens": [
+        "I don't have it out, but why don't you tell me what it is.",
+        "I think I know what you're talking about.",
+        "It's due to the REFSMMAT angles on there being changed."
+      ],
+      "speaker": "Mattingly",
+      "time": "0510637"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "And we [belch] inked '27 degrees' on it.",
+        "We should have written in '37 degrees'.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0510644"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It turns out we're at - is inked in at 27 and it should be 37."
+      ],
+      "speaker": "Mattingly",
+      "time": "0510659"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0510706"
+    },
+    {
+      "tokens": [
+        "Okay, thank you.",
+        "I'm glad you remembered that."
+      ],
+      "speaker": "Mattingly",
+      "time": "0510711"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Peterson",
+      "time": "0510714"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, terminate battery Bravo charge."
+      ],
+      "speaker": "Peterson",
+      "time": "0511012"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "0511017"
+    },
+    {
+      "tokens": [
+        "Okay, it's in work."
+      ],
+      "speaker": "Young",
+      "time": "0511021"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0511024"
+    },
+    {
+      "tokens": [
+        "What's the probability of this - glitch happening?",
+        "Is it about one in a million?"
+      ],
+      "speaker": "Young",
+      "time": "0511042"
+    },
+    {
+      "tokens": [
+        "Stand by 1.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0511047"
+    },
+    {
+      "tokens": [
+        "Say again, Pete.",
+        "You cut out."
+      ],
+      "speaker": "Young",
+      "time": "0511059"
+    },
+    {
+      "tokens": [
+        "16, I guess we really don't know the answer to that.",
+        "That's one of the reasons we want to get this EMP in to kind of watch for it and see if it's occurring frequently or infrequently.",
+        "[Pause.] Omni switch, 16.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0511101"
+    },
+    {
+      "tokens": [
+        "Okay, Don, we're going to go ahead and punch through this P52 and we'll start with our little procedure here, and you might kind of watch us through and make sure we do it right the first time."
+      ],
+      "speaker": "Mattingly",
+      "time": "0511153"
+    },
+    {
+      "tokens": [
+        "Will do."
+      ],
+      "speaker": "Peterson",
+      "time": "0511205"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "You're watching this, right?"
+      ],
+      "speaker": "Young",
+      "time": "0511323"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "We're watching and you can go ahead."
+      ],
+      "speaker": "Peterson",
+      "time": "0511325"
+    },
+    {
+      "tokens": [
+        "Okay, and what did you say the probability was of this thing happening?"
+      ],
+      "speaker": "Young",
+      "time": "0511330"
+    },
+    {
+      "tokens": [
+        "I think we don't know the answer to that, John.",
+        "That's why we want to load this software program so we can monitor to see if that glitch is occurring frequently - or it may never occur again, we really don't know."
+      ],
+      "speaker": "Peterson",
+      "time": "0511334"
+    },
+    {
+      "tokens": [
+        "Understand."
+      ],
+      "speaker": "Young",
+      "time": "0511348"
+    },
+    {
+      "tokens": [
+        "Okay, I've got it in.",
+        "I'm going to call P52."
+      ],
+      "speaker": "Mattingly",
+      "time": "0511351"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0511355"
+    },
+    {
+      "tokens": [
+        "And you got the GDC aligned there?"
+      ],
+      "speaker": "Peterson",
+      "time": "0511415"
+    },
+    {
+      "tokens": [
+        "Oh, yeah."
+      ],
+      "speaker": "Mattingly",
+      "time": "0511420"
+    },
+    {
+      "tokens": [
+        "You better believe it."
+      ],
+      "speaker": "Young",
+      "time": "0511421"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, how do you like those angles?",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0511723"
+    },
+    {
+      "tokens": [
+        "Stand by one.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0511730"
+    },
+    {
+      "tokens": [
+        "Look real good, 16."
+      ],
+      "speaker": "Peterson",
+      "time": "0511736"
+    },
+    {
+      "tokens": [
+        "Do you want us to torque some that small?",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0511741"
+    },
+    {
+      "tokens": [
+        "Go ahead and torque them."
+      ],
+      "speaker": "Peterson",
+      "time": "0511750"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll do it at 17 minutes.",
+        "[Pause.] Yeah, I guess that's 51:18, excuse me."
+      ],
+      "speaker": "Mattingly",
+      "time": "0511753"
+    },
+    {
+      "tokens": [
+        "Understand 18 minutes."
+      ],
+      "speaker": "Peterson",
+      "time": "0511807"
+    },
+    {
+      "tokens": [
+        "Okay, would you like for me to return it to zero with the switch in Manual this time, just to see if you get that glitch?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0511812"
+    },
+    {
+      "tokens": [
+        "Affirmative.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0511822"
+    },
+    {
+      "tokens": [
+        "Going to zero."
+      ],
+      "speaker": "Young",
+      "time": "0511834"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0511836"
+    },
+    {
+      "tokens": [
+        "And, 16, we didn't see any glitch.",
+        "[Pause.] There, we're coming up on an omni switch."
+      ],
+      "speaker": "Peterson",
+      "time": "0511859"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, 16, that EMP that we loaded to protect the platform - we'll refer to it as EMP 509.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0512219"
+    },
+    {
+      "tokens": [
+        "Okay, 509; sounds familiar."
+      ],
+      "speaker": "Mattingly",
+      "time": "0512234"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Peterson",
+      "time": "0512237"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, if you'll go Accept, we've got an uplink for you.",
+        "And I've got news, if you're interested."
+      ],
+      "speaker": "Peterson",
+      "time": "0513032"
+    },
+    {
+      "tokens": [
+        "Okay, here's P00 and Accept.",
+        "And, yeah, we're interested."
+      ],
+      "speaker": "Young",
+      "time": "0513043"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Former President Lyndon Johnson is resting comfortably after he was hospitalized again following an increase in his heart rate.",
+        "He's hospitalized in San Antonio.",
+        "Vice President Agnew, speaking here in Houston, has asked the nation's supermarket executives to hold the line on prices.",
+        "If prices for food continue to soar, Mr.",
+        "Agnew hinted at mandatory Federal controls.",
+        "President Nixon added a stop during his scheduled trip to Moscow.",
+        "Prior to returning home, he will stop off in Poland to discuss Polish-American relations.",
+        "The Moscow trip in late May is still on, despite some fears that recent developments in the Vietnamese conflict could affect the President's visit to the Soviet Union.",
+        "State news: The Texas governor's race is still a hot item, but no word yet from John Connally, who said he may speak out on the wide-open race.",
+        "Congressman Bob Eckhardt says the U.S.",
+        "needs at least three large super ocean ports to keep in contention with the world market.",
+        "He says the Galveston-Houston area is a prime superport site.",
+        "And on sports news: The Astros captured their first victory of the year with a 7-2 win over the L.A.",
+        "Giants.",
+        "And some scores on the other games: in the American League; Cleveland 4, Boston 0; Baltimore 4, New York 0.",
+        "In the National League; St.",
+        "Louis 5, Philadelphia 4; Los Angeles 8, Atlanta 3.",
+        "The Boston marathon, run yesterday on Patriots Day in Beantown, was won by a 25-year-old engineering student from Finland.",
+        "Strangely enough, they've omitted his name.",
+        "A 33-year-old Long Island, New York, woman, Nina Kuscsik, won the special ladies division.",
+        "The Los Angeles Lakers and the Milwaukee Bucks are tied 2-2 in their Western division playoffs in the NBA.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "051_30_48"
+    },
+    {
+      "tokens": [
+        "Charlie wants to know how (laughter) - how Consolidated Jack Pine is doing."
+      ],
+      "speaker": "Young",
+      "time": "0513300"
+    },
+    {
+      "tokens": [
+        "(Laughter) Was that Consolidated Jackpot?"
+      ],
+      "speaker": "Peterson",
+      "time": "0513308"
+    },
+    {
+      "tokens": [
+        "Jack Pine."
+      ],
+      "speaker": "Young",
+      "time": "0513313"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0513314"
+    },
+    {
+      "tokens": [
+        "Probably lost 3 or 4 points again yesterday."
+      ],
+      "speaker": "Young",
+      "time": "0513321"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "[Pause.] Charlie, I guess I haven't got those figures handy.",
+        "We'll see what we can do.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0513325"
+    },
+    {
+      "tokens": [
+        "If you can find out, Pete, you're a better man than I am.",
+        "I've been trying to find it for 10 years."
+      ],
+      "speaker": "Duke",
+      "time": "0513344"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie, And you can have your computer back, 16.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0513350"
+    },
+    {
+      "tokens": [
+        "Yeah, that compensation you guys put up there really fixed that baby."
+      ],
+      "speaker": "Young",
+      "time": "0513410"
+    },
+    {
+      "tokens": [
+        "Yeah, seems to have."
+      ],
+      "speaker": "Peterson",
+      "time": "0513415"
+    },
+    {
+      "tokens": [
+        "Plus Ken's marks."
+      ],
+      "speaker": "Young",
+      "time": "0513418"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Don, we're gonna put off the Skylab [garble] until our [garble] and take the time to do it right.",
+        "And we're gonna - gonna mix up [garble] snacks and try to get back [garble]."
+      ],
+      "speaker": "Mattingly",
+      "time": "0513742"
+    },
+    {
+      "tokens": [
+        "We've got an omni switch, 16.",
+        "Stand by."
+      ],
+      "speaker": "Peterson",
+      "time": "0513757"
+    },
+    {
+      "tokens": [
+        "Houston, do you read Casper?",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0513811"
+    },
+    {
+      "tokens": [
+        "You're pretty weak.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0513824"
+    },
+    {
+      "tokens": [
+        "16, can you read now?"
+      ],
+      "speaker": "Peterson",
+      "time": "0513838"
+    },
+    {
+      "tokens": [
+        "Yeah, I read you now.",
+        "Did you copy when I commented about the Skylab food?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0513841"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0513845"
+    },
+    {
+      "tokens": [
+        "Pete, I'm back on the Biomed.",
+        "How does it look?"
+      ],
+      "speaker": "Duke",
+      "time": "0513855"
+    },
+    {
+      "tokens": [
+        "Stand by one.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0513858"
+    },
+    {
+      "tokens": [
+        "Charlie, they're just now starting to get it.",
+        "They'll take a look at; I'll let you know in a minute.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0513934"
+    },
+    {
+      "tokens": [
+        "Okay, thanks.",
+        "[Pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0513942"
+    },
+    {
+      "tokens": [
+        "Okay, you want to go ahead with your comments on the Skylab food, now?",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0513949"
+    },
+    {
+      "tokens": [
+        "The comment I made, Don, was that, because we're behind the time line here, we - we thought we would put the Skylab food off until tonight, so we have time to do it right.",
+        "And we're just going to eat snacks for now and try to get caught up a little bit."
+      ],
+      "speaker": "Mattingly",
+      "time": "0514010"
+    },
+    {
+      "tokens": [
+        "Okay; we concur with that, Ken."
+      ],
+      "speaker": "Peterson",
+      "time": "0514016"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Mattingly",
+      "time": "0514021"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, we'd like to get the High Gain up on this next rev.",
+        "You're about ten minutes away from it now.",
+        "Do you think you can make that?",
+        "If not, we can wait another rev."
+      ],
+      "speaker": "Peterson",
+      "time": "0514315"
+    },
+    {
+      "tokens": [
+        "We'll get it to you."
+      ],
+      "speaker": "Mattingly",
+      "time": "0514325"
+    },
+    {
+      "tokens": [
+        "Okay, it's Pitch, minus 40; and Yaw, plus 90, 90.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0514327"
+    },
+    {
+      "tokens": [
+        "And, Ken, you can go on; your - in your checklist there down to the MSFN cue any time, you're ready.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0514412"
+    },
+    {
+      "tokens": [
+        "Houston.",
+        "16.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0514500"
+    },
+    {
+      "tokens": [
+        "Go ahead, 16."
+      ],
+      "speaker": "Peterson",
+      "time": "0514503"
+    },
+    {
+      "tokens": [
+        "Okay, Pete, I hit a Command Reset there.",
+        "I went to the - went to High Gain too soon; and we're operating now in Omni Bravo.",
+        "And give me a Mark.",
+        "The High Gain just didn't seem to work; it looks like I ought to be able to get High Gain now.",
+        "I'll try it."
+      ],
+      "speaker": "Duke",
+      "time": "0514506"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "You won't be able to get it yet."
+      ],
+      "speaker": "Peterson",
+      "time": "0514525"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Okay, you're on Omni Charlie now.",
+        "[Pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0514531"
+    },
+    {
+      "tokens": [
+        "16, we'll handle the omnis until we're ready to go to the High Gain, and we'll tell you when to go to High Gain at the angles we just gave you."
+      ],
+      "speaker": "Peterson",
+      "time": "0514547"
+    },
+    {
+      "tokens": [
+        "Okay, we're all set, and you're on Omni Charlie.",
+        "Will you want me to reconfigure?"
+      ],
+      "speaker": "Duke",
+      "time": "0514559"
+    },
+    {
+      "tokens": [
+        "Come back to Bravo."
+      ],
+      "speaker": "Peterson",
+      "time": "0514606"
+    },
+    {
+      "tokens": [
+        "Okay, back to - back to Bravo.",
+        "[Pause.] Okay, you're in Omni Bravo."
+      ],
+      "speaker": "Duke",
+      "time": "0514610"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you, Charlie."
+      ],
+      "speaker": "Peterson",
+      "time": "0514621"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, would you go ahead and start the Pan Camera and Mapping Camera film cycling procedures down to the point in the checklist where it calls - where it calls for a MSFN cue?"
+      ],
+      "speaker": "Peterson",
+      "time": "051_47_30"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, how much longer until we get the High Gain?",
+        "[Pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0515257"
+    },
+    {
+      "tokens": [
+        "A couple of minutes, Charlie.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0515308"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0515313"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, 16, you can bring up the High Gain."
+      ],
+      "speaker": "Peterson",
+      "time": "0515504"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, bring up the High Gain now, please.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0515613"
+    },
+    {
+      "tokens": [
+        "Okay, there you go.",
+        "You got Reacq and Narrow on the High Gain."
+      ],
+      "speaker": "Duke",
+      "time": "0515626"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0515634"
+    },
+    {
+      "tokens": [
+        "16, we're ready to proceed with the film cycling.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0515713"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0515720"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, the Mapping Camera is coming on to Standby."
+      ],
+      "speaker": "Mattingly",
+      "time": "0515834"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0515838"
+    },
+    {
+      "tokens": [
+        "Okay, you ready for Mapping Camera and Pan Camera operations?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0515908"
+    },
+    {
+      "tokens": [
+        "Stand by one.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0515914"
+    },
+    {
+      "tokens": [
+        "16, stand by.",
+        "We're checking a couple of temperatures.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0515933"
+    },
+    {
+      "tokens": [
+        "[Garble]."
+      ],
+      "speaker": "Peterson",
+      "time": "0515936"
+    },
+    {
+      "tokens": [
+        "Okay, you can proceed, 16."
+      ],
+      "speaker": "Peterson",
+      "time": "0515944"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The Mapping Camera is coming On.",
+        "[Long pause.] And the Pan Camera Self Test has been hit.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0515947"
+    },
+    {
+      "tokens": [
+        "Okay, the Pan Camera Mode barber pole has gone back to gray.",
+        "That took about 40 seconds."
+      ],
+      "speaker": "Mattingly",
+      "time": "0520110"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0520115"
+    },
+    {
+      "tokens": [
+        "Mapping Camera is to Off."
+      ],
+      "speaker": "Mattingly",
+      "time": "0520154"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, do you copy Casper?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0520302"
+    },
+    {
+      "tokens": [
+        "Read you loud and clear, Casper, Go ahead."
+      ],
+      "speaker": "Peterson",
+      "time": "0520304"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The next item here is to take the Mapping Camera to Standby mode, and I assume I should do that before I turn the SM/AC Power Off.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0520308"
+    },
+    {
+      "tokens": [
+        "That's affirmative, 16.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0520321"
+    },
+    {
+      "tokens": [
+        "Alright, Casper, after you turn the Mapping Camera to the Standby mode, we want you to add Pan Camera Self Test to Heaters.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0520358"
+    },
+    {
+      "tokens": [
+        "Okay, you've got Heaters now.",
+        "And we're in Standby, and I'm about to turn the SM/AC Power Off unless you want me to hold it."
+      ],
+      "speaker": "Mattingly",
+      "time": "0520411"
+    },
+    {
+      "tokens": [
+        "Leave it on, Casper.",
+        "Leave that Power on."
+      ],
+      "speaker": "Peterson",
+      "time": "0520418"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0520424"
+    },
+    {
+      "tokens": [
+        "16, go Omni Bravo.",
+        "You can stow the High Gain."
+      ],
+      "speaker": "Peterson",
+      "time": "0520459"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Casper."
+      ],
+      "speaker": "Mattingly",
+      "time": "0520625"
+    },
+    {
+      "tokens": [
+        "Go ahead, Casper."
+      ],
+      "speaker": "Peterson",
+      "time": "0520627"
+    },
+    {
+      "tokens": [
+        "Okay, after the film cycling, it normally calls for our taking the SM/AC Power Off, and you asked that we hold there.",
+        "Do you want us to complete the rest of that powerdown, or do you want to just stop there and you're going to pick it up later or - what would you have in mind?",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0520632"
+    },
+    {
+      "tokens": [
+        "We want to leave the Heaters on for a while and the Power on.",
+        "And we'll pick it up again later at about 58 hours, but we'll call you.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0520649"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll leave that in your care."
+      ],
+      "speaker": "Mattingly",
+      "time": "0520700"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Peterson",
+      "time": "0520703"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, if you're ready, Houston, we'll go ahead and stop PTC and go over to the UV attitude."
+      ],
+      "speaker": "Mattingly",
+      "time": "0520821"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0520830"
+    },
+    {
+      "tokens": [
+        "It's really a shame to kill a PTC that looks as nice as this one."
+      ],
+      "speaker": "Mattingly",
+      "time": "0520845"
+    },
+    {
+      "tokens": [
+        "Yeah, it does.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0520849"
+    },
+    {
+      "tokens": [
+        "Casper, you might try killing this roll at 208, which is your next roll attitude.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0520938"
+    },
+    {
+      "tokens": [
+        "We're with you."
+      ],
+      "speaker": "Mattingly",
+      "time": "0520949"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control; 52 hours, 17 minutes Ground Elapsed Time.",
+        "Apollo 16 now being maneuvered into a High Gain Antenna attitude leaving the Passive Thermal Control after all night and most of the day.",
+        "Midcourse correction 3 will not be performed and it's likely that Midcourse 4 will not be either, in as much as the present calculations show that the correction would about 1.4 feet per second [0.4 metres per second] at the present time.",
+        "We should be getting some improvement in communications when we do get locked up on the High Gain Antenna.",
+        "And we're continuing to stand by at 52:18."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Don."
+      ],
+      "speaker": "Mattingly",
+      "time": "0522619"
+    },
+    {
+      "tokens": [
+        "Go ahead, Ken.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0522620"
+    },
+    {
+      "tokens": [
+        "Let me tell you, all our plans for peanut butter were - were correct.",
+        "That's the ideal space food."
+      ],
+      "speaker": "Mattingly",
+      "time": "0522625"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "[Pause.] You guys gonna do the Skylab thing tonight?",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0522633"
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "How do you read?"
+      ],
+      "speaker": "Peterson",
+      "time": "0522739"
+    },
+    {
+      "tokens": [
+        "Loud and clear."
+      ],
+      "speaker": "Mattingly",
+      "time": "0522744"
+    },
+    {
+      "tokens": [
+        "Loud and clear."
+      ],
+      "speaker": "Young",
+      "time": "0522745"
+    },
+    {
+      "tokens": [
+        "Okay, we're just doing a subcarrier voice check.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0522746"
+    },
+    {
+      "tokens": [
+        "Your sub - your subcarrier has good voice..."
+      ],
+      "speaker": "Young",
+      "time": "0522757"
+    },
+    {
+      "tokens": [
+        "Right."
+      ],
+      "speaker": "Peterson",
+      "time": "0522800"
+    },
+    {
+      "tokens": [
+        "...and Ken's right about that peanut butter sandwich.",
+        "It's like when we were aboard ship, we can get that peanut butter sandwich when we're in too much of a hurry to do something else - to do anything else, and it works!"
+      ],
+      "speaker": "Young",
+      "time": "0522801"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll pass that along."
+      ],
+      "speaker": "Peterson",
+      "time": "0522815"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Casper, I've got that list of TVC relay set and reset conditions anytime you're ready to copy.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0522933"
+    },
+    {
+      "tokens": [
+        "I'm all pencil."
+      ],
+      "speaker": "Mattingly",
+      "time": "0522950"
+    },
+    {
+      "tokens": [
+        "Okay, the conditions that set the relay are: one, Spacecraft Control switch, CMC; Optics Zero switch, Off; and Optics Mode switch, Manual."
+      ],
+      "speaker": "Peterson",
+      "time": "0522955"
+    },
+    {
+      "tokens": [
+        "What to Manual?"
+      ],
+      "speaker": "Young",
+      "time": "0523024"
+    },
+    {
+      "tokens": [
+        "Optics Mode switches Manual.",
+        "[Pause.] And number two, another way to set it, is start a CMC TVC gimbal drive check in P40.",
+        "[Long pause.] Okay, the different ways that it can get reset are: number one, Optics Zero switch, Zero; [pause.] number two, Optics Zero switch, Off and the Optics Mode switch to CMC; [pause.] number three, Spacecraft Control..."
+      ],
+      "speaker": "Peterson",
+      "time": "0523025"
+    },
+    {
+      "tokens": [
+        "Hey, Don, would you stand by for a minute, please?"
+      ],
+      "speaker": "Young",
+      "time": "0523138"
+    },
+    {
+      "tokens": [
+        "Sure will."
+      ],
+      "speaker": "Peterson",
+      "time": "0523140"
+    },
+    {
+      "tokens": [
+        "Let's get our UV.",
+        "Give us a rough on that time and I'll come back with you."
+      ],
+      "speaker": "Young",
+      "time": "0523141"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Peterson",
+      "time": "0503145"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 16."
+      ],
+      "speaker": "Young",
+      "time": "0523751"
+    },
+    {
+      "tokens": [
+        "Go ahead, 16."
+      ],
+      "speaker": "Peterson",
+      "time": "0523753"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On your plot board, Pete, what do you show us over now?"
+      ],
+      "speaker": "Young",
+      "time": "0523756"
+    },
+    {
+      "tokens": [
+        "Just about over Florida.",
+        "[Pause.] Kind of down over the tip of ..."
+      ],
+      "speaker": "Peterson",
+      "time": "0523802"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "0523810"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, could you verify the position of the S-Band Aux TV switch?",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0524104"
+    },
+    {
+      "tokens": [
+        "Yeah, it's still in SCI, waiting for you guys to tell us to finish up our film cycling checklist."
+      ],
+      "speaker": "Mattingly",
+      "time": "0524112"
+    },
+    {
+      "tokens": [
+        "Understand; it's in SCI?"
+      ],
+      "speaker": "Peterson",
+      "time": "0524119"
+    },
+    {
+      "tokens": [
+        "Affirmative.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0524123"
+    },
+    {
+      "tokens": [
+        "You can take that switch to Off, but leave the Pan Camera Heaters and stuff on."
+      ],
+      "speaker": "Peterson",
+      "time": "0524131"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, since we - you don't want us to do the exact checklist, we'll - we'll turn the SCI, Off and the Data System, Off, or do you want the Data System On?",
+        "You're not reading anything now, I don't think."
+      ],
+      "speaker": "Mattingly",
+      "time": "0524138"
+    },
+    {
+      "tokens": [
+        "Just leave the Data System, On.",
+        "We've commanded it Off on the ground."
+      ],
+      "speaker": "Peterson",
+      "time": "0524156"
+    },
+    {
+      "tokens": [
+        "Okay; Data System, On."
+      ],
+      "speaker": "Young",
+      "time": "0524203"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0524207"
+    },
+    {
+      "tokens": [
+        "Houston, with the binocs out looking at the Earth, we can see Florida and the - the real blue water around the Bahamas.",
+        "On around the Gulf of Mexico, looks like you might have some clouds near Houston and on down into Mexico and the Great Lakes up in the North, where there's lots of clouds on up north of that."
+      ],
+      "speaker": "Duke",
+      "time": "0524257"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It is overcast here, Charlie."
+      ],
+      "speaker": "Peterson",
+      "time": "0524320"
+    },
+    {
+      "tokens": [
+        "[Garble] and up in the polar icecap, there is a big broken line; it looks like a river or something running down off to the southwest.",
+        "Wonder what that feature might be?"
+      ],
+      "speaker": "Duke",
+      "time": "0524322"
+    },
+    {
+      "tokens": [
+        "Does it look like - Is it a feature on the ground or a feature in the clouds?",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0524343"
+    },
+    {
+      "tokens": [
+        "Well, I cau - I thought the whole thing was just snow and ice up there; maybe it is the clouds up in - it looked like to me it's - it's just up at the North Pole in the icecap area."
+      ],
+      "speaker": "Duke",
+      "time": "0524355"
+    },
+    {
+      "tokens": [
+        "Roger; understand.",
+        "I don't..."
+      ],
+      "speaker": "Peterson",
+      "time": "0524408"
+    },
+    {
+      "tokens": [
+        "And it's been there since we laun - it's been there since we launched."
+      ],
+      "speaker": "Duke",
+      "time": "0524410"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Peterson",
+      "time": "0524415"
+    },
+    {
+      "tokens": [
+        "What it appeared to me to be was some places thawed out up there, but - and I was looking at water, but that might be the clouds actually."
+      ],
+      "speaker": "Duke",
+      "time": "0524417"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Tony's sitting here.",
+        "I'll see if he knows anything about it.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0524426"
+    },
+    {
+      "tokens": [
+        "Okay, and that storm system that was out west of Alaska or thereabouts appears to be still there."
+      ],
+      "speaker": "Duke",
+      "time": "0524436"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0524447"
+    },
+    {
+      "tokens": [
+        "Okay, Don.",
+        "I'm ready to copy the rest of those things that reset the TVC [garble]."
+      ],
+      "speaker": "Mattingly",
+      "time": "0524506"
+    },
+    {
+      "tokens": [
+        "Okay, stand by just a minute.",
+        "They're adding a couple of notes to it."
+      ],
+      "speaker": "Peterson",
+      "time": "0524512"
+    },
+    {
+      "tokens": [
+        "Sure thing.",
+        "[Pause.] Can I read back the other things when I read back the ones that set it?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0524516"
+    },
+    {
+      "tokens": [
+        "Say again, Ken."
+      ],
+      "speaker": "Peterson",
+      "time": "0524527"
+    },
+    {
+      "tokens": [
+        "I'll just wait until you get it all; I was going to read back the one that set it.",
+        "Everybody's talking about those binoculars.",
+        "We pulled those things out in Earth orbit as we were going over the States, and it's pretty impressive.",
+        "It works out well in other places; it really does enhance things you can see."
+      ],
+      "speaker": "Mattingly",
+      "time": "0524532"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Okay, I've got this list on the TVC Relay set/reset conditions again, if you want to go back into that now."
+      ],
+      "speaker": "Peterson",
+      "time": "052_45_53"
+    },
+    {
+      "tokens": [
+        "Okay, all set."
+      ],
+      "speaker": "Mattingly",
+      "time": "0524603"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The note they added was back up on the very first thing I gave you: the number 1, conditions to set the relay.",
+        "Those conditions only work in certain programs or extended verbs, and those are P20, 22, 23, 24, 52, or Verb 41 Noun 91.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0524604"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "0524638"
+    },
+    {
+      "tokens": [
+        "Okay, and I believe we'd gotten down through numbers..."
+      ],
+      "speaker": "Peterson",
+      "time": "0524639"
+    },
+    {
+      "tokens": [
+        "Is it all options to P20?",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0524641"
+    },
+    {
+      "tokens": [
+        "Stand by a minute, Ken; we'll get you an answer on that."
+      ],
+      "speaker": "Peterson",
+      "time": "0524652"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead."
+      ],
+      "speaker": "Mattingly",
+      "time": "0524658"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "While we're waiting for them to decide whether it's all options or not, I believe we got down through number 2, reset conditions."
+      ],
+      "speaker": "Peterson",
+      "time": "0524700"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I copied the Optics to Zero and the Optics Zero to Off when in CMC Mode control."
+      ],
+      "speaker": "Mattingly",
+      "time": "0524711"
+    },
+    {
+      "tokens": [
+        "Okay, and that was number 2.",
+        "Number 3 is Spacecraft Control switch, SCS.",
+        "[Pause.] Number 4 is THC, clockwise.",
+        "[Pause.] Number 5 is Verb 37 Enter, XX Enter.",
+        "[Pause.] Number 6 is fresh start, Verb 36.",
+        "[Pause.] Number 7 is Verb 34 or Pro in the sighting mark routine, R53 display.",
+        "[Pause.] And number 8 is Auto Enter RCS DAP at SPS cut-off plus 2.5 seconds in P40.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0524721"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I didn't understand that one, Don."
+      ],
+      "speaker": "Mattingly",
+      "time": "0524846"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's the - it's what happens to you immediately following the burns.",
+        "The SPS cuts off, and then 2.5 seconds later in P40, the TVC relay gets reset.",
+        "[Long pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0524849"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "0524916"
+    },
+    {
+      "tokens": [
+        "Okay, and on the question of options, back up under set condition number 1, it's all options except number 2 in program 20.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0524918"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "0524936"
+    },
+    {
+      "tokens": [
+        "And that's all of them.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0524939"
+    },
+    {
+      "tokens": [
+        "Okay, and I understand that this - this can happen when you either set or reset the enable relay, is that correct?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0524944"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "They say it can happen going - any change of state on the TVC relay.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0524952"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Can you tell me if it's the change of state of the relay, or just the command to change?",
+        "For instance, if we already had it in some of these things like a Verb 37, any program resets it; but if it's already in the reset position, is that a condition that's likely to trigger one of these things, or is that one of the safe conditions?"
+      ],
+      "speaker": "Mattingly",
+      "time": "0525006"
+    },
+    {
+      "tokens": [
+        "We - we think, Ken, it's the actual relay set/reset changing, not - not the command."
+      ],
+      "speaker": "Peterson",
+      "time": "0525034"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0525044"
+    },
+    {
+      "tokens": [
+        "Don, let me read back what you read to me, and then I'll want to mull that over for a while and see if I have any other questions."
+      ],
+      "speaker": "Mattingly",
+      "time": "0525120"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0525127"
+    },
+    {
+      "tokens": [
+        "Okay, and I think that, except the TVC enable [garble]."
+      ],
+      "speaker": "Mattingly",
+      "time": "0525134"
+    },
+    {
+      "tokens": [
+        "16, you're fading out.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0525143"
+    },
+    {
+      "tokens": [
+        "16, we are unable to read."
+      ],
+      "speaker": "Peterson",
+      "time": "0525153"
+    },
+    {
+      "tokens": [
+        "Okay, the things that will set the TVC enable are the Spacecraft Control switch to CMC, the Optic Zero to Off, the Optics Mode to Manual, and the CMC TVC gimbal test in P40.",
+        "These things occur only if I'm in P20 options 0, 1, 3, 4; P22, P23, P24, P52; and a Verb 41 Noun 91."
+      ],
+      "speaker": "Mattingly",
+      "time": "0525156"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "On that, the first three of those constitute one set of conditions; and the last one, that is, the start of CMC thrust vector control, is another condition that is sufficient by itself.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0525229"
+    },
+    {
+      "tokens": [
+        "Okay, understand.",
+        "The first three go with those programs, and the CMC thrust vector control is sufficient by itself."
+      ],
+      "speaker": "Mattingly",
+      "time": "0525248"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Peterson",
+      "time": "0525257"
+    },
+    {
+      "tokens": [
+        "Did you - I don't remember if we concluded whether that was when it - the CMC sets the gimbal in preparation for the burn or only during that test."
+      ],
+      "speaker": "Mattingly",
+      "time": "0525301"
+    },
+    {
+      "tokens": [
+        "I don't think that's - at least, I haven't been advised as to which set of conditions we're talking about there."
+      ],
+      "speaker": "Peterson",
+      "time": "0525312"
+    },
+    {
+      "tokens": [
+        "Okay, now I'll read you the reset ones."
+      ],
+      "speaker": "Mattingly",
+      "time": "0525321"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Peterson",
+      "time": "0525324"
+    },
+    {
+      "tokens": [
+        "It's Optics to Zero, Optics Zero to Off when in CMC Mode, Spacecraft Control to SCS, Translation Hand Controller to clockwise, any Verb 37 Enter to XX Enter, a fresh start, a Verb 34 or Pro when in the sighting mark display, and the Auto engine off or Auto TVC reset after a burn in P40."
+      ],
+      "speaker": "Mattingly",
+      "time": "0525326"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "[Pause.] There are eight different reset conditions; number 2 actually contains two separate items [Pause.]."
+      ],
+      "speaker": "Peterson",
+      "time": "0525358"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "Thank you..."
+      ],
+      "speaker": "Mattingly",
+      "time": "0525412"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Peterson",
+      "time": "0525416"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We're starting the fuel cell purge and waste water dump."
+      ],
+      "speaker": "Young",
+      "time": "0525611"
+    },
+    {
+      "tokens": [
+        "Roger; Copy."
+      ],
+      "speaker": "Peterson",
+      "time": "0525616"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Casper."
+      ],
+      "speaker": "Mattingly",
+      "time": "0530552"
+    },
+    {
+      "tokens": [
+        "Go ahead, Casper."
+      ],
+      "speaker": "Peterson",
+      "time": "0530554"
+    },
+    {
+      "tokens": [
+        "Okay, we've got a LM/CM Delta-P of 0.6.",
+        "We'd like to go ahead and pressurize the cabin and get ready for the LM entry."
+      ],
+      "speaker": "Mattingly",
+      "time": "0530558"
+    },
+    {
+      "tokens": [
+        "Stand by one.",
+        "[Pause.]"
+      ],
+      "speaker": "Peterson",
+      "time": "0530610"
+    },
+    {
+      "tokens": [
+        "Okay, Casper.",
+        "We copied, and you can go ahead."
+      ],
+      "speaker": "Peterson",
+      "time": "0530617"
+    },
+    {
+      "tokens": [
+        "Thank you, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "053_06_22"
+    }
+  ],
+  "source_file": "day3_part1_alfmed_experiment.html"
+}

@@ -1,0 +1,1927 @@
+{
+  "description": "A8FJ - Day 4: Lunar Orbit 3",
+  "transcript": [
+    {
+      "tokens": [
+        "Having gone around the limb again, the crew of Apollo 8 prepare to perform the second Lunar Orbit Insertion burn (DOI-2).",
+        "This burn, much shorter than the first, will circularise their orbit to about 60 nautical miles or 111 kilometres."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "There is only a small amount of dialogue from this far-side pass that has reached us through the transcripts.",
+        "When recording at low bit rate, the slow speed of the DSE tape is rendering the voice track reproduction unintelligible.",
+        "We pick up the DSE recording of the crew when the data switch is placed in the High Bit-Rate position and there is less than a minute remaining to the DOI-2 burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The computer is now working on the calculations of \"average-g\", ready for the thrust produced by the burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The PAD for this burn stated that there was to be no ullage burn, even though the tanks are not completely full."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The DSKY is flashing \"99\" and is awaiting the Proceed button being pressed, which will allow it to continue with the burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the 9.6-second burn complete, the crew set about ensuring the SPS engine cannot fire inadvertently.",
+        "Note that the burn was performed using a single bank of valves to the SPS engine.",
+        "Because of the short duration of the burn, and the desire to minimize even small variations in thrust, the second set of propellant valves were not used."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The motors are switched off separately so as not to apply a large change of demand on the power busses."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The DSKY is showing the amount of velocity yet to be gained in its three register displays.",
+        "Engine thrust tail-off is an inexact science, and so some small errors in velocity will remain.",
+        "Frank will use the translational hand controller to add or subtract small amounts of velocity to fine tune the burn.",
+        "Usually, if such a burn were made during the coasts to and from the Moon, these residuals would be left alone, measured, then compensated for by future burns.",
+        "In this case, being so near the lunar surface, they would like to get the required Delta-V spot on."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The EMS's task of monitoring the burn is complete and it can be placed in standby mode."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Gyro assembly 2 will provide rate-of-turn information for all three axes for the SCS (Stabilization and Control System)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We suspect a transcription error here.",
+        "The checklist calls for these circuit breakers to be opened and with the burn over, there is no reason for them to be closed."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Verb 82 displays the details of their new orbit so they can note it down."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Having noted their orbital parameters, they change to program 00."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Verb 66 passes the spacecraft's state vector to spare slots in the computer's erasable memory."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "As the spacecraft is being tidied up after the burn, Jim is scheduled to begin a two-hour rest period.",
+        "His relative lack of presence on the transcript shows that he at least took a back seat for much of that time.",
+        "Bill will perform the next platform realignment at 074:30 instead."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; at 73 hours, 40 minutes into the flight.",
+        "Our present orbital data, at the last time I gave you, still carries a perigee [means perilune] of 60.8 nautical miles [112.6 km], that perigee occurring at 8 degrees north by 89 degrees west.",
+        "An apogee (means apolune), an estimated apogee this would be, of 60.4 [111.9 km], this would be after circularization.",
+        "The Flight Plan at this point is very busy.",
+        "All three pilots have considerable tasks to do, as opposed to the last several days when their columns were virtual blanks.",
+        "For instance, at 73 hours, 40 minutes, right along about now, Frank Borman is busy doing a platform align to a specific - to a specific number.",
+        "Then he's called upon to roll right 180 degrees into a 2-second [per] degree pitch down and so forth.",
+        "At the same time, Jim Lovell is doing a number of vectors.",
+        "He's working on the RCS monitors in sharing the values in the tanks there and then shortly, he is to start a rest period in about 10 minutes, a 2-hour rest period and at the same time Bill Anders is busy with a battery charger.",
+        "He's doing an SPS monitor check and he is to put a program in to acquire the High Gain Antenna via the Manned Space Flight Network at a specific time.",
+        "During all this, he will be - the biomedical switch will be on him, so we'll be following his heart action.",
+        "All in all, a very busy period onboard.",
+        "We're due to reacquire the spacecraft at - in about 6 minutes.",
+        "At 73 hours, 43 minutes into the flight, this is Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Note that Jim carried out a platform alignment over an hour ago.",
+        "What the PAO announcer seems to have been confused by is the GDC Align operation in the Flight Plan directly after the LOI-2 burn.",
+        "This is to align the spacecraft's secondary attitude reference to match that of the platform so that both systems have an identical notion of which way up the spacecraft is.",
+        "The GDCs get their attitude information from the BMAGs and that system has a much larger rate of drift than the platform in the IMU."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Before they re-emerge from around the Moon, Bill uses the DSE to leave some voice notes to help the photo analysts keep track of what he has been doing so far with the cameras."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Bill has discovered that he has used the wrong film for some of his photography.",
+        "Soon he will tell Mission Control of the problem directly."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "We expect to acquire just momentarily.",
+        "The first call has gone out.",
+        "We have acquired; we're reading good tank pressures, and here goes the first call."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Over.",
+        "[No answer.]"
+      ],
+      "speaker": "Carr",
+      "time": "0734925"
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Over.",
+        "[No answer.]"
+      ],
+      "speaker": "Carr",
+      "time": "0734940"
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Over.",
+        "[No answer.]"
+      ],
+      "speaker": "Carr",
+      "time": "073:49:53"
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Over."
+      ],
+      "speaker": "Carr",
+      "time": "0735017"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 8.",
+        "Over."
+      ],
+      "speaker": "Anders",
+      "time": "0735027"
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Loud and clear.",
+        "How me?",
+        "[Pause.]"
+      ],
+      "speaker": "Carr",
+      "time": "0735028"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 8.",
+        "Over."
+      ],
+      "speaker": "Anders",
+      "time": "0735040"
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Loud and clear.",
+        "How me?"
+      ],
+      "speaker": "Carr",
+      "time": "0735042"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Reading you loud and clear, and ready for the burn status report."
+      ],
+      "speaker": "Anders",
+      "time": "0735049"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Ready to copy."
+      ],
+      "speaker": "Carr",
+      "time": "0735053"
+    },
+    {
+      "tokens": [
+        "Houston.",
+        "Roger.",
+        "The burn was on time, 11 seconds, 0.2 with a VGX.",
+        "[Long pause.], 1.8; VGY- that's minus 1.8; minus 0.2, VGZ; Delta VCwas minus 9.4.",
+        "Verb 82 gives us an apogee [means apolune] of 62 and a perigee [means perilune] of 60.8.",
+        "[Pause.]"
+      ],
+      "speaker": "Borman",
+      "time": "0735055"
+    },
+    {
+      "tokens": [
+        "To interpret, when the 11-second burn was over, the spacecraft was 0.2 foot per second (0.06 metres/second) short of the velocity it wanted in the X direction (parallel to its motion), it had overshot its required velocity in the Y direction (perpendicular to its motion) by 1.8 fps (0.55 m/s) and it was 0.2 fps (0.06 m/s) short in the Z direction, which is parallel to the local vertical.",
+        "The display of their velocity change on the EMS overshot by 9.4 fps which would be expected as it does not account for the tail-off thrust that comes from the engine after shutdown.",
+        "Finally, the onboard computer's determination of their orbit is that their apolune is 62 nautical miles (114.8 km) and their perilune is 60.8 nautical miles (112.6 km).",
+        "With the spacecraft acquired by the stations on Earth, an independent determination of their orbit will be made."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 8, this is Houston.",
+        "Roger.",
+        "Your burn was on time, 11 seconds; VGXwas plus 0.2, VGYwas minus 1.8, VGZminus 0.2, Delta-VCminus 9.4, apogee 62, perigee, 60.8.",
+        "Over."
+      ],
+      "speaker": "Carr",
+      "time": "0735142"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Borman",
+      "time": "0735216"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control here.",
+        "That circuit's noisier than we can recall on the last two passes, but we have heard the crewmember, I think Borman, confirm an apogee of 62 miles, a perigee of 60.8, a virtually perfect second burn, giving us a circular orbit.",
+        "We'll continue to leave the line open."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control again.",
+        "Apogee on this, the third rev around the Moon will occur at 80 degrees west longitude, 9 degrees, 30 minutes north latitude.",
+        "Those are lunar coordinates of course.",
+        "The perigee on this rev will occur at 9 degrees, 29 minutes south latitude and 99 degrees, 28 minutes east longitude.",
+        "That'll be on the back side of the Moon.",
+        "And our numbers now show an apogee of 60.9 [nautical miles, 112.8 km] versus of perigee of 60.5 [nautical miles, 112.0 km], compared to 62-[nautical] mile apogee and a 60.8-[nautical] mile apogee [means perilune] from the crew.",
+        "Excellent agreement."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Already, an Earth-based determination of their orbit has been made which is in good agreement with the figure computed aboard the spacecraft.",
+        "The circularisation of their orbit has made the positions of apolune and perilune irrelevant but for what it is worth, these points have rotated nearly ninety degrees around the Moon, a sign that the burn was stopped when the orbit had become about as circular as it was going to get."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Photography continues on magazine E as Bill photographs Target of Opportunity 58."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In the foreground of 2262 is Ritz B with the eastern rim of Ritz itself visible down the right-hand side of the image."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The press corps should be advised that we're planning a press conference to begin in about 45 minutes in the MSC Auditorium, 9:30 Houston time [that is, 9:30am on December 24]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Bill is still recording notes on the DSE as well as continuing the photography."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The slumped walls of this crater are well shown and it is interesting to note the relatively puny size of the central peak.",
+        "This is a very old feature and one interpretation for its flat floor and small central peak is that the interior was filled aeons ago by ejecta from the impact formation of the great near-side basins, partially burying the original peak.",
+        "The small crater in the foreground just outside the rim of Ansgarius is Ansgarius M."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "A very different looking central peak stands within Behaim, south of Ansgarius.",
+        "This is Target of Opportunity 63.",
+        "It's smooth contours may again be explained by a blanket of ejecta covering the original central mountain."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, how do you read?",
+        "This is Apollo 8."
+      ],
+      "speaker": "Anders",
+      "time": "0735906"
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Weak but clear."
+      ],
+      "speaker": "Carr",
+      "time": "0735909"
+    },
+    {
+      "tokens": [
+        "You're loud and clear."
+      ],
+      "speaker": "Anders",
+      "time": "0735915"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 8.",
+        "We're on High Gain now if you want to get the high-speed data to look at that burn."
+      ],
+      "speaker": "Borman",
+      "time": "0740049"
+    },
+    {
+      "tokens": [
+        "Apollo 8, this is Houston.",
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Carr",
+      "time": "0740056"
+    },
+    {
+      "tokens": [
+        "Apollo 8, this is Houston.",
+        "We are taking the DSE."
+      ],
+      "speaker": "Carr",
+      "time": "0740104"
+    },
+    {
+      "tokens": [
+        "Thank you.",
+        "Can you hold it for about 5 seconds - or about one minute?"
+      ],
+      "speaker": "Borman",
+      "time": "0740111"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Holding."
+      ],
+      "speaker": "Carr",
+      "time": "0740117"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Borman",
+      "time": "0740130"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You can dump the data now."
+      ],
+      "speaker": "Borman",
+      "time": "0740139"
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Roger.",
+        "We're taking the DSE for dump."
+      ],
+      "speaker": "Carr",
+      "time": "0740142"
+    },
+    {
+      "tokens": [
+        "Houston.",
+        "Roger."
+      ],
+      "speaker": "Carr",
+      "time": "0740201"
+    },
+    {
+      "tokens": [
+        "Around now, Bill and Frank are scheduled to begin a session of training photography.",
+        "Seven minutes before flying over a landmark in Mare Tranquillitatis, Bill begins photographing it, even though it is nearly on the horizon.",
+        "He is using the 16-mm camera and the Hasselblad using magazine E, taking a shot every 20 seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The result of the Hasselblad photography is a remarkable series of images from AS08-13-2271 that, when looked at sequentially, form amovie of the passing landmark."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The 16mm movie photography is taken using magazine K."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "H.264 MOV video file."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We got an exceptionally quiet pass across here.",
+        "We're reading a pitch attitude of 192 degrees; it's down, and yaw, 356 degrees; a 177-degree roll attitude - a very steady attitude and I believe they are in orbital rate; that is a rate calculated to hold their windows in a specific position and move them in - as they move across the face of the Moon.",
+        "Lovell should be in a rest period, 2 hours duration now.",
+        "Perhaps that's why they are keeping quiet.",
+        "Bill Anders is extremely busy taking pictures.",
+        "70-millimeter and 16-millimeters - 70-millimeter stills - 16-millimeter movies."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "We are 52 minutes from Loss of Signal on this pass and let's look over our ECS, Environmental Control Systems summary table.",
+        "The cabin pressure, 4.9 [psi, 33.8 kPa] and holding very nicely.",
+        "The cabin temperature, 77 degrees [Fahrenheit, 25°C].",
+        "I think that's up a few degrees from yesterday.",
+        "I don't recall exactly.",
+        "In general we can expect to see, we should be seeing a slight rise in temperature.",
+        "This was predicted by the thermal people, a rise particularly, in the outside temperature, the outside skin temperature of the spacecraft, a rise of something like 10 to 12 degrees [Fahrenheit, 6 to 7°C].",
+        "This was based on estimates from the [spacecraft number] 101, theApollo 7flight and the experience to date in deep space.",
+        "The point to be made is that it's - the spacecraft is slightly colder as it traverses from Earth to Moon, than it is while in orbit about either body, slightly colder on the outside.",
+        "The inside remains relatively stable.",
+        "A very quiet period and so we'll just take the line down, if something occurs we will come back up immediately.",
+        "At 74 hours, 10 minutes into the flight; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control Houston here, 74 hours, 12 minutes.",
+        "After a long quiet period there, Mike Collins put in a call and he is getting some conversation from Frank Borman, be it ever so brief.",
+        "Let's hear it now, and we'll catch up and go into the live situation."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 8, this is Houston.",
+        "Over."
+      ],
+      "speaker": "Collins",
+      "time": "0741138"
+    },
+    {
+      "tokens": [
+        "Hello, Michael."
+      ],
+      "speaker": "Borman",
+      "time": "0741142"
+    },
+    {
+      "tokens": [
+        "The Green Team under the leadership of Flight Director Cliff Charlesworth has taken over the consoles at Mission Control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, good morning, Frank.",
+        "We've been tracking you for about 18 minutes now, and we show your orbit 61 by 60½.",
+        "Over."
+      ],
+      "speaker": "Collins",
+      "time": "0741144"
+    },
+    {
+      "tokens": [
+        "Thank you.",
+        "[Pause.]"
+      ],
+      "speaker": "Borman",
+      "time": "0741154"
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Your SPS engine looked good on LOI number 2 burn."
+      ],
+      "speaker": "Collins",
+      "time": "0741202"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston."
+      ],
+      "speaker": "Collins",
+      "time": "0741624"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Borman",
+      "time": "0741629"
+    },
+    {
+      "tokens": [
+        "Bill has got the tape recorder now; we're evaluating the dump.",
+        "The data is good, and we're evaluating the voice quality here shortly."
+      ],
+      "speaker": "Collins",
+      "time": "0741630"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Borman",
+      "time": "0741641"
+    },
+    {
+      "tokens": [
+        "Apollo 8, this is Houston.",
+        "Over."
+      ],
+      "speaker": "Collins",
+      "time": "074:19:06"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston.",
+        "Apollo 8."
+      ],
+      "speaker": "Borman",
+      "time": "074:19:11"
+    },
+    {
+      "tokens": [
+        "I've got a few jolly updates for you when you're ready to copy."
+      ],
+      "speaker": "Collins",
+      "time": "074:19:13"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Borman",
+      "time": "074:19:18"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston, over all this noise.",
+        "We will take the line down at this point; try to figure out where the source of all of our noise is.",
+        "Fortunately it's an extremely quiet pass; but if there is any further conversation, we'll come back up and play it for you.",
+        "It's 74 hours, 21 minutes into the flight.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston, with your updates."
+      ],
+      "speaker": "Borman",
+      "time": "0742133"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Apollo 8, Houston.",
+        "I have a TEI-3, TEI-4 and map update for revs 3 and 4 to read to you.",
+        "Actually, the TEI-3 update which you have onboard is still valid, so we will not update that one.",
+        "Which do you want first, the TEI-4 or the map update?"
+      ],
+      "speaker": "Collins",
+      "time": "0742136"
+    },
+    {
+      "tokens": [
+        "TEI-4."
+      ],
+      "speaker": "Borman",
+      "time": "0742203"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "This is the TEI-4 update: SPS/G&N; 45695; minus 0.53, plus 1.41.",
+        "Are you with me so far?",
+        "Over."
+      ],
+      "speaker": "Collins",
+      "time": "0742205"
+    },
+    {
+      "tokens": [
+        "So far."
+      ],
+      "speaker": "Borman",
+      "time": "0742234"
+    },
+    {
+      "tokens": [
+        "Very good.",
+        "077:21:27.58; plus 3062.7, minus 0062.5, plus 0057.7; 180, 018, 001; not applicable, plus 0018.8; 3063.9, 2:56, 3045.2.",
+        "Are you with me so far?",
+        "Over."
+      ],
+      "speaker": "Collins",
+      "time": "0742236"
+    },
+    {
+      "tokens": [
+        "So far seems [garble].",
+        "Hold it a minute though, will you?",
+        "[Long pause.]"
+      ],
+      "speaker": "Borman",
+      "time": "0742350"
+    },
+    {
+      "tokens": [
+        "Apollo Control here, we'll break it off at this point so the news conference can be picked up.",
+        "One other pertinent comment that did not play out on that tape exchange.",
+        "Frank Borman said we're getting - we had noted, that his - the voice quality of Bill Anders was not quite what it should be on the data record system and which is being dumped here each on each rev back to Houston.",
+        "This was noted and Bill said they were all so busy right now he would do what he could, make notes on the Flight Plan and that sort of thing, but he - we just have to understand.",
+        "So at this time let's break over to the auditorium and pick up the news conference."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The full audio of the press conference which follows is in the link below.",
+        "For the most part, members of the press are seeking clarification of various technical aspects of the flight, all of which are discussed in this journal as they occur.",
+        "At one point, NASA is asked to comment on the level of excitement that prevailed in Mission Control at the first moment of acquisition in lunar orbit, and the dour NASA spokesmen do their best to downplay it all as a perfectly nominal event.",
+        "This press conference lasted well into the crew's next back side pass, overlapping all the other events taking place during this time."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead."
+      ],
+      "speaker": "Borman",
+      "time": "0742411"
+    },
+    {
+      "tokens": [
+        "Okay, the last number I gave was Delta-VC, picking up at the sextant star; 40, 273.0, 39.6; 033, down 03.0, left 1.9.",
+        "Are you with me?",
+        "Over."
+      ],
+      "speaker": "Collins",
+      "time": "0742413"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Borman",
+      "time": "0742452"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Plus 08.58, minus 165.00; 1296.0, 36195, 146:37:21.",
+        "Comment: north set of stars Sirius and Rigel; roll, 129; pitch, 155; yaw, 010; ullage, 2 quads, 20 seconds, 2 0 seconds from quads Bravo and Delta.",
+        "Horizon on 2-degree line at time of ignition minus 3 minutes.",
+        "Over."
+      ],
+      "speaker": "Collins",
+      "time": "0742453"
+    },
+    {
+      "tokens": [
+        "The PAD is interpreted as follows:Purpose:This PAD would be used for an abort at the TEI-4 opportunity.Systems:The burn would be made using the SPS (Service Propulsion System) engine under the control of the Guidance and Navigation system.CSM Weight (Noun 47):45,695 pounds (20,727 kg).Pitch and yaw trim (Noun 48):-0.53° and +1.41°.Time of ignition, TIG(Noun 33):77 hours, 21 minutes, 27.58 seconds.Change in velocity (Noun 81), fps (m/s):X, +3,062.7 (+933.5); Y, -62.5 (-19.1); Z, +57.7 (+17.6).",
+        "These velocities are expressed with respect to theLocal Verticalreference.Spacecraft attitude:Roll, 180°; Pitch, 18°; Yaw, 1°.",
+        "The desired spacecraft attitude is measured relative to the alignment of the guidance platform which itself has been aligned per theLOI-2 REFSMMAT.HA, expected apogee of resulting orbit (Noun 44):Not applicable.",
+        "If this abort burn were to be made, the spacecraft would be on a trajectory coming from the Moon so any apogee figure would be meaningless.HP, expected perigee of resulting orbit (Noun 44):+18.8 nautical miles (+34.8 km).",
+        "The perigee distance is so low, it intersects Earth's atmosphere.",
+        "In other words, the spacecraft will re-enter.Delta-VT:3,063.9 fps (933.9 m/s).",
+        "This is the total change in velocity the spacecraft would experience.",
+        "(It is a vector sum of the three components given above.)Burn duration or burn time:2 minutes, 56 seconds.Delta-VC:3,045.2 fps.",
+        "This value is entered in the Delta-V display of the EMS to provide a backup method for shutting down the engine.Sextant star:Star 40 (Altair, or Alpha Aquilae) visible in sextant when shaft and trunnion angles are 273.0° and 39.6° respectively.",
+        "This is part of an attitude check.Boresight star:Star 33 (Antares, or Alpha Scorpii) visible in the COAS as a second attitude check.COAS Pitch Angle:Down 3.0°.COAS X Position Angle:Left 1.9°.The next five parameters all relate to re-entry, during which an important milestone is \"Entry Interface,\" defined as being 400,000 feet (121.92 km) altitude.",
+        "In this context, a more important milestone is when atmospheric drag on the spacecraft imparts a deceleration of 0.05 g.Expected splashdown point (Noun 61):8.58° north, 165° west; in the mid-Pacific.Range to go at the 0.05 g event:1,296.0 nautical miles.",
+        "To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel from the 0.05 g event to landing.",
+        "This figure will be decremented by the EMS based on signals from its own accelerometer.Expected velocity at the 0.05 g event:36,195 fps.",
+        "This is another entry for the EMS.",
+        "It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.GET of 0.05 g event:146 hours, 37 minutes and 21 seconds GET.",
+        "This is the predicted time that the EMS will be triggered by a deceleration of 0.05 g.GDC Align stars:Stars to be used for GDC Align purposes are Sirius and Rigel.GDC Align angles:Roll, 129°; pitch, 155°; yaw, 10°.There are two comments appended to the PAD.",
+        "The first is that the ullage burn to settle the contents of the propellant tanks would use RCS jets B and D for twenty seconds.",
+        "Also, if they are at the correct attitude for the abort burn at three minutes to ignition, they should expect the Moon's horizon to line up with the 2° marks on the left rendezvous window."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "We got a TEI-4; SPS/G&N; 45695; minus 0.53, plus 1.41; 077:21:27.58; plus 3062.7, minus 0062.5, plus 0057.7; 180, 018, 001; N/A, plus 0018.8; 3063.9, 2:56, 3045.2; 40, 273.0, 39.6; 033, down 03.0, left 1.9; plus 08.58, minus 165.00; plus 1296.0, plus 36195, 146:37:21.",
+        "Sirius, Rigel, 129, 155, 010; 2 quads, 20 seconds, B and D.",
+        "Horizon 2 degrees at TIGminus 3 (minutes)."
+      ],
+      "speaker": "Borman",
+      "time": "0742615"
+    },
+    {
+      "tokens": [
+        "That's about the size of it, Frank, and a map update for revs 3/4 when you're ready.",
+        "[Pause.]"
+      ],
+      "speaker": "Collins",
+      "time": "0742726"
+    },
+    {
+      "tokens": [
+        "Ready."
+      ],
+      "speaker": "Borman",
+      "time": "0742738"
+    },
+    {
+      "tokens": [
+        "Revs 3/4, LOS, 75:01:23; Sunrise, 75:10:16; Prime meridian, 75:17:16; AOS, 75:47:18; Sunset, 76:23:11; Remarks: Subsolar point, 75:46:55; IP-1 acquisition, 76:11:17; IP-2 acquisition, 76:12:30.",
+        "For IP-1 and 2 those ACQ(uisition) times are for shaft and trunnion angles equals zero.",
+        "Over."
+      ],
+      "speaker": "Collins",
+      "time": "0742740"
+    },
+    {
+      "tokens": [
+        "This map update refers to events and landmarks that will be encountered during the third and fourth revolutions around the Moon.",
+        "It is interpreted as follows:Loss of Signal (LOS) before start of rev 4:075:01:23.Spacecraft sunrise in orbit:075:10:16.",
+        "(The time the spacecraft comes back into sunlight around the far side.)Passing over Prime Meridian of 150°W:075:17:16.",
+        "(At this time, they will be passing over the 150°W line of longitude.)Acquisition Of Signal (AOS):075:47:18.Spacecraft sunset in orbit:076:23:11.",
+        "(The time the spacecraft passes from lunar daytime into the lunar night over the near side.)Subsolar point:075:46:55.",
+        "(At this time, the spacecraft will be directly between the Sun and the Moon.",
+        "In other words, this is when they pass the point where the Sun is highest over the lunar surface.)As they approach the pseudo landing site, they use two initial points to help them with spotting the landing site, one on the western shore of Mare Fecunditatis, the second being the mountain that Jim has newly named, Mount Marilyn.Acquisition Of Initial Point 1:076:11:17.Acquisition Of Initial Point 2:076:12:30.Timings for both have been given based on when they become visible in the sextant when set to its zero position."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you.",
+        "75:01:23, 75:10:16, 75:17:16, 75:47:18, 76:23:11; Subsolar, 75:46:55; IP-1, 76:11:17; IP-2, 76:12:30; and at shaft and trunnion at zero."
+      ],
+      "speaker": "Borman",
+      "time": "0742753"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Frank."
+      ],
+      "speaker": "Collins",
+      "time": "0742916"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston."
+      ],
+      "speaker": "Collins",
+      "time": "0743253"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Borman",
+      "time": "0743257"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "When Bill gets a minute, we'd like to get battery B started charging.",
+        "Over."
+      ],
+      "speaker": "Collins",
+      "time": "0743258"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you.",
+        "He'll take a minute right now."
+      ],
+      "speaker": "Borman",
+      "time": "0743307"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "While Jim has a scheduled rest period, Bill performs a P52 platform realignment.",
+        "For this, he sights on star 16 (Procyon, Alpha Canis Minoris) and 23 (Denebola, Beta Leonis).",
+        "The alignment is performed admirably with the star angle error (a comparison of the angle measured by Bill between the two stars and the actual angle between them) being only 0.01°.",
+        "Frank has stopped the orb-rate rotation of the spacecraft and \"gone inertial\" which simply means that the spacecraft's attitude is now fixed with respect to the stars."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 74 hours, 35 minutes into the flight.",
+        "And in the last 10 or 15 minutes we've had a couple of brief exchanges with the crew, who still seem to be in a rather resting mode, but here are those exchanges, primarily numbers updates.",
+        "We have the tapes."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston."
+      ],
+      "speaker": "Collins",
+      "time": "0743601"
+    },
+    {
+      "tokens": [
+        "Go."
+      ],
+      "speaker": "Borman",
+      "time": "0743607"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "For Bill - the voice quality on the backside DSE is extremely poor.",
+        "We consider it unusable, and we recommend that all pertinent comments be hand recorded so we don't lose them.",
+        "We should not count on using the tape at low bit rate for voice."
+      ],
+      "speaker": "Collins",
+      "time": "0743608"
+    },
+    {
+      "tokens": [
+        "The available recording has only caught the last part of the current conversation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We're getting so busy that we are having a hard time trying to do a neat job of logging.",
+        "I'll try to do it on the Flight Plan; and if I make any visual observations, we'll put them on the DSE and I'll try to scribble some notes here and there."
+      ],
+      "speaker": "Anders",
+      "time": "0743632"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand.",
+        "Now high bit-rate is working great."
+      ],
+      "speaker": "Collins",
+      "time": "0743649"
+    },
+    {
+      "tokens": [
+        "The only part of the last pass that has survived is the section that was recorded in high bit-rate."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Anders",
+      "time": "0743659"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Houston, Apollo 8."
+      ],
+      "speaker": "Borman",
+      "time": "0743827"
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Over."
+      ],
+      "speaker": "Collins",
+      "time": "0743830"
+    },
+    {
+      "tokens": [
+        "How about giving us the TV times for the ninth rev, will you please?"
+      ],
+      "speaker": "Borman",
+      "time": "0743835"
+    },
+    {
+      "tokens": [
+        "Oh, we sure will, Frank.",
+        "Stand by."
+      ],
+      "speaker": "Collins",
+      "time": "0743838"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "When it comes, this will be the fourth TV transmission of the flight and, as it will turn out, by far the most historic."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston."
+      ],
+      "speaker": "Collins",
+      "time": "0744036"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Borman",
+      "time": "0744040"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're checking into precise start and stop time for the TV, and you are Go for the next rev.",
+        "Over."
+      ],
+      "speaker": "Collins",
+      "time": "0744042"
+    },
+    {
+      "tokens": [
+        "Understand; Go for the next rev.",
+        "Mike, we'd like to, if we could, time the TV to a passing over the terminator.",
+        "We would like to track the terminator with the TV; think that's the most impressive thing we've seen, and that might be the best thing rather than trying to acquire the Earth."
+      ],
+      "speaker": "Borman",
+      "time": "0744051"
+    },
+    {
+      "tokens": [
+        "Okay, Frank.",
+        "That's one of the things we're looking at.",
+        "Right now, we have you ending at about 86 hours and we're looking at extending that few minutes to include that terminator view.",
+        "Over."
+      ],
+      "speaker": "Collins",
+      "time": "0744107"
+    },
+    {
+      "tokens": [
+        "Okay, I don't want us to run into rev 10 very much at all, though."
+      ],
+      "speaker": "Borman",
+      "time": "0744123"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand."
+      ],
+      "speaker": "Collins",
+      "time": "0744128"
+    },
+    {
+      "tokens": [
+        "Rev 10 will be their last full orbit around the Moon.",
+        "In view of the lack of sleep his crew have had and the importance of alertness for the engine burn to return to Earth, Frank wants to keep the time after the TV transmission clear to give everyone a rest.",
+        "However, he is very keen that the terminator be shown on the TV.",
+        "The TV system has a poor signal to noise ratio and does not show the bland features of the noonday lunar surface well.",
+        "The stark light and dark of the terminator scenery will be much more suitable, especially for the show Frank has planned."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 8."
+      ],
+      "speaker": "Anders",
+      "time": "0744130"
+    },
+    {
+      "tokens": [
+        "Go ahead, Apollo 8."
+      ],
+      "speaker": "Collins",
+      "time": "0744131"
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston."
+      ],
+      "speaker": "Collins",
+      "time": "0744136"
+    },
+    {
+      "tokens": [
+        "...since the DSE qual's not so good.",
+        "How do you read, Mike?"
+      ],
+      "speaker": "Anders",
+      "time": "0744137"
+    },
+    {
+      "tokens": [
+        "I read you loud and clear.",
+        "You were cut out about the DSE.",
+        "Say again."
+      ],
+      "speaker": "Collins",
+      "time": "0744143"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Since the qual[ity] is...n't so good, let me give you a quick rundown of the status of photo targets.",
+        "You ready to copy?"
+      ],
+      "speaker": "Anders",
+      "time": "0744150"
+    },
+    {
+      "tokens": [
+        "Ready to copy."
+      ],
+      "speaker": "Collins",
+      "time": "0744159"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "At rev 1, we got photo target 90 and terminator photography south for near-side terminator.",
+        "Starting on rev 2, we've got target 12 and target 10, 14, 16, 19, 20, 21 and 23.",
+        "Unfortunately, we got into a high - I got into the high-speed film there somewhere, and I think those 250-mm targets were on high speed.",
+        "We did change film, and starting out in Tex - Crater Texas, with target 28, 31, 40, 36, plus several targets of opportunity that were recorded on the DSE, but apparently lost.",
+        "Have you been able to copy?"
+      ],
+      "speaker": "Anders",
+      "time": "0744205"
+    },
+    {
+      "tokens": [
+        "Bill's admission that he has grossly overexposed the high speed type-2485 film by inadvertently havingmagazine Gon the camera will lead to careful measures being taken at the photo laboratory, as explained in the post-flight mission report."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "From the1969 Mission Report:\"The film was not used for the dim light astronomical experiments, as planned, but for general lunar surface photography, and a film speed of 80 was erroneously assumed, rather than the actual 2000.",
+        "This difference is about a six-stop overexposure and far beyond the latitude of the film.",
+        "A special chemistry and processing technique was formulated to preserve the recorded data, but it was discovered that the chemistry could not be changed fast enough to prevent the image from chemically destroying itself.",
+        "A procedure was developed to use special film reels in a large tank.",
+        "The process was accomplished at 68°F [20°C], including a bleach step to remove the effect of the vastly overexposed silver and produce a more normal negative.",
+        "The technique proved highly successful and satisfactory images were obtained.",
+        "The wide-latitude processing could significantly reduce workload on future flight crews by permitting more nearly constant exposure settings.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Only the first 17 images frommagazine Gare taken from lunar orbit, most likely at the start of the second revolution.",
+        "The subsequent 64 frames will be taken after TEI as the Moon recedes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yeah, I'm with you, Bill.",
+        "Keep going."
+      ],
+      "speaker": "Collins",
+      "time": "0744313"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I might be calling up too fast.",
+        "Okay.",
+        "On the third rev, we got target 58 and 63 and 65.",
+        "The training photography was accomplished, and it was done on magazine D, which now has [pause] correction, that's magazine E which now shows 95 exposures.",
+        "Magazine D is fresh.",
+        "Magazine K was also used for training photography, and it's showing 0.51.",
+        "[Long pause.]"
+      ],
+      "speaker": "Anders",
+      "time": "0744318"
+    },
+    {
+      "tokens": [
+        "Magazine K is a 16-mm film."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rog, we copy all that, Bill.",
+        "[Long pause.]"
+      ],
+      "speaker": "Collins",
+      "time": "0744422"
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston."
+      ],
+      "speaker": "Collins",
+      "time": "0744436"
+    },
+    {
+      "tokens": [
+        "...Mike, this is Frank again."
+      ],
+      "speaker": "Borman",
+      "time": "0744437"
+    },
+    {
+      "tokens": [
+        "Go ahead, Frank."
+      ],
+      "speaker": "Collins",
+      "time": "0744438"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Borman",
+      "time": "0744440"
+    },
+    {
+      "tokens": [
+        "Rog for Bill."
+      ],
+      "speaker": "Collins",
+      "time": "0744441"
+    },
+    {
+      "tokens": [
+        "...around."
+      ],
+      "speaker": "Borman",
+      "time": "0744442"
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston standing by."
+      ],
+      "speaker": "Collins",
+      "time": "0744446"
+    },
+    {
+      "tokens": [
+        "I say is Rod Rose around?"
+      ],
+      "speaker": "Borman",
+      "time": "0744451"
+    },
+    {
+      "tokens": [
+        "Stand by one, Frank; we'll look for him, and while we're doing that, for Bill the DSE voice quality on high bit rate is very good, so if he wants to use the DSE in high bit rate for a limited amount of time to record important things, we suggest that he do that.",
+        "We'd like him to wait 20 seconds after turning it on prior to talking.",
+        "Over."
+      ],
+      "speaker": "Collins",
+      "time": "0744454"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Anders",
+      "time": "0744528"
+    },
+    {
+      "tokens": [
+        "Thank you, Bill.",
+        "[Pause.]"
+      ],
+      "speaker": "Collins",
+      "time": "0744530"
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston."
+      ],
+      "speaker": "Collins",
+      "time": "0744538"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Borman",
+      "time": "0744543"
+    },
+    {
+      "tokens": [
+        "Rod Rose is sitting up in the viewing room; he can hear what you say."
+      ],
+      "speaker": "Collins",
+      "time": "0744544"
+    },
+    {
+      "tokens": [
+        "I wonder if he is ready for experiment P-1?"
+      ],
+      "speaker": "Borman",
+      "time": "0744550"
+    },
+    {
+      "tokens": [
+        "He says thumbs up on P-1.",
+        "[Pause.]"
+      ],
+      "speaker": "Collins",
+      "time": "0744556"
+    },
+    {
+      "tokens": [
+        "Rod Rose is a fellow member with Frank at St.",
+        "Christopher's Episcopal Church near Seabrook, Texas, as well as being an engineer at Mission Control.",
+        "Of course, \"Experiment P-1\" is a codeword for a pre-arranged reading for Frank's church."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, with reference to the DSE on high bit rate, what I'd like to do then is, if you got the last pass, I'd like to play it - run it back and start at AOS on low bit rate and then go to high when we need it.",
+        "How would that be?",
+        "[Pause.]"
+      ],
+      "speaker": "Anders",
+      "time": "0744604"
+    },
+    {
+      "tokens": [
+        "John Aaron buys it."
+      ],
+      "speaker": "Collins",
+      "time": "0744627"
+    },
+    {
+      "tokens": [
+        "Okay, Mike.",
+        "This is Frank again."
+      ],
+      "speaker": "Borman",
+      "time": "0744632"
+    },
+    {
+      "tokens": [
+        "Go."
+      ],
+      "speaker": "Collins",
+      "time": "0744636"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Rod and I got together, and I was going to record a little - saying a little prayer for the church service tonight.",
+        "And I wonder - I guess that's what we are ready on?"
+      ],
+      "speaker": "Borman",
+      "time": "0744640"
+    },
+    {
+      "tokens": [
+        "Stand by one, Frank."
+      ],
+      "speaker": "Collins",
+      "time": "0744656"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Borman",
+      "time": "0744700"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Author, Bob Zimmerman expands on this episode in his bookGenesis: The Story of Apollo 8.Frank had wanted to participate as a lay-reader in the Christmas service at his church but the flight of Apollo 8 precluded that.",
+        "His fellow parishioner, Rod Rose, suggested that Frank read a prayer from the Moon which could be replayed during the service.",
+        "Frank is about to make that reading."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 8.",
+        "Are you still there?"
+      ],
+      "speaker": "Borman",
+      "time": "0744941"
+    },
+    {
+      "tokens": [
+        "You're still loud and clear, Frank.",
+        "[Long pause.]"
+      ],
+      "speaker": "Collins",
+      "time": "0744943"
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Go ahead, Frank, with your message."
+      ],
+      "speaker": "Collins",
+      "time": "0745001"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "This is to Rod Rose and the people at St.",
+        "Christopher's, actually to people everywhere.",
+        "Give us, O God, the vision which can see thy love in the world in spite of human failure.",
+        "Give us the faith to trust the goodness in spite of our ignorance and weakness.",
+        "Give us the knowledge that we may continue to pray with understanding hearts, and show us what each one of us can do to set forth the coming of the day of universal peace.",
+        "Amen."
+      ],
+      "speaker": "Borman",
+      "time": "0745007"
+    },
+    {
+      "tokens": [
+        "Amen."
+      ],
+      "speaker": "Collins",
+      "time": "0745035"
+    },
+    {
+      "tokens": [
+        "I was supposed to lay-read tonight, and I couldn't quite make it."
+      ],
+      "speaker": "Borman",
+      "time": "0745036"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "I think they understand."
+      ],
+      "speaker": "Collins",
+      "time": "0745042"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, how do you read?",
+        "Apollo 8."
+      ],
+      "speaker": "Borman",
+      "time": "0745157"
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Over."
+      ],
+      "speaker": "Collins",
+      "time": "0745202"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead."
+      ],
+      "speaker": "Borman",
+      "time": "0745207"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Frank, we'd like to know about the water chlorination.",
+        "Have you - when was the last time you chlorinated the water?",
+        "Over."
+      ],
+      "speaker": "Collins",
+      "time": "0745209"
+    },
+    {
+      "tokens": [
+        "About an hour and a half ago; we've already done it."
+      ],
+      "speaker": "Borman",
+      "time": "0745216"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy an hour and a half ago.",
+        "Affirmative?"
+      ],
+      "speaker": "Collins",
+      "time": "0745222"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You know we wouldn't forget that."
+      ],
+      "speaker": "Borman",
+      "time": "0745228"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Collins",
+      "time": "0745236"
+    },
+    {
+      "tokens": [
+        "Jim spilled a little, and it smelled like a bucket of Clorox about an hour ago."
+      ],
+      "speaker": "Borman",
+      "time": "0745240"
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Say again."
+      ],
+      "speaker": "Collins",
+      "time": "0745251"
+    },
+    {
+      "tokens": [
+        "I said Jim inadvertently spilled some of that chlorine, and it smelled like a bucket of Clorox in here a little while."
+      ],
+      "speaker": "Borman",
+      "time": "0745257"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand."
+      ],
+      "speaker": "Collins",
+      "time": "0745306"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The spacecraft's water system has a small, rubber-membrane port through which an ampule of chlorine can be injected.",
+        "This is intended to kill bacteria that may build up in the drinking water supply."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Over."
+      ],
+      "speaker": "Collins",
+      "time": "0745840"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston.",
+        "Apollo 8."
+      ],
+      "speaker": "Borman",
+      "time": "0745850"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We have two and a half minutes to LOS, and all systems are looking good.",
+        "Everything's looking just fine down here, Frank."
+      ],
+      "speaker": "Collins",
+      "time": "0745852"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Borman",
+      "time": "0745902"
+    },
+    {
+      "tokens": [
+        "We'll have some more information on the TV on the next rev.",
+        "We don't - we're not planning any big change in the time, just to extend them a little bit, I think, closer to the terminator."
+      ],
+      "speaker": "Collins",
+      "time": "0745906"
+    },
+    {
+      "tokens": [
+        "Just give us the time, will you, because we just want to know when it is.",
+        "I'd like to get the terminator if we could, and we've got a little message, and that's it."
+      ],
+      "speaker": "Borman",
+      "time": "0745921"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We'll do that the next time you come around."
+      ],
+      "speaker": "Collins",
+      "time": "0745929"
+    },
+    {
+      "tokens": [
+        "Thank you.",
+        "Okay.",
+        "And have the EECOM guys keep a sharp watch on our systems.",
+        "Old Anders is so busy fooling around with these pictures that - not much else is getting done."
+      ],
+      "speaker": "Borman",
+      "time": "0745932"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "The EECOM is doing that."
+      ],
+      "speaker": "Collins",
+      "time": "0745947"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Bill Anders has two roles in this mission.",
+        "He has been charged with keeping a close eye on the spacecraft's systems, essentially acting as an onboard EECOM.",
+        "In lunar orbit, he takes care of the mission's photographic task.",
+        "Frank, ever careful of ensuring a safe return to Earth, points out that what with Bill's two roles being somewhat incompatible, EECOM on Earth ought to keep an especially sharp eye on the systems."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Flight Plan indicates that Bill ought to be starting a 45-minute period of vertical stereo photography at 075:15 using a camera mounted in a bracket aimed through one of the rendezvous windows.",
+        "The Photo Index shows that a total of 136 frames are taken with black and white magazine D on Rev 4.",
+        "An intervalometer attachment for the Hasselblad takes the photographs automatically at preset intervals, freeing Bill to take occasional frames with a second Hasselblad of targets of opportunity as he finds them.",
+        "These are also imaged on black and white film, in this case using magazine E, starting at around 075:20 with a series of shots of the far-side terminator."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "A version of this file with noise reduction applied is included."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Two photos, AS08-13-2319 and 2320 are taken looking towards the southeastern horizon.",
+        "The hills on the horizon are part of a ridge that runs south of crater Wisling and north of Plummer and may be part of the rim of the South Pole-Aitken Basin, the largest basin on the Moon.",
+        "In 2319, the left peak is sited at approximately 22.5°S, 156.1°W.",
+        "The crater slightly right of centre is Mohorovicic D and the larger crater to the lower right is Mohorovicic A.",
+        "In the foreground is a line of small secondary craters which are part of the ejecta system coming from Crookes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "AS08-13-2320 shows the same ridge of hills but from a viewpoint substantially further east.",
+        "The right-hand end of the line of hills seen in 2319 now dominate the centre of the horizon.",
+        "The western rim of crater McKellar is to the lower right with that crater's central peaks visible on the edge of the photo."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Three frames are taken of target 19 that show the north rim of Aitken including Aitken Z.The specific subject of this target seem to be a series of bulbous hills within crater rims on Aitken's mare floor.",
+        "Bill's sequence misses them but they are seen to the right of Aitken's interior inLunar Orbiter II photo II-033-H3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Judging from the photographic record, it is possible that Bill is referring to frame 106, which isAS08-13-2320, mentioned above."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Bill is about to change the aperture of the camera with which he is taking the vertical stereo images.",
+        "Over the terminator, the Sun's light is not so strong so a large aperture is used to bring out the detail in the landforms betrayed by the low angle sunlight."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "As well as presenting each individual image from the vertical stereo sequence, we have compiled strips from sections of the entire pass using index photographs."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Immediately west of the terminator, this composite image covers a narrow strip that runs across the diameter of the walled plain, Korolev, and the terrain out to the west.",
+        "Note the keyhole-shaped crater within Korolev.",
+        "A small craterlet on the north side of Keyhole is a control point for Jim's landmark sighting exercises."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "By our count, Bill is talking about AS08-13-2325."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This composite image is constructed from frames AS08-12-2076 to 2105.",
+        "The image runs between the lines of longitude 178°W and 150°E and cuts through the craters Keeler and Heaviside.",
+        "Note how the shadows become virtually nonexistent as the spacecraft moves from right to left."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We believe this is AS08-13-2331."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Continuing Bill's vertical stereo sequence, this image is a composite of frames AS08-12-2106 to 2123 with crater Chauvenet being the main feature.",
+        "The high-angle lighting, however, renders the crater almost invisible with the smaller, fresher craters dominating the landscape.",
+        "The image centreline runs along the 12°S line of latitude between the lines of longitude 152°E on the right and 133°E on the left."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 75 hours, 37 minutes into the flight.",
+        "Before we lost signal with the spacecraft, some half hour ago, I suppose, 20 minutes ago, Frank Borman came up on the line and said he would like to dedicate a prayer to the people of St.",
+        "John's [means St.",
+        "Christopher's] church, his church here in Seabrook and he added to all the people of the world.",
+        "Here is that prayer."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "That was Frank Borman reading a prayer, he mentioned the name to Rod Rose and the people of St.",
+        "John's [means St.",
+        "Christopher's, see below].",
+        "Rod Rose is an assistant to Chris Kraft, the Flight Operations Director.",
+        "He is a member of the same church.",
+        "And we'll see to it that St.",
+        "John's receives a high fidelity quality copy of that tape for an evening service tonight which Frank Borman regrets that he could not make.",
+        "There is - there was other conversation, primarily updates on contingency type events.",
+        "Those events and that tape will be passed directly to the transcriptionist end of the pool.",
+        "At 75 hours, 39 minutes into the flight, this is Apollo Control, we're about 8 minutes from acquisition on our upcoming rev across the face of the Moon.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Frank actually dedicated the prayer to the people of St.",
+        "Christopher's church.",
+        "The PAO has mistakenly named Jim Lovell's church, St.",
+        "John's.",
+        "He will correct this in a later announcement."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Verb 64 provides the crew with S-band High Gain Antenna angles, necessary for pointing the antenna at Earth."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We count this as frame 113 in magazine E.",
+        "However, it is now catalogued as AS08-13-2327."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This image dramatically shows the ray pattern from a simple, near vertical impact.",
+        "Close to the crater, the ejecta blanket is continuous.",
+        "Two crater diameters out, the blanket becomes discontinuous."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Frame AS08-13-2328 shows the difference in the ray pattern when the impact comes from a meteorite strike at a low angle.",
+        "In particular, there is an excluded zone around the crater about 120° wide in which there is little sign of ejecta.",
+        "This indicates that the incoming projectile came in from the top left of the photograph.",
+        "Within the excluded zone is Denning V, mainly distinguishable by its dark floor."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Bill is continuing the vertical stereo sequence."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Composited image of frames AS08-12-2124 to 2135.",
+        "There is essentially no visible relief and in our compositing work, we have tried to dodge around the zero-phase bright spots that each individual image exhibited.",
+        "Craters Danjon and Shirakatsi, though large and important in this region, are difficult to spot."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day4_lunar_orbit_3.html"
+}

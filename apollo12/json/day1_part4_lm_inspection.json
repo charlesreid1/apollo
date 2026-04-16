@@ -1,0 +1,2700 @@
+{
+  "description": "Apollo 12 Flight Journal - Day 1, part 4: LM Inspection",
+  "transcript": [
+    {
+      "tokens": [
+        "This is Apollo Control at 5 hours and 7 minutes.",
+        "We're back live now with air/ground.",
+        "Apollo 12 is 19,645 nautical miles [36,383 km] from Earth.",
+        "Velocity, 13,443 feet per second [4,097 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "The word 'Aux' that you've heard in the last few transmissions is A-U-X, stands for Auxiliary."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 12, Houston."
+      ],
+      "speaker": "Carr",
+      "time": "0052148"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Gordon",
+      "time": "0052151"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "If you'll give us P00 and Accept, we'll fire up some - a new REFSMMAT, a zero trunnion bias, and a CMC clock update.",
+        "Over."
+      ],
+      "speaker": "Carr",
+      "time": "0052153"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It's all yours."
+      ],
+      "speaker": "Gordon",
+      "time": "0052203"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Carr",
+      "time": "0052205"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 5 hours, 23 minutes.",
+        "Apollo 12's distance from Earth is 21,475 nautical miles [39,772 km].",
+        "Velocity, 12,883 feet per second [3,927 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Houston, 12."
+      ],
+      "speaker": "Gordon",
+      "time": "0052534"
+    },
+    {
+      "tokens": [
+        "Go ahead, 12."
+      ],
+      "speaker": "Carr",
+      "time": "0052535"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Doing the P23 at 6 hours.",
+        "You gave me this attitude after we left that S-IVB, but the Flight Plan has star 15 for the optics cal, 204, 262, 0.",
+        "Are you going to change that?"
+      ],
+      "speaker": "Gordon",
+      "time": "0052538"
+    },
+    {
+      "tokens": [
+        "Dick, you'll have a new REFSMMAT at that time, and your inertial attitude ought to be - be that now.",
+        "Once you put in your new REFSMMAT, you ought to be in good shape."
+      ],
+      "speaker": "Carr",
+      "time": "0052601"
+    },
+    {
+      "tokens": [
+        "Oh, very good, very good.",
+        "I understand.",
+        "I was just behind you, I guess."
+      ],
+      "speaker": "Gordon",
+      "time": "0052613"
+    },
+    {
+      "tokens": [
+        "That's the maneuver we were trying to save you."
+      ],
+      "speaker": "Carr",
+      "time": "0052616"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Gordon",
+      "time": "0052621"
+    },
+    {
+      "tokens": [
+        "12, Houston.",
+        "The computer is yours."
+      ],
+      "speaker": "Carr",
+      "time": "0052625"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Gordon",
+      "time": "0052630"
+    },
+    {
+      "tokens": [
+        "And if you can find the time in your busy social schedule, I got a P37 PAD for you."
+      ],
+      "speaker": "Carr",
+      "time": "0052632"
+    },
+    {
+      "tokens": [
+        "Okay, just stand by.",
+        "We'll find the book."
+      ],
+      "speaker": "Gordon",
+      "time": "0052643"
+    },
+    {
+      "tokens": [
+        "Okay, this an LO plus 15, lift-off plus 15."
+      ],
+      "speaker": "Carr",
+      "time": "0052646"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Go ahead with that P37, Houston."
+      ],
+      "speaker": "Bean",
+      "time": "0052851"
+    },
+    {
+      "tokens": [
+        "Roger, 12.",
+        "This is just a four liner.",
+        "Lift-off plus 15, GET is 015:00, 4714, minus 168, 050:06.",
+        "Over."
+      ],
+      "speaker": "Carr",
+      "time": "0052856"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "015:00, 4714, minus 168, 050:06."
+      ],
+      "speaker": "Bean",
+      "time": "0052923"
+    },
+    {
+      "tokens": [
+        "Roger, Al."
+      ],
+      "speaker": "Carr",
+      "time": "0052931"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The P37 PAD is interpreted as follows:Purpose:This is an emergency return to Earth that would take place some 15 hours into the mission.",
+        "It would be performed using the large SPS engine, primary computer guidance, and would require jettisoning the LM.Time of ignition, GETI:15 hours, 00 minutes, 00 seconds.Delta-VT:4,714 fps (1,437 m/s).",
+        "This represents the total velocity change of the maneuver.Longitude (LONG):-168°.",
+        "This is the estimated longitude for the Earth landing point for reentry, stated in degrees.Predicted GET of 0.05g event (GET 400K):Expected at 50 hours, 6 minutes GET.",
+        "This is when it is expected that the EMS and P64 will be triggered."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That was information that would be needed by the crew for an abort at 15 hours after lift-off."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 12, Houston."
+      ],
+      "speaker": "Carr",
+      "time": "0053157"
+    },
+    {
+      "tokens": [
+        "Go ahead, Jer."
+      ],
+      "speaker": "Conrad",
+      "time": "0053200"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "What do you say we break the simulation down and debrief it now, and the backup crew's ready to get in."
+      ],
+      "speaker": "Carr",
+      "time": "0053201"
+    },
+    {
+      "tokens": [
+        "Yes, I imagine they are ready to get in now.",
+        "[Pause.] You can tell SimSup that's a new one to work on."
+      ],
+      "speaker": "Conrad",
+      "time": "0053209"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Carr",
+      "time": "0053221"
+    },
+    {
+      "tokens": [
+        "It's a good thing we've never seen it before because we sure didn't know what to do about it."
+      ],
+      "speaker": "Bean",
+      "time": "0053227"
+    },
+    {
+      "tokens": [
+        "Oh, you did pretty good."
+      ],
+      "speaker": "Carr",
+      "time": "0053234"
+    },
+    {
+      "tokens": [
+        "That's right, absolutely nothing."
+      ],
+      "speaker": "Bean",
+      "time": "0053238"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "SimSup is the simulation supervisor."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 12."
+      ],
+      "speaker": "Gordon",
+      "time": "0053639"
+    },
+    {
+      "tokens": [
+        "Go ahead, 12."
+      ],
+      "speaker": "Carr",
+      "time": "0053642"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "You do have the PTC REFSMMAT in now.",
+        "Is that correct?"
+      ],
+      "speaker": "Gordon",
+      "time": "0053644"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "On that last one, Dick, we sent you a PTC REFSMMAT, a zero trunnion bias, and a CMC clock update."
+      ],
+      "speaker": "Carr",
+      "time": "0053652"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Gordon",
+      "time": "0053703"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Houston, this is 12."
+      ],
+      "speaker": "Gordon",
+      "time": "0054531"
+    },
+    {
+      "tokens": [
+        "12, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Carr",
+      "time": "0054540"
+    },
+    {
+      "tokens": [
+        "Roger, Jerry.",
+        "The reason I'm having trouble with this alignment - first star was Canopus.",
+        "I got that okay in the sextant.",
+        "The second star in Picapar is Procyon, and I don't have anything in the sextant."
+      ],
+      "speaker": "Gordon",
+      "time": "0054542"
+    },
+    {
+      "tokens": [
+        "Right.",
+        "Stand by, Dick."
+      ],
+      "speaker": "Carr",
+      "time": "0054600"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Astronaut Ed Gibson is the CapCom now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, CDR.",
+        "How do you read?"
+      ],
+      "speaker": "Conrad",
+      "time": "0054716"
+    },
+    {
+      "tokens": [
+        "We read you loud and clear, 12.",
+        "Go ahead."
+      ],
+      "speaker": "Gibson",
+      "time": "0054721"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "No, this is CDR.",
+        "I'm on the lightweight headset now.",
+        "Just checking."
+      ],
+      "speaker": "Conrad",
+      "time": "0047225"
+    },
+    {
+      "tokens": [
+        "He just couldn't see it."
+      ],
+      "speaker": "Bean",
+      "time": "0054732"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "12, Houston."
+      ],
+      "speaker": "Gibson",
+      "time": "0054842"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Gordon",
+      "time": "0054847"
+    },
+    {
+      "tokens": [
+        "We're observing a weak signal down here.",
+        "We'd like you to go ahead and track - check the position of the track mode switch and also the beam width."
+      ],
+      "speaker": "Gibson",
+      "time": "0054849"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We've been operating on Omni's.",
+        "Do you want us to go to high gain now?"
+      ],
+      "speaker": "Gordon",
+      "time": "0054858"
+    },
+    {
+      "tokens": [
+        "That is negative, 12."
+      ],
+      "speaker": "Gibson",
+      "time": "0054905"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We are presently in Omni A."
+      ],
+      "speaker": "Gordon",
+      "time": "0054916"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At 5 hours, 15 [50] minutes Elapsed Time, Apollo 12's distance from Earth is 24,561 nautical miles [45,487 km], velocity is 12,062 feet per second [3,676 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "12, Houston."
+      ],
+      "speaker": "Gibson",
+      "time": "0055155"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Gordon",
+      "time": "0055159"
+    },
+    {
+      "tokens": [
+        "We recommend that you use star 12 or star 15 for your second star."
+      ],
+      "speaker": "Gibson",
+      "time": "0055200"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Gordon",
+      "time": "0055206"
+    },
+    {
+      "tokens": [
+        "Houston, are you looking at the DSKY?"
+      ],
+      "speaker": "Conrad",
+      "time": "0055254"
+    },
+    {
+      "tokens": [
+        "Affirmative, 12."
+      ],
+      "speaker": "Gibson",
+      "time": "0055259"
+    },
+    {
+      "tokens": [
+        "Houston, you are looking at the torquing angles?"
+      ],
+      "speaker": "Conrad",
+      "time": "0055307"
+    },
+    {
+      "tokens": [
+        "We have them, 12."
+      ],
+      "speaker": "Gibson",
+      "time": "0055312"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Torquing at this time."
+      ],
+      "speaker": "Conrad",
+      "time": "0055314"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Conrad",
+      "time": "0055316"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Dick has completed the third realignment of the guidance platform on this mission, and the first beyond low Earth orbit.",
+        "Using P52, he sighted on star 14 (Canopus, Alpha Carinae) and star 16 (Procyon, Alpha Canis Minoris).",
+        "As a result of these sightings, the computer determined that the platform had to be rotated, or 'torqued' by +0.764° in X, +0.576° in Y and -1.187° in Z.",
+        "As a check of his accuracy in sighting the two stars, the computer compared the known angle between them to the measured angle.",
+        "If the two are the same, five zeros would be displayed when he calls up Noun 05, known as 'all balls'.",
+        "In this case, he has achieved a difference of 0.01°; still a very good value."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston, 12."
+      ],
+      "speaker": "Gordon",
+      "time": "0055614"
+    },
+    {
+      "tokens": [
+        "12, go ahead."
+      ],
+      "speaker": "Gibson",
+      "time": "0055617"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "How does the Flight Plan look for this first set of P23s?",
+        "Okay?"
+      ],
+      "speaker": "Gordon",
+      "time": "0055620"
+    },
+    {
+      "tokens": [
+        "Stand by, Dick."
+      ],
+      "speaker": "Gibson",
+      "time": "0055626"
+    },
+    {
+      "tokens": [
+        "12, go ahead.",
+        "There are no changes so far."
+      ],
+      "speaker": "Gibson",
+      "time": "0055637"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We are going to do the Verb - first maneuver Verb 49 to get the boresight star."
+      ],
+      "speaker": "Gordon",
+      "time": "0055641"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Gibson",
+      "time": "0055648"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 5 hours, 58 minutes.",
+        "We are having a shift change in the Mission Control Center at this time.",
+        "We are estimating the Change of Shift News Conference to begin in approximately 15 minute.",
+        "Change of Shift News Conference in approximately 15 minutes."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 6 hours, 8 minutes now into the flight of Apollo 12.",
+        "In Mission Control Center, Houston, we have just completed a hand-over, change of shift.",
+        "At this time, Flight Director Pete Frank and his Orange Team of flight controllers now aboard.",
+        "As we sit here surveying the room, the Apollo 12 spacecraft, the Command ModuleYankee Clipper, the Lunar ModuleIntrepid, currently 26,534 nautical miles [49,141 km] above the Earth.",
+        "We now read a velocity of 11,602 feet per second [3,536 m/s].",
+        "Spacecraft weight at this time, 97,157 pounds [44,070 kg].",
+        "The atmosphere of the control center somewhat quieter than perhaps it was earlier in the day.",
+        "Flight Director Pete Frank at this time talking specifically to his EECOM who has just come aboard.",
+        "And as was recorded earlier, Ed Gibson has replaced Jerry Carr in our CapCom position.",
+        "No conversation from the spacecraft for the past few minutes but we'll standby and continue to monitor.",
+        "At 6 hours and 9 minutes into the flight; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; at 6 hours, 13 minutes now into the flight of Apollo 12.",
+        "The Apollo 12 spacecraft's altitude at this time, 27,043.8 nautical miles [50,085.1 km] above the Earth.",
+        "Current velocity now reading 11,485 feet per second [3,501 m/s].",
+        "We understand the Change of Shift News Conference will start momentarily in the News Center, therefore we will take down the release line from Mission Control for the duration of that conference.",
+        "At 6 hours, 14 minutes into the flight; this is Apollo Control, Houston signing off for now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 12."
+      ],
+      "speaker": "Gordon",
+      "time": "0061958"
+    },
+    {
+      "tokens": [
+        "12, go ahead."
+      ],
+      "speaker": "Gibson",
+      "time": "0062002"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Are you copying this P23 data?"
+      ],
+      "speaker": "Gordon",
+      "time": "0062004"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Dick."
+      ],
+      "speaker": "Gibson",
+      "time": "0062008"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I was just wondering.",
+        "You haven't been hollering at me, yet."
+      ],
+      "speaker": "Gordon",
+      "time": "0062010"
+    },
+    {
+      "tokens": [
+        "It's looking good."
+      ],
+      "speaker": "Gibson",
+      "time": "0062017"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "12, Houston."
+      ],
+      "speaker": "Gibson",
+      "time": "0062936"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Conrad",
+      "time": "0062939"
+    },
+    {
+      "tokens": [
+        "12, we've been thinking about the LM check-out procedures.",
+        "We'd like your thoughts on whether you want to go in there as soon as you finish up with the P23."
+      ],
+      "speaker": "Gibson",
+      "time": "0062941"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We can do that.",
+        "We could get into PTC and then go on in there.",
+        "What do you got in mind?"
+      ],
+      "speaker": "Conrad",
+      "time": "0062954"
+    },
+    {
+      "tokens": [
+        "I guess what I'm asking is what do you people think may have happened?",
+        "Do you think we might have blown some breakers out or something?"
+      ],
+      "speaker": "Conrad",
+      "time": "0063008"
+    },
+    {
+      "tokens": [
+        "Pete, that's affirmative.",
+        "We'd like to go ahead and check the position of several breakers just to make sure that we are getting the heaters coming off and on on all of the systems as we should be."
+      ],
+      "speaker": "Gibson",
+      "time": "0063021"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "If you think that's a good idea, and we'll get ready to do that now.",
+        "I think, what we'd like to do here is - Al is - I've gotten all the way out of my suit, but I still have to stow it.",
+        "Al is working his way out of his right now while Dick's doing the P23, so we want to get Dick unsuited.",
+        "We want to get everybody cleaned up here and get this spacecraft stowed.",
+        "And then we'd like to go in the LM, I think; we've got plenty of time.",
+        "Do you agree with that?"
+      ],
+      "speaker": "Conrad",
+      "time": "0063036"
+    },
+    {
+      "tokens": [
+        "12, that's affirmative.",
+        "It sounds good.",
+        "We would like to get into the LM before 8 hours GET."
+      ],
+      "speaker": "Gibson",
+      "time": "0063126"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, we'll give her a go.",
+        "What's your reason for wanting to get in so quick?"
+      ],
+      "speaker": "Conrad",
+      "time": "0063134"
+    },
+    {
+      "tokens": [
+        "Stand by, Pete."
+      ],
+      "speaker": "Gibson",
+      "time": "0063143"
+    },
+    {
+      "tokens": [
+        "Old curious Pete.",
+        "You got to give me a reason.",
+        "[Pause.]"
+      ],
+      "speaker": "Conrad",
+      "time": "0063147"
+    },
+    {
+      "tokens": [
+        "12, Houston."
+      ],
+      "speaker": "Gibson",
+      "time": "0063210"
+    },
+    {
+      "tokens": [
+        "Go."
+      ],
+      "speaker": "Conrad",
+      "time": "0063212"
+    },
+    {
+      "tokens": [
+        "Pete, one of the reasons we want to get in there early is there is a possibility that the ASA heater is not cycling the way it should be.",
+        "In which case, 8 hours is the limit, and we ought to get a look at it before that time."
+      ],
+      "speaker": "Gibson",
+      "time": "0063213"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston.",
+        "Standing by."
+      ],
+      "speaker": "Conrad",
+      "time": "0063236"
+    },
+    {
+      "tokens": [
+        "Pete, I repeat.",
+        "The reason we'd like to get in there before 8 hours GET is that the ASA heater may not be cycling, and the thermal limit then is about 8 hours, so we'd like to get in there before 8 hours and check the position of that circuit breaker to make sure it hasn't pooped and look at the status of the system."
+      ],
+      "speaker": "Gibson",
+      "time": "0063241"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll - we'll - we - we'll - we'll hustle."
+      ],
+      "speaker": "Conrad",
+      "time": "0063304"
+    },
+    {
+      "tokens": [
+        "Okay, and Pete, we also have the LM check-out procedure that you'll be following for the - going through the activation checklist, and we're ready to read that up to you any time."
+      ],
+      "speaker": "Gibson",
+      "time": "0063310"
+    },
+    {
+      "tokens": [
+        "[Garble.]"
+      ],
+      "speaker": "SC",
+      "time": "0063324"
+    },
+    {
+      "tokens": [
+        "You're going to have to hold it for a minute, Houston."
+      ],
+      "speaker": "Conrad",
+      "time": "0063325"
+    },
+    {
+      "tokens": [
+        "Hey, Houston.",
+        "This is 12, and I'd like to continue this last set of 23's without doing another trunnion bias.",
+        "Just a half hour, right now."
+      ],
+      "speaker": "Gordon",
+      "time": "0063328"
+    },
+    {
+      "tokens": [
+        "Roger, Dick."
+      ],
+      "speaker": "Gibson",
+      "time": "0063338"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 6 hours 37 minutes now into the flight of Apollo 12.",
+        "The Apollo 12 spacecraft at the present time has a velocity reading of 10,980 feet per second [3,347 m/s].",
+        "We currently register now an altitude of 29,549 nautical miles [54,725 km]..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We are done with the P23's - and - I guess we're going to get ready to maneuver to PTC attitude then."
+      ],
+      "speaker": "Conrad",
+      "time": "0063844"
+    },
+    {
+      "tokens": [
+        "Pete, repeat after \"I've finished with the P23.\" You're breaking up."
+      ],
+      "speaker": "Gibson",
+      "time": "0063902"
+    },
+    {
+      "tokens": [
+        "Okay, we're getting ready to go into a PTC, or do you want us to hold the attitude we have right now as we go into the LM?"
+      ],
+      "speaker": "Conrad",
+      "time": "0063910"
+    },
+    {
+      "tokens": [
+        "Stand by on that, Pete.",
+        "[Long pause.]"
+      ],
+      "speaker": "Gibson",
+      "time": "0063924"
+    },
+    {
+      "tokens": [
+        "Pete, if you'll hold your present attitude, we'll get an answer up to you in about 3 or 4 minutes."
+      ],
+      "speaker": "Gibson",
+      "time": "0063943"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're not going anywhere.",
+        "[Pause.]"
+      ],
+      "speaker": "Conrad",
+      "time": "0063950"
+    },
+    {
+      "tokens": [
+        "12, Houston.",
+        "Would you go over and try Omni Bravo?"
+      ],
+      "speaker": "Gibson",
+      "time": "0064007"
+    },
+    {
+      "tokens": [
+        "Going to Omni Bravo."
+      ],
+      "speaker": "Bean",
+      "time": "0064013"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "As you heard in that exchange between CapCom Ed Gibson and Commander Pete Conrad, we are considering having commander Conrad and Alan Bean, the Lunar Module pilot, go into the Lunar Module some time prior to 8 hours Ground Elapsed Time.",
+        "The ASA or ASA heater referred to there - ASA is an acronym for Abort Sensor Assembly - a part of the Abort Guidance System of the gyros.",
+        "So this would be the heaters associated with that system.",
+        "At 6 hours, 43 minutes into the flight; we'll continue to monitor the air-to-ground between capsule communicator Ed Gibson and the Apollo 12 crew.",
+        "Standing by; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston; Apollo 12."
+      ],
+      "speaker": "Gordon",
+      "time": "0064425"
+    },
+    {
+      "tokens": [
+        "12, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Gibson",
+      "time": "0064429"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Are you going to fix up our state vector?"
+      ],
+      "speaker": "Gordon",
+      "time": "0064432"
+    },
+    {
+      "tokens": [
+        "Stand by, Dick.",
+        "[Long pause.]"
+      ],
+      "speaker": "Gibson",
+      "time": "0064438"
+    },
+    {
+      "tokens": [
+        "12, we'll have one ready for you at about 10 hours."
+      ],
+      "speaker": "Gibson",
+      "time": "0064455"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Gordon",
+      "time": "0064505"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "12, Houston."
+      ],
+      "speaker": "Gibson",
+      "time": "0064925"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Bean",
+      "time": "0064929"
+    },
+    {
+      "tokens": [
+        "12, you can go ahead and hold off on the PTC and enter the LM with your present attitude.",
+        "We would like you to first, before you go in, check the Delta-P, LM/CM Delta-P, give us a reading on that and then we have a series of switch and circuit breaker configuration checks, then check the TM and the LGC.",
+        "We have an abbreviation, or abbreviated procedures taken out of the activation checklist, and we're ready to read that up to you when you're ready to copy."
+      ],
+      "speaker": "Gibson",
+      "time": "0064931"
+    },
+    {
+      "tokens": [
+        "12, Houston."
+      ],
+      "speaker": "Gibson",
+      "time": "0065131"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Gordon",
+      "time": "0065135"
+    },
+    {
+      "tokens": [
+        "Did you get our last transmission, and would you give us a call when you're ready to copy the LM check-out steps?"
+      ],
+      "speaker": "Gibson",
+      "time": "0065138"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You're going to have to give us a few minutes.",
+        "We're still reconfiguring getting out of suits up here yet."
+      ],
+      "speaker": "Gordon",
+      "time": "0065146"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thanks, Dick."
+      ],
+      "speaker": "Gibson",
+      "time": "0065152"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That was Dick Gordon, identifying to Capsule Communicator Ed Gibson that the 12 crew is now getting out of their spacesuits.",
+        "At the present time we read a velocity of 10,701 feet per second [3,262 m/s], an altitude of 31,013.4 nautical miles [57,436.8 km].",
+        "At 6 hours, 52 minutes into the mission of Apollo 12, we will continue to monitor the air-to-ground loop."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 12."
+      ],
+      "speaker": "Conrad",
+      "time": "0065657"
+    },
+    {
+      "tokens": [
+        "12, Houston."
+      ],
+      "speaker": "Gibson",
+      "time": "0065700"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're ready to copy those instructions you've got about the activities you want us to perform in the LM."
+      ],
+      "speaker": "Conrad",
+      "time": "0065702"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I only follow.",
+        "First, before you go in we'd like you to read us down the Delta-P from the LM Command Module, and then the abbreviated procedures to go through on the Activation Checklist are as follows: the activation l, steps l, 2, 3; activation 2, step 2.",
+        "And activation 3 through activation 9, perform all.",
+        "On activation 10, steps through 18, activation 11, steps l, 2, 3; activation 12, through step 4.",
+        "The comm configuration is as follows: PM, Prime, Prime, Off; PCM, Off/Reset, Off, High."
+      ],
+      "speaker": "Gibson",
+      "time": "0065710"
+    },
+    {
+      "tokens": [
+        "[Garble]..."
+      ],
+      "speaker": "MS",
+      "time": "0065815"
+    },
+    {
+      "tokens": [
+        "...on 11, - circuit breaker Panel 11, LGC/DSKY Closed.",
+        "On activation 27, perform CDR steps 3 through 6; activation 28, through step 7.",
+        "Then if you'll give us a Verb 74 Enter; take a look at the E-Mod.",
+        "Verb 37, Enter; 06, Enter; and a Pro; you'll get a Standby light on.",
+        "Panel 11, circuit breaker LGC/DSKY, Open.",
+        "And then continue shutting it down with activation 15, steps 2, 3, 4, 5; and activation 16, perform all.",
+        "That completes it."
+      ],
+      "speaker": "Gibson",
+      "time": "0065820"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let me see if I got it right.",
+        "First thing you want us to do is read CM/LM Delta-P before we go in.",
+        "Then we start with activation l, steps l, 2, 3.",
+        "Activation 2, step 2.",
+        "Activation 3, all.",
+        "And that's activation 3, 4, 5, 6, 7, 8, 9, all of those.",
+        "Step - correction - activation 10, steps 1 through 18.",
+        "Activation 11, 1 through 3.",
+        "12, 1 through 4.",
+        "Comm configuration should be - and I may have missed one here -PM Prime, Prime, Off, Prime - correction - PCM, Off/Reset, and High."
+      ],
+      "speaker": "Bean",
+      "time": "0065921"
+    },
+    {
+      "tokens": [
+        "Al, Houston.",
+        "[Long pause.]"
+      ],
+      "speaker": "Gibson",
+      "time": "0070007"
+    },
+    {
+      "tokens": [
+        "12, Houston."
+      ],
+      "speaker": "Gibson",
+      "time": "0070025"
+    },
+    {
+      "tokens": [
+        "Yes, Pete.",
+        "Go ahead."
+      ],
+      "speaker": "Bean",
+      "time": "0070026"
+    },
+    {
+      "tokens": [
+        "We just had a brief cut-out while we handed over to Goldstone.",
+        "You did miss one on the Comm configuration.",
+        "The - after Off/Reset, it's Off, and then High.",
+        "And then continue with your read-back."
+      ],
+      "speaker": "Gibson",
+      "time": "0070028"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That'd be Off/Reset, and then Off, and then High.",
+        "Then CB(11) LGC/DSKY, Close that, and then perform activation 27, commander steps 3 through 6.",
+        "Then activation 28, steps 1 through 7 to a Verb 7, Enter, and a Verb 37, Enter, 06 Enter, Pro, Standby.",
+        "Light will come on, of course.",
+        "Panel 11; then LGC/DSKY, Open, and then do activation15, steps 2, 3, 4, and 5, and all of activation 16."
+      ],
+      "speaker": "Bean",
+      "time": "0070043"
+    },
+    {
+      "tokens": [
+        "That's correct, Al."
+      ],
+      "speaker": "Gibson",
+      "time": "0070115"
+    },
+    {
+      "tokens": [
+        "Okey-doke."
+      ],
+      "speaker": "Bean",
+      "time": "0070117"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That was Al Bean going through the Lunar Module check-out procedures with the ground.",
+        "At 7 hours, 1 minute Ground Elapsed Time; we'll continue to monitor.",
+        "We presently show the spacecraft velocity reading at 10,537 feet per second [3,212 m/s].",
+        "Our current altitude reading, 31,966 nautical miles [59,201 km].",
+        "This is Apollo Control, Houston; standing by."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston; 12."
+      ],
+      "speaker": "Conrad",
+      "time": "0070343"
+    },
+    {
+      "tokens": [
+        "12, go ahead."
+      ],
+      "speaker": "Gibson",
+      "time": "0070346"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Our Delta-P has fallen off to plus 0.4, and the zero reading is actually 0.1, so it ought to be - It's fallen off about 0.3.",
+        "And I'm getting ready to Repress the LM now."
+      ],
+      "speaker": "Conrad",
+      "time": "0070348"
+    },
+    {
+      "tokens": [
+        "Roger, Pete.",
+        "We copy.",
+        "0.4 and 0.1, fall off of 0.3."
+      ],
+      "speaker": "Gibson",
+      "time": "0070408"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "12, Houston."
+      ],
+      "speaker": "Gibson",
+      "time": "0070831"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Bean",
+      "time": "0070833"
+    },
+    {
+      "tokens": [
+        "We'd like to precede that LM check-out step with one step from TLC 1.",
+        "That is, on TLC 1, step 4, carry out the last two lines.",
+        "Suit Isolation, both to Suit Flow.",
+        "Suit Isolation, both to Actuate Overdrive."
+      ],
+      "speaker": "Gibson",
+      "time": "0070835"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "We understand; we'll do it."
+      ],
+      "speaker": "Bean",
+      "time": "0070859"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 7 hours, 15 minutes now into the flight of Apollo 12.",
+        "We've had no conversation with the Apollo 12 crew in recent minutes but we thought we would update our altitude and velocity reading from our digital displays.",
+        "Currently we show an altitude of 33,282 nautical miles [61,638 km]; velocity reading in feet per second, that's 10,309.4 feet per second [3,142.3 m/s].",
+        "At 7 hours, 15 minutes of continuing to monitor of; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "We've got the hatch out and the probe out, and we're in the process of stowing that, and I'm going into the Drogue right now."
+      ],
+      "speaker": "Conrad",
+      "time": "0071818"
+    },
+    {
+      "tokens": [
+        "Roger, Pete.",
+        "We copy."
+      ],
+      "speaker": "Gibson",
+      "time": "0071831"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That report from Pete Conrad.",
+        "The hatch is out and the probe is out.",
+        "We'll stand by continuing to monitor at 7 hours, 18 minutes into the flight."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "The CDR's in the LM."
+      ],
+      "speaker": "Conrad",
+      "time": "0072025"
+    },
+    {
+      "tokens": [
+        "Roger, 12.",
+        "We copy."
+      ],
+      "speaker": "Gibson",
+      "time": "0072032"
+    },
+    {
+      "tokens": [
+        "And Pete, if you find any circuit breakers which are out of configuration, would you hold up until we get TM before you change them?"
+      ],
+      "speaker": "Gibson",
+      "time": "0072038"
+    },
+    {
+      "tokens": [
+        "Sure will.",
+        "I'm not going to touch anything.",
+        "I'm going to let Al come in here and do the activation - portion.",
+        "He's got the checklist here, and he's tying the probe and the drogue down now."
+      ],
+      "speaker": "Conrad",
+      "time": "0072048"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Gibson",
+      "time": "0072058"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That report, commander Pete Conrad now in the Lunar Module.",
+        "We're at 7 hours, 21 minutes Ground Elapsed Time.",
+        "We're now showing an altitude of 33,836 nautical miles [62,664 km].",
+        "A velocity of 10,215 feet per second [3,114 m/s].",
+        "This is Apollo Control, Houston; standing by."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Al and I are both in the LM now, and we are getting ready to do your checklist."
+      ],
+      "speaker": "Conrad",
+      "time": "0072239"
+    },
+    {
+      "tokens": [
+        "Roger, Pete."
+      ],
+      "speaker": "Gibson",
+      "time": "0072248"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We put both Suit Isolations to Suit Flow, and now we are going to turn them to Suit Disconnect."
+      ],
+      "speaker": "Conrad",
+      "time": "0072256"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We are checking the breakers now.",
+        "The ASA Stab/Control panel 16 CB is in."
+      ],
+      "speaker": "Conrad",
+      "time": "0072450"
+    },
+    {
+      "tokens": [
+        "Roger, Pete.",
+        "We copy."
+      ],
+      "speaker": "Gibson",
+      "time": "0072503"
+    },
+    {
+      "tokens": [
+        "Things 1ook real tidy - things look real tidy up here, Houston."
+      ],
+      "speaker": "Bean",
+      "time": "0072524"
+    },
+    {
+      "tokens": [
+        "Roger, Al.",
+        "Are you home?"
+      ],
+      "speaker": "Gibson",
+      "time": "0072533"
+    },
+    {
+      "tokens": [
+        "Pretty nice."
+      ],
+      "speaker": "Bean",
+      "time": "0072536"
+    },
+    {
+      "tokens": [
+        "Hey, he's not going to be at home for at least 2 days."
+      ],
+      "speaker": "Gordon",
+      "time": "0072538"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "I found in Row 3 one circuit breaker that's out of configuration.",
+        "Under lighting, utility is out and, according to my book, it should be in."
+      ],
+      "speaker": "Conrad",
+      "time": "0072542"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy that, Pete.",
+        "[Long pause.]"
+      ],
+      "speaker": "Gibson",
+      "time": "0072557"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "That one circuit breaker out of Panel 11 and all circuit breakers on Panel 16 are in the proper configuration."
+      ],
+      "speaker": "Conrad",
+      "time": "0072625"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Gibson",
+      "time": "0072635"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control in Houston.",
+        "Al Bean is also in the Lunar Module at this time.",
+        "That was Al who reported things look real tidy."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Pete, would you hold up on activating the S-band until we can get the IU turned off down here?"
+      ],
+      "speaker": "Gibson",
+      "time": "0072647"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Conrad",
+      "time": "0072655"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Pete, Houston.",
+        "An explanation on that utility circuit breaker: at lift-off that circuit breaker was out, and that is the way it was configured at the Cape.",
+        "The change did not get into the checklist, so there was no change during flight, and we'd like you to go ahead and leave that circuit breaker out until we can get power on the LM."
+      ],
+      "speaker": "Gibson",
+      "time": "0073045"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Very good.",
+        "And we're in the middle of step 11 on act 7 right now."
+      ],
+      "speaker": "Conrad",
+      "time": "0073108"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Gibson",
+      "time": "0073116"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 7 hours, and 31 minutes into the flight of Apollo 12.",
+        "Commander Pete Conrad and Alan Bean continuing with their check-out procedures in the Lunar Module.",
+        "Presently, we show a velocity of 10,055 feet per second [3,065 m/s] for spacecraft Apollo 12 and an altitude of 34,855 nautical miles [64,551 km] above the Earth.",
+        "At 7 hours, and 32 minutes continuing to monitor, this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey [garble] Okay, Houston, we're going over on LM power at whatever GET it is right now.",
+        "[Pause.]"
+      ],
+      "speaker": "Conrad",
+      "time": "0073608"
+    },
+    {
+      "tokens": [
+        "Roger, Pete.",
+        "Copy.",
+        "You're going over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Gibson",
+      "time": "0073623"
+    },
+    {
+      "tokens": [
+        "We presently read a GET of 7 hours, 36 minutes.",
+        "That was Commander Conrad identifying he's going over on LM power."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "TELMU confirms that we're presently on LM power."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Houston, Apollo 12."
+      ],
+      "speaker": "Gordon",
+      "time": "0073704"
+    },
+    {
+      "tokens": [
+        "12, go ahead."
+      ],
+      "speaker": "Gibson",
+      "time": "0073706"
+    },
+    {
+      "tokens": [
+        "Hi.",
+        "Roger.",
+        "Are you people looking at quad B?",
+        "It's up there - a pretty good temperature, 170 degrees now."
+      ],
+      "speaker": "Gordon",
+      "time": "0073708"
+    },
+    {
+      "tokens": [
+        "Roger, Dick.",
+        "We'll look at it..."
+      ],
+      "speaker": "Gibson",
+      "time": "0073720"
+    },
+    {
+      "tokens": [
+        "...And - Okay.",
+        "And if there's no reason why we can't start PTC, unless you want to get this Comm stuff, I'll just hold here."
+      ],
+      "speaker": "Gordon",
+      "time": "0073722"
+    },
+    {
+      "tokens": [
+        "Right.",
+        "Stand by on that, Dick.",
+        "[Long pause.]"
+      ],
+      "speaker": "Gibson",
+      "time": "0073731"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We're checking the voltages on the batteries now.",
+        "We got - on Battery 1, we got 34 Volts; Battery 2, 34.2; Battery 3, 34.2; Battery 4, 30 - 34.2; Battery 5 is 37; Battery 6 is 37."
+      ],
+      "speaker": "Bean",
+      "time": "0073828"
+    },
+    {
+      "tokens": [
+        "Roger, Al.",
+        "We copy.",
+        "34, 34.2, 34.2, 34.2, and 37 on 5 and 6."
+      ],
+      "speaker": "Gibson",
+      "time": "0073859"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You probably ought give 34.2 to that first one, too."
+      ],
+      "speaker": "Bean",
+      "time": "0073907"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Gibson",
+      "time": "0073911"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That was Al Bean reading off battery voltages to Capsule Communicator Ed Gibson.",
+        "We're at 7 hours, and 39 minutes now Ground Elapsed Time.",
+        "We presently show velocity of 9,948 feet per second [3,032 m/s].",
+        "Altitude now reads 35,564 nautical miles [65,865 km].",
+        "This Apollo Control, Houston; continuing to monitor."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, do you now want us to put ourselves in the Comm configuration you requested?"
+      ],
+      "speaker": "Conrad",
+      "time": "0074020"
+    },
+    {
+      "tokens": [
+        "Pete, that's affirmative."
+      ],
+      "speaker": "Gibson",
+      "time": "0074031"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Going on now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Conrad",
+      "time": "0074034"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're set."
+      ],
+      "speaker": "Conrad",
+      "time": "0074051"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Gibson",
+      "time": "0074057"
+    },
+    {
+      "tokens": [
+        "Do you want us to put in the LGC/DSKY circuit breaker now, Houston?",
+        "Or do you want to wait until you get some good Comm, with us?"
+      ],
+      "speaker": "Conrad",
+      "time": "0074104"
+    },
+    {
+      "tokens": [
+        "12, let's hold up on that right until we see what we have.",
+        "And when you put the LGC to sleep, we'd like you to skip Program 06 and just pull the LGC circuit breaker.",
+        "That way you'll be in the same configuration you were at launch, and the activation that you'll take up subsequently should work out."
+      ],
+      "speaker": "Gibson",
+      "time": "0074114"
+    },
+    {
+      "tokens": [
+        "Okay, then.",
+        "We'll just sit tight right now; and for your information, we're on VHF antenna Aft and S-band Aft."
+      ],
+      "speaker": "Conrad",
+      "time": "0074136"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Gibson",
+      "time": "0074147"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We're looking out our AOT, Houston, and it really looks nice."
+      ],
+      "speaker": "Bean",
+      "time": "0074400"
+    },
+    {
+      "tokens": [
+        "Houston, are you getting any data from Intrepid, yet?"
+      ],
+      "speaker": "Conrad",
+      "time": "0074403"
+    },
+    {
+      "tokens": [
+        "12, that's negative.",
+        "We're still reconfiguring to pick up that data."
+      ],
+      "speaker": "Gibson",
+      "time": "0074409"
+    },
+    {
+      "tokens": [
+        "Oh, okay.",
+        "We're standing by to come up with the DSKY.",
+        "And we'll hold until you get our data."
+      ],
+      "speaker": "Gibson",
+      "time": "0074413"
+    },
+    {
+      "tokens": [
+        "Okay, Pete."
+      ],
+      "speaker": "Gibson",
+      "time": "0074421"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Houston.",
+        "I was going to report that I had another person in sight, - but it - looking out the AOT - but it turns out that the left rear descent looks right in Dick's rendezvous window, and he's looking right back at us."
+      ],
+      "speaker": "Conrad",
+      "time": "0074546"
+    },
+    {
+      "tokens": [
+        "Roger, Pete.",
+        "We copy."
+      ],
+      "speaker": "Gibson",
+      "time": "0074600"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Say, Houston.",
+        "How soon you going to be reconfigured?",
+        "We hate to use these batteries up."
+      ],
+      "speaker": "Conrad",
+      "time": "0074707"
+    },
+    {
+      "tokens": [
+        "Pete, we've got about another minute or two, and if we can't make it by then, we'll not go on with it."
+      ],
+      "speaker": "Gibson",
+      "time": "0074721"
+    },
+    {
+      "tokens": [
+        "What seems to be the problem, Houston?"
+      ],
+      "speaker": "Gordon",
+      "time": "0074728"
+    },
+    {
+      "tokens": [
+        "We're reconfiguring in order to get that data."
+      ],
+      "speaker": "Gibson",
+      "time": "0074733"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "We've been planning to do this for quite a while."
+      ],
+      "speaker": "Gordon",
+      "time": "0074738"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "12, Houston.",
+        "We're picking up some data from the LM now.",
+        "Stand by.",
+        "We're looking at it."
+      ],
+      "speaker": "Gibson",
+      "time": "0074931"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Very good; and say, we've got a special [laughter] - We've got a favor to ask you for our entertainment tonight."
+      ],
+      "speaker": "Conrad",
+      "time": "0074936"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead."
+      ],
+      "speaker": "Gibson",
+      "time": "0074945"
+    },
+    {
+      "tokens": [
+        "You get the DSE tapes, don't you, of the launch?"
+      ],
+      "speaker": "Conrad",
+      "time": "0074947"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "We have it."
+      ],
+      "speaker": "Gibson",
+      "time": "0074957"
+    },
+    {
+      "tokens": [
+        "Well, [laughter] we want you to play it for us tonight before we go to bed.",
+        "We're still up here laughing over it, trying to remember all the things that we said and did.",
+        "So we want to hear it tonight before we go to bed."
+      ],
+      "speaker": "Conrad",
+      "time": "0075000"
+    },
+    {
+      "tokens": [
+        "You want to relive that twice in one day?"
+      ],
+      "speaker": "Gibson",
+      "time": "0075013"
+    },
+    {
+      "tokens": [
+        "Yes [laughter].",
+        "You better believe it."
+      ],
+      "speaker": "Conrad",
+      "time": "0075017"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That was Pete Conrad asking the ground if they could replay the tape from this morning's launch to relive that moment.",
+        "7 hours, 50 minutes continuing to monitor; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Houston.",
+        "Are you ready for us for the LC - LGC/DSKY breaker?"
+      ],
+      "speaker": "Conrad",
+      "time": "0075155"
+    },
+    {
+      "tokens": [
+        "12, that's affirmative.",
+        "We're ready to go.",
+        "[Long pause.]"
+      ],
+      "speaker": "Gibson",
+      "time": "0075210"
+    },
+    {
+      "tokens": [
+        "Houston, you want us to bring up the IMU also, huh?"
+      ],
+      "speaker": "Gibson",
+      "time": "0075240"
+    },
+    {
+      "tokens": [
+        "12, that's negative.",
+        "We've..."
+      ],
+      "speaker": "Gibson",
+      "time": "0075249"
+    },
+    {
+      "tokens": [
+        "That's step 2 on page Activation 27."
+      ],
+      "speaker": "Conrad",
+      "time": "0075251"
+    },
+    {
+      "tokens": [
+        "That's affirm.",
+        "That was - On Activation 27, we had steps 3 through 6.?"
+      ],
+      "speaker": "Gibson",
+      "time": "0075254"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Conrad",
+      "time": "0075300"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Houston, there's self-test coming at you."
+      ],
+      "speaker": "Conrad",
+      "time": "0075424"
+    },
+    {
+      "tokens": [
+        "Pete, we're not copying any computer data yet."
+      ],
+      "speaker": "Gibson",
+      "time": "0075435"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, it's doing self-check just fine, Houston."
+      ],
+      "speaker": "Conrad",
+      "time": "0075439"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy your self-check looked good."
+      ],
+      "speaker": "Gibson",
+      "time": "0075446"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's not complete yet, but it's - it's in the self-check.",
+        "We've got a two and a one, and we've been running for about 50 seconds."
+      ],
+      "speaker": "Conrad",
+      "time": "0075450"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Gibson",
+      "time": "0075500"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We've just completed the self-test satisfactorily.",
+        "We're going to terminate the self-test."
+      ],
+      "speaker": "Conrad",
+      "time": "0075544"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We've picked up and been copying your DSKY.",
+        "And, Al, we've been showing a high quad 4 temperature.",
+        "We would like for you to go ahead and check the position of two circuit breakers on panel 11.",
+        "Heaters RCS System A/B.1, Quad 4; and on panel 16, Heaters RCS System A/B.2, Quad 4."
+      ],
+      "speaker": "Gibson",
+      "time": "0075554"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "All the circuit breakers are out.",
+        "I guess it's because we haven't gone to PTC yet."
+      ],
+      "speaker": "Bean",
+      "time": "0075627"
+    },
+    {
+      "tokens": [
+        "Roger, Al."
+      ],
+      "speaker": "Gibson",
+      "time": "0075635"
+    },
+    {
+      "tokens": [
+        "You ready for Verb 74?"
+      ],
+      "speaker": "Bean",
+      "time": "0075640"
+    },
+    {
+      "tokens": [
+        "Al, could you hold off on Verb 74?",
+        "We're trying to pick it up on another site."
+      ],
+      "speaker": "Gibson",
+      "time": "0075649"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're standing by ready to give you Verb 74."
+      ],
+      "speaker": "Bean",
+      "time": "0075654"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Al, go ahead with the Verb 74."
+      ],
+      "speaker": "Gibson",
+      "time": "0075802"
+    },
+    {
+      "tokens": [
+        "Coming at you."
+      ],
+      "speaker": "Bean",
+      "time": "0075812"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Al, we've got the E-Mod."
+      ],
+      "speaker": "Gibson",
+      "time": "0075919"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Understand you got that.",
+        "And that's the end.",
+        "We are going to pull the DSKY breaker now and power down."
+      ],
+      "speaker": "Bean",
+      "time": "0075925"
+    },
+    {
+      "tokens": [
+        "Roger, Al.",
+        "[Long pause.]"
+      ],
+      "speaker": "Gibson",
+      "time": "0075932"
+    },
+    {
+      "tokens": [
+        "Okay, Houston, we're powering her back down now."
+      ],
+      "speaker": "Bean",
+      "time": "0080002"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy.",
+        "You're powering down."
+      ],
+      "speaker": "Gibson",
+      "time": "0080006"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That is Al Bean reporting they are powering down now.",
+        "Every indication from the check are Lunar Module, Intrepid, looks good.",
+        "Eight hours into the flight.",
+        "Standing by, this is..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 8 hours, and 2 minutes into the flight.",
+        "We currently show Apollo 12 with a velocity of 9,634 feet per second [2,936 m/s], an altitude of 37,666 nautical miles [69,757 km].",
+        "8 hours and 2 minutes into the flight, this is Apollo Control, Houston; standing by."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, we're getting ready to transfer to CSM power right now."
+      ],
+      "speaker": "Bean",
+      "time": "0080401"
+    },
+    {
+      "tokens": [
+        "Roger, Al."
+      ],
+      "speaker": "Gibson",
+      "time": "0080406"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, have you got anything else for us before we close up the LM?"
+      ],
+      "speaker": "Conrad",
+      "time": "0080554"
+    },
+    {
+      "tokens": [
+        "Stand by on that, Pete."
+      ],
+      "speaker": "Gibson",
+      "time": "0080605"
+    },
+    {
+      "tokens": [
+        "Pete, go ahead and button it up."
+      ],
+      "speaker": "Gibson",
+      "time": "0080617"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, just checked the index angle on the docking here, and it's minus 0.3.",
+        "Dick's COAS must have been in error."
+      ],
+      "speaker": "Conrad",
+      "time": "0080853"
+    },
+    {
+      "tokens": [
+        "Copy minus 0.3.",
+        "Well done."
+      ],
+      "speaker": "Gibson",
+      "time": "0080906"
+    },
+    {
+      "tokens": [
+        "Come on, Ed.",
+        "Smile.",
+        "You sound too serious down there today."
+      ],
+      "speaker": "Conrad",
+      "time": "0080912"
+    },
+    {
+      "tokens": [
+        "Still thinking about your morning."
+      ],
+      "speaker": "Gibson",
+      "time": "0080918"
+    },
+    {
+      "tokens": [
+        "We're doing our best to forget it [laughter]."
+      ],
+      "speaker": "Conrad",
+      "time": "0080921"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "8 hours and nine minutes now into the flight.",
+        "Apollo 12 now shows an altitude reading of 38,311 nautical miles [70,952 km] and a velocity reading of 9,541.6 feet per second [2,908.3 m/s].",
+        "Continuing to monitor, this is Apollo Control Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "The LM hatch is closed."
+      ],
+      "speaker": "Conrad",
+      "time": "0081119"
+    },
+    {
+      "tokens": [
+        "Pete, copy you got it closed.",
+        "And we've got a few things for you to pick up on the time line when you're ready."
+      ],
+      "speaker": "Gibson",
+      "time": "0081123"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Give us about 10 here until we - we're still getting Dick out of his gear, and we've got to reconfigure - Let's get the Probe and Drogue back in."
+      ],
+      "speaker": "Conrad",
+      "time": "0081131"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Will do."
+      ],
+      "speaker": "Gibson",
+      "time": "0081144"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You heard that report from Commander Pete Conrad reporting that the LM hatch is closed.",
+        "Conrad and Bean have returned to the Command Module at this time.",
+        "8 hours, 12 minutes continuing to monitor; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We got the drogue in and probe's on its way up this time.",
+        "We'll be done in about 5 minutes."
+      ],
+      "speaker": "Conrad",
+      "time": "0081557"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Gibson",
+      "time": "0081605"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We have the tunnel all in, and everything's taken care of."
+      ],
+      "speaker": "Conrad",
+      "time": "0082243"
+    },
+    {
+      "tokens": [
+        "Roger, Pete.",
+        "Copy.",
+        "You got it all buttoned up."
+      ],
+      "speaker": "Gibson",
+      "time": "0082253"
+    },
+    {
+      "tokens": [
+        "Hey, we're looking at you down there, Houston, and now you're about the size of a volleyball."
+      ],
+      "speaker": "Bean",
+      "time": "0082301"
+    },
+    {
+      "tokens": [
+        "Al, how far away is that volleyball?"
+      ],
+      "speaker": "Gibson",
+      "time": "0082311"
+    },
+    {
+      "tokens": [
+        "I'd say that volleyball's about 2 feet away."
+      ],
+      "speaker": "Bean",
+      "time": "0082314"
+    },
+    {
+      "tokens": [
+        "Good eye, Al."
+      ],
+      "speaker": "Gibson",
+      "time": "0082320"
+    },
+    {
+      "tokens": [
+        "I can't see any landmass at all.",
+        "All I can see is water with lots of clouds, and I can see sort of a glare point on the Earth.",
+        "I think that must be the zero phase point to us.",
+        "Other than that, it's very, very bright.",
+        "And another interesting thing is, on the dark side, you cannot see where the Earth stops and space begins.",
+        "It's unlike the Moon at night on in the daytime where you can see it in earthshine.",
+        "You just can't see anything."
+      ],
+      "speaker": "Bean",
+      "time": "0082322"
+    },
+    {
+      "tokens": [
+        "Roger, Al.",
+        "How come the old heads aren't giving us the same description?"
+      ],
+      "speaker": "Gibson",
+      "time": "0082357"
+    },
+    {
+      "tokens": [
+        "They're still worried about this morning."
+      ],
+      "speaker": "Bean",
+      "time": "0082403"
+    },
+    {
+      "tokens": [
+        "He won't let us near the window."
+      ],
+      "speaker": "Gordon",
+      "time": "0082405"
+    },
+    {
+      "tokens": [
+        "We've got a couple of interesting things here, too, Houston.",
+        "I've now started picking up ice on my inner - inside portion of the outside panel on window 1.",
+        "Don't ask me why."
+      ],
+      "speaker": "Conrad",
+      "time": "0082410"
+    },
+    {
+      "tokens": [
+        "Okay, Pete.",
+        "Let's hear that one again.",
+        "The - You're picking up ice on the inside of the out-side of the panel."
+      ],
+      "speaker": "Gibson",
+      "time": "0082427"
+    },
+    {
+      "tokens": [
+        "No, on the window number 1, the outside window has ice trickles on the inside of it.",
+        "In other words, between it and the inner window."
+      ],
+      "speaker": "Conrad",
+      "time": "0082434"
+    },
+    {
+      "tokens": [
+        "Roger, Pete.",
+        "We got it."
+      ],
+      "speaker": "Gibson",
+      "time": "0082445"
+    },
+    {
+      "tokens": [
+        "And they weren't there earlier.",
+        "I don't know when they arrived, but I just noticed them a little while ago.",
+        "[Long pause.]"
+      ],
+      "speaker": "Conrad",
+      "time": "0082452"
+    },
+    {
+      "tokens": [
+        "That was Pete Conrad reporting the ice between the window panes.",
+        "Window number 1.",
+        "Earlier you heard a description from Al Bean as he viewed the Earth from Apollo 12's present altitude of 39,687 nautical miles [73,500 km].",
+        "We now show a velocity of..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Pete, would you verify that you left the circuit breakers in the LM according to the configuration on activation 3 and 4 except - for that utility circuit breaker?"
+      ],
+      "speaker": "Gibson",
+      "time": "0082529"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Conrad",
+      "time": "0082540"
+    },
+    {
+      "tokens": [
+        "Does the systems test-meter look okay to you?",
+        "Why'd you ask, Houston?",
+        "[Pause.]"
+      ],
+      "speaker": "Bean",
+      "time": "0082544"
+    },
+    {
+      "tokens": [
+        "8 hours, 26 minutes into the flight at this time.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by, Al [Long pause.]"
+      ],
+      "speaker": "Gibson",
+      "time": "0082604"
+    },
+    {
+      "tokens": [
+        "Pete, we show that the current going over to the LM is oscillating as before, but it's about 1 Amp higher on me."
+      ],
+      "speaker": "Gibson",
+      "time": "0082639"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "What's that mean?"
+      ],
+      "speaker": "Conrad",
+      "time": "0082647"
+    },
+    {
+      "tokens": [
+        "Give us another long pause, Pete, and we'll be back up to you."
+      ],
+      "speaker": "Gibson",
+      "time": "0082655"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day1_part4_lm_inspection.html"
+}

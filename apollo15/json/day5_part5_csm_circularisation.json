@@ -1,0 +1,682 @@
+{
+  "description": "Apollo 15 Flight Journal - Day 5, part 5: CSM Circularisation",
+  "transcript": [
+    {
+      "tokens": [
+        "The Lunar Module Falcon has separated from the CSM and its crew are making final preparations for its descent to Hadley.",
+        "Al Worden, flying CSM Endeavour, has to raise the perilune of his orbit to an approximately circular orbit of 60 nautical miles (110 km) altitude.",
+        "Since the perilune is on the nearside, the burn will occur over the farside."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "LM Flight Plan page 3-116."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "CSM Flight Plan page 3-117."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Al is near the top of page 3-117 of the Flight Plan and is about to receive details of the circularisation burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "We're going to recommend you skip your P52.",
+        "GUIDO's satisfied with your alignment, and we're ready with your Circ.",
+        "burn - Circ.",
+        "PAD any time.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1010348"
+    },
+    {
+      "tokens": [
+        "The P52 realignment of the CSM's platform was due about 10 minutes ago, but has been scrubbed to help Al catch up with his timeline in light of the delay in undocking from the LM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Houston; Endeavour.",
+        "Stand by one.",
+        "[Pause.]"
+      ],
+      "speaker": "Worden",
+      "time": "1010408"
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "Did you say standing by?",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1010416"
+    },
+    {
+      "tokens": [
+        "Yeah, Houston, Endeavour's ready to copy."
+      ],
+      "speaker": "Worden",
+      "time": "1010424"
+    },
+    {
+      "tokens": [
+        "Okay, Al.",
+        "We'd like for you to go ahead and start going to the burn attitude.",
+        "I'll give you the roll, pitch, and yaw, and you can get that in, and I - then I will give you the rest of the PAD.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1010427"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Worden",
+      "time": "1010445"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "000, 107, 358.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1010446"
+    },
+    {
+      "tokens": [
+        "Rog; understand.",
+        "000, 107, 358.",
+        "I'll put that in and be right back with you."
+      ],
+      "speaker": "Worden",
+      "time": "1010501"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1010507"
+    },
+    {
+      "tokens": [
+        "Okay, Houston; Endeavour.",
+        "We're maneuvering.",
+        "Go ahead with the rest of the PAD."
+      ],
+      "speaker": "Worden",
+      "time": "1010525"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Circ.: SPS/G&N; 37679; plus 0.49, plus 1.04; GET is 101:38:58.19; plus 0068.3, minus four zeroes 1, minus four zeroes 7; 000, 107, 358; 0064.9, plus 0054.3; 0068.3, 0:04, 0057.2; sextant star 10, 171.3, 40.0.",
+        "The rest NA.",
+        "GDC Align, Vega, Deneb; 288, 340, 346.",
+        "Ullage four jet, 14 seconds.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1010530"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "Understand.",
+        "P30 PAD, Circ.",
+        "burn, SPS/G&N; 37679; plus 0.49, plus 1.04; 101:38:58.19; plus 0068.3, minus 0000.1, minus 0000.7; 000, 107, 358; 0064.9, plus 0054.3; 0068.3, 0:04, 0057.2; 10, 171.3, 40.0.",
+        "Vega, Deneb, set stars; 288, 340, 346.",
+        "Four jet, 14 seconds."
+      ],
+      "speaker": "Worden",
+      "time": "1010715"
+    },
+    {
+      "tokens": [
+        "The PAD is interpreted as follows:Purpose:This PAD is for Al to circularise the orbit of the CSM.System:It will use the SPS engine under the control of the Guidance and Navigation System.CSM Weight (Noun 47):37,679 pounds (17,091 kg).Pitch and yaw trim (Noun 48):+0.49° and +1.04°.Time of ignition, TIG(Noun 33):101 hours, 38 minutes, 58.19 seconds.Change in velocity (Noun 81), fps (m/s):X, +68.3 (+20.8); Y, -0.1 (-0.03); Z, -0.7 (-0.2).",
+        "The velocity components are expressed with respect to thelocal vertical.",
+        "The large positive value for X shows that this is a prograde maneuver that speeds the spacecraft up and has the effect of raising the pericynthion to about the same height as his apocynthion and thus circularising the orbit.Spacecraft attitude:Roll: 000° Pitch: 107° Yaw: 358°.",
+        "These attitude angles are expressed with respect to thelanding site REFSMMAT.HA, expected apocynthion of resulting orbit:64.9 nautical miles (120.1 km).HP, expected pericynthion of resulting orbit:54.3 nautical miles (100.5 km).Note that this orbit is not quite circular but is deliberately elliptical.",
+        "FIDO in Mission Control is compensating for the perturbation of the CSM's trajectory by the mascons.",
+        "Although the effect of these gravitational irregularities is not well understood by the flight dynamics team, they hope the orbit will tend to fully circularise itself under the influence of the mascons by the time Al next fires the SPS engine just prior to the return of the LM.",
+        "Continuing with the PAD items:Delta-VT:68.3 fps (20.8 m/s).",
+        "This is the total velocity change required from the burn.Burn duration or burn time:4 seconds.Delta-VC:57.2 fps.",
+        "This value is entered into the Delta-V display of the EMS so that instrument can provide backup control of the SPS engine.",
+        "The value is smaller than Delta-VTto account for the engine's tail-off thrust.",
+        "The G&N system already takes this into account.Sextant star:Star 10 (Mirfak [Alpha Persei]) visible in sextant when shaft and trunnion angles are 171.3° and 40.0° respectively.GDC Align stars:Stars Vega (number 36) and Deneb (number 43) to be used for backup GDC Align in case the IMU is unavailable for this task.GDC Align angles:288°, 340° and 346°.A final note for the PAD is that the SPS propellants should be settled in their tanks by firing the plus-X thrusters on all four quads around the Service Module for 14 seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It was during preparations for this burn during Apollo 16 that an indicated fault in the SPS backup thrust vector control system delayed the Circ.",
+        "burn and the landing by the LM by six hours, curtailing the lunar exploration somewhat."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's a good readback, Al, and I have an erasable change for you.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1010808"
+    },
+    {
+      "tokens": [
+        "Okay, Go ahead."
+      ],
+      "speaker": "Worden",
+      "time": "1010819"
+    },
+    {
+      "tokens": [
+        "Verb 21, Noun 01.",
+        "Address 1765 and Enter 01605.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1010821"
+    },
+    {
+      "tokens": [
+        "Understand.",
+        "Verb 21, Noun 1, Enter, 1765, Enter, 01605, Enter."
+      ],
+      "speaker": "Worden",
+      "time": "1010840"
+    },
+    {
+      "tokens": [
+        "That's affirmative, and that's - a short burn constant change, Al."
+      ],
+      "speaker": "Mitchell",
+      "time": "1010846"
+    },
+    {
+      "tokens": [
+        "The SPS engine doesn't come up to thrust instantly, and nor does it shut off instantly.",
+        "Therefore, the build-up and tail off of engine thrust on short burns, becomes a non-trivial part of the total impulse.",
+        "Since the guidance calculations occur only every two seconds or so, then during a four-second burn a guess must be made of what the performance of the engine will be (rather than being able to take advantage of averaging acceleration over a longer period of time)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "[Long pause.]"
+      ],
+      "speaker": "Worden",
+      "time": "1010853"
+    },
+    {
+      "tokens": [
+        "And, Al.",
+        "Be advised that your sextant star will be occulted at 101:16 - 7 minutes from now.",
+        "And a gentle reminder, this is a single bank, bank B burn."
+      ],
+      "speaker": "Mitchell",
+      "time": "1010910"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Worden",
+      "time": "1010923"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "PDI zero PAD, when both vehicles are ready.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1010928"
+    },
+    {
+      "tokens": [
+        "Falcon's ready.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1010941"
+    },
+    {
+      "tokens": [
+        "Roger, Falcon.",
+        "And did you get the Circ.",
+        "GTI [means TIG]?"
+      ],
+      "speaker": "Mitchell",
+      "time": "1010948"
+    },
+    {
+      "tokens": [
+        "Affirmative, Ed."
+      ],
+      "speaker": "Irwin",
+      "time": "1010955"
+    },
+    {
+      "tokens": [
+        "Jim has also taken a copy of the PAD for Endeavour's Circularisation burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And, Endeavour, you're ready for a PDI zero PAD?"
+      ],
+      "speaker": "Mitchell",
+      "time": "1010956"
+    },
+    {
+      "tokens": [
+        "Endeavour's ready."
+      ],
+      "speaker": "Worden",
+      "time": "1011003"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "PDI zero.",
+        "Alpha: 102:39:35.35; Bravo: plus 0100.0, plus all zeros, plus 0001.8; 0138.3, plus 0009.0, 0100.1; 0:34; 000, 273; 0159.6; plus 0100.0, plus all zeros, plus 0002.4; Cocoa: 103:40:24.00; Delta: 105:22:30.00.",
+        "Readback.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1011006"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Houston, this is Falcon with PDI zero readback.",
+        "102:39:35.35; plus 0100.0, plus all zips, plus 0001.8; 0138.3, plus 0009.0, 0100.1; 0:34; 000, 273; 0159.6; plus 0100.0, plus all zips, plus 0002.4; 103:40:24.00, 105:22:30.00.",
+        "Over."
+      ],
+      "speaker": "Irwin",
+      "time": "1011126"
+    },
+    {
+      "tokens": [
+        "The PDI-0 PAD is the first in a series of seven PADs read to the LM crew.",
+        "This, and the next PAD (read up at 103:25:17), specify times and parameters needed for the LM to return to the CSM in the event that the powered descent is scrubbed.",
+        "The first PAD, the PDI-0 Abort Pad, is executed at the point in the orbit where powered descent normally would have occurred but one revolution earlier, and is used when a determination that the landing should be scrubbed is made well before the time the descent is started.",
+        "At the point of the abort, the LM is ahead of the CSM, and needs to slow down for the CSM to catch up.",
+        "To do so, the descent engine is burned to put the LM into a orbit whose high point is greater than that of the CSM (the low point remains at about 9 miles or so).",
+        "There are 4 individual updates in the PDI-0 Abort PAD, A through D:"
+      ],
+      "speaker": "Commentary",
+      "time": "lmabortpads"
+    },
+    {
+      "tokens": [
+        "Interpreting the PAD:PDI-0 Abort PAD A (Alpha):Ground Elapsed Time of the burn (a Noun 33 entry):102:39:35.35.PDI-0 Abort PAD B (Bravo):Change in velocity, with respect to the local vertical, fps (m/s):X, 100.0 (30.5); Y, 0; Z, 1.8 (0.55).Height of apocynthion:138.3 nautical miles (256 km).Height of pericynthion:9.0 nautical miles (16.7 km).Delta-V (Overall change in velocity):100.1 fps (30.5 m/s).Burn Time:0 minutes, 34 seconds.FDAI (Flight Director Attitude Indicator - the \"eight-ball\") angles:Roll, 000°; Pitch, 273°.AGS entry (Abort Guidance System; see below at101:22:53), at address 373 (an octal address), which is the time of the burn, in minutes:01596.AGS Delta VX(Noun 86):+100.0 fps (+30.5 m/s).AGS Delta VY(Noun 86):0 fps.AGS Delta VZ(Noun 86):+2.4 fps (+0.73 m/s).PDI-0 Abort Pad C (Charlie[though Mitchell calls it Cocoa!]):Time of Ignition:103:40:24.00.",
+        "This is the time of ignition of the Coelliptic Sequence Initiation (CSI) maneuver, a Noun 11 entry.",
+        "This maneuver is essentially a plane change, and brings the LM into the same orbital plane as the CSM.PDI-0 Abort Pad D (Delta):Time of Ignition:105:22:30.00.",
+        "This is the time of ignition of the Terminal Phase Initiation (TPI) maneuver, a Noun 37 entry.",
+        "This maneuver targets the LM for its final approach to the CSM, ensuring proper distance and closing rates.The next PAD, the PDI-1 +12, is intended to be used after a failure prevents the powered descent.",
+        "As its name implies, it is initiated 12 minutes after the nominal start of the PDI.",
+        "The format of the PDI-1 +12 Abort PAD is the same as the PDI-0 Abort PAD, with only the times being different."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "A third PAD, the PDI-1 (or P63) PAD, provides the crew with the times and attitude information needed for powered descent.",
+        "The fourth and fifth PADs are for aborts during the powered descent and landing, and the last two are for T-2 and T-3 aborts respectively.",
+        "(See interpretation of the T-2 and T-3 PADs at 102:29:18.)"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Good readback, Falcon.",
+        "And, Al, did you copy?"
+      ],
+      "speaker": "Mitchell",
+      "time": "1011215"
+    },
+    {
+      "tokens": [
+        "Endeavour copied."
+      ],
+      "speaker": "Worden",
+      "time": "1011221"
+    },
+    {
+      "tokens": [
+        "Roger, Roger."
+      ],
+      "speaker": "Mitchell",
+      "time": "1011223"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Gamma-ray and Alpha Particle experiments have been running by themselves since 95:12 and are about to be switched off until after the circularisation burn.",
+        "Note that the boom carrying the Gamma-ray Spectrometer is not extended even though the experiment is active."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Al Worden has maneuvered the Command Module,Endeavourinto the proper attitude now for the circularization burn.",
+        "That maneuver will be performed near the end of this revolution, after the spacecraft goes behind the Moon, and will place the Command Module in a more or less circular orbit.",
+        "At the beginning it will be about 64.9 nautical miles by 54.3 [120.2 by 100.6 km] and over the next few days the effects of lunar gravity will modify that orbit so that, at the time Falcon rendezvous with the Command Module, it will be a roughly sixty-mile circular orbit.",
+        "The maneuver will be performed on the Command Module using the Service Propulsion System engine producing a change in velocity of about 68 feet per second [20.7 m/s].",
+        "We have about 8 minutes now until we lose contact with the two spacecraft."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We'll talk in a minute."
+      ],
+      "speaker": "Irwin",
+      "time": "1011554"
+    },
+    {
+      "tokens": [
+        "And, Falcon; Houston.",
+        "We copy.",
+        "Thank you."
+      ],
+      "speaker": "Mitchell",
+      "time": "1011601"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Endeavour; Houston.",
+        "You're Go for Circ.",
+        "as soon as you get your short burn constant loaded."
+      ],
+      "speaker": "Mitchell",
+      "time": "1012018"
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "[Long pause.]"
+      ],
+      "speaker": "Worden",
+      "time": "1012028"
+    },
+    {
+      "tokens": [
+        "And we observed it here.",
+        "Endeavour."
+      ],
+      "speaker": "Mitchell",
+      "time": "1012055"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Worden",
+      "time": "1012100"
+    },
+    {
+      "tokens": [
+        "And, Falcon, Houston.",
+        "AGS K-vector.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1012106"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston.",
+        "Ready to copy."
+      ],
+      "speaker": "Irwin",
+      "time": "1012114"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "100, 000, and 00006.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1012117"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "100, 00, 0006."
+      ],
+      "speaker": "Irwin",
+      "time": "1012131"
+    },
+    {
+      "tokens": [
+        "I think we needed 00006."
+      ],
+      "speaker": "Mitchell",
+      "time": "1012140"
+    },
+    {
+      "tokens": [
+        "Okay; understand.",
+        "Four zeros 6."
+      ],
+      "speaker": "Irwin",
+      "time": "1012147"
+    },
+    {
+      "tokens": [
+        "That's affirm.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1012150"
+    },
+    {
+      "tokens": [
+        "Okay, Apollo 15, Houston.",
+        "We're about 1 minute from LOS.",
+        "We seem to be caught up [with the Flight Plan], and everything is looking good from here."
+      ],
+      "speaker": "Mitchell",
+      "time": "1012239"
+    },
+    {
+      "tokens": [
+        "Falcon, Roger.",
+        "Thank you."
+      ],
+      "speaker": "Scott",
+      "time": "1012251"
+    },
+    {
+      "tokens": [
+        "And Endeavour, Roger.",
+        "Thank you."
+      ],
+      "speaker": "Worden",
+      "time": "1012253"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At LOS,towards the end of the twelfth orbit, Dave and Jim are activating, initializing and calibrating the Abort Guidance System (AGS, pronounced 'aggs'), a separate system from the Primary Guidance and Navigation System (PGNS, pronounced 'pings').",
+        "It consists of enough hardware to independently guide Falcon into a safe orbit from where Al can make a rendezvous.",
+        "It is intended to be used only on those aborts where the PGNS has failed.",
+        "The AGS is part of the AEA (Abort Electronics Assembly) which include \"strap-down\" gyros and accelerometers mounted directly on the structure of the spacecraft to save weight, rather than carry a separate IMU platform and the heavy gimbals which would have surrounded it.",
+        "During normal flight, the crew constantly ensure the position and velocity solution in the AGS more or less matches that from the PGNS, so that in the event of an abort, it has enough knowledge to get the LM to a safe orbit."
+      ],
+      "speaker": "Commentary",
+      "time": "ags"
+    },
+    {
+      "tokens": [
+        "Perhaps one of the most 'forgotten' computers ever built, the Apollo LM Abort Guidance Computer was an 18 bit, 4K computer with a 1 MHz system clock.",
+        "Memory was 4K words (again, 18 bits/word), with 2K read-only, and 2K as read-write cores.",
+        "Memory was fabricated in traditional core planes, rather than core \"ropes\" used in the PGNS.",
+        "Data entry/readback was primitive compared to the DSKY; the interface was to simply read/write storage locations in the computer.",
+        "Selecting the program or particular mode you wanted to run required that you change a branch table in the software.",
+        "Read theApollo Lunar Surface Journal; each time you hear references to \"413+10000\" right after landing, or 400+00000 (much earlier), the LMP is entering (for example) at address 413, the value 10000.",
+        "Voila!",
+        "The program just changed.",
+        "Addresses were strictly octal, and information on the data display was almost exclusively decimal.",
+        "No scaling information was explicitly used, which demanded that the crew understood that a value meant hundereds of feet, or tenths of a foot per second.",
+        "So, small and large number alike were entered as simple 5 digit strings, without decimal points or exponents.",
+        "The software took care of scaling.",
+        "All in all, it was a masterpiece of work.",
+        "It's truly amazing to think that a reasonably sized computer offering guidance, attitude control and rendezvous was able to be done with so few resources."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And we've had Loss Of Signal on the 12th revolution.",
+        "At 101 hours, 38 minutes or about 14 minutes from now, Al Worden will be performing the circularization maneuver in the Command ModuleEndeavour.This will entail a 4-second burn with the main engine on the Command Module, the SPS engine, placing the CSM in a more or less circular orbit, about 64.9 by 54.3 nautical miles [120.2 by 100.6 km].",
+        "This maneuver is performed at the time that it is, in order to put the Command Module in the proper position for any subsequent abort and rendezvous should that become necessary.",
+        "It's preferable to do a rendezvous from the 60-mile [111 km] circular orbit."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Al's burn for this maneuver is due at 101:38:58 and will changeEndeavour'svelocity by nearly 21 metres per second, quite a sprightly acceleration due to the lack of the LM's mass and the less than half full SPS propellant tanks."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Worden, from1971 Technical debrief:\"The circularization burn was exciting, but it was perfectly nominal.",
+        "They had updated the short-burn constants for the engine characteristics.",
+        "And the circularization burn was done on Bank B only because of the [electrical short] problem we had with the SPS.",
+        "I went to attitude.",
+        "All the star checks worked fine.",
+        "The burn was done on time, and the residuals were 00 and minus 0.5 [feet per second], which is a no-trim kind of maneuver."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Worden (continued):\"It was a very nice burn, very smooth, and [there] is sure a difference [in acceleration] when you get the LM off.",
+        "You can really feel that mother go.",
+        "It's really quite impressive.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "After the Circ.",
+        "burn, he reads the details of the burn to the LM crew in case they need the information for redocking without landing, and he maneuvers the spacecraft's pitch and yaw angles to that required for the P24 landmark tracking procedure.",
+        "He will maneuver to the correct roll angle later.",
+        "Then, once he doffs his suit, he will reactivate the Gamma-ray and Alpha Particle experiments, now that the CSM is in the intended orbit for the main period of data collection and photography using the SIM bay.",
+        "A final task is to prepare the DAC in the eyepiece of the sextant so that the tracking exercise can be filmed.",
+        "Al will set it to run at one frame per second."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Coming up on the next revolution, one of the principal activities will be to accomplish - accomplish that landmark tracking which had been scheduled to occur on both revs 12 and 13.",
+        "This will place added importance on getting the landmark tracking on rev 13, the upcoming revolution.",
+        "The tracking is performed from the Command Module by Al Worden using the scanning telescope.",
+        "He'll be taking marks at - on Index Crater near the landing site to improve the knowledge of where the landing site is and also the orbit.",
+        "And this information is used in updating the Lunar Module guidance system just prior to the beginning of the powered descent.",
+        "As you heard, CapCom Ed Mitchell advised Dave Scott and Al Worden and Jim Irwin that we appear to be caught up at this time and everything appears to be in good shape for the - for the powered descent.",
+        "At 101 hours, 26 minutes; this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "LM Flight Plan page 3-118."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "CSM Flight Plan page 3-119."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "For the first time in the mission, the CSM is firing its big engine without a fully-fuelled LM holding it back.",
+        "At the start of the LOI-1 burn, the SPS engine produced about 0.2g as it operated against the LM and full SPS propellant tanks.",
+        "Now with the LM gone and the SPS tank partially empty, the engine is accelerating the CSm at over half a g; 0.57g to be precise."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rev 13 begins at about 101:45."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day5_part5_csm_circularisation.html"
+}

@@ -1,0 +1,2595 @@
+{
+  "description": "A14FJ - Day 1, part 2: Earth Orbit and Translunar Injection",
+  "transcript": [
+    {
+      "tokens": [
+        "Apollo 14 has just entered a parking orbit around Earth after a very clean, uneventful ascent on a Saturn V launch vehicle (if such an experience can ever be described as uneventful).",
+        "The crew of Alan Shepard, Stu Roosa and Ed Mitchell have just crossed the Atlantic Ocean for the first time and have passed out of range of a ground station at Maspalomason on the southern coast of Gran Canaria, one of the Canary Islands.",
+        "They will not regain communication with Houston until they reach Carnarvon on Australia's west coast."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In the meantime, the crew are kept busy with a long, planned series of checks of their spacecraft.",
+        "This is to ensure that its systems survived the dynamic ascent to orbit, with its bangs, g-loads and vibration; and that the ship is ready to support its crew for a return journey to the Moon.",
+        "A multitrack tape recorder is running which is digitally storing a range of the craft's sensor readings for later replay to Earth.",
+        "The recorder, known as the Data Storage Equipment (DSE) includes an analogue audio track which records the crew's voices within the cabin."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With Al and Ed reading out the checklist, Stu, in the Lower Equipment Bay, is performing the check on the oxygen regulators that control the flow of O2into the cabin."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ed is now going through various onboard readouts for Reaction Control System propellant tank status, pressure and temperature.",
+        "They are a critical piece of equipment."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ed is now moving to check the Command Module Reaction Control System, which is only meant for use for attitude control during reentry."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "One of Stu's tasks in Earth orbit is to realign the guidance platform.",
+        "For this, the computer needs to know the precise direction to two nominated stars.",
+        "This is achieved with the help of two optical systems, the sextant and the telescope, both of which have apertures on the opposite side of the spacecraft from the hatch."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Before the optics can be used, dust covers that have protected them to this point must be jettisoned.",
+        "Stu does this by moving the optics hand controller to the right, having first powered the optics system."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The navigational station has removable eyepieces."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "NASA's crew training facilities have the ability to simulate the view through the Command Module optics, but the limitations of the 1960's visual display technology mean that the fidelity is somewhat less than desirable."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stu is taking his first look through the Command Module optics."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The ECS controls not frequently needed were located in a difficult to access corner of the cabin and operated with a stubby screwdriver-like tool.",
+        "It comes as no wonder that Al is having trouble trying them out for the first time in weightlessness."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stu is realigning the guidance platform to ensure that any drift in its orientation that has occurred since launch is compensated for.",
+        "To achieve this, he runs Program 52 in the computer, hence the procedure is usually known as a 'P52'.",
+        "It requires that Stu aims the spacecraft's optics first at one star, pressing a 'Mark' button, then sighting on another and pressing the button again.",
+        "Only two stars are required to conceptually pin down the orientation of the universe around the spacecraft and the computer can use them to determine the degree of misalignment of the platform at the centre of the Inertial Measurement Unit (IMU).",
+        "From this, it can rotate, or 'torque' the motors on the IMU's supporting gimbals to restore the platform to perfect alignment."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "For this exercise, Stu sights on star 22 in the Apollo star list (Gienah, Gamma Corvi) then star 24 (Regulus, Alpha Leonis).",
+        "The orientation to which the platform is being aligned is the orientation of the launch pad in space at the moment of launch."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ed is checking the integrity of the thermal control system, particularly the two large radiators around the aft end of the Service Module.",
+        "If the spacecraft is generating excess heat, which mostly comes from its electronic systems, the primary method of losing it is to have a glycol/water solution carry the heat to one of these radiators which radiate it to space.",
+        "The spacecraft will not head for the Moon if any leaks are found in this cooling circuit."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stu's problem isn't anything of great import as far as the spacecraft is concerned.",
+        "It's his sense of pride.",
+        "The computer knows where the two stars are because their coordinates are programmed into its memory.",
+        "It can therefore calculate the angle between them and compare it with the angle between Stu's two marks.",
+        "The difference should be very near zero.",
+        "P52 includes this comparison as a quick check of the CMP's sighting accuracy.",
+        "If the angles were grossly different, the CMP would instantly know that he had sighted on the wrong two stars.",
+        "However, there was a tendency among the competitive, high-achieving test pilot types not to be happy with anything less than a perfect zero when the angle difference was displayed.",
+        "'Four balls 1' means the display shows 00001, which translates to 0.01°, still a very good number."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Unhappy with the slight imprecision of his first star sightings, Stu has repeated the P52 process and come up with a star angle difference of zero degrees.",
+        "His first attempt is, indeed, not counted as it is this second realignment that gets relayed to Mission Control and entered into theApollo 14 Mission Reporton page 7-6, a table of all the platform realignments carried out in the CSM.",
+        "Verb 06 Noun 93 calls up the three torquing angles; 0.085° in X, 0.01° in Y and 0.166° in Z, all of which get noted down.",
+        "During later realignments while in radio communication, Mission Control will be able to see the contents of the computer display directly and will copy the numbers down themselves.",
+        "Pressing Proceed on the DSKY causes the gimbal motors to be torqued."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Mission Report says the torquing was carried out at 58 minutes GET, rather than 38 minutes but this is likely a typo."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Three fuel cells are the major source of power on the spacecraft.",
+        "Hydrogen and oxygen are brought together near a catalyst whereupon they combine to produce electricity and water.",
+        "The supplied gases, known as reactants in this context, are very pure but still contain small quantities of other elements, particularly argon, which build up across the catalyst and get in the way of the process.",
+        "At regular intervals, the reactants are made to flow over the catalyst at a high rate in order to flush away the contaminants from the cell."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Given its small size at the time, the Apollo Guidance Computer was a very capable machine and the ability to multitask was among its attributes.",
+        "Therefore, while it was always carrying out various tasks beneath the surface so to speak (like keeping track of their position in space and holding the spacecraft's attitude steady), one program was visible directly to the crew.",
+        "This was the 'major mode'.",
+        "While Stu was realigning the guidance platform, he was running P52 and so that program was the major mode during that exercise.",
+        "When otherwise not needed, the computer could be set to run Program 00, essentially a do-nothing program, as its major mode although it would still be going about its other tasks.",
+        "It was conventional for crews to pronounce program zero-zero as 'P00h', as in the bear in the famous children's books by A.A.",
+        "Milne."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The IMU provides the spacecraft with its primary attitude reference.",
+        "A secondary reference is provided by three gyros which are directly affixed to the spacecraft's structure rather than on a rotationally isolated platform.",
+        "These Body Mounted Attitude Gyros (BMAGs) sense the ship's rotation by the force such rotation would produce on their mountings.",
+        "This could generate a signal.",
+        "The signals that come from the BMAGs are translated into angles by the Gyro Display Couplers (GDCs).",
+        "The attitude angles derived by this method are less accurate than those from the IMU and are prone to a much greater degree of drift.",
+        "Therefore, by a press of the GDC Align button, the GDCs' idea of the spacecraft's attitude can be updated with the more accurate version from the IMU."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stu is likely referring to Gene Cernan, who is the commander of the Apollo 14 backup crew.",
+        "Cernan relates in his autobiography \"The Last Man on the Moon\" how his crew took it upon themselves to have their own mission patch which had a similar look to the official patch but which made fun of the fact that, apart from Al's few minutes in space, the Apollo 14 crew were the 'All Rookie Crew'.",
+        "Cernan had left a quantity of his patches squirrelled away around Al's spacecraft.",
+        "A patch was even affixed to the back of Al's backpack that he wore on the Moon.",
+        "There is more on thebackup crew patch in the Apollo Lunar Surface Journal."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "They are only 45 minutes into the flight and the mission has already lasted nearly three times longer than Al's first space flight, a 15½-minute suborbital hop he rode in a Mercury spacecraft on top of a Redstone missile as the United States' first man in space.",
+        "During that flight, Al experienced only about five minutes of weightlessness.",
+        "Ed jokes that the Mercury flight was so short that Apollo 14's ascent to orbit lasted longer.",
+        "At 11 minutes, 40 seconds, that's not quite the case, but the point is still made."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The repress package is a series of three 1-pound oxygen bottles located in the Command Module Cabin, just about below the side hatch."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "They are discussing the plethora of backup-crew patches they are finding."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Titusville is a town right across the river from Cape Canaveral, the location of the Kennedy Space Center."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Al makes a small slip here.",
+        "The Command Module guidance system reference book is called G & C Checklist, while the one for Lunar Module is called G & C Dictionary."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stu adresses the tape recorder, which he knows is recording the in-cabin chatter for later review.",
+        "It is good to recall that all these conversations were recorded via the microphones in their communications headsets - no separate microphone existed for recording general cabin noises, or speech."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stu is still under the crew seats, and henceforth has zero visibility outside the spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Carnarvon (Rev-1)"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"This is Apollo Control, Houston; at 51 minutes now into the flight of Apollo 14.",
+        "We have just acquired the Apollo 14 spacecraft through Carnarvon.",
+        "We'll quickly pass on to you heart rates during lift-off on the Command Module Pilot and Lunar Module Pilot.",
+        "Stu Roosa's...\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston through Carnarvon.",
+        "How do you read?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0005234"
+    },
+    {
+      "tokens": [
+        "We read you loud and clear."
+      ],
+      "speaker": "Mitchell",
+      "time": "0005239"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're reading you a lot of background static.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0005242"
+    },
+    {
+      "tokens": [
+        "Houston, are you ready for ourIMUREFSMMATrealign check,P52numbers?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0005252"
+    },
+    {
+      "tokens": [
+        "Roger, Ed.",
+        "Go ahead."
+      ],
+      "speaker": "Fullerton",
+      "time": "0005300"
+    },
+    {
+      "tokens": [
+        "That's Noun 71s are 22, 24; Noun 05 is all balls; Noun 93, plus 00.085, plus 00.010, plus 00.166;GETof 38:15.",
+        "And we just burst into sunlight, Gordo.",
+        "It was quite a sunrise."
+      ],
+      "speaker": "Mitchell",
+      "time": "0005305"
+    },
+    {
+      "tokens": [
+        "Roger, Ed.",
+        "We copy that."
+      ],
+      "speaker": "Fullerton",
+      "time": "0005336"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Honeysuckle (Rev-1)"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"This is Apollo Control, Houston.",
+        "During this lull in communications we'll start again to pass along those heart rates at lift-off.",
+        "That was a peak rate of 132 on Command Module Pilot Stu Roosa.",
+        "He averaged in the 120s during the boost phase of flight.",
+        "In the case of Ed Mitchell, his peak rate was 90 and ran in the 80s.",
+        "Commander Alan Shepard we received no data on.",
+        "We suspect a loose sensor or connector and this will be fixed sometime in orbit during the more quiet period.",
+        "We presently show Apollo 14 in an orbit of 104 nautical miles [193 km] by 101 nautical miles [187 km].",
+        "We're at 54 minutes now into the flight.",
+        "We'll stand by and continue to monitor.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Al's maximum heart rate was registered at 138 beats per minute during the ascent phase of his Mercury 7 flight."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"This is Apollo Control, Houston; at 58 minutes now into the flight of Apollo 14, continuing here with a lull in air/ground conversation.",
+        "At this time I'll pass along the shutdown times on the Saturn as it achieved its orbit:S-ICshutdown or cut-off was 2 minutes, 44 seconds;S-IIshutdown was copied at 9 minutes, 19 seconds; this 3 seconds longer than nominal; and theS-IVBshutdown or cut-off was at 11 minutes, 40 seconds instead of a preflight 11 minutes, 43 seconds.",
+        "We're at 59 minutes now into the flight of Apollo 14 and continuing to monitor; this is Apollo Control, Houston.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-002"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"Apollo Control, Houston; 1 hour now into the flight of Apollo 14.",
+        "We've hadLOSwith Carnarvon, we expect to acquire Honeysuckle momentarily.",
+        "At 1 hour into the flight; this is Apollo Control, Houston.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, through Honeysuckle.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0010311"
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston through Honeysuckle.",
+        "If you read, go omni Charlie."
+      ],
+      "speaker": "Fullerton",
+      "time": "0010321"
+    },
+    {
+      "tokens": [
+        "Houston is now calling Apollo 14 through the tracking station at Honeysuckle Creek, near Canberra, in Eastern Australia."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Gordon Fullerton, the CapCom in Mission Control, is asking the crew to select a particular one of the four omnidirectional S-band antennae mounted around the periphery of the Command Module.",
+        "Antenna C is to the left of the hatch as viewed from outside."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"This is Apollo Control, Houston; 1 hour, 6 minutes now into the flight.",
+        "We've had Loss Of Signal with Honeysuckle.",
+        "We presently show 14 in an orbit of 106 nautical miles [196 km] by 100 nautical miles [185 km] and a velocity reading of 25,583 feet per second [7,798 m/s].",
+        "At this time we'll switch to the Cape for the postflight press conference.",
+        "Switching now to the Cape.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Al is likely talking about the frozen sandwich snacks placed into their spacesuit pockets before launch."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "During the construction of the spacecraft, whether it was the Command Module or Lunar Module, it wasn't unusual for small items, particularly bolts, nuts and washers, to fall into crevices during construction from which they were next to impossible to retrieve.",
+        "The spacecraft was even turned upside down and shaken lightly to get them loose, yet it was not unusual for something to be missed.",
+        "Only when the spacecraft was in weightlessness did these bits of hardware come floating free, driven around by the air currents within the cabin."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In the backup patch, the legend 'Apollo 14' was replaced with 'Beep, beep', the call of Roadrunner, the cartoon character who always foiled Wile E.",
+        "Coyote.",
+        "This was a humourous suggestion by Cernan and his crew that they were always on top and could never be beaten by the rookie crew.",
+        "It was all, of course, banter and friendly rivalry."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "All three crewmen are commenting on the initial physical sensations caused by entering microgravity.",
+        "Most astronauts reported a feeling of a fullness or stuffiness of the head, which is caused by a redistribution of fluid inside the human body when the heart has to work less hard to pump blood through the vascular system, not having to cope with gravity."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Disorientation and discomfort - possibly leading to space sickness - were usually experienced soon after launch during Apollo missions and were related to the astronauts moving about in the cabin, combined with movements of their head.",
+        "Al is possibly comparing his experience to that of his Mercury flight where he was strapped onto his moulded seat and was more or less immobile for the duration of the flight.",
+        "The crews flying the extremely snug Gemini capsules did not develop space sickness either, but the larger size of Apollo allowed for more movement, and hence a greater risk of getting ill."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stu is referring to the S-IVB third stage that must relight in about an hour to send the stack on an intercept path with the Moon."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "These pressures, given in pounds per square inch, are right in the middle of the expected values for the S-IVB's propellant tanks.",
+        "This is shown in graphs on pages 7-14 and 7-17 of theFlight Evaluation Report of the AS-509 vehicle.",
+        "The pressure in the hydrogen fuel tank drops to about 20 psi during Earth orbit due to the deliberate venting of the tank.",
+        "The LH2is extremely volatile and is readily boiling as heat from the Sun leaks in, despite the insulation lining its interior.",
+        "The hydrogen vapour is vented via propulsive vents that apply a constant thrust of 125 N (28 lb-f) to the stack, decreasing to about 45 N (10 lb-f) just before the tank's pressure is raised for the second burn.",
+        "Although it creates only a very slight acceleration (<0.0001g), this force serves to keep the S-IVB's propellants towards the bottom of their tanks."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Some 136,800 pounds (62,051 kg) of liquid oxygen and 30,428 pounds (13,802 kg) of liquid hydrogen remain in the SIVB stage."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The astro trio is now spotting the coast of California and Mexico."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stateside pass (Rev 1)"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston; Apollo 14.",
+        "How do you read?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0012959"
+    },
+    {
+      "tokens": [
+        "\"This is Apollo Control, Houston; at 1 hour and 30 minutes now since the lift-off of Apollo 14.",
+        "We presently show 14 less than a minute now away from acquisition, with an orbit of 106 by 101 nautical miles [196 by 187 km].",
+        "A preliminary look at our Translunar Injection burn puts it at a time of 2 hours, 28 minutes, 27 seconds.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "You're loud and clear, Ed.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0013002"
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "You're loud and clear.",
+        "Go ahead.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0013015"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "We've completed our checklist up to page [garble]."
+      ],
+      "speaker": "Mitchell",
+      "time": "0013028"
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "We started getting - pretty bad static right in the middle of that transmission.",
+        "Will you say again?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0013029"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "We have completed our [garble] L2-18."
+      ],
+      "speaker": "Mitchell",
+      "time": "0013037"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0013045"
+    },
+    {
+      "tokens": [
+        "Houston, we're starting to extend the docking probe now."
+      ],
+      "speaker": "Mitchell",
+      "time": "0013112"
+    },
+    {
+      "tokens": [
+        "Roger, Ed.",
+        "And I have aTLIplus 90 PAD any time you're ready to copy."
+      ],
+      "speaker": "Fullerton",
+      "time": "0013115"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "One second and I'll be ready for you.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0013120"
+    },
+    {
+      "tokens": [
+        "Okay, Houston, the probe's extended.",
+        "[Pause.]"
+      ],
+      "speaker": "Shepard",
+      "time": "0013150"
+    },
+    {
+      "tokens": [
+        "Houston, I'm ready to copy."
+      ],
+      "speaker": "Roosa",
+      "time": "0013202"
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "One question from Dr.",
+        "Gilruth.",
+        "They're wondering how y'all like zero g."
+      ],
+      "speaker": "Fullerton",
+      "time": "0013208"
+    },
+    {
+      "tokens": [
+        "Say again, Houston."
+      ],
+      "speaker": "Roosa",
+      "time": "0013217"
+    },
+    {
+      "tokens": [
+        "Dr.",
+        "Gilruth was wondering how you like to fly - how you like flight in zero g..."
+      ],
+      "speaker": "Fullerton",
+      "time": "0013220"
+    },
+    {
+      "tokens": [
+        "I think I got that one, Gordon.",
+        "You're asking about zero g and it's - it's really great.",
+        "Everybody's in great shape, we're having a ball, well ahead of the timeline."
+      ],
+      "speaker": "Roosa",
+      "time": "0013226"
+    },
+    {
+      "tokens": [
+        "Roger, I'll go ahead withTLIplus 90, Ed, if you're ready."
+      ],
+      "speaker": "Fullerton",
+      "time": "0013238"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0013243"
+    },
+    {
+      "tokens": [
+        "Okay, it's aTLIplus 90,SPS/G&N.",
+        "Noun 47, 64470; minus 1.45, plus 1.30; TIGis 003:59:51.13; Noun 81, minus 0515.8, plus all balls, plus 8420.6; attitude, 181, 256, 001; HAis NA; HP, plus 0017.1; 8436.4, 9:01, 8404.9; sextant star, 15; 221.4, 39.9; boresight star is NA; Noun 61, minus 30.14, minus 025.00; 1154.4, 33721;GETfor .05g, 012 - correction - 010:57:29.GDCAlign set stars are Sirius and Rigel; 333, 083, 013; no ullage.",
+        "Go ahead."
+      ],
+      "speaker": "Fullerton",
+      "time": "0013245"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This long list of numbers is known as Pre-Advisory Data, or a PAD for short.",
+        "It is read up to the crew slowly and deliberately from a form that is laid out in a well defined manner.",
+        "The crew have forms laid out in the same manner and they fill the numbers in before reading them back so that Mission Control can be sure they were properly copied down.",
+        "The system of reading up important information like this illustrates an interesting aspect of an Apollo flight.",
+        "While it would have been possible to have arranged a digital uplink for this information, the design of Apollo's systems was just too early for such technology to have been implemented well.",
+        "However, it is not important that the data is relayed digitally, just that it is relayed accurately.",
+        "In this era of analogue aviation, pilots were accustomed to using voice to pass data.",
+        "For a programme developed at speed during the 1960s, Apollo didn't have to be high tech, it just had to work."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "That comm wasn't too good.",
+        "I missed burn time, trunnion angle, and [pause] Please repeat those two.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0013529"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Your burn time is 9:01 and trunnion angle, 39.9.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0013547"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And say again the burn time."
+      ],
+      "speaker": "Mitchell",
+      "time": "0013558"
+    },
+    {
+      "tokens": [
+        "Burn time 9:01, 9:01.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0013601"
+    },
+    {
+      "tokens": [
+        "Roger; 9:01.TLIplus 90,SPS/G&N.",
+        "64470, minus 1.45, plus 1.30; at 003:59:51.13; 515.8, plus all zeros, plus 8420.6, 181, 256, 001; NA; plus 0017.1; 8436.4, 9:01, 8404.9; 15; 221.4, 29.9; NA; Noun 61, minus 30.14, minus 025.00; 1154.4; 33721;GETof .05g, 010:57:29; Sirius, Rigel; 332, 082, 013; no ullage."
+      ],
+      "speaker": "Mitchell",
+      "time": "0013607"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Interpretation of this particular PAD is as follows:Purpose:In the event of a serious problem soon after a good Translunar Injection, this PAD has the details of a burn which would return them quickly to Earth.",
+        "It has an ignition time of 90 minutes after TLI.",
+        "In the event of such an emergency, the SPS (Service Propulsion System) engine would be used to slow the spacecraft to below Earth escape velocity, resulting in a high altitude ballistic arc that would take them directly to splashdown without any further orbits.System:The burn would be under the control of the Guidance and Navigation System.",
+        "Burns can also be controlled by the SCS (Stabilization Control System).CSM weight (Noun 47):Calculated to be 64,470 pounds (29,243 kilograms).",
+        "Note that here, and in all the NASA documentation of the time, the term \"weight\" is freely used in the context where, strictly speaking, \"mass\" ought to be used.",
+        "Weight is defined as the force applied by a mass in a gravity field.",
+        "In free fall, mass remains the same while weight becomes essentially zero.Pitch and yaw trim (Noun 48):-1.45° and +1.30°.",
+        "The SPS engine bell is gimbal mounted to allow its thrust vector to be aligned with the spacecraft's centre of mass.",
+        "Two thumb wheels on the left of the Main Display Console allow adjustment of these pitch and yaw trim angles.",
+        "Once a burn begins, the bell's aim is slowly altered automatically to compensate for shifts in the centre of mass.Time of ignition, TIG(Noun 33):3 hours, 59 minutes and 51.13 seconds Ground Elapsed Time.Change in velocity (Noun 81), fps (m/s):X, -515.8 (-157.2); Y, 0 (0); Z, +8,420.6 (+2,566.6).",
+        "This is the change in velocity as defined along three orthogonal axes with respect to thelocal vertical.",
+        "The three velocity components in a PAD are always expressed with respect to the local vertical.",
+        "Imagine a coordinate system based on a line from the spacecraft to the centre of Earth or the Moon.",
+        "(Which you use depends on the sphere of influence you are in, i.e.",
+        "which gravitational field is stronger.) This line is the Z-axis and is vertical at the point where it intersects the surface.",
+        "The X-axis is perpendicular to this in whatever direction the spacecraft's orbit is taking it.",
+        "It is therefore parallel to the local horizontal.",
+        "The Y-axis is perpendicular to the orbital plane.",
+        "This arrangement holds even for a very extended elliptical orbit like the one Apollo 15 will take to the Moon, where the spacecraft is clearly not travelling parallel to the local horizontal.",
+        "For this burn, we can see that the largest component of velocity change is in the plus-Z direction which is towards Earth, countering the spacecraft's velocity away from the planet.Spacecraft attitude at TIG:Roll, 181°; Pitch, 256°; Yaw, 1°.",
+        "Although the velocity change is expressed with respect to the local vertical, spacecraft attitude is expressed with respect to the current alignment of the guidance platform.",
+        "That alignment is currently set to the launch pad REFSMMAT.HA(Noun 44):This is the height of the resulting orbit's apogee.",
+        "Since the computer cannot display an altitude higher than 9999.9 nautical miles, and the maximum height of the CSM during a TLI+90 abort will be much higher than that, HAis not applicable.HP(Noun 44):17.1 nautical miles (31.7 km).",
+        "This is the height of the resulting orbit's perigee.",
+        "Targeting a perigee so low will cause the spacecraft to intercept Earth's atmosphere and cause it to re-enter.Delta-VT:8,436.4 fps (2,571.4 m/s).",
+        "This is the total velocity change that would be experienced by the spacecraft.",
+        "It is a vector sum of the three components given earlier.Burn duration or burn time:9 minutes, 1 second.Delta-VC:8,404.9 fps.",
+        "This figure would be entered into the EMS (Entry Monitor System) Delta-V display.Delta-VCrequires a little more depth of explanation.",
+        "SPS engine burns are normally controlled by the G&N system.",
+        "If it is a long burn, that is, greater than six seconds, the control is closed loop.",
+        "The system monitors the achieved Delta-V and shuts down the engine at the appropriate time to reach the required Delta-V.",
+        "In doing so, it takes account of the engine's tail-off impulse, which is the amount of thrust that the engine continues to impart after the shutdown command.",
+        "It knows the thrust that is expected from this tail-off and can calculate the resulting tail-off Delta-V based on this and the spacecraft mass."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "If the G&N system were to fail during a burn, the EMS provides a backup means of shutting down the engine at the right time.",
+        "This equipment carries a separate accelerometer which measures Delta-V along the longitudinal axis of the spacecraft.",
+        "Prior to the burn, the crew enter the expected Delta-V into a display on the EMS.",
+        "As the burn progresses, the figure showing the remaining Delta-V drops towards zero, at which time the EMS sends a shutdown command to the SPS in case the G&N system has not already done so.",
+        "However, the EMS has no knowledge of the tail-off thrust.",
+        "The flight controllers take this into account and give the crew a low Delta-V figure for entering into the EMS so that if it is called upon to shut down the engine, it will do so early enough for the tail-off thrust to effect the correct total Delta-V."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Continuing with the explanation of the PAD:Sextant star:Star 15 (Sirius, Alpha Canis Majoris) should be visible through the sextant when its shaft and trunnion are set to the values 221.4° and 39.9° respectively.Boresight star:Not available.",
+        "This is a second attitude check which is made by sighting on another celestial object with the COAS (Crew Optical Alignment Sight) at a window.",
+        "In this case, since all the windows are facing Earth, there is no boresight star to be seen.The next five parameters all relate to re-entry, during which an important milestone is \"Entry Interface,\" defined as being 400,000 feet (121.92 km) altitude.",
+        "However, in this context, a more important milestone is when atmospheric drag on the spacecraft imparts a deceleration of 0.05g.Expected splashdown point (Noun 61):30.14° south, 25.00° west; in the mid-Atlantic.Range to go at the 0.05 g event:1,154.4 nautical miles.",
+        "To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel from the 0.05g event to landing.",
+        "This figure will be decremented by the EMS based on signals from its own accelerometer.Expected velocity at the 0.05g event:33,721 fps.",
+        "This is another entry for the EMS.",
+        "It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.GET of 0.05g event:Expected at 10 hours, 57 minutes, 29 seconds GET.",
+        "This is when it is expected that the EMS and P64 will be triggered.GDC Align stars:Stars Sirius and Rigel are to be used to align the gyro assemblies if it is not possible to use the guidance platform for this purpose.GDC Align angles:Roll, 333°; Pitch, 83°; Yaw, 13°.GDC Align is another term that needs a little more explanation.",
+        "The spacecraft has two independent systems for determining attitude and changes in attitude.",
+        "The primary system is the IMU and its stable platform, held orientated to the stars by gyroscopes.",
+        "A secondary system, usually tied to the SCS, comprises a set of gyros that are attached to the spacecraft structure.",
+        "In other words, being mounted directly to the body of the spacecraft, their mounts are not stable.",
+        "Unlike the IMU, which measures absolute attitude, these gyro assemblies only measure the rate of attitude change.",
+        "However, absolute attitude can be derived from these measurements by integrating the change, a job carried out by the GDCs (Gyro Display Couplers).",
+        "This technique is imprecise so at regular times, the crew presses the GDC Align button to make the GDCs knowledge of attitude match the IMU's.",
+        "The question then arises; what happens if the IMU is not working?",
+        "The crew then have a backup method of aligning the GDCs by sighting two stars through the scanning telescope in a particular way.",
+        "They know what the spacecraft's attitude should be when this is achieved and can dial this into the GDCs, properly aligning them."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The final note in the PAD concerned the ullage burn.",
+        "Since the SPS propellant tanks are full, there is no need to perform a small RCS burn, known as the ullage burn, to settle their contents."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "I have about four corrections.",
+        "The first is onDelta-VXon Noun 81.",
+        "I missed your readback on that.",
+        "It should be minus 0515.8.",
+        "Is that what you got?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0013741"
+    },
+    {
+      "tokens": [
+        "That's affirm; 0515.8."
+      ],
+      "speaker": "Mitchell",
+      "time": "0013755"
+    },
+    {
+      "tokens": [
+        "Okay; a couple of read-backs were incorrect.",
+        "Trunnion angle is 39.9, 39.9.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0013758"
+    },
+    {
+      "tokens": [
+        "Roger; trunnion, 39.9."
+      ],
+      "speaker": "Mitchell",
+      "time": "0013808"
+    },
+    {
+      "tokens": [
+        "And on R-aligns, or theGDCalign, that is 333, and pitch is 083.",
+        "Yaw you read back correctly, 013.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0013811"
+    },
+    {
+      "tokens": [
+        "Roger; 333, 083, and you're coming in very loud and clear now, Gordon."
+      ],
+      "speaker": "Mitchell",
+      "time": "0013826"
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "You've been loud and clear.",
+        "I'll give you the P37 for Lift-off plus 8, if you're ready."
+      ],
+      "speaker": "Fullerton",
+      "time": "0013833"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0013838"
+    },
+    {
+      "tokens": [
+        "Okay,GETof ignition is 008:00, 3283, minus 165, andGETfor 400K, 045:38.",
+        "Go ahead.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "00133840"
+    },
+    {
+      "tokens": [
+        "That's 008:00, 3283, minus 165, and 045:38."
+      ],
+      "speaker": "Mitchell",
+      "time": "001:39:02"
+    },
+    {
+      "tokens": [
+        "The Lift-off + 8 PAD carries data for P37, a program in the computer that will calculate the details of a burn that will return the crew to Earth."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The PAD is interpreted as follows:Time of ignition:8 hours GETChange in velocity:3,283 fps (1,000 m/s)Longitude of Earth landing point:-165° or 165° West.Time of entry into Earth atmosphere;defined as 400,000 feet (122 km) altitude: 45 hours, 38 minutes GET.An important condition for P37 is that the spacecraft must still be in Earth's sphere of influence, thus simplifying the calculations.",
+        "The program takes the four values from the PAD; the specified time for ignition of the engine, a specified maximum change in velocity (or Delta-V), the longitude of the splashdown and the GET for the start of re-entry.",
+        "These act as a set of constraints with which it calculates the desired trajectory and the details of the burn to achieve it."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, your readback's correct, and I have theTLIPAD."
+      ],
+      "speaker": "Fullerton",
+      "time": "0013913"
+    },
+    {
+      "tokens": [
+        "Okay, these PADs are sure wrecking my viewing, but all right.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0013919"
+    },
+    {
+      "tokens": [
+        "Okay, Houston, go ahead with theTLIPAD."
+      ],
+      "speaker": "Shepard",
+      "time": "0013932"
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "Before the PAD, would you give usP00and Accept for a new state vector?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0013935"
+    },
+    {
+      "tokens": [
+        "The concept of the state vector is central to the guidance and navigation of the spacecraft.",
+        "Simply put, it is a collection of six numbers that apply at a moment in time (seven items in all) that describe where the spacecraft is, how fast it is going and in which direction.",
+        "More specifically, three numbers define the spacecraft's position within the current coordinate system.",
+        "Three more define its velocity resolved along the three axes of that coordinate system and all six of those numbers are relevant to a particular time.",
+        "With an understanding of Newtonian mechanics and a reasonably good mathematical model of the Solar System, it is possible to use a spacecraft's state vector to calculate, with useful accuracy, the path it is going to take."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "TheCSM's state vector is stored in the computer's erasable memory and there is an additional space there set aside for the Lunar Module's state vector.",
+        "The state vector is usually determined through radio tracking and at regular intervals this is uplinked to the spacecraft.",
+        "For this, the crew will give Mission Control access to the erasable memory by setting the computer's major mode to P00 and throwing the Uptelemetry switch to Accept.",
+        "In case of a problem with the communications system, the CMP can also determine the state vector independently by optical means and Stu will practise this technique throughout both cislunar coasts."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, you have it.",
+        "[Pause.]"
+      ],
+      "speaker": "Shepard",
+      "time": "0013942"
+    },
+    {
+      "tokens": [
+        "And I'm ready with theTLIPAD."
+      ],
+      "speaker": "Fullerton",
+      "time": "0013949"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Shepard",
+      "time": "0013951"
+    },
+    {
+      "tokens": [
+        "Roger; time base 6 predict; 2:18:51; attitude forTLI, 179, 136, 000; burn time, 5:52; 10363.0; 35549; Sep attitude, 359, 168, 319; extraction attitude, 301, 348, 041; ejection time is 3:56:00.",
+        "Go ahead."
+      ],
+      "speaker": "Fullerton",
+      "time": "0013952"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I have 02:18:51.",
+        "I missed the angles; burn time, 5 plus 52; 10363.0, 35549; 359, 168, 319; 301, 348, 041; ejection, 3:56:00.",
+        "And would you give me the angles again, please?",
+        "[Long pause.]"
+      ],
+      "speaker": "Shepard",
+      "time": "0014007"
+    },
+    {
+      "tokens": [
+        "Roger, Al.",
+        "Your readback was correct.",
+        "TheTLIattitude is 179, 136, 000.",
+        "Go ahead."
+      ],
+      "speaker": "Fullerton",
+      "time": "0014028"
+    },
+    {
+      "tokens": [
+        "I have 179, 136, 000."
+      ],
+      "speaker": "Shepard",
+      "time": "0014042"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Readback correct."
+      ],
+      "speaker": "Fullerton",
+      "time": "0014047"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This PAD data is structurally different to other burn PADs because the maneuver is controlled by the IU on the launch vehicle and not the computer in the CM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The timings for events relating to the launch vehicle are defined relative to a number of time bases, each of which begins with a particular event.",
+        "This allows complete sequences to be tied, not to the mission time but to critical events.",
+        "The restart sequence for the S-IVB's single J-2 engine is part of time base 6 which itself is determined by the spacecraft's current orbit and the best time in that orbit to head for the Moon.",
+        "When TB-6 begins, all subsequent events to restart the engine such as tank repressurisation, engine chilldown, ullage, etc., follow on, leading to the engine start command 9 minutes, 30 seconds later, and ignition 8 seconds after that."
+      ],
+      "speaker": "Commentary",
+      "time": "tb6"
+    },
+    {
+      "tokens": [
+        "The PAD is interpreted as follows:TB-6 predict light:002:18:51.",
+        "This is predicted start of time base 6.",
+        "It implies that TIG(time of ignition) will be 9:38 later, at 002:28:29.Attitude for TLI:179°, 136°, 0° in roll, pitch and yaw respectively.",
+        "This attitude is stated with respect to the orientation that the guidance platform has held since launch.Duration of burn:5 minutes, 52 seconds.Delta-VC':10,363.0 fps.",
+        "This figure will be entered into the EMS to allow the crew to monitor the remaining velocity that is still to be added.",
+        "This should be at zero when the burn comes to an end.VI:35,549 fps (10,835.3 m/s).",
+        "Inertial velocity at engine cut-off.Separation attitude:The correct attitude for separation of the CSM from the launch vehicle is 359°, 168°, 319° in roll, pitch and yaw respectively, again with respect to the orientation of the guidance platform.",
+        "Among the criteria for adopting this attitude is solar illumination of the LM to assist the docking procedure.Extraction attitude:The correct attitude for extraction of the LM from the S-IVB is 301°, 348°, 41° in roll, pitch and yaw respectively.LM extraction time:The LM will be extracted from the top of the S-IVB stage by the docked CSM at 3 hours, 56 minutes GET.The crew also have tasks to perform in the minutes around the TLI burn and so to help coordinate everything, they will use their event timer.",
+        "Very near the predicted time of 002:18:51, TB-6 will begin and this will be shown by both the 'Uplink Activity' and 'S-II Sep' lamps coming on.",
+        "The former is illuminated for ten seconds, the latter for 38 seconds.",
+        "At 9 minutes to ignition, the 'S-II Sep' lamp will be extinguished and Al will use this as a cue to start the event timer counting up, having previously set it to 51:00.",
+        "This will give a visual count-up to and beyond ignition to aid the crew in sequencing their final tasks before and during TLI.",
+        "Items in the checklist are therefore shown with times from 51:00, through (1:)00:00 and upwards."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "The computer's yours.",
+        "We're through with the uplink."
+      ],
+      "speaker": "Fullerton",
+      "time": "0014207"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Shepard",
+      "time": "0014211"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The purpose of the translunar injection is to perform something akin to what is known as a Hohmann transfer to get to the Moon.",
+        "What this means is that they will fire the S-IVB stage in order to gain more velocity, and doing so, to raise the apogee of their orbit.",
+        "The apogee is the highest point of the orbit around the Earth, while the perigee is the lowest point.",
+        "Currently they are in an essentially circular orbit where both the perigee and the apogee points are close to 100 nautical miles.",
+        "The point in their orbit where they burn the engine will become their perigee, and the rise in velocity will also cause their apogee to rise."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In the case of a TLI, this engine burn to raise the apogee will turn their circular orbit into a highly elliptic one, with the new apogee beyond the orbit of the Moon.",
+        "The maneuver is aimed to be in the vicinity of the Moon in approximately three days' time.",
+        "The Moon is currently about 40° further back in its orbit.",
+        "As they close in on the Moon, the gravity of our natural satellite will influence the trajectory of the spacecraft and to pull it around the lunar far side.",
+        "Should the crew do nothing, they will be thrown back towards the Earth on the so-called free return trajectory."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We're going to stand by for your Go for pyro arm."
+      ],
+      "speaker": "Shepard",
+      "time": "0014340"
+    },
+    {
+      "tokens": [
+        "Roger, Al.",
+        "Stand by."
+      ],
+      "speaker": "Fullerton",
+      "time": "0014346"
+    },
+    {
+      "tokens": [
+        "You're Go for pyro arm now.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0014349"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Our Logic switches are on."
+      ],
+      "speaker": "Shepard",
+      "time": "0014400"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Now you're Go for pyro arm."
+      ],
+      "speaker": "Fullerton",
+      "time": "0014403"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Roosa",
+      "time": "0014406"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston."
+      ],
+      "speaker": "Fullerton",
+      "time": "0014510"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0014513"
+    },
+    {
+      "tokens": [
+        "We have about 4 minutes toLOSVanguard, Ed.",
+        "And, due to the launch delay, the Canary pass will be pretty low elevation, marginal; at the most, about 2 minutes long."
+      ],
+      "speaker": "Fullerton",
+      "time": "0014515"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0014530"
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston."
+      ],
+      "speaker": "Fullerton",
+      "time": "0014625"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0014629"
+    },
+    {
+      "tokens": [
+        "We're reading theCDR's EKG loud and clear now.",
+        "We're wondering if you did anything to fix it up there."
+      ],
+      "speaker": "Fullerton",
+      "time": "0014630"
+    },
+    {
+      "tokens": [
+        "Nope."
+      ],
+      "speaker": "Shepard",
+      "time": "0014638"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It looks good."
+      ],
+      "speaker": "Fullerton",
+      "time": "0014641"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"Apollo Control, Houston; 1 hour, 47 minutes now into the flight.",
+        "You heard the Translunar Injection PAD being passed to the crew.",
+        "We're presently looking at a time of ignition of 2 hours, 28 minutes, 29 seconds.",
+        "ADelta-Von the burn of 10,367 feet per second [3,160 m/s].",
+        "Burn duration of 5 minutes, 52 seconds.",
+        "Velocity at time of shutdown, 35,549 feet per second [10,835 m/s].",
+        "As you heard CapCom Fullerton pass along, apparently we are receiving medical data from the commander at this time.",
+        "We're at 1 hour, 48 minutes into the flight of Apollo 14; this is Apollo Control, Houston.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"Apollo Control, Houston.",
+        "One hour, 50 minutes now into the flight.",
+        "We...\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston."
+      ],
+      "speaker": "Fullerton",
+      "time": "0014939"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0014942"
+    },
+    {
+      "tokens": [
+        "Roger; we're real close toLOS.",
+        "I'll go ahead and give you the words I've got aboutTLI.",
+        "First of all, the - the monitor angles on page L2-24 should all be increased by 2.5 degrees.",
+        "And, if you're monitoring theTLIburn with the cue card, the pitch angles should all be reading about 9 degrees higher than on the card.",
+        "The yaw should be within a quarter degree, one-fourth degree of what the card reads.",
+        "Did you copy?",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0014944"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Canary (Rev-2)"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"Apollo Control, Houston.",
+        "One hour, 51 minutes.",
+        "Apparently we had Loss of Signal with 14 just about the time CapCom Fullerton was passing along that new data.",
+        "We repeat, we show a time of ignition forTLIof 2 hours, 28 minutes, 29 seconds.",
+        "A delta velocity of - orDelta-Vof 10,367 feet per second [3,160 m/s].",
+        "A burn duration of 5 minutes, 52 seconds and a velocity at time of shutdown of 35,549 feet per second [10,835 m/s].",
+        "Reacquiring with Canary.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston through Canaries.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0015127"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We got nothing of your last transmission.",
+        "You dropped off the air."
+      ],
+      "speaker": "Mitchell",
+      "time": "0015131"
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "I'll start over.",
+        "For theTLI- coming up on your monitor - First of all on the cue card, the yaw angles as shown are okay.",
+        "The pitch that you see on the ball should be 9 degrees higher all the way through the burn than as shown on the cue card; just add 9 to all your pitch angles and that should be good.",
+        "On theORDEALangles that - is shown on pages 2-24 and 25, increase each of those by 2 and a half degrees.",
+        "At 57 minutes, instead of 18, you should have 20.5 degrees; at 59 minutes, 12.5; and at 59:55, 8.5 degrees.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0015136"
+    },
+    {
+      "tokens": [
+        "Roger; understand that the yaw angles are okay.",
+        "Pitch should be - angle should be plus 9 degrees andORDEALangles increased by 2.5 degrees."
+      ],
+      "speaker": "Mitchell",
+      "time": "0015240"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That pitch is a 9-degree increment over what is shown on the card.",
+        "In other words, all the angles should be 9 degrees higher than as shown on the card - the inertial angles.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0015252"
+    },
+    {
+      "tokens": [
+        "Roger; got you, Gordon.",
+        "We got that.",
+        "We're with you.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0015304"
+    },
+    {
+      "tokens": [
+        "The ORDEAL unit is an odd piece of equipment that was an add-on to the spacecraft's systems.",
+        "It arose from the differing ways that two groups considered space flight.",
+        "On the one hand, the engineers at MIT who designed the Apollo guidance and navigation system viewed the task as something that occurred in inertial space, hence the IMU that measured their orientation and movement in that inertial space.",
+        "The astronauts, on the other hand, came from the aviation world.",
+        "They flew with reference to the ground below and one of their most important instruments was the artificial horizon which indicated their aircraft's orientation with respect to the local horizontal plane.",
+        "Since many of the manoeuvres they made were carried out with respect to the ground, they argued that the spacecraft should likewise have an artificial horizon.",
+        "The nearest they got was the Flight Director/Attitude Indicator (FDAI or 8-ball).",
+        "This used a rotatable ball to display inertial attitude but it could not, by itself, display attitude with respect to the ground below.",
+        "It was slaved to the IMU platform and therefore mimiced it by staying still in inertial space while the spacecraft appeared to rotate around it."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is where the ORDEAL comes in.",
+        "A spacecraft that was keeping one side facing the ground as it orbits is really just rotating around on an axis in exact sympathy with its revolution around the planet.",
+        "This is called 'orbital rate' rotation, or 'orb rate' for short.",
+        "Therefore, if the 8-ball can be made to rotate in sympathy with the orbit, it should be possible to make it act like an artifical horizon, displaying attitude with respect to the ground.",
+        "All that is then required is for the starting conditions to be set up properly."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "ORDEAL stands for Orbital Rate Display Earth and Lunar.",
+        "To do its job, it needs two things.",
+        "First, it needs to know what world the spacecraft is circling around.",
+        "An orbit around Earth takes about 90 minutes and a lunar orbit takes around 2 hours.",
+        "A switch on the unit selects which of these two so that the rate of rotation of the ball is in about the correct range.",
+        "The second thing required is the spacecraft's average orbital altitude.",
+        "This takes account of the fact that a lower orbit has a shorter period.",
+        "The ORDEAL includes a calibrated knob that allows the altitude, in nautical miles to be dialled in.",
+        "Assuming it has been carefully calibrated preflight, the device can produce a drive signal that rotates the 8-ball in near sympathy with the orbital rotation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Being an add-on, the CM ORDEAL has to be fished out of its stowage compartment and installed in space.",
+        "The unit for the LM was already installed preflight.",
+        "Then to set it up, the crewman begins by determining the spacecraft's pitch angle with respect to the current horizon.",
+        "This gives him the starting point for the ball rotation.",
+        "He then applies the ORDEAL's drive signal to start the ball rotating to keep one side facing the ground.",
+        "It wasn't perfect but was accurate enough for short term use."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Fullerton",
+      "time": "0015318"
+    },
+    {
+      "tokens": [
+        "On your P15, we show that you loaded the wrong seconds figure for time base 6.",
+        "Will you check it?",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0015323"
+    },
+    {
+      "tokens": [
+        "Thank you, Gordon.",
+        "Good call.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0015342"
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Fullerton",
+      "time": "0015429"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Shepard",
+      "time": "0015432"
+    },
+    {
+      "tokens": [
+        "For that time to take, you're going to have to reselect P15."
+      ],
+      "speaker": "Fullerton",
+      "time": "0015434"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I - I did, Gordon.",
+        "We'll run through it again."
+      ],
+      "speaker": "Shepard",
+      "time": "0015440"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0015443"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"P15 is the Saturn time base 6 initiation program.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"This is Apollo Control, Houston; one hour and 55 minutes.",
+        "We had Loss of Signal with Canaries.",
+        "Meanwhile the countdown clocks in Mission Control show aAOStime of 11 minutes for the Command Module.",
+        "This isARIAor an Apollo Range and Instrumentation Aircraft acquisition and we're counting down now for time of ignition.",
+        "Presently showing 32 minutes, 40 seconds away from time of ignition.",
+        "We're at one hour, 56 minutes into the flight, continuing to monitor; this is Apollo Control, Houston.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "TheDAPor Digital AutoPilot is a control routine in the computer that maintains the spacecraft's attitude without the direct intervention of a crewman.",
+        "It runs in the background of this multitasking machine.",
+        "To control its behaviour, digits can be set in two registers, R1 and R2."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew can access these registers with Verb 48."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "These are the digits in R1 of the DAP.",
+        "The '3' indicate that the CSM and S-IVB are being manoeuvred together.",
+        "'1' and '1' are to enable both opposing quads.",
+        "The '0' indicates that control will be tight with only ±0.5° from ideal being allowed before active control is made.",
+        "Finally, '2' indicates that the rate of turning that the DAP should aim for is 0.5° per second."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This entry into R2 of the DAP means that opposing quads B and D will be used to effect a roll, and that all four quads can be used for attitude control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Verb 83 is a request to display rendezvous parameters.",
+        "This yields three numbers; the range to the target, the range rate (speed of approach) to the target and and angle, theta."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This angle is what interests them because it tells them the angle between the spacecraft's plus-X axis and the local horizontal.",
+        "They set the FDAI to show that angle on its pitch scale and start the ball rotating, driven by the ORDEAL box.",
+        "As they orbit Earth, the ball will show them their pitch angle with respect to the local horizontal."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-005"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"This is Apollo Control, Houston; at 2 hours, 4 minutes now into the flight of Apollo 14.",
+        "We presently show 14 in an orbit of 106.2 nautical miles [196.7 km] by 102.4 nautical miles [189.6 km].",
+        "Our latest update on the Translunar Injection burn shows a time of ignition of 2 hours, 28 minutes, 30 seconds; a Delta-V of 10,366.5 feet per second [3,159.7 m/s]; burn duration of 5 minutes, 52 seconds; predicted velocity at time of shutdown, 35,551.8 feet per second [10,836.2 m/s]; an altitude at time of cut-off of 173 nautical miles [320 km].",
+        "The Go No/Go callup forTLIwill be made after acquisition at Carnarvon, although we will have voice communications with Apollo 14 throughARIA, we will lose station acquisition in about 2 minutes into the burn and will not be able to read onboard data.",
+        "However, the crew of Apollo 14 will pass a burn status report at the end of burn and what they will be reading will be from theirDSKY.",
+        "They will pass along the velocity at time of shutdown, altitude at time of shutdown, and H-dot or altitude change at time of shutdown.",
+        "The Translunar Injection burn will be done along the local horizontal.",
+        "We're at 2 hours, 6 minutes into the flight of Apollo 14 and we'll stand by until we acquire the spacecraft.",
+        "This is Apollo Control, Houston.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Many folk are familiar with f-stops when referring to lenses.",
+        "The T-stop is much less known.",
+        "An f-stop is the ratio of a lens's focal length to its aperture, usually set by a variable iris.",
+        "So a 50-mm-focal-length lens with a 25-mm aperture is said to be a f/2 lens.",
+        "All being perfect, it will allow through the same amount of light as a 80-mm lens with a 40-mm aperture.",
+        "Thus, knowing the aperture is important when determining the proper exposure of photographic film (as used in Apollo 14's day), or an image sensor.",
+        "However, for critical exposure situations, the f-stop isn't quite good enough because it doesn't take account of how much light is being lost simply by passing through the lens, particularly complex lenses with many pieces of glass.",
+        "The T-stop does takes account of the lens's transmittance so that exposure calculations can be more accurate.",
+        "Lenses used for stills cameras usually measure the light passing through the lens anyway so there is no need to worry about the lens's transmittance.",
+        "Movie cameras on the other hand tend not to have metering through the lens.",
+        "Instead movie film exposure generally uses a separate meter and as a result, in order to achieve more accurate exposure, the transmittance of the lens must be taken into account.",
+        "Thus lenses for movie film cameras are more likely to be calibrated in T-stops."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Just now, Al is setting up a DAC, a Data Acquisition Camera, NASA-speak for 16-mm movie cameras built by Maurer that were used to film aspects of the mission.",
+        "Being a movie camera, its lens happens to be calibrated in T-stops though the crew won't use accurate metering for exposure determination.",
+        "They will instead rely on exposure having been calculated before the flight."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The astros are finding common ground in relating the new sensations to their past experience with high-g maneuvers on board fighter jets."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"This is Apollo Control, Houston; at 2 hours, 16 minutes now into the flight of Apollo 14.",
+        "We'll stand by for any communications with theARIAaircraft.",
+        "We're 12 minutes, 25 seconds away from time of ignition.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo, Houston; this - Apollo 14, this is Houston throughARIA4.",
+        "How do you read?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0021637"
+    },
+    {
+      "tokens": [
+        "Houston, this is Apollo 14.",
+        "Loud and clear.",
+        "How me?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0021644"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You're readable; a little bit in the background noise, but loud and readable."
+      ],
+      "speaker": "Fullerton",
+      "time": "0021647"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0021655"
+    },
+    {
+      "tokens": [
+        "\"That was Ed Mitchell responding aboard the spacecraft.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston; 14.",
+        "How do you read now?"
+      ],
+      "speaker": "Roosa",
+      "time": "0021714"
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "You're readable, too.",
+        "Go ahead."
+      ],
+      "speaker": "Fullerton",
+      "time": "0021718"
+    },
+    {
+      "tokens": [
+        "Okay, I was just checking the comm here.",
+        "Gee, you're just beautiful; theARIAis really putting out for us."
+      ],
+      "speaker": "Roosa",
+      "time": "0021723"
+    },
+    {
+      "tokens": [
+        "\"We're ten minutes away now, from time of ignition.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I guess this is the best ever forARIA."
+      ],
+      "speaker": "Fullerton",
+      "time": "0021729"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"2 minutes 18 seconds, that was Stu Roosa coming in with a comment.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "A guarded switch allows the crew to change the Saturn V guidance from its internal Instrument Unit to CMC - Command Module Computer mode, which also enables manual control using the Rotational Hand Controller."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "From Apollo 11 onwards, the commanders had the ability to wrestle control of the Saturn V to themselves if necessary and fly it manually.",
+        "Many of them relished the thought but no one ever got the opportunity."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This configuration verification starts the Normal TLI procedure in their Launch Checklist.",
+        "It will be performed under automatic control from the IU in the S-IVB.",
+        "A manual option with Command Module guidance exists, and would be used if the IU fails but the booster is otherwise sound.",
+        "The loss of internal S-IVB guidance is no grounds for cancelling the whole mission, as long as the crew can safely make the burn for the Moon."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We have anS-IISep light."
+      ],
+      "speaker": "Roosa",
+      "time": "0021856"
+    },
+    {
+      "tokens": [
+        "At the base of the S-IVB stage is a device that looks like a small rocket motor.",
+        "This was the O2/H2burner and it consisted a chamber, within which oxygen and hydrogen were burned to generated a hot exhaust gas.",
+        "This exhaust warmed coils as it passed on its way to a nozzle.",
+        "The coils carried extremely cold helium that had been stored within spheres in the hydrogen fuel tank.",
+        "The heat from the burner's exhaust expanded the helium before it was sent to repressurise both tanks.",
+        "The exhaust gas then exited via the nozzle, and in doing so, imparted a small but measurable thrust on the stack of about 170 newtons (39 lb-f).",
+        "The direction of this thrust was deliberately set to pass near to the stack's centre of mass in order to avoid causing unwanted rotation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Count down to the Sun."
+      ],
+      "speaker": "Mitchell",
+      "time": "0021909"
+    },
+    {
+      "tokens": [
+        "\"Nine minutes away now.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "As indicated by the extinguishing of the S-II light, there are nine minutes until ignition and so the event timer is started, having previously been preset to 51:00.",
+        "It will count up to ignition and beyond to help the crew coordinate their tasks aroundTLIfor the next nine minutes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew is making sure that the CSM's own guidance mode is now at SCS, which means that the Stabilization Control System has spacecraft control.",
+        "This means that the onboard computer is not attempting to control their attitude, which might fight against the S-IVB."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The S-IVB liquid oxygen and hydrogen tanks are being pressurized for the burn.",
+        "Should the pressure suddenly get dangerously high, they are to perform an emergency separation from the booster and get away from the S-IVB."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "On top of the Master Display Console, a bank of lights serve to announce any critical systems malfunctions to the crew.",
+        "The Caution and Warning System constantly monitors certain parameters in the primary systems, and will trigger an audio and visual alarm with an alert tone, the Master Alarm lights, and the illumination of an indicator light for the associated system.",
+        "Having the O2Flow High light come up is one of the more serious alarms, which ought to prompt immediate action.",
+        "It implies that an increasing amount of oxygen is being drawn from the onboard supply, which means that oxygen in the cabin is possibly being lost out to space."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ed's initial idea is to check the Direct O2valve on the left-hand side of the cabin, which allows extra oxygen into the cabin.",
+        "Having it open could certainly be the culprit."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stu is more than likely checking the cabin pressure from its own gauge."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ed is unhappy to note that the indicated pressure readings are now low enough that technically per the Mission Rules, they would have to abort the TLI."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0022126"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0022129"
+    },
+    {
+      "tokens": [
+        "Roger; we missed if you did call time base 6 starting.",
+        "We'd like to know how the tank pressures look; over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0022130"
+    },
+    {
+      "tokens": [
+        "Okay, it looked to us like time base started within 1 second of nominal time, and the oxidizer tank is currently - quietly - at 37 and the [garble] tank is currently setting quietly at 26."
+      ],
+      "speaker": "Shepard",
+      "time": "0022138"
+    },
+    {
+      "tokens": [
+        "Roger, Al."
+      ],
+      "speaker": "Fullerton",
+      "time": "0022154"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"That was Alan Shepard responding to that call.",
+        "We're at 2 hours, 22 minutes now.",
+        "6 minutes, 25 seconds away from time of ignition.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The ORDEAL was previously driving the 8-ball at an orbital rate based on their 100-nautical mile orbit around Earth.",
+        "They are now setting the ORDEAL to drive the 8-ball at its slowest possible rate by using it's lunar range (where an orbit takes about 2 hours) and adjusting the altitude setting for 300 nautical miles.",
+        "(Higher orbits take longer than lower orbits.) This is likely to allow them to monitor their attitude during the TLI burn, at least crudely.",
+        "As the burn progresses, their path around Earth will straighten out and will approximate a orbit with a slower orbital-rate rotation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stu is theorizing that the suit accumulator - which removes condensated water from the suit circuit - operating could also have caused the earlier alarm.",
+        "The accumulator is set to operate automatically once every 10 minutes with a clock signal from the onboard timer."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Carnarvon (Rev-2)"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0022407"
+    },
+    {
+      "tokens": [
+        "\"Four minutes away now from time of ignition.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "14."
+      ],
+      "speaker": "Mitchell",
+      "time": "0022438"
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "How do you read?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0022440"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"We now are receiving Carnarvon data, and very shortly Flight Director Pete Frank will poll this flight control team as to our status forTLI.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Program 47"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston; 14.",
+        "How do you read us?"
+      ],
+      "speaker": "Roosa",
+      "time": "0022549"
+    },
+    {
+      "tokens": [
+        "Roger, 14; this is Houston through Carnarvon, and you're loud and clear."
+      ],
+      "speaker": "Fullerton",
+      "time": "0022553"
+    },
+    {
+      "tokens": [
+        "Communication has been restablished with Houston, this time through the station in Western Australia."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You're 5 square.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0022557"
+    },
+    {
+      "tokens": [
+        "\"2 minutes, 20 - 2 hours, 26 minutes.",
+        "Pete Frank now taking a status check with his flight control team.",
+        "Coming up all greens.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston."
+      ],
+      "speaker": "Fullerton",
+      "time": "0022636"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0022638"
+    },
+    {
+      "tokens": [
+        "You're Go for the Moon.",
+        "Go forTLI."
+      ],
+      "speaker": "Fullerton",
+      "time": "0022639"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go forTLI."
+      ],
+      "speaker": "Shepard",
+      "time": "0022640"
+    },
+    {
+      "tokens": [
+        "Apollo 11 CMP Mike Collins wrote in his superbly readable autobiography \"Carrying the Fire\" that, during his flight on Apollo 11, he felt this call to the spacecraft for TLI (Translunar Injection) was about as dramatic as asking for a second lump of sugar, and that there ought to be more to this \"umbilical snipping ceremony\".",
+        "Working as the CapCom during Apollo 8, Mike Collins was the first person to give such a clearance to GO for TLI."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"That was Al Shepard responding to that Go forTLI.",
+        "We're at 2 hours, 27 minutes now into the flight.",
+        "One minute, 32 seconds from time of ignition.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The two ullage thrusters on the S-IVB begin to fire, to settle in the propellants for the TLI burn.",
+        "Per Ed's comment earlier, he appears to have been expecting to feel it start to affect them."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The O2/H2burner is turned off.",
+        "Pressurization of the propellant tanks is continued from the supply of ambient temperature helium from storage spheres on the thrust structure at the very bottom of the S-IVB stage.",
+        "This ensures that the liquid oxygen and hydrogen tanks are up to nominal pressure once the burn begins."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"Less than 30 seconds away now from time of ignition.",
+        "Our displays show a predicted apogee resulting from this burn of a 250,263.7 nautical miles [463,488.4 km].",
+        "We're at 2 hours, 28 minutes now into the flight.",
+        "Standing by.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In the case of a TLI, this engine burn to raise the apogee will turn their circular orbit into a highly elliptic one, with the new apogee well beyond the orbit of the Moon.",
+        "The maneuver is aimed for the Apollo spacecraft to be in the vicinity of the Moon in approximately three days time.",
+        "The Moon is currently about 40Â° further back in its orbit.",
+        "As they close in on the Moon, the gravity of our natural satellite will influence the trajectory of the spacecraft and to pull it around the lunar far side.",
+        "Should the crew do nothing, they will be thrown back towards the Earth on the so-called free return trajectory."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We have Ignition."
+      ],
+      "speaker": "Shepard",
+      "time": "0022834"
+    },
+    {
+      "tokens": [
+        "The S-IVB's J-2 engine comes alive again just about above the western coast of Australia."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger; Ignition."
+      ],
+      "speaker": "Fullerton",
+      "time": "0022837"
+    },
+    {
+      "tokens": [
+        "Smooth start.",
+        "Steering's good."
+      ],
+      "speaker": "Shepard",
+      "time": "0022842"
+    },
+    {
+      "tokens": [
+        "Roger, and we show good thrust on theS-IVB."
+      ],
+      "speaker": "Fullerton",
+      "time": "0022844"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"That's Al Shepard, spacecraft commander giving that report.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"Booster says we look good; 1 minute, 3 seconds into the burn.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"Flight dynamics is pleased with the agreement between his data.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"We show a velocity buildup on one of our displays presently reading 27,390 feet per second [8,348 m/s].\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The maximum acceleration reached during the TLI burn will be 1.43 g's."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"Coming up now on 2 minutes.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston.",
+        "Tank pressures are steady at 40 and 30."
+      ],
+      "speaker": "Shepard",
+      "time": "0023039"
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0023043"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"Al Shepard again from aboard the spacecraft.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "PU is Propellant Utilsation and AB is a reference to aircraft afterburners."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The J-2 engine has an ability to alter its mixture ratio setting - the ratio of LOX to hydrogen that is combusted in its thrust chamber.",
+        "This is achieved by a valve which feeds the output of the LOX turbopump back to its input, essentially controlling its ability to do its job well.",
+        "This valve is known as either the Propellant Utilisation valve (PU valve) or the Mixture Ratio Control Valve (MRCV)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In the S-IVB, this capability is used to help ensure balanced consumption of the propellants.",
+        "Sufficient liquid hydrogen had been loaded into theS-IVBto account for the high rate of boil-off of the propellant in caseTLIwere to be delayed by an orbit.",
+        "This would permit a lateTLIburn at the engine's normal mixture ratio of 5:1.",
+        "But the burn has occurred at the planned time and so there is an excess of hydrogen aboard.",
+        "This is used up by burning the first part of an on-timeTLIburn at a low mixture ratio of 4.5:1.",
+        "As a result, the thrust is lower at about 790 kN (180,000 lb-f) because there are fewer oxygen molecules available to react with the hydrogen.",
+        "The engine's efficiency, however, is higher because there are more lightweight hydrogen molecules in the exhaust.",
+        "Being lighter, they can be accelerated to higher speeds and efficiency depends on the exhaust velocity.",
+        "2 minutes, 17 seconds into the burn, the PU valve shifts to change the mixture ratio to 5:1.",
+        "With more oxygen available, the thrust rises to about 890 kN (200,000 lb-f), prompting Stu to comment that it feels like the afterburners coming on in a jet aircraft.",
+        "Although the thrust is higher, the efficiency drops slightly, from about 432 seconds to about 427 seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"Thrust data looks good.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"Still receiving data showing the velocity of 29,212 feet per second [8,904 m/s].\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"3 minutes, 10 seconds now into the burn.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "All rockets are prone to vibrations, particularly those that act along the length of the vehicle, known s 'pogo' after a child's toy.",
+        "The power for the vibrations comes from the engines but their frequency is determined by many factors like the inherent resonant frequency of the engines, of the propellant delivery lines and of the vehicle itself.",
+        "The mass of the vehicle is one of the variables that affect its resonant frequency and that mass is gradually decreasing as the propellant is consumed.",
+        "Therefore, as the burn progresses, the vehicle's reaction to the vibrations from the engines constantly changes as it goes from one resonant mode to another."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"Coming up now on 4 minutes, 4 minutes.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"We've hadLOSwith Canarvon.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"Network reports we're receiving IU data through Guam.",
+        "Looks good.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"Apollo 14 tracking right down the middle of our plot boards in Mission Control.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "ARIA(Rev-2)"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"5 minutes, 10 seconds.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "ThroughARIA2.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0023343"
+    },
+    {
+      "tokens": [
+        "\"Booster says 20 seconds to Go.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "There's the Cut-Off."
+      ],
+      "speaker": "Shepard",
+      "time": "0023425"
+    },
+    {
+      "tokens": [
+        "Roger, 14.",
+        "Cut-Off."
+      ],
+      "speaker": "Fullerton",
+      "time": "0023427"
+    },
+    {
+      "tokens": [
+        "\"That was Alan Shepard reporting shutdown.",
+        "It looks like...\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Garble] are venting down.",
+        "The oxidizer is coming down through 35 now.",
+        "The fuel is coming down through 30."
+      ],
+      "speaker": "Shepard",
+      "time": "0023432"
+    },
+    {
+      "tokens": [
+        "The knowledge that the tank prssures are decreasing is important to the crew and Mission Control.",
+        "Should the liquid oxygen pressure rise above 50 psia, they would have to perform an emergency separation from the launch vehicle, should it explode."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14.",
+        "Roger on the vent.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0023441"
+    },
+    {
+      "tokens": [
+        "Houston, 14."
+      ],
+      "speaker": "Shepard",
+      "time": "0023503"
+    },
+    {
+      "tokens": [
+        "EMSFunction, Off."
+      ],
+      "speaker": "Mitchell",
+      "time": "0023504"
+    },
+    {
+      "tokens": [
+        "\"Apollo Control, Houston.",
+        "That shutdown time appeared to be right on time.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Fullerton",
+      "time": "0023505"
+    },
+    {
+      "tokens": [
+        "Reading a VI, plus 35542;Delta-VC, minus 8.8, H-dot plus 04399, H-pad, plus 01747 [Long pause.]"
+      ],
+      "speaker": "Shepard",
+      "time": "0023509"
+    },
+    {
+      "tokens": [
+        "To interpret Al's readings, their indicated inertial velocity at shutdown was 35,542 fps, (10,833 m/s), the Delta-V counter on the EMS overshot on its initial setting by just 8.8 fps (2.7 m/s).",
+        "At shutdown, their speed away from Earth's centre was 4,399 fps (1,341 m/s) and their altitude was 1,747 nautical miles (3,235 km)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let's start again.EMSMode, Standby;EMSFunction, Off."
+      ],
+      "speaker": "Mitchell",
+      "time": "0023520"
+    },
+    {
+      "tokens": [
+        "EMSMode, Standby;EMSFunction, Off."
+      ],
+      "speaker": "Roosa",
+      "time": "0023530"
+    },
+    {
+      "tokens": [
+        "14, this is Houston.",
+        "We copy VI, plus 35542,Delta-VCof minus 8.8, and missed the last two?",
+        "Would you repeat?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0023539"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "H-dot, plus 04399; altitude, plus 01747."
+      ],
+      "speaker": "Shepard",
+      "time": "0023555"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Plus 04399 and plus 01747."
+      ],
+      "speaker": "Fullerton",
+      "time": "0023607"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm not sure I got your H-dot readback.",
+        "It's plus 04399."
+      ],
+      "speaker": "Shepard",
+      "time": "0023614"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "04399."
+      ],
+      "speaker": "Fullerton",
+      "time": "0023622"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"With that report, Flight Dynamics Officer Dave Reed says that it looks like a good burn.",
+        "We're at 2 hours, 37 minutes now into the flight.",
+        "We'll stand by and continue to monitor.\""
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The left side FDAI ball has been running at Orb Rate mode, under control from the ORDEAL box.",
+        "They switch it backt displaying Inertial attitude, courtesies of the IMU.",
+        "They also disable Rotational Hand Controller number 2."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Commander and the Command Module Pilot will now switch positions, with the CMP taking the left-sided seat to prepare for the upcoming Transposition and Docking maneuver."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston.",
+        "On the S-IVB, oxidizer pressure is now down around 18 and fuel pressure is about 17."
+      ],
+      "speaker": "Shepard",
+      "time": "0023728"
+    },
+    {
+      "tokens": [
+        "The Waste Stowage Vent has been open to allow some oxygen to escape from the cabin and hence to create a constant flow of fresh O2onboard for the purpose of purging any remaining nitrogen from the cabin.",
+        "They are now closing the vent so as to be able to start raising the pressure in preparation for docking with the LM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I understand; 18 and 17 on the tank pressures."
+      ],
+      "speaker": "Fullerton",
+      "time": "0023741"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day1_part2_earth_orbit_and_translunar_injection.html"
+}

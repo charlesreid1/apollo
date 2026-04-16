@@ -1,0 +1,4740 @@
+{
+  "description": "A13FJ - Day 1, part 4: Settling down for the Flight",
+  "transcript": [
+    {
+      "tokens": [
+        "It is nearing six pm on a Saturday, the 11th of April, 1970.",
+        "For three men, this is not an ordinary weekend, as they are almost five hours into their flight to the Moon aboard Apollo 13.",
+        "The excitement of the launch, the boost for the Moon and the retrieval of the Lunar Module are behind them.",
+        "Now the astronaut trio has a chance to catch their breaths while performing some space flight chores and get settled for the three-day coast ahead of them."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "The Ken Mattingly press conference is scheduled to begin shortly in the MSC news center auditorium.",
+        "During the press conference, we will tape any conversation with the spacecraft and play that back immediately following the press conference.",
+        "At 4 hours, 45 minutes, this is Mission Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-5."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ah, Houston; 13."
+      ],
+      "speaker": "Haise",
+      "time": "0045043"
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Kerwin",
+      "time": "0045045"
+    },
+    {
+      "tokens": [
+        "Is the S-IVB doing something different now?"
+      ],
+      "speaker": "Haise",
+      "time": "0045049"
+    },
+    {
+      "tokens": [
+        "Well, I don't know.",
+        "It should be - let's see, it should have started the LOX dump at least quite a while ago.",
+        "I guess that's complete.",
+        "Why do you ask, Fred?"
+      ],
+      "speaker": "Kerwin",
+      "time": "0045056"
+    },
+    {
+      "tokens": [
+        "I'm looking out window 5 at what I think is the S-IVB, and I'm seeing what looks to be double plumes, growing in - it's two very narrow bands, maybe about 3 degrees, that are streaming out from it.",
+        "And then there is a less dense band that covers maybe a 40-degree swath through the sky that continues out, also, in two directions."
+      ],
+      "speaker": "Haise",
+      "time": "0045110"
+    },
+    {
+      "tokens": [
+        "Hey, Joe, what it looks like, kind of, is if you pull up behind a guy that's pulling a contrail, and you get in his contrail, like he's going away from you - there's a long contrail."
+      ],
+      "speaker": "Swigert",
+      "time": "0045145"
+    },
+    {
+      "tokens": [
+        "Joe Kerwin would definitely know what Swigert's talking about, being a jet pilot himself."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay; stand by.",
+        "Let me see what Frank's got to say about that."
+      ],
+      "speaker": "Kerwin",
+      "time": "0045155"
+    },
+    {
+      "tokens": [
+        "Except we're between - Looks like we're between two contrails, one guy above and one below."
+      ],
+      "speaker": "Haise",
+      "time": "0045159"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0045207"
+    },
+    {
+      "tokens": [
+        "It's a very pretty sight.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0045214"
+    },
+    {
+      "tokens": [
+        "Okay, 13; Houston.",
+        "The booster says that the propulsive dump is concluded; he now has the nonpropulsive vents open and what you see is a normal phenomenon and it should go on for another 5 minutes or so."
+      ],
+      "speaker": "Kerwin",
+      "time": "0045233"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0045252"
+    },
+    {
+      "tokens": [
+        "And, while I've got you, 13, at your convenience, we'd like to have the results of the EMS bias tests that you did pre-TLI and pre-Sep."
+      ],
+      "speaker": "Kerwin",
+      "time": "0045254"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Swigert",
+      "time": "0045308"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0045310"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "The TLI - the Delta-V no-bias test prior to TLI, we had a 0.8, and post-TLI, it was 1.0."
+      ],
+      "speaker": "Swigert",
+      "time": "0045405"
+    },
+    {
+      "tokens": [
+        "The EMS is a display system that provides the crew with visual cues to the status of their Earth reentry.",
+        "Should the automatic guidance system fail, this information can be used to perform a manually-controlled landing.",
+        "During the translunar coast, however, it performs a secondary, if important function as a backup display instrument for vehicle acceleration.",
+        "The EMS has its own accelerometer that measures spacecraft acceleration along the CSM's long axis.",
+        "The EMS bias test determines the amount of error this accelerometer might display.",
+        "This is important, since the EMS can be set to terminate later engine burns that use the SPS."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "Copy that.",
+        "Thank you very much.",
+        "Incidentally, as your tracking gets better and better, the size of MCC-2 is getting lower and lower and figures to be somewhere between 10 and 30 feet per second now."
+      ],
+      "speaker": "Kerwin",
+      "time": "0045424"
+    },
+    {
+      "tokens": [
+        "Sounds good."
+      ],
+      "speaker": "Swigert",
+      "time": "0045440"
+    },
+    {
+      "tokens": [
+        "The second opportunity for midcourse correction will be during the next day.",
+        "It will be a small burn, using the Service Propulsion Engine."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yeah, sure does.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0045441"
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Kerwin",
+      "time": "0045454"
+    },
+    {
+      "tokens": [
+        "Go ahead, Joe."
+      ],
+      "speaker": "Swigert",
+      "time": "0045456"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We have a PTC REFSMMAT ready, if you're ready to go P00 and Accept, we'll stick it in there."
+      ],
+      "speaker": "Kerwin",
+      "time": "0045457"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by."
+      ],
+      "speaker": "Swigert",
+      "time": "0045505"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0045508"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm P00 and Accept, Joe."
+      ],
+      "speaker": "Swigert",
+      "time": "0045545"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Roger that."
+      ],
+      "speaker": "Kerwin",
+      "time": "0045548"
+    },
+    {
+      "tokens": [
+        "Mission Control is about to use the S-Band radio to load new guidance data into the Command Module Computer.",
+        "In preparation to starting Passive Thermal Control, or PTC, they are reconfiguring the guidance system to work using a new reference frame or a REFSMMAT."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The aptly named REFSMMAT stands for 'Reference to a Stable Member Matrix'.",
+        "While this alone says little to the uninitiated, the basic idea can be easily summed up.",
+        "The guidance computer determines their position and attitude on a three-dimensional coordinate system known as the Basic Reference Coordinate (BRC) System.",
+        "This defines three-dimensional space using the relationship between the Earth-Moon system, the Sun, and Earth's orbit around the Sun.",
+        "Although this makes it very useful for navigational purposes, it is cumbersome in terms of practical operations of the spacecraft.",
+        "This is due to an inherent limitation in the spacecraft's attitude with respect to the guidance platform.",
+        "What the crew needs is for their attitude reference system to be able to tell them where their nose is pointing, within what is the most useful frame of reference to be used at the time.",
+        "For the launch and immediately thereafter, this is the launch site, because they will know exactly where and when they left, and which direction they were going from that point.",
+        "For the long coast between the Earth and the Moon, Florida is not as useful.",
+        "Hence they update the computer to instead utilize the relationship between the Earth and the Moon as the reference point."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; at 4 hours, 58 minutes.",
+        "During the press conference, the liquid oxygen propulsive vent from the S-IVB was completed successfully.",
+        "We also had an exchange with the crew during which Jack Swigert and Fred Haise reported noticing what appeared to be contrails coming from the S-IVB and we advised them that this was a normal occurrence during the propulsive vent from the S-IVB.",
+        "The plan was to dump the liquid oxygen for a total of 48 seconds or until the tank went dry.",
+        "As it turned out, the tank did not go dry at the end of 48 seconds and the Instrument Unit, as planned, shut the vent off.",
+        "Now this meant, then, that we continued to get non-propulsive venting which produced the apparent contrails viewed by the crew.",
+        "We have a scheduled midcourse correction opportunity for the S-IVB at six hours.",
+        "It is expected that this midcourse correction will be required and we also have an opportunity at 9 hours for an additional midcourse correction on the S-IVB to assure that it is on a trajectory which will impact the Moon at the desired point.",
+        "We'll play back for you now, the taped conversations with the crew, and then continue to stand-by for any live communications with the spacecraft."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston.",
+        "We'll have a handover in half a minute or so.",
+        "You may get a momentary loss of strength."
+      ],
+      "speaker": "Kerwin",
+      "time": "0045902"
+    },
+    {
+      "tokens": [
+        "Okay, Joe."
+      ],
+      "speaker": "Swigert",
+      "time": "0045909"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-6."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston.",
+        "The computer is yours.",
+        "Over."
+      ],
+      "speaker": "Kerwin",
+      "time": "0050028"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Going to Block."
+      ],
+      "speaker": "Swigert",
+      "time": "0050031"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Kerwin",
+      "time": "0050032"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Do you copy 13's torqueing angles on the P52?"
+      ],
+      "speaker": "Swigert",
+      "time": "0053013"
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "Leave them up just a second, and we'll get them down."
+      ],
+      "speaker": "Kerwin",
+      "time": "0053018"
+    },
+    {
+      "tokens": [
+        "Instead of reading the numbers over the radio, Mission Control can view them as they appear on Swigert's DSKY on board, thanks to telemetry.",
+        "A readout of 100 active computer processes is downlinked every 2 seconds, to keep them up to date."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "Okay.",
+        "We got 'em.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0053029"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The time of torqueing was 5 hours, 30 minutes and 40 seconds."
+      ],
+      "speaker": "Swigert",
+      "time": "0053046"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "Kerwin",
+      "time": "0053051"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "For this second realignment of the guidance platform, Jack has sighted on star 35 Rasalhague (Alpha Ophiuchi) and star 44 Enif (Epsilon Pegasi).",
+        "As a check of his sighting accuracy, the comparison of the measured angle between these stars and the actual angle is 0.01°, a good but not perfect result.",
+        "The angles by which the gimbals are rotated or 'torqued' to restore perfect alignment are +0.175° in X, +0.172° in Y and -0.012° in Z.",
+        "The platform was torqued at 005:28 according to the post-flight Mission Report."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Jack is now using the previously uplinked PTC REFSMMAT alignment, and made sure that the inertial platform is aligned to this reference, rather than the launch PEFSMMAT used for the first few hours."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston; Apollo 13."
+      ],
+      "speaker": "Lovell",
+      "time": "0053947"
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Kerwin",
+      "time": "0053949"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I just got all hooked up to get in my comm system here, and I just wanted to check out.",
+        "I've got my suit stowed, a few other odds and ends done, and I'm back in business again."
+      ],
+      "speaker": "Lovell",
+      "time": "0053951"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Good deal.",
+        "We're kind of hanging loose down here.",
+        "I've got a Lift-off plus 15 PAD.",
+        "There's no hurry to read it up, so let us know when you're ready."
+      ],
+      "speaker": "Kerwin",
+      "time": "0054001"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Lovell",
+      "time": "0054009"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 5 hours, 41 minutes.",
+        "At the present time, we show Apollo 13 to be 24,916 nautical miles [46,144 km] from Earth.",
+        "The spacecraft velocity is 12,172 feet per second [3,710 metres/second].",
+        "The Booster engineer here in Mission Control is currently..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Go ahead with the PAD."
+      ],
+      "speaker": "Lovell",
+      "time": "0054144"
+    },
+    {
+      "tokens": [
+        "And we'll stand by for that PAD to the crew."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Jim.",
+        "Lift-off plus 15 PAD: GETI, 015:00; Delta-VT, 5622; longitude, minus 165; and GET 400K, 047:04.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0054148"
+    },
+    {
+      "tokens": [
+        "The Lift-off + 15 PAD carries data for P37, a program in the Command Module Computer that will calculate the details of a burn that will return the crew to Earth.",
+        "An important condition for P37 is that the spacecraft must still be in Earth's sphere of influence, thus simplifying the calculations.",
+        "The program takes the four values from the PAD; the specified time for ignition of the engine, a specified maximum change in velocity (or Delta-V), the longitude of the splashdown and the GET for the start of re-entry.",
+        "These act as a set of constraints with which it calculates the desired trajectory and the details of the burn to achieve it."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Time of ignition:15 hours, 00 minutes.Delta-V:5,622 feet per second ( 1,713.6 meters/second).",
+        "This is a maximum specified value.Longitude of splashdown:165° west;Time of Entry Interface:47 hours, 4 minutes GET."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Lift-off plus 15: GETI, 015:00; 5622; minus 165; 047:04.",
+        "Is that correct?"
+      ],
+      "speaker": "Lovell",
+      "time": "0054219"
+    },
+    {
+      "tokens": [
+        "That's right, Jim."
+      ],
+      "speaker": "Kerwin",
+      "time": "0054236"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 5 hours, 45 minutes.",
+        "Our Booster systems engineers just reported that the first midcourse correction opportunity with the S-IVB, the midcourse correction designed to put the S-IVB on the proper impacting trajectory with the Moon, will be required and it is expected that this maneuver will be a 217-second burn of the two Auxiliary Propulsion System modules on the S-IVB.",
+        "These modules each produce 70 pounds of thrust [311 newtons] for a total thrust of 140 pounds [623 N].",
+        "The Booster engineer also reported that it would probably be required to utilize the second S-IVB midcourse correction opportunity at 9 hours to assure the proper trajectory.",
+        "Midcourse correction 1 for the spacecraft, the Command and Service Modules, is not expected to be needed.",
+        "The first midcourse correction opportunity which we would anticipate the possibility of having to make a small midcourse correction would be for midcourse correction number 2 at the scheduled time in the Flight Plan.",
+        "At 5 hours, 47 minutes; this is Mission Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Kerwin",
+      "time": "0055445"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "We'd like to have the Attitude Set switch back to GDC, if you're finished with your align.",
+        "It gives G&C down here a telemetry problem."
+      ],
+      "speaker": "Kerwin",
+      "time": "0055450"
+    },
+    {
+      "tokens": [
+        "Yeah; okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0055501"
+    },
+    {
+      "tokens": [
+        "Thank you.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0055502"
+    },
+    {
+      "tokens": [
+        "I'm just going to give them one more align here."
+      ],
+      "speaker": "Swigert",
+      "time": "0055510"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "No rush."
+      ],
+      "speaker": "Kerwin",
+      "time": "0055512"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 5 hours, 59 minutes.",
+        "We're about one minute away now from the scheduled midcourse correction with the Saturn S-IVB, the third stage of the Saturn.",
+        "This mid-course correction will utilize the auxiliary propulsion units on the Saturn third stage, each producing 70 pounds of thrust [311 newtons] for a total thrust of 140 pounds [623 N].",
+        "The maneuver will be commanded by the Saturn Instrument Unit.",
+        "It is scheduled to have a total Delta velocity, a change in velocity of about 29.7 feet per second [9.1 m/s]; the burn duration planned for 217 seconds.",
+        "This maneuver is targeted to impact the S-IVB on the lunar surface at longitude and latitude of about 3 degrees south, 30 degrees west.",
+        "And our booster engineer reports that the midcourse burn has been initiated at this time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-7."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Starting at the 6-hour point in the mission, as per the Flight Plan, Jack Swigert begins star sightings for the purpose of calibrating the onboard optics, as well as refining their trajectory data.",
+        "He manoeuvres the spacecraft to point the sextant's line of sight at Earth's horizon while having the computer aim its moveable line of sight at one of five stars; Antares, Delta Capricornii, Theta Scorpii, Altair and Peacock.",
+        "The image of the star is placed on the horizon thereby yielding an angle between the two.",
+        "This angle can be used to calculate their location in the space between Earth and the Moon."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Sighting the Earth horizon is known to be a challenge, even to the experienced Apollo navigator, due to the atmosphere blurring the true limb of the planet.",
+        "Each Command Module Pilot has a tendency to mark it at a particular distance from the true location of the horizon, but they also showed themselves to be very consistent with this.",
+        "The computer can hence be updated to take into account each individual CMP's personal error in terms of their horizon sighting accuracy.",
+        "For Swigert, it was determined to be 24 kilometers, which is comparable to that of his predecessors on Apollos 10, 11 and 12.",
+        "Apollo 8 CMP Jim Lovell's mark was at 32 kilometers, rather."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Mission Control at 6 hours, 3 minutes.",
+        "The Booster engineer has just reported that the midcourse correction with the S-IVB is complete.",
+        "We'll be standing by for an analysis of the results of that midcourse correction.",
+        "The midcourse correction opportunities scheduled at 6 hours and 9 hours for the S-IVB are intended to impact the Saturn third stage within about 200 kilometers of the Apollo 12 landing site.",
+        "That would be 200 kilometers west of the Apollo 12 landing site.",
+        "At the present time in Mission Control, we're in the process of changing shifts.",
+        "Flight Director Gerry Griffin is coming on to replace Flight Director Milton Windler.",
+        "We expect that the change of shift briefing will occur at about 8 pm Central Standard Time in the News Center Auditorium.",
+        "At 6 hours, 5 minutes; this is Mission Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Kerwin",
+      "time": "0061540"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Lovell",
+      "time": "0061541"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Would you please verify or tell us what S-band antenna configuration you're in, please?"
+      ],
+      "speaker": "Kerwin",
+      "time": "0061543"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0061551"
+    },
+    {
+      "tokens": [
+        "We're in High Gain."
+      ],
+      "speaker": "Lovell",
+      "time": "0061607"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by a minute, Jim.",
+        "Our signal strength is getting a little low.",
+        "We may have a recommendation.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0061610"
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "Are you in Manual or Auto in High Gain?"
+      ],
+      "speaker": "Kerwin",
+      "time": "0061621"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "[Pause.] We're in Auto Track, Joe, and High Gain."
+      ],
+      "speaker": "Lovell",
+      "time": "0061626"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Kerwin",
+      "time": "0061637"
+    },
+    {
+      "tokens": [
+        "The High Gain Antenna can be set to automatically try to maintain lock with the ground station by selecting that function."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 6 hours, 17 minutes into the mission.",
+        "The change of shift news briefing time has been advanced.",
+        "We're anticipating the change of shift news briefing to begin in approximately ten minutes.",
+        "Approximately ten minutes, in the news center briefing room."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 6 hours, 38 minutes.",
+        "The Flight Director Gerry Griffin has been taking status reports from each of his flight controllers.",
+        "Everyone reports all spacecraft systems looking good.",
+        "The Flight Surgeon reports the biomedical instrumentation looks excellent - very clean data.",
+        "He thinks that, when this crew completes this long day, that they'll be tired and get a good night's sleep.",
+        "They have about another six and a half hours before bedtime today.",
+        "Booster systems engineer reports the S-IVB has been safed, retaining attitude control and midcourse capability, but that all pressure spheres have been dumped.",
+        "He also reports to the Flight Director that the second midcourse correction for the S-IVB may be later than Ground Elapsed Time of 9 hours.",
+        "He wants to get a good tracking vector to use for this final maneuver and he's not quite sure whether he'll do the maneuver at 9 hours or a little bit later after he refines his tracking data.",
+        "He reports the S-IVB still has 372 seconds of burn time remaining, plus enough fuel in the APS after that to maintain attitude until 12 hours Elapsed Time.",
+        "The guidance officer is watching Command Module Pilot Jack Swigert perform cislunar navigation tasks.",
+        "Through telemetry, he's monitoring Swigert's marking stars with the sextant.",
+        "He's very complimentary of Swigert's ability in this task.",
+        "On his P23, says this procedure going very smoothly.",
+        "At 6 hours, 41 minutes; this is Mission Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "You copy 13?",
+        "[No answer.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0064430"
+    },
+    {
+      "tokens": [
+        "Hello, Houston; Apollo 13.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0064439"
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Kerwin",
+      "time": "0064448"
+    },
+    {
+      "tokens": [
+        "Hey, were you copying my P23 results?"
+      ],
+      "speaker": "Swigert",
+      "time": "0064451"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Jack.",
+        "We followed you through the whole thing.",
+        "You're ahead of schedule, hey."
+      ],
+      "speaker": "Kerwin",
+      "time": "0064456"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0064503"
+    },
+    {
+      "tokens": [
+        "Swigert's P23 sighting results will be incorporated into the state vector, the computerized record of their position and velocity at any given time.",
+        "For the moment, their main purpose is to act as a backup to the ground-derived state vector, which is based on radio signal tracking.Original plans for the Apollo guidance system were to be more reliant on the onboard navigation.",
+        "It was believed that ground-based tracking would not be accurate enough for the purpose of landing men on the Moon.",
+        "Later experience with remote controlled probes and the first manned missions proved otherwise, and this relegated the onboard navigation to a secondary, if important role.",
+        "Should the spacecraft's radio systems fail, cutting off their contact with Mission Control, their safe return home would be down to the efforts of onboard navigation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Joe, we confirmed there's no midcourse-1.",
+        "Over."
+      ],
+      "speaker": "Lovell",
+      "time": "0064504"
+    },
+    {
+      "tokens": [
+        "That is affirmative as far as I know.",
+        "Let's get a final check on it, Jim."
+      ],
+      "speaker": "Kerwin",
+      "time": "0064511"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Because we're standing by.",
+        "We want to do a fuel cell purge and a waste water dump."
+      ],
+      "speaker": "Lovell",
+      "time": "0064516"
+    },
+    {
+      "tokens": [
+        "Okay, Jim.",
+        "We confirm that there will be no midcourse-1."
+      ],
+      "speaker": "Kerwin",
+      "time": "0064524"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Sounds good.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0064530"
+    },
+    {
+      "tokens": [
+        "Their initial TLI burn has been accurate enough that there is no need to adjust their course at this point."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, 13, Houston.",
+        "You can go ahead with the purge and dump at your discretion."
+      ],
+      "speaker": "Kerwin",
+      "time": "0064542"
+    },
+    {
+      "tokens": [
+        "They are about to proceed with a scheduled purge of the fuel cells to remove any impurities from it that might impair the reaction process.",
+        "They will also dump water onboard that has been generated either as an excess product of the fuel cell reaction, or from the Environmental Control System."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "What we're going to do is, we're going to get rid of Fred's suit here.",
+        "Fred's suit has been right in the commander's slot here for the last half hour.",
+        "So we're going to try and get it stowed."
+      ],
+      "speaker": "Lovell",
+      "time": "0064547"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Kerwin",
+      "time": "0064600"
+    },
+    {
+      "tokens": [
+        "You did a pretty good job."
+      ],
+      "speaker": "Lovell",
+      "time": "0064603"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 6 hours, 46 minutes.",
+        "We'll take the release line down now while the change of shift news briefing is under way.",
+        "We will tape any air-ground and play it back after the news briefing.",
+        "This is Mission Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston.",
+        "We'll have a handover in about 1 minute."
+      ],
+      "speaker": "Kerwin",
+      "time": "0064912"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "Apollo 13."
+      ],
+      "speaker": "Lovell",
+      "time": "0064917"
+    },
+    {
+      "tokens": [
+        "Roger, Jim.",
+        "We'll have a handover from Hawaii to Goldstone in about 30 seconds."
+      ],
+      "speaker": "Kerwin",
+      "time": "0064920"
+    },
+    {
+      "tokens": [
+        "Say again, Houston."
+      ],
+      "speaker": "Lovell",
+      "time": "0064926"
+    },
+    {
+      "tokens": [
+        "We'll be handing over from Hawaii to Goldstone in a few seconds.",
+        "You may get a temporary loss of comm."
+      ],
+      "speaker": "Kerwin",
+      "time": "0064929"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We've got a whole bunch of noise, too."
+      ],
+      "speaker": "Lovell",
+      "time": "0064937"
+    },
+    {
+      "tokens": [
+        "The Hawaii tracking station has been handling their communications since shortly after the Translunar Injection.",
+        "Now their trajectory relative to the surface of the Earth has moved enough eastwards that the Goldstone station will be best positioned to maintain line of sight with them.",
+        "With Apollo 13 moving further and further away, they rise above the line of the sight of the Deep Space Network stations in Goldstone, California, Honeysuckle, Australia and Madrid, Spain.",
+        "The three stations will be able to maintain continuous contact, unless the spacecraft happens to be behind the Moon."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "As they move further and further away from Earth, their eastward horizontal speed in relation to the surface of the Earth reduces.",
+        "Eventually, at greater distances, the rotation of the Earth will catch up with the spacecraft and as seen from the map above, the land track forms a loop before starting to head west.",
+        "At this point the vertical speed is so high in relation to the horizontal speed, that the surface of the Earth in relation to the spacecraft moves quite slowly and will need about one day for a full circle.",
+        "From now on until recovery, the communications will always be handed over to the next station west from the present one."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 6 hours, 59 minutes.",
+        "During the news conference the air to ground conversation totaled 35 seconds.",
+        "We have the tape of that now.",
+        "We'll play that for you and then we will stay up live."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Houston, 13."
+      ],
+      "speaker": "Swigert",
+      "time": "0065923"
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Kerwin",
+      "time": "0065926"
+    },
+    {
+      "tokens": [
+        "Hey, Joe.",
+        "Do you want to dump waste water down to 25 percent.",
+        "Is that right?"
+      ],
+      "speaker": "Swigert",
+      "time": "0065928"
+    },
+    {
+      "tokens": [
+        "That's affirm."
+      ],
+      "speaker": "Kerwin",
+      "time": "0065933"
+    },
+    {
+      "tokens": [
+        "Okay, in work."
+      ],
+      "speaker": "Swigert",
+      "time": "0065934"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0065935"
+    },
+    {
+      "tokens": [
+        "This is by the book, leaving the waste water tank about 25 per cent full."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-8."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Do you know we're also purging fuel cells O2now."
+      ],
+      "speaker": "Swigert",
+      "time": "0070018"
+    },
+    {
+      "tokens": [
+        "Okay, Jack."
+      ],
+      "speaker": "Kerwin",
+      "time": "0070021"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 7 hours, 9 minutes.",
+        "Astronaut Vance Brand has just relieved astronaut Joe Kerwin at the CapCom console."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "The fuel cell purge and waste water dump are complete."
+      ],
+      "speaker": "Swigert",
+      "time": "0070931"
+    },
+    {
+      "tokens": [
+        "Roger, Apollo 13.",
+        "And this is your relief CapCom shift on now."
+      ],
+      "speaker": "Brand",
+      "time": "0070938"
+    },
+    {
+      "tokens": [
+        "Astronaut Vance Brand has taken over the CapCom position in Mission control.",
+        "It is now 8 pm in Houston, Texas.",
+        "The flight control team changed shifts about an hour previously, but the CapCom has partially overlapped the Flight Control shifts."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Well, good evening, Vance."
+      ],
+      "speaker": "Lovell",
+      "time": "0070949"
+    },
+    {
+      "tokens": [
+        "Boy, you sure made it back fast."
+      ],
+      "speaker": "Swigert",
+      "time": "0070953"
+    },
+    {
+      "tokens": [
+        "Vance Brand was present for the launch in Florida and has traveled back to Houston to support the mission there.",
+        "It is 900 miles by air and over a thousand miles by road."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "You guys had a beautiful launch, there.",
+        "Really nice.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0070955"
+    },
+    {
+      "tokens": [
+        "Could you follow it all the way up, Vance?"
+      ],
+      "speaker": "Swigert",
+      "time": "0071007"
+    },
+    {
+      "tokens": [
+        "No, I didn't see staging.",
+        "It was too hazy for that, but we could see it for a few miles anyway.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0071011"
+    },
+    {
+      "tokens": [
+        "I'll tell you, it's sure an interesting ride."
+      ],
+      "speaker": "Swigert",
+      "time": "0071024"
+    },
+    {
+      "tokens": [
+        "Right."
+      ],
+      "speaker": "Brand",
+      "time": "0071028"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 13."
+      ],
+      "speaker": "Lovell",
+      "time": "0071700"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Go ahead, Jim."
+      ],
+      "speaker": "Brand",
+      "time": "0071702"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're at that stage now where we're going to take some Earth weather photography.",
+        "If you're standing by, I have the camera aimed at the Earth right now, and I'll give you a mark when I take the first picture."
+      ],
+      "speaker": "Lovell",
+      "time": "0071705"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy, Jim.",
+        "We'll be standing by for the mark.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0071719"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "3, 2, 1..."
+      ],
+      "speaker": "Lovell",
+      "time": "0071741"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Lovell",
+      "time": "0071745"
+    },
+    {
+      "tokens": [
+        "The first in a sequence of eleven photographs of Earth is taken.",
+        "The plan is that as the spacecraft rotates in its PTC roll, a shot will be taken, though at this time, the roll is yet to be established.",
+        "In the event, though the timing between frames is about 22 minutes, there will be a delay of an hour between the second and third image.",
+        "Note that Jim keeps his microphone open long enough for both the shutter click to be heard as well as the winding on of the electric Hasselblad camera."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, copy.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0071748"
+    },
+    {
+      "tokens": [
+        "And Apollo 13, Houston.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0071817"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Lovell",
+      "time": "0071821"
+    },
+    {
+      "tokens": [
+        "For the PTC, recommend that you disable quads A and B.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0071823"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Disable quads A and B, will do; and soon as Jack gets finished thrashing around, we'll be going to that PTC mode."
+      ],
+      "speaker": "Lovell",
+      "time": "0071830"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Brand",
+      "time": "0071737"
+    },
+    {
+      "tokens": [
+        "Lovell must be referring to Jack's continued P23 sightings, which involves the spacecraft moving so that he can point the optics at the stars he wants."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The PTC or Passive Thermal Control is an elegant solution to preventing the unfiltered sunlight in deep space from overheating the spacecraft.",
+        "By having it rotate slowly around its long axis, no part of the spacecraft skin will receive more heat than the other.",
+        "This way the thermal stress is spread evenly and will not cause issues during the long coast to the Moon.",
+        "To do so, they will use the RCS thrusters to set up the rotation, which the Command Module Computer will then maintain.",
+        "Here the intention is to use quads C and D for the PTC, since less fuel have been used from then than the two other quads."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The PTC was known as the 'barbeque roll' in astronaut and public parlance alike."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We're starting PTC.",
+        "We're disabling quads A and B now."
+      ],
+      "speaker": "Lovell",
+      "time": "0073129"
+    },
+    {
+      "tokens": [
+        "Roger, Apollo 13.",
+        "Houston copies."
+      ],
+      "speaker": "Brand",
+      "time": "0073134"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0073308"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Lovell",
+      "time": "0073311"
+    },
+    {
+      "tokens": [
+        "Jim, we'd like to verify that the High Gain is secured, that the S-band antenna is on Omni, and Omni B should be the right antenna.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0073312"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You want the High Gain secured and you want the Omni on Omni Charlie, huh?",
+        "Or Baker?"
+      ],
+      "speaker": "Lovell",
+      "time": "0073327"
+    },
+    {
+      "tokens": [
+        "That's affirm.",
+        "And this'll be maintained in the PTC."
+      ],
+      "speaker": "Brand",
+      "time": "0073335"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0063339"
+    },
+    {
+      "tokens": [
+        "And the High Gain angles for stowage - or for stowing - are pitch minus 52, yaw 270."
+      ],
+      "speaker": "Brand",
+      "time": "0073350"
+    },
+    {
+      "tokens": [
+        "The plan is to use the Command Module's Omni antennae to maintain radio contact during the PTC rotation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 13."
+      ],
+      "speaker": "Lovell",
+      "time": "0073921"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead."
+      ],
+      "speaker": "Brand",
+      "time": "0073924"
+    },
+    {
+      "tokens": [
+        "Stand by for another Earth weather picture.",
+        "I'll give you a mark."
+      ],
+      "speaker": "Lovell",
+      "time": "0073926"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Standing by, Jim.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0073929"
+    },
+    {
+      "tokens": [
+        "3, 2, 1 ..."
+      ],
+      "speaker": "Lovell",
+      "time": "0073946"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Lovell",
+      "time": "0073949"
+    },
+    {
+      "tokens": [
+        "This is the second photo in the weather sequence."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston copies.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0073951"
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0074022"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Lovell",
+      "time": "0074024"
+    },
+    {
+      "tokens": [
+        "Houston here.",
+        "Your rates look very stable.",
+        "It looks like your rates are damped out completely here.",
+        "As far as we can see, it would be alright to start the PTC."
+      ],
+      "speaker": "Brand",
+      "time": "0074027"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll give it a try."
+      ],
+      "speaker": "Lovell",
+      "time": "0074039"
+    },
+    {
+      "tokens": [
+        "Before the PTC can be started, their motion on any of the axes (X,Y,Z) must be nulled.",
+        "These movements are known as rates, and reducing them is known as damping the rates."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "It's 7 hours, 46 minutes.",
+        "Apollo 13 now 37,630 nautical miles [69,691 km] from Earth.",
+        "Velocity, 9,878 feet per second [3,011 metres/second].",
+        "Apollo 13 taking Earth weather photography, photographing the Earth one frame every twenty minutes for three hours.",
+        "Jim Lovell has taken two photographs so far.",
+        "We have a reminder for the newsmen from the print media.",
+        "There will be a meeting at 9:30 am tomorrow, Sunday, in the news center briefing room.",
+        "The writing press will select representatives to fill the Mission Control Center pool positions at that time.",
+        "9:30 am Central Standard Time tomorrow.",
+        "At 7 hours, 47 minutes; this is Mission Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "This is 13.",
+        "How do you read?"
+      ],
+      "speaker": "Haise",
+      "time": "0075429"
+    },
+    {
+      "tokens": [
+        "13; Houston.",
+        "Loud and clear.",
+        "[Pause.] 13, Houston's reading loud and clear.",
+        "How do you read?"
+      ],
+      "speaker": "Brand",
+      "time": "0075434"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And do you have any estimate, Vance, on how long we'll be charging battery B?"
+      ],
+      "speaker": "Haise",
+      "time": "0075448"
+    },
+    {
+      "tokens": [
+        "Stand by 1, Fred.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0075501"
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0075521"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Lovell",
+      "time": "0075524"
+    },
+    {
+      "tokens": [
+        "We'll be charging for 4½ to 5 hours yet, Jim."
+      ],
+      "speaker": "Brand",
+      "time": "0075526"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Lovell",
+      "time": "0075532"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-9."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Flight Plan has simulated views on how the Earth and the Moon should appear when viewed from the spacecraft at a given time.",
+        "These images were not drawn by hand but were generated on a UNIVAC 1108 mainframe utilizing a visualization system originally designed for the Gemini program."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0080233"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Haise",
+      "time": "0080236"
+    },
+    {
+      "tokens": [
+        "Aah, Fred, recommend that, when your window comes around facing the Earth again, that you catch another one of those pictures, and at the same time, you should probably start PTC again.",
+        "We might have sent a confusing bit of info up to you.",
+        "The 'disable two quads' only applies to an early step in the procedure.",
+        "We didn't mean that for the latter part of the procedure where we have the statement 'enable all jets.' Over."
+      ],
+      "speaker": "Brand",
+      "time": "0080239"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0080315"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 13.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0080733"
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Brand",
+      "time": "0080743"
+    },
+    {
+      "tokens": [
+        "Vance, Fred said that you had some more information about PTC and a different way of establishing it or something, huh?"
+      ],
+      "speaker": "Swigert",
+      "time": "0080746"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Referring to the procedure on G/8-2, if you have that open, I'll tell you what we had to give you.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0080755"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by and I'll get it out."
+      ],
+      "speaker": "Swigert",
+      "time": "0080811"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0080813"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead, Vance."
+      ],
+      "speaker": "Swigert",
+      "time": "0080835"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On checklist G/8-2 under step 5, there's a statement, 'disable all jets on two adjacent quads,' and that's what we were referring to when we called up saying 'disable quads A and B.' So that's all fine; however, going down now to step 7 where it says 'enable all jets,' we hoped that you didn't think we meant leave A and B disabled there.",
+        "In that case, it's as written.",
+        "All jets should be enabled.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0080838"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Our checklist has 'all jets' scratched out, and it says 'enable couples on all axes.' So what we'll do is - we'll re-establish this thing and come down to that step 7, and we'll enable all jets.",
+        "That means enable quads A and B.",
+        "Is that right?"
+      ],
+      "speaker": "Swigert",
+      "time": "0080920"
+    },
+    {
+      "tokens": [
+        "The term 'couple' in this context refers to the use of jets on opposite sides of the spacecraft to effect a rotation that has very little translation component to it.",
+        "Coupled jets are particularly important in the early stages of a translunar trajectory because even a small unintended translation can have a profound effect on the eventual destination of the spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's affirm.",
+        "You'll have A, B, C, and D enabled for step 7."
+      ],
+      "speaker": "Brand",
+      "time": "0080942"
+    },
+    {
+      "tokens": [
+        "Okay, real fine.",
+        "I'll start on it now."
+      ],
+      "speaker": "Swigert",
+      "time": "0080947"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Understand you're going to re-establish it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0080951"
+    },
+    {
+      "tokens": [
+        "They've discovered a small error from the onboard documentation which has made it difficult to maintain the careful PTC roll."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And Vance, on that picture, I was all set to shoot it just a little before you called, and the Earth hasn't showed up in the window yet.",
+        "I don't know if we got too far off the bellyband or what."
+      ],
+      "speaker": "Haise",
+      "time": "0081046"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy, Fred.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0081102"
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0081146"
+    },
+    {
+      "tokens": [
+        "Go ahead, Vance."
+      ],
+      "speaker": "Haise",
+      "time": "0081150"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "On the photo, you'll probably have to re-establish the attitude for PTC and then whenever it comes into the window again, why we'll just be standing by for the photo.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0081152"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0081206"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0081949"
+    },
+    {
+      "tokens": [
+        "Go ahead, Vance."
+      ],
+      "speaker": "Swigert",
+      "time": "0081951"
+    },
+    {
+      "tokens": [
+        "Roger, You're coming in a little weak.",
+        "Have a recommended roll rate for this PTC, if you could copy."
+      ],
+      "speaker": "Brand",
+      "time": "0081957"
+    },
+    {
+      "tokens": [
+        "Ah, go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0082008"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Recommend that you put in R1 the following: 03750, and that should give you exactly a rate of 0.3 degrees per second.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0082010"
+    },
+    {
+      "tokens": [
+        "Okay, 03750.",
+        "Is plus or minus our choice?",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0082027"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "The same direction you rolled last time, which I believe is plus."
+      ],
+      "speaker": "Brand",
+      "time": "0082038"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0082047"
+    },
+    {
+      "tokens": [
+        "The spacecraft should be rotating at 0.3 degrees per second.",
+        "For some reason, the original value input in the computer has not produced the desired rotation rate, but requires adjustment by giving the computer a new figure."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Vance, would you monitor our rates and kind of give us an idea of when you think they're stable enough to start PTC."
+      ],
+      "speaker": "Swigert",
+      "time": "0082506"
+    },
+    {
+      "tokens": [
+        "Rog, Jack.",
+        "We'll take a look and let you know as soon as they look stable enough."
+      ],
+      "speaker": "Brand",
+      "time": "0082514"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've got quads A and B disabled here."
+      ],
+      "speaker": "Swigert",
+      "time": "0082519"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0082524"
+    },
+    {
+      "tokens": [
+        "Have they come up with an idea of how much fuel I used on the docking and also the P23 session at 5 hours or 6 hours.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0082532"
+    },
+    {
+      "tokens": [
+        "I think we can give you something.",
+        "Stand by a minute."
+      ],
+      "speaker": "Brand",
+      "time": "0082547"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0082659"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0082702"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's looking good so far as RCS consumables are concerned, Jack.",
+        "You're standing about 20 pounds above the curve right now.",
+        "Looking at the TD&E, you expended 65 pounds or - Stand by - 55 pounds, correction on that."
+      ],
+      "speaker": "Brand",
+      "time": "0082704"
+    },
+    {
+      "tokens": [
+        "How much?"
+      ],
+      "speaker": "Swigert",
+      "time": "0082727"
+    },
+    {
+      "tokens": [
+        "And 14 pounds on P23s.",
+        "You used a little more out of quad A than out of the others."
+      ],
+      "speaker": "Brand",
+      "time": "0082728"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thanks, Vance."
+      ],
+      "speaker": "Swigert",
+      "time": "0082737"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Brand",
+      "time": "0082738"
+    },
+    {
+      "tokens": [
+        "Hey, could you say again the TD&E fuel?",
+        "We've got a different - we all heard different things."
+      ],
+      "speaker": "Swigert",
+      "time": "0082742"
+    },
+    {
+      "tokens": [
+        "I said 65 and then corrected that to 55 pounds."
+      ],
+      "speaker": "Brand",
+      "time": "0082749"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0082755"
+    },
+    {
+      "tokens": [
+        "The nominal fuel consumption for each phase of the mission has been calculated beforehand.",
+        "The crew has references to it in Section IV of the Flight Plan.",
+        "An example of an RCS consumption graphcan be viewed here."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0083136"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Lovell",
+      "time": "0083139"
+    },
+    {
+      "tokens": [
+        "Okay, Jim.",
+        "Your rates look good.",
+        "It's okay to start the roll again, if you'd like."
+      ],
+      "speaker": "Brand",
+      "time": "0083141"
+    },
+    {
+      "tokens": [
+        "In work."
+      ],
+      "speaker": "Swigert",
+      "time": "0083150"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 8 hours, 40 minutes.",
+        "Apollo 13's altitude now 42,464 nautical miles [78,643 km] from Earth.",
+        "Velocity, 9,210 feet per second [2,807 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston, 13."
+      ],
+      "speaker": "Haise",
+      "time": "0084134"
+    },
+    {
+      "tokens": [
+        "Hello, Houston; Apollo 13."
+      ],
+      "speaker": "Haise",
+      "time": "0084146"
+    },
+    {
+      "tokens": [
+        "Apollo 13, go ahead."
+      ],
+      "speaker": "Brand",
+      "time": "0084149"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Ready for a little count here, Vance, and I'll shoot another picture.",
+        "We found the Earth again."
+      ],
+      "speaker": "Haise",
+      "time": "0084153"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll be standing by, Fred."
+      ],
+      "speaker": "Brand",
+      "time": "0084159"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "3, 2, 1..."
+      ],
+      "speaker": "Haise",
+      "time": "0084205"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Haise",
+      "time": "0084209"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Brand",
+      "time": "0084211"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Fred has taken the third photo in the weather sequence."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 8 hours, 51 minutes.",
+        "Tracking of the S-IVB since its first midcourse correction indicates that a second midcourse correction will not be necessary.",
+        "I repeat; a second midcourse correction of the S-IVB trajectory will not be necessary, based on tracking to date since the first midcourse correction.",
+        "The booster systems engineers plan to wait until about 10 hours Elapsed Time before making a final decision on whether to perform a midcourse.",
+        "They want to get further tracking data from some other stations, and will have it by that time.",
+        "The present indications are that the S-IVB is on the proper trajectory to impact the Moon at the planned impact point, and a - Booster has come up with a time based on present indications, a prediction that the impact will take place at 77 hours, 49 minutes, 23 seconds.",
+        "He says he will update this time later, but that's the prediction at the present time.",
+        "His studies all show that capability to command the midcourse will exist until an Elapsed Time of 13 hours, 48 minutes.",
+        "Capability to command attitude control will exist to the same Elapsed Time; 13 hours, 48 minutes.",
+        "And, we at present have capability to track the S-IVB until an Elapsed Time of 84 hours, 42 minutes which is well past the predicted impact time.",
+        "Apollo 13's altitude now 43,653 nautical miles [80,845 km] from Earth.",
+        "Velocity, 9,069 feet per second [2,764 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-10."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Houston, 13."
+      ],
+      "speaker": "Haise",
+      "time": "0090247"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead."
+      ],
+      "speaker": "Brand",
+      "time": "0090250"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by for a mark on another picture."
+      ],
+      "speaker": "Haise",
+      "time": "0090252"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Standing by, Fred.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0090255"
+    },
+    {
+      "tokens": [
+        "3, 2, 1..."
+      ],
+      "speaker": "Haise",
+      "time": "0090309"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Haise",
+      "time": "0090312"
+    },
+    {
+      "tokens": [
+        "Okay, we got it."
+      ],
+      "speaker": "Brand",
+      "time": "0090317"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is photo number four in the weather sequence."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0092458"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Lovell",
+      "time": "0092408"
+    },
+    {
+      "tokens": [
+        "Jim, Houston here.",
+        "Two items: first of all, your PTC is looking very good and it should carry you through the night; second point, have a procedure to give you, if you're ready to copy.",
+        "We'd like to set three bits in the computer, and I'll explain why.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0092411"
+    },
+    {
+      "tokens": [
+        "Go ahead, Vance, we're ready to copy."
+      ],
+      "speaker": "Haise",
+      "time": "0092443"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The procedure is as follows: Verb 25, Noun 07, Enter; 1331, Enter; 7, Enter; and Enter.",
+        "Explanation as follows.",
+        "During the P23s, there was one time when Verb 37 was entered into the computer at about 16 seconds after the Optics Zero switch was flicked to Zero.",
+        "This is a very uncommon anomaly in that, if you do this during - point - four tenth of a second interval at around 16 seconds after you zero the optics, some OPT-mode bits are reset; and this would mean that, if you had a OCDU fail, it wouldn't be indicated; so all this procedure is doing is setting these three bits back again where they should be."
+      ],
+      "speaker": "Brand",
+      "time": "0092446"
+    },
+    {
+      "tokens": [
+        "Jack has stumbled upon a bug in the computer system, but thankfully the Guidance people at Mission Control have the solution at hand.",
+        "By inputting Verb 25 Noun 07, they can get access to that part of the computer memory which the crew can rewrite while enroute.",
+        "They specify the location of the piece of code they want to modify, and input the desired value that will then reset the individual bits that govern the computer's knowledge of the status of the navigational optics."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Vance, and I guess I'll try to be slower on that Verb 37."
+      ],
+      "speaker": "Swigert",
+      "time": "0092601"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Actually slower or faster, either one, I guess.",
+        "Well, yeah, slower.",
+        "It's a very unusual thing to have that happen."
+      ],
+      "speaker": "Brand",
+      "time": "0092607"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And, Houston, stand by for a mark on another picture."
+      ],
+      "speaker": "Haise",
+      "time": "0092619"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Standing by."
+      ],
+      "speaker": "Brand",
+      "time": "0092624"
+    },
+    {
+      "tokens": [
+        "3, 2, 1..."
+      ],
+      "speaker": "Haise",
+      "time": "0092633"
+    },
+    {
+      "tokens": [
+        "Mark it."
+      ],
+      "speaker": "Haise",
+      "time": "0092636"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy, Fred.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0092639"
+    },
+    {
+      "tokens": [
+        "This is the fifth photo in the weather sequence."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Vance; we've completed that procedure, and let me know if everything was okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0092654"
+    },
+    {
+      "tokens": [
+        "Okay, thank you.",
+        "We'll let you know if anything isn't okay.",
+        "I'm sure it's good now.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0092659"
+    },
+    {
+      "tokens": [
+        "Tell G&C and Guido thanks a lot for keeping good track of me, there."
+      ],
+      "speaker": "Haise",
+      "time": "0092715"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "They're right on the ball.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0092721"
+    },
+    {
+      "tokens": [
+        "And, 13, Houston.",
+        "If you would like, we can let you know about every 2 minutes before the Earth should be coming into your window.",
+        "We think we've got it pegged down pretty well now, and you won't have to look for it so much.",
+        "Do you want that?"
+      ],
+      "speaker": "Brand",
+      "time": "0092736"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "That would be fine, Vance."
+      ],
+      "speaker": "Haise",
+      "time": "0092754"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0092756"
+    },
+    {
+      "tokens": [
+        "And, 13, Houston.",
+        "Guido says the bits are reset - rather, are set."
+      ],
+      "speaker": "Brand",
+      "time": "0092806"
+    },
+    {
+      "tokens": [
+        "Okay, thanks much."
+      ],
+      "speaker": "Haise",
+      "time": "0092813"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 9 hours, 32 minutes.",
+        "The Booster systems engineer has just advised Flight Director Gerry Griffin that he and his group are going to pack it up and move out, meaning that no midcourse correction number 2 will be required for the S-IVB.",
+        "The midcourse correction number 1 for the third stage of the booster has placed it on a trajectory which is calculated to impact at - into the Moon at the desired point.",
+        "Several of the Booster people will stand by to continue to monitor, but at this point everything looks and the majority of the people at that position will be ending a very long day for them and leaving the control center.",
+        "To repeat, no midcourse correction number 2 will be required for the S-IVB.",
+        "This is Mission Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0094558"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Lovell",
+      "time": "0094601"
+    },
+    {
+      "tokens": [
+        "It's time for Fred to start looking for the Earth, should be coming by in about a couple of minutes."
+      ],
+      "speaker": "Brand",
+      "time": "0094604"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "He's got his head out there right now."
+      ],
+      "speaker": "Lovell",
+      "time": "0094610"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "You've got that pretty well pegged, man.",
+        "There it be."
+      ],
+      "speaker": "Haise",
+      "time": "0094614"
+    },
+    {
+      "tokens": [
+        "Doesn't that give you confidence?"
+      ],
+      "speaker": "Brand",
+      "time": "0094621"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "I guess so.",
+        "In a minute, you're going to hear my kitchen timer ding, and that also says the Earth is there."
+      ],
+      "speaker": "Haise",
+      "time": "0094626"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0094639"
+    },
+    {
+      "tokens": [
+        "Fred Haise isn't joking here, because the onboard timer is exactly what he says it is."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by, Vance, for our countdown.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0094657"
+    },
+    {
+      "tokens": [
+        "3, 2, 1..."
+      ],
+      "speaker": "Lovell",
+      "time": "0094709"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Lovell",
+      "time": "0094712"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "Brand",
+      "time": "0094715"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is the sixth photo in the weather sequence."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0094951"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Lovell",
+      "time": "0094954"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "We're enjoying Fred's music there.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0094956"
+    },
+    {
+      "tokens": [
+        "Yeah, [garble] up here."
+      ],
+      "speaker": "Lovell",
+      "time": "0095004"
+    },
+    {
+      "tokens": [
+        "Yeah, I kind of like it too, Vance.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0095009"
+    },
+    {
+      "tokens": [
+        "Yeah, we - we didn't hear much of it, though."
+      ],
+      "speaker": "Brand",
+      "time": "0095015"
+    },
+    {
+      "tokens": [
+        "The music can only be heard when any of the astronauts presses the button used to talk to Earth.",
+        "With the microphone close to their mouths for capturing their words, it does not always pick up a lot of the ambient noise from the cabin, such as music being played on the small Sony cassette recorder."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "Fred's music was a few bars from the Marine Corps Hymn.",
+        "Obviously recorded on the on - one of the on board tape recorders.",
+        "Lunar Module Pilot Fred Haise is a former Marine aviator."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-11."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 13."
+      ],
+      "speaker": "Swigert",
+      "time": "0100338"
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Brand",
+      "time": "0100341"
+    },
+    {
+      "tokens": [
+        "Okay, Vance, we did another EMS null bias test and the - it went from 100.0 to 101.8 in 100 seconds."
+      ],
+      "speaker": "Swigert",
+      "time": "0100344"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "Brand",
+      "time": "010:03:59"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0100609"
+    },
+    {
+      "tokens": [
+        "Go ahead, Vance."
+      ],
+      "speaker": "Swigert",
+      "time": "0100612"
+    },
+    {
+      "tokens": [
+        "Jack, like to verify, was that 100 to 100.8 or 101.8?"
+      ],
+      "speaker": "Brand",
+      "time": "0100613"
+    },
+    {
+      "tokens": [
+        "101.8."
+      ],
+      "speaker": "Swigert",
+      "time": "0100620"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Brand",
+      "time": "0100623"
+    },
+    {
+      "tokens": [
+        "It was plus 100 to plus 101.8."
+      ],
+      "speaker": "Swigert",
+      "time": "0100626"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Brand",
+      "time": "0100631"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0100757"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0100801"
+    },
+    {
+      "tokens": [
+        "The Earth's coming up in the window again in 1 to 2 minutes."
+      ],
+      "speaker": "Brand",
+      "time": "0100802"
+    },
+    {
+      "tokens": [
+        "He's got it.",
+        "You're right again.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0100808"
+    },
+    {
+      "tokens": [
+        "Okay, stand by for a mark here."
+      ],
+      "speaker": "Swigert",
+      "time": "0100824"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0100826"
+    },
+    {
+      "tokens": [
+        "Okay, ready?",
+        "3, 2, 1..."
+      ],
+      "speaker": "Swigert",
+      "time": "0100838"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Swigert",
+      "time": "0100840"
+    },
+    {
+      "tokens": [
+        "Roger, copy your mark.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "010:08:42"
+    },
+    {
+      "tokens": [
+        "Seventh photo in the weather sequence."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston.",
+        "We have a CSM state vector to send you.",
+        "Request P00 and Accept at your convenience.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0100906"
+    },
+    {
+      "tokens": [
+        "Okay, Vance.",
+        "There's P00 and Accept."
+      ],
+      "speaker": "Swigert",
+      "time": "0100928"
+    },
+    {
+      "tokens": [
+        "Okay, it's coming up."
+      ],
+      "speaker": "Brand",
+      "time": "0100932"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, the computer's yours again."
+      ],
+      "speaker": "Brand",
+      "time": "0101130"
+    },
+    {
+      "tokens": [
+        "Okay, going back to Block."
+      ],
+      "speaker": "Swigert",
+      "time": "0101133"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Brand",
+      "time": "0101135"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Looks like picture-taking time again.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0102931"
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0102950"
+    },
+    {
+      "tokens": [
+        "Go ahead, Vance."
+      ],
+      "speaker": "Haise",
+      "time": "0102953"
+    },
+    {
+      "tokens": [
+        "Okay, Earth should be coming into view."
+      ],
+      "speaker": "Brand",
+      "time": "0102956"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I got it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0103001"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by, Vance.",
+        "3, 2, 1..."
+      ],
+      "speaker": "Swigert",
+      "time": "0103056"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Swigert",
+      "time": "0103101"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We got it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0103103"
+    },
+    {
+      "tokens": [
+        "Photo number eight in the weather sequence."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Earth starting to look pretty small now?"
+      ],
+      "speaker": "Brand",
+      "time": "0103114"
+    },
+    {
+      "tokens": [
+        "Well, looking at here, Vance, it's hard to be convinced it's even the Earth.",
+        "All we see is water and clouds.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0104123"
+    },
+    {
+      "tokens": [
+        "Well, I guess that's what we want.",
+        "We want pictures of weather, right, clouds."
+      ],
+      "speaker": "Brand",
+      "time": "0103136"
+    },
+    {
+      "tokens": [
+        "Yeah, about half of it's covered with clouds."
+      ],
+      "speaker": "Swigert",
+      "time": "0103143"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 10 hours, 37 minutes.",
+        "Apollo 13 is 52,141 nautical miles [96,565 km] from Earth.",
+        "Velocity, 8,250 feet per second [2,515 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Faint.] Houston, 13."
+      ],
+      "speaker": "Swigert",
+      "time": "0103921"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 13."
+      ],
+      "speaker": "Swigert",
+      "time": "0103925"
+    },
+    {
+      "tokens": [
+        "This is Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Brand",
+      "time": "0103928"
+    },
+    {
+      "tokens": [
+        "Okay, Vance.",
+        "Are you copying the torqueing angles of the P52 option 3?",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0103930"
+    },
+    {
+      "tokens": [
+        "That's affirm - that's affirm, but stand by."
+      ],
+      "speaker": "Brand",
+      "time": "0103945"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0103951"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We've got 'em.",
+        "Go ahead and torque 'em, Jack."
+      ],
+      "speaker": "Brand",
+      "time": "0103956"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That was stars 20 and 27 and star-angle difference is five balls, and the time at torquing would be 10 hours, 40 minutes, 15 seconds."
+      ],
+      "speaker": "Swigert",
+      "time": "0104001"
+    },
+    {
+      "tokens": [
+        "1 hour [means 10 hours], 40 minutes and 15 seconds; 20 and 27 stars; and five balls.",
+        "Roger."
+      ],
+      "speaker": "Brand",
+      "time": "010:40:15"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Jack has completed his third realignment of the guidance platform.",
+        "This time he used Option 3 of the Program 52, which enables him to correct any drift in the platform from the inertial orientation dictated by the PTC REFSMMAT.",
+        "He sighted on star 20 Dnoces (Iota Ursa Majoris) and star 27 Alkaid (Eta Ursa Majoris).",
+        "His sighting accuracy was spot on as the computer found no difference when comparing the measured angle between these stars and the actual angle; this value being 000.00, or 'five balls'.",
+        "The angles by which the gimbals are rotated or 'torqued' to restore perfect alignment are -0.123° in X, -0.113° in Y and +0.092° in Z.",
+        "The platform was torqued at 010:40 according to the post-flight Mission Report."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0105133"
+    },
+    {
+      "tokens": [
+        "Go ahead, Vance."
+      ],
+      "speaker": "Swigert",
+      "time": "0105137"
+    },
+    {
+      "tokens": [
+        "Time to look out your window for us again."
+      ],
+      "speaker": "Brand",
+      "time": "0105140"
+    },
+    {
+      "tokens": [
+        "Lo and behold."
+      ],
+      "speaker": "Swigert",
+      "time": "0105146"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's 3, 2, 1..."
+      ],
+      "speaker": "Swigert",
+      "time": "0105258"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Swigert",
+      "time": "0105301"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Brand",
+      "time": "0105303"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ninth photo in the weather sequence."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "010:59:08"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Lovell",
+      "time": "0105912"
+    },
+    {
+      "tokens": [
+        "Jim, we're coming up on a handover between sites.",
+        "You might lose comm momentarily."
+      ],
+      "speaker": "Brand",
+      "time": "0105913"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Understand handover, we might lose the comm."
+      ],
+      "speaker": "Lovell",
+      "time": "0105920"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Brand",
+      "time": "0105923"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-12."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 11 hours.",
+        "That handover will be from Goldstone to Honeysuckle, taking place now.",
+        "Apollo 13 is 53,925 nautical miles [99,869 km] from Earth, velocity 8,093 feet per second [2,467 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Earth's constant rotation means that they will move away from the line of sight of one of the main MSFN stations and onto the next.",
+        "Now communications are passed from the Californian station to Honeysuckle Creek in Australia."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "MCC",
+      "time": "0111352"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0111355"
+    },
+    {
+      "tokens": [
+        "You should have the Earth coming into view here shortly."
+      ],
+      "speaker": "MCC",
+      "time": "0111356"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0111402"
+    },
+    {
+      "tokens": [
+        "We got a new CapCom now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0111412"
+    },
+    {
+      "tokens": [
+        "No, I changed my voice.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0111429"
+    },
+    {
+      "tokens": [
+        "3, 2, 1..."
+      ],
+      "speaker": "Haise",
+      "time": "0111458"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Haise",
+      "time": "0111501"
+    },
+    {
+      "tokens": [
+        "Image ten in the weather sequence, and the penultimate photograph."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Brand",
+      "time": "0111403"
+    },
+    {
+      "tokens": [
+        "That was negative, Houston.",
+        "Say again."
+      ],
+      "speaker": "Lovell",
+      "time": "0111508"
+    },
+    {
+      "tokens": [
+        "We got your mark, Jim."
+      ],
+      "speaker": "Brand",
+      "time": "0111512"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Lovell",
+      "time": "0111516"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, you still there, Vance?"
+      ],
+      "speaker": "Haise",
+      "time": "0111653"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Go ahead."
+      ],
+      "speaker": "Brand",
+      "time": "0111656"
+    },
+    {
+      "tokens": [
+        "I guess the world really does turn.",
+        "I can see some of my landmasses now.",
+        "It must be Australia down near the bottom and I guess we haven't really figured out what's over the - to the left.",
+        "It must be some part of Asia.",
+        "China, probably."
+      ],
+      "speaker": "Haise",
+      "time": "0111659"
+    },
+    {
+      "tokens": [
+        "Hey, maybe the fact that you verified that the Earth really turns, we can call this Haise's Theory, huh?",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0111719"
+    },
+    {
+      "tokens": [
+        "Very good, Vance.",
+        "Very good."
+      ],
+      "speaker": "Haise",
+      "time": "0111732"
+    },
+    {
+      "tokens": [
+        "It's looking good for you, Vance."
+      ],
+      "speaker": "Lovell",
+      "time": "0111736"
+    },
+    {
+      "tokens": [
+        "No, seriously.",
+        "Very interesting, we can see on the map now that you're between Guam and Hawaii and a little bit north, and you're almost out 60,000 miles [110,000 km]."
+      ],
+      "speaker": "Brand",
+      "time": "0111739"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "I just did a P21 and we had 55,900 [103,500 km].",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0111758"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's pretty good."
+      ],
+      "speaker": "Brand",
+      "time": "0111808"
+    },
+    {
+      "tokens": [
+        "I'll let you look at it again here.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0111812"
+    },
+    {
+      "tokens": [
+        "Incidentally, we're looking at a replay of your TD&E stuff here and the TV looks pretty good.",
+        "First chance some of us had had to see it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0111824"
+    },
+    {
+      "tokens": [
+        "Okay, Vance.",
+        "In R1, there's our altitude in tens of miles, 55,290 [102,400 km].",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0111847"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Brand",
+      "time": "0111901"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0112014"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Lovell",
+      "time": "0112018"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Looking at our computations back here, we show you about 55,450 [nautical miles, 102,690 km] and going out rapidly now."
+      ],
+      "speaker": "Brand",
+      "time": "0112019"
+    },
+    {
+      "tokens": [
+        "Well, HAL might be a little bit off."
+      ],
+      "speaker": "Lovell",
+      "time": "0112033"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Brand",
+      "time": "0112036"
+    },
+    {
+      "tokens": [
+        "We have a sign underneath our LEB DSKY that 'my name is HAL.'"
+      ],
+      "speaker": "Swigert",
+      "time": "0112037"
+    },
+    {
+      "tokens": [
+        "I can't imagine how that got there.",
+        "[Pause.] Just remember, you have to be nice to HAL."
+      ],
+      "speaker": "Brand",
+      "time": "0112045"
+    },
+    {
+      "tokens": [
+        "We will.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0112055"
+    },
+    {
+      "tokens": [
+        "The crew of Apollo 13 implies that they have discovered an unusual piece of signage from the Lower Equipment Bay, where a secondary DSKY computer interface is located next to the navigational optics station.",
+        "It appears someone has named their onboard computer after the artificial intelligence from the cult movie '2001: A Space Odyssey' which would have come out a year and a half previous in September, 1968.",
+        "Vance Brand's coy reply implies that he might have something to do with this prank.",
+        "As a member of the mission astronaut support crew and having been present in Cape prior to the launch, it is possible that he has personally orchestrated the joke.",
+        "No mention of it has been made in any of the official reports or less official memoirs, however."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "I think this PTC's going to work out good.",
+        "I been watching it here for the last hour here."
+      ],
+      "speaker": "Swigert",
+      "time": "0112104"
+    },
+    {
+      "tokens": [
+        "Good.",
+        "It's looking good here.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0112113"
+    },
+    {
+      "tokens": [
+        "Good Lord!"
+      ],
+      "speaker": "Brand",
+      "time": "0112144"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 13."
+      ],
+      "speaker": "Lovell",
+      "time": "0112357"
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "You're very weak.",
+        "Please repeat."
+      ],
+      "speaker": "Brand",
+      "time": "0112402"
+    },
+    {
+      "tokens": [
+        "Vance, to our calculations, we have taken about 10 Earth window photography pictures.",
+        "I see nothing coming up here except to close the waste stowage vent here in a little while.",
+        "I was thinking about getting squared away to bed down for the evening pretty soon.",
+        "[Pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0112407"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That sounds good, Jim.",
+        "FAO here would like to request just one more picture before you bed down, if you don't mind."
+      ],
+      "speaker": "Brand",
+      "time": "0112435"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll come through with one more picture."
+      ],
+      "speaker": "Lovell",
+      "time": "0112447"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Brand",
+      "time": "0112450"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0113033"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Lovell",
+      "time": "0113038"
+    },
+    {
+      "tokens": [
+        "A couple of items, Jim.",
+        "The first is, the time for closing the waste stowage vent is 12:24.",
+        "If you turn in before that time, why it's okay as far as we're concerned down here to close it before that time, just before you go to bed.",
+        "The second point, we have some results on the P23s, and, if Jack's interested, we could give him the corrected altitudes we're getting, and so forth."
+      ],
+      "speaker": "Brand",
+      "time": "0113040"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "I sure am, Vance.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0113118"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "This is preliminary results, but it will give you some indication.",
+        "Corrected altitude is turning out to be 17 plus or minus 4 kilometers, and the fact that it's plus or minus 4 kilometers indicates that you're being very consistent in judging the altitude.",
+        "The effective altitude is turning out to be 10 plus or minus 12 kilometers.",
+        "Comments are that, as I said before, you're being consistent on the horizon selection.",
+        "The substellar point error is averaging 15 arc-minutes and if you could hold the rates to a minimum, you might shoot for 5 arc-minutes.",
+        "That's the only comment there.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0113126"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll try doing it better next time."
+      ],
+      "speaker": "Swigert",
+      "time": "0113231"
+    },
+    {
+      "tokens": [
+        "But, they're real satisfactory.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0113235"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thanks, Vance."
+      ],
+      "speaker": "Swigert",
+      "time": "0113243"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Brand",
+      "time": "0113246"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The first point that Brand makes refers to how consistently Jack selects a part of Earth's indistinct horizon to mark on.",
+        "The second referred to the substellar point, the point on Earth limb which is nearest to or furthest from the star, from the spacecraft's perspective.",
+        "When Jack measures the angle between Earth and a star, he has to do so along a line from the star to the nearest or furthest point of the limb.",
+        "This line is naturally an imprecise thing to judge."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0113530"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0113533"
+    },
+    {
+      "tokens": [
+        "Okay, Jack, this is the last time for the Earth coming into view in about 1 to 2 minutes."
+      ],
+      "speaker": "Brand",
+      "time": "0113534"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I got my photographer looking out there."
+      ],
+      "speaker": "Swigert",
+      "time": "0113543"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0113547"
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "I just corrected.",
+        "Actually, the Earth will come into view more times.",
+        "It's just that we're [garbled] to the photography.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0113559"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0113612"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "3, 2, 1..."
+      ],
+      "speaker": "Haise",
+      "time": "0113717"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Haise",
+      "time": "0113720"
+    },
+    {
+      "tokens": [
+        "This is the last of the 11 images taken for the weather sequence."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This short movie combines all 11 frames from this Earth sequence in order to show the planet's rotation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy, and could you give us the frame number on that last picture, please?"
+      ],
+      "speaker": "Brand",
+      "time": "0113723"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We've been writing them all down, Vance, as we went, but that one turned out to be 29."
+      ],
+      "speaker": "Haise",
+      "time": "0113731"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Twenty-nine, Fred.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0113738"
+    },
+    {
+      "tokens": [
+        "Okay, Jack says I can't read the counter very well.",
+        "It should be 28 based on our start frame."
+      ],
+      "speaker": "Haise",
+      "time": "0113746"
+    },
+    {
+      "tokens": [
+        "Correction to 28.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0113754"
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "Understand, though, the number showing that you read on the camera was 28.",
+        "Is that affirm?"
+      ],
+      "speaker": "Brand",
+      "time": "0113809"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "The readability of that thing is like, you know, half a frame one way or the other; so, 28, I think, is a good number."
+      ],
+      "speaker": "Haise",
+      "time": "0113821"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Brand",
+      "time": "0113827"
+    },
+    {
+      "tokens": [
+        "The astronauts carry a notebook which is used to log the photographs taken."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "'Halls of Montezuma' is also known as the Marine Corps Hymn andcan be listened to here."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Houston copies.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0114212"
+    },
+    {
+      "tokens": [
+        "I'll have to not wear it out before Jack gets there."
+      ],
+      "speaker": "Haise",
+      "time": "0114223"
+    },
+    {
+      "tokens": [
+        "Sounds like that music's a pretty nice thing to have on a long voyage."
+      ],
+      "speaker": "Brand",
+      "time": "0114230"
+    },
+    {
+      "tokens": [
+        "Yeah, you're right."
+      ],
+      "speaker": "Haise",
+      "time": "0114239"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0115928"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Haise",
+      "time": "0115932"
+    },
+    {
+      "tokens": [
+        "Fred, did you get any Master Alarms up there about 5 or 10 minutes ago?",
+        "Folks thought they saw some here and they were curious about it."
+      ],
+      "speaker": "Brand",
+      "time": "0115934"
+    },
+    {
+      "tokens": [
+        "Ah, yeah.",
+        "We got another O2Flow High on - I guess it was about 5 minutes ago."
+      ],
+      "speaker": "Haise",
+      "time": "0115946"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Brand",
+      "time": "0115957"
+    },
+    {
+      "tokens": [
+        "I think, Vance, what - what the people down there might have been seeing is our testing."
+      ],
+      "speaker": "Swigert",
+      "time": "0115958"
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-13."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Testing the Caution and Warning?",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0130006"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "We were rigging a little siren device over the Master Alarm, and we were running a test on it."
+      ],
+      "speaker": "Swigert",
+      "time": "0120013"
+    },
+    {
+      "tokens": [
+        "This mysterious device is the so-called tone booster.",
+        "When plugged into the utility power supply, it will produce a loud, audible alarm should Master Alarm go off.",
+        "This is to ensure that the crew will be alerted sufficiently even if they are asleep and not wearing their communications headsets while resting.",
+        "The tone booster had no electronic connection to the Caution and Warning System itself - instead, an optical sensor sensitive only to the wavelength of red light emanated by the Master Alarm lamp is used to 'remotely' trigger the device.",
+        "A remarkable solution!"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Good enough.",
+        "And anytime you're ready to copy, I've got a PAD, P37 block data."
+      ],
+      "speaker": "Brand",
+      "time": "0120020"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0120032"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead, Vance."
+      ],
+      "speaker": "Swigert",
+      "time": "0120121"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "P37 block data, starting with GETI.",
+        "025:00, 5119, minus 165, 071:08; 035:00, 7733, minus 165, 070:36; 045:00, 6208, minus 165, 094:52; 060:00, 5993, minus 165, 118:53.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0120124"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by 1 minute.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0120314"
+    },
+    {
+      "tokens": [
+        "This data block has data for programming four different Earth return burns at various times after their launch.",
+        "There are four sets of parameters for each option.",
+        "The first are:Time of ignition:25 hours, 00 minutes.Delta-V:5,110 feet per second (1,557.53 metres/second).",
+        "This is a maximum specified value.Longitude of splashdown:-165 ° west; in the mid-Pacific Ocean.Time of Entry Interface:71 hours, 08 minutes GET.The second set:Time of ignition:35 hours, 00 minutes.Delta-V:7,733 feet per second (2,357 metres/second).",
+        "This is a maximum specified value.Longitude of splashdown:-165 ° west; in the mid-Pacific Ocean.Time of Entry Interface:70 hours, 36 minutes GET.The third set:Time of ignition:45 hours, 00 minutes.Delta-V:6,208 feet per second (1,892.2 metres/second).",
+        "This is a maximum specified value.Longitude of splashdown:-165 ° west; in the mid-Pacific Ocean.Time of Entry Interface:94 hours, 52 minutes GET.The fourth set:Time of ignition:60 hours, 00 minutes.Delta-V:5,993 feet per second (1,826,7 metres/second).",
+        "This is a maximum specified value.Longitude of splashdown:-165 ° west; in the mid-Pacific Ocean.Time of Entry Interface:118 hours, 53 minutes GET.Notes:These abort burns would be performed using the Service Propulsion System.",
+        "Their purpose is to negate the velocity gained from the TLI, and to cause them to start falling back towards the Earth."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "025:00, 5119, minus 165, 071:08; 035:00, 7733, minus 165, 070:36; 045:00, 6208, minus 165, 094:52; 060:00, 5993, minus 165, 118:53."
+      ],
+      "speaker": "Swigert",
+      "time": "0120327"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "That's all correct.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0120408"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0120414"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The PAD for Lift-off plus 35 hours will be updated in just over 12 hours time due to inclement weather being forecast for the predicted landing area at 70 hours."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 12 hours, 5 minutes.",
+        "Apollo 13's distance from Earth now 58,828 nautical miles [108,949 km].",
+        "Velocity, 7,690 feet per second [2,344 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 13."
+      ],
+      "speaker": "Lovell",
+      "time": "0120815"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead."
+      ],
+      "speaker": "Brand",
+      "time": "0120817"
+    },
+    {
+      "tokens": [
+        "We're starting our presleep checklist and no medication."
+      ],
+      "speaker": "Lovell",
+      "time": "0120820"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The Doc says very good.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0120824"
+    },
+    {
+      "tokens": [
+        "A number of chores are to be performed before they can settle in for the night.",
+        "They have just performed the first step, which is a verbal report on their physical wellbeing.",
+        "They are about to check some gauges and electronic readouts.",
+        "The fans in the cryogenic oxygen and hydrogen tanks are operated for a few minutes to stir their contents, which would ensure that the fuel cells will continue to function without trouble while they are sleeping.",
+        "Even non-threatening shifts in the reactant flows could lead to an annoying interruption of their sleep.",
+        "They will also use a large syringe to inject some chlorine into their drinking water supply to make sure no microbes will contaminate it."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Houston, is there any onboard readouts that you don't have from us.",
+        "[Pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0120838"
+    },
+    {
+      "tokens": [
+        "Stand by 1.",
+        "We need the LM/CM Delta-P for one thing, and I'll check back in a minute with the others."
+      ],
+      "speaker": "Brand",
+      "time": "0120850"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And we still have the vent valve open.",
+        "We'll close it one of the last things and I'm looking at LM/CM Delta-P right now and I see 0.5 in psi indicated."
+      ],
+      "speaker": "Lovell",
+      "time": "0120900"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Five-tenths.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0120914"
+    },
+    {
+      "tokens": [
+        "13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0120937"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Haise",
+      "time": "0120941"
+    },
+    {
+      "tokens": [
+        "Only other readouts we need are those on page 3-13 of the Flight Plan.",
+        "Bat C, Pyro Bat A, Pyro Bat B, RCS A, B, C, and D readings, and DC Indicator select Main A or B."
+      ],
+      "speaker": "Brand",
+      "time": "0120942"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0121007"
+    },
+    {
+      "tokens": [
+        "And, Vance, we're still charging Bat B.",
+        "Did you want to dispense with that in a few minutes?",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0121049\t"
+    },
+    {
+      "tokens": [
+        "Stand by on that, Fred.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0121106"
+    },
+    {
+      "tokens": [
+        "Okay, Vance, I've got your readouts on page 3-13 of the Flight Plan."
+      ],
+      "speaker": "Swigert",
+      "time": "0121113"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Ready to copy."
+      ],
+      "speaker": "Brand",
+      "time": "0121117"
+    },
+    {
+      "tokens": [
+        "The Flight Plan has preprepared boxes for writing down information in a standardised format, such as one of these updates."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Bat C is 37, Pyro Bat A is 37, Pyro Bat B is 37; RCS A, 94 percent; B, 95 percent; C, 93 percent; D, 96 percent.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0121120"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0121141"
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0121223"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Haise",
+      "time": "0121228"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "In answer to the battery-charging question, I calculate it should be fully charged at 12:35.",
+        "Play that one, though, the same as the waste vent.",
+        "If you want to do it earlier because you're turning in, why that's fine with us."
+      ],
+      "speaker": "Brand",
+      "time": "0121230"
+    },
+    {
+      "tokens": [
+        "Okay, we'll continue on with a few other things we got to get done, and just before turning in, we'll check with you, and you can remind us then."
+      ],
+      "speaker": "Haise",
+      "time": "0121252"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Brand",
+      "time": "0121302"
+    },
+    {
+      "tokens": [
+        "They want to close the waste went before the crew goes to sleep, so as not to have oxygen flowing deliberately out of the spacecraft while they are in bed."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 13.",
+        "Give me a call when you're ready for E-memory dump."
+      ],
+      "speaker": "Swigert",
+      "time": "0121717"
+    },
+    {
+      "tokens": [
+        "This is Houston, 13.",
+        "You were weak.",
+        "Please repeat."
+      ],
+      "speaker": "Brand",
+      "time": "0121726"
+    },
+    {
+      "tokens": [
+        "Okay, Vance, give me a call when you're ready for our E-memory dump.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0121730"
+    },
+    {
+      "tokens": [
+        "Okay, 13.",
+        "We're not quite ready yet.",
+        "We'll give you a call when we're ready."
+      ],
+      "speaker": "Brand",
+      "time": "0121747"
+    },
+    {
+      "tokens": [
+        "The onboard computer has an erasable memory section in the form of a matrix of ferrite cores.",
+        "It consists of 2,048 words of 16-bit data.",
+        "This 2K memory can be downlinked to Mission Control so that their computer experts can take a look at it, via punching in Verb 74 into the computer.",
+        "This initiates the e-memory dump over the radio."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead."
+      ],
+      "speaker": "Brand",
+      "time": "0121914"
+    },
+    {
+      "tokens": [
+        "Okay, Vance.",
+        "I understand you're ready."
+      ],
+      "speaker": "Swigert",
+      "time": "0121921"
+    },
+    {
+      "tokens": [
+        "Negative, GUIDO isn't quite ready yet."
+      ],
+      "speaker": "Brand",
+      "time": "0121926"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I thought I heard you call us."
+      ],
+      "speaker": "Swigert",
+      "time": "0121932"
+    },
+    {
+      "tokens": [
+        "But we're ready now, Jack, so GUIDO says he's ready to take it."
+      ],
+      "speaker": "Brand",
+      "time": "0121937"
+    },
+    {
+      "tokens": [
+        "On the way down."
+      ],
+      "speaker": "Swigert",
+      "time": "0121946"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Brand",
+      "time": "0121948"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 13."
+      ],
+      "speaker": "Lovell",
+      "time": "0123433"
+    },
+    {
+      "tokens": [
+        "13, Houston.",
+        "Go."
+      ],
+      "speaker": "Brand",
+      "time": "0123838"
+    },
+    {
+      "tokens": [
+        "Okay, Vance.",
+        "Requesting clearance now to turn the vent valve back to Close again, and also the battery charge, Off."
+      ],
+      "speaker": "Lovell",
+      "time": "0123441"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's fine with us, Jim.",
+        "Proceed."
+      ],
+      "speaker": "Brand",
+      "time": "0123453"
+    },
+    {
+      "tokens": [
+        "Okay, we'll do that."
+      ],
+      "speaker": "Lovell",
+      "time": "0123456"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0124105"
+    },
+    {
+      "tokens": [
+        "Go ahead, Vance."
+      ],
+      "speaker": "Swigert",
+      "time": "0124107"
+    },
+    {
+      "tokens": [
+        "We think the spacecraft's looking in good shape.",
+        "Nobody has any comment down here before you hit the hay."
+      ],
+      "speaker": "Brand",
+      "time": "0124113"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "How do they think we stand on the way of consumables so far?",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0124124"
+    },
+    {
+      "tokens": [
+        "You're looking in good shape in all respects - consumables-wise."
+      ],
+      "speaker": "Brand",
+      "time": "0124139"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Real fine."
+      ],
+      "speaker": "Swigert",
+      "time": "0124147"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0124737"
+    },
+    {
+      "tokens": [
+        "Go ahead, Vance."
+      ],
+      "speaker": "Swigert",
+      "time": "0124741"
+    },
+    {
+      "tokens": [
+        "Just the last comment, Jack.",
+        "Would you clear Hal, please, so he doesn't burn his lights out there tonight?"
+      ],
+      "speaker": "Brand",
+      "time": "0124743"
+    },
+    {
+      "tokens": [
+        "Joking or not, the electroluminescent displays have a limited lifetime, and having it on for hours unnecessarily is not preferable."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "No, I - I was just - Yeah, I will do this for you."
+      ],
+      "speaker": "Swigert",
+      "time": "0124751"
+    },
+    {
+      "tokens": [
+        "Okeydokes.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0124754"
+    },
+    {
+      "tokens": [
+        "And we'll see you in the morning, huh?"
+      ],
+      "speaker": "Brand",
+      "time": "0124804"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It'll be just a minute or two yet.",
+        "We have to finish up a couple more chores."
+      ],
+      "speaker": "Swigert",
+      "time": "0124807"
+    },
+    {
+      "tokens": [
+        "What do you mean?",
+        "It is morning."
+      ],
+      "speaker": "Haise",
+      "time": "0124818"
+    },
+    {
+      "tokens": [
+        "It is just past 2 in the morning in Houston, where Vance Brand is manning the console."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, that's right.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0124822"
+    },
+    {
+      "tokens": [
+        "It's been a long day, huh?"
+      ],
+      "speaker": "Brand",
+      "time": "0124842"
+    },
+    {
+      "tokens": [
+        "Yeah, it sure was."
+      ],
+      "speaker": "Lovell",
+      "time": "0124845"
+    },
+    {
+      "tokens": [
+        "For the Command Module, the plan is to have the crew sleep in what is almost like a bunk bed arrangement.",
+        "Two sleep stations with sleeping bags are rigged under the left and right crew couches, while the third crewmember sleeps on the right hand seat.",
+        "It was known for the crew to vary between these positions, and also occasionally to sleep on the left side couch instead."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The 'sleep restraint' is a lightweight sleeping bag made out of fireproof Beta cloth.",
+        "Their main purpose is, as the name suggests, to keep the sleeping crewmen in place so as to prevent them from floating around the cabin.",
+        "This could be both uncomfortable and also dangerous, since they could accidentally hit crucial controls while sleeping.",
+        "The restraints can also be used for tying down unused space suits during reentry, if the crew is not wearing them."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-14."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 13 hours, 8 minutes.",
+        "We don't anticipate any further conversation with the crew tonight.",
+        "At least we do not intend to put in any more calls to them.",
+        "Apollo 13 crew settling down for a 10-hour rest period.",
+        "Apollo 13 is 63,312 nautical miles [117,254 km] from Earth; velocity, 7,358 feet per second [2,243 m/s].",
+        "We'll take the release line down now.",
+        "Come back up at approximately an hour with a status report.",
+        "If there is further conversation, we'll come back up and bring that to you.",
+        "This is Mission Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    }
+  ],
+  "source_file": "day1_part4_settling_down_for_the_flight.html"
+}

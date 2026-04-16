@@ -1,0 +1,2030 @@
+{
+  "description": "The First Lunar Landing",
+  "transcript": [
+    {
+      "tokens": [
+        "Columbia, Houston!",
+        "We're standing by.",
+        "Over.",
+        "(Long Pause) Columbia, Houston.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "102:15:02"
+    },
+    {
+      "tokens": [
+        "Houston, Columbia.",
+        "Reading you loud and clear.",
+        "How me?"
+      ],
+      "speaker": "Collins",
+      "time": "102:15:41"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Five-by, Mike.",
+        "How did it (that is, the DOI burn) go?",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "102:15:43"
+    },
+    {
+      "tokens": [
+        "Listen, babe.",
+        "Everything's going just swimmingly.",
+        "Beautiful."
+      ],
+      "speaker": "Collins",
+      "time": "102:15:49"
+    },
+    {
+      "tokens": [
+        "Great.",
+        "We're standing by for Eagle."
+      ],
+      "speaker": "Duke",
+      "time": "102:15:52"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "He's coming along."
+      ],
+      "speaker": "Collins",
+      "time": "102:15:57"
+    },
+    {
+      "tokens": [
+        "We copy.",
+        "Out.",
+        "(Pause) And, Columbia, Houston.",
+        "We expect to lose your high gain sometime during the powered descent.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "102:16:00"
+    },
+    {
+      "tokens": [
+        "Columbia.",
+        "Roger.",
+        "You don't much care do you?"
+      ],
+      "speaker": "Collins",
+      "time": "102:16:19"
+    },
+    {
+      "tokens": [
+        "No, sir."
+      ],
+      "speaker": "Duke",
+      "time": "102:16:22"
+    },
+    {
+      "tokens": [
+        "Houston, Eagle.",
+        "How do you read?"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:17:27"
+    },
+    {
+      "tokens": [
+        "Five-by, Eagle.",
+        "We're standing by for your burn report.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "102:17:29"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "The burn was on time.",
+        "The residuals before nulling: minus 0.1, minus 0.4, minus 0.1, X and Z nulled to zero (Static) (Garbled) nulling (garbled).",
+        "(Long Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:17:36"
+    },
+    {
+      "tokens": [
+        "Columbia, Houston.",
+        "We've lost all data with Eagle.",
+        "Please have him re-acquire on the high gain.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "102:18:25"
+    },
+    {
+      "tokens": [
+        "Eagle, this is Columbia.",
+        "Houston would like you to re-acquire on the high gain.",
+        "They've lost data with you.",
+        "Over.",
+        "(Pause)"
+      ],
+      "speaker": "Collins",
+      "time": "102:18:37"
+    },
+    {
+      "tokens": [
+        "Eagle, did you copy Columbia?"
+      ],
+      "speaker": "Collins",
+      "time": "102:18:50"
+    },
+    {
+      "tokens": [
+        "Eagle, Houston.",
+        "Did you call?",
+        "(Pause; static clears)"
+      ],
+      "speaker": "Duke",
+      "time": "102:18:54"
+    },
+    {
+      "tokens": [
+        "Eagle, Houston...(correcting himself) or Houston, Eagle.",
+        "How do you read now?"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:19:05"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "(Making a mis-identification) Five-by, Neil.",
+        "We copied up to the AGS residuals.",
+        "Would you please repeat the AGS residuals and the trim - correction - the Sun check?",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "102:19:08"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "AGS residuals: (X) minus 0.1, (Y) minus 0.2, (Z) minus 0.7 (feet per second).",
+        "And we used the PGNS Noun 86 for Delta-VZ which was 9.5, versus yours which was 9.1, and I believe that may explain the difference (between the minus 0.7 residual in AGS versus minus 0.1 for the PGNS).",
+        "Apogee 57.2, perilune 9.1; Sun check to three marks; Noun 20 minus Noun 22, plus 0.19, plus 0.16, plus 0.11.",
+        "Over."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:19:19"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Copy.",
+        "Looks great."
+      ],
+      "speaker": "Duke",
+      "time": "102:19:54"
+    },
+    {
+      "tokens": [
+        "Columbia, Houston.",
+        "We've lost Eagle again.",
+        "Have him try the high gain.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "102:22:37"
+    },
+    {
+      "tokens": [
+        "Eagle, this is Columbia.",
+        "Houston lost you again.",
+        "They're requesting another try at the high gain."
+      ],
+      "speaker": "Collins",
+      "time": "102:22:46"
+    },
+    {
+      "tokens": [
+        "Eagle, Houston.",
+        "We have you now.",
+        "Do you read?",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "102:23:57"
+    },
+    {
+      "tokens": [
+        "Loud and clear."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:24:02"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We see your Verb 47."
+      ],
+      "speaker": "Duke",
+      "time": "102:24:04"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "I don't know what the problem was there.",
+        "It (the steerable high-gain antenna) just started oscillating around in yaw.",
+        "According to the needle...We're picking up a little oscillation right now, as a matter of fact."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:24:12"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We'll work on it.",
+        "(Long Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "102:24:23"
+    },
+    {
+      "tokens": [
+        "Horizon check was right on time."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:24:38"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "102:24:41"
+    },
+    {
+      "tokens": [
+        "Did you copy the star...I mean the Sun check, Charlie?"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:24:45"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "We did, Buzz.",
+        "Out.",
+        "(Long Pause; with intermittent static)"
+      ],
+      "speaker": "Duke",
+      "time": "102:24:48"
+    },
+    {
+      "tokens": [
+        "Eagle, Houston.",
+        "The AGS initialization looked good to us.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "102:25:35"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "(Long Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:25:43"
+    },
+    {
+      "tokens": [
+        "Our radar checks indicate 50,000-foot perilune.",
+        "Our visual altitude checks are steadying out at about 53,000 (feet)."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:26:29"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "(Long Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "102:26:37"
+    },
+    {
+      "tokens": [
+        "And, Houston, we got a 500 alarm (code) early in the program.",
+        "Went to Descent 1, proceeded on it, and we're back at Auto again.",
+        "Over."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:26:55"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We saw that, Buzz.",
+        "Thank you much.",
+        "Out."
+      ],
+      "speaker": "Duke",
+      "time": "102:27:06"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "I say again...(Listens) Okay.",
+        "That wasn't an alarm; that was a code.",
+        "Okay."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:27:09"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "We saw that.",
+        "(Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "102:27:14"
+    },
+    {
+      "tokens": [
+        "Eagle, Houston.",
+        "We recommend you yaw 10 (degrees) right.",
+        "It will help us on the high-gain signal strength.",
+        "Over.",
+        "(Long Pause; static)"
+      ],
+      "speaker": "Duke",
+      "time": "102:27:22"
+    },
+    {
+      "tokens": [
+        "Eagle, Houston.",
+        "If you read, you're Go for powered descent.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "102:28:08"
+    },
+    {
+      "tokens": [
+        "(Relaying) Eagle, this is Columbia.",
+        "They just gave you a Go for powered descent."
+      ],
+      "speaker": "Collins",
+      "time": "102:28:18"
+    },
+    {
+      "tokens": [
+        "Columbia, Houston.",
+        "We've lost them on the high gain again.",
+        "Would you please...We're recommending (that they) yaw right 10 degrees and re-acquire."
+      ],
+      "speaker": "Duke",
+      "time": "102:28:22"
+    },
+    {
+      "tokens": [
+        "Eagle, this is Columbia.",
+        "(Static fades) You're Go for PDI and they recommend you yaw right 10 degrees and try the high gain again.",
+        "(Pause; No answer) Eagle, you read Columbia?"
+      ],
+      "speaker": "Collins",
+      "time": "102:28:34"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "We read you."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:28:48"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Collins",
+      "time": "102:28:49"
+    },
+    {
+      "tokens": [
+        "Eagle, Houston.",
+        "We read you now.",
+        "You're Go for PDI.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "102:28:51"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand.",
+        "(Reading the checklist) Stabilization and Control circuit breakers.",
+        "DECA Gimbal AC, Closed?"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:28:57"
+    },
+    {
+      "tokens": [
+        "(Faintly) What?"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:29:07"
+    },
+    {
+      "tokens": [
+        "DECA Gimbal AC, Closed?",
+        "Circuit breaker?",
+        "Command Override, Off.",
+        "Gimbal Enable.",
+        "Rate Scale, 25."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:29:08"
+    },
+    {
+      "tokens": [
+        "Eagle, Houston.",
+        "Your alignment is Go on the"
+      ],
+      "speaker": "Duke",
+      "time": "102:29:23"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:29:29"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "3:30 'til ignition."
+      ],
+      "speaker": "Duke",
+      "time": "102:29:33"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "(Returning to the checklist) Thrust translation, four jets.",
+        "Balance couple, On.",
+        "TCA throttle, Minimum.",
+        "Throttle, Auto CDR.",
+        "Prop(ellant) button, Reset.",
+        "Prop button.",
+        "(Pause) Okay.",
+        "Abort/Abort Stage, Reset.",
+        "(Pause) Att(itude) Control, three of them to Mode Control.",
+        "(Reviewing the present situation) Okay, Mode Control is set.",
+        "AGS is reading 400 plus 1.",
+        "Standing by for (slight pause?) arming.",
+        "(Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:29:38"
+    },
+    {
+      "tokens": [
+        "Verb 77 (Long Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:30:45"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Sequence camera coming on.",
+        "(Long Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:31:04"
+    },
+    {
+      "tokens": [
+        "Eagle, Houston.",
+        "If you'd like to try high gain, pitch 212, yaw 37.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "102:31:32"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I think I've got you on high gain now."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:31:45"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "102:31:49"
+    },
+    {
+      "tokens": [
+        "(To Buzz) Okay, you got anything...(garbled).",
+        "(Long Pause)"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:31:49"
+    },
+    {
+      "tokens": [
+        "(To Houston) Say again the angles, though."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:32:03"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "102:32:05"
+    },
+    {
+      "tokens": [
+        "I'll set them in to use them before we yaw around."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:32:06"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Pitch 212, yaw plus 37.",
+        "(Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "102:32:08"
+    },
+    {
+      "tokens": [
+        "Copy."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:32:19"
+    },
+    {
+      "tokens": [
+        "(To Buzz) Okay!",
+        "What else is left to do here?"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:32:22"
+    },
+    {
+      "tokens": [
+        "Engine Arm, Descent.",
+        "40 seconds."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:32:25"
+    },
+    {
+      "tokens": [
+        "Is the (16mm) camera running?"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:32:34"
+    },
+    {
+      "tokens": [
+        "Camera's running.",
+        "(Garbled)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:32:35"
+    },
+    {
+      "tokens": [
+        "Okay, the override at 5 seconds.",
+        "(Pause) Descent armed."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:32:50"
+    },
+    {
+      "tokens": [
+        "(Garbled) proceed."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:33:05"
+    },
+    {
+      "tokens": [
+        "Proceed.",
+        "One, Zero."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:33:08"
+    },
+    {
+      "tokens": [
+        "Ignition."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:33:11"
+    },
+    {
+      "tokens": [
+        "Ignition.",
+        "(Thrust) 10 percent (Pause; static)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:33:11"
+    },
+    {
+      "tokens": [
+        "Just about on time."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:33:19"
+    },
+    {
+      "tokens": [
+        "(Garbled) light is on.",
+        "(Pause) 24, 25, 26, Throttle up.",
+        "Looks good!"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:33:25"
+    },
+    {
+      "tokens": [
+        "Columbia, Houston.",
+        "We've lost them.",
+        "Tell them to go aft Omni.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "102:33:41"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:33:44"
+    },
+    {
+      "tokens": [
+        "(Garbled)'s holding.",
+        "(Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:33:46"
+    },
+    {
+      "tokens": [
+        "(To Eagle) They'd like to use the Omni (garbled)."
+      ],
+      "speaker": "Collins",
+      "time": "102:33:51"
+    },
+    {
+      "tokens": [
+        "(To Mike) Okay, we're reading you relayed to us, Mike.",
+        "(Static fades)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:34:01"
+    },
+    {
+      "tokens": [
+        "(Making a mis-identification) Say again, Neil?"
+      ],
+      "speaker": "Collins",
+      "time": "102:34:05"
+    },
+    {
+      "tokens": [
+        "(To Mike) I'll leave it in Slew."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:34:07"
+    },
+    {
+      "tokens": [
+        "(To Mike) Relay to us."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:34:09"
+    },
+    {
+      "tokens": [
+        "(To Mike) See if they have got me now.",
+        "I've got good signal strength in Slew."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:34:10"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You should have him now, Houston."
+      ],
+      "speaker": "Collins",
+      "time": "102:34:13"
+    },
+    {
+      "tokens": [
+        "Eagle, we('ve) got you now.",
+        "It's looking good.",
+        "Over.",
+        "(Pause) Eagle..."
+      ],
+      "speaker": "Duke",
+      "time": "102:34:16"
+    },
+    {
+      "tokens": [
+        "(To Neil) Okay, rate of descent looks good."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:34:22"
+    },
+    {
+      "tokens": [
+        "Eagle, Houston.",
+        "Everything's looking good here.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "102:34:25"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "(Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:34:29"
+    },
+    {
+      "tokens": [
+        "Eagle, Houston.",
+        "(Our recommendation is that), after yaw-around, (use pointing) angles: S-band pitch, minus 9, yaw plus 18."
+      ],
+      "speaker": "Duke",
+      "time": "102:34:34"
+    },
+    {
+      "tokens": [
+        "Copy.",
+        "(Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:34:51"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "(Garbled) Two minutes (into the burn); going good."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:34:55"
+    },
+    {
+      "tokens": [
+        "RCS is good.",
+        "No flags.",
+        "DPS pressure is good.",
+        "(Garbled)"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:35:07"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "(Long Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "102:35:10"
+    },
+    {
+      "tokens": [
+        "Data, On.",
+        "Altitude's a little high.",
+        "(Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:35:14"
+    },
+    {
+      "tokens": [
+        "Okay, what do you want?",
+        "(Garbled) Let's get...Want to get rid of this radar?"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:35:28"
+    },
+    {
+      "tokens": [
+        "Yeah."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:35:37"
+    },
+    {
+      "tokens": [
+        "You're Slew?",
+        "Okay.",
+        "(Pause)"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:35:38"
+    },
+    {
+      "tokens": [
+        "Houston.",
+        "I'm getting a little fluctuation in the AC voltage now."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:35:46"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "102:35:52"
+    },
+    {
+      "tokens": [
+        "Could be our meter, maybe, huh?"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:35:54"
+    },
+    {
+      "tokens": [
+        "Standby.",
+        "Looking good to us.",
+        "You're still looking good at 3...Coming up 3 minutes."
+      ],
+      "speaker": "Duke",
+      "time": "102:35:56"
+    },
+    {
+      "tokens": [
+        "Okay, we went by the three-minute point early.",
+        "We're (going to land) long."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:36:11"
+    },
+    {
+      "tokens": [
+        "Rate of descent looking real good.",
+        "Altitude's right about on."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:36:13"
+    },
+    {
+      "tokens": [
+        "(To Houston) Our position checks down range show us to be a little long."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:36:18"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "(Heavy Static)"
+      ],
+      "speaker": "Duke",
+      "time": "102:36:21"
+    },
+    {
+      "tokens": [
+        "AGS is showing about 2 feet per second greater (altitude) rate (than is the PGNS).",
+        "(Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:36:24"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "I show us to be...Stand by.",
+        "(Garbled)"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:36:35"
+    },
+    {
+      "tokens": [
+        "Altitude rate looks right down the groove."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:36:43"
+    },
+    {
+      "tokens": [
+        "Roger, about 3 seconds long.",
+        "Rolling over.",
+        "(Pause) Okay, now watch that signal strength."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:36:46"
+    },
+    {
+      "tokens": [
+        "Well, I think it's going to drop."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:37:00"
+    },
+    {
+      "tokens": [
+        "You know, I tell you.",
+        "This is much harder to do than it was...(Pause)"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:37:03"
+    },
+    {
+      "tokens": [
+        "(To Neil) Keep it going.",
+        "(Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:37:11"
+    },
+    {
+      "tokens": [
+        "Eagle, Houston..."
+      ],
+      "speaker": "Duke",
+      "time": "102:37:18"
+    },
+    {
+      "tokens": [
+        "(Under Charlie) Okay, Houston; (garbled) the ED Batts are Go..."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:37:18"
+    },
+    {
+      "tokens": [
+        "...You are Go to continue..."
+      ],
+      "speaker": "Duke",
+      "time": "102:37:19"
+    },
+    {
+      "tokens": [
+        "...at 4 minutes."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:37:19"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You are Go.",
+        "You are Go to continue powered descent.",
+        "You are Go to continue powered descent."
+      ],
+      "speaker": "Duke",
+      "time": "102:37:22"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "(Static)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:37:30"
+    },
+    {
+      "tokens": [
+        "And, Eagle, Houston.",
+        "We've got data dropout.",
+        "You're still looking good.",
+        "(Long Pause; static fades)"
+      ],
+      "speaker": "Duke",
+      "time": "102:37:35"
+    },
+    {
+      "tokens": [
+        "How do you look, over there?"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:37:47"
+    },
+    {
+      "tokens": [
+        "Okay (Long Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:37:49"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We got good ("
+      ],
+      "speaker": "Aldrin",
+      "time": "102:38:04"
+    },
+    {
+      "tokens": [
+        "We got a lock-on?"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:38:09"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "Altitude light's out.",
+        "(Pause) Delta-H is minus 2,900."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:38:11"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "Duke",
+      "time": "102:38:18"
+    },
+    {
+      "tokens": [
+        "Sure do.",
+        "Houston, (I hope) you're looking at our Delta-H."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:38:21"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Duke",
+      "time": "102:38:25"
+    },
+    {
+      "tokens": [
+        "(With the slightest touch of urgency) Program Alarm."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:38:26"
+    },
+    {
+      "tokens": [
+        "It's looking good to us.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "102:38:28"
+    },
+    {
+      "tokens": [
+        "(To Houston) It's a 1202."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:38:30"
+    },
+    {
+      "tokens": [
+        "1202.",
+        "(Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:38:32"
+    },
+    {
+      "tokens": [
+        "(To Buzz) What is it?",
+        "Let's incorporate (the"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:38:42"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We got you...(With some urgency in his voice) We're Go on that alarm."
+      ],
+      "speaker": "Duke",
+      "time": "102:38:53"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "(To Buzz) 330."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:38:59"
+    },
+    {
+      "tokens": [
+        "6 plus 25.",
+        "Throttle down..."
+      ],
+      "speaker": "Duke",
+      "time": "102:39:01"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Looks like about 820...(Listens)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:39:02"
+    },
+    {
+      "tokens": [
+        "...6 plus 25, throttle down."
+      ],
+      "speaker": "Duke",
+      "time": "102:39:03"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:39:06"
+    },
+    {
+      "tokens": [
+        "6 plus 25."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:39:08"
+    },
+    {
+      "tokens": [
+        "Same alarm, and it appears to come up when we have a 16/68 up."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:39:14"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "(Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "102:39:17"
+    },
+    {
+      "tokens": [
+        "Eagle, Houston.",
+        "We'll monitor your Delta-H."
+      ],
+      "speaker": "Duke",
+      "time": "102:39:20"
+    },
+    {
+      "tokens": [
+        "Armstrong (onboard) Were we...Was it (meaning the large Delta-H reading) coming down?"
+      ],
+      "speaker": "Unknown",
+      "time": "102:39:21"
+    },
+    {
+      "tokens": [
+        "Yes, it's coming down beautifully."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:39:24"
+    },
+    {
+      "tokens": [
+        "Delta-H..."
+      ],
+      "speaker": "Duke",
+      "time": "102:39:28"
+    },
+    {
+      "tokens": [
+        "Roger, it looks good now."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:39:29"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Delta-H is looking good to us."
+      ],
+      "speaker": "Duke",
+      "time": "102:39:30"
+    },
+    {
+      "tokens": [
+        "Wow!",
+        "Throttle down..."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:39:34"
+    },
+    {
+      "tokens": [
+        "Throttle down on time."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:39:35"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy throttle down..."
+      ],
+      "speaker": "Duke",
+      "time": "102:39:36"
+    },
+    {
+      "tokens": [
+        "You can feel it in here when it throttles down.",
+        "Better than the (stationary) simulator."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:39:38"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "(Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "102:39:42"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "(Pause) (Garbled) No flags.",
+        "RCS is good.",
+        "DPS (Descent Propulsion System, pronounced 'dips') is good.",
+        "Pressure...Okay."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:39:50"
+    },
+    {
+      "tokens": [
+        "At 7 minutes, you're looking great to us, Eagle."
+      ],
+      "speaker": "Duke",
+      "time": "102:40:08"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm still on Slew so we may tend to lose (the high-gain) as we gradually pitch over.",
+        "Let me try Auto again now and see what happens."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:40:13"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "102:40:21"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Looks like it's holding."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:40:23"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We got good data.",
+        "(Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "102:40:24"
+    },
+    {
+      "tokens": [
+        "Okay, 7:30 coming up.",
+        "Should be...(garbled).",
+        "(Garbled) tad long."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:40:27"
+    },
+    {
+      "tokens": [
+        "And I have the window.",
+        "(Garbled) view out the window."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:40:47"
+    },
+    {
+      "tokens": [
+        "Eagle, Houston.",
+        "It's Descent 2 fuel to Monitor.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "102:40:49"
+    },
+    {
+      "tokens": [
+        "Going to 2.",
+        "(Pause) (onboard) Coming up on 8 minutes."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:40:55"
+    },
+    {
+      "tokens": [
+        "Give us an estimated switchover time please, Houston."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:41:01"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Standby.",
+        "You're looking great at 8 minutes."
+      ],
+      "speaker": "Duke",
+      "time": "102:41:05"
+    },
+    {
+      "tokens": [
+        "You're at 7000, (garbled).",
+        "Looking good."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:41:10"
+    },
+    {
+      "tokens": [
+        "Eagle, you've got 30 seconds to P64."
+      ],
+      "speaker": "Duke",
+      "time": "102:41:12"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "(Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:41:19"
+    },
+    {
+      "tokens": [
+        "Eagle, Houston.",
+        "Coming up 8:30; you're looking great.",
+        "(Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "102:41:27"
+    },
+    {
+      "tokens": [
+        "P64."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:41:35"
+    },
+    {
+      "tokens": [
+        "We copy.",
+        "(Long Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "102:41:37"
+    },
+    {
+      "tokens": [
+        "(Garbled)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:41:44"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "5000 (feet altitude).",
+        "100 feet per second (descent rate) is good.",
+        "Going to check my attitude control.",
+        "Attitude control is good"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:41:51"
+    },
+    {
+      "tokens": [
+        "Eagle, you're looking great.",
+        "Coming up 9 minutes.",
+        "(Pause)"
+      ],
+      "speaker": "Duke",
+      "time": "102:41:51"
+    },
+    {
+      "tokens": [
+        "Manual attitude control is good."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:42:05"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "(Pause) Eagle, Houston.",
+        "You're Go for landing.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "102:42:08"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "3000 at 70."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:42:13"
+    },
+    {
+      "tokens": [
+        "(Respoding to Charlie) Roger.",
+        "Understand.",
+        "Go for landing.",
+        "(To Neil) 3000 feet."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:42:17"
+    },
+    {
+      "tokens": [
+        "Copy."
+      ],
+      "speaker": "Duke",
+      "time": "102:42:19"
+    },
+    {
+      "tokens": [
+        "Program Alarm.",
+        "(Pause) 1201"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:42:19"
+    },
+    {
+      "tokens": [
+        "1201.",
+        "(Pause) (onboard) Okay, 2000 at 50."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:42:24"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "1201 alarm.",
+        "(Pause) We're Go.",
+        "Same type.",
+        "We're Go."
+      ],
+      "speaker": "Duke",
+      "time": "102:42:25"
+    },
+    {
+      "tokens": [
+        "2000 feet.",
+        "2000 feet."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:42:31"
+    },
+    {
+      "tokens": [
+        "(onboard) (With some urgency in his voice, possibly as he sees West Crater) Give me an"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:42:32"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "102:42:35"
+    },
+    {
+      "tokens": [
+        "(Confirming Buzz's"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:42:37"
+    },
+    {
+      "tokens": [
+        "Eagle, looking great.",
+        "You're Go.",
+        "(Long Pause) Roger.",
+        "1202.",
+        "We copy it."
+      ],
+      "speaker": "Duke",
+      "time": "102:42:41"
+    },
+    {
+      "tokens": [
+        "35 degrees.",
+        "35 degrees.",
+        "750.",
+        "Coming down at 23 (feet per second)."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:43:01"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:43:07"
+    },
+    {
+      "tokens": [
+        "700 feet, 21 (feet per second) down, 33 degrees."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:43:07"
+    },
+    {
+      "tokens": [
+        "Pretty rocky area."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:43:10"
+    },
+    {
+      "tokens": [
+        "600 feet, down at 19."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:43:11"
+    },
+    {
+      "tokens": [
+        "I'm going to..."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:43:15"
+    },
+    {
+      "tokens": [
+        "540 feet, down at...(LPD angle is) 30.",
+        "Down at 15.",
+        "(Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:43:16"
+    },
+    {
+      "tokens": [
+        "Okay, 400 feet, down at 9 (feet per second).",
+        "58 (feet per second) forward."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:43:26"
+    },
+    {
+      "tokens": [
+        "No problem."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:43:32"
+    },
+    {
+      "tokens": [
+        "350 feet, down at 4."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:43:33"
+    },
+    {
+      "tokens": [
+        "330, three and a half down.",
+        "(Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:43:35"
+    },
+    {
+      "tokens": [
+        "Okay, you're pegged on horizontal velocity."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:43:42"
+    },
+    {
+      "tokens": [
+        "300 feet (altitude), down 3 1/2 (feet per second), 47 (feet per second) forward.",
+        "Slow it up."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:43:46"
+    },
+    {
+      "tokens": [
+        "1 1/2 down.",
+        "Ease her down.",
+        "270."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:43:52"
+    },
+    {
+      "tokens": [
+        "Okay, how's the fuel?"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:43:58"
+    },
+    {
+      "tokens": [
+        "Eight percent."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:44:00"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Here's a...Looks like a good area here."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:44:02"
+    },
+    {
+      "tokens": [
+        "I got the shadow out there."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:44:04"
+    },
+    {
+      "tokens": [
+        "250 (feet altitude), down at 2 1/2, 19 forward.",
+        "(Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:44:07"
+    },
+    {
+      "tokens": [
+        "Altitude (and) velocity lights (on)."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:44:13"
+    },
+    {
+      "tokens": [
+        "3 1/2 down, 220 feet, 13 forward.",
+        "(Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:44:16"
+    },
+    {
+      "tokens": [
+        "11 forward.",
+        "Coming down nicely."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:44:23"
+    },
+    {
+      "tokens": [
+        "Gonna be right over that crater."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:44:25"
+    },
+    {
+      "tokens": [
+        "200 feet, 4 1/2 down."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:44:24"
+    },
+    {
+      "tokens": [
+        "5 1/2 down."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:44:26"
+    },
+    {
+      "tokens": [
+        "I got a good spot (garbled)."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:44:29"
+    },
+    {
+      "tokens": [
+        "160 feet, 6 1/2 down."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:44:31"
+    },
+    {
+      "tokens": [
+        "5 1/2 down, 9 forward.",
+        "You're looking good."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:44:33"
+    },
+    {
+      "tokens": [
+        "120 feet."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:44:40"
+    },
+    {
+      "tokens": [
+        "100 feet, 3 1/2 down, 9 forward.",
+        "Five percent (fuel remaining).",
+        "Quantity light."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:44:45"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "75 feet.",
+        "And it's looking good.",
+        "Down a half, 6 forward."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:44:54"
+    },
+    {
+      "tokens": [
+        "60 seconds (of fuel left before the 'Bingo' call)."
+      ],
+      "speaker": "Duke",
+      "time": "102:45:02"
+    },
+    {
+      "tokens": [
+        "30 feet, 2 1/2 down.",
+        "(Garbled) shadow."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:45:21"
+    },
+    {
+      "tokens": [
+        "4 forward.",
+        "4 forward.",
+        "Drifting to the right a little.",
+        "20 feet, down a half."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:45:25"
+    },
+    {
+      "tokens": [
+        "30 seconds (until the 'Bingo' call)."
+      ],
+      "speaker": "Duke",
+      "time": "102:45:31"
+    },
+    {
+      "tokens": [
+        "Drifting forward just a little bit; that's good.",
+        "(Garbled) (Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:45:32"
+    },
+    {
+      "tokens": [
+        "Contact Light."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:45:40"
+    },
+    {
+      "tokens": [
+        "Shutdown"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:45:43"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Engine Stop."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:45:44"
+    },
+    {
+      "tokens": [
+        "ACA out of Detent."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:45:45"
+    },
+    {
+      "tokens": [
+        "Out of Detent.",
+        "Auto."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:45:46"
+    },
+    {
+      "tokens": [
+        "Mode Control, both Auto.",
+        "Descent Engine Command Override, Off.",
+        "Engine Arm, Off.",
+        "413 is in."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:45:47"
+    },
+    {
+      "tokens": [
+        "(Reporting that Houston has received telemetry confirming engine shutdown and that they have heard Buzzâs transmission regarding address 413) We copy you down, Eagle."
+      ],
+      "speaker": "Duke",
+      "time": "102:45:57"
+    },
+    {
+      "tokens": [
+        "Engine arm is off.",
+        "(Pause) (Now on voice-activated comm) Houston,"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:45:58"
+    },
+    {
+      "tokens": [
+        "(Responding to Neil's transmission but momentarily tongue-tied) Roger, Twan...(correcting himself) Tranquility.",
+        "We copy you on the ground.",
+        "You got a bunch of guys about to turn blue.",
+        "We're breathing again.",
+        "Thanks a lot."
+      ],
+      "speaker": "Duke",
+      "time": "102:46:06"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:46:16"
+    },
+    {
+      "tokens": [
+        "You're looking good here."
+      ],
+      "speaker": "Duke",
+      "time": "102:46:18"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "(To Buzz) Let's get on with it.",
+        "(To Houston) Okay.",
+        "We're going to be busy for a minute."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:46:23"
+    },
+    {
+      "tokens": [
+        "Master Arm, On.",
+        "Take care of the descent vent."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:46:25"
+    },
+    {
+      "tokens": [
+        "Very smooth touchdown.",
+        "(Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:46:38"
+    },
+    {
+      "tokens": [
+        "That looks...(Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:46:52"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It looks like we're venting the oxidizer now."
+      ],
+      "speaker": "Aldrin",
+      "time": "102:47:03"
+    },
+    {
+      "tokens": [
+        "Roger, Eagle.",
+        "And you are Stay for..."
+      ],
+      "speaker": "Duke",
+      "time": "102:47:06"
+    },
+    {
+      "tokens": [
+        "(Garbled)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:47:08"
+    },
+    {
+      "tokens": [
+        "...T1.",
+        "Over.",
+        "Eagle, you are Stay for T1."
+      ],
+      "speaker": "Duke",
+      "time": "102:47:09"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand, Stay for T1."
+      ],
+      "speaker": "Armstrong",
+      "time": "102:47:12"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And we see you venting the Ox(idizer)."
+      ],
+      "speaker": "Duke",
+      "time": "102:47:15"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "(Long Pause)"
+      ],
+      "speaker": "Armstrong",
+      "time": "102:47:20"
+    },
+    {
+      "tokens": [
+        "Radar circuit breaker.",
+        "(Long Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "102:47:36"
+    }
+  ],
+  "source_file": "surface_01_the_first_lunar_landing.html"
+}

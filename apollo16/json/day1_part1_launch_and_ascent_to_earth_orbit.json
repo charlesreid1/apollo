@@ -1,0 +1,3233 @@
+{
+  "description": "Apollo 16 Flight Journal - Day 1, part 1: Launch and Reaching Earth Orbit",
+  "transcript": [
+    {
+      "tokens": [
+        "The Apollo 16 mission is the eleventh flight in the Apollo/Saturn V flight program, the sixth mission planned for lunar landing, and the fourth mission planned for landing in the lunar highlands.",
+        "It is the second of the three 'J' Mission series which take advantage of greater Saturn V performance to launch a heavier spacecraft dedicated to scientific exploration of the Moon.",
+        "The crew is John W.",
+        "Young (Mission Commander), Tom \"Ken\" Mattingly II (Command Module Pilot), and Charles M.",
+        "Duke, Jr.",
+        "(Lunar Module Pilot).",
+        "John Young is by this time the most experienced American astronaut still flying, having been the co-pilot onGemini III(the first manned Gemini flight), the command pilot ofGemini Xand the Command Module Pilot (CMP) forApollo 10, the dress rehearsal forApollo 11.",
+        "Both Ken Mattingly and Charles Duke are rookies.",
+        "Mattingly was previously been designated as the CMP forApollo 13but was grounded 72 hours before that mission due to exposure to German Measles.",
+        "Duke had been the back-up LMP forApollo 13(incidentally, it was Duke's case of German Measles that led to Mattingly's grounding)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The mission is also termed AS-511 (Apollo Saturn V number 11), and, in part due to the rivalries between the Manned Spacecraft Center at Houston (now Johnston Space Center) which is responsible for the spacecraft and the Marshall Space Flight Centre at Huntsville, which is responsible for the Saturn V, it is sometimes termed SA-511.",
+        "The launch vehicle comprises First Stage S-IC-11 (the eleventh production stage), Second Stage S-II-11, Third Stage S-IVB-511, and Instrument Unit IUS-511 (both the eleventh of each for the Saturn V).",
+        "The Apollo Spacecraft comprises Spacecraft/Lunar Module Adapter SLA-20 (the twentieth production unit), Command Module CM-113 and Service Module SM-113 (the thirteenth of the Block 2 version of each), and Lunar Module LM-11.",
+        "The LM houses Lunar Roving Vehicle LRV-2."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Originally slated for launch on 17 March 1972, Apollo 16 is now prepared to go on 16 April, as the culmination of a long preparation.",
+        "The crew assignments were formally announced over a year ago on 3 March 1971, and the elements of the spacecraft began to arrive at the Kennedy Space Centre in July 1971.",
+        "Apollo 16's preparation has not been without incident.",
+        "In mid-November, the three main parachutes had to be replaced after the failure of a connector link left Apollo 15 with only two of its three parachutes operative at splashdown.",
+        "On 13 December 1970 the combined \"stack\" of the Apollo spacecraft and Saturn V were moved from the Vehicle Assembly Building (VAB) to Launch Pad 39A.",
+        "However, a mistake during subsequent testing resulted in the bursting of one of the teflon bladders that contained the hypergolic fuel in the Command Module's Reaction Control System (RCS).",
+        "Since the test had used helium gas rather than the actual fuel, there was only limited damage.",
+        "However, the replacement of the RCS tank was required which in turn needed disturbance of the CM heatshield (Moonport p518).",
+        "A further problem was the need to change one of the explosive cords that separate the LM from the CSM prior to Earth return.",
+        "A failure in a similar device during testing for Skylab raised concerns over that fitted to Apollo 16, and it was decided to replace it (AWST 10 Jan 72 p21, 17 Jan 72 p19).",
+        "These 2 problems led to the decision to return the stack to the VAB for the first time in the Apollo program.",
+        "A third problem was a delay in modifying the crew's spacesuits after Charles Duke's suffered failure of a clamp during training.",
+        "As a result of all 3 problems, the launch date has been slipped from 17 March to 16 April, the next launch window for the mission.",
+        "The timing of an Apollo launch to the Moon falls within certain 'windows', or periods of time, which are influenced by both daily and monthly factors.",
+        "The daily restriction to the window is due to the rotation of the Earth bringing the launch site to the correct relationship with the Moon's position in its orbit, to allow enough of a parking orbit around the Earth before the boost to the Moon.",
+        "The monthly factor is the lighting requirements at the landing site.",
+        "The landing has to take place in the early lunar morning so that the Sun is behind the astronauts as they approach from their east-to-west orbit.",
+        "A low Sun-angle produces shadows on the lunar terrain which help the crew to recognize landmarks as well as aiding speed and distance perception.",
+        "With a lunar day lasting 29.5 Earth days, the correct conditions for the landing only occur once a month."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "There are 3 separate recording transcripts available of the mission at this point.",
+        "These are the Technical Air To Ground Voice (TEC) Transcription, which documents all radio communication between Mission Control and the spacecraft and which has been carefully transcribed.",
+        "The second is the Public Affairs Office (PAO) Transcript which was produced at the time from the public feed of the mission audio.",
+        "It includes commentary from the occupant of the PAO console in Mission Control as well as much radio communication.",
+        "Having been transcribed in a hurry by stenographers for use by journalists, it is very prone to errors.",
+        "The third recording is the Command Module Onboard Voice (CM) Transcription.",
+        "This is recorded on the Data Recorder Reproducer (DRR) - a tape recorder with 2,200 feet of tape giving 4 hours of recording at Low rate, or 60 minutes at High, fitted in the Command Module Lower Equipment Bay.",
+        "The recorder is switched on during powered flight and during times that the spacecraft is out of contact with the ground.",
+        "It can then be played back and transmitted to the ground.",
+        "It can also be used to record data from some of the scientific experiments carried.",
+        "The voice recordings from the DRR are not continuous throughout the flight.",
+        "However, for the periods they are available, the CM transcriptions give a real insight into the crew's informal discussion and chat.",
+        "Readers should note that if an utterance by a crewmember is listed as \"onboard\", the ground crews are not hearing it live at that time.",
+        "They will be able to hear the onboard voice after they have replayed it to Earth during a regular dump of the tape.",
+        "There are minor differences between the transcriptions, partly as the crew's discussions could mask off Mission Control reception.",
+        "Also, the quality of the tapes makes the transcription process subjective at times."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The weather on 16 April 1972 is good, with a ridge of high pressure extending over Florida from the east.",
+        "By mid morning the skies are clear with scattered cumulus clouds developing by 11 am.",
+        "The surface temperature is climbing to 88°F (31°C)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Before the launch, the spacecraft has to be finally prepared for flight.",
+        "This is carried out using theOperational Proceduresdetailed in the Apollo Operations Handbook, and will leave the control positions as detailed in theCSM Launch Checklist.",
+        "The lift-off configuration is set and verified by astronaut Tony England.",
+        "He checks that each switch, knob, adjustment and talkback indicator is correctly set for the arrival of the prime crew.",
+        "The CSM Launch Checklist systematically covers each of the 57 panels in the Apollo 16 CSM.",
+        "There are 454 lines in the checklist.",
+        "Some panels were covered by a single line, while Panel 2 on the main display console requires 78 lines."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At first glance, the Main Display Console of the Command Module is highly complex.",
+        "However, it is also highly structured, with all the controls for the various systems grouped together, and positioned where they will be visible and accessible during flight.",
+        "The complexity of the controls is a reflection of the complexity of the spacecraft - the Apollo spacecraft is arguably one of the most complex flying machines ever created - before or since.",
+        "Compared to aircraft cockpits, the main difference is the need to group all the controls where the crew can reach them while strapped into their seats and wearing spacesuits.",
+        "The number of instruments is less than on many aircraft - much of the monitoring function carried out by an aircraft's crew is performed by the controllers on the ground at Kennedy Space Center or in Houston.",
+        "Many of the displays also have multiple functions - for example displaying one parameter during launch and another later in the flight.",
+        "Almost all are analogue instruments, with few digital displays.",
+        "The crew has full control of all the systems, however, unlike their counterparts on Soviet spacecraft.",
+        "Hence, the large number of switches and other controls.",
+        "As former fast-jet pilots, the crew are already well accustomed to working in such an environment, but the complexity of Apollo has required many hours of work in the simulator to learn to \"fly\" the craft in an emergency."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-005:11:00:This is Apollo Saturn Test Control.",
+        "We're at T minus 5 hours, 11 minutes and counting.",
+        "5 hours, 11 minutes and counting, our countdown picked up at 2:54 am, that 9-hour mark this morning.",
+        "The weather in the Kennedy Space Center launch area at launch time is predicted to be satisfactory.",
+        "At the time we picked up the count, the Test Supervisor began clearing the pad in preparation for loading cryogenics aboard the space vehicle.",
+        "Liquid oxygen was loaded first aboard the space vehicle, aboard all three stages, and liquid hydrogen is now coming aboard the second stage.",
+        "We still have third stage liquid hydrogen to be brought aboard.",
+        "The RP-1 fuel, fuel for the first stage, was brought aboard before the Countdown Demonstration Test and it's remained there since that time.",
+        "Our count continuing at this time; T minus 5 hours, 10 minutes and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-005:00:00:This is Apollo Saturn Launch Control.",
+        "We're T minus 5 hours and counting.",
+        "The count resumed this morning at 2:54 am after a planned 9-hour built-in hold.",
+        "In a weather briefing this morning, the launch crew was told to expect scattered clouds with possibily as much as a two-tenths coverage at launch time, temperatures about 85 degrees [Fahrenheit, 29°C] and the winds from the south at 15 miles per hour [24 kph].",
+        "The weather front, which the weathermen had been keeping an eye on, has not moved as fast as predicted and should be somewhere in the vicinity of Mobile, Alabama at launch time causing no concern here in the Cape area.",
+        "After the count picked up, the pad area was cleared this morning in preparation for cryogenic loading.",
+        "This is bringing aboard the liquid hydrogen and liquid oxygen aboard the three stages of the spacecraft vehicle.",
+        "The loading of liquid oxygen began at 3:39 am approximately this morning or at the T minus 8-hour, 15-minute mark in the countdown.",
+        "This loading was completed at T minus 5 hours and 37 minutes in the count, and hydrogen then was started aboard the space vehicle.",
+        "These crew for Apollo 16; astronauts John Young, Ken Mattingly and Charles Duke; are schedulad to be alerted this morning at 7:39 am.",
+        "We've just received a report now that there is 50 per cent loading of liquid hydrogen aboard the second stage of the vehicle.",
+        "We still have thirs stage loading of liquid hydrogen to complete the cryogenic loading of the space vehicle.",
+        "Now at T minus 4 hours, 58 minutes and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-004:41:00:This is Apollo Saturn Launch Control; T minus 4 hours, 41 minutes and counting.",
+        "Cryogenic loading aboard the Saturn V space vehicle is continuing at this time.",
+        "We've brought aboard the liquid oxygen aboard the third, second and first stages.",
+        "Over 20,000 gallons of the extremely cold LOX was brought aboard the third stage, 89,000 aboard the second stage and 348,000 aboard the first stage of the Saturn V.",
+        "There fuels were brought aboard at rates upto 10,000 gallong per minute.",
+        "Liquid hydrogen is now being brought aboard the Saturn V.",
+        "Second stage fuelling is - of the liquid hydrogen is just about completed with 270,000 gallons coming aboard the second stage.",
+        "Underway are preparations now to begin bringing the liquid hydrogen aboard the third stage which will take some 73,000 gallons.",
+        "RP-1, which is the fuel for the first stage of the Saturn V, was brought aboard before the Countdown Demonstration Test.",
+        "It's a kerosene-type fuel and can remain in the vehicle for some time.",
+        "Liquid oxygen is stored and transferred at -297 degrees Fahrenheit [-183°C].",
+        "the liquid hydrogen at -423 degrees Fahrenheit [-253°C].",
+        "There is therefore some boil-off in the vehicle.",
+        "This is vented from the vehicle and it's therefore necessary to continue replenishing down through the launch after loading is completed.",
+        "The actual loading is scheduled to be completed at approximately 3 hours and 38 minutes in the countdown and the replenishing will go on down to the 3-minute mark.",
+        "Now at T minus 4 hours, 39 minutes and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-004:00:57:This is Apollo Saturn Launch Control; we're at T minus 4 hours, 57 seconds and counting.",
+        "A short time ago at - a short time ago at - at 7:39, the Director of Flight Crew Training, Deke Slayton, alerted the crew.",
+        "John Young, astronaut Ken Mattingly and Charles Duke then proceeded for a medical examination which is scheduled to begin momentarily.",
+        "The physician for that brief examination will be George W.",
+        "Hoffler.",
+        "They then expected to proceed to breakfast where, on schedule for them this morning is grapefruit juice, filet mignon, egg omelette, buttered English muffins, fruit jam, coffee.",
+        "They're scheduled to depart for the pad at 9:48 am this morning.",
+        "We've just been alerted that the cryogenic loading aboard the Saturn V space vehicle has been completed.",
+        "Weather continues to look good.",
+        "We have some scattered clouds in the area this morning as a result of some ground fog.",
+        "This is expected to dissipate somewhat by launch time of 12:54.",
+        "Now at T minus 3 hours, 59 minutes and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Saturn Launch Control; we're at T minus 3 hours, 30 minutes and counting; T minus 3 hours, 30 minutes and counting.",
+        "We'll go into a built-in hold at the 3 - 3-hour, 30-minute mark.",
+        "We actually have 44 seconds to go for that hold.",
+        "This is a planned hold at this time.",
+        "It's built into the count to take care of any contingencies that might come up during the cryogenic loading.",
+        "Actually that cryogenic loading has gone very smoothly this morning and the liquid hydrogen and liquid oxygen are now aboard the various stages of the space vehicle.",
+        "Topping off of these full fuels will continue down to about the 3-minute mark in the countdown.",
+        "Out at the pad right now, the primary damper arm, which connects to the space vehicle and is used to dampen any oscillations due to the wind, has been moved back.",
+        "Once the fuels are brought aboard, it's no longer necessary to have this damper arm down there.",
+        "We're now approaching the 3-hour, 30-minute mark.",
+        "Mark.",
+        "T minus 3 hours, 30 minutes."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Saturn Launch Control; we're now at T minus 3 hours, 30 minutes and holding.",
+        "This is the final planned hold in the countdown.",
+        "The close-out crew is now on station.",
+        "They've opened up the spacecraft and are generally preparing it to receive the astronauts.",
+        "Astronaut Tony England is part of that close-out crew.",
+        "He's in the spacecrft at this time and is performing a variety of functions.",
+        "Among them are setting communications switches, turning on panel and other spacecraft lights.",
+        "He also injects chlorine into the drinking water and adjusts the breathing oxygen.",
+        "He'll remove the guard over the Pyro Arm switch and cycle the Pan and Mapping cameras.",
+        "Generally he's preparing the spacecraft for the arrival of the astronaut crew.",
+        "Topping off of the cryogenic continues at this time, and our weather for launch time continues to look good.",
+        "Now at T minute - T minus 3 hours, 30 minute and holding in the planned hold; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Saturn Launch Control; we're continuing in our hold at the 3 minus [means T minus] 3-hour, 30-minute mark.",
+        "This hold is scheduled to be completed at 9:24 this morning and we're scheduled to resume the count.",
+        "There is a possibility that we may have to extend the hold.",
+        "During a flight control systems check this morning, some data indicated a momentary dropout of output from a spare rate gyro.",
+        "The primary system has passed all tests successfully.",
+        "The data is being evaluated at this time.",
+        "It may be a problem which is due simply to Ground Support Equipment but the spare gyro is an airborne system.",
+        "It would be used only in the event of the primary system failing.",
+        "The spare gyro is located in the Instrument Unit of the Saturn V space vehicle.",
+        "We're continuing to evaluate this problem.",
+        "At this time, we're continuing in the hold at T minus 3 hours, 30 minutes.",
+        "This is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Saturn Launch Control; we're at T minus 3 hours, 30 minutes and holding.",
+        "We're standing by at this time to resume the count.",
+        "At this point, the problem mentioned earlier is continuing to be checked, but the plans are to resume the count momentarily.",
+        "Now at T minus 3 hours, 30 minutes and continuing to hold; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-003:30:00:This is Apollo Saturn Launch Control; we're at T minus 3 hours, 30 minutes and counting.",
+        "We have resumed our count; that is our final built-in hold in the countdown and we're proceeding now toward our planned 12:54 pm lift-off.",
+        "The Apollo astronaut - Apollo 16 astronaut crew; Commander John Young, Command Module Pilot Ken Mattingly, and Lunar Module Pilot Charles Duke; have been alerted to proceed with their suiting activities.",
+        "Tony England, the astronaut member of the close-out crew, is in the spacecraft at this time.",
+        "The activity going on at this time is the - injecting chlorine into the drinking water system.",
+        "Our count continuing at this time; 3 hours, 29 minutes, 14 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-003:22:00:Slayton: \"Okay, I guess I'm supposed to make a statement here about what we've been doing so far today.",
+        "We got the crew up at 7:39, which is on schedule.",
+        "Started breakfast 8:24, which is on schedule of course, and started suiting 8:54.",
+        "Just put the helmet and gloves on and be relaxing for about the next 10 minutes.",
+        "And should be departing the Suit Room in about that time.",
+        "Be down here in approximately 12 minutes and ready to go.",
+        "So, beautiful day out here and everybody's happy this morning and ready to fly.",
+        "I guess the normal question of what we had for breakfast.",
+        "I always say steak and eggs, except this morning, a little bit different because it's a TV-type steak and eggs dinner and it ain't very good.",
+        "The crew had to suffer through that one, but then that's one of the penalties for flying the mission.",
+        "The rest of us had bacon and eggs.",
+        "Are there any questions?",
+        "I'll answer them, otherwise I'll get back to work and see you in about 10 minutes.\"Journalist: \"How's your [garble]?\"Slayton: \"How's my what?\"Journalists: \"[Garble.]\"Slayton: \"Oh.",
+        "Not very well at this point.",
+        "It's gonna get better in about six months.\"Journalist: \"Good.",
+        "[Laughter.]\"Slayton: \"Thank you.\"That was the Director of Flight Crew Training Deke Slayton.",
+        "For breakfast this morning, the crew was joined by Deke Slayton, by the backup pilots; command by - backup Command Pilot Stu Roosa, backup Lunar Module Pilot Ed Mitchell; by NASA security man Charles Buckley; and by Dave Ballard, the Apollo 16 Flight Crew Support Team leader.",
+        "Now at T minus 3 hours, 20 minutes, 59 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-003:11:52:This is Apollo Saturn - This is Apollo Saturn Launch Control; we're at T minus 3 hours, 11 minutes, 52 seconds and counting.",
+        "We're standing by at this time for the astronaut crew to depart from the Suit Room and come out of the Manned Spacecraft Operations Building where they'll get into their transfer van and make the 7-mile trip out to the pad.",
+        "That trip's expected to take them about 15 minutes.",
+        "Meanwhile out at the launch pad, the close-out crew has the spacecraft ready for the astronauts, and the cryogenic loading of the space vehicle has been completed.",
+        "Now at T minus 3 hours, 11 minutes and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-003:08:59:This is Apollo Saturn Launch Control; we're now at T minus 3 hours, 8 minutes, 59 seconds and counting.",
+        "The prime crew for Apollo 16 is now leaving the Manned Spacecraft Operations Building.",
+        "They'll be accompanied in their van by Charles Buckley, NASA Security and Deke Slayton, the Director of Flight Crew Training.",
+        "They're now entering the van carrying their portable oxygen ventilators.",
+        "This supplies the crew oxygen as they're sealed into their suits.",
+        "They'll use this oxygen ventilator continually until they get into the spacecraft at which time they'll go onto the spacecraft oxygen system.",
+        "They're now in the van and departing for the pad, this pad some 7 miles away and it's expected that it will take them approximately 15 minutes to reach the pad area.",
+        "Now at T minus 3 hours, 8 minutes, 11 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-003:00:57:This is Apollo Saturn Launch Control; we're at T minus 3 hours, 57 seconds and counting.",
+        "The flight crew now on their way out to the launch pad in the transfer van.",
+        "The problem mentioned earlier with the spare rate gyro is continuing to be observed.",
+        "The - There's an attempt being made to isolate the problem, to see if it could be in Ground Support Equipment.",
+        "If it is in Ground Support Equipment of course, that eliminates the problem.",
+        "Also being evaluated at this time is just what the effect would be if such a problem occurred in flight.",
+        "Preliminary indication are that it would not be serious but these evaluations are continuing.",
+        "The weather in the Kennedy Space Center area for launch time is predicted to be out - about as is seen now with generally clear skies, temperature in the mid-eighties [Fahrenheit, about 30°C] and winds from the south at approximately 15 miles per hour.",
+        "A weather front, which had bothered the weathermen somewhat a few days ago, has not proceeded as fast as it was thought it might and is now, or at launch time is expected to be over Mobile, Louis - Mobile, Alabama.",
+        "The astronaut crew continuing on their way out to the pad at this time, and the close-out crew working diligently in the spacecraft and the White Room area, waiting for the crew to come aboard.",
+        "Now at T minus 2 hours, 59 minutes, 33 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-002:55:57:This is Apollo Saturn Launch Control; we're at T minus 2 hours, 55 minutes, 57 seconds and counting.",
+        "The astronaut van has now pulled to a stop in front of the Launch Control Center.",
+        "At this point, the Director of Flight Crew Operations Deke Slayton will depart from the van and come into the Launch Control Center.",
+        "The van will then proceed on out to the pad.",
+        "Countdown continuing to run smoothly at this point.",
+        "T minus 2 hours, 55 minutes, 33 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-002:45:56:This is Apollo Saturn Launch Control; we're at T minus 2 hours, 45 minutes, 56 seconds and counting.",
+        "The astronaut crew has now arrived at the pad area.",
+        "They've gotten out of the transfer van and into the elevators.",
+        "These are high-speed elevators which will take them up to the 320-foot level on the mobile launcher.",
+        "There they'll cross Swing Arm 9 and enter the spacecraft.",
+        "Actually, as it happens, the spacecraft commander John Young will move across the swing arm and be the first one to enter the spacecraft.",
+        "The Lunar Module Pilot Charles Duke will be the second to enter, and meantime the Command Module Pilot Ken Mattingly will remain in the elevator waiting until the operation of ingressing the first two crewmen takes place.",
+        "John Young, the spacecraft commander, will sit on the left in the spacecraft.",
+        "He'll be moved into the center couch feet first and then slide over to the left-hand couch.",
+        "The Lunar Module Pilot sits on the right.",
+        "He moves into the center seat and then moves over to the right.",
+        "About midway through the ingress procedure for the Lunar Module Pilot, Ken Mattingly will be called from his position in the elevator where he's been waiting, and he'll move into the center seat.",
+        "After the crew has moved in, they'll disconnect their portable oxygen ventilators and go on the spacecraft oxygen system.",
+        "The portable oxygen ventilators will then be removed.",
+        "We're standing by now to see when the crew arrives at the 320-foot level.",
+        "They're on their way up in the elevators now.",
+        "We're expecting them there momentarily.",
+        "This is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-002:43:27:This is Apollo Saturn Launch Control; T minus 2 hours, 43 minutes, 27 seconds and counting.",
+        "The astronaut crew has now reached the 320-foot level and the spacecraft commander John Young and the Lunar Module Pilot Charles Duke have moved into the White Room area.",
+        "Astronaut Tony England, who is assigned to the close-out crew, is in the spacecraft.",
+        "He'll stay in there and assist the men as they move into the spacecraft.",
+        "Right now the spacecraft commander John Young is going over the sill as they call it, moving feet first into the spacecraft.",
+        "Once he is in there, they remove protective covers that he's had to protect his boots and as he gets into the spacecraft, they'll connect the spacecraft oxygen system.",
+        "After he gets down and moves over to that left-hand seat, he'll be positioned into the seat and shoulder harnesses and lap harnesses, very similar to those worn by a pilot, will be adjusted.",
+        "He also has a life vest that he's wearing.",
+        "This too will be adjusted.",
+        "Similar procedure is carried out for the next man to enter, the Lunar Module Pilot Charles Duke.",
+        "And as we mentioned earlier, about midway through the procedure of putting him into place and getting him comfortable and in position, they'll call on the Command Module Pilot Ken Mattingly to come across the swing arm and he will then be the last one to enter the spacecraft.",
+        "The Lunar Module Pilot Charles Duke now going across the sill.",
+        "T minus 2 hours, 41 minutes, 56 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-002:38:55:This is Apollo Saturn Launch Control; T minus 2 hours, 38 minutes, 55 seconds and counting.",
+        "The countdown continuing now at Kennedy Space Center as the astronaut crew moves aboard the spacecraft.",
+        "Both the spacecraft commander John Young and the Lunar Module Pilot Charles Duke are now aboard.",
+        "As John Young got into his couch, he made a communications check with the Spacecraft Test Conductor back in the Manned Spacecraft Operations Building Control Center.",
+        "Skip Chauvin, the Test Conductor said, \"Good Morning, John.",
+        "Welcome aboard the capsule.\" We're now standing by for the space - Command Module Pilot to come aboard the swing arm.",
+        "He's standing by in the elevator, waiting for completion of the ingress of the other two crewmembers.",
+        "The weather at Kennedy Space Center for launch time is predicted to be very good.",
+        "We have sunny skies at this time and it's predicted that these will stay much the same.",
+        "The weather is expect - or the temperature is expected to be about 85 degrees [Fahrenheit, 29°C] at launch time with winds from the south approximately 15 miles per hour.",
+        "A cold front, which had caused some concern a few days ago, has not moved as fast as was expected and is expected to be over Mobile, Alabama about launch time causing no concern for our launch vehicle here.",
+        "Now standing by waiting for the close-out crew in the White Room area to call on the Lu - on the Command Module Pilot Ken Mattingly who is standing by in the elevator.",
+        "T minus 2 hours, 37 minutes, 18 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-002:35:01:This is Apollo Saturn Launch Control; T minus 2 hours, 35 minutes, 1 second and counting.",
+        "We erroneously reported that the Lunar Module Pilot had gone across the sill, and this was mistaken.",
+        "This was a suit technician who followed John Young, the spacecraft commander, into the spacecraft.",
+        "The Lunar Module Pilot, now Charles Duke has just moved into the center seat and is moving across now to the right-hand seat.",
+        "We'll be standing by for them to call Ken Mattingly, the Command Module Pilot, from his position in the elevator shortly.",
+        "We have an unoffocial log here, have the spacecraft commander going across the sill at T minus 2:41 in our countdown.",
+        "And the Lunar Module Pilot going across at T minus 2:35 in the countdown.",
+        "Countdown continuing at this time; T minus 2 hours, 34 minutes, 12 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-002:30:52:This is Apollo Saturn Launch Control.",
+        "We're passing the T minus 2 hour and 30 minute mark in the countdown at this time.",
+        "T minus 2 hours, 30 minutes, 52 seconds and counting.",
+        "They have just called the the Command Module Pilot Ken Mattingly and he is coming across the swing arm into the White Room area.",
+        "As the the Lunar Module Pilot Charles Duke moved into his seat and made communications checks, Skip Chauvin, the Spacecraft Test Conductor welcomed him with a \"Good morning and welcome aboard.\" Lunar Module Pilot Charles Duke replied, \"Good morning.",
+        "How are you?\" and, \"It's great to be here.\" Now standing in front of the spacecraft is Ken Mattingly waiting to go aboard.",
+        "T minus 2 hours, 30 minutes, 18 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-002:15:56:This is Apollo Saturn Launch Control; we're at T minus 2 hours, 15 minutes, 56 seconds and counting.",
+        "As the Lunar Mod - or the Command Module Pilot Ken Mattingly came aboard and hooked up his communications, he said, \"Good morning.",
+        "It is a pretty one, isn't it?\" So the three crewmen all aboard now seem to be in very good spirits.",
+        "To attempt to clarify, a problem which came up earlier this morning with the launch vehicle during some flight system control checks earlier, data indicated a momentary dropout of output from a spare rate gyro.",
+        "Now it should be emphasised that this is a spare rate gyro and that the primary system has passed all its tests successfully.",
+        "Data is being evaluated at this time so see if the problem can be isolated to Ground Support Equipment.",
+        "If it's isolated to the gyro itself, further investigation is being carried on at this time to see just what effect this dropout of output would have.",
+        "Early indications are from evaluating data that even if the primary system, which has checked out successfully, went bad and we went on this backup system, that the dropout seen would cause only minor problems.",
+        "However, this is being further evaluated.",
+        "Our countdown is continuing at this time.",
+        "The three crewmen on board the spacecraft and the close-out crew making the final preparations in the spacecraft.",
+        "Shortly they'll be closing the hatch and preparing to secure the White Room area and make the cabin purge and leak checks.",
+        "The countdown continuing at this time.",
+        "At T minus 2 hours, 14 minutes, 23 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Once settled, the crew continue thePre-Launch Checks.",
+        "CDR John Young, has taken the left couch facing the major flight controls and the abort handle.",
+        "CMP Ken Mattingly occupies the centre couch, facing the caution and warning panel and ready to monitor the computer's display during the critical minutes of ascent.",
+        "The electrical and environment systems will be monitored during launch by LMP Charlie Duke, who sits in the right couch.",
+        "The checklist for boost preparation will be performed starting at T minus 20 minutes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-002:00:56:This is Apollo Saturn Launch Control; we're at T minus 2 hours, 56 seconds and counting.",
+        "I logged the hatch going closed at the T minus 2-hour and 7-minute mark.",
+        "At this time now, the close-out crew will operate independently from the astronaut team inside the spacecraft.",
+        "Inside the spacecraft, the astronaut team will be conducting abort advisory checks and Emergency Detection System checks, while outside the spacecraft, the close-out crew will continue with their work.",
+        "This will include setting up the purge, which they are doing at this time to run a purge and then do a cabin leak check.",
+        "They purge the spacecraft system with a mixture of - of oxygen and nitrogen.",
+        "This is a 60/40 mixture very similar to the air we breathe.",
+        "They'll pressurise to slightly above the outside air pressure or ambient pressure and then check for pressure decay.",
+        "This is how they make the leak checks.",
+        "After the leak check has taken place, the Boost Protective Cover hatch will be closed, and the men will go about configuring or setting up the White Room so that it will be prepared to handle the swing back when Swing Arm 9 moves back.",
+        "The close-out crew is scheduled to be out of the pad area at the T minus 55-minute mark in the countdown.",
+        "Now at T minus 1 hour, 59 minutes, 34 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-001:50:58:This is Apollo Saturn Launch Control; T minus 1 hour, 50 minutes, 58 seconds and counting.",
+        "At this time, the astronaut crew aboard the spacecraft are going through the Emergency Detection System tests.",
+        "The Emergency Detection System can measure the pressures, thrusts and other values aboard the space vehicle during powered flight, and if there is any type of an emergency condition, it could warn the astronauts in their space vehicle.",
+        "During the tests, simulated emergency conditions are sent to the spacecraft, or to the space vehicle and the astronauts in the spacecraft can monitor the fact that they are sent and verify the readouts.",
+        "The test takes about 30 minutes and involves all three crewmembers.",
+        "Spacecraft Test Conductor Skip Chauvin has indicated to the crew that they are running considerably ahead of schedule in the countdown.",
+        "This is with the astronaut crew.",
+        "The close-out crew, meanwhile, is finishing stowing up gear in the White Room, and completing their cabin purge and leak checks.",
+        "T minus 1 hour, 50 minutes and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-001:40:57:This is Apollo Saturn Launch Control; we're at T minus 1 hour, 40 minutes, 57 seconds and counting.",
+        "The astronaut crew has now completed the Emergency Detection System tests aboard the spacecraft and the cabin purge has been completed by the close-out crew.",
+        "They are continuing to run the leak checks at this time.",
+        "Cryogenic topping is continuing on the launch vehicle.",
+        "This topping continues on down to the T minus 3-minute, 6-second mark in the countdown.",
+        "Our weather forecast for launch time continues to look good.",
+        "The skies in the Kennedy Space Center area are clear at this time and are predicted to remain much the same throughout the rest of the day.",
+        "The temperatures at launch time are predicted to be about 85 degrees Fahrenheit [29°C].",
+        "Winds from the south approximately 15 miles per hour.",
+        "We continue to aim for our scheduled lift-off time of 12:54 pm Eastern Standard Time.",
+        "It's now T minus 1 hour, 40 minutes, 2 seconds and counting.",
+        "This is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-001:30:58:This is Apollo Saturn Launch Control; we're at T minus 1 hour, 30 minutes, 58 seconds and counting.",
+        "Just seconds from now, a final Jimsphere release will be made.",
+        "Jimsphere is a weather balloon which measures the winds aloft.",
+        "However, we don't anticipate any problems with any type of weather this morning.",
+        "Spacecraft checkout is continuing ahead of schedule according to the Test Conductor Skip Chauvin.",
+        "The cabin purge has been completed and the spacecraft pressurised with a 60/40 mixture of oxygen and nitrogen.",
+        "This mixture is similar to air, is pressurised slightly above the ambient pressure and then the crew checks for any possible decay in that pressure.",
+        "This ensures that we've had a proper seal with the hatch, which came closed earlier, and that we have no spacecraft leaks.",
+        "These activities continuing at this time.",
+        "T minus 1 hour, 30 minutes, 9 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The introduction of a mixed nitrogen/oxygen cabin atmosphere was a design change after theApollo 1fire.",
+        "Apollo is designed for a cabin pressure of 6 psi in space, to provide sufficient oxygen for the crew to operate without spacesuits.",
+        "Since the actual amount of oxygen they breathe is determined by the partial pressure of oxygen (the contribution to the total cabin pressure provided by the oxygen alone), this 60/40 mix provides a little more oxygen than the 20 percent oxygen content of air at a sea level pressure of 15 psi (1 bar).",
+        "However, the crew are wearing their spacesuits with the helmets closed and are breathing pure oxygen to flush out the nitrogen in their blood.",
+        "In the event of a sudden loss of pressure in the spacecraft, any residual nitrogen dissolved in their blood would come out of solution and cause the \"bends\".",
+        "The suit pressure is slightly more than cabin pressure to prevent any flow of cabin air into the suit.",
+        "After launch, the cabin pressure relief valve will bleed air out of the cabin until the external pressure falls to 6 psi (0.4 bar) or equivalent to about 3,000 metres (10,000 feet) altitude on Earth.",
+        "The environmental control system will continue to pump 0.6 pounds per hour (0.27 kg per hour) of oxygen into the cabin until the crew close the Direct O2valve after orbit is reached, and until then the pressure relief valve will dump the excess cabin air overboard.",
+        "The aim is to reach orbit with minimal nitrogen in the cabin atmosphere."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-001:20:57:This is Apollo Saturn Launch Control; we're at T minus 1 hour, 20 minutes, 57 seconds and counting.",
+        "Just a short time ago, a first motion signal was sent to the vehicle.",
+        "This signal is sent down and checked in Houston and by the Range to ensure that they in turn are receiving it and will receive it at lift-off.",
+        "Pressure checks have been completed inside the spacecraft and the Boost Protective Cover is now being placed over the hatch.",
+        "The White-Room crew is completing storage and taking down the environmental protection plates around the spacecraft.",
+        "They'll be leaving the spacecraft shortly and, at about T minus 43 minutes in the countdown, the White Room will be retracted to the 12-degree mark.",
+        "This is after the crew has completely cleared the - the close-out crew has completely the cleared the area.",
+        "They are expected to be clear of the area by the T minus 55-minute mark.",
+        "Our countdown is continuing smoothly at this time.",
+        "T minus 1 hour, 20 minutes, 1 second and counting.",
+        "This is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The pad crew is led by Guenter Wendt, the long serving North American employee who has served in a similar capacity on all manned US space missions since Alan Shepard's flight on Mercury Redstone 3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-001:10:58:This is Apollo Saturn Launch Control; T minus 1 hour, 10 minutes, 58 seconds and counting.",
+        "At the 1-hour and 13-minute mark, scheduled with a Q-ball simulated command, this command goes to the Q-ball and is read out in the spacecraft by the spacecraft commander.",
+        "The Q-ball is an angle of attack sphere perched above the Launch Escape System, and it's used to give the spacecraft commander and the crew any signals which would indicate an out of tolerance condition during the early stages of flight.",
+        "The countdown [is] moving along well at this time.",
+        "T minus 1 hour, 10 minutes, 25 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Q-ball is not unlike a pitot tube on an aircraft that measures airspeed.",
+        "It consists of eight openings at the top of the Launch Escape Tower.",
+        "These openings lead to instruments which gauge air pressure.",
+        "As well as providing dynamic pressure (known as \"Q\") information during powered flight, they help determine the angle of incidence of the tower during an abort event.",
+        "The Q-ball design works at almost all air-speeds, unlike the pitot-static instruments used on most aircraft.",
+        "A similar type of Q-ball was fitted to NASA's hypersonic X-15 research aircraft made, like the CSM, by North American in Downey, California.",
+        "The Q-ball is covered until shortly before launch, to prevent blockage of the holes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-001:00:59:This is Apollo Saturn Launch Control; we're at T minus 1 hour, 59 seconds and counting; going into the final hour of the countdown.",
+        "The spacecraft Stabilization and Control System has been powered up.",
+        "Checks have been run on that by the spacecraft Commander John Young and the Command Module Pilot John [means Ken] Mattingly.",
+        "We've also just received word that King Hussein has landed at the airstrip on Cape Kennedy and will be over to the Kennedy Space Center shortly to view the launch.",
+        "Our countdown is continuing here at Kennedy Space Center.",
+        "We'll switch now to the Mission Control Center in Houston for a status there."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The spacecraft has two independent systems that can control its attitude and fire its engines.",
+        "The Guidance & Control system is the more sophisticated, relying on a gyroscopically stabilized inertial platform and an optical subsystem.",
+        "The SCS (Stabilization and Control System) uses simpler systems like strapped-down gyroscopes to achieve attitude control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-001:00:00 (Houston):This is Apollo Control, Houston at minus 1 hour and counting.",
+        "The worldwide Manned Space Flight Network [MSFN] is prepared for launch at this time.",
+        "The network is clean without discrepancy.",
+        "The calm but intent atmosphere best describes the mood of the Mission Control Center at this time.",
+        "Our cast of characters today - Flight Director Gene Kranz, the most veteran of the active flight directors, wearing his traditional white vest.",
+        "This is his team - the White Team of flight controllers.",
+        "Our CapCom Gordon Fullerton served in the same capacity on Apollo 14 when the Alan Shepard crew was also launched on a Sunday.",
+        "At all of the consoles here in Mission Control, Houston, an experienced team of flight controllers ready to swing in action in less than an hour.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "A generation after Apollo, Gene Kranz, fondly nicknamed \"General Savage\" became the most celebrated of the Apollo-era flight directors.",
+        "In the early 1990s, he gave an interview for a television documentary about the trials of the near disastrous Apollo 13 mission.",
+        "In his contribution, the hard-looking NASA technocrat with angular jaw and close-cropped hair expressed a deep emotional attachment to his flight control teams as his story of success in the face of failure brought tears to his eyes.",
+        "The interview was brought to the attention of the production team for the movie film Apollo 13 who cast Ed Harris in the role of Kranz.",
+        "Harris brought the mixture of steely leadership and team sensitivity to the character.",
+        "The movie film portrays one of Kranz's rituals whereby his wife would make a white waistcoat for Gene for each flight, white being the team colour Gene chose for his flight control team."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-000:54:00:This is Apollo Saturn Launch Control; T minus 54 minutes and counting, T minus 54 minutes and counting.",
+        "Earlier this morning the cryogenics were loaded aboard the Saturn V space vehicle.",
+        "The flight crew then came aboard and is now onboard completing a series of communications checks.",
+        "The weather continues to be clear as it's supposed to be for our launch time, and we continue to aim for a launch at 12:54 pm Eastern Standard Time.",
+        "The Command Communications System which carries the launch vehicle commands on S-band frequency has now been turned on for launch.",
+        "The liquid hydrogen-liquid oxygen, the cryogenic fuels, loaded earlier, are continuing to be topped off.",
+        "Countdown continuing at this time.",
+        "We just received word that the Vice President of the United States Spiro Agnew has arrived at Cape Kennedy and is coming across to Kennedy Space Center to view the launch.",
+        "Now at T minus 53 minutes and counting, this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Although the RP-1 (kerosene) fuel for the S-IC was loaded some time before, the oxygen and hydrogen propellants must be loaded shortly before launch, since they will boil-off despite the insulation on the tanks.",
+        "The loading procedure is complex.",
+        "Air and water vapor is purged from the tanks by repeated pressurization and venting with helium.",
+        "Helium is used because nitrogen would freeze in the presence of liquid hydrogen.",
+        "Once clear of contaminants, the tanks are cooled to accept the propellants by first passing cold gas through the system then feeding propellant at a slow rate and allowing it to boil off, taking heat with it.",
+        "Seven hours before launch, LOX is fed at 31.5 litres per second until it is 5% full, then the fill rate goes to 315 litres per second to take the tank to 96% full.",
+        "This takes about 25 minutes and then the tank is topped up at 63 litres per second.",
+        "Five hours before launch and after purging and cooling, LH2enters at 63 litres per second, further cooling its tank so that propellant begins to remain liquid and rise in level in a process similar to that for the LOX tanks.",
+        "Once the level of liquid propellant reaches 5 percent, the fill rate is increased to 630 litres per second until the tank is 98 percent full, when the fill rate reduces again to 63 litres per second to top off the tank's load.",
+        "To compensate for loss due to boil-off, both tanks are replenished until about three minutes before launch when the tanks are pressurized.",
+        "Up to the launch, pressurizing helium gas is supplied from the ground.",
+        "After launch, the boil-off of the propellants is enough to maintain pressure until the engines are ignited 2 minutes and 40 seconds into the flight."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-000:50:57:This is Apollo Saturn Launch Control passing the 51-minute mark; T minus 50 minutes, 57 seconds and counting.",
+        "And just received a report that the launch site recovery forces and the helicopters are on station, ready to support the launch of Apollo 16.",
+        "C-band beacon checks are under way at this time.",
+        "These are beacons aboard the Instrument Unit of the space vehicle and used for tracking by the Eastern Test Range during the powered phase of flight.",
+        "Both of the high speed elevators at Launch Complex 39A - these are high speed elevators on the Mobile Launcher - are parked now [at] the 320 foot level as the crew - the close-out crew has moved clear of the area.",
+        "The swing arm, Swing Arm 9, has just moved back to the retract position.",
+        "This is a 12-degree standby position.",
+        "From this position, it can be quickly returned to the spacecraft, if needed, and will remain at this parked position until the final moment of launch.",
+        "At T minus 5 minutes, approximately, it will swing back to the full retract position.",
+        "The countdown continuing at this time; T minus 49 minutes, 55 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-000:43:00:This is Apollo Saturn Launch Control; T minus 43 minutes and counting.",
+        "A critical power transfer test was just conducted.",
+        "During this test the flight vehicle batteries take on the work load having been shared up to that point by an external source.",
+        "We've gone back to that external source again and we'll stay on that saving the flight batteries until the final minute, approximately 50 seconds in the countdown.",
+        "Superintendent of Range Operations just reported that the Kennedy Space Center is clear for launch.",
+        "Now T minus 42 minutes, 30 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is a test of the Saturn V's batteries.",
+        "The spacecraft is being powered by fuel cells that were started before the prime crew entered the CM, and brought on-line (connected to the power distribution bus-bars) during the earlier pre-launch checks."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Each stage of the Saturn V launch vehicle has shaped explosive charges attached to its outer surface which, in the event of an abort, would rupture the fuel and oxidizer tanks, dispersing their contents into the atmosphere rather than allow them to impact the Earth with dangerous loads still onboard.",
+        "The charge for the S-IC would cut a longitudinal breach in the fuel tank on the opposite side of the vehicle from that for the oxidizer tank so as to minimize their mixing during dispersion.",
+        "Charges for the S-II would cut a 9-metre longitudinal opening in the hydrogen fuel tank and a series of lateral 4-metre ruptures in the squat LOX (liquid oxygen) tank.",
+        "Those for the S-IVB would make two parallel 6-metre openings in the fuel tank and a 1.2-metre diameter hole in the LOX tank.",
+        "These charges would be fired only after the Command Module separated from the launch vehicle.",
+        "During a normal ascent, the destruct system will be made safe soon after the Launch Escape Tower is jettisoned; after about 3 minutes of flight."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Early in the Apollo program, the Air Force had insisted that the LM, a vehicle from which every ounce of unneeded weight had been trimmed and which would be a home to men on the lunar surface, also had to have destruct ordnance attached.",
+        "This was based on the premise that, in the event of a launch abort, it was better for propellants to be consumed before reaching the ground.",
+        "After all, the LM would be unmanned at this stage.",
+        "NASA pointed out the weight and safety penalties of this arrangement and eventually won what was a substantial argument by pointing out that the LM was hardly likely to survive the destruction of the S-IVB stage anyway.",
+        "A similar conflict occurred over demands by the Air Force that the Service Module also carry destruct charges."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-000:34:46:This is Apollo - This is Apollo Saturn Launch Control; we're at T minus 34 minutes, 56 seconds and counting.",
+        "At this time, the Support Controller Joe Barfus has indicated that the industrial water system is ready to support the launch.",
+        "At the T minus 1-minute mark, the flame deflector underneath the five Saturn V first stage engines will start being covered with water at - coming out at 13,000 gallons [49,000 litres] per minute.",
+        "At the T-0 mark the swing-arms will be quenched with water [at] 7,500 gallons [28,000 litres] per minute.",
+        "As the vehicle lifts off at the plus 2-second mark, 50,000 gallons [189,000 litres] per minute of water will flush the mobile launcher decks and another 30,000 gallons [113,000 litres] will be quenching the flame deflectors.",
+        "In the spacecraft, the astronaut team is making a series of switch checks.",
+        "[The] spacecraft commander has made checks following the retraction of Swing Arm 12 to arm the various pyrotechnics; this includes the Launch Escape System aboard the vehicle.",
+        "Range safety command checks have now been completed.",
+        "T minus 33 minutes, 54 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Saturn V launch vehicle is assembled, transported on, and launched from the Mobile Launcher.",
+        "This structure consists of a base platform 48.8 by 41.1 metres and 7.6 metres high, with a 13.7-metre square hole over which the vehicle is mounted.",
+        "(The platforms will later be converted for use by the Space Shuttle).",
+        "Sprouting from one end of this platform is the LUT (Launch Umbilical Tower).",
+        "This 116-metre tower supports nine swing arms which provide the ground crew with access points to the vehicle, and a wide range of services including fuel, LOX, hydraulics, electrical power and various gases for purging and pressurisation.",
+        "These arms are articulated so they can swing away from the vehicle to give it clearance as it rises, and to protect them from the rocket's white hot exhaust gases.",
+        "The crew enter the spacecraft via the top, or ninth, arm, which carries an environmentally controlled room at its end.",
+        "Known as the \"white room\", it covers the CM hatch until the crew is aboard.",
+        "At T-43 minutes, it was swung away from the spacecraft by 12°.",
+        "Five minutes before launch, it will be retracted to 180°, on the opposite side of the tower from the Saturn V."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Once the ninth arm and white room are clear, at about T minus 43 minutes, the crew lock their shoulder harnesses and John Young arms the Launch Escape System (LES).",
+        "In event of an emergency the crew will then have the option to use the LES to launch the CM alone, away from the pad.",
+        "See description at000:03:27for the details of the LES."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-000:27:58:This is Apollo Saturn Launch Control; we're at T minus 27 minutes, 58 seconds and counting.",
+        "Just a few moments ago, various elements of the launch team began reporting into the Test Supervisor Gordon Turner, reporting that we were Go for continuing the countdown.",
+        "At this time, we're continuing to look at the problem with a backup yaw gyro.",
+        "This is still being evaluated but we expect a resolution on that momentarily.",
+        "Various other elements of the countdown all continuing well at this time.",
+        "T minus 27 minutes, 30 seconds and counting.",
+        "This is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-000:24:58:This is Apollo Saturn Launch Control; we're at T minus 24 minutes, 58 seconds and counting.",
+        "The problem which we spoke of earlier, the problem with a backup yaw gyro has been resolved and we have been given a Go for launch.",
+        "All possible modes of failure were evaluated, should this be a problem with flight hardware, and it was determined, after evaluating each of these, that they would have no impact on the mission.",
+        "Liquid oxygen - liquid oxygen, liquid hydrogen continue to be topped-off in the space vehicle and our weather continues to be good, predicted to be good for launch time.",
+        "Aiming for a 12:54 pm Eastern Standard Time launch.",
+        "Now at T minus 24 minutes, 15 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Two days before launch, a software problem was found during a test of one of the Emergency Detection System (EDS) gyros fitted to the Saturn V's IU.",
+        "Although this was reviewed and the decision made to launch \"as-is\", a further special test of the EDS gyro was carried out on the morning of launch.",
+        "During the test, the signal output of the Control Signal Processor (CSP), used for the rate gyro used for the IU's yaw control backup system, fell below that expected for approximately 1.9 secs.",
+        "The CSP output then recovered and the fault could not be duplicated.",
+        "The fault was attributed to a fault in one transistor fitted in the CSP.",
+        "The gyro affected was a backup, used only when the IU's primary and reference gyro outputs disagreed.",
+        "Analysis indicated that the Saturn V would still be controllable even if the pre-launch failure recurred, and the decision was made to continue the countdown as scheduled.",
+        "(Saturn V Launch Vehicle Flight Evaluation Report 3.2.4)"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Of the 110.6-metre height of the entire Apollo 16/Saturn V stack, 42.1 metres comprise the S-IC first stage.",
+        "Five F-1 engines are clustered at the bottom of the stage to provide 34,025 kN (7,700,000 pounds) of thrust in total.",
+        "The propellants used are RP-1 (Rocket Propellant-1 or highly refined kerosene) as the fuel and LOX as the oxidizer.",
+        "The lower of two tanks is filled with 810,000 litres of RP-1 at T minus 13 hours with a final topping up occurring at T minus 1 hour.",
+        "At nine hours before launch, the larger upper tank has nitrogen gas pumped through it to purge it of air and water vapor contaminants.",
+        "Six and a half hours before launch, it is precooled to prepare it for the loading of 1.3 million litres of LOX at a temperature of -183°C.",
+        "Initially, the LOX is fed at a slow rate of 95 litres per second until the tank is sufficiently chilled to retain the liquid up to 6.5% full, then the tank is filled to 98% at a rate of 630 litres per second, a process lasting over 45 minutes.",
+        "The slow fill rate is reestablished until the tank is full at about 4 hours 55 minutes before launch.",
+        "From then on, until three minutes before launch, the level is replenished as the volatile LOX boils off.",
+        "Both of the first stage tanks are then pressurized prior to launch using helium; the fuel tank at T minus 96 seconds, the LOX tank at T minus 72 seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At T-20:00 the crew move onto theBoost Preparationprocedures in the CSM Launch Checklist.",
+        "See alsoPage 4-51of the Operational Procedures."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-000:19:00:This is Apollo Saturn Launch Control, T minus 19 minutes and counting.",
+        "T minus 19 minutes and counting.",
+        "We just received word from recovery forces that all recovery forces are on station and ready to support the launch of the Apollo 16.",
+        "Also, the Manned Space Flight Network has indicated they are ready to support.",
+        "An earlier problem with a power dropout in the switching station in Monrovia, West Virginian [means Africa], has been taken care of by going to a backup station.",
+        "T minus 18 minutes, 34 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The second, or S-II, stage of Apollo 16's Saturn V vehicle is 24.9 metres tall and is powered by the combustion of LH2(liquid hydrogen) and LOX in a cluster of five J-2 rocket motors which generate a total thrust of 5,115kN (1.15 million pounds).",
+        "A million litres of LH2, cooled to -253°C to get it into a liquid state, is loaded into the large, upper tank of the stage while 331,000 litres of LOX is loaded into the smaller, squat tank below.",
+        "These tanks share a single insulated structure with only an insulated, common bulkhead between them.",
+        "With both propellants being so cold - LH2is only 20 degrees above absolute zero - the tanks must be prepared and chilled down before they can be filled."
+      ],
+      "speaker": "Commentary",
+      "time": "sii"
+    },
+    {
+      "tokens": [
+        "T-000:10:00:This is Apollo Saturn Launch Control; T minus 10 minutes and counting.",
+        "And we just heard from the spacecraft commander John Young thatCasperandOrionare Go for launch.",
+        "The spacecraft is now on full internal power.",
+        "Up to this point it's been sharing its power load with a ground supply.",
+        "Short time ago, the astrocomm circuit was checked out.",
+        "This is the circuit that the astronauts will be on during the launch phase.",
+        "They'll be on this with Stony [Not clear who this is], the astronaut communicator here in the Launch Control Center, the Launch Operations Manager Paul Donnelly and the Spacecraft Test Supervisor Skip Chauvin.",
+        "The crew actually goes onto the astrocomm circuit at the T minus 4-minute mark in the countdown.",
+        "Our weather continues to look good for a launch as we aim for a 12:54 pm Eastern Standard Time lift-off.",
+        "Now at T minus 9 minutes, 11 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew have, in accordance with tradition, named their 2 spacecraft.",
+        "With a fine blend of humor and feeling, the Command Module was namedCasperby Ken Mattingly, after the cartoon character Casper the Friendly Ghost while the Lunar Module was namedOrion, after the constellation.",
+        "In the words of Charlie Duke \"it is a prominent constellation and easy to pronounce and transmit to Mission Control.\" A further issue was that the names had to sound very different, so that they could not be confused even in event of radio interference."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-000:06:00:This is Apollo Saturn Launch Control.",
+        "We're now passing the 6-minute mark in the countdown.",
+        "Emergency Detection System has now been placed in the launch mode.",
+        "Houston Flight has also indicated that they are Go for the automatic sequencer.",
+        "At the T minus 3-minute, 7-second mark, the launch will go on the automatic sequencer and from that point on the launch will be automatically handled by the sequencer.",
+        "Coming up on the T minus 5-minute and 30-second mark.",
+        "At that time, we'll be standing by for a Go to launch from Mission Director Chet Lee.",
+        "Mission Director verifies Go for launch.",
+        "Mission Director Chet Lee from Houston verifies Go for launch.",
+        "All elements now reporting into Test Supervisor Gordon Turner that they are Go for launch.",
+        "Now at T minus 5 minutes, 13 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-000:04:32:[This is Apollo Saturn Launch] Control; we're approaching the 4-minute mark.",
+        "T minus 4 minutes, 32 seconds and counting; and Swing Arm Number 9 is now swinging back to the full retract position.",
+        "The astronaut crew aboard are making their final switch checks, reading off these final positions in preparation for launch.",
+        "As we approach the final minutes here, we'll go into a relatively silent period as far as reporting goes.",
+        "The launch team indicate that they will have only negative reporting.",
+        "If there's problem, only, will they come up on the air at this time.",
+        "Now at T minus 4 minutes, 3 seconds and counting; this is Kennedy Launch Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Kennedy Launch Control.",
+        "Launch Operations Manager Paul Donnelly just called the three astronauts and said that the Apollo 16 Launch Team wishes them good luck and God speed.",
+        "They all replied \"Thank you,\" and we now have a quiet circuit as they switch over to the astrocomm circuit.",
+        "We're now at T minus 3 minutes, 24 seconds and counting.",
+        "We're approaching the time when the countdown goes on the terminal sequencer.",
+        "The sequencer commands a variety of functions all which must occur in the proper sequence for the count to continue.",
+        "Also, here in the Control Center, the people will continue to monitor what are called the red-line values to ensure that everything is Go for launch.",
+        "The Instrument Unit flight, panel light now, on the status board indicate Instrument Unit ready, spacecraft ready, Emergency Detection System ready.",
+        "We've passed the 2-minute, 50-second mark and we're now on the terminal sequencer.",
+        "Terminal sequencer has started.",
+        "This terminal sequencer will pressurize the fuel tank.",
+        "These fuel tanks are pressurized to ensure that as the fuels deplete, they are forced down for to assure an even flow into the engine.",
+        "The fuel tanks are now being pressurized.",
+        "The S-IVB or third stage liquid oxygen tank has just been pressurized and the second stage liquid oxygen tank has been pressurized.",
+        "As we move down through the count at the T minus 17-second mark, we'll get a release of the guidance system in the Instrument Unit.",
+        "Also, handled by the automatic sequencer, will be the release of Swing Arms Number 1 and Number 2.",
+        "The ignition of the Saturn V, five engines - the first-stage five engines, will take place at 8.9 seconds in the countdown, 8.9 seconds.",
+        "That'll be the engines or the vehicle will then be held down until we build up to 7.7 million pounds of thrust.",
+        "At the T minus 3-minute mark, tape recorders onboard the spacecraft were turned on.",
+        "These recorders record both voice and data.",
+        "The spacecraft now to full internal cooling.",
+        "The cooling load has been shared with the ground cooling.",
+        "T minus 90 seconds and counting.",
+        "T minus 90 seconds and counting.",
+        "At T minus 1 minute, 15 seconds, the spacecraft batteries will be turned on for launch.",
+        "These batteries will give an additional power source to the spacecraft as well as be acting as a backup for the fuel cells.",
+        "The third stage liquid hydrogen tank now pressurized, all third stage tanks pressurized.",
+        "Second stage tanks also pressurized.",
+        "T minus 1 minute, T minus 1 minute and counting.",
+        "Now moving into the final minute of the count.",
+        "We'll be standing by to - for the switchover to internal power.",
+        "Switchover taking place at this time, going on internal power.",
+        "T minus 45 seconds and counting.",
+        "Guidance align just announced by John Young.",
+        "That will be the last action taken by the crew aboard the spacecraft.",
+        "T minus 35 and counting.",
+        "Countdown continuing to go well, T minus 30, T minus 25, 24, 23, 22, 21, 20, 19, 18, 17, guidance release."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The guidance alignment reported by the PAO is the final crew action before launch.",
+        "The Flight Director Attitude Indicator (FDAI), or \"eight-ball\", is aligned to the precise attitude of the launch site, at the time of launch, with respect to the stars (the \"frame of reference\" used for this alignment).",
+        "At launch, the FDAI will display roll, 180° (launch azimuth of 90° plus 90°); pitch, 90°; yaw, 0°."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "15, 14, 13, 12, 11, 10, 9, 8, 7, 6..."
+      ],
+      "speaker": "Fullerton",
+      "time": "-0000015"
+    },
+    {
+      "tokens": [
+        "Ignition starts at 9 seconds before lift-off.",
+        "The ignition sequence of an F-1 engine is a complicated affair with many interrelated events happening almost simultaneously."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "First, a description of the engine.",
+        "A large combustion chamber and bell-shaped thrust chamber have an injector plate at the top, through which RP-1 fuel and LOX are injected at high pressure.",
+        "Above the injector is the LOX dome which also transmits the force of the thrust from the engine to the rocket's structure.",
+        "A single-shaft turbopump is mounted beside the combustion chamber.",
+        "The turbine is at the bottom and is driven by the exhaust gas from burning RP-1 and LOX in a fuel-rich mixture in a gas generator.",
+        "After powering the turbine, the exhaust gas passes through a heat exchanger, then to a wrap-around exhaust manifold which feeds it into the periphery of the engine bell.",
+        "The final task for these hot gases is to cool and protect the nozzle extension from the far hotter exhaust of the main engine itself.",
+        "Above the turbine, on the same shaft, is the fuel pump.",
+        "It has two inlets from the fuel tank and two outlets going, via shutoff valves, to the injector plate.",
+        "A line from one of these 'feeds' supplies the gas generator with fuel.",
+        "Fuel is also used within the engine as a lubricant and as a hydraulic working fluid, though before launch, RJ-1 ramjet fuel is supplied from the ground for this purpose.",
+        "At the top of the turbopump shaft is the LOX pump with a single, large inlet in-line with the turboshaft axis.",
+        "This pump also has two outlet lines, with valves, to feed the injector plate.",
+        "One line also supplies LOX to the gas generator.",
+        "The interior lining of the combustion chamber and engine bell consists of a myriad of pipework through which a large portion of the fuel supply is fed.",
+        "This cools the chamber and bell structure while also pre-warming the fuel.",
+        "Lastly, an igniter, containing a cartridge of hypergolic fluid with burst diaphragms at either end, is in the high pressure fuel circuit and has its own inject point in the combustion chamber.",
+        "This fluid is triethylboron with 10-15% triethylaluminium."
+      ],
+      "speaker": "Commentary",
+      "time": "f1desc"
+    },
+    {
+      "tokens": [
+        "15, 14, 13, 12, 11, 10, 9, we have ignition sequence start.",
+        "The engines now building up to 7.7 million pounds of thrust."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At T minus 8.9 seconds, a signal from the automatic sequencer fires four pyrotechnic devices.",
+        "Two initiate combustion within the gas generator while another two cause the fuel-rich turbine exhaust gas to ignite when it enters the engine bell.",
+        "Links are burned away by these igniters to generate an electrical signal to move the start solenoid.",
+        "The start solenoid directs hydraulic pressure from the ground supply to open the main LOX valves.",
+        "LOX begins to flow through the LOX pump, starting it to rotate, then into the combustion chamber.",
+        "The opening of both LOX valves also causes a valve to allow fuel and LOX into the gas generator, where they ignite and accelerate the turbine.",
+        "Fuel and LOX pressures rise as the turbine gains speed.",
+        "The fuel-rich exhaust from the gas generator ignites in the engine bell to prevent backfiring and burping of the engine.",
+        "The increasing pressure in the fuel lines opens a valve, the igniter fuel valve, letting fuel pressure reach the hypergolic cartridge which promptly ruptures.",
+        "Hypergolic fluid, followed by fuel, enters the chamber through its port where it spontaneously ignites on contact with the LOX already in the chamber."
+      ],
+      "speaker": "Commentary",
+      "time": "f1start"
+    },
+    {
+      "tokens": [
+        "Rising combustion-induced pressure on the injector plate actuates the ignition monitor valve, directing hydraulic fluid to open the main fuel valves.",
+        "These are the valves in the fuel lines between the turbopump and the injector plate.",
+        "The fuel flushes out ethylene glycol which had been preloaded into the cooling pipework around the combustion chamber and nozzle.",
+        "The heavy load of ethylene glycol mixed with the first injection of fuel slows the buildup of thrust, giving a gentler start.",
+        "Fluid pressure through calibrated orifices completes the opening of the fuel valves and fuel enters the combustion chamber where it burns in the already flaming gases.",
+        "The exact time that the main fuel valves open is sequenced across the five engines to spread the rise in applied force that the structure of the rocket must withstand."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ignition, 4, 3..."
+      ],
+      "speaker": "Fullerton",
+      "time": "-0000005"
+    },
+    {
+      "tokens": [
+        "As fuel and LOX flow increase to maximum, the rise in chamber pressure, and therefore thrust, is monitored to confirm that the required force has been achieved.",
+        "With the turbopump at full speed, fuel pressure exceeds hydraulic pressure supplied from ground equipment.",
+        "Check valves switch the engine's hydraulic supply to be fed from the rocket's fuel instead of from the ground."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "2, 1..."
+      ],
+      "speaker": "Fullerton",
+      "time": "-0000002"
+    },
+    {
+      "tokens": [
+        "At lift-off, one of the most important areas of the main display console that the commander must monitor is the subpanel which annunciates the progress of the launch.",
+        "From top to bottom, this subpanel contains the Abort light, Mission Event Timer, Launch Vehicle Engine lights, lift-off light and critical switches (with safety covers) that are used to override the automatic abort sequences."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "One second to lift-off, the five launch vehicle indicator lights in the spacecraft go out, announcing to the crew that the thrust is OK and the stack is about to be let go of the hold-down clamps.",
+        "Another lamp is illuminated at the point of lift-off as a verification for the crew.",
+        "Additionally, the Event Timer and the Mission Timer both reset to zero and start counting up again.",
+        "The Event Timer is located near the upper left of the Main Display Console -Event Timerand theMission Timerat the upper centre of the MDC."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Lift-Off."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000000"
+    },
+    {
+      "tokens": [
+        "The stack is held onto the pad two ways.",
+        "Four hold-down arms clamp the base of the S-IC, each with a force of 350 tonnes, anchoring the vehicle until full thrust is confirmed.",
+        "A pneumatic device, backed up by an explosive, collapses the lever linkage to allow the arm to rise.",
+        "Additionally, a number of controlled-release mechanisms (up to 16, depending on the mission) prevent the vehicle from accelerating too rapidly in the first moments of motion.",
+        "These consist of tapered pins mounted to the pad which are pulled through dies mounted on the vehicle.",
+        "The deformation of the pins controls the initial acceleration for the first 150 mm of flight; a simple and ingenious arrangement."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With lift off, the crew move toPage 2-7of the Launch Checklist, andPage 4-55of the Operational Procedures."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We have a launch commit and we have a lift-off.",
+        "The swing arms moving back.",
+        "The Saturn V lifting off the pad, building up thrust."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Once the launch vehicle begins to rise, even fractionally, it cannot safely settle back onto the pad.",
+        "Intentional engine shutdown will not occur, so of the nine access arms, the five which have remained attached up to this point, must now detach their umbilicals from the vehicle and swing clear.",
+        "The first two centimetres of travel trigger the release of the umbilical connector plates which in turn triggers retraction of the arms."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We've cleared the tower."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "On this, and all Saturn V launches, the stack can easily be seen leaning away from the LUT as it ascends from the launch pad.",
+        "This yaw, begun 1.35 seconds after lift-off, maneuvers the vehicle 1.25° from vertical in a direction away from the tower to ensure clearance in case a gust of wind pushes it back or a swing arm doesn't fully retract.",
+        "Then nine seconds into the flight, almost as the rising rocket clears the tower, the stack is brought vertical again.",
+        "To those who were not prepared for it, this fully intended yawing of over 110 metres of metal, filled to the brim with exotic fuels and oxidizers, could sometimes cause some consternation.",
+        "The astronauts were also very aware that any guidance or engine steering control failure could cause a collision with the tower which would probably not have been survivable even with the Launch Escape System.",
+        "On Apollo 16 there is minor anomaly in the maneuver, which is completed about 1 second late.",
+        "This is due to a software glitch in the launch vehicle guidance system located in the Instrument Unit.",
+        "Although not a major fault, it could have decreased the clearance from the tower and the IU computer will be reprogrammed for the Apollo 17 and Skylab launches."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Clear the tower."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000012"
+    },
+    {
+      "tokens": [
+        "Once the stack is clear of the tower, control of the mission switches from the Launch Control Center (LCC) at the Cape under the Launch Director, to the Mission Control Center (MCC) in Houston where the Flight Director is in charge."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger; clear the tower."
+      ],
+      "speaker": "Young",
+      "time": "0000013"
+    },
+    {
+      "tokens": [
+        "You go."
+      ],
+      "speaker": "Duke",
+      "time": "0000014"
+    },
+    {
+      "tokens": [
+        "[Garble, probably Roll] program."
+      ],
+      "speaker": "Young",
+      "time": "0000015"
+    },
+    {
+      "tokens": [
+        "Houston is now controlling."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "000:00:17 Fullerton: Roger roll.",
+        "You have good thrust in all five."
+      ],
+      "speaker": "Commentary",
+      "time": "0000017"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "0000019"
+    },
+    {
+      "tokens": [
+        "Pitch program.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0000021"
+    },
+    {
+      "tokens": [
+        "Pitch and roll program started."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The guidance of the launch vehicle is monitored and controlled by the Launch Vehicle Digital Computer in the IU and its programs, and not by the CM Guidance and Control System, which only monitors for now.",
+        "The Pitch Program rolled and pitched the launch vehicle from its 90° east of north launch azimuth (fixed by the launch pad design) to the correct azimuth and elevation for its ascent to orbit (72.034° east of north for Apollo 16).",
+        "The CM's guidance system was used by the crew to provide an independent monitoring function, using the Command Module Computer's (CMC's) Program 11 (P11).",
+        "The maximum pitch and yaw limits were 4° per second, and roll 11° per second.",
+        "These were not bad given the size and mass of a fully loaded Saturn V!",
+        "In extremis, the CM guidance system could be used to command the Saturn V, and there were numerous arguments among the astronauts on the feasibility of manually flying the Saturn V into orbit."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The CMC (Command Module Computer)is closely involved in computation of the spacecraft's trajectory throughout the flight though, during launch, the IU handles trajectory computation and vehicle control.",
+        "The CMC is accessed by the crew via two DSKYs (Display and Keyboard), one of which is on the main instrument panel, the other being on the LEB (Lower Equipment Bay).",
+        "The LM carries a computer of very similar design.",
+        "The CMC contains a series of numbered Programs, which the crew control by entering numbers referred to as Verbs and Nouns.",
+        "See the essayThe Apollo On-board Computersby Phill Parker."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The CMC is set to P(rogram) 11 during launch, either automatically when the launch vehicle sensed lift-off, or by the crew selecting V(erb) 75 and Enter just after launch."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott, from1998 correspondence:\"The CMC computed the entire launch profile such that if the IU failed (at any time) the entire Saturn V, or subsequent stages, could be flown into orbit manually by using primarily the FDAI (Flight Director Attitude Indicator) and DSKY (Display-Keyboard) displays and one of the two RHCs (Rotational Hand Controllers).",
+        "This is a little-known, but very important capability; and we spent a fair amount of time training for this.",
+        "The DSKY display also provided a monitor of the IU performance, and if deviations were too large, the THC (Translation Hand Controller) could be used to disengage the IU completely and proceed with a manual launch insertion.",
+        "Again, a very important 'abort-type' capability.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The FDAI is the critical \"flying\" instrument in the CM.",
+        "Also referred to as the '8-Ball' from its colouring, the FDAI is similar to the ball-style artificial horizon found on many aircraft and, likewise, allows determination of the spacecraft's attitude with respect to a desired frame of reference.",
+        "Usually this will be the IMU (Inertial Measurement Unit) though it may be the GDC (Gyro Display Coupler), a device which displays the spacecraft's attitude compared to a crew preselected attitude.",
+        "The FDAI will also show attitude errors and the rates of change of attitude."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mattingly, from the1972 Technical debrief:\"I didn't sense lift-off, except for the lights.",
+        "I didn't sense the (roll) program.",
+        "To me it was just like the fixed-base simulator with the vibration on top of it.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "A fixed-base simulator is one which does not move to simulate flight.",
+        "The Apollo simulators are almost all of the fixed-base type, apart from those used to simulate docking maneuvers.",
+        "While restricted in fidelity, they are fine for training the crew on operation of the spacecraft systems."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Duke, from the1972 Technical debrief:\"It is like an elevator slowly lifting off.",
+        "But, at ignition I had the lateral frequency of something or other.",
+        "It just kept shaking at the same frequency throughout the whole S-IC burn.",
+        "You felt yourself going faster and faster.",
+        "I had the feeling it was a runaway freight train on a crooked track, swaying from side to side.",
+        "That was all the way through the first stage.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Charlie Duke is not the first crewman to make this comparison.",
+        "Bill Anders made a very similar remark about his ride aboard Apollo 8's launch vehicle."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The four outer F-1 engines are gimballing to control the rocket's attitude, causing rotation around its centre of gravity.",
+        "Since most of the vehicle's mass, the fuel and LOX of the first stage, is currently concentrated towards its base, the crew find themselves at the long end of a long see-saw and feel the side-to-side motions strongly."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Apollo] 16 now maneuvering to its proper flight path attitude."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "27 seconds."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "36 seconds.",
+        "Roll program completed, pitch profile still in progress.",
+        "40 seconds."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The aerodynamic forces acting on the launch vehicle have been rising as the vehicle gains speed.",
+        "However, the air around it is thinning rapidly with its increasing altitude.",
+        "The interaction of these two changing values will result in a maximum degree of pressure on the vehicle's skin at 1 minute, 26 seconds into the flight; at a speed of about Mach 1.7 and an altitude of 14.3 km.",
+        "This moment of maximum dynamic pressure is also often described as \"Max Q\" since \"Q\" is the engineering term for dynamic pressure (which is a product of speed and atmospheric density)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "50 seconds.",
+        "Cabin pressure relieving, adjusting now from sea level to a space environment; two nautical miles in altitude."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "See comments on spacecraft atmosphere earlier.",
+        "If there had been no reduction in cabin pressure by 25,000 ft altitude, Charlie Duke would have activated the right hand Cabin Pressure Relief valve to manually dump air pressure and avoid over-pressurizing the spacecraft.",
+        "This was one of the major reasons for the crew wearing full space suits during launch.",
+        "The valve would have been closed manually once cabin pressure fell to 8 psi."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by for Mode 1 Bravo..."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000100"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "0000101"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "1 Bravo."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000102"
+    },
+    {
+      "tokens": [
+        "Throughout the powered ascent of the launch vehicle, there are various modes of aborting the mission, each of which are appropriate to the current height and speed.",
+        "For the first two of these modes, IA and IB, the Flight Plan defines the safe range of vehicle motion rates as not exceeding ±4° per second in pitch and yaw, ±20° per second in roll.",
+        "Motion rates exceeding these limits will entail an abort."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The initial 42 seconds, to an altitude of about 3,000 metres (10,000 feet) are flown in abort Mode IA (One Alpha).",
+        "If a dangerous situation occurs within this period, the CM would separate from the SM, and the LET (Launch Escape Tower, or just 'tower'), which is the solid-fuelled rocket mounted on top of the CM, would carry it up from the wayward launch vehicle while a small 'pitch control' motor at the top of the LET steers the assembly east out over the ocean and away from a possibly exploding booster below.",
+        "The tower would be jettisoned only 14 seconds after the initiation of the abort.",
+        "While this is going on, the highly dangerous hypergolic propellants of the Command Module's RCS would quickly and automatically be dumped overboard as they would be harmful to the recovery forces.",
+        "The CM would then descend on parachutes to a normal splashdown.",
+        "The Mode IA Abort Procedures are onPage 4-1of the Launch Checklist."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Abort Mode IB extends from 42 seconds into the flight to an altitude of 30.5 km (16.5 nautical miles) as defined by the abort checklist.",
+        "With the vehicle being further downrange and tilted over, the pitch control motor would not be required in the event of a IB abort.",
+        "However, it had been discovered during hypersonic testing, that the CM/LET stack could be aerodynamically stable in a tower-first as well as a base-first attitude so a pair of canards were added which would be deployed automatically to force the combination into an attitude where the base of the CM is facing the direction of travel, ready for the safe deployment of the drogue and main parachutes.",
+        "While the canards have little effect in a low altitude abort, they become increasingly important as the Saturn V gains speed through the IB mode.",
+        "The Mode IB Abort Procedures are onPage 4-1of the Launch Checklist."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You're feet wet now, [Apollo] 16."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000106"
+    },
+    {
+      "tokens": [
+        "'Feet wet' is the US Naval aviator radio call for flight over the coast from land to sea.",
+        "Young and Mattingly are both US Navy officers, Duke is USAF as is Gordon Fullerton."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0000108"
+    },
+    {
+      "tokens": [
+        "That callout from CapCom Gordon Fullerton says Apollo 16 now capable of water landing.",
+        "Mark.",
+        "One minute, 12 seconds.",
+        "Coming up on period of maximum aerodynamic pressure on the vehicle."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "There is no obvious reason for the Master Alarm.",
+        "However, it is clear that the crew is not fazed by it."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "One minute 22, seconds; 6 nautical miles in altitude [11 kilometres].",
+        "Looking good."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "One minute, 30 seconds; 8 nautical miles [14.8 kilometres] in altitude."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "One minute, 41 seconds.",
+        "Passed through max Q, still looking good."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay; you're through max Q, and everything looks good.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0000146"
+    },
+    {
+      "tokens": [
+        "16 now 12.5 nautical miles [23.1 kilometres] in altitude.",
+        "Young, Duke, Mattingly moving out to the outer traces of the Earth's atmosphere."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by for Mode I Charlie."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000157"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're [garble]."
+      ],
+      "speaker": "Young",
+      "time": "0000159"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "(Mode) I Charlie.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0000200"
+    },
+    {
+      "tokens": [
+        "Mode I-C is used for aborts occurring between 30.5 km (16.5 nautical miles) and the jettison of the tower.",
+        "As the air is now very thin, the airflow around the pair of canards at the top of the tower would have little aerodynamic effect during an abort.",
+        "Instead, the tower and BPC would be jettisoned and the Command Module's RCS used to control the orientation of the spacecraft.",
+        "The safe range of vehicle motion rates are now defined as not exceeding ±9° per second in pitch and yaw, ±20° per second in roll.",
+        "The Mode IC Abort Procedures are onPage 4-2of the Launch Checklist."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew now move toPage 2-8of the Launch Checklist, and are onPage 4-59of the Operational Procedures."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Two minutes, 3 seconds.",
+        "The status check in Mission Control by Flight Director Gene Kranz.",
+        "The Go/No-Go for staging.",
+        "Coming up on center engine shutdown."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "EDS is manual.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0000206"
+    },
+    {
+      "tokens": [
+        "As the S-IC nears the end of its burn, Ken Mattingly is inhibiting the EDS with a switch directly below the computer keypad.",
+        "The EDS is only needed for flight through the thickest part of the atmosphere where high aerodynamic forces and the structural load they impart to the vehicle could cause loss of control to turn catastrophic too quickly for the crew to react in time.",
+        "With EDS switched off, any required aborts must be initiated by the crew, giving them more control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "When the S-IC shuts down, the stack will rapidly go from 3.85g forward acceleration to a slight deceleration caused by residual atmospheric drag until the S-II ignites.",
+        "Mattingly is warning that the g-forces will rapidly reduce when this happens."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Garble] inboard shutdown."
+      ],
+      "speaker": "Young",
+      "time": "0000219"
+    },
+    {
+      "tokens": [
+        "Roger; inboard.",
+        "You're Go for staging.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0000222"
+    },
+    {
+      "tokens": [
+        "Towards the end of the S-IC's boost phase, two factors serve to gradually increase the acceleration experienced onboard.",
+        "First, the atmosphere is becoming essentially a vacuum, reducing the backpressure the exhaust gases have to fight against compared to the air pressure at sea level.",
+        "This improves the efficiency of the engines so that from launch to cut-off, S-IC thrust rises 19 per cent from 34,250 kN to about 40,700 kN.",
+        "Second, the S-IC tanks are emptying, lightening the launch vehicle and presenting less inertia to the thrust.",
+        "To alleviate these rising acceleration forces and the shock of all five engines shutting down simultaneously, the centre engine of the cluster is shut down 23.5 seconds earlier than the outboard engines.",
+        "The outboard engines cutoff at 2:39.6, staging occurs at 2:40.7 and the second stage ignition command is at 2:41.8.",
+        "The main reduction in thrust from full power on 4 engines to virtually zero will take less than 0.8 seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Another effect of the reduced air pressure on the S-IC is visible on movie coverage of the launch as the base of the vehicle appears to be progressively consumed by the conflagration.",
+        "Near the ground, the plume is constrained by air pressure into a narrow flame extending rearwards.",
+        "With decreasing air pressure, the hot gases are able to expand into an ever widening plume.",
+        "Towards the end of the S-IC's flight, the air is so thin and the slipstream so negligible that a small amount of exhaust is able to expand forwards up the side of the rocket's structure giving the appearance, on TV coverage, of the rocket's base being consumed by the plume."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Center engine shutdown on time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Two minutes, 28 seconds; 26 nautical miles [48 kilometres] in altitude, 32 nautical miles [59 kilometres] downrange."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Two minutes, 35 seconds - 2 minutes, 40 seconds.",
+        "Coming up on staging."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Staging."
+      ],
+      "speaker": "Young",
+      "time": "0000247"
+    },
+    {
+      "tokens": [
+        "Duke, from the1972 Technical debrief:\"I was surprised with [sic] the debris that I caught out of my left eye as it came by the hatch window from the staging.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, ignition on the S-II."
+      ],
+      "speaker": "Young",
+      "time": "0000249"
+    },
+    {
+      "tokens": [
+        "The S-II stage carries five J-2 uprated engines which burn LH2and LOX to produce up to 1,041 kN (234,000 pounds) thrust each.",
+        "This engine type is capable of being restarted in flight but this feature is only implemented in the engine used in the S-IVB."
+      ],
+      "speaker": "Commentary",
+      "time": "j2desc"
+    },
+    {
+      "tokens": [
+        "The thrust chamber and bell of each engine is fabricated from stainless steel tubes brazed together in a single unit.",
+        "Supercold LH2is pumped through these tubes to cool the thrust chamber and simultaneously prewarm the fuel.",
+        "The engine carries two separate turbopumps, both powered in turn by the exhaust from a gas generator which burns the stage's main propellants.",
+        "The hot exhaust gas is fed from the gas generator, first to the fuel turbopump, then to the LOX turbopump before being routed to a heat exchanger and finally into the engine bell.",
+        "The fuel and LOX outputs of both turbopumps are fed, via main control valves, to the thrust chamber injector via the LOX dome.",
+        "Unlike the solid steel injector of the F-1, the J-2 injector is fabricated from layers of stainless steel mesh sintered into a single porous unit.",
+        "A solid LOX injector behind this carries 614 posts which pass LOX through the injector and into the combustion chamber.",
+        "Each post has a concentric fuel orifice around it and these orifices are attached to the porous injector.",
+        "The fuel delivery is arranged to ensure that about 5 percent seeps through the injector face to cool it, the rest passing through the annular orifices."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The ASI (Augmented Spark Igniter), fed with propellant and mounted to the injector face, provides a flame to initiate full combustion.",
+        "Valves are provided to bleed propellant through the supply system well before ignition to chill all components to their operating temperatures otherwise gas would be formed which would interfere with the engine's use of propellant as a lubricant in the turbopump bearings.",
+        "A tank of gaseous helium is fabricated within a larger tank of gaseous hydrogen.",
+        "This is the Start Tank.",
+        "The helium provides control pressure for the engine's valves while the hydrogen spins up the turbopumps before the gas generator is ignited.",
+        "A PU (Propellant Utilization) valve on the output of the LOX turbopump can open to reduce the LOX flowrate.",
+        "This adjusts engine thrust down to 890 kN (200,000 pounds) during flight to optimise engine performance."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "To start the J-2 engine, spark plugs in the ASI and gas generator are energised.",
+        "The Helium Control and Ignition Phase valves are actuated.",
+        "Helium pressure closes the Propellant Bleed valves, it purges the LOX dome and other parts of the engine.",
+        "The Main Fuel valve and the ASI Oxidiser valves are opened.",
+        "Flame from the ASI enters the thrust chamber while fuel begins to circulate through its walls under pressure from the fuel tank.",
+        "After a delay to allow the thrust chamber walls to become conditioned to the chill of the fuel, the Start Tank is discharged through the turbines to spin them up.",
+        "This delay depends on the role of the engine.",
+        "A one second delay is used for the S-II engines.",
+        "Half a second later, the Mainstage Control Solenoid begins the major sequence of the engine start.",
+        "It opens the control valve of the gas generator where combustion begins and the exhaust supplies power for the turbopumps.",
+        "The Main Oxidiser valve is opened 14° allowing LOX to begin burning with the fuel which has been circulating through the chamber walls.",
+        "A valve which has been allowing the gas generator exhaust to bypass the LOX turbopump is closed allowing its turbine to build up to full speed.",
+        "Finally, the pressure holding the Main Fuel valve at 14° is allowed to bleed away and the valve gradually opens, building the engine up to its rated thrust."
+      ],
+      "speaker": "Commentary",
+      "time": "j2start"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0000251"
+    },
+    {
+      "tokens": [
+        "Two minutes, 53 seconds; a normal staging.",
+        "Young, Duke, Mattingly now riding on five good second-stage engines."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Apollo 16 mission is the eleventh flight of the Saturn V and the ninth manned launch of the booster.",
+        "While the Apollo 16 launch vehicle configuration is essentially the same as that for Apollo 15, there have been continual small changes in configuration both to save weight and to fix problems.",
+        "In many respects the Saturn V and Apollo spacecraft will remain experimental vehicles throughout their careers.",
+        "The main change on AS-511 is the restoration of 4 retro-rockets to the S-IC stage to reduce the risk of collision between the first and second stages during separation.",
+        "Until AS-510, 8 retrorockets were fitted in the outboard engine fairings and provided a total of 86,600 lbs force for 2/3 sec to help increase separation before ignition of the S-II's engines.",
+        "The retrorockets are modified solid state Recruit rockets developed for the X-17 rocket used to test missile warheads in the 1950s and subsequently used for sounding rocket applications.",
+        "Four were deleted from AS-510 as part of the weight savings to permit the carriage of the extra weight of the J-Mission spacecraft.",
+        "In the event, separation distances during staging on Apollo 15 proved marginal and concern that failure of one retrorocket of the 4 could lead to the stages colliding has led to the return to 8 retrorockets on Apollo 16."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Thrust is Go on all five on the S-II.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0000300"
+    },
+    {
+      "tokens": [
+        "Mattingly is commenting that he had not seen the 5 lights come on to indicate the S-II engines have ignited.",
+        "This should have happened at 02 44."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The lights go out again once each engine has reached 65 percent of rated thrust."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young, from the1972 Technical debrief:\"S-II ignition was nominal.",
+        "I got a feeling that it took a little longer to get those lights out.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Three minutes, 2 seconds.",
+        "The giant first stage falling away now, its day's work completed.",
+        "Apollo 16 now 46 nautical miles [85 kilometres] in altitude, 80 nautical miles [148 kilometres] downrange.",
+        "Coming up on skirt sep and tower jettison."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Second plane Sep light's out.",
+        "We'll go on time."
+      ],
+      "speaker": "Young",
+      "time": "0000315"
+    },
+    {
+      "tokens": [
+        "Once all five engines are firing, the explosive cord to cut the interstage (\"skirt\") between the S-I and the S-II is also armed.",
+        "There will be a delay of 24 seconds after second stage engine start before the interstage is jettisoned.",
+        "This ensures that the attitude of the vehicle has stabilized before the almost 10-metre-wide by 9-metre-long interstage falls away past the J-2 engines."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000318"
+    },
+    {
+      "tokens": [
+        "Tower Jettison."
+      ],
+      "speaker": "Young",
+      "time": "0000321"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And we confirm your skirt Sep.",
+        "You're Mode II now."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000323"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Mode II."
+      ],
+      "speaker": "Young",
+      "time": "0000327"
+    },
+    {
+      "tokens": [
+        "A single, small, solid-propellant motor near the top of the tower fires for one second, jettisoning the entire LES (Launch Escape System) and the checklist moves to abort Mode II.",
+        "As with most Apollo systems, the crew could manually command the LES jettison if the automatic system failed."
+      ],
+      "speaker": "Commentary",
+      "time": "lesdesc"
+    },
+    {
+      "tokens": [
+        "The LES consists of the tower, with all its rocket motors, instrumentation and canards; and the BPC (Boost Protective Cover), which is a shroud over the entire Command Module which protects the spacecraft from the friction generated heat of ascent, and from the exhaust of the Launch Escape Motor should the tower be used for an abort.",
+        "The BPC includes two windows to allow visibility through the left hand and central windows of the CM.",
+        "The central window is mounted in the main hatch of the CM.",
+        "Only when the LES is jettisoned are the other three windows uncovered."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The main rocket motor of the LES, if used, would burn for eight seconds, generating 654 kN (147,000 pounds) through four nozzles which are angled to direct the exhaust away from the CM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Abort Mode II lasts from the jettisoning of the tower to the decision to stage from the S-II to the S-IVB.",
+        "In a Mode II abort, the Command and the Service Modules will separate from the launch vehicle and the SM main engine or its RCS engines will be used to get the spacecraft away from the launch vehicle.",
+        "Then the CM and SM will separate before the CM completes a normal splashdown on the ocean.",
+        "The Mode II Abort Procedures are onPage 4-3of the LaunchChecklist."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Three minutes, 28 seconds.",
+        "The Launch Escape Tower is ejected on time.",
+        "Its surveillance [sic] role no longer required."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Evaporators On?",
+        "[Pause.]"
+      ],
+      "speaker": "Duke",
+      "time": "0000330"
+    },
+    {
+      "tokens": [
+        "The CM has an Environmental Control System (ECS) cooling system using 2 glycol coolant loops.",
+        "These are similar to those in a car engine; a glycol (antifreeze)/water mixture is pumped round a loop, collecting heat from the CM equipment and the crew spacesuits.",
+        "It is then normally passed through radiators on the side of the SM, to cool it down by thermal radiation into space, before being pumped back into the CM.",
+        "Until shortly before launch, the glycol is passed through refrigerators in the Launch Utility Tower to cool the spacecraft systems.",
+        "Then, because the radiators are heated by friction with the atmosphere during ascent through the atmosphere, they are bypassed and the heat produced by the CM equipment and the crew is absorbed by the glycol and the pre-chilled structure.",
+        "Once the spacecraft has reached an altitude of about 110,000 feet (30 kilometres), a secondary cooling system cuts in using the near vacuum to evaporate water, chilling the Evaporator.",
+        "Glycol is then passed through the evaporator to cool it.",
+        "Since the evaporator uses up water, the radiators are used in preference once the spacecraft is in orbit.",
+        "At 000:02:45 Duke is supposed to have set 2 switches (Glycol Evaporator Steam Auto and Glycol Evaporator H2O Flow) to Auto in order to bring the evaporator on line.",
+        "Mattingly is reminding him of this.",
+        "Despite this, see 000:05:02"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Throughout launch, P11 causes the the FDAI to display the difference between the launch vehicle attitude (controlled by the IU) and the nominal attitude calculated by the CMC.",
+        "So long as the CMC and the IU are in agreement, the crew can be confident that the trajectory is good."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Steering has converged.",
+        "The CMC is Go."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000341"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0000343"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Three minutes, 45 seconds.",
+        "Apollo 16 now 62 nautical miles [115 kilometers] in altitude, 135 nautical miles [250 kilometers] downrange.",
+        "Apollo 16 now 33 feet [10 metres] shorter and 9,000 pounds [4,000 kg] lighter.",
+        "Unencumbered now for its mission in space."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The jettisoning of the LES, with its load of unburnt solid propellant, significantly reduces the weight of the spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Apollo] 16, Houston.",
+        "Four minutes.",
+        "Everything looks great down here."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000403"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It looks good up here, too."
+      ],
+      "speaker": "Young",
+      "time": "0000405"
+    },
+    {
+      "tokens": [
+        "Hey, Gordy, you ought to see that horizon.",
+        "Just gorgeous."
+      ],
+      "speaker": "Duke",
+      "time": "0000408"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000411"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Four minutes, 10 seconds.",
+        "70 nautical miles [129 kilometres] in altitude, 170 nautical miles [315 kilometres] down-range.",
+        "Velocity now reading 10,600 feet per second [3,230 metres per second]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mattingly, from the1972 Technical debrief:\"I looked out of John (Young)'s window and particles were going past us in the same direction.",
+        "I kept looking at that; there's no way.",
+        "But, it did it.",
+        "I don't remember it on the S-I; but I remember it on the S-II and the S-IV.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Four minutes, 30 seconds.",
+        "In Mission Control, trajectory data [is] driving right down the middle of our plot boards as expected.",
+        "Right now, flight path data is Go."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Four minutes, 45 seconds.",
+        "76 nautical miles [140 kilometers] in altitude, 220 nautical miles [407 kilometers] downrange."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew are preparing the Service Propulsion System (SPS) engine ready for use in case it is needed during an abort.",
+        "The SPS would only be needed in the event of a Mode III or Mode IV abort after 000:05:52.",
+        "In a Mode III abort, the SPS would be used to correct the spacecraft trajectory to achieve the desired landing site in the Atlantic.",
+        "In a Mode IV abort, the SPS would be used to take the spacecraft to orbit.",
+        "In each case the SM Reaction Control System (RCS) would first be used to separate the CSM from a wayward S-IVB.",
+        "There is no possibility to use a fire-in-the-hole maneuver given the proximity of the SPS to the fully loaded LM propellant tanks."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "When the SPS is firing, the pitch and yaw attitude of the spacecraft must be controlled by positioning the gimbals that control the direction that the massive SPS engine is pointed in relative to the Service Module - the thrust vector.",
+        "This can either be done automatically by the CMC, or manually by the CMP using the Rotational Controller.",
+        "This latter is termed Manual Thrust Vector Control (MTVC), and this mode would be used in an abort since it provides more direct control to the pilot.",
+        "However, the thrust vector must point through the spacecraft's centre of gravity or the spacecraft will start to tumble during any SPS burn.",
+        "Under Rate command, any tendency to tumble is automatically corrected using signals from the spacecraft gyros.",
+        "Under the alternative, termed Acceleration Command, the pilot must make the necessary corrections himself.",
+        "Hence, Rate Command would make it easier to fly the spacecraft in what would be a very challenging situation.",
+        "More information will be provided on the SPS later in the Flight Journal."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Linked to the selection of Rate Command, the crew select the Launch Vehicle/SPS Chamber Pressure Switch to command the associated gauge from showing the angle of attack (Alpha) obtained from the Q-Ball on the now-jettisoned LES to the SPS thrust chamber pressure (Pc) - another example of a dual purpose indicator"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew must now switch on the four SPS gimbal motors, two of which control the SPS engine orientation in pitch (Y axis) and two in yaw (Z axis).",
+        "The SPS is able to vector (point) in slightly different directions to allow its thrust to be directed through the centre of mass of the spacecraft.",
+        "Without this, firing the SPS would tend to make the spacecraft tumble, making accurate steering impossible.",
+        "The range of movement is only 9° in each axis, but this is enough to cater for all planned configurations and fuel loads of the spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ken's humour refers to 000:03:30 when Charlie remembered to bring the evaporators on-line."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Five minutes, 10 seconds.",
+        "Still good performance on all five of the second stage engines.",
+        "Second stage shutdown predicted at 9 minutes, 19 seconds."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Apollo]16, Houston.",
+        "Times are nominal, level sense will be 8 plus 37, and cut-off at 9 plus 19."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000527"
+    },
+    {
+      "tokens": [
+        "This method of relating GET (Ground Elapsed Time) is a common shorthand used throughout the mission.",
+        "To some extent, the context determines whether the first figure is hours or minutes.",
+        "These times are 0 hours, 8 minutes and 37 seconds; and 0 hours, 9 minutes and 19 seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Each propellant tank in the S-II has five sensors near the bottom which signal when they are uncovered by the draining liquid.",
+        "When it receives two such signals from the same tank, the IU computer begins a sequence which will lead to engine cut-off.",
+        "However, this engine cut-off system is not armed until the measured level has fallen below a certain threshold so as to inhibit the possibility of a false shutdown.",
+        "Fullerton is telling the crew when Mission Control expects the cut-off system to be armed, based on current consumption, and when the engines will subsequently be shut down."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0000536"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "5 minutes, 40 seconds.",
+        "Another status check in Mission Control by Flight Director Gene Kranz.",
+        "His console is coming up all greens.",
+        "Looking good at this time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by for S-IVB to COI capability."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000552"
+    },
+    {
+      "tokens": [
+        "COI stands for Contingency Orbit Insertion.",
+        "This is another way of saying \"abort Mode III\".",
+        "The S-IVB now has the capability to take the spacecraft to a point where the Service Module's large SPS engine can ignite and place the CSM into Earth orbit.",
+        "However, in the event of such an abort, and without the S-IVB, the spacecraft would not be able to depart for the Moon, instead embarking on a planned for, but hopefully unrequired Earth orbit mission.",
+        "The Mode III Abort Procedures are onPage 4-4of the Launch Checklist."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "You have it now."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000556"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0000557"
+    },
+    {
+      "tokens": [
+        "Coming up on 6 minutes.",
+        "With th - CapCom Gordon Fullerton reporting that [Apollo] 16 [is] capable of reaching a minimum orbit with a good third stage and Service Module engines.",
+        "We're at 6 minutes, 8 seconds.",
+        "Apollo 16 [now] 88 nautical miles [163 kilometres] in altitude, 380 nautical miles [704 kilometers] downrange."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The gimbal motors are powered up to allow SPS control if needed in an abort.",
+        "The crew select the 4 gimbal motors On, in the order Pitch 1, Yaw 1, Pitch 2, Yaw 2.",
+        "They then select the Launch Vehicle/SPS Gimbal Position Indicator (GPI) switch on Panel 1 to GPI to allow them to monitor the position of the gimbals.",
+        "Up until now, the GPIs have been monitoring the Saturn V's propellant tank pressures - another dual use gauge.",
+        "The GPI scales are in degrees, about a zero midpoint."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The gimbal motors are selected On at intervals of at least one second to avoid any power surges."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew expected to see the increased current drain from fuel cells due to the gimbal motor selection.",
+        "However, all the power appears to be coming from the batteries."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Six minutes, 30 seconds.",
+        "Velocity now reading 14,880 feet per second [4,535 metres per second].",
+        "Altitude, 90 nautical miles [166 kilometres] for Apollo 16.",
+        "Downrange distance of 440 nautical miles [814 kilometres]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "There are 4 omni-directional antennae, operating in the S-Band, mounted flush on the surface on the CM.",
+        "These are used for communications while near the Earth.",
+        "The crew select the best antenna dependent on the orientation of the spacecraft, in this case D which is to the right of the crew hatch (when looking forward)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew are now onPage 2-9of the Launch Checklist, and are at the bottom ofPage 4-60of the Operational Procedures.",
+        "The selection of the antenna is some 30 seconds late, but this is not critical."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cut-off in CM tape from 000:06:43 to 000:10:23."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by for S-IVB to orbit."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000643"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "You have it now."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000646"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "0000647"
+    },
+    {
+      "tokens": [
+        "Six minutes, 50 seconds."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You got Omni Delta, Gordy?"
+      ],
+      "speaker": "Duke",
+      "time": "0000651"
+    },
+    {
+      "tokens": [
+        "Roger, Charlie.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0000653"
+    },
+    {
+      "tokens": [
+        "Young, Duke, Mattingly now told that they can reach orbit if given a good third stage.",
+        "Mark.",
+        "Seven minutes.",
+        "Ninety-one nautical miles [168 kilometres] in altitude, 496 nautical miles [918 kilometres] downrange."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Seven minutes, 15 seconds.",
+        "[Apollo] 16 flying almost parallel over the ocean now with the Young crew in a pitched down position.",
+        "Really moving out now for downrange distance.",
+        "We show Apollo 16, 551 nautical miles [946 kilometres] downrange.",
+        "Velocity now reading 17,527 feet per second [5,342 metres per second]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Coming up on center engine shutdown."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Inboard shutdown on time."
+      ],
+      "speaker": "Young",
+      "time": "0000742"
+    },
+    {
+      "tokens": [
+        "As with the first stage, the centre or inboard engine of the S-II is cut-off early; in this case, to minimise the vehicle's pogo oscillation tendencies late into the burn.",
+        "The inboard engine cut-off was at 7:41.77, 1 minute, 37.8 seconds before the outboard engines.",
+        "This procedure derived from the S-II onApollo 13on which the centre engine shut down unintentionally due to severe vibration activating the Thrust OK switch.",
+        "Since the propellant will still be used by the other engines, the penalty is small."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger; inboard.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0000744"
+    },
+    {
+      "tokens": [
+        "Center engine shutdown on time.",
+        "Seven minutes, 50 seconds.",
+        "Ninety-two nautical miles [170 kilometres] in altitude.",
+        "620 nautical miles [1,148 kilometres] downrange.",
+        "Still showing stable thrust on the other 4 engines.",
+        "They've got about a minute to go in burn time remaining."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Apollo] 16, at 8 minutes.",
+        "Looking good here.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0000809"
+    },
+    {
+      "tokens": [
+        "PU shift.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0000816"
+    },
+    {
+      "tokens": [
+        "At 008:14.8, the PU (Propellant Utilization) valves open, reducing the LOX flowrate and therefore the mixture ratio to the engines from 1:5.5 to 1:4.8.",
+        "This results in a 14.7 percent reduction in thrust and a perceptible change in the g-forces felt by the crew.",
+        "It is done to ensure equal depletion of the fuel and oxidiser.",
+        "After the PU shift, the hydrogen fuel is being burned less completely.",
+        "In other words, there is more unburnt hydrogen exiting the engines.",
+        "Counter-intuitively, this increses the efficiency of the engines.",
+        "The unburnt hydrogen molecules are light and can be accelerated to higher exit velocities than the relatively heavy water molecules.",
+        "Since the overall momentum of the exhaust is now higher (because momentum is proportional to velocity), the momentum imparted to the stack is also higher for each kilogram of propellant consumed.",
+        "This means a higher specific impulse, a measure of the engine's efficiency."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Eight minutes, 25 seconds."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Apollo] 16, Houston.",
+        "We saw the PU shift.",
+        "Thrust looks good, and you're Go for staging."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000826"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0000831"
+    },
+    {
+      "tokens": [
+        "Eight minutes, 35 seconds.",
+        "Apollo 16 now 93 nautical miles [172 kilometres] in altitude, 756 nautical miles [1,400 kilometres] downrange."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You have level sense arm now."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000841"
+    },
+    {
+      "tokens": [
+        "Fullerton is informing the crew that the \"level sense arm\" signal has been sent to the IU.",
+        "The engines will be shut down once two probes in one of the tanks have been uncovered by the dwindling propellant.",
+        "They can expect shutdown shortly."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0000844"
+    },
+    {
+      "tokens": [
+        "That terse response from Apollo 16 Commander John Young.",
+        "We're at 8 minutes, 52 seconds.",
+        "Apollo 16 now 807 nautical miles [1,494 kilometres] downrange, 92 nautical miles [170 kilometres] in altitude.",
+        "Velocity now reading 21,642 feet per second [6,596 metres per second]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by for Mode IV capability."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000917"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "You have Mode IV now."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000920"
+    },
+    {
+      "tokens": [
+        "Mode IV is the abort mode where the crew have been given a Go decision to continue to orbit using the S-IVB, and should that stage deviate from its allowed limits, the CSM will separate from the Saturn and use the SPS (Service Propulsion System) to continue into Earth orbit.",
+        "The Mode IV Abort Procedures are onPage 4-6of the Launch Checklist."
+      ],
+      "speaker": "Commentary",
+      "time": "mode4"
+    },
+    {
+      "tokens": [
+        "The outboard engines cut-off at 9:19.",
+        "One second after outboard cut-off, the S-IVB separates from the S-II.",
+        "Ignition of the S-IVB's single J-2 engine occurs a tenth of a second later."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Although constructed as part of the S-IVB, the conical aft interstage is left with the S-II at separation.",
+        "Unlike the earlier staging, this is a single plane separation as the vehicle is essentially outside the effects of the atmosphere.",
+        "Also, as there is only one engine, there is no possibility of an unbalanced thrust across a cluster of engines skewing the S-IVB's attitude."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay; there was S-II shutdown."
+      ],
+      "speaker": "Young",
+      "time": "0000922"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000926"
+    },
+    {
+      "tokens": [
+        "And we have S-IVB ignition."
+      ],
+      "speaker": "Young",
+      "time": "0000927"
+    },
+    {
+      "tokens": [
+        "The sequence of events for the first ignition of the single J-2 engine in the third stage is essentially the same as for the engines in the S-II(see 000:02:58).The main change is that the supercold fuel is allowed to flow through the walls of the thrust chamber to condition it for three seconds, instead on one, before the Start Tank discharges through the turbines, spinning them up in preparation for operation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Nine minutes, 30 seconds..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And your thrust looks good on the S-IVB."
+      ],
+      "speaker": "Fullerton",
+      "time": "0000931"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0000934"
+    },
+    {
+      "tokens": [
+        "The Young crew has used up two-thirds of their Saturn stages on the way to orbit.",
+        "We see good performance on the third stage, the S-IVB.",
+        "That Mode IV report says Apollo 16 can achieve orbit on spacecraft power only.",
+        "9 minutes, 50 seconds.",
+        "Apollo 16 [is] 93 nautical miles [172 kilometres] in altitude 1,011 nautical miles [1,872 kilometres] downrange.",
+        "Velocity now reading 23,654 feet per second [7,210 metres per second]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "10 minutes, 18 seconds.",
+        "A status check in Mission Control for orbit."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Back to CM and TEC tapes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ken Mattingly referring to the need to monitor the S-IVB for automatic shutdown.",
+        "In other words, Young will manually shut the engine down when desired velocity is reached in case the IU computer fails to do so."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Apollo] 16, Houston.",
+        "You're Go for orbit.",
+        "Predicted cut-off, 11 plus 49."
+      ],
+      "speaker": "Fullerton",
+      "time": "0001028"
+    },
+    {
+      "tokens": [
+        "Roger; 11:49."
+      ],
+      "speaker": "Young",
+      "time": "0001034"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew are watching for an indicated velocity of 25,600 feet per second on the CMC.",
+        "If the IU does not shut it down at this figure, Young will initiate shutdown at 25,700 fps."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "10 minutes, 40 seconds.",
+        "The predicted time of shutdown, 11 minutes, 49 seconds.",
+        "Apollo 16 now 93 nautical miles 172 kilometres] in altitude, 1,192 nautical miles [2,207 kilometres] downrange."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "11 minutes.",
+        "Showing a buildup in velocity, now reading 24,621 feet per second [7,504 metres per second] and accelerating."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ken Mattingly is continuing to monitor the rate of change of altitude.",
+        "As the guidance systems in the IU sense that they are reaching the required orbit, they command the S-IVB to pitch down slightly to avoid gaining excessive altitude and entering too elliptical an orbit.",
+        "Hence, the stack is actually going \"downhill\" at a shallow angle, as it accelerates towards its final orbital velocity.",
+        "The S-IVB is also vibrating at about 65 cycles/second, which the crew feel as a \"buzz\" through the structure."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "11 minutes, 10 seconds.",
+        "Velocity now reading 24,887 feet per second [7,585 metres per second], 98 per cent of the desired speed for insertion into orbit.",
+        "Less than 20 seconds now from time of shutdown."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "John Young is monitoring the speed of the spacecraft (in thousands of feet per second) on the DSKY.",
+        "As described at 000:11:07, the spacecraft is slightly pitched down.",
+        "Since the CM and crew are seated in a heads-down orientation relative to the Earth, this appears to them to be a pitch up maneuver."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "11 minutes, 40 seconds.",
+        "Apollo 16 now 1,400 nautical miles [2,592 kilometres] downrange."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The final orbital velocity is 25,605.1 feet per second (7,804.4 metres per second), with an orbital apogee of 91.3 nautical miles (169 kilometres) and perigee of 87.85 nautical miles (162.7 kilometres)]."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "SECO [S-IVB Engine Cut-Off]."
+      ],
+      "speaker": "Young",
+      "time": "0001149"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Fullerton",
+      "time": "0001149"
+    },
+    {
+      "tokens": [
+        "Right on!",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0001150"
+    },
+    {
+      "tokens": [
+        "The crew now get on with the business of configuring the spacecraft for orbit.",
+        "This is a busy period.",
+        "They must read the orbital parameters from the CMC, following the bottom ofPage 2-9of the Launch Checklist, and the top ofPage 4-63of the Operational Procedures.",
+        "Then they proceed with the Post-Orbital Insertion Checks starting onPage 2-11of the Launch Checklist, and are at the top ofPage 4-65of the Operational Procedures.",
+        "These include making safe various systems that will not be required in orbit, including the Sequential Events Control Subsystem that controls, among other things, the various pyrotechnic devices on the spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Next, the SPS gimbal motors are selected off, since there should be no need for SPS operation in orbit"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That was shutdown, right on the money."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Pitch 1 is coming Off."
+      ],
+      "speaker": "Mattingly",
+      "time": "0001201"
+    },
+    {
+      "tokens": [
+        "Break in CM tape."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0001205"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "12 minutes, 25 sec..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Apollo] 16, Houston.",
+        "The range safety system is safe.",
+        "The orbit is Go."
+      ],
+      "speaker": "Fullerton",
+      "time": "0001226"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Boy, it's just beautiful up here, looking out the window.",
+        "It's just really fantastic.",
+        "And the thing worked like a gem."
+      ],
+      "speaker": "Young",
+      "time": "0001231"
+    },
+    {
+      "tokens": [
+        "Sure did.",
+        "We copy Noun 62, and your orbit by radar is 95 by 90 [nautical miles, 176 by 167 km].",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0001240"
+    },
+    {
+      "tokens": [
+        "On entering orbit, the crew selected Verb 06 Noun 62 on the CMC to confirm the orbital velocity, rate of altitude change and altitude.",
+        "These values have then been down-linked to mission Control so that they can be compared to the orbital parameters measured by radar tracking stations."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark, 12 minutes, 54 seconds.",
+        "That enthusiastic report from orbit was from spacecraft Commander John Young.",
+        "Apollo 16 in what appears to be a safe orbit.",
+        "Preliminary numbers show 95 nautical miles by 90 nautical miles.",
+        "The Saturn V, once again, an apparent victor in its tug-of-war struggle with the Earth's forces of gravity.",
+        "We're at 13 minutes, 20 seconds Ground Elapsed Time and Apollo 16 is in orbit."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Apollo] 16, Houston.",
+        "The booster looks good.",
+        "It's reconfigured for orbit.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0001344"
+    },
+    {
+      "tokens": [
+        "[Apollo] 16, Houston.",
+        "The Z-torquing angle will be plus 0.06.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0001432"
+    },
+    {
+      "tokens": [
+        "Plus - Roger.",
+        "Plus 0.06."
+      ],
+      "speaker": "Duke",
+      "time": "0001438"
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0001441"
+    },
+    {
+      "tokens": [
+        "The COAS is the Crewman Optical Alignment Sight, which resembles an aircraft gunsight.",
+        "It has 2 functions.",
+        "First, it provides a range and range-rate display during docking, using a reticule focused at the same distance as the target.",
+        "Secondly, it can be used to aim the 16mm data acquisition camera when this is mounted in the right-hand window.",
+        "The COAS is stowed in a mount by the left-hand window during launch and entry, but can be used with either left or right rendezvous (forward facing) windows."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Gordy; we're on page 2-11 [of the Launch Checklist] down through - We're getting to installing the COAS.",
+        "That MA (Master Alarm) was the Transducer, ECS."
+      ],
+      "speaker": "Duke",
+      "time": "0001458"
+    },
+    {
+      "tokens": [
+        "Roger, Charlie."
+      ],
+      "speaker": "Fullerton",
+      "time": "0001506"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew are now ontoPage 2-12of the Launch Checklist.",
+        "However, the sequence with which actions are carried out from this point are not necessarily in the order given in the Checklist."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Especially during the early flights of Apollo, the clarity of the Command Module windows was a major problem.",
+        "There were 2 main causes: contamination due to the rocket that removed the Boost Protective Cover, and out-gassing of solvents in the sealant used on the windows.",
+        "By the time of Apollo 16, many fixes had been introduced and the only major problem is some condensation between the inner and outer panes, and a 2 inch smear of contaminant on the outside of one of the side windows.",
+        "For John Young's window to be clean is therefore a significant, if minor, victory."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Charlie Duke is testing the Master Alarm, as both he and Ken Mattingly are having problems hearing it.",
+        "The Master Alarm is a combination of visual alert (2 lights on the Main Display Console, one in the Lower Equipment Bay) and an audio signal in the crew's headsets.",
+        "Pressing any of the lights cancels the audio and visual alerts."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew are back atPage 2-11of the Launch Checklist."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The CM hatch has 2 modes of operation.",
+        "Before launch, any need to operate the hatch must overcome both its own weight and that of the Boost Protective Cover hatch.",
+        "To help, a lever mechanism including a pressurized nitrogen cylinder provides assistance to open the hatch(s).",
+        "After reaching orbit, the gas must be vented to prevent over rapid opening of the weightless hatch.",
+        "A spare gas cylinder provides the means to re-pressurise the nitrogen cylinder for Earth landing."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 16, Houston.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0001618"
+    },
+    {
+      "tokens": [
+        "Verb 83 calls up rendezvous parameters; Range, Range-rate and Theta, on the DSKY."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Theta represents the angle between the spacecraft's plus-X axis and the local horizontal (the horizontal of the ground beneath them).",
+        "They use this angle to set up the ORDEAL, a device that drives the FDAI balls in sympathy with the spacecraft's orbit.",
+        "Normally, the FDAI show attitudes with respect to the stars - called \"inertial attitude\".",
+        "By rotating them synchronously with their orbit, and starting them at the correct angle, the FDAI can be made to show pitch angles relative to the local horizontal throughout the orbit.",
+        "To initialise the ORDEAL, Ken must set the FDAI to their current pitch angle which he gets from Verb 83."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Break in CM tape"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 16 through Canaries.",
+        "How do you read?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0001716"
+    },
+    {
+      "tokens": [
+        "Okay, you're 5 by, Gordy."
+      ],
+      "speaker": "Duke",
+      "time": "0001721"
+    },
+    {
+      "tokens": [
+        "Okay; we're noticing a possible blockage in the primary coolant loop.",
+        "Would you have John check the Glycol Reservoir Bypass valve to be sure it's Open?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0001723"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Garble]."
+      ],
+      "speaker": "Duke",
+      "time": "0001736"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Gordy, do you want us to go ahead and - and - put the radiators on?"
+      ],
+      "speaker": "Duke",
+      "time": "0001848"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0001852"
+    },
+    {
+      "tokens": [
+        "Charlie, this is Houston.",
+        "Whatever you just did up there got the coolant loop flow back.",
+        "We'd like to watch it for a minute before proceeding.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0001906"
+    },
+    {
+      "tokens": [
+        "Okay, we're at step 12, page 2-13, configuration now with radiators at bypass.",
+        "We've got the - the Reservoir Bypass Open, and the Outlet and the Inlet [valves] Closed."
+      ],
+      "speaker": "Duke",
+      "time": "0001915"
+    },
+    {
+      "tokens": [
+        "As Charlie Duke states, the crew are now onPage 2-13of the Launch Checklist andPage 4-68of the Operational Procedures."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The ECS Post Insertion Configuration is the second stage in setting the Environmental Control System to its flight configuration.",
+        "During launch, the valves are set to allow fluid to circulate through the reservoir.",
+        "After orbital insertion, the reservoir is isolated to provide a reserve source of coolant in case of leakage."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, let me tell you what it was, Gordon, I think, is the - the Outlet [valve] was - was accidentally Open, probably at - at some other time, and the - the Bypass [valve] was Closed and the Inlet [valve] was - was Open.",
+        "That's probably been the indications you were seeing."
+      ],
+      "speaker": "Young",
+      "time": "0001925"
+    },
+    {
+      "tokens": [
+        "From theApollo 16 Mission Report:\"Shortly after orbital insertion, as the water/glycol reservoir was being isolated, the system valves were inadvertently positioned to completely block the primary coolant loop.",
+        "The system was supplying no additional heat load in this configuration; therefore, the evaporator started to freeze and the indicated back pressure reached the lower limit of 0.05 psia.",
+        "The reservoir valves were repositioned, flow was restored and the evaporator recovered smoothly with no adverse effects.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0001947"
+    },
+    {
+      "tokens": [
+        "We're coming up over Africa now, Gordon, and it really is a spectacular view."
+      ],
+      "speaker": "Young",
+      "time": "0001957"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I wish I was there with you."
+      ],
+      "speaker": "Fullerton",
+      "time": "0002003"
+    },
+    {
+      "tokens": [
+        "Gordon Fullerton finally made it to orbit in March 1982, as the pilot on STS-3, the third Space Shuttle mission."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "I guess we're - we're just over the Canaries looking down at those little islands, and that sure is something.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0002007"
+    },
+    {
+      "tokens": [
+        "Apollo Control Houston.",
+        "20 minutes Ground Elapsed Time.",
+        "That again that was John Young, commander of Apollo 16, appraising the view over this Canary Island pass.",
+        "We're at 21 minutes Ground..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "You can proceed with the rest of the normal ECS configuration."
+      ],
+      "speaker": "Fullerton",
+      "time": "0002036"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's in work.",
+        "[Long pause.]"
+      ],
+      "speaker": "Young",
+      "time": "0002043"
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "We're having a - kind of intermittent data down here due to a problem with Canaries antenna.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0002059"
+    },
+    {
+      "tokens": [
+        "Okay, we're gonna put the glycol to the res - to the radiators now."
+      ],
+      "speaker": "Young",
+      "time": "0002117"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0002123"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "22 minutes Ground Elapsed Time.",
+        "We show a present orbit of 96 nautical miles by 91 nautical miles [154 by 146 kilometres]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "About a minute to go until Loss Of Signal with Canary."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "CM Tape on again"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "A quick status check being taken at Mission Control Center by Flight Director Gene Kranz with his flight control team to try and pass up a final few words with the 16 crew before we have Loss Of Signal.",
+        "We're at 23 minutes Ground Elapsed Time; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Apollo] 16, Houston.",
+        "Data is back now good, and everything looks fine as we come up 20 seconds to LOS (Loss Of Signal).",
+        "We'll see you at Carnarvon at 52:39."
+      ],
+      "speaker": "Fullerton",
+      "time": "0002237"
+    },
+    {
+      "tokens": [
+        "Roger; 52:39, Gordon."
+      ],
+      "speaker": "Young",
+      "time": "0002247"
+    },
+    {
+      "tokens": [
+        "Enjoy the view there."
+      ],
+      "speaker": "Fullerton",
+      "time": "0002252"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "We're just starting to come into darkness now, and the sunset is..."
+      ],
+      "speaker": "Young",
+      "time": "0002256"
+    },
+    {
+      "tokens": [
+        "...just as beautiful as always in this space business."
+      ],
+      "speaker": "Young",
+      "time": "0002300"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0002302"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Next communication with the ground will be at 000:52:07 through Carnarvon, Australia"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day1_part1_launch_and_ascent_to_earth_orbit.html"
+}

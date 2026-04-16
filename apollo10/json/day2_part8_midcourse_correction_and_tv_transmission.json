@@ -1,0 +1,7240 @@
+{
+  "description": "A10FJ - Day 2, part 8: Mid-course correction and TV transmission",
+  "transcript": [
+    {
+      "tokens": [
+        "Flight Plan page 3-18."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "I don't know how far along the coast I could see before the - before the Earth went out of the optics, but it - It looked like the Gulf Coast was open today, too.",
+        "Maybe - Maybe I was looking at the wrong place here; that's real hard to see right now."
+      ],
+      "speaker": "Young",
+      "time": "0240125"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "When we came in this morning, it was clear as a bell outside.",
+        "I don't know what it's done the last couple of hours, though.",
+        "Just got the word - It's still clear outside."
+      ],
+      "speaker": "Duke",
+      "time": "0240138"
+    },
+    {
+      "tokens": [
+        "It looked clear down that way.",
+        "Except for the smog."
+      ],
+      "speaker": "Young",
+      "time": "0240149"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Duke",
+      "time": "0240154"
+    },
+    {
+      "tokens": [
+        "That's John Young discussing the weather with Charlie Duke."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Charlie."
+      ],
+      "speaker": "Cernan",
+      "time": "0240553"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 24 hours 5 minutes.",
+        "Distance is 102,742 [nautical miles][190,277 km]"
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0240557"
+    },
+    {
+      "tokens": [
+        "Hello, Houston."
+      ],
+      "speaker": "Cernan",
+      "time": "0240558"
+    },
+    {
+      "tokens": [
+        "Go ahead, 10."
+      ],
+      "speaker": "Duke",
+      "time": "0240559"
+    },
+    {
+      "tokens": [
+        "I've been looking at the Earth with the monocular, and it's quite a sight.",
+        "But right to the left of it in my field of view is this rotating object John saw a little while ago.",
+        "And I'm looking at it through the monocular, and it - sometimes it appears to be the S-IVB, or else it's a SLA [Spacecraft Lunar-module Adapter] panel.",
+        "But it's definitely got three dimensions, and it's rotating at quite a fair speed.",
+        "I can sometimes be able to pick the nozzle up on it, which makes me believe it might be the S-IVB."
+      ],
+      "speaker": "Cernan",
+      "time": "0240600"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Say again the position with respect to the Earth, Gene."
+      ],
+      "speaker": "Duke",
+      "time": "0240637"
+    },
+    {
+      "tokens": [
+        "Well, I've got the Earth out on the right side of my right hand window, and it's perpendicular to the terminator of the Earth."
+      ],
+      "speaker": "Cernan",
+      "time": "0240643"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On the left side or the dark side of the terminator?"
+      ],
+      "speaker": "Duke",
+      "time": "0240652"
+    },
+    {
+      "tokens": [
+        "Well, it's perpendicular.",
+        "The terminator's got both sides, doesn't it?",
+        "I'd say it's from North to South Pole; It's toward the east."
+      ],
+      "speaker": "Cernan",
+      "time": "0240702"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's what I was trying to dig out.",
+        "I probably said it wrong, though.",
+        "We got the back rooms working on where the S-IVB should be.",
+        "We should have you some word here in an hour or so, probably.",
+        "How big does this thing look to you in the monocular, Gene?"
+      ],
+      "speaker": "Duke",
+      "time": "0240714"
+    },
+    {
+      "tokens": [
+        "Well, I can see it rotating, and it's bright all the time, and I get bright glare glints off it.",
+        "It's rotating, and it's definitely got three dimensions.",
+        "I've seen something for the last day that I thought was the SLA panel along with it, so this may be what it is."
+      ],
+      "speaker": "Cernan",
+      "time": "0240736"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0240754"
+    },
+    {
+      "tokens": [
+        "Hello, 10.",
+        "Houston.",
+        "We're going to switch ground stations.",
+        "You may get some noise for a couple of seconds."
+      ],
+      "speaker": "Duke",
+      "time": "0240813"
+    },
+    {
+      "tokens": [
+        "Houston, this is 10."
+      ],
+      "speaker": "Cernan",
+      "time": "0240844"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0240846"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And then down quite a ways, maybe 30 degrees from the first one, I've got a second rotating object that's glistening in the center up there; and, of course, it's much, much further away.",
+        "All I can tell is that it's rotating and that it's glistening."
+      ],
+      "speaker": "Cernan",
+      "time": "0240850"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0240908"
+    },
+    {
+      "tokens": [
+        "Hey, Houston.",
+        "Maybe we got that Program Alarm by accidentally hitting the Mark, button, but I don't think we did."
+      ],
+      "speaker": "Young",
+      "time": "0240948"
+    },
+    {
+      "tokens": [
+        "John Young is performing a P52 IMU realignment, using option 3-REFSMMAT.",
+        "In this option, the present IMU orientation differs from that to which it was last aligned due to gyro drift This option realigns the IMU to its previous alignment orientation (REFSMMAT).",
+        "He is concerned that he may have accidentally hit the Mark key whilst working with the navigation optics in the lower equipment bay, which may have triggered a program alarm, probably alarm 00114-Mark made but not desired."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You don't think you accidentally hit it, John?"
+      ],
+      "speaker": "Duke",
+      "time": "0240956"
+    },
+    {
+      "tokens": [
+        "No."
+      ],
+      "speaker": "Young",
+      "time": "0241001"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We thought that's what had happened."
+      ],
+      "speaker": "Duke",
+      "time": "0241004"
+    },
+    {
+      "tokens": [
+        "Tell me this.",
+        "Calling up Verb 5, Noun 9 just...",
+        "got to reset the PTC?"
+      ],
+      "speaker": "Young",
+      "time": "0241012"
+    },
+    {
+      "tokens": [
+        "Verb 05, Noun 09 displays program alarm codes in registers R1, R2 and R3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0241021"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "That's negative.",
+        "You do not disturb the PTC."
+      ],
+      "speaker": "Duke",
+      "time": "0241042"
+    },
+    {
+      "tokens": [
+        "Gene Cernan is observing those objects through a monocular, that's half of a binocular."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "Apollo 10."
+      ],
+      "speaker": "Stafford",
+      "time": "0241817"
+    },
+    {
+      "tokens": [
+        "Go ahead, 10."
+      ],
+      "speaker": "Duke",
+      "time": "0241820"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0241835"
+    },
+    {
+      "tokens": [
+        "hello, Houston.",
+        "Apollo 10."
+      ],
+      "speaker": "Stafford",
+      "time": "0241836"
+    },
+    {
+      "tokens": [
+        "Go ahead"
+      ],
+      "speaker": "Duke",
+      "time": "0241838"
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston.",
+        "We are reading you five-by.",
+        "Go ahead, Tom."
+      ],
+      "speaker": "Duke",
+      "time": "0241851"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "Do you read?"
+      ],
+      "speaker": "Duke",
+      "time": "0241917"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "How do you read now, Charlie?"
+      ],
+      "speaker": "Stafford",
+      "time": "0241921"
+    },
+    {
+      "tokens": [
+        "Five-by, Tom.",
+        "You were coming five-by all the time."
+      ],
+      "speaker": "Duke",
+      "time": "0241923"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I just wanted to give you a star visibility data point.",
+        "Just a second ago, when the Sun was in the right window, number 5 window [right hand square window], I could barely see the Southern Cross, Acrux, and Alpha and Beta Centauri out my left window, and that's the first time we've been able to see it."
+      ],
+      "speaker": "Stafford",
+      "time": "0241927"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Good show."
+      ],
+      "speaker": "Duke",
+      "time": "0241944"
+    },
+    {
+      "tokens": [
+        "We couldn't - And, Mr.",
+        "Charlie, we couldn't see many other stars, just the real big ones, you know, like Alpha and Beta Centauri and Acruz.",
+        "Now, as the Sun moves on around, they've completely disappeared, but that's the first glimpse of any stars I've gotten."
+      ],
+      "speaker": "Stafford",
+      "time": "0241948"
+    },
+    {
+      "tokens": [
+        "Stafford, from the1969 Technical debrief:\"I finally saw the first stars when we were approximately 100,000 miles from the Earth.",
+        "At that time, I saw Acrux, and Alpha and Beta Centauri, but they were very dim.",
+        "I saw these out of my side window.",
+        "As we neared the Moon, I didn't see any more.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "Duke",
+      "time": "0242000"
+    },
+    {
+      "tokens": [
+        "Alright."
+      ],
+      "speaker": "Stafford",
+      "time": "0242003"
+    },
+    {
+      "tokens": [
+        "Houston, this is 10.",
+        "Looks like most of the east coast is under clouds today."
+      ],
+      "speaker": "Young",
+      "time": "0242254"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You've got a better view than we have.",
+        "We haven't even seen the weather map in the paper.",
+        "Hey, John, On this 122 alarm, we're continuing to research it, but at the present time, the only thing we can come up with was that it was an accidental hit of either the Mark Reject or the Mark button.",
+        "but we're continuing to look at it."
+      ],
+      "speaker": "Duke",
+      "time": "0242258"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "No problem.",
+        "I don't think it's any problem."
+      ],
+      "speaker": "Young",
+      "time": "0242327"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0242329"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "John, would you verify that you did not think that you hit either the Mark or the Mark Reject?"
+      ],
+      "speaker": "Duke",
+      "time": "0242354"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Young",
+      "time": "0242404"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0242406"
+    },
+    {
+      "tokens": [
+        "Houston, could we go ahead and start this REFSMMAT realign and this - and this land - and this star horizon a little early here to maybe stay ahead of it a little?"
+      ],
+      "speaker": "Young",
+      "time": "0242410"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0242422"
+    },
+    {
+      "tokens": [
+        "No problem, 10.",
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0242425"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "0242429"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 24 hours, 29 minutes.",
+        "The Guidance Officer reports that Apollo 10 is realigning the inertial measurement unit, setting set up for the second group of cislunar navigation sightings.",
+        "John Young using the onboard optics will do some cislunar navigation tasks by measuring the angles between various scars and the earth horizon."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo l0.",
+        "We're Automaneuvering around for the P23 navigation"
+      ],
+      "speaker": "Stafford",
+      "time": "0243734"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy, Tom.",
+        "And, John, the guys in the back room yesterday on your Noun 49 were really hopping.",
+        "If you could pause a little bit longer today on that display, they'd appreciate it.",
+        "And when you calibrate the trunnion bias, they say we'll, get a better reading if you - between each calibration, if you'll move the trunnion off and then back to its position so we get a better average on the calibration.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0243739"
+    },
+    {
+      "tokens": [
+        "At the conclusion the P23 Cislunar Midcourse Navigation program operation, the crew could call up Verb 06 Noun 49 on the DSKY to display the magnitude of the position and velocity vector changes, displayed for astronaut approval."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At the end of each P23 operation, the crew and controllers can see the difference between the estimated and newly calculated state vector.",
+        "These results, displayed through Noun 49, are usually very small."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's what I was doing.",
+        "I was moving off and bringing it back on."
+      ],
+      "speaker": "Young",
+      "time": "0243814"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "that's fine."
+      ],
+      "speaker": "Duke",
+      "time": "0243818"
+    },
+    {
+      "tokens": [
+        "How far off?",
+        "How far off do they want to go?"
+      ],
+      "speaker": "Young",
+      "time": "0243821"
+    },
+    {
+      "tokens": [
+        "I didn't get that number.",
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0243823"
+    },
+    {
+      "tokens": [
+        "John, the GUIDO's say any movement will be fine - a degree or so and then back is all we need."
+      ],
+      "speaker": "Duke",
+      "time": "0243833"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I was moving it in both directions, too."
+      ],
+      "speaker": "Young",
+      "time": "0243840"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Fine.",
+        "Good show."
+      ],
+      "speaker": "Duke",
+      "time": "0243843"
+    },
+    {
+      "tokens": [
+        "Not a degree -"
+      ],
+      "speaker": "Young",
+      "time": "0243844"
+    },
+    {
+      "tokens": [
+        "Hello.",
+        "10.",
+        "Houston.",
+        "In this maneuver to your P23 attitude, if you have to switch antennae it'll take a Command Reset."
+      ],
+      "speaker": "Duke",
+      "time": "0244025"
+    },
+    {
+      "tokens": [
+        "Setting the Up TLM switches to Command Reset momentarily resets all of the real time command relays except on bank 'A'"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0244036"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 24 hours, 48 minutes.",
+        "We are in conversation with the crew again."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, l0.",
+        "Houston.",
+        "We'd like you to try to get the High Gain locked on for the P23, so we can have the high bit rate."
+      ],
+      "speaker": "Duke",
+      "time": "0244616"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll give it a try, Charlie."
+      ],
+      "speaker": "Stafford",
+      "time": "0244627"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0244629"
+    },
+    {
+      "tokens": [
+        "Houston, I'll give you a Verb 64 as soon as we finish this Automaneuver."
+      ],
+      "speaker": "Stafford",
+      "time": "0244654"
+    },
+    {
+      "tokens": [
+        "Verb 64 - Request S-Band Antenna routine (RO5).",
+        "This routine is used to compute the two steerable S-band antenna gimbal angles which will point the antenna towards the centre of the Earth.",
+        "This routine can only be initiated while the Command Module computer idling program P00 is in operation.",
+        "The IMU must be on and aligned."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0244658"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "We got the - some angles for you on the High Gain: minus 52 on the pitch and 270 yaw."
+      ],
+      "speaker": "Duke",
+      "time": "0244710"
+    },
+    {
+      "tokens": [
+        "MCC are assisting the crew by providing the S-band antenna point angles for them."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Fine."
+      ],
+      "speaker": "Cernan",
+      "time": "0244722"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "10.",
+        "That should be high gain."
+      ],
+      "speaker": "Cernan",
+      "time": "0244808"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We got it.",
+        "Thanks a bunch."
+      ],
+      "speaker": "Duke",
+      "time": "0244813"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And that's medium bandwidth."
+      ],
+      "speaker": "Cernan",
+      "time": "0244817"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0244819"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 24 hours, 55 minutes.",
+        "Charlie Duke is in conversation with John Young.",
+        "John reports having a problem calibrating the optics because the light scattering in the telescope prevents him from seeing the stars.",
+        "Here's that conversation."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, I hate to admit this, but there aren't any stars that I can find right now to calibrate these optics on."
+      ],
+      "speaker": "Young",
+      "time": "0245314"
+    },
+    {
+      "tokens": [
+        "Roger, Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0245320"
+    },
+    {
+      "tokens": [
+        "It's got to do with the position of the Earth and how much light we're getting through there and everything."
+      ],
+      "speaker": "Young",
+      "time": "0245326"
+    },
+    {
+      "tokens": [
+        "Young, from the1969 Technical debrief:\"Optics calibration was extremely difficult because there were not any visible stars to fly to in the telescope.",
+        "So we put it off as long as we could.",
+        "On the way to the Moon, there was never a case where we had more than one or two stars visible, even 180 degrees from the Sun.",
+        "There was no place where we could recognize constellations on the way to the Moon, and there were very few places, where we were doing P23's or P23-type things, where we could recognize individual stars except through the optics.",
+        "It would be very convenient if there were a routine in the computer which would fly the spacecraft to position a star for optics calibration if they're required for each P23.",
+        "It would save you a great deal of fuel, especially when you can't see the darned stars in the first place.",
+        "When you were doing star landmark tracking in the vicinity of the Earth, you had to do the optics calibration to find a star a great deal further away from the Earth than the procedure recommends.",
+        "The procedure wants you to do the optics calibration in the vicinity of the body that you're tracking.",
+        "You couldn't do that.",
+        "The Earth, the Moon, and the Sun cause star shafting across the telescope, and completely blank your vision from seeing any stars with the Lunar Module on.",
+        "The Lunar Module caused Sun shafting into the optics at various positions.",
+        "From the start of TLI through translunar coast, we were never at any time able to see any stars except through Auto optics.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Say again, John.",
+        "You were cut out."
+      ],
+      "speaker": "Duke",
+      "time": "0245332"
+    },
+    {
+      "tokens": [
+        "It's got to do with the way the sunshine is shining on the Earth, how much light is getting scattered back in the telescope, and how much is coming in off the LM.",
+        "It's really - It's really blanking out all the stars."
+      ],
+      "speaker": "Young",
+      "time": "0245336"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0245351"
+    },
+    {
+      "tokens": [
+        "Hello, 10.",
+        "Houston.",
+        "If you don't - things don't get better in 5 minutes or so, and you still can't see anything, we'll just skip it and try it again later when the geometry gets better."
+      ],
+      "speaker": "Duke",
+      "time": "0245525"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0245541"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 24 hours 59 minutes, Apollo 10's distance now from earth 105,372 nautical miles [195,148 km], velocity 5,267 feet per second [1,606 metres per second]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, 10.",
+        "Houston.",
+        "We'll be having a ground handover in about 4 minutes.",
+        "You may hear some noise.",
+        "We'll do it on the High Gain."
+      ],
+      "speaker": "Duke",
+      "time": "0245611"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0245625"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 25 hours, 10 minutes.",
+        "We're in conversation with the crew."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, this is 10.",
+        "What do you want me to use for a trunnion angle?",
+        "What we got yesterday, or, put in zeros?"
+      ],
+      "speaker": "Young",
+      "time": "0250415"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0250423"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "Leave the bias as it was yester..."
+      ],
+      "speaker": "Duke",
+      "time": "0250546"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "Did you copy on the trunnion?",
+        "You can leave it the same as yesterday."
+      ],
+      "speaker": "Duke",
+      "time": "0250656"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's what I did."
+      ],
+      "speaker": "Young",
+      "time": "0250703"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0250705"
+    },
+    {
+      "tokens": [
+        "That 6 49 four balls, plus four balls 1 must a mistake."
+      ],
+      "speaker": "Young",
+      "time": "0250824"
+    },
+    {
+      "tokens": [
+        "John Young's comment '6 49' refers to the Verb 6 Noun 49 state vector update that has been computed by the AGC in program P23.",
+        "V6N49 would be displayed if he was taking a star to horizon sighting.",
+        "The output would be in the form of on register 1 of the DSKY-Delta R (the magnitude of the difference between the position vector before and after incorporation of the star measurement) given in tenths of a nautical mile, and on register 2 of the DSKY-Delta V (the magnitude of the difference between the velocity vector before and after incorporation of the star measurement) given in tenths of a foot per second.",
+        "He is querying the outputs being displayed and will repeat the process."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy you."
+      ],
+      "speaker": "Duke",
+      "time": "0250829"
+    },
+    {
+      "tokens": [
+        "That's a pretty good mistake."
+      ],
+      "speaker": "Duke",
+      "time": "0250844"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "That's what I'm saying.",
+        "Up here in the left seat, it's the best mistake I've seen, Charlie."
+      ],
+      "speaker": "Stafford",
+      "time": "0250849"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0250852"
+    },
+    {
+      "tokens": [
+        "How about that, Charlie?"
+      ],
+      "speaker": "Stafford",
+      "time": "0250941"
+    },
+    {
+      "tokens": [
+        "That's really beautiful."
+      ],
+      "speaker": "Duke",
+      "time": "0250944"
+    },
+    {
+      "tokens": [
+        "It's unbelievable, as a matter of fact.",
+        "They must have zeros listed as W-matrix."
+      ],
+      "speaker": "Young",
+      "time": "0250948"
+    },
+    {
+      "tokens": [
+        "[Laughter.]"
+      ],
+      "speaker": "Duke",
+      "time": "0250953"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 25 hours, 12 minutes.",
+        "Flight Dynamics Officer Phil Shaffer reports that Apollo 10 will he half way to the Moon in terms of mileage at an elapsed time of 27 hours, 31 minutes, 34 seconds.",
+        "The mileage at that time will be 112,991 [nautical] miles [209,258 km].",
+        "And according to the Flight Plan, the Apollo 10 crew will be having lunch at the midpoint."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "There we are again."
+      ],
+      "speaker": "Stafford",
+      "time": "0251337"
+    },
+    {
+      "tokens": [
+        "You guys are really sharp."
+      ],
+      "speaker": "Duke",
+      "time": "0251340"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "John's doing a great job.",
+        "He's having trouble seeing that from all the Sun reflecting around him."
+      ],
+      "speaker": "Stafford",
+      "time": "0251346"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "We were imagining he was.",
+        "Excuse me: I cut you out.",
+        "Go ahead, John."
+      ],
+      "speaker": "Duke",
+      "time": "0251350"
+    },
+    {
+      "tokens": [
+        "When the star gets down beneath the - on the Earth, you can't see it in the background.",
+        "You just have to pull it out of the Earth and imagine which way you ought to pull that handle to bring it out above the horizon so you can see it,"
+      ],
+      "speaker": "Young",
+      "time": "0251356"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Well, whatever you're doing is right; looks good"
+      ],
+      "speaker": "Duke",
+      "time": "0251411"
+    },
+    {
+      "tokens": [
+        "I don't know whether it's right or not."
+      ],
+      "speaker": "Young",
+      "time": "0251419"
+    },
+    {
+      "tokens": [
+        "Eisele's sitting here; he said you set the W-matrix to zero."
+      ],
+      "speaker": "Duke",
+      "time": "0251427"
+    },
+    {
+      "tokens": [
+        "Good idea."
+      ],
+      "speaker": "Young",
+      "time": "0251440"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 25 hours, 18 minutes.",
+        "Showing present distance 106,423 nautical miles [197,094 km].",
+        "Velocity 5,228 feet per second [1,594 metres per second]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, did you get the first one on Nunki?"
+      ],
+      "speaker": "Stafford",
+      "time": "0251859"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Sure did."
+      ],
+      "speaker": "Duke",
+      "time": "0251902"
+    },
+    {
+      "tokens": [
+        "Here's number 2."
+      ],
+      "speaker": "Stafford",
+      "time": "0251946"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0251948"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 25 hours, 28 minutes and we're in conversation with the crew concerning the star/Earth-horizon navigation sightings."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "That finished the first set on star 37.",
+        "We'll do set 3 and 4 on the same star as your direction."
+      ],
+      "speaker": "Stafford",
+      "time": "0252148"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It's primarily for an altitude calibration."
+      ],
+      "speaker": "Duke",
+      "time": "0252156"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0252203"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "10, we've seen that."
+      ],
+      "speaker": "Duke",
+      "time": "0252624"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Looks good from here."
+      ],
+      "speaker": "Stafford",
+      "time": "0252631"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "How much time do you really need to get that kind of stuff?",
+        "Can you give us a Go when you see each one of them, Charlie?"
+      ],
+      "speaker": "Cernan",
+      "time": "0252635"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "I think I can."
+      ],
+      "speaker": "Duke",
+      "time": "0252642"
+    },
+    {
+      "tokens": [
+        "10, when we get the data, we'll give you a Go."
+      ],
+      "speaker": "Duke",
+      "time": "0252713"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "0252722"
+    },
+    {
+      "tokens": [
+        "And, John, you've been giving us plenty of time on that so far."
+      ],
+      "speaker": "Duke",
+      "time": "0252724"
+    },
+    {
+      "tokens": [
+        "Okay,"
+      ],
+      "speaker": "Young",
+      "time": "0252728"
+    },
+    {
+      "tokens": [
+        "You can Go."
+      ],
+      "speaker": "Duke",
+      "time": "0252743"
+    },
+    {
+      "tokens": [
+        "You can Go."
+      ],
+      "speaker": "Duke",
+      "time": "0252751"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That complete Nunki right there?"
+      ],
+      "speaker": "Young",
+      "time": "0252859"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0252905"
+    },
+    {
+      "tokens": [
+        "Or is there another one to go?"
+      ],
+      "speaker": "Young",
+      "time": "0252908"
+    },
+    {
+      "tokens": [
+        "We can make another one if you want to, if it's just for horizon CAL."
+      ],
+      "speaker": "Young",
+      "time": "0252927"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "John, we need one more Mark on Nunki."
+      ],
+      "speaker": "Duke",
+      "time": "0252931"
+    },
+    {
+      "tokens": [
+        "You can Go."
+      ],
+      "speaker": "Duke",
+      "time": "0253007"
+    },
+    {
+      "tokens": [
+        "10, you can go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0253250"
+    },
+    {
+      "tokens": [
+        "You can Go."
+      ],
+      "speaker": "Duke",
+      "time": "0253340"
+    },
+    {
+      "tokens": [
+        "10, you can Go."
+      ],
+      "speaker": "Duke",
+      "time": "0253446"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "That completes the total of five sets there, and we're ready for your P27 update for the midcourse."
+      ],
+      "speaker": "Stafford",
+      "time": "0253456"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0253506"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0253510"
+    },
+    {
+      "tokens": [
+        "Hello, 10.",
+        "Houston.",
+        "If you go to P00 and Accept we have a load for you: state vector, target load, and a PIPA [Pulsed Integrating Pendulous Accelerometer] bias update."
+      ],
+      "speaker": "Duke",
+      "time": "0253703"
+    },
+    {
+      "tokens": [
+        "MCC are uplinking a revised state vector, target loads, which could include angular values, time of ignition (TIG) and Delta V.",
+        "The PIPA's are orthogonally mounted on the IMU stable platform and sense changes in spacecraft velocity.",
+        "An acceleration or deceleration results in output signals which are representative of the magnitude and direction of the velocity change.",
+        "The output signals are applied to the CMC which uses the information to update spacecraft velocity data.",
+        "Continual updating of velocity information, with respect to the initial spacecraft position and trajectory, enables the CMC to provide current velocity, position, and trajectory information.",
+        "Updates of the accelerometer drift bias have to regularly be made."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Going CMC Accept and P00, and you've got it."
+      ],
+      "speaker": "Stafford",
+      "time": "0253713"
+    },
+    {
+      "tokens": [
+        "Roger, Tom, and if you're ready to copy, we have a pad for you."
+      ],
+      "speaker": "Duke",
+      "time": "0253717"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Stafford",
+      "time": "0253724"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "Fire it."
+      ],
+      "speaker": "Cernan",
+      "time": "0253750"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "As you know it's a midcourse 2 SPS/G&N: 63153, plus 0.90, minus 0.21; 026:32:56.10; minus 0039.8, plus 0010.9, minus 0025.8; 099, 184, 359; apogee and perigee are NA.",
+        "0048.7, 0:4 - correction 0:07, 0044.0; sextant star is 45, 205.0 29.2.",
+        "The rest of the pad is NA."
+      ],
+      "speaker": "Duke",
+      "time": "0253752"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "For MCC-2, SPS/G&N: 63153, plus 0.90, minus 0.21; 026:32:56.10; minus 0039.8, plus 0010.9, minus 0025.8; 099, 184, 359; apogee and perigee are NA; burn time - or Delta-VT, rather, is 0048.7; burn time is 0:07, and 0044.0; sextant star is 45, 205.0 and 29.2."
+      ],
+      "speaker": "Cernan",
+      "time": "0253930"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That was a good readback, Gene-o.",
+        "Your set stars are Deneb and Vega: 148, 013 and 018; no ullage."
+      ],
+      "speaker": "Duke",
+      "time": "0254019"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Give me pitch and yaw again, please."
+      ],
+      "speaker": "Cernan",
+      "time": "0254035"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "013 and 018.",
+        "And you're going to be - In the burn attitude you're going to be looking at the Sun.",
+        "The Sun is 4 degrees off from the X-axis, and we think with this roll angle that the LM will block it out completely, though."
+      ],
+      "speaker": "Duke",
+      "time": "0254038"
+    },
+    {
+      "tokens": [
+        "Okey doke.",
+        "I've got Deneb and Vega at 148, 013, and 018; no ullage; and Roger on the Sun."
+      ],
+      "speaker": "Cernan",
+      "time": "0254101"
+    },
+    {
+      "tokens": [
+        "The PAD is interpreted as follows:Purpose:This PAD is for the final midcourse correction en route to the Moon.Systems:The burn will be made using the SPS (Service Propulsion System) engine under the control of the Guidance and Navigation system.CSM Weight (Noun 47):63,153 pounds (28,711 kg).Pitch and yaw trim (Noun 48):The SPS pitch trim is +0.9°, yaw trim -0.21°.",
+        "This is to aim the SPS engine's thrust through where they believe the centre-of-gravity of the spacecraft to be.",
+        "As consumable levels change, the guidance system will automatically adjust these trim angles during a long burn.Time of ignition, TIG(Noun 33):26 hours, 32 minutes, 56.10 seconds.Change in velocity (Noun 81), fps (m/s):X, -39.8 (12.1); Y, +10.9 (3.3); Z, -25.8 (7.8).",
+        "The change in velocity is resolved into three components expressed relative to the local vertical frame of reference.",
+        "As they are now in the Moon's sphere, the local vertical is with respect to the Moon; that is, relative to a vertical drawn between the spacecraft and the Moon's centre.Spacecraft attitude:Roll, 99°; Pitch, 184°; Yaw, 359°.",
+        "The desired spacecraft attitude is measured relative to the alignment of the guidance platform.HA, expected apocynthion of resulting orbit (Noun 44):Not applicable.",
+        "The trajectory being modified has no sensible apocynthion, at least in terms of the computer.HP, expected pericynthion of resulting orbit (Noun 44):61.8 nautical miles (114.4 km).",
+        "This will be their altitude at closest approach according to the trajectory resulting from this burn.",
+        "When they reach this point, they will make their first LOI burn to place them into lunar orbit.Delta-VT:48.7 fps (14.8 m/s).",
+        "This is the total change in velocity the spacecraft would experience.",
+        "(It is a vector sum of the three components given above.)Burn duration or burn time:7 seconds.Delta-VC:44.0 fps (13.4 m/s).",
+        "This value is entered into the Delta-V display of the EMS (Entry Monitor System) panel.",
+        "They will watch this figure descend to zero as the SPS engine fires, giving them a confirmation of the burn's progress.Sextant star:Star 45 (Fomalhaut) visible in sextant when shaft and trunnion angles are 205.0° and 29.2° respectively.",
+        "This is part of an attitude check.GDC Align stars:Stars to be used for GDC Align purposes are Deneb and Vega.",
+        "This would be used in the event that the IMU could not be used for aligning the gyro assemblies.",
+        "The spacecraft would be manoeuvred so that the two stars could be viewed in the scanning telescope in a certain configuration.",
+        "On achieving this, the spacecraft would be in a known attitude, the same one given in the PAD, allowing the GDC to be manually aligned.GDC Align angles:The align angles are roll, 148°; pitch, 13°; yaw, 18°.Additional notes are that the crew won't need to make an ullage burn to settle the propellants because the tanks are full.",
+        "Also, the rendezvous windows will be looking towards the Sun but the LM will act as a sunshade."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0254107"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Houston, 10.",
+        "I have one other question."
+      ],
+      "speaker": "Stafford",
+      "time": "0254111"
+    },
+    {
+      "tokens": [
+        "Go ahead, 10."
+      ],
+      "speaker": "Duke",
+      "time": "0254113"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Okay, Charlie.",
+        "You know in the Flight Plan we penciled in that if we did this correction we'd trim plus-X to two-tenths of a foot per second if the residual was less than 2 feet per second.",
+        "You still want that to go?"
+      ],
+      "speaker": "Stafford",
+      "time": "0254115"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Duke",
+      "time": "0254127"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Stafford",
+      "time": "0254130"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0254132"
+    },
+    {
+      "tokens": [
+        "10, We've got your state vector and the target load in, and we're doing the PIPA bias now."
+      ],
+      "speaker": "Duke",
+      "time": "0254145"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "0254153"
+    },
+    {
+      "tokens": [
+        "Hello, Charlie Brown.",
+        "This is Houston.",
+        "Your High Gain angles for in the burn attitude will be yaw of 180, pitch of minus 55."
+      ],
+      "speaker": "Duke",
+      "time": "0254249"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 25 hours, 44 minutes.",
+        "This midcourse burn..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, 10.",
+        "Houston.",
+        "We got the load in.",
+        "The computer is yours."
+      ],
+      "speaker": "Duke",
+      "time": "0254410"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Going to Block."
+      ],
+      "speaker": "Stafford",
+      "time": "0254416"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And..."
+      ],
+      "speaker": "Duke",
+      "time": "0254418"
+    },
+    {
+      "tokens": [
+        "And - Go ahead."
+      ],
+      "speaker": "Stafford",
+      "time": "0254419"
+    },
+    {
+      "tokens": [
+        "Roger, Tom.",
+        "I cut you out, there.",
+        "Did you copy the High Gain Antenna angles for the burn attitude?"
+      ],
+      "speaker": "Duke",
+      "time": "0254420"
+    },
+    {
+      "tokens": [
+        "Roger, Charlie.",
+        "We sure did.",
+        "And I'm going to go ahead to the P30 and P40 so we can do the star sextant check, and then we'll swap seats for the burn."
+      ],
+      "speaker": "Stafford",
+      "time": "0254427"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0254436"
+    },
+    {
+      "tokens": [
+        "[Garble."
+      ],
+      "speaker": "Stafford",
+      "time": "0254437"
+    },
+    {
+      "tokens": [
+        "Hello, 10.",
+        "Houston.",
+        "Hey, when you guys get to burn attitude, if you'll take the sextant to a shaft of 161.5 and a trunnion of 032.1 you should see the S-IVB.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0254514"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That was a shaft of 161.5 and 032.1 on trunnion."
+      ],
+      "speaker": "Cernan",
+      "time": "0254536"
+    },
+    {
+      "tokens": [
+        "Affirmative."
+      ],
+      "speaker": "Duke",
+      "time": "0254541"
+    },
+    {
+      "tokens": [
+        "How far away do you suppose it is?"
+      ],
+      "speaker": "Cernan",
+      "time": "0254545"
+    },
+    {
+      "tokens": [
+        "We didn't get that number; hold on, Gene.",
+        "It'll take us a minute or two."
+      ],
+      "speaker": "Duke",
+      "time": "0254547"
+    },
+    {
+      "tokens": [
+        "At 25 hours, 46 minutes; distance is 107,845 nautical miles [199,728 km], velocity; 5,176 feet per second [1,578 metres per second].",
+        "Weight; 93,872 pounds [42,677 kg].",
+        "This midcourse burn planned for 26 hours, 32 minutes, 56 seconds."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, 10.",
+        "Houston.",
+        "The FIDO's, say that the S-IVB should be 1,680 miles away - that's nautical."
+      ],
+      "speaker": "Duke",
+      "time": "0254651"
+    },
+    {
+      "tokens": [
+        "1,680.",
+        "Roger.",
+        "That's a long way."
+      ],
+      "speaker": "Cernan",
+      "time": "0254702"
+    },
+    {
+      "tokens": [
+        "Sure is."
+      ],
+      "speaker": "Duke",
+      "time": "0254705"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're starting the Auto maneuver to the burn attitude."
+      ],
+      "speaker": "Stafford",
+      "time": "0254712"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0254716"
+    },
+    {
+      "tokens": [
+        "This midcourse will be a duration of 7 seconds; a change in the velocity of 48.7 feet per second [14.85 metres per second]; we'll be posigrade and out of plane to the right.",
+        "Toward the Sun - first part of the maneuvers that will bring Apollo 10 into the proper inclination to cross the lunar equator on the same ground track that Apollo 11 will follow."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "Apollo 10."
+      ],
+      "speaker": "Stafford",
+      "time": "0254839"
+    },
+    {
+      "tokens": [
+        "Go ahead, 10."
+      ],
+      "speaker": "Duke",
+      "time": "0254841"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "Since we used bank A on the first separation maneuver, we assume you want us to start this with bank B.",
+        "And then do you want us to open both banks after 3 seconds?",
+        "Over."
+      ],
+      "speaker": "Stafford",
+      "time": "0254844"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0254854"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0254857"
+    },
+    {
+      "tokens": [
+        "10, this is Houston.",
+        "We'd like you to start on bank Bravo and put bank Alpha in at 3 second."
+      ],
+      "speaker": "Duke",
+      "time": "0254918"
+    },
+    {
+      "tokens": [
+        "Almost all of the SPS systems were duplicated to provide redundancy.",
+        "The two separate redundant control and plumbing systems serving the SPS engine are known as bank A and bank B.",
+        "The SPS can be operated with either.",
+        "If required the engine could start using one bank and the other could be introduced once the engine had settled from its start-up transients.",
+        "Stafford is confirming with MCC that as the spacecraft/S-IVB separation manoeuvre was performed using bank A.",
+        "Therefore it is preferable to test bank B during the upcoming translunar mid-course correction.",
+        "Duke confirms that that is exactly what they want the crew to do, introducing the bank A systems 3 seconds into the 7-second burn, to provide a further layer of redundancy should bank B fail."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Roger.",
+        "That's what we thought; just wanted to reconfirm."
+      ],
+      "speaker": "Stafford",
+      "time": "0254929"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Tom.",
+        "And we'd like you to discontinue charging battery B at 26 hours."
+      ],
+      "speaker": "Duke",
+      "time": "0254933"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "At 26 hours."
+      ],
+      "speaker": "Stafford",
+      "time": "0254940"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The CM entry and post landing battery B has been recharged to its maximum capacity of 45 ampere hours.",
+        "Each of the three CM entry and post landing batteries are recharged in sequence throughout the mission."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello.",
+        "Houston, Apollo 10."
+      ],
+      "speaker": "Young",
+      "time": "0255851"
+    },
+    {
+      "tokens": [
+        "Go, 10."
+      ],
+      "speaker": "Duke",
+      "time": "0255853"
+    },
+    {
+      "tokens": [
+        "Hey, we've finally got a good view of the Moon."
+      ],
+      "speaker": "Young",
+      "time": "0255856"
+    },
+    {
+      "tokens": [
+        "Hey!",
+        "Roger.",
+        "That waxing crescent there is not very much, but glad you see it."
+      ],
+      "speaker": "Duke",
+      "time": "0255859"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "We can see the sunlight and, also, we can see - Actually, we can see the other part of the Moon in the earthshine."
+      ],
+      "speaker": "Stafford",
+      "time": "0255905"
+    },
+    {
+      "tokens": [
+        "Good.",
+        "Can you..."
+      ],
+      "speaker": "Duke",
+      "time": "0255911"
+    },
+    {
+      "tokens": [
+        "Nice to know where we're going."
+      ],
+      "speaker": "Stafford",
+      "time": "0255915"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Can you pick out any landmarks?"
+      ],
+      "speaker": "Duke",
+      "time": "0255916"
+    },
+    {
+      "tokens": [
+        "No.",
+        "Not from this distance.",
+        "We've got a lot of reflected light coming off of the LM, Charlie."
+      ],
+      "speaker": "Stafford",
+      "time": "0255920"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0255926"
+    },
+    {
+      "tokens": [
+        "But it does look bigger, Charlie."
+      ],
+      "speaker": "Cernan",
+      "time": "0255927"
+    },
+    {
+      "tokens": [
+        "Yes I bet it does."
+      ],
+      "speaker": "Duke",
+      "time": "0255929"
+    },
+    {
+      "tokens": [
+        "Looks bigger than it did."
+      ],
+      "speaker": "Stafford",
+      "time": "0255931"
+    },
+    {
+      "tokens": [
+        "Hey, I keep cutting you guys out.",
+        "I'm sorry."
+      ],
+      "speaker": "Duke",
+      "time": "0255936"
+    },
+    {
+      "tokens": [
+        "It's amazing to see how much of it you can see in earthshine."
+      ],
+      "speaker": "Stafford",
+      "time": "0255942"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0255946"
+    },
+    {
+      "tokens": [
+        "And the whole back side of it is lit by earthshine.",
+        "It looks like it's a full, full Moon from earthshine."
+      ],
+      "speaker": "Young",
+      "time": "0255949"
+    },
+    {
+      "tokens": [
+        "You know, as the Earth gets smaller, it's sure nice to be able to see where you're going."
+      ],
+      "speaker": "Cernan",
+      "time": "0255956"
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-19."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "I guess it is pretty comforting.",
+        "Well, we've got you pretty close.",
+        "After this midcourse, we will have a perigee of about 58 miles."
+      ],
+      "speaker": "Duke",
+      "time": "0260001"
+    },
+    {
+      "tokens": [
+        "But in relative ratio, it hasn't gotten that much bigger as the Earth has gotten that much smaller."
+      ],
+      "speaker": "Stafford",
+      "time": "0260016"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0260022"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At 26 hours, 4 minutes; Apollo 10 distance is 108,727 nautical miles [201,361 km], velocity is 5,144 feet per second [1,568 metres per second]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston.",
+        "Is the Sun bothering you in this attitude?"
+      ],
+      "speaker": "Duke",
+      "time": "0260425"
+    },
+    {
+      "tokens": [
+        "Not yet.",
+        "We're just about to finish the roll maneuver in about 20 more degrees, and I can't see that it is.",
+        "I think you did a good job of blocking it out - the Sun with the LM."
+      ],
+      "speaker": "Stafford",
+      "time": "0260431"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0260441"
+    },
+    {
+      "tokens": [
+        "Looks like we're going to be able to see stars, because the LM is shielding us from the Sun."
+      ],
+      "speaker": "Young",
+      "time": "0260442"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Good."
+      ],
+      "speaker": "Duke",
+      "time": "0260446"
+    },
+    {
+      "tokens": [
+        "Tom Stafford reported the crew got its first good view of the moon at an elapsed time of 25 hours 58 minutes.",
+        "The display which shows distance was not being generated at that time, but the distance at that time was approximately 108,600 nautical miles [201,126 km].",
+        "Gene Cernan reported the Moon looks bigger from that distance."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "10."
+      ],
+      "speaker": "Stafford",
+      "time": "0260606"
+    },
+    {
+      "tokens": [
+        "Go ahead, 10."
+      ],
+      "speaker": "Duke",
+      "time": "0260609"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I can see the stars real great out my side window.",
+        "I've got Sirius out my, side window, but even out through the rendezvous window - I can look up there - and I've got Orion and Rigel, there."
+      ],
+      "speaker": "Stafford",
+      "time": "0260612"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Boy, old Snoop really - when he's - the Sun's on the side.",
+        "We really must block it all out."
+      ],
+      "speaker": "Duke",
+      "time": "0260623"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "And I've got the Moon right up above the X-axis, now.",
+        "It's a beautiful sight."
+      ],
+      "speaker": "Stafford",
+      "time": "0260631"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We envy you."
+      ],
+      "speaker": "Duke",
+      "time": "0260635"
+    },
+    {
+      "tokens": [
+        "Hello, Charlie Brown.",
+        "Houston.",
+        "We'd like you to discontinue battery B charge now."
+      ],
+      "speaker": "Duke",
+      "time": "0260716"
+    },
+    {
+      "tokens": [
+        "Roger, Charlie, Thank you."
+      ],
+      "speaker": "Cernan",
+      "time": "0260724"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "Charlie Brown.",
+        "On that trunnion for the S-IVB, was that 32.1 or 3.21?"
+      ],
+      "speaker": "Cernan",
+      "time": "0261247"
+    },
+    {
+      "tokens": [
+        "It was 32.1, 10."
+      ],
+      "speaker": "Duke",
+      "time": "0261259"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0261303"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "The star check went good, and I've moved to the center seat.",
+        "John's moved to the left seat."
+      ],
+      "speaker": "Stafford",
+      "time": "0261345"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0261353"
+    },
+    {
+      "tokens": [
+        "[Garble] was just about a half of a degree off."
+      ],
+      "speaker": "Cernan",
+      "time": "0261354"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "We copy."
+      ],
+      "speaker": "Duke",
+      "time": "0261358"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 26 hours, 19 minutes.",
+        "Apollo l0's distance from the Earth is now 109,468 nautical miles [202,734 km]; velocity is 5,118 feet per second [1,565 metres per second].",
+        "Spacecraft weight is 93,872 pounds [42,677 kg].",
+        "We are 13 minutes, 26 seconds away from the midcourse correction."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Coming up on 10 minutes."
+      ],
+      "speaker": "Stafford",
+      "time": "0262057"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Stafford",
+      "time": "0262059"
+    },
+    {
+      "tokens": [
+        "Ten minutes to the burn, and we're in attitude all squared away, Houston."
+      ],
+      "speaker": "Stafford",
+      "time": "0262100"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0262104"
+    },
+    {
+      "tokens": [
+        "Hello.",
+        "Apollo 10, Houston, We'd like to get a time hack with you.",
+        "We're counting down to the burn, and we show 11 minutes, 25 seconds."
+      ],
+      "speaker": "Duke",
+      "time": "0262125"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Duke",
+      "time": "0262132"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Our event timer may have goofed up on us a little bit."
+      ],
+      "speaker": "Stafford",
+      "time": "0262139"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We showed you load the proper take time of 26:32:56.10."
+      ],
+      "speaker": "Duke",
+      "time": "0262143"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "That's what we - we set our event timer at 47 minutes from event counting down."
+      ],
+      "speaker": "Stafford",
+      "time": "0262153"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I can give you a hack at 10 45."
+      ],
+      "speaker": "Duke",
+      "time": "0262205"
+    },
+    {
+      "tokens": [
+        "Okay, The event timer jumped 2 minutes on us some way."
+      ],
+      "speaker": "Stafford",
+      "time": "0262210"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0262214"
+    },
+    {
+      "tokens": [
+        "We were all right on, the seconds."
+      ],
+      "speaker": "Stafford",
+      "time": "0262215"
+    },
+    {
+      "tokens": [
+        "Coming up on 10:30, Tom.",
+        "I'll give you a Mark."
+      ],
+      "speaker": "Duke",
+      "time": "0262221"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Duke",
+      "time": "0262227"
+    },
+    {
+      "tokens": [
+        "10:30."
+      ],
+      "speaker": "Duke",
+      "time": "0262228"
+    },
+    {
+      "tokens": [
+        "Charlie, you give us another hack in 10 minutes so we can set our timer."
+      ],
+      "speaker": "Cernan",
+      "time": "0262232"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0262235"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "Passing 10:05.",
+        "Stand by for a Mark at 10 minutes."
+      ],
+      "speaker": "Duke",
+      "time": "0262250"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Duke",
+      "time": "0262257"
+    },
+    {
+      "tokens": [
+        "Ten minutes."
+      ],
+      "speaker": "Duke",
+      "time": "0262258"
+    },
+    {
+      "tokens": [
+        "We're synched."
+      ],
+      "speaker": "Stafford",
+      "time": "0262302"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0262303"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 26 hours, 30 minutes.",
+        "Distance is now 110,000 miles [204,000 km].",
+        "Velocity; 5,099 feet per second [1,554 metres per second].",
+        "We're 2 minutes, 36 seconds from the midcourse maneuver."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Coming up on 2 minutes.",
+        "Going to Normal on bank B."
+      ],
+      "speaker": "Cernan",
+      "time": "0263050"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Duke",
+      "time": "0263054"
+    },
+    {
+      "tokens": [
+        "- 30 seconds.",
+        "Engine on; it looks good."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Burn is complete."
+      ],
+      "speaker": "Stafford",
+      "time": "0263312"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Duke",
+      "time": "0263313"
+    },
+    {
+      "tokens": [
+        "And I'm going to proceed to [garble]."
+      ],
+      "speaker": "Stafford",
+      "time": "0263317"
+    },
+    {
+      "tokens": [
+        "Roger, Tom.",
+        "Burn looks good to us."
+      ],
+      "speaker": "Duke",
+      "time": "0263320"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "There's plus X and minus nine-tenths.",
+        "I'm going to ullage it back to two-tenths."
+      ],
+      "speaker": "Stafford",
+      "time": "0263323"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0263327"
+    },
+    {
+      "tokens": [
+        "There's two-tenths."
+      ],
+      "speaker": "Stafford",
+      "time": "0263343"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0263346"
+    },
+    {
+      "tokens": [
+        "Residuals: minus two-tenths, zero, and plus three-tenths."
+      ],
+      "speaker": "Stafford",
+      "time": "0263350"
+    },
+    {
+      "tokens": [
+        "These are the residual velocities in all three axis following the midcourse correction."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Beautiful."
+      ],
+      "speaker": "Duke",
+      "time": "0263352"
+    },
+    {
+      "tokens": [
+        "Proceeding."
+      ],
+      "speaker": "Stafford",
+      "time": "0263355"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0263356"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "It looked really good to us.",
+        "One question: could you guys feel the second bank coming in?"
+      ],
+      "speaker": "Duke",
+      "time": "0263419"
+    },
+    {
+      "tokens": [
+        "I didn't feel it, as a matter of fact."
+      ],
+      "speaker": "Young",
+      "time": "0263430"
+    },
+    {
+      "tokens": [
+        "The SPS burn was commenced on control and plumbing system bank B with bank A being introduced after 3 seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The targeting for this midcourse correction was based on a preflight consideration to have the orbit inclination such that the Lunar Module approach azimuth to the landing site would be very close to that for the first lunar landing.",
+        "The translunar injection targeting, however, was still optimum for the Earth-Moon geometry and launch-window constraints imposed by the May 18th launch date.",
+        "A resulting pericynthion altitude of 60.9 miles (112.8km) was indicated for the executed 49.2 ft/sec (15 m/sec) firing.",
+        "The manoeuvre results indicate that an adjustment of 0.39 ft/sec (0.12 m/sec) would have been required to attain the desired nodal position at the Moon and 0.14 ft/sec (0.04 m/sec) to correct the perilune altitude error."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0263436"
+    },
+    {
+      "tokens": [
+        "I was busy turning it on.",
+        "I really didn't check the chamber pressure too well.",
+        "It looked like it jumped a little."
+      ],
+      "speaker": "Young",
+      "time": "0263438"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0263443"
+    },
+    {
+      "tokens": [
+        "About 4 psi.",
+        "Our Delta-VCon that was minus 4.4."
+      ],
+      "speaker": "Young",
+      "time": "0263445"
+    },
+    {
+      "tokens": [
+        "When the second bank is brought into play, the pressure in the SPS combustion chamber rises a little as propellant has a slightly easier route to the injector.",
+        "John Young believes he saw the meter displaying chamber pressure rise by about 4 psi.",
+        "Meanwhile, the reading on the EMS display has overshot by 4.4 feet per second.",
+        "The EMS was a backup method of shutting down the engine.",
+        "It should have reached zero at the same moment the shutdown command was given.",
+        "The overshoot then roughly represents the added velocity imparted by the thrust tailing off.",
+        "This is why Delta-VCis always less than Delta-VT."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Copy."
+      ],
+      "speaker": "Duke",
+      "time": "0263454"
+    },
+    {
+      "tokens": [
+        "Charlie, the fuel remaining is 99.4 [per cent].",
+        "Oxidizer is 98.0 [per cent], and the PUGS meter bounced around quite a bit and ended up at 400 [lbs] [182 kg] Decrease."
+      ],
+      "speaker": "Cernan",
+      "time": "0263459"
+    },
+    {
+      "tokens": [
+        "Any deviation from the nominal oxidizer to fuel ratio (1.6:1 by mass) is displayed by the Unbalance indicator in pounds.",
+        "The upper half of the indicator is marked 'Inc' and the lower half is marked 'Dec' to identify the required change in oxidizer flow rate to correct any unbalance condition.",
+        "The marked or shaded area is a normal unbalance range area.",
+        "The crew can determine if a true unbalance of propellant remaining exists.",
+        "With the PUG mode switch in Prim or Norm, the crew display percentage readouts would not indicate the same percentage value and the unbalance meter would indicate the amount of unbalance in pounds.",
+        "To verify if a true unbalance condition exists, the PUG mode switch would be positioned to Aux.",
+        "If the crew display percentage readouts and the unbalance meter now read similar to the readouts when in PRIM, a true unbalance condition exists."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew display readouts and unbalance meter would not be considered accurate until the SPS engine is thrusting for at least 25 seconds.",
+        "This is to allow complete propellant settling in the SPS tanks before the gauging system is within its design accuracy."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy, Gene"
+      ],
+      "speaker": "Duke",
+      "time": "0263519"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And at 26 hours, 36 minutes; we are showing distance of 110,324 nautical miles [204,318 km].",
+        "Velocity; 5,105 feet per second [1,556 metres per second], and weight 93,419 pounds [42,471 kg].",
+        "And that midcourse correction was very successful - it'll give us a 58-nautical-mile [107.4 km] perigee."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "Apollo 10."
+      ],
+      "speaker": "Stafford",
+      "time": "0263830"
+    },
+    {
+      "tokens": [
+        "Go ahead, Apollo 10."
+      ],
+      "speaker": "Duke",
+      "time": "0263832"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Why don't we try to kill two birds with one stone?",
+        "Let's go ahead to the PTC attitude, and also we can get High Gain to the Earth and get a picture of the Earth with the TV as it comes up."
+      ],
+      "speaker": "Stafford",
+      "time": "0263835"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Will do.",
+        "We'll have the set angles for you in just a minute."
+      ],
+      "speaker": "Duke",
+      "time": "0263850"
+    },
+    {
+      "tokens": [
+        "And, Apollo 10, Houston.",
+        "We'd like to move the PAD updates down to about 27:45 so as not to interfere with the TV."
+      ],
+      "speaker": "Duke",
+      "time": "0263854"
+    },
+    {
+      "tokens": [
+        "And the indications from Tom Stafford are that he is going to turn the TV on earlier than scheduled the schedule called for it at an elapsed time of 27 hours, 15 minutes - but his remark seems to indicate that he will turn it on prior to that time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston."
+      ],
+      "speaker": "Duke",
+      "time": "0264054"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Stafford",
+      "time": "0264058"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "If you - When you go to the PTC, if you point it north, we can give you a set of angles that will give you the Earth through one window and the Moon through another."
+      ],
+      "speaker": "Duke",
+      "time": "0264059"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0264112"
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston.",
+        "We have some PTC [Passive Thermal Control] angles for you, and then some High Gain angles; and also we'd like for you to reinitiate battery B charge.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0264212"
+    },
+    {
+      "tokens": [
+        "This request is to reinstate the CM re-entry battery B charge."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by."
+      ],
+      "speaker": "Stafford",
+      "time": "0264222"
+    },
+    {
+      "tokens": [
+        "Go ahead with those angles."
+      ],
+      "speaker": "Young",
+      "time": "0264233"
+    },
+    {
+      "tokens": [
+        "Roger, John.",
+        "Roll 307, pitch 090, yaw 000 [PTC spacecraft attitude angles].",
+        "That places the Moon in window 5 and the Earth in window 1.",
+        "High Gain Antenna: pitch 005, yaw 265."
+      ],
+      "speaker": "Duke",
+      "time": "0264236"
+    },
+    {
+      "tokens": [
+        "Thanks much, Charlie."
+      ],
+      "speaker": "Young",
+      "time": "0264305"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0264307"
+    },
+    {
+      "tokens": [
+        "Houston, we get this hydrogen pressure light on hydrogen tank 1, which we heard we might get, and wonder if we hadn't ought to - It went back out - if we shouldn't maybe cycle the fans.",
+        "I guess they just cut in the heater itself Automatically."
+      ],
+      "speaker": "Young",
+      "time": "0264353"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0264413"
+    },
+    {
+      "tokens": [
+        "Looks like the heaters just came on automatically and are kicking it back up themselves."
+      ],
+      "speaker": "Young",
+      "time": "0264415"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0264419"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "We'd like to hold off cycling the fans and wait until our next scheduled time and see what happens."
+      ],
+      "speaker": "Duke",
+      "time": "0264453"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "The light just went back out.",
+        "I theorize that the heater may have come on and kicked it back within limits."
+      ],
+      "speaker": "Young",
+      "time": "0264505"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We concur."
+      ],
+      "speaker": "Duke",
+      "time": "0264511"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We concur."
+      ],
+      "speaker": "Duke",
+      "time": "0264513"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 10.",
+        "We're maneuvering into the new attitude now."
+      ],
+      "speaker": "Stafford",
+      "time": "0264924"
+    },
+    {
+      "tokens": [
+        "This is Houston.",
+        "Roger.",
+        "Out."
+      ],
+      "speaker": "Duke",
+      "time": "0264927"
+    },
+    {
+      "tokens": [
+        "And, Houston, Apollo 10.",
+        "How soon will you have the results of the midcourse we made?"
+      ],
+      "speaker": "Stafford",
+      "time": "0264935"
+    },
+    {
+      "tokens": [
+        "Apollo 10, this is Houston.",
+        "Superficially, the burn looked pretty good, but it will take about an hour for us to reduce the high-speed data.",
+        "Over.",
+        "And to get tracking."
+      ],
+      "speaker": "Duke",
+      "time": "0265008"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 26 hours, 51 minutes.",
+        "Apollo 10's distance from the Earth, 111,091 nautical miles [205,739 km].",
+        "Velocity 5,078 feet per second [1,548 metres per second].",
+        "Weight 93,419 pounds [42,471 kg]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Charlie, that's going to be a good attitude.",
+        "We got the Earth in the left window and the Moon in the right, but I don't think we'll ever see the Moon on TV.",
+        "It's just too thin and too dim."
+      ],
+      "speaker": "Cernan",
+      "time": "0265328"
+    },
+    {
+      "tokens": [
+        "This is Houston.",
+        "Roger.",
+        "Out."
+      ],
+      "speaker": "Duke",
+      "time": "0265339"
+    },
+    {
+      "tokens": [
+        "It looks like you've got a great attitude for the Earth.",
+        "I've got it out my left window.",
+        "It looks like the Gulf Coast is clear."
+      ],
+      "speaker": "Stafford",
+      "time": "0265347"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "The network down here is ready for the TV whenever you are.",
+        "I have an update to your PTC attitude mode, though."
+      ],
+      "speaker": "McCandless",
+      "time": "0265354"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Stafford",
+      "time": "0265406"
+    },
+    {
+      "tokens": [
+        "Okay, Bruce.",
+        "Go ahead with that new attitude."
+      ],
+      "speaker": "Stafford",
+      "time": "0265512"
+    },
+    {
+      "tokens": [
+        "Stand by one, Tom."
+      ],
+      "speaker": "McCandless",
+      "time": "0265518"
+    },
+    {
+      "tokens": [
+        "Roger, Apollo 10.",
+        "Last night in your PTC mode, apparently you were bouncing off the edge of the yaw deadband, causing more thruster firing than we'd anticipated.",
+        "So, we've come up with a revised procedure which, we hope, will get the spacecraft settled down more smoothly into the PTC mode.",
+        "Basically, it follows the procedure on page Golf 1-94 of your checklist, except that you select 0.5-degree deadband.",
+        "And then I have some thruster configurations for you.",
+        "Are you ready to copy?"
+      ],
+      "speaker": "McCandless",
+      "time": "0265533"
+    },
+    {
+      "tokens": [
+        "The Passive Thermal Control (PTC) mode was used to ensure the spacecraft was evenly exposed to the Sun, by rolling it along its long axis whilst it was oriented side on to the Sun.",
+        "To enter PTC the crew used program P20 in the CMC (Command Module Computer).",
+        "P20 is known as the Universal Tracking program which can be used to control the CSM attitude/optics or attitude rates in one of the following five situations:Option 0- Point the spacecraft towards the LM without constraining rotation, so that the LM can be acquired in the sextants field of view and also to point the CSM radar transponder at the LM during rendezvous.Option 1- Point the spacecraft at a specified celestial body (i.e.",
+        "Earth, a planet or a star) without constraining rotation.Option 2- Perform the rotation of the spacecraft about a specified vector at a specified rate, beginning at a specified time.",
+        "This option is used to commence PTC or initiate pitcher for landmark tracking.Option 4- Point the spacecraft towards the LM whilst constraining rotation, so that the LM can be acquired in the sextants field of view and also to point the CSM radar transponder at the LM during rendezvous.Option 5- Point the spacecraft at a specified celestial body (i.e.",
+        "Earth, a planet or a star) whilst constraining rotation.P20 can also be used to update the CSM or LM state vector using optical tracking data and/or VHF ranging data (Options 0 and 4 above only)."
+      ],
+      "speaker": "Commentary",
+      "time": "ptcinit"
+    },
+    {
+      "tokens": [
+        "Below is some detail on how the CMC was used to initiate PTC.The rotational hand controller (RHC) was locked and the RCS digital Autopilot (DAP) was activated.",
+        "Using the DSKY computer keyboard and display, the crew (usually the CMP) would key the following commands:Verb 48 Enter (request DAP data load routine R03), select a 0.5 deg deadband.Verb 37 Enter (change program) Noun 00 Enter (which program to go to, in this case P00).Verb 49 Enter (start Automatic attitude maneuver).A flashing Verb 06 (display decimal in R1 or R1 & R2 or R1, R2 & R3) Noun 22 (desired ICDU (Inertial Coupling Data Unit) angles) would be displayed.",
+        "The crewman would enter the desired Roll, Pitch and Yaw angles, usually Roll - present attitude, Pitch - 90 deg (during TLC) or 270 deg (during TEC), Yaw - 0 deg.",
+        "They would then press the PRO key.A flashing Verb 50 (please perform) Noun 18 (Auto maneuver) would be displayed.The three BMAG (body mounted attitude gyro) switches would be placed in the RATE 2 position.",
+        "This cages the three gyros.BMAG (Body Mounted Attitude Gyro) mode switches - Panel 1The SC Cont (spacecraft control) switch would be placed in the CMC position, so that the computer is controlling the attitude and attitude rates.Spacecraft Control switch - Panel 1The CMC Mode (Command Module Computer) switch would be placed in the Auto position.",
+        "This blocks any external inputs (discretes) to the CMC.",
+        "They would then press the PRO key.Verb 06 (display decimal in R1 or R1 & R2 or R1, R2 & R3) Noun 18 (Auto maneuver) displays the resultant attitude following the Auto maneuver.This would be followed by a flashing Verb 50 (please perform) Noun 18 (Auto maneuver).The Enter key would now be pressed to perform the Auto maneuver to the PTC attitude.In the air to ground instruction below the crew is being asked at this point in the procedure disable all of the RCS jets on RCS quadrants Charlie and Delta using the Auto RCS SEL switches.Locations of the RCS thrusters on the CSMAuto RCS Select switches - Panel 8After a 20-minute wait to let any attitude excursion rates to damp out, MCC-H request that the crew switch the Manual Attitude, Pitch and Yaw switches to Accel CMD, to allow manual control of the pitch and yaw RCS and also to inhibit uncaging of BMAG gyro.Manual Attitude switches - Panel 1All RCS jets would then be enabled using the Auto RCS SEL switches shown above.Verb 37 Enter (change program) Noun 20 Enter (which program to go to, in this case P20)A flashing Verb 04 (display octal components 1 and 2 in register R1 & R2) Noun 06 (display option ID code in register R1 and the option code in register R2) would be displayed.",
+        "The option ID code in this instance was 00024 - specify P20 mode, and the option code was 00002 - Rotation PTC (see options above).",
+        "The crewman would select Verb 22 Enter (load component 2 into R2) and type in the option code 2.",
+        "They would press the PRO (proceed) key to command the CMC to undertake the previously entered commands.A flashing Verb 06 (display decimal in R1 or R1 & R2 or R1, R2 & R3) Noun 78 (R1 Gamma, R2 Rho (Gamma and Rho are both rotational coordinates of the desired pointing axis or axis of rotation), R3 Omicron (an attitude constraint about the pointing vector for three axis options 4 & 5, ignored when initiating PTC).",
+        "The crewman would select Verb 25 Enter (load components 1, 2 & 3 into R1, R2 & R3) and type in the desired PTC pointing coordinates, R1 000.00 (deg), R2 000.00 (deg).",
+        "They would then press the PRO key.A flashing Verb 06 (display decimal in R1 or R1 & R2 or R1, R2 & R3) Noun 79 (R1 P20 rotational rate (X.XXXX°/sec), R2 P20 deadband (XXX.XX°), R3 blank).",
+        "The crewman would select Verb 24 Enter (load components 1 & 2 into R1 & R2) and type in the desired rotational rate 0.3000°/sec and the deadband (angular limits) 000.50 deg as specified by Mission Control (MCC-H).",
+        "They would then press the PRO key.A flashing Verb 06 (display decimal in R1 or R1 & R2 or R1, R2 & R3) Noun 34 (time of event R1 - XXX hrs , R2 - XX mins, R3 - XX.XX secs).",
+        "The crewman would select Verb 25 Enter (load components 1, 2 & 3 into R1, R2 & R3) and type in the desired GET time for the start of the PTC.",
+        "They would then press the PRO key.Once the desired roll rate had been established the Manual Attitude, Roll switch to Accel CMD to allow the manual control of the roll RCS.These procedures were refined for later Apollo lunar missions."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead."
+      ],
+      "speaker": "Young",
+      "time": "0265616"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "After you get through the Enter at the end of flashing [Verb] 50 [Noun] 18 in the checklist, we'd like you to disable all jets on quads Charlie and Delta using the Auto RCS Select switches.",
+        "Wait 20 minutes; then switch Manual Attitude Pitch and Yaw Acceleration Command mode, and enable all jets using the Auto RCS switches.",
+        "Initiate your desired roll rate, which we show as three-tenths of a degree per second, and then, when roll rate is attained, go to Accel Command in roll.",
+        "Increase the deadband to the desired value; Manual Attitude Pitch and Yaw Rate Command of 30 degrees deadband.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0265618"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You said after you do the interim at 50 18, disable Charlie and Delta jets with Auto RCS switches.",
+        "Then wait 20 minutes, go to Manual Attitude Pitch and Yaw Accel Command, and enable all the jets.",
+        "Initiate your three-tenths of a degree per second roll rate, and then go Accel Command in roll and Manual Attitude Rate Command in pitch and yaw.",
+        "Was that what you said there, Bruce?"
+      ],
+      "speaker": "Young",
+      "time": "0265740"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's what I said."
+      ],
+      "speaker": "McCandless",
+      "time": "0265820"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "Say again."
+      ],
+      "speaker": "McCandless",
+      "time": "0265847"
+    },
+    {
+      "tokens": [
+        "Could you - Why don't you explain what we're doing here?"
+      ],
+      "speaker": "Young",
+      "time": "0265854"
+    },
+    {
+      "tokens": [
+        "[Laughter.] Okay, We're trying to get you set up in a stable position and all damped out and then initiate, very carefully and slowly, PTC and then open up deadband.",
+        "We hope this will cut down on the thruster firing and keep you from bouncing off the side of the Yaw Deadband with more thruster firings and consequent noise and vibrations than you had last night."
+      ],
+      "speaker": "McCandless",
+      "time": "0265900"
+    },
+    {
+      "tokens": [
+        "I got you."
+      ],
+      "speaker": "Young",
+      "time": "0265931"
+    },
+    {
+      "tokens": [
+        "And..."
+      ],
+      "speaker": "McCandless",
+      "time": "0265936"
+    },
+    {
+      "tokens": [
+        "...But you [garble]."
+      ],
+      "speaker": "Young",
+      "time": "0265938"
+    },
+    {
+      "tokens": [
+        "Go ahead, 10."
+      ],
+      "speaker": "McCandless",
+      "time": "0265942"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "John's copying that down, and we've got the tube locked onto Earth."
+      ],
+      "speaker": "Stafford",
+      "time": "0265947"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "But really what we're trying to do here is just get the thing real stable before we start, and then we're going to a 30 degree deadband just like before.",
+        "Right?"
+      ],
+      "speaker": "Cernan",
+      "time": "0265952"
+    },
+    {
+      "tokens": [
+        "That's right."
+      ],
+      "speaker": "McCandless",
+      "time": "0265959"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0270001"
+    },
+    {
+      "tokens": [
+        "And, down there on steps E and F: you can go into Manual Attitude Roll Accel Command in order to initiate your roll rate, if you like."
+      ],
+      "speaker": "McCandless",
+      "time": "0270005"
+    },
+    {
+      "tokens": [
+        "MCC-H is also suggesting if the crew wishes they could set the Manual Attitude, Roll switch to Accel CMD at the same time as the set the pitch and roll switches prior to initiating the roll rate.",
+        "See above description of PTC intimation procedure."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You've got the TV coming at you, now."
+      ],
+      "speaker": "Cernan",
+      "time": "0270028"
+    },
+    {
+      "tokens": [
+        "I don't show it on the color yet.",
+        "Let me check it out on the black and white monitor."
+      ],
+      "speaker": "McCandless",
+      "time": "0270031"
+    },
+    {
+      "tokens": [
+        "We'll have a picture very shortly."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're seeing the Earth on the black and white.",
+        "It's filling up about one-third of the screen vertically.",
+        "Looking good.",
+        "Okay.",
+        "You're on the color now and looking beautiful."
+      ],
+      "speaker": "McCandless",
+      "time": "0270041"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We've got the North Pole over to the upper right-hand corner - the right-hand edge of our screen.",
+        "Do you have a commentary from up there.",
+        "10."
+      ],
+      "speaker": "McCandless",
+      "time": "0270116"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Okay.",
+        "It looks like the North Pole and most of Russia is covered with clouds.",
+        "The United States is pretty much wide open.",
+        "In fact, the solar subpoint is right over the Gulf of Mexico now."
+      ],
+      "speaker": "Stafford",
+      "time": "0270125"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "Could you give us narrow beam on the High Gain Antenna?"
+      ],
+      "speaker": "McCandless",
+      "time": "0270139"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "I've got the full zoom on it, so you can see we're quite a bit further away today than we were yesterday."
+      ],
+      "speaker": "Stafford",
+      "time": "0270200"
+    },
+    {
+      "tokens": [
+        "Yes, indeed."
+      ],
+      "speaker": "McCandless",
+      "time": "0270207"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "What you see there - What you see there is a little bigger than we actually see it, since I have the full zoom on it.",
+        "If you look to the south, you can see all of South America there, and west of the Andes is clear."
+      ],
+      "speaker": "Stafford",
+      "time": "0270208"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0270223"
+    },
+    {
+      "tokens": [
+        "And in the tropical rain forest over Venezuela and Brazil and Columbia you can see the clouds that hang over there all the time.",
+        "I noticed how clear it is west of the Andes."
+      ],
+      "speaker": "Stafford",
+      "time": "0270228"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We can see that on the left of our screen.",
+        "The landmasses don't seem to stand out quite as clearly today as they did yesterday."
+      ],
+      "speaker": "McCandless",
+      "time": "0270239"
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "A lot of it is the cloud cover, and also you can see night-time moving over Europe now."
+      ],
+      "speaker": "Stafford",
+      "time": "0270251"
+    },
+    {
+      "tokens": [
+        "You've got a real weird cloud formation coming around down - just a minute.",
+        "Let me get it focused."
+      ],
+      "speaker": "Stafford",
+      "time": "0270302"
+    },
+    {
+      "tokens": [
+        "It's a real peculiar-looking cloud swirl.",
+        "It comes off of what looks like Labrador and goes all the way across the ocean into Europe."
+      ],
+      "speaker": "Young",
+      "time": "0270346"
+    },
+    {
+      "tokens": [
+        "I'm having a little harder time holding it today because of the narrow beam that we have with the zoom lens.",
+        "We're out at maximum zoom now."
+      ],
+      "speaker": "Stafford",
+      "time": "0270404"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It's coming very nicely here.",
+        "Would you confirm you are in the Exterior on ALC?"
+      ],
+      "speaker": "McCandless",
+      "time": "0270412"
+    },
+    {
+      "tokens": [
+        "Right.",
+        "We're Exterior on ALC."
+      ],
+      "speaker": "Stafford",
+      "time": "0270420"
+    },
+    {
+      "tokens": [
+        "ALC-Automatic Light Correction.",
+        "The Exterior setting would be optimum for views outside the spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "McCandless",
+      "time": "0270423"
+    },
+    {
+      "tokens": [
+        "I'll open it up to about a 55 millimeter and show you exactly how it appears to us."
+      ],
+      "speaker": "Stafford",
+      "time": "0270424"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're..."
+      ],
+      "speaker": "McCandless",
+      "time": "0270428"
+    },
+    {
+      "tokens": [
+        "Sure are a lot of clouds down there today."
+      ],
+      "speaker": "Stafford",
+      "time": "0270429"
+    },
+    {
+      "tokens": [
+        "We are standing by for your zoom - out to show us the relative size as it appears to you."
+      ],
+      "speaker": "McCandless",
+      "time": "0270432"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Right.",
+        "Right there is about how the Earth appears to us now.",
+        "We've made a few miles since yesterday."
+      ],
+      "speaker": "Stafford",
+      "time": "0270438"
+    },
+    {
+      "tokens": [
+        "Yes, indeed.",
+        "Roger.",
+        "We show you about 115,000 nautical miles [213,000 km] out, here in our plots.",
+        "Looks like about halfway."
+      ],
+      "speaker": "McCandless",
+      "time": "0270455"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "How are the colors coming into today, Bruce?"
+      ],
+      "speaker": "Stafford",
+      "time": "0270510"
+    },
+    {
+      "tokens": [
+        "Oh, the colors are coming beautifully.",
+        "I'm amazed at the fidelity.",
+        "The sea seems to reproduce the same color from day to day, so it looks like you guys have a pretty stable piece of equipment."
+      ],
+      "speaker": "McCandless",
+      "time": "0270512"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Again, you can see Baja California coming in there just real clear, and the Rocky Mountains, particularly starting into Mexico going up through Colorado and Wyoming, are coming in."
+      ],
+      "speaker": "Stafford",
+      "time": "0270525"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I'm having a little difficulty picking out the landmasses down here today."
+      ],
+      "speaker": "McCandless",
+      "time": "0270536"
+    },
+    {
+      "tokens": [
+        "That's because of cloud cover.",
+        "It looks like broken clouds over the southeastern part of the United States.",
+        "Northeast has a little bit more.",
+        "Looks like Canada is all socked over today, and over that big cap that goes up over the North Pole and over to Russia it's just solid overcast."
+      ],
+      "speaker": "Stafford",
+      "time": "0270544"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We can pick up part of South America.",
+        "Must be the Andes, just above or just to the west of the terminator down in the southern portion of the globe."
+      ],
+      "speaker": "McCandless",
+      "time": "0270604"
+    },
+    {
+      "tokens": [
+        "Bruce, you should see all of North and South America from where you are.",
+        "We're going to zoom it in again here.",
+        "Show you a little bit closer."
+      ],
+      "speaker": "Cernan",
+      "time": "0270614"
+    },
+    {
+      "tokens": [
+        "That's maximum zoom right now on the camera."
+      ],
+      "speaker": "Cernan",
+      "time": "0270639"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0270645"
+    },
+    {
+      "tokens": [
+        "You know, it's a beautiful sight.",
+        "We're sitting here, and it's almost like science-fiction looking back at it, Bruce."
+      ],
+      "speaker": "Cernan",
+      "time": "0270704"
+    },
+    {
+      "tokens": [
+        "Right.",
+        "We can pick out the continents a little more clearly."
+      ],
+      "speaker": "McCandless",
+      "time": "0270712"
+    },
+    {
+      "tokens": [
+        "I'm voting for the world being round, if there's any dissenters."
+      ],
+      "speaker": "Young",
+      "time": "0270739"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We'll record your vote on that issue."
+      ],
+      "speaker": "McCandless",
+      "time": "0270740"
+    },
+    {
+      "tokens": [
+        "And, you know, yesterday we said the San Joaquin Valley was very evident.",
+        "It sits on a bowl.",
+        "Even though we're looking at it obliquely, you can still pick it out in the western United States.",
+        "It's just like a big bowl carved out of the coastal end the Sierra Nevada Mountains."
+      ],
+      "speaker": "Young",
+      "time": "0270745"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0270804"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "The SPS data has been looked at on both the midcourse 2 and the evasive maneuver, and all the data is good.",
+        "We'd like to get you to cycle the ALC switch once, so we can observe the effect on the picture down here."
+      ],
+      "speaker": "McCandless",
+      "time": "0270827"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let me go back and get our monitor.",
+        "Okay.",
+        "Here we are."
+      ],
+      "speaker": "Stafford",
+      "time": "0270847"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You just hold it steady, and then cycle it a few seconds to Interior and back to Exterior for us."
+      ],
+      "speaker": "McCandless",
+      "time": "0270850"
+    },
+    {
+      "tokens": [
+        "There's Interior now."
+      ],
+      "speaker": "Cernan",
+      "time": "0270903"
+    },
+    {
+      "tokens": [
+        "Boy, we can really see it working out down here."
+      ],
+      "speaker": "McCandless",
+      "time": "0270906"
+    },
+    {
+      "tokens": [
+        "Coming back to us again."
+      ],
+      "speaker": "Cernan",
+      "time": "0270909"
+    },
+    {
+      "tokens": [
+        "Beautiful."
+      ],
+      "speaker": "McCandless",
+      "time": "0270910"
+    },
+    {
+      "tokens": [
+        "And, Tom's cutting down the f-stop now a little bit."
+      ],
+      "speaker": "Cernan",
+      "time": "0270918"
+    },
+    {
+      "tokens": [
+        "Beautiful.",
+        "What f-stop are you using?",
+        "If you can stop it down one or two stops more it seems like the definition is better."
+      ],
+      "speaker": "McCandless",
+      "time": "0270924"
+    },
+    {
+      "tokens": [
+        "There's f:22 right there."
+      ],
+      "speaker": "Cernan",
+      "time": "0270937"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Hold it there."
+      ],
+      "speaker": "McCandless",
+      "time": "0270939"
+    },
+    {
+      "tokens": [
+        "10, this is Houston.",
+        "When you stop it down, we get a second or so of excellent definition and no saturation, and then it tends to saturate again up in the North Polar region as though the ALC weren't quite picking up the intensity of the highlights."
+      ],
+      "speaker": "McCandless",
+      "time": "0270951"
+    },
+    {
+      "tokens": [
+        "Bruce, we will not be able to see the Moon because - through the TV - because we got the Sun right along side of it out the right-hand window."
+      ],
+      "speaker": "Cernan",
+      "time": "0271029"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand."
+      ],
+      "speaker": "McCandless",
+      "time": "0271035"
+    },
+    {
+      "tokens": [
+        "We'll bring you on inside the spacecraft, if you like."
+      ],
+      "speaker": "Cernan",
+      "time": "0271044"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Before you do that would you open the lens up about two stops slowly and then stop it down fairly rapidly for us?"
+      ],
+      "speaker": "McCandless",
+      "time": "0271048"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "They are coming open now.",
+        "Up and back."
+      ],
+      "speaker": "Cernan",
+      "time": "0271102"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead and bring the camera inside now if you like."
+      ],
+      "speaker": "McCandless",
+      "time": "0271130"
+    },
+    {
+      "tokens": [
+        "Yes, I can see what you mean about the saturation.",
+        "From this kind of a candid view down here looking down at this distance, you could never tell anybody inhabited the place."
+      ],
+      "speaker": "Stafford",
+      "time": "0271135"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0271146"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're going to take you inside."
+      ],
+      "speaker": "Stafford",
+      "time": "0271150"
+    },
+    {
+      "tokens": [
+        "That's probably been said before."
+      ],
+      "speaker": "Cernan",
+      "time": "0271152"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're picking up your transmission from inside now."
+      ],
+      "speaker": "McCandless",
+      "time": "0271218"
+    },
+    {
+      "tokens": [
+        "Houston, this is obviously our patch.",
+        "How is it coming through in color?"
+      ],
+      "speaker": "Cernan",
+      "time": "0271248"
+    },
+    {
+      "tokens": [
+        "Not so good really.",
+        "It looks like you got some rather intense lighting from the back and the side - If you could get the lighting more directly on the patch, it would be better."
+      ],
+      "speaker": "McCandless",
+      "time": "0271254"
+    },
+    {
+      "tokens": [
+        "Yes, that's the Sun coming in."
+      ],
+      "speaker": "Cernan",
+      "time": "0271309"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0271313"
+    },
+    {
+      "tokens": [
+        "We got John coming through nicely on the tube.",
+        "What was the three fingers for?"
+      ],
+      "speaker": "McCandless",
+      "time": "0271330"
+    },
+    {
+      "tokens": [
+        "Do you see our emblem of today?"
+      ],
+      "speaker": "Cernan",
+      "time": "0271355"
+    },
+    {
+      "tokens": [
+        "Oh, that's beautiful."
+      ],
+      "speaker": "McCandless",
+      "time": "0271356"
+    },
+    {
+      "tokens": [
+        "We were going to put some more things in, but we just ran out of time."
+      ],
+      "speaker": "Cernan",
+      "time": "0271406"
+    },
+    {
+      "tokens": [
+        "[Laughter.] Roger!",
+        "Is this also your emblem?"
+      ],
+      "speaker": "McCandless",
+      "time": "0271410"
+    },
+    {
+      "tokens": [
+        "This is another emblem.",
+        "Do you see any resemblance between the card and the guy holding the card?"
+      ],
+      "speaker": "Cernan",
+      "time": "0271420"
+    },
+    {
+      "tokens": [
+        "Now that you mention it."
+      ],
+      "speaker": "McCandless",
+      "time": "0271426"
+    },
+    {
+      "tokens": [
+        "Does he carry the briefcase?"
+      ],
+      "speaker": "Cernan",
+      "time": "0271435"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Good grief, Charlie Brown!"
+      ],
+      "speaker": "Young",
+      "time": "0271438"
+    },
+    {
+      "tokens": [
+        "Now you're going to bring on that whizzer here,"
+      ],
+      "speaker": "Cernan",
+      "time": "0271439"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We got Snoopy now."
+      ],
+      "speaker": "McCandless",
+      "time": "0271444"
+    },
+    {
+      "tokens": [
+        "Boy, he's been quiet for 2 days; he's going to get a chance to do a little woofing here in the next couple days."
+      ],
+      "speaker": "Cernan",
+      "time": "0271456"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We notice the resemblance there, too."
+      ],
+      "speaker": "McCandless",
+      "time": "0271504"
+    },
+    {
+      "tokens": [
+        "Thanks a lot.",
+        "I didn't know Tom had a big nose like that."
+      ],
+      "speaker": "Cernan",
+      "time": "0271508"
+    },
+    {
+      "tokens": [
+        "Ugh."
+      ],
+      "speaker": "Stafford",
+      "time": "0271514"
+    },
+    {
+      "tokens": [
+        "Take you over to Gene-o's side of the spacecraft."
+      ],
+      "speaker": "Stafford",
+      "time": "0271534"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Picking up Gene now.",
+        "You've got rather strong backlighting from the window."
+      ],
+      "speaker": "McCandless",
+      "time": "0271540"
+    },
+    {
+      "tokens": [
+        "That's the spirit.",
+        "You all drawing the window shades there?"
+      ],
+      "speaker": "McCandless",
+      "time": "0271613"
+    },
+    {
+      "tokens": [
+        "How's that?",
+        "Any better?"
+      ],
+      "speaker": "Cernan",
+      "time": "0271618"
+    },
+    {
+      "tokens": [
+        "Yes, indeed."
+      ],
+      "speaker": "McCandless",
+      "time": "0271620"
+    },
+    {
+      "tokens": [
+        "We didn't get a chance to shave this morning before this show.",
+        "I hope that doesn't bother anybody."
+      ],
+      "speaker": "Young",
+      "time": "0271624"
+    },
+    {
+      "tokens": [
+        "No, it doesn't bother us.",
+        "The definition is real good; we can just about read your wristwatch there, Gene."
+      ],
+      "speaker": "McCandless",
+      "time": "0271629"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Looks like it says about 16:00.",
+        "16:05?"
+      ],
+      "speaker": "McCandless",
+      "time": "0271646"
+    },
+    {
+      "tokens": [
+        "16:05 Cape time.",
+        "16:05 Cape time."
+      ],
+      "speaker": "Cernan",
+      "time": "0271652"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "McCandless",
+      "time": "0271656"
+    },
+    {
+      "tokens": [
+        "Get it."
+      ],
+      "speaker": "Young",
+      "time": "0271705"
+    },
+    {
+      "tokens": [
+        "Roger we synchronized our watches here."
+      ],
+      "speaker": "McCandless",
+      "time": "0271706"
+    },
+    {
+      "tokens": [
+        "Beautiful.",
+        "Beautiful."
+      ],
+      "speaker": "Young",
+      "time": "0271711"
+    },
+    {
+      "tokens": [
+        "Looks like we have a good piece of gear here."
+      ],
+      "speaker": "Stafford",
+      "time": "0271713"
+    },
+    {
+      "tokens": [
+        "Yes, it does."
+      ],
+      "speaker": "McCandless",
+      "time": "0271716"
+    },
+    {
+      "tokens": [
+        "I'll give you a whizzer, give you a whizzer of TP over here."
+      ],
+      "speaker": "Young",
+      "time": "0271717"
+    },
+    {
+      "tokens": [
+        "One of our problems is trying to figure out which way is up and which way is down."
+      ],
+      "speaker": "Cernan",
+      "time": "0271810"
+    },
+    {
+      "tokens": [
+        "And it's beautiful one time you have your choice.",
+        "If you don't like things right-side-up, you can go upside-down."
+      ],
+      "speaker": "Stafford",
+      "time": "0271820"
+    },
+    {
+      "tokens": [
+        "Roger, down here.",
+        "Okay.",
+        "We've got one of you in each direction."
+      ],
+      "speaker": "McCandless",
+      "time": "0271822"
+    },
+    {
+      "tokens": [
+        "It's really a ball up here living in zero g, believe me."
+      ],
+      "speaker": "Stafford",
+      "time": "0271830"
+    },
+    {
+      "tokens": [
+        "It's the only way to fly."
+      ],
+      "speaker": "Cernan",
+      "time": "0271834"
+    },
+    {
+      "tokens": [
+        "Once you get going, the cost for individual passenger mile becomes rather reasonable."
+      ],
+      "speaker": "Stafford",
+      "time": "0271840"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We Copy."
+      ],
+      "speaker": "McCandless",
+      "time": "0271851"
+    },
+    {
+      "tokens": [
+        "I notice, boy, it sure picks up the Sun's reflection and density no matter where you go.",
+        "That little reflection is coming out of my window behind me."
+      ],
+      "speaker": "Cernan",
+      "time": "0271854"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "What f-stop are you all using now?"
+      ],
+      "speaker": "McCandless",
+      "time": "0271909"
+    },
+    {
+      "tokens": [
+        "We're on about f:28, I believe, here.",
+        "Wait a minute.",
+        "Yes, about 22 to 28."
+      ],
+      "speaker": "Cernan",
+      "time": "0271910"
+    },
+    {
+      "tokens": [
+        "Houston.",
+        "Roger.",
+        "Out."
+      ],
+      "speaker": "McCandless",
+      "time": "0271921"
+    },
+    {
+      "tokens": [
+        "Still good color?"
+      ],
+      "speaker": "Cernan",
+      "time": "0271924"
+    },
+    {
+      "tokens": [
+        "Yes, indeed."
+      ],
+      "speaker": "McCandless",
+      "time": "0271925"
+    },
+    {
+      "tokens": [
+        "You might notice the dynamics here."
+      ],
+      "speaker": "Cernan",
+      "time": "0271927"
+    },
+    {
+      "tokens": [
+        "I just do whatever he says."
+      ],
+      "speaker": "Young",
+      "time": "0271936"
+    },
+    {
+      "tokens": [
+        "Say, Tom, the flight engineer wants you to be sure you log all your exercises."
+      ],
+      "speaker": "McCandless",
+      "time": "0271941"
+    },
+    {
+      "tokens": [
+        "I got you."
+      ],
+      "speaker": "Stafford",
+      "time": "0271948"
+    },
+    {
+      "tokens": [
+        "Like I said earlier, this isn't fanning the Peacock, but it's the best we've got."
+      ],
+      "speaker": "Cernan",
+      "time": "0271954"
+    },
+    {
+      "tokens": [
+        "Boy, with dynamics like that, you guys ought to be pretty good at this PTC mode."
+      ],
+      "speaker": "McCandless",
+      "time": "0272012"
+    },
+    {
+      "tokens": [
+        "I mean to tell you."
+      ],
+      "speaker": "Young",
+      "time": "0272018"
+    },
+    {
+      "tokens": [
+        "Right.",
+        "That's why we got about 10 hours sleep last night."
+      ],
+      "speaker": "Stafford",
+      "time": "0272020"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0272022"
+    },
+    {
+      "tokens": [
+        "That's perfect zero gravity there.",
+        "boy, I'll tell you there's nothing like it."
+      ],
+      "speaker": "Cernan",
+      "time": "0272033"
+    },
+    {
+      "tokens": [
+        "10, this is Houston.",
+        "Is there..."
+      ],
+      "speaker": "McCandless",
+      "time": "0272102"
+    },
+    {
+      "tokens": [
+        "...perfect balance."
+      ],
+      "speaker": "Stafford",
+      "time": "0272103"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Are there any sort of air currents there affecting anything you can feel?"
+      ],
+      "speaker": "McCandless",
+      "time": "0272104"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It's blowing a little movement.",
+        "But it's not out here much really."
+      ],
+      "speaker": "Stafford",
+      "time": "0272112"
+    },
+    {
+      "tokens": [
+        "That's an effect we discovered a long time ago.",
+        "If you watch it long enough, it'll go up."
+      ],
+      "speaker": "Cernan",
+      "time": "0272120"
+    },
+    {
+      "tokens": [
+        "It's really hard to stabilise something so it won't move."
+      ],
+      "speaker": "Young",
+      "time": "0272125"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I remember that from Gemini 10."
+      ],
+      "speaker": "McCandless",
+      "time": "0272130"
+    },
+    {
+      "tokens": [
+        "We discovered a Cernan effect up here, but can't find which way is up."
+      ],
+      "speaker": "Cernan",
+      "time": "0272135"
+    },
+    {
+      "tokens": [
+        "Yes, Gene.",
+        "Could you move the camera around slightly?",
+        "I've got a very bright spot coming in the window, I just want to make sure that you don't burn the target with the f:2 - f:28 f-stop."
+      ],
+      "speaker": "McCandless",
+      "time": "0272139"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "I'll try it here, Bruce, to got it away from some of that if I can."
+      ],
+      "speaker": "Cernan",
+      "time": "0272152"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0272155"
+    },
+    {
+      "tokens": [
+        "Oh, it's really looking good now, Beautiful color here."
+      ],
+      "speaker": "McCandless",
+      "time": "0272207"
+    },
+    {
+      "tokens": [
+        "Now we got three objects going."
+      ],
+      "speaker": "Stafford",
+      "time": "0272214"
+    },
+    {
+      "tokens": [
+        "This is a real testimonial to prove you were there, in case there were any doubters."
+      ],
+      "speaker": "McCandless",
+      "time": "0272221"
+    },
+    {
+      "tokens": [
+        "If people want to know what kind of men go to the Moon, there's a good look at one right there.",
+        "Could you believe it?"
+      ],
+      "speaker": "Cernan",
+      "time": "0272227"
+    },
+    {
+      "tokens": [
+        "Some people still don't."
+      ],
+      "speaker": "Stafford",
+      "time": "0272235"
+    },
+    {
+      "tokens": [
+        "I'm surprised you all have not set this to music."
+      ],
+      "speaker": "McCandless",
+      "time": "0272252"
+    },
+    {
+      "tokens": [
+        "Oh, you want music, Well, we'll give you some music at the conclusion here."
+      ],
+      "speaker": "Cernan",
+      "time": "0272258"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll take you back outside now."
+      ],
+      "speaker": "Stafford",
+      "time": "0272310"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0272314"
+    },
+    {
+      "tokens": [
+        "While Tom shows you that, we've got another little rendition we'd like to put your way."
+      ],
+      "speaker": "Cernan",
+      "time": "0272328"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're standing by."
+      ],
+      "speaker": "McCandless",
+      "time": "0272333"
+    },
+    {
+      "tokens": [
+        "Here it comes.",
+        "This - This is just so that you guys don't get too excited about the TV and forget what your job is down there."
+      ],
+      "speaker": "Cernan",
+      "time": "0272354"
+    },
+    {
+      "tokens": [
+        "We're ready for what we're about to receive."
+      ],
+      "speaker": "McCandless",
+      "time": "0272405"
+    },
+    {
+      "tokens": [
+        "We don't need it all."
+      ],
+      "speaker": "Cernan",
+      "time": "0272436"
+    },
+    {
+      "tokens": [
+        "Just wanted to send some thoughts back to you."
+      ],
+      "speaker": "Stafford",
+      "time": "0272516"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you for your thoughts, and with this view of the Earth, it looks like the United States - The landmass of the U.S.",
+        "is showing up better now than it was few minutes ago."
+      ],
+      "speaker": "McCandless",
+      "time": "0272518"
+    },
+    {
+      "tokens": [
+        "Right, Bruce.",
+        "I can really see them.",
+        "Looks like the New England states are kind of clobbered in there."
+      ],
+      "speaker": "Stafford",
+      "time": "0272530"
+    },
+    {
+      "tokens": [
+        "Right."
+      ],
+      "speaker": "McCandless",
+      "time": "0272536"
+    },
+    {
+      "tokens": [
+        "But the main part of it's coming in real good.",
+        "And again you can see the great American desert, the Rocky Mountains, and the Sierra Nevadas there."
+      ],
+      "speaker": "Stafford",
+      "time": "0272537"
+    },
+    {
+      "tokens": [
+        "Oh, it's just beautiful on the - the transients before it saturates there."
+      ],
+      "speaker": "McCandless",
+      "time": "0272550"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll try to give you another one."
+      ],
+      "speaker": "Cernan",
+      "time": "0272557"
+    },
+    {
+      "tokens": [
+        "All those little glimpses are good, but you've got to be fast to catch them,"
+      ],
+      "speaker": "McCandless",
+      "time": "0272624"
+    },
+    {
+      "tokens": [
+        "Is it - I'm trying to hold it as steady as I can.",
+        "Is it looking okay?"
+      ],
+      "speaker": "Stafford",
+      "time": "0272630"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "You're doing a good job on holding it."
+      ],
+      "speaker": "McCandless",
+      "time": "0272633"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo l0.",
+        "On the monitor, it appears that I have a couple of little bumps and ragged edges.",
+        "Is that coming through on the Black and white?"
+      ],
+      "speaker": "Stafford",
+      "time": "0272715"
+    },
+    {
+      "tokens": [
+        "Yes, it is.",
+        "It's coming through on the black and white; and, of course, in the color that we've got here, it looks like it's in the horizontal sweep."
+      ],
+      "speaker": "McCandless",
+      "time": "0272721"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "I noticed it when we first turned it on; it didn't have that, then it slowly started to saturate."
+      ],
+      "speaker": "Stafford",
+      "time": "0272735"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "We saw those little bumps yesterday also."
+      ],
+      "speaker": "McCandless",
+      "time": "0272740"
+    },
+    {
+      "tokens": [
+        "Well, I think it was at the end of the transmission yesterday."
+      ],
+      "speaker": "Stafford",
+      "time": "0272745"
+    },
+    {
+      "tokens": [
+        "Right."
+      ],
+      "speaker": "McCandless",
+      "time": "0272748"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll go ahead and terminate the TV pass here.",
+        "I just wanted to play a little music for you so we have something up here when it gets lonely during the PTC mode."
+      ],
+      "speaker": "Stafford",
+      "time": "0272753"
+    },
+    {
+      "tokens": [
+        "Roger, Apollo 10.",
+        "We enjoyed the TV and the music."
+      ],
+      "speaker": "McCandless",
+      "time": "0272805"
+    },
+    {
+      "tokens": [
+        "We'll be talking to you tomorrow."
+      ],
+      "speaker": "Cernan",
+      "time": "0272815"
+    },
+    {
+      "tokens": [
+        "Adios."
+      ],
+      "speaker": "Young",
+      "time": "0272818"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I hope you will be talking to us before tomorrow."
+      ],
+      "speaker": "McCandless",
+      "time": "0272820"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 27 hours, 30 minutes.",
+        "Apollo 10's distance is 112,952 nautical miles [209,186 km]; velocity is 5,014 feet per second [1,529 metres per second].",
+        "That TV transmission lasted about 27 minutes."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Oh, we plan to."
+      ],
+      "speaker": "Stafford",
+      "time": "0272824"
+    },
+    {
+      "tokens": [
+        "About this PTC stuff, Bruce."
+      ],
+      "speaker": "Young",
+      "time": "0272826"
+    },
+    {
+      "tokens": [
+        "About this in the Moon stuff.",
+        "You better keep at it."
+      ],
+      "speaker": "Cernan",
+      "time": "0272828"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0272850"
+    },
+    {
+      "tokens": [
+        "Apollo l0.",
+        "This is Houston."
+      ],
+      "speaker": "McCandless",
+      "time": "0273133"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "McCandless",
+      "time": "0273136"
+    },
+    {
+      "tokens": [
+        "You're halfway.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0273137"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you."
+      ],
+      "speaker": "McCandless",
+      "time": "0273141"
+    },
+    {
+      "tokens": [
+        "And, based on present trajectory analysis, it looks like no more midcourse corrections will be needed prior to LOI.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0273146"
+    },
+    {
+      "tokens": [
+        "Four mid course corrections are planned for during the trans lunar coast (TLC) but only one has been deemed necessary on this mission as the trajectory following MCC-2 has be very close to nominal."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "From theApollo 10 Mission Report:Regarding MCC-2: \"'resulting pericynthion altitude of 60.9 miles (112.8 km) was indicated for the executed 49.2 ft/sec (15 m/sec) firing.",
+        "The maneuver results indicate that an adjustment of 0.39 ft/sec (0.12 m/sec) would have been required to attain the desired nodal position at the Moon and 0.14 ft/sec (0.04 m/sec) to correct the perilune altitude error'.",
+        "These errors were not large enough to require correction.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That sounds beautiful."
+      ],
+      "speaker": "Stafford",
+      "time": "0273153"
+    },
+    {
+      "tokens": [
+        "You're right on the money..."
+      ],
+      "speaker": "McCandless",
+      "time": "0273155"
+    },
+    {
+      "tokens": [
+        "...it's cheaper to keep going than turning back, right?"
+      ],
+      "speaker": "Cernan",
+      "time": "0273157"
+    },
+    {
+      "tokens": [
+        "I tell you it looks beautiful going away, and it is going to look even better coming back."
+      ],
+      "speaker": "Stafford",
+      "time": "0273201"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0273203"
+    },
+    {
+      "tokens": [
+        "What kind of - What kind of perigee you show us in these days there, Houston?"
+      ],
+      "speaker": "Stafford",
+      "time": "0273204"
+    },
+    {
+      "tokens": [
+        "About 60 miles pericynthion.",
+        "And, did you all see the S-IVB from your burn attitude?"
+      ],
+      "speaker": "McCandless",
+      "time": "0273211"
+    },
+    {
+      "tokens": [
+        "No, we couldn't see it.",
+        "We might have been off in roll.",
+        "I didn't want to fool with that too much."
+      ],
+      "speaker": "Young",
+      "time": "0273220"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0273225"
+    },
+    {
+      "tokens": [
+        "But I didn't see it, but we were on the star, all right."
+      ],
+      "speaker": "Cernan",
+      "time": "0273226"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We were just curious to know if you had seen it."
+      ],
+      "speaker": "McCandless",
+      "time": "0273230"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "Apollo 10."
+      ],
+      "speaker": "Stafford",
+      "time": "0273330"
+    },
+    {
+      "tokens": [
+        "Go ahead, 10."
+      ],
+      "speaker": "McCandless",
+      "time": "0273331"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Just want you to give our regards to Chris and all of the people in MCC and the tracking networks.",
+        "It looks like all those computers are working right down to the last bit.",
+        "To give us that 60 miles perigee is pretty fantastic."
+      ],
+      "speaker": "Stafford",
+      "time": "0273333"
+    },
+    {
+      "tokens": [
+        "Roger, Tom.",
+        "We'll pass that along."
+      ],
+      "speaker": "McCandless",
+      "time": "0273345"
+    },
+    {
+      "tokens": [
+        "Probably better watch it for the next couple of days just to make sure, don't you reckon?"
+      ],
+      "speaker": "Young",
+      "time": "0273400"
+    },
+    {
+      "tokens": [
+        "Oh, I don't reckon that we'll desert the MOCR here.",
+        "I think there are a few people planning on sticking around, at least until you get into orbit."
+      ],
+      "speaker": "McCandless",
+      "time": "0273405"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's really [garble] it right down to the old slot, though, man.",
+        "That's great if it - if it does it."
+      ],
+      "speaker": "Young",
+      "time": "0273413"
+    },
+    {
+      "tokens": [
+        "You can tell Phil Shaffer to keep smiling.",
+        "I can probably see him from here."
+      ],
+      "speaker": "Stafford",
+      "time": "0273438"
+    },
+    {
+      "tokens": [
+        "Say again.",
+        "Who am I supposed to tell, Tom?"
+      ],
+      "speaker": "McCandless",
+      "time": "0273446"
+    },
+    {
+      "tokens": [
+        "Phil Shaffer."
+      ],
+      "speaker": "Stafford",
+      "time": "0273451"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0273452"
+    },
+    {
+      "tokens": [
+        "Apollo 10, this is Houston.",
+        "Prior to midcourse correction 2, we set your X-PIPA Bias to zero and, as a result of this, you have to update your erasable memory table and the contingency book.",
+        "I've got a one-line update for you."
+      ],
+      "speaker": "McCandless",
+      "time": "0273514"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We are getting it out now."
+      ],
+      "speaker": "Stafford",
+      "time": "0273536"
+    },
+    {
+      "tokens": [
+        "Go ahead, Bruce."
+      ],
+      "speaker": "Cernan",
+      "time": "0273547"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "The E-memory table, column A, line 3: All balls.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0273548"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Got all balls, column A, line 3."
+      ],
+      "speaker": "Cernan",
+      "time": "0273615"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And When you're ready to copy, I've got your P37 block data for TLI aborts, 35, 44, and 53 hours."
+      ],
+      "speaker": "McCandless",
+      "time": "0273619"
+    },
+    {
+      "tokens": [
+        "Stand by half."
+      ],
+      "speaker": "Cernan",
+      "time": "0273633"
+    },
+    {
+      "tokens": [
+        "Okay, Bruce.",
+        "Go ahead."
+      ],
+      "speaker": "Cernan",
+      "time": "0273653"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0273657"
+    },
+    {
+      "tokens": [
+        "Roger 10.",
+        "I am ready to go ahead."
+      ],
+      "speaker": "McCandless",
+      "time": "0273737"
+    },
+    {
+      "tokens": [
+        "Go ahead.",
+        "Fire."
+      ],
+      "speaker": "Cernan",
+      "time": "0273742"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "TLI plus 35 hours: 037:30, 5071, minus 165, 094:35.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0273743"
+    },
+    {
+      "tokens": [
+        "Why don't you read them all, Bruce, then I'll get them back to you."
+      ],
+      "speaker": "Cernan",
+      "time": "0273804"
+    },
+    {
+      "tokens": [
+        "Roger, TLI plus 44: 046:30, 6695, minus 165, 094:14.",
+        "TLI plus 53: 055:30, 5499, minus 165, 118:33.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0273806"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "TLI plus 35 is 037:30, 5071, minus 165, 094:35.",
+        "Plus 44 is 046:30, 6695, minus 165, 094:14; plus 53 is 055:30, 5499, minus 165, 118:33."
+      ],
+      "speaker": "Young",
+      "time": "0273848"
+    },
+    {
+      "tokens": [
+        "The purpose of P37 (program 37) on this occasion is to compute a return-to-Earth trajectory.",
+        "Details of the P37 PAD for TLI plus 35 hours are:GETIGround Elapsed Time of ignition:37 hours, 30 minutes.Delta-VT:5,071 fps (1,546 m/sec) This is the total velocity change that would be experienced by the spacecraft.Longitude:165° West.",
+        "This is the longitude of the Earth landing point for entry guidance.GET 400k:94 hours, 35 minutes.",
+        "Ground Elapsed Time of Entry Interface.Details of the P37 PAD for TLI plus 44 hours are:GETI:46 hours, 30 minutes.Delta-VT:6,695 fps (2041 m/sec)Longitude:165° West.GET 400k:94 hours, 14 minutes.Details of the P37 PAD for TLI plus 53 hours are:GETI:55 hours, 30 minutes.Delta-VT:5,499 fps (1676 m/sec)Longitude:165° West.GET 400k:118 hours, 33 minutes.The P37 is intended to be used only providing the CSM is outside the lunar sphere of influence at the time of ignition."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Readback correct.",
+        "Out."
+      ],
+      "speaker": "McCandless",
+      "time": "0273917"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Bruce, we've done your maneuver to the place where we disable all the jets, and we're going to wait here 20 minutes.",
+        "Is that right?"
+      ],
+      "speaker": "Young",
+      "time": "0274017"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "Roger.",
+        "All the jets in quads Charlie and Delta."
+      ],
+      "speaker": "McCandless",
+      "time": "0274026"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You know we've got AC - the AC jets, Off, right now.",
+        "You know that, don't you?"
+      ],
+      "speaker": "Young",
+      "time": "0274042"
+    },
+    {
+      "tokens": [
+        "John Young's reference to AC is his shorthand for RCS quadrants A (Alpha) and C (Charlie)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "McCandless",
+      "time": "0274049"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "What we're attempting to do is get you down to a single thruster firing at a time for attitude [garble] corrections.",
+        "Smallest couple we can get."
+      ],
+      "speaker": "McCandless",
+      "time": "0274101"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "0274122"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At 27 hours, 41 minutes distance is 113, 513 nautical miles [210,225 km].",
+        "Velocity 4,995 feet per second [1,523 metres per second]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Bruce, the theory behind this PTC is that once initiated it never fires another jet.",
+        "Isn't that the theory?"
+      ],
+      "speaker": "Young",
+      "time": "0274500"
+    },
+    {
+      "tokens": [
+        "I think that's the theory.",
+        "Stand by, and I'll confirm it."
+      ],
+      "speaker": "McCandless",
+      "time": "0274509"
+    },
+    {
+      "tokens": [
+        "I'm just - I'm just pulling your leg."
+      ],
+      "speaker": "Young",
+      "time": "0274514"
+    },
+    {
+      "tokens": [
+        "They say that's the theory, but I see a lot of fingers crossed."
+      ],
+      "speaker": "McCandless",
+      "time": "0274521"
+    },
+    {
+      "tokens": [
+        "Yes, that's why I brought it up."
+      ],
+      "speaker": "Young",
+      "time": "0274527"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0274530"
+    },
+    {
+      "tokens": [
+        "Man, if it works, it will be the greatest thing since..."
+      ],
+      "speaker": "Young",
+      "time": "0274532"
+    },
+    {
+      "tokens": [
+        "You cut out after..."
+      ],
+      "speaker": "McCandless",
+      "time": "0274536"
+    },
+    {
+      "tokens": [
+        "Peanut butter."
+      ],
+      "speaker": "Young",
+      "time": "0274537"
+    },
+    {
+      "tokens": [
+        "Yes, there was a delay in the transmission there.",
+        "The speed of light.",
+        "That peanut butter."
+      ],
+      "speaker": "Young",
+      "time": "0274541"
+    },
+    {
+      "tokens": [
+        "Roger, Copy.",
+        "Greatest thing since peanut butter."
+      ],
+      "speaker": "McCandless",
+      "time": "0274541"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 27 hours, 50 minutes.",
+        "The Apollo 10 crew is now reestablishing Passive Thermal Control of PTC.",
+        "That had been originally established yesterday to control the thermal environment of the spacecraft.",
+        "Yesterday the roll rate in the Passive Thermal Control was 1 degree per second which meant that the spacecraft would rotate one full revolution per hour.",
+        "It's being reestablished at 3 degrees per second or 3 revolutions per hour.",
+        "The procedure has also been modified in an attempt to cut down in the thruster firings.",
+        "There's been considerable amount of conversation between John Young and CapCom, Bruce McCandless about this procedure.",
+        "The Flight Dynamics Officer, Phil Shaffer, as you heard expects the pericynthion, this trajectory at the Moon to be right at 60 nautical miles without any further midcourse corrections.",
+        "We will continue to track the spacecraft and see if further tracking confirms this.",
+        "The one midcourse correction we've done so far was - the burn was right on time; 26 hours, 32 minutes, 56 seconds.",
+        "The preburn target was for 48.7 feet per second [14.8 metres per second], velocity.",
+        "We actually achieved 48.9 feet per second [14.9 metres per second].",
+        "Apollo 10 is now 113 - 114,032 [nautical] miles [211,186 km] from Earth.",
+        "Velocity continuing to drop; 4,978 feet per second [1,517 metres per second] now.",
+        "We will take the loop down and come back up if there's further conversation."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 27 hours, 55 minutes.",
+        "We have a correction on the last commentary, The roll rate established yesterday for Passive Thermal Control was one tenth of a degree per second, not one degree, and the roll rate being established now is 3 tenths of second.",
+        "3 tenths of a degree per second, not 3 degrees per second."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 27 hours, 59 minutes, and we're back in conversation with the crew."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston.",
+        "We'll have a ground handover at 28 hours even GET."
+      ],
+      "speaker": "McCandless",
+      "time": "0274549"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "As the Earth rotates the Manned Space Flight Network (MSFN) ground stations each get a turn at viewing the Apollo 10 spacecraft as it coasts towards the Moon.",
+        "In turn they hand over responsibility for telecommunications as the spacecraft comes up above their eastern horizon.",
+        "The ground stations are located at Goldstone, California, Honeysuckle Creek, Australia, and just outside Madrid, Spain.",
+        "This handover will be from Honeysuckle to Madrid."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Who are you handing us to, Charlie"
+      ],
+      "speaker": "Cernan",
+      "time": "0275752"
+    },
+    {
+      "tokens": [
+        "say again.",
+        "Oh, we're handing you over to Madrid."
+      ],
+      "speaker": "Duke",
+      "time": "0275756"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's a nice place.",
+        "Will you start speaking Spanish to us now, Charlie?"
+      ],
+      "speaker": "Cernan",
+      "time": "0275805"
+    },
+    {
+      "tokens": [
+        "I don't believe I could do that.",
+        "How about buenos dias?",
+        "Is that enough?"
+      ],
+      "speaker": "Duke",
+      "time": "0275820"
+    },
+    {
+      "tokens": [
+        "Ah, Si senor.",
+        "Muy bien, gracias."
+      ],
+      "speaker": "Cernan",
+      "time": "0275826"
+    },
+    {
+      "tokens": [
+        "Buenos noches."
+      ],
+      "speaker": "Duke",
+      "time": "0275829"
+    },
+    {
+      "tokens": [
+        "...English is good enough for me."
+      ],
+      "speaker": "Young",
+      "time": "0275830"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0275831"
+    },
+    {
+      "tokens": [
+        "Buenos noches."
+      ],
+      "speaker": "Young",
+      "time": "0275832"
+    },
+    {
+      "tokens": [
+        "I got a hard enough time speaking English."
+      ],
+      "speaker": "Duke",
+      "time": "0275833"
+    },
+    {
+      "tokens": [
+        "That's all right, Charlie.",
+        "You just keep talking grits.",
+        "I understand it."
+      ],
+      "speaker": "Young",
+      "time": "0275837"
+    },
+    {
+      "tokens": [
+        "Charlie, not to sound corny or trite, but it really is like another world out here."
+      ],
+      "speaker": "Cernan",
+      "time": "0275851"
+    },
+    {
+      "tokens": [
+        "Say again, Gene."
+      ],
+      "speaker": "Duke",
+      "time": "0275856"
+    },
+    {
+      "tokens": [
+        "I said at the expense of sounding corny and trite, it's really another world out here."
+      ],
+      "speaker": "Cernan",
+      "time": "0275859"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0275904"
+    },
+    {
+      "tokens": [
+        "I like to say Roger."
+      ],
+      "speaker": "Cernan",
+      "time": "0275910"
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-20."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 10.",
+        "We - We're starting a roll right now.",
+        "You want me to initiate Omni's and take care of the High Gain?"
+      ],
+      "speaker": "Cernan",
+      "time": "0280055"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0280104"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "We'd like you to select Omni Bravo."
+      ],
+      "speaker": "Duke",
+      "time": "0280113"
+    },
+    {
+      "tokens": [
+        "Houston, this is 10.",
+        "How do you read on Bravo?"
+      ],
+      "speaker": "Cernan",
+      "time": "0280149"
+    },
+    {
+      "tokens": [
+        "Houston, this is 10.",
+        "Now do you read on Bravo."
+      ],
+      "speaker": "Cernan",
+      "time": "0280148"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You're coming through about four-by with lot of background static, Gene."
+      ],
+      "speaker": "Duke",
+      "time": "0280152"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "How now?"
+      ],
+      "speaker": "Cernan",
+      "time": "0280203"
+    },
+    {
+      "tokens": [
+        "That's fine."
+      ],
+      "speaker": "Duke",
+      "time": "0280204"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We've got the deadband set up.",
+        "You want us to go back to the CMC and all the..."
+      ],
+      "speaker": "Young",
+      "time": "0280241"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0280250"
+    },
+    {
+      "tokens": [
+        "Don't look to me like it's going to last very long there, Charlie."
+      ],
+      "speaker": "Young",
+      "time": "0280350"
+    },
+    {
+      "tokens": [
+        "Roger, John.",
+        "When you did that Verb 46 Enter a couple of seconds ago it collapsed the deadband back to five-tenths of a degree in the DAP.",
+        "You'll have to reinitialize again."
+      ],
+      "speaker": "Duke",
+      "time": "0280354"
+    },
+    {
+      "tokens": [
+        "Verb 46 - establish guidance and navigation Autopilot control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "0280408"
+    },
+    {
+      "tokens": [
+        "I'm showing a - I'm showing a 5-degree - showing a 5-degree deadband."
+      ],
+      "speaker": "Young",
+      "time": "0280417"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We wanted a - We want you to do us a 40 - a 30-degree deadband."
+      ],
+      "speaker": "Duke",
+      "time": "0280428"
+    },
+    {
+      "tokens": [
+        "Stand by one.",
+        "We'll get you squared away."
+      ],
+      "speaker": "Duke",
+      "time": "0280440"
+    },
+    {
+      "tokens": [
+        "You mean - okay."
+      ],
+      "speaker": "Young",
+      "time": "0280441"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "There's your 30-degree deadband, which is what we had unless the numbers didn't get in there."
+      ],
+      "speaker": "Young",
+      "time": "0280521"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0280526"
+    },
+    {
+      "tokens": [
+        "Houston, what I want to find out is, do you want us to go back to CMC in Auto on the pitch and yaw channels from Accel Command?",
+        "Do you want us to Rate Command giving it back to the DAP?"
+      ],
+      "speaker": "Young",
+      "time": "0280648"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "We want you to go to CMC in pitch and yaw Manual Attitude and Rate Command."
+      ],
+      "speaker": "Duke",
+      "time": "0280705"
+    },
+    {
+      "tokens": [
+        "Duke is confirming that the Manual Attitude switch should be in Accel CMD in pitch and yaw, and Rate Command in roll."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And that's where we are."
+      ],
+      "speaker": "Young",
+      "time": "0280707"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0280711"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 28 hours, 13 minutes.",
+        "Apollo 10's distance from the Earth is now 115,010 nautical miles [212,997 km].",
+        "Velocity 4,945 feet per second [1,507 metres per second].",
+        "This air-ground loop is very noisy.",
+        "We've had no conversation for some time.",
+        "We'll take it down and come back up if there is conversation."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0281823"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 28 hours, 20 minutes.",
+        "We're back in touch with the crew of Apollo 10."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Go ahead there, Houston."
+      ],
+      "speaker": "Young",
+      "time": "0281828"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We'd like to proceed with the PTC Auto Reacq check at 28 hours.",
+        "Follow the procedure as in the Flight Plan except for one change and that's one addition I should say, and that's tape recorder to Forward."
+      ],
+      "speaker": "Duke",
+      "time": "0281830"
+    },
+    {
+      "tokens": [
+        "Understand.",
+        "Proceed with the Auto Reacq check at 28 hours with one addition: tape recorder to Forward."
+      ],
+      "speaker": "Cernan",
+      "time": "0281852"
+    },
+    {
+      "tokens": [
+        "The Auto Reacq check is to establish how well the High Gain Antenna (HGA) reacquires lock on the radio carrier signal from Earth during PTC."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Affirmed."
+      ],
+      "speaker": "Duke",
+      "time": "0281900"
+    },
+    {
+      "tokens": [
+        "You want to go ahead and do that now, Charlie, is that correct?"
+      ],
+      "speaker": "Cernan",
+      "time": "0281903"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Gene."
+      ],
+      "speaker": "Duke",
+      "time": "0281904"
+    },
+    {
+      "tokens": [
+        "You want - Okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0281907"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "Your High Gain Antenna angles of 90 minus 40 are good for the roll left."
+      ],
+      "speaker": "Duke",
+      "time": "0281925"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Cernan",
+      "time": "0281936"
+    },
+    {
+      "tokens": [
+        "Hey, Charlie, we're up there eating a noon meal, a little late as usual, and what do you know?",
+        "We had a chicken salad sandwich."
+      ],
+      "speaker": "Young",
+      "time": "0281939"
+    },
+    {
+      "tokens": [
+        "Hey, how did it taste?"
+      ],
+      "speaker": "Duke",
+      "time": "0281948"
+    },
+    {
+      "tokens": [
+        "Would you believe, like a chicken salad sandwich?"
+      ],
+      "speaker": "Young",
+      "time": "0281952"
+    },
+    {
+      "tokens": [
+        "Hey, great!"
+      ],
+      "speaker": "Duke",
+      "time": "0281956"
+    },
+    {
+      "tokens": [
+        "A first."
+      ],
+      "speaker": "Young",
+      "time": "0281957"
+    },
+    {
+      "tokens": [
+        "Sounds like a real gourmet special, there."
+      ],
+      "speaker": "Duke",
+      "time": "0281958"
+    },
+    {
+      "tokens": [
+        "We'll record that comment: \"good chicken.\""
+      ],
+      "speaker": "Duke",
+      "time": "0282003"
+    },
+    {
+      "tokens": [
+        "That's real improvement."
+      ],
+      "speaker": "Stafford",
+      "time": "0282005"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We'll record that comment: \"Good chicken salad sandwich.\""
+      ],
+      "speaker": "Duke",
+      "time": "0282007"
+    },
+    {
+      "tokens": [
+        "You noticed I didn't say, \"Good corned beef sandwich.\""
+      ],
+      "speaker": "Young",
+      "time": "0282014"
+    },
+    {
+      "tokens": [
+        "Yes, I got that.",
+        "We were going to ask about that next."
+      ],
+      "speaker": "Duke",
+      "time": "0282017"
+    },
+    {
+      "tokens": [
+        "No need to ask."
+      ],
+      "speaker": "Young",
+      "time": "0282024"
+    },
+    {
+      "tokens": [
+        "Hey, you guys, how's the water tasting now?",
+        "Have you got up enough nerve now to try any more of it?"
+      ],
+      "speaker": "Duke",
+      "time": "0282028"
+    },
+    {
+      "tokens": [
+        "Yes, it's real good there, Charlie.",
+        "No problem at all."
+      ],
+      "speaker": "Stafford",
+      "time": "0282036"
+    },
+    {
+      "tokens": [
+        "Roger, Tom."
+      ],
+      "speaker": "Duke",
+      "time": "0282039"
+    },
+    {
+      "tokens": [
+        "The taste is okay, Charlie.",
+        "There's an awful lot of air bubbles in it, which you know..."
+      ],
+      "speaker": "Cernan",
+      "time": "0282104"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0282112"
+    },
+    {
+      "tokens": [
+        "Which is hard to understand since we kept it closed off."
+      ],
+      "speaker": "Young",
+      "time": "0282114"
+    },
+    {
+      "tokens": [
+        "We'll have the EECOM guys scratch their heads on that and see if they can come up with the reasons for that."
+      ],
+      "speaker": "Duke",
+      "time": "0282118"
+    },
+    {
+      "tokens": [
+        "We had this same problem in Gemini.",
+        "It's just hard to keep air out of water, I guess."
+      ],
+      "speaker": "Cernan",
+      "time": "0282126"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0282130"
+    },
+    {
+      "tokens": [
+        "Houston, it looks like we just went to deadband Start."
+      ],
+      "speaker": "Young",
+      "time": "0282313"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 28 hours, 24 minutes.",
+        "Distance now 115,544 [nautical] miles [213,986 km] velocity 4,928 feet per second [1,502 metres per second].",
+        "This line's very noisy.",
+        "We'll take it down and come back up again if there is further conversation."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 28 hours, 30 minutes.",
+        "CapCom Charlie Duke is talking to Gene Cernan."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "Houston, how do you read?"
+      ],
+      "speaker": "Cernan",
+      "time": "0282826"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You are coming in five-by now, Gene."
+      ],
+      "speaker": "Duke",
+      "time": "0282828"
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston.",
+        "Do you read?"
+      ],
+      "speaker": "Duke",
+      "time": "0282843"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "Are you reading?"
+      ],
+      "speaker": "Cernan",
+      "time": "0282859"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We are reading you five-by."
+      ],
+      "speaker": "Duke",
+      "time": "0282902"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "This is Omni D.",
+        "Haven't been able to do anything with this Reacq mode.",
+        "My signal strength goes from about one-quarter to two-thirds back and forth, but apparently you haven't been reading it all."
+      ],
+      "speaker": "Cernan",
+      "time": "0282907"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "We have had nothing but static.",
+        "Stand by one.",
+        "Let me see what the EECOM says."
+      ],
+      "speaker": "Duke",
+      "time": "0282921"
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston.",
+        "Those numbers we gave you were too late.",
+        "When you went to High Gain, they were too late.",
+        "We'll recompute some angles for you and get passing off to you.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0283116"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie."
+      ],
+      "speaker": "Cernan",
+      "time": "0283132"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "Those numbers in the Flight Plan for the roll left are good in about 5 minutes.",
+        "If you'll try in about 5 minutes Gene-o, it should work."
+      ],
+      "speaker": "Duke",
+      "time": "0283328"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie."
+      ],
+      "speaker": "Cernan",
+      "time": "0283339"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 28 hours, 41 minutes; and we're in conversation with the crew."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "028:37:23 Comm Tech:You have NET 1 on the 525 at this time."
+      ],
+      "speaker": "Commentary",
+      "time": "0283723"
+    },
+    {
+      "tokens": [
+        "Charlie, I'm going to High Gain now."
+      ],
+      "speaker": "Cernan",
+      "time": "0283817"
+    },
+    {
+      "tokens": [
+        "Roger, I'm reading five-by through the High Gain, Gene."
+      ],
+      "speaker": "Duke",
+      "time": "0283821"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "Houston, this is 10."
+      ],
+      "speaker": "Cernan",
+      "time": "0284014"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0284018"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm in Reacq and when I went to Reacq in High Gain, I'm reading about minus 30 on my indicator - my pitch indicator - and 270 on yaw."
+      ],
+      "speaker": "Cernan",
+      "time": "0284022"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0284035"
+    },
+    {
+      "tokens": [
+        "I'm in a Reacq mode now."
+      ],
+      "speaker": "Cernan",
+      "time": "0284038"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy on the High Gain, 10.",
+        "We'd like you to set your thumb wheels to the roll left indications: 90 and a minus 40 and configure your panel as shown in the Flight Plan with the addition of the tape recorder to Forward."
+      ],
+      "speaker": "Duke",
+      "time": "0284041"
+    },
+    {
+      "tokens": [
+        "The High Gain Antenna (HGA) position thumbwheels are used to manually input the required orientation coordinates, in both pitch and yaw."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's the way we are right now."
+      ],
+      "speaker": "Cernan",
+      "time": "0284100"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Good."
+      ],
+      "speaker": "Duke",
+      "time": "0284102"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "We're all configured now and we think we'll be breaking lock here in a little while and then the next time around we should Reacq and we'll see how that comes out."
+      ],
+      "speaker": "Duke",
+      "time": "0284116"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0284133"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 28 hours, 47 minutes.",
+        "Apollo 10's distance from the Earth now is 116,663 nautical miles [216,059 km].",
+        "Velocity 4,891 feet per second [1,491 metres per second]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 28 hours, 54 minutes and we are back in communication."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0285242"
+    },
+    {
+      "tokens": [
+        "Go ahead; over."
+      ],
+      "speaker": "Young",
+      "time": "0285244"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Cernan",
+      "time": "0285249"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Reading you five-by.",
+        "Looks like we're right on it."
+      ],
+      "speaker": "Duke",
+      "time": "0285250"
+    },
+    {
+      "tokens": [
+        "[Garble."
+      ],
+      "speaker": "Cernan",
+      "time": "0285252"
+    },
+    {
+      "tokens": [
+        "Say it again, Gene."
+      ],
+      "speaker": "Duke",
+      "time": "0285256"
+    },
+    {
+      "tokens": [
+        "Go ahead, Charlie."
+      ],
+      "speaker": "Cernan",
+      "time": "0285259"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Reading you five-by.",
+        "Looks like we locked up again on the Reacq."
+      ],
+      "speaker": "Duke",
+      "time": "0285300"
+    },
+    {
+      "tokens": [
+        "I guess so, but we never really seemed to lose lock for any great length of time for it to go back to those Reacq angles.",
+        "It has been wavering down between two-thirds and zero signal strength, but never seems to lose lock long enough for the Reacq mode to put it back at the angles."
+      ],
+      "speaker": "Cernan",
+      "time": "0285304"
+    },
+    {
+      "tokens": [
+        "Whilst in the Reacq mode the HGA will scan to maintain lock on the air to ground signal carrier within its scan limit.",
+        "Should lock be lost the HGA will steer to the manually input position settings."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0285321"
+    },
+    {
+      "tokens": [
+        "I think I'll try a little urine dump first."
+      ],
+      "speaker": "Stafford",
+      "time": "0285338"
+    },
+    {
+      "tokens": [
+        "There's - there's - it goes over there in the corner.",
+        "There's the tube."
+      ],
+      "speaker": "Young",
+      "time": "0285344"
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston.",
+        "Do you have us on the High Gain?"
+      ],
+      "speaker": "Duke",
+      "time": "0285346"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "High gain, Reacq mode."
+      ],
+      "speaker": "Young",
+      "time": "0285351"
+    },
+    {
+      "tokens": [
+        "I'll go get it."
+      ],
+      "speaker": "Young",
+      "time": "0285353"
+    },
+    {
+      "tokens": [
+        "No, it's coming back over here."
+      ],
+      "speaker": "Cernan",
+      "time": "0285354"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0285355"
+    },
+    {
+      "tokens": [
+        "Looking right at you with the eyeball, Charlie, too.",
+        "Right over Houston."
+      ],
+      "speaker": "Cernan",
+      "time": "0285412"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0285416"
+    },
+    {
+      "tokens": [
+        "Come out and smile and I will take your picture."
+      ],
+      "speaker": "Young",
+      "time": "0285420"
+    },
+    {
+      "tokens": [
+        "They won't let me out of this constant overcast here."
+      ],
+      "speaker": "Duke",
+      "time": "0285423"
+    },
+    {
+      "tokens": [
+        "How long do you want to stay?",
+        "Do you want to try this Reacq mode continually again?",
+        "Now it looks like we are picking up good strong strength at those angles."
+      ],
+      "speaker": "Young",
+      "time": "0285438"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0285447"
+    },
+    {
+      "tokens": [
+        "You got the red one there, Tiger, or the left, or whatever it is?"
+      ],
+      "speaker": "Cernan",
+      "time": "0285504"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "It looks like you switched to narrow beam and it looks good.",
+        "We'd like to try it one more time."
+      ],
+      "speaker": "Duke",
+      "time": "0285505"
+    },
+    {
+      "tokens": [
+        "Well, it says left."
+      ],
+      "speaker": "Stafford",
+      "time": "0285507"
+    },
+    {
+      "tokens": [
+        "Well, okay.",
+        "Hell, I don't mind sharing, T.P."
+      ],
+      "speaker": "Cernan",
+      "time": "0285512"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "0285513"
+    },
+    {
+      "tokens": [
+        "Boy, we've got the world's brightest sunshine up here."
+      ],
+      "speaker": "Young",
+      "time": "0285623"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "In which window?"
+      ],
+      "speaker": "Duke",
+      "time": "0285627"
+    },
+    {
+      "tokens": [
+        "It depends on where you are in the PTC mode."
+      ],
+      "speaker": "Young",
+      "time": "0285632"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0285637"
+    },
+    {
+      "tokens": [
+        "I can see why they got all that thermal insulation on the Lunar Module.",
+        "They need it."
+      ],
+      "speaker": "Young",
+      "time": "0285646"
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston."
+      ],
+      "speaker": "Duke",
+      "time": "0285706"
+    },
+    {
+      "tokens": [
+        "Go ahead, Charlie ."
+      ],
+      "speaker": "Cernan",
+      "time": "0285710"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I want to talk to John a little bit.",
+        "I think we misled you on this PTC setup, John, last time.",
+        "We would like to reinitiate this thing after this Reacq test, and I would just like to run through this procedure again.",
+        "On the 194 on the CMC, the checklist is good down through step 4.",
+        "Then, we would like you to disable all the jets on Quads C and D.",
+        "Then wait 20 minutes again.",
+        "Then the Manual Attitude to pitch and yaw to Accel Command.",
+        "Then, make sure you Enable all the jets and then initiate the desired roll rate with the procedures listed in the checklist, And when you get the roll attained, then Manual Attitude roll to Accel Command and increase the deadband to the desired value on page 193 and then Manual Attitude pitch and yaw Rate Command.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0285714"
+    },
+    {
+      "tokens": [
+        "Duke has confirmed the PTC initiation procedure outline previously, and added the final step to set the Manual Attitude pitch and yaw switches to Rate CMD which allows CMC control only."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, I figured you were going to say that, Charlie."
+      ],
+      "speaker": "Young",
+      "time": "0285823"
+    },
+    {
+      "tokens": [
+        "I don't get it.",
+        "Excuse me; little slow now."
+      ],
+      "speaker": "Duke",
+      "time": "0285829"
+    },
+    {
+      "tokens": [
+        "No, that's all right.",
+        "I understand what you are saying."
+      ],
+      "speaker": "Young",
+      "time": "0285834"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It looked like to us that to get the roll rate started we didn't have all the jets and the thing coupled in on us and started.",
+        "We got a pitch and yaw out of it, also, instead of just pure roll."
+      ],
+      "speaker": "Duke",
+      "time": "0285839"
+    },
+    {
+      "tokens": [
+        "Well, I would be right surprised to see if you can get a pure roll rate out of these things on account of the roll thrusters, they just ain't there."
+      ],
+      "speaker": "Young",
+      "time": "0285901"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Well the G&C guys say that with the damp doing it with the two jets, it ought to give us as close to a couple as we can get and they will admit that we get some pitch and yaw, but we shouldn't get too much and then it should damp out for us."
+      ],
+      "speaker": "Duke",
+      "time": "0285912"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "What damps it out?"
+      ],
+      "speaker": "Young",
+      "time": "0285935"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "When you go back, as I understand it, when you go back to pitch and yaw Rate Command in the last step of the procedure, then we ought to damp those rates out."
+      ],
+      "speaker": "Duke",
+      "time": "0285936"
+    },
+    {
+      "tokens": [
+        "But don't you make the deadbands big and everything?"
+      ],
+      "speaker": "Young",
+      "time": "0285956"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Everybody is shaking - G&C is shaking his head no, that when you make the deadband big, then you won't get any damping out until you hit the edge of the deadband, then it will bring you back in.",
+        "And I guess you just have to accept those pitch and yaws when you start up the roll rate, if you do get it."
+      ],
+      "speaker": "Duke",
+      "time": "0285959"
+    },
+    {
+      "tokens": [
+        "I see."
+      ],
+      "speaker": "Young",
+      "time": "0290026"
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston.",
+        "On this next Reacq test, we would like you to check - monitor your pitch and yaw gimbals on the S-band and see how close it comes to the gimbal and if it is listed on your card - in your checklist."
+      ],
+      "speaker": "Duke",
+      "time": "0290136"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "0290156"
+    },
+    {
+      "tokens": [
+        "Charlie, let me run this by you again and see if we got it straight now."
+      ],
+      "speaker": "Young",
+      "time": "0290500"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0290503"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're going to go to the attitude in tight deadband.",
+        "Now we're going to Enter 50 18, and we're going to disable C and D quads and wait 20 minutes, then we're going to enable all the jets that go to pitch and yaw and Rate Command, and we're going to initiate a three-tenths of a degree roll rate and Accel Command.",
+        "All this time we are still a tight deadband, and then we're going to go to wide deadband.",
+        "Is that correct?"
+      ],
+      "speaker": "Young",
+      "time": "0290509"
+    },
+    {
+      "tokens": [
+        "That's negative, John.",
+        "You - you wait 20 minutes - all that down to \"wait 20 minutes\" is good.",
+        "Then you go to Manual Attitude Pitch and Yaw to Accel Command.",
+        "You enable all the jets, and then you let the DAP start - stop - start the roll rate by doing the Verb 21 Noun 01 Enter and the Verb 24 Enter, and on the last Enter, the thing ought to take off and roll, and when the roll is attained, the Manual Attitude Roll goes to Accel Command.",
+        "Then you increase the deadband to the desired value and the Manual Attitude pitch and yaw to the Rate Command.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0290533"
+    },
+    {
+      "tokens": [
+        "Duke is trying to explain the PTC initiation procedure to John Young, but Young is not convinced the procedure is sound."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It looks to me like a good way to use gas."
+      ],
+      "speaker": "Young",
+      "time": "0290629"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "I know."
+      ],
+      "speaker": "Duke",
+      "time": "0290634"
+    },
+    {
+      "tokens": [
+        "I'll try though."
+      ],
+      "speaker": "Young",
+      "time": "0290637"
+    },
+    {
+      "tokens": [
+        "I cut you out.",
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0290638"
+    },
+    {
+      "tokens": [
+        "At 29 hours, 9 minutes; Apollo 10's distance from the Earth is 117,661 nautical miles [217,907 km]; velocity 4,858 feet per second [1,481 metres per second]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "Apollo 10."
+      ],
+      "speaker": "Stafford",
+      "time": "0291500"
+    },
+    {
+      "tokens": [
+        "Fine shot, 10.",
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0291505"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We can read you now.",
+        "We want to go over this step-by-step again because we think there is still one step that's out of sequence.",
+        "We want to go through it after it's finished the Reacq mode here.",
+        "Just go through the whole thing step-by-step and then we'll give it a go.",
+        "Okay?"
+      ],
+      "speaker": "Stafford",
+      "time": "0291510"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "We copy."
+      ],
+      "speaker": "Duke",
+      "time": "0291525"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "I've got a couple of points for you on that gimbal limit."
+      ],
+      "speaker": "Cernan",
+      "time": "0291530"
+    },
+    {
+      "tokens": [
+        "Okay, shoot."
+      ],
+      "speaker": "Duke",
+      "time": "0291534"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You can plot them if you want.",
+        "Pitch plus 60, and yaw 220.",
+        "Pitch plus 60 and yaw 240, plus 60 and 270, and then pitch minus 10 and yaw 90.",
+        "Pitch zero and yaw 120, and pitch zero and yaw 130.",
+        "That gives you an idea of the ones I was able to plot - how close we come to it."
+      ],
+      "speaker": "Cernan",
+      "time": "0291537"
+    },
+    {
+      "tokens": [
+        "Cernan is reading out the HGA gimbal angles he has plotted during the REACQ tests."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you much, 10.",
+        "We copy them all."
+      ],
+      "speaker": "Duke",
+      "time": "0291618"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let me know how long you want us to stay in High Gain."
+      ],
+      "speaker": "Cernan",
+      "time": "0291624"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0291628"
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10, Houston.",
+        "We're ready to discuss the PTC setup if you guys are still go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0291710"
+    },
+    {
+      "tokens": [
+        "Go, still go."
+      ],
+      "speaker": "Cernan",
+      "time": "0291720"
+    },
+    {
+      "tokens": [
+        "10, you want me to start out with the procedure as we have it, or do you want to ask questions?"
+      ],
+      "speaker": "Duke",
+      "time": "0291724"
+    },
+    {
+      "tokens": [
+        "Why don't you run through it just one time and then let me write it all down and then I'll ask questions, okay?"
+      ],
+      "speaker": "Cernan",
+      "time": "0291733"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Okay.",
+        "On the setup, your procedure on page - on the G&N checklist, on 194 is good down to the - through step 4 on 50 18.",
+        "Enter when the maneuver is complete to the PTC attitude.",
+        "Then we'd like you to disable all jets on quads Charlie and Delta, wait 20 minutes, then Manual Attitude pitch and yaw Accel Command.",
+        "Then enable all jets.",
+        "Then initiate the desired roll rate via the Verb 24, Noun 01, and the Verb 24 Enter.",
+        "When roll is obtained, Manual Attitude roll to Accel Command.",
+        "Then increase your deadband to the desired value, and Manual Attitude, Pitch and Yaw, to Rate Command.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0291739"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You went too fast on the last part there, Charlie.",
+        "Okay, again you wanted to initiate the initial roll rate with Verb 24, right?"
+      ],
+      "speaker": "Stafford",
+      "time": "0291905"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "You know you set into the DAP the three-tenths via the Verb 24, Noun 01 and them the Verb 24 and on the last Enter on that sequence you get, the DAP will start the roll rate."
+      ],
+      "speaker": "Duke",
+      "time": "0291913"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We set the decimal up here - he said we disable C and D jets, we wait 20 minutes, Manual Attitude, pitch and yaw Accel Command.",
+        "Then we enable all jets to initiate the desired roll rate, but we can't use the DAP if the Pitch and Yaw are in Accel Command."
+      ],
+      "speaker": "Stafford",
+      "time": "0291938"
+    },
+    {
+      "tokens": [
+        "Stafford has identified that with the Manual Attitude, pitch and yaw switches in the Accel CMD position, the Digital Auto Pilot (DAP) cannot be used to establish the required roll rate.",
+        "He has missed that the Manual Attitude roll switch is in the Rate CMD position, hence allowing use of the DAP in establishing and controlling the roll rate."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, but - Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0292024"
+    },
+    {
+      "tokens": [
+        "Do you want to use the DAP [digital Auto pilot]...?"
+      ],
+      "speaker": "Stafford",
+      "time": "0292008"
+    },
+    {
+      "tokens": [
+        "We got roll - We have roll in Rate Command and we want you to initiate the roll."
+      ],
+      "speaker": "Duke",
+      "time": "0292014"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0292021"
+    },
+    {
+      "tokens": [
+        "Rate in using the DAP.",
+        "See if you have pitch and yaw..."
+      ],
+      "speaker": "Duke",
+      "time": "0292022"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0292025"
+    },
+    {
+      "tokens": [
+        "Okay?"
+      ],
+      "speaker": "Duke",
+      "time": "0292026"
+    },
+    {
+      "tokens": [
+        "Yes, well, my question is, what keeps the roll from coming into pitch and yaw if you've got it in Accel Command?"
+      ],
+      "speaker": "Cernan",
+      "time": "0292029"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0292039"
+    },
+    {
+      "tokens": [
+        "Apollo 10, this is Houston.",
+        "We'll admit that some roll rate will couple into pitch and yaw with pitch and yaw in the Accel Command when the roll rate is initiated, but we feel that this is a procedure that will minimize that coupling.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0292051"
+    },
+    {
+      "tokens": [
+        "Well, I'll tell you, Charlie, I really don't see a bit of difference between this and what he did when we set it up manually.",
+        "We'd be doing the same things and you see where we are right now."
+      ],
+      "speaker": "Cernan",
+      "time": "0292111"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0292122"
+    },
+    {
+      "tokens": [
+        "We'll try it."
+      ],
+      "speaker": "Cernan",
+      "time": "0292124"
+    },
+    {
+      "tokens": [
+        "We'll give it one go and see how it works out and follow us right through it.",
+        "Okay?"
+      ],
+      "speaker": "Stafford",
+      "time": "0292125"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0292129"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "One question, Charlie.",
+        "Do you want to go to the attitude in tight deadband?",
+        "Is that not correct?"
+      ],
+      "speaker": "Cernan",
+      "time": "0292149"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "On the Verb 48 we select 0.5-degree deadband."
+      ],
+      "speaker": "Duke",
+      "time": "0292156"
+    },
+    {
+      "tokens": [
+        "Duke once again is confirming the details of the PTC initiation as the crew queries the revised procedure."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0292204"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "We're dumping your tape.",
+        "We'd like, when we finish the dump - we'd like for you to go to Omni Bravo and also one Flight Plan update, at 28:55, delete the closing of the O2Vac Ion Main A and B breakers."
+      ],
+      "speaker": "Duke",
+      "time": "0292230"
+    },
+    {
+      "tokens": [
+        "All of the reactant tanks have vac ion pumps to maintain the integrity of the vacuum between the inner and outer shell, thus maintaining heat leak at or below the design level."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yes, we've got it, Charlie."
+      ],
+      "speaker": "Cernan",
+      "time": "0292300"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0292302"
+    },
+    {
+      "tokens": [
+        "When are you going to be done with the dump?"
+      ],
+      "speaker": "Cernan",
+      "time": "0292303"
+    },
+    {
+      "tokens": [
+        "Stand By.",
+        "EECOM say, in a minute, Gene."
+      ],
+      "speaker": "Duke",
+      "time": "0292304"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0292314"
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston.",
+        "We have the dump completed; select Omni Bravo, please."
+      ],
+      "speaker": "Duke",
+      "time": "0292428"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go on OMNI Bravo."
+      ],
+      "speaker": "Cernan",
+      "time": "0292435"
+    },
+    {
+      "tokens": [
+        "Hey, Charlie, when we get the desired roll rate then go Manual Attitude in roll to Accel Command, and what's the third step in there?"
+      ],
+      "speaker": "Young",
+      "time": "0292643"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "Manual Attitude roll to Accel Command then you can increase your deadband to the desired value and then put the Manual Attitude pitch and yaw to Rate Command.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0292654"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "0292709"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We are at the attitude.",
+        "We have C and D jets disabled."
+      ],
+      "speaker": "Young",
+      "time": "0292753"
+    },
+    {
+      "tokens": [
+        "RCS jet quadrants Charlie and Delta."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0292756"
+    },
+    {
+      "tokens": [
+        "We started the clock to wait the 20 minutes."
+      ],
+      "speaker": "Stafford",
+      "time": "0292800"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy, 10.",
+        "Our last time out to the 20 minutes, we had rates down to a thousandth, less than a thousandth of a degree."
+      ],
+      "speaker": "Duke",
+      "time": "0292803"
+    },
+    {
+      "tokens": [
+        "Yes, but Charlie, here's the thing.",
+        "We'll go ahead and do this, but what happened was that when Tom initiated a three-tenths of a degree per second roll rate with pitch and yaw, in Accel Command, and it coupled, I don't see how, we're right up against a deadband in about 20 minutes or how ever long it was."
+      ],
+      "speaker": "Cernan",
+      "time": "0292820"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Did you enable all the jets at that time, when you started that roll rate?",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0292841"
+    },
+    {
+      "tokens": [
+        "Nope.",
+        "Okay.",
+        "I'm not sure.",
+        "We'll go ahead right down through the procedure here."
+      ],
+      "speaker": "Stafford",
+      "time": "0292856"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0292906"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Apollo 10.",
+        "We're going to go ahead and load the DSKY, as you can see, and will not hit Enter until 20 minutes has elapsed."
+      ],
+      "speaker": "Stafford",
+      "time": "0294158"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "We copy."
+      ],
+      "speaker": "Duke",
+      "time": "0294207"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "Before you hit the final Enter, we'd like you to hold off right where we are until we can get some verification on what this will do to us by just standing here."
+      ],
+      "speaker": "Duke",
+      "time": "0294312"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0294328"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're down to the last step, and we'll hold off."
+      ],
+      "speaker": "Stafford",
+      "time": "0294349"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy.",
+        "Stand by, Tom."
+      ],
+      "speaker": "Duke",
+      "time": "0294353"
+    },
+    {
+      "tokens": [
+        "All right, Charlie."
+      ],
+      "speaker": "Stafford",
+      "time": "0294359"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "When we get to 20 minutes, you mean you don't want us to keep on going?"
+      ],
+      "speaker": "Young",
+      "time": "0294537"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 10."
+      ],
+      "speaker": "Young",
+      "time": "0294605"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead, 10."
+      ],
+      "speaker": "Duke",
+      "time": "0294607"
+    },
+    {
+      "tokens": [
+        "When we get to 20 minutes, you do not wish us to proceed with the test?"
+      ],
+      "speaker": "Young",
+      "time": "0294611"
+    },
+    {
+      "tokens": [
+        "Negative, 10.",
+        "That wasn't my intention.",
+        "We're discussing with the G&C now.",
+        "When you did the Verb 24, Noun 01 Enter, it set up a rate of some sort that I'm trying to get explained to me right now, and I'll be back with you in just a moment.",
+        "At the end of the 20 minutes, you can proceed on.",
+        "If you'll stand by, I'll have an explanation for you.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0294615"
+    },
+    {
+      "tokens": [
+        "I don't see much rates here."
+      ],
+      "speaker": "Young",
+      "time": "0294653"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We - They're very small, 10.",
+        "We saw something on the downlink.",
+        "It's damping out now.",
+        "When you get to 20 minutes, you can proceed."
+      ],
+      "speaker": "Duke",
+      "time": "0294659"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "0294710"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Coming up on 20 minutes.",
+        "Going to put the Manual Attitude, Pitch, and Yaw, to Accel Command."
+      ],
+      "speaker": "Stafford",
+      "time": "0294844"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Stafford",
+      "time": "0294850"
+    },
+    {
+      "tokens": [
+        "Twenty minutes.",
+        "Manual Attitude, Pitch and Yaw, to Accel Command, and all jets are coming on enabled."
+      ],
+      "speaker": "Stafford",
+      "time": "0294851"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0294857"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Are you ready for us to rehit this final Enter to set up the roll rate?"
+      ],
+      "speaker": "Stafford",
+      "time": "0294901"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0294906"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're standing by."
+      ],
+      "speaker": "Stafford",
+      "time": "0294912"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 10."
+      ],
+      "speaker": "Young",
+      "time": "0295018"
+    },
+    {
+      "tokens": [
+        "Go ahead, 10."
+      ],
+      "speaker": "Duke",
+      "time": "0295021"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "If that roll jet fires, it's going to couple into the other axis before we even get started on this thing."
+      ],
+      "speaker": "Young",
+      "time": "0295025"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're having a little discussion down here.",
+        "We'll be back with you in 5 seconds or so.",
+        "Hold on."
+      ],
+      "speaker": "Duke",
+      "time": "0295031"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "0295039"
+    },
+    {
+      "tokens": [
+        "And it just fired."
+      ],
+      "speaker": "Young",
+      "time": "0295104"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You can Enter."
+      ],
+      "speaker": "Duke",
+      "time": "0295105"
+    },
+    {
+      "tokens": [
+        "It's entered, and there it goes."
+      ],
+      "speaker": "Young",
+      "time": "0295114"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0295117"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Roll's going to Accel Command."
+      ],
+      "speaker": "Stafford",
+      "time": "0295126"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0295129"
+    },
+    {
+      "tokens": [
+        "And we're going to put the deadband to wide - and we're going to put the deadband to wide now.",
+        "Affirmative?"
+      ],
+      "speaker": "Stafford",
+      "time": "0295130"
+    },
+    {
+      "tokens": [
+        "That's affirmative, to 30 degrees."
+      ],
+      "speaker": "Duke",
+      "time": "0295138"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Now, Manual Attitude, pitch and yaw, now going to Rate Command."
+      ],
+      "speaker": "Stafford",
+      "time": "0295217"
+    },
+    {
+      "tokens": [
+        "That's affirmative, 10, and I think we're finally in configuration.",
+        "Let's see what happens."
+      ],
+      "speaker": "Duke",
+      "time": "0295221"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Garble."
+      ],
+      "speaker": "Stafford",
+      "time": "0295230"
+    },
+    {
+      "tokens": [
+        "[Garble.] Charlie [garble]."
+      ],
+      "speaker": "Young",
+      "time": "0295231"
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston.",
+        "After your comments on Manual Attitude, Pitch and Yaw, to Rate Command, you faded out, Tom.",
+        "Say again what you had."
+      ],
+      "speaker": "Duke",
+      "time": "0295325"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That was the last step on the total sequence."
+      ],
+      "speaker": "Stafford",
+      "time": "0295338"
+    },
+    {
+      "tokens": [
+        "And honestly, the only difference between this one and the last one was that this time the DAP did it and the last time we did it - roll rate."
+      ],
+      "speaker": "Cernan",
+      "time": "0295345"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "If - one point here: we couldn't - since we didn't have the high bit rate, we couldn't tell, but if you had not - did not enable all the jets, then when you started the roll manually in Accel Command, then it would only fire one jet, and that would couple due to the c.g.",
+        "problems with the LM on board, it would couple into pitch and yaw.",
+        "And we feel that that's what's happened, but we weren't able to verify that due to the telemetry."
+      ],
+      "speaker": "Duke",
+      "time": "0295352"
+    },
+    {
+      "tokens": [
+        "'Couple' usually refers to the use of two thrusters on opposite sides of the spacecraft to exert a pure torque or turning force without any appreciable force on the spacecraft's centre-of-gravity.",
+        "In this usage, the meaning is a little different.",
+        "By using a single thruster on the SM, itself far from the stack's c-of-g, pitch and yaw rotations result from what would otherwise be intended as a simple roll firing.",
+        "In other words a thruster firing for roll would 'couple' or be linked to resultant pitch and yaw rotations."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, I think it's a good theory, but that - that isn't what happened, because we had the same procedure for the last one except - with the exception that we replaced the DAP with the stick-and-throttle guy."
+      ],
+      "speaker": "Young",
+      "time": "0295424"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We - Stand by.",
+        "We'll see if we can come up with an answer, but I doubt it, John.",
+        "There's a lot of disagreement here on this."
+      ],
+      "speaker": "Duke",
+      "time": "0295436"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, that's very interesting.",
+        "We'll watch it."
+      ],
+      "speaker": "Young",
+      "time": "0295447"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0295450"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 29 hours, 55 minutes.",
+        "Apollo 10 now at a distance of 119,805 nautical miles [221,878 km] from Earth and velocity continuing to decrease very slowly.",
+        "Present speed is 4,790 feet per second [1,460 metres per second].",
+        "We've completed a change of shift here in Mission Control.",
+        "Flight Director Milton Windler has come on to replace Glynn Lunney.",
+        "Our Capsule Communicator will continue to be Charlie Duke.",
+        "Milton Windler has gone around the room, reviewed the status of the Mission to this point with all of his Flight Controllers, finds everything in good condition.",
+        "We've had some conversation with the spacecraft since our last report relating to the test to set up a 3 tenths of a second rate in roll for Passive Thermal Control.",
+        "This is one of two modes being tested on this mission for Passive Thermal Control.",
+        "Up until now the spacecraft has been rotating very slowly at the rate of about 1 revolution per hour.",
+        "That rate will be speeded up to about 3 revolutions per hour.",
+        "We'll pick up the taped conversation that we have and stand by for any live communications with the spacecraft."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    }
+  ],
+  "source_file": "day2_part8_midcourse_correction_and_tv_transmission.html"
+}

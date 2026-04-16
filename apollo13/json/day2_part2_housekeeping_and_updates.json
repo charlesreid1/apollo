@@ -1,0 +1,3388 @@
+{
+  "description": "A13FJ - Day 2, part 2: Housekeeping and Updates",
+  "transcript": [
+    {
+      "tokens": [
+        "The second day of the mission of Apollo 13 is well under way.",
+        "The crew has performed regular maintenance and systems monitoring, and sent the spacecraft on a new trajectory after a midcourse correction that was broadcast live on TV to Mission Control.",
+        "They are now on a non-free-return trajectory which will allow them to reach their targeted landing zone in Fra Mauro on the Moon.",
+        "Both the crew and their spacecraft are performing without a fault."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-25."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Dynamics Officer says the trajectory looks good; we show a one half mile in altitude at this time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 31 hours, 34 minutes.",
+        "During the change of shift briefing, Flight Director Milton Windler has been in the process of reviewing the mission status with each of his flight controllers.",
+        "We've also had some conversations with the spacecraft.",
+        "Vance Brand has given the crew the instructions for photographing the Comet Bennett at 32 hours.",
+        "This will be done using the Data Acquisition Camera, a 16-millimeter data camera on board the spacecraft.",
+        "And, at this time, Jack Swigert is in the Lower Equipment Bay doing a P23 exercise, the midcourse navigation, using the onboard optical equipment and the onboard computer and guidance system, updating the guidance system with onboard sightings of five stars.",
+        "We'll play back the tape recorded conversations that we have and then standby for live communications."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0313644"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0313648"
+    },
+    {
+      "tokens": [
+        "On the P33, just like to verify that you changed the Noun 88 values for this last star.",
+        "It looks like they haven't been changed.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0313650"
+    },
+    {
+      "tokens": [
+        "In the audio recording, Brand clearly says \"P33\" but he must have misspoken.",
+        "P33 is a program for use during a rendezvous and P23 makes sense in this context.",
+        "Noun 88 defines a vector to a celestial body.",
+        "It allows stars that are not on the pre-programmed star list to be used for cislunar navigation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Vance."
+      ],
+      "speaker": "Swigert",
+      "time": "0313706"
+    },
+    {
+      "tokens": [
+        "That's better.",
+        "Let's read you what we - what we have.",
+        "We have what they had in the Flight Plan, and if it's been changed from the Flight Plan, we don't have it.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0313710"
+    },
+    {
+      "tokens": [
+        "Stand by 1.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0313729"
+    },
+    {
+      "tokens": [
+        "We think you're right, Vance.",
+        "It looks like they used the same set of Noun 88 for both stars by mistake."
+      ],
+      "speaker": "Lovell",
+      "time": "0313809"
+    },
+    {
+      "tokens": [
+        "Okay, very good."
+      ],
+      "speaker": "Brand",
+      "time": "0313816"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Vance.",
+        "That ought to complete the P23s, right?"
+      ],
+      "speaker": "Swigert",
+      "time": "0314404"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Very good, Jack.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0414407"
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0314437"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Swigert",
+      "time": "0314442"
+    },
+    {
+      "tokens": [
+        "We have some results on your - your first star, if you'd like to hear them.",
+        "The rest of the stars we'll - we'll have to give you in a couple of hours.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0314444"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0314458"
+    },
+    {
+      "tokens": [
+        "Okay, the first star: the corrected altitude, 15 kilometers plus or minus 4; effective altitude, 12 kilometers plus or minus 7.",
+        "As far as the substellar point, the value is arc-minutes - 2 arc-minutes, and that's very good.",
+        "And, like I said, we'll get back with you in a couple of hours for the rest."
+      ],
+      "speaker": "Brand",
+      "time": "0314459"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Jack has been doing star sightings to determine the spacecraft's position using the onboard optics and the computer.",
+        "At that early stage of the mission, an additional purpose of this particular exercise is to calibrate his sense of where Earth's atmosphere starts.",
+        "To measure the angle between Earth's limb and a star, the sextant is used to place the image of the star on the limb.",
+        "However, the atmosphere makes Earth's limb somewhat indistinct.",
+        "What is required is that the astronaut places the star on a repeatable point in the atmosphere.",
+        "This becomes an offset which can be factored into the computer's calculations of their state vector.",
+        "Jack's sightings are consistently around a point in the atmosphere that is about 12 kilometres above the actual limb."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0315631"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0315636"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Lovell",
+      "time": "0315637"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We have several items, here.",
+        "First, is a reminder on the PTC that R1 should be 375 - 0.375 degrees as last night, to get 0.3-degree rotation rate.",
+        "The second one..."
+      ],
+      "speaker": "Brand",
+      "time": "0315638"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copy that."
+      ],
+      "speaker": "Swigert",
+      "time": "0315700"
+    },
+    {
+      "tokens": [
+        "They had trouble establishing the PTC roll on the night before due to needing to use this 0.375 value to get the proper rate of rotation.",
+        "This has now been rectified."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The second one, at 32 hours looking at Bennett's Comet - we want the pictures taken when the spacecraft is as stable as it's going to be before starting PTC.",
+        "The stability requirement is very high.",
+        "We weren't sure if you understood that from what we passed up.",
+        "In addition, the photographs might not show as much as the eye can see of the comet, so if you see anything interesting about the structure of the comet, why, sketching it is in order - is in order and is encouraged.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0315702"
+    },
+    {
+      "tokens": [
+        "Okay, Vance.",
+        "What we'll do is, when we get to attitude, we'll disable the quads and do like we did last night; we'll let GUIDO and you people down there tell us when you think we're stable enough; then we'll do all this work with the DAC on the sextant, first; and then when we get that done, we'll go back and put the sextant eyepiece back on and see what we can observe visually."
+      ],
+      "speaker": "Swigert",
+      "time": "0315750"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That sounds good.",
+        "[Pause.] Also, while you are waiting for the vehicle to stabilize, it might be interesting to have the eyepiece on and be looking at it visually.",
+        "[Pause.] Okay.",
+        "Next item: your SPS burn had no anomalies whatsoever.",
+        "It was a very good burn."
+      ],
+      "speaker": "Brand",
+      "time": "0315818"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Very good."
+      ],
+      "speaker": "Swigert",
+      "time": "0315852"
+    },
+    {
+      "tokens": [
+        "Next item: request hydrogen tank 1 Heater, Off, for balancing purposes.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0315855"
+    },
+    {
+      "tokens": [
+        "Two cryogenic oxygen and two cryogenic hydrogen tanks are located in the Service Module, feeding the fuel cells with reactants for power generation.",
+        "Both sets of tanks should be drained equally so that in case of the loss of one tank, the remaining tank would be capable of supporting the crew during an abort of the mission and return home."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And Apollo 13, another item: something that we have observed and you might be seeing is a slight TCEfluctuation on fuel cell 3.",
+        "This fluctuation has been going from about 152 to 160 over a 37-second period.",
+        "It has been seen on other flights in the past.",
+        "No one is worried about it, but the usual fluctuation is about 1½ degrees instead of the second - instead of 7 seconds, so thought you should be aware of it."
+      ],
+      "speaker": "Brand",
+      "time": "0315922"
+    },
+    {
+      "tokens": [
+        "Oxygen and hydrogen are piped into the fuel cell where the reaction produces electricity and an outflow of water steam and hydrogen gas.",
+        "This is piped into the condenser, where the Environmental Control System's glycol/water coolant absorbs heat from the steam and converts it into liquid water.",
+        "Currently they are noticing an unusual cyclic fluctuation in the temperature in the condenser, although it is not considered to be a problem."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-26."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Vance.",
+        "And one other slight distinction we've noted is the flow of hydrogen versus the oxygen is not exactly matched on fuel cell 3 either.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0320007"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We copy.",
+        "And the last item: we'd like to send you an IRIG update, so at your convenience, request P00 and Accept.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0320026"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're in P00 and Accept, Vance."
+      ],
+      "speaker": "Lovell",
+      "time": "0320046"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0320049"
+    },
+    {
+      "tokens": [
+        "Vance's mysterious remark concerns the Inertial Rate Integrating Gyros, or IRIGs.",
+        "There are three of these mounted in the Inertial Measurement Unit, and their function is to sense if the platform is going out of alignment and signal to the gimbal motors to restore it.",
+        "Such a gyroscopically stabilised platform has a tendency to drift away from its perfect alignment.",
+        "This so-called null bias drift can be compensated for.",
+        "Based on Jack's earlier alignments, Mission Control has computed the compensation, and it is applied over the data uplink into the onboard computer which interprets the output from the IMU."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Quad C and D are disabled, Vance."
+      ],
+      "speaker": "Swigert",
+      "time": "0320120"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Disabled.",
+        "And down here, we see that your hydrogen and oxygen on the fuel cell are exactly matched, so we suspect it's purely a spacecraft read-out problem."
+      ],
+      "speaker": "Brand",
+      "time": "0320124"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0320140"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At this time, the crew is in the process of stabilizing the spacecraft attitude, eliminating all rotational rates in preparation for spinning up the spacecraft for the Passive Thermal Control mode.",
+        "Before beginning the slow rotation of Passive Thermal Control, Jack Swigert will attach the Data Acquisition Camera to the spacecraft's sextant, the 28-power sextant, and will attempt to get some photographs of Bennett's comet.",
+        "He'll take a series of photographs at varying time exposure rates and he's also been advised if any particularly interesting features are noted visually of the Comet Bennett, that they should attempt to sketch them.",
+        "At the present time, Apollo 13 is 125,083 nautical miles [231,654 km] from Earth.",
+        "The spacecraft velocity is 4,571 feet per second [1,393 m/s].",
+        "The fuel cell temperature fluctuations which were mentioned are occurring in fuel cell No.",
+        "3, and this is a temperature that's measured at the condenser exhaust, at the point where the hydrogen reactant is flowing out of the fuel cell and the water's being separated from it.",
+        "The other two fuel cells are remaining steady at about a 157..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Vance, let us know when you're through with the DSKY so we can load Noun 88?",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0320426"
+    },
+    {
+      "tokens": [
+        "They plan to use Noun 88 to point their optics at the Comet Bennett."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "We'll let you know, Jack.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "032:04:40"
+    },
+    {
+      "tokens": [
+        "And as we were saying, the two other fuel cells, Fuel Cells 1 and 2, are remaining stable at a temperature of about 157 to 159 degrees.",
+        "Fuel Cell 3 is fluctuating between about 152 and 160.",
+        "Vance Brand advised the crew that this will cause no problem, with a possible exception that it could trigger a warning alarm to them.",
+        "But we have seen this sort of thing on previous flights, and it should cause no problem."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston.",
+        "The computer's yours, again."
+      ],
+      "speaker": "Brand",
+      "time": "032:05:22"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Guidance Officer has just reported that the spacecraft appears to be approaching a stable attitude, and we expect that would be in a position shortly for the crew to begin - attempt to photograph the Bennett Comet."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're Go for the pictures."
+      ],
+      "speaker": "Brand",
+      "time": "0321056"
+    },
+    {
+      "tokens": [
+        "Okay, Vance.",
+        "We tried our Auto Optics and couldn't pick it up there.",
+        "We're pointing pretty much right into the Sun, and things are pretty well washed out.",
+        "And I've gone to Manual Optics and I'm trying to get 0.8, 12.5 on the shaft and trunnion, and I still can't pick it up.",
+        "So - it's very light in the sextant, so I kind of think maybe we're too near the Sun to see it."
+      ],
+      "speaker": "Swigert",
+      "time": "0321101"
+    },
+    {
+      "tokens": [
+        "That's right, Vance.",
+        "The sextant is all - it's - it's all milky and it - any comet that could be seen through there is just going to be missed in the background."
+      ],
+      "speaker": "Lovell",
+      "time": "0321128"
+    },
+    {
+      "tokens": [
+        "Okay, we copy that.",
+        "We got some discussion.",
+        "Stand by."
+      ],
+      "speaker": "Brand",
+      "time": "0321141"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Vance, it isn't - we're not looking into the Sun - what we are getting is a large reflection from the Sun behind us off the LM; and it is - it is coming on that quad 1 there, and that quad is reflecting back into the sextant."
+      ],
+      "speaker": "Swigert",
+      "time": "0321335"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "Understand.",
+        "Just a question: if you look through the telescope, can you see the comet at all?",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0321354"
+    },
+    {
+      "tokens": [
+        "No, I can't, Vance.",
+        "It's - it's still too light.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0321407"
+    },
+    {
+      "tokens": [
+        "The comet observation has been unsuccessful so far.",
+        "Currently it appears that the Lunar Module's RCS quads are reflecting light to the optics and making it impossible to see the Comet Bennett."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Brand",
+      "time": "032:14:35"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "You heard Jack Swigert advise, and Jim Lovell confirm, that reflections of the Sun off the LM are apparently washing out the sextant field of view and making it impossible to get a view of the Bennett - the Comet Bennett.",
+        "This problem is being discussed in Mission Control right now.",
+        "Ken Mattingly, who is in the Control Center, and the Flight Activities Officer, and CapCom Vance Brand, as well as astronaut Tony England, are huddled around the Flight Director's console, discussing the possibility of perhaps seeking another spacecraft attitude that might avoid the reflection problem."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Say, Vance?"
+      ],
+      "speaker": "Haise",
+      "time": "0321745"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead."
+      ],
+      "speaker": "Brand",
+      "time": "0321750"
+    },
+    {
+      "tokens": [
+        "Are the flowers blooming yet?"
+      ],
+      "speaker": "Haise",
+      "time": "0321755"
+    },
+    {
+      "tokens": [
+        "Gee, I sure haven't seen any."
+      ],
+      "speaker": "Brand",
+      "time": "0321800"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0321804"
+    },
+    {
+      "tokens": [
+        "Ken Mattingly has not yet developed German measles, as per the somewhat humorous code language used here."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, we've - we've got quite a discussion down here on your trying to observe the comet, and this reflection is not unexpected.",
+        "And give us another minute, and we'll be back with you on something on that."
+      ],
+      "speaker": "Brand",
+      "time": "0321805"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I doubt very seriously though, if we take any photographs with high-speed black and white with the light coming into the sextant that you're going to get anything out of it.",
+        "[Pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0321826"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Unanimous opinion is that you're right, and we'll scratch all of this Bennett Comet stuff on the way out, with the hope that conditions will be more favorable after TEI.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0321842"
+    },
+    {
+      "tokens": [
+        "Sounds good.",
+        "Without the LM, we may have a better chance."
+      ],
+      "speaker": "Lovell",
+      "time": "0321904"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0321910"
+    },
+    {
+      "tokens": [
+        "And Apollo 13, you're Go for PTC.",
+        "Your rates are very low according to what we can read."
+      ],
+      "speaker": "Brand",
+      "time": "0321929"
+    },
+    {
+      "tokens": [
+        "Rog, Vance."
+      ],
+      "speaker": "Lovell",
+      "time": "0321938"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Are you going to give a call on Omni B, Vance?",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0322224"
+    },
+    {
+      "tokens": [
+        "Do you read, Vance?"
+      ],
+      "speaker": "Haise",
+      "time": "0322242"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead.",
+        "Request Omni B, Fred, and secure the High Gain Antenna."
+      ],
+      "speaker": "Brand",
+      "time": "0322243"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You got it."
+      ],
+      "speaker": "Haise",
+      "time": "0322253"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Brand",
+      "time": "0322255"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "They are switching to using the Omni B antenna instead of the High Gain Antenna."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0324321"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Lovell",
+      "time": "0324325"
+    },
+    {
+      "tokens": [
+        "Just something to think about.",
+        "In about 30 minutes, we can generate the PADs that we have yet to send up before the sleep period, so we could support an earlier sleep period if you so desired.",
+        "And - but it will take us 30 minutes to get that stuff.",
+        "The other thing is any time you're ready to copy, I can read up these solo book changes.",
+        "Over - And, also, two pages in the Flight Plan."
+      ],
+      "speaker": "Brand",
+      "time": "0324327"
+    },
+    {
+      "tokens": [
+        "Okay, Vance.",
+        "We're about ready to copy the solo book changes and the Flight Plan changes, and whenever your PADs are ready, we'll take those.",
+        "And as far as moving up the sleep period, that's fine, but we'll - if we don't go to sleep right away, we'll use it to get out some of our lunar maps and study them."
+      ],
+      "speaker": "Lovell",
+      "time": "0324401"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And we'll get busy getting those PADs for you as soon as possible then, and I'll stand by on the copying bit."
+      ],
+      "speaker": "Brand",
+      "time": "0324421"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 32 hours, 46 minutes.",
+        "The crew sleep period is scheduled to begin at 37 hours.",
+        "You heard Vance Brand advise Jim Lovell that, should the crew desire, we would be in a position to give them the PAD information that they need to get before beginning the sleep period a bit early and give the astronauts themselves the option of beginning their rest period earlier if they desire.",
+        "The primary activities remaining on the Flight Plan, in addition to passing up those, the numerical data, is for the crew to change out one of the lithium hydroxide canisters and complete the pre-sleep checklist and their evening meal.",
+        "And when those things have been completed they would be able to begin the rest period.",
+        "We don't have any idea at this time precisely when the rest period would begin.",
+        "That would be up to the crew.",
+        "At the present time Apollo 13 is 126,900 nautical miles [235,000 km] from Earth.",
+        "The velocity is 4,500 feet per second [1,370 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Vance, I'm ready to copy the solo book changes there."
+      ],
+      "speaker": "Swigert",
+      "time": "0324728"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "First, turn to page 12.",
+        "On the right-hand side of the page, starting from the middle of the page down, under - everything under \"Cycle 5 frames, Replace dark side or dark slide\" should be deleted until you get to the very bottom of the page where you have \"Acquisition MSFN Omni D\" and that should remain in.",
+        "Also, leave in \"Remove window shades,\" which is about the third line down from where you start.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0324737"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Ah, okay.",
+        "Then from \"Cycle 5 frames, Replace dark slide,\" from there on down, delete."
+      ],
+      "speaker": "Swigert",
+      "time": "0324837"
+    },
+    {
+      "tokens": [
+        "The Solo Book is an operations plan for the Command Module Pilot to use during his one-man operations orbiting the Moon while his compatriots explore the surface.",
+        "Many photographic experiments are planned for Jack during this period."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's everything from there on down, with the exception of \"Remove window shades\" and at the bottom \"Acquisition MSFN Omni D.\" [Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0324850"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copy."
+      ],
+      "speaker": "Swigert",
+      "time": "0324910"
+    },
+    {
+      "tokens": [
+        "And that includes in the margin to the left, the \"DAP load\" that's at the very start there and the \"0.0507\" and \"plus 0500,\" further down."
+      ],
+      "speaker": "Brand",
+      "time": "0324912"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Got it."
+      ],
+      "speaker": "Swigert",
+      "time": "0324931"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Going to page 13."
+      ],
+      "speaker": "Brand",
+      "time": "0324934"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0324939"
+    },
+    {
+      "tokens": [
+        "Okay, in the left margin, just below 105 hours GET, cross out the \"0507\" and the \"plus 0500,\" and below that, add in \"DAP load\" as follows: \"10111 and 11111.\""
+      ],
+      "speaker": "Brand",
+      "time": "0324942"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Got it."
+      ],
+      "speaker": "Swigert",
+      "time": "0325011"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Now, next, at about 105:05, there's a \"Verb 48.\" That should be moved up to 105, and below that, the \"Verb 49 maneuver\" should be moved up, too.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0325013"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That \"Verb 48\" should be moved up to 105:05 and also the \"Verb 49\"."
+      ],
+      "speaker": "Swigert",
+      "time": "0325042"
+    },
+    {
+      "tokens": [
+        "That should be moved up to 105:00.",
+        "I'm sorry.",
+        "Both."
+      ],
+      "speaker": "Brand",
+      "time": "0325050"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0325056"
+    },
+    {
+      "tokens": [
+        "And what that does is give you more time to maneuver.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0325057"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Next."
+      ],
+      "speaker": "Brand",
+      "time": "0325107"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Swigert",
+      "time": "0325109"
+    },
+    {
+      "tokens": [
+        "Page 14, right-hand side, near the bottom under \"Orbital Science,\" scratch out \"Verify DSE On,\" and also delete \"Visual target 3 on track 180 plus 19,\" and cross out the penned-in \"D5\"."
+      ],
+      "speaker": "Brand",
+      "time": "0325110"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Got it."
+      ],
+      "speaker": "Swigert",
+      "time": "0325143"
+    },
+    {
+      "tokens": [
+        "Next, page 15, left-hand column, or left-hand side, rather, near the bottom, where it says \"Configure cameras and tape\" and goes down through \"Replace dark slide.\" Just make the comment there, \"Solar corona is optional.\" Over."
+      ],
+      "speaker": "Brand",
+      "time": "0325146"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Got it."
+      ],
+      "speaker": "Swigert",
+      "time": "0325216"
+    },
+    {
+      "tokens": [
+        "Okay, next page, 16.",
+        "[Pause.] This is a continuation of the same solar-corona thing.",
+        "On the right-hand side of the page, starting just above 107:40 with \"Verb 49, maneuver to solar-corona attitude,\" from there, on down to 107:55 just beneath \"Replace dark slide,\" all of this is in an optional category.",
+        "So you just might line off..."
+      ],
+      "speaker": "Brand",
+      "time": "0325219"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "Got it."
+      ],
+      "speaker": "Swigert",
+      "time": "0325303"
+    },
+    {
+      "tokens": [
+        "...that and put \"Optional, solar corona.\" Okay, next page, 17..."
+      ],
+      "speaker": "Brand",
+      "time": "0325304"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0325312"
+    },
+    {
+      "tokens": [
+        "...starting at 108:00 on the left-hand side, line out \"Stop Orb rate at Orb science attitude.\" At - Line out in the left-hand column, the DAP load of \"10101\" and \"11111.\" Going down to 108:10, add in the following: \"Stop Orb rate at track attitude,\" and in parentheses, \"0, 353, 0.\" In the left-hand..."
+      ],
+      "speaker": "Brand",
+      "time": "0325313"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0325414"
+    },
+    {
+      "tokens": [
+        "Okay, in the left-hand column under 108:10, put in a DAP load in parentheses of \"10101\" and, under that, \"11111\"."
+      ],
+      "speaker": "Brand",
+      "time": "0325415"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0325433"
+    },
+    {
+      "tokens": [
+        "Beneath that, scratch out \"Spacecraft control dash CMC, Auto, Verify.\" Scratch out the \"Verb 79\" and all in parentheses after that, like the \"Minus 00507,\" et cetera.",
+        "And beneath that, scratch out \"Pro to start pitch rate.\" In parentheses, \"0, 230 slash 018, 0\"."
+      ],
+      "speaker": "Brand",
+      "time": "0325435"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0325501"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Looking to the right, the LM attitude or rather the CSM attitude will be incorrect, so you can cross that off.",
+        "And beneath the picture of the Moon, cross out the - in parentheses, \"108.19\" and the \"0, 230/018, 0\"."
+      ],
+      "speaker": "Brand",
+      "time": "0325512"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Swigert",
+      "time": "0325539"
+    },
+    {
+      "tokens": [
+        "On the right-hand half of the page, cross out the \"Orbital science block,\" and under that \"Visual target 1 south of track TR.\" And under that, the penned-in \"D2/3/4\".",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "032:55:41"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "Got it."
+      ],
+      "speaker": "Swigert",
+      "time": "0325608"
+    },
+    {
+      "tokens": [
+        "And beneath that, cross out \"Verb 49, maneuver to track attitude\", parentheses \"0, 353, 0\" and the \"HU, SCF\".",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0325609"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Swigert",
+      "time": "0325628"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The information beneath that starting with \"Configure camera earthshine photos\" down through \"Replace dark slide\" is optional.",
+        "So just put in \"Earthshine optional\" as a comment there, and, in the camera settings, in the block that has \"f:2.8, 125, infinity,\" cross out the \"125\" and put in \"one-eighth,\" 1 slash 8, in other words.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0325630"
+    },
+    {
+      "tokens": [
+        "Okay, that last part was, cross out the \"125\" and put in \"1/8.\" Is that right?"
+      ],
+      "speaker": "Swigert",
+      "time": "0325718"
+    },
+    {
+      "tokens": [
+        "That's affirm.",
+        "[Pause.] Okay.",
+        "Next page.",
+        "No change.",
+        "Go to page 19.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0325725"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0325745"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On the right-hand side, from the \"Verb 49, maneuver to earthshine attitude,\" down through everything up to \"MSFN uplink,\" this is optional.",
+        "This is \"Earthshine optional\".",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0325749"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "Got it."
+      ],
+      "speaker": "Swigert",
+      "time": "0325819"
+    },
+    {
+      "tokens": [
+        "And once again, a camera-setting correction up near the top of that section that we called optional, where you have \"bracket MIR f:0.9, 125\", cross out the \"125\" and put in \"1 slash 60.\" In other words, one-sixtieth.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0325821"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Cross out the \"125\" and put in \"1 slash 60\"."
+      ],
+      "speaker": "Swigert",
+      "time": "0325846"
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "And further down at 109:50, where you have \"Visual target 17\" et cetera, cross out that line and cross out the penned-in \"D17.\" [Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0325852"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0325918"
+    },
+    {
+      "tokens": [
+        "Now, move to page 25.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0325927"
+    },
+    {
+      "tokens": [
+        "Okay, go ahead, Vance."
+      ],
+      "speaker": "Swigert",
+      "time": "0325953"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "At about 114:10, everything under \"Altitude set equals 60 miles\" should have the comment \"Solar corona, optional,\" and on that first line of that optional where it says \"Verb 49, maneuver to solar corona and limb brightening attitude,\" cross out \"And limb brightening attitude\"."
+      ],
+      "speaker": "Brand",
+      "time": "0325954"
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-27."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0330033"
+    },
+    {
+      "tokens": [
+        "Going further down to 114:16, cross out the \"14 DAC 18 VHBW limb brightening\" line and the line under that which is \"BRKT, MIR,\" et cetera."
+      ],
+      "speaker": "Brand",
+      "time": "0330035"
+    },
+    {
+      "tokens": [
+        "BRKT is the bracket to hold the 16mm movie camera.",
+        "MIR refers to using a mirror so that the camera can view the scene at the window without obstructing the view."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Swigert",
+      "time": "0330059"
+    },
+    {
+      "tokens": [
+        "In the block where it says \"Solar corona and limb brightening photos,\" cross out \"And limb brightening photos\" and just put \"Solar corona, optional.\" [Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0330101"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Got it."
+      ],
+      "speaker": "Swigert",
+      "time": "0330123"
+    },
+    {
+      "tokens": [
+        "Going a few lines below that, where you see \"DAC On for 4 seconds at about 50 frame rate cover lens\", cross that out.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0330125"
+    },
+    {
+      "tokens": [
+        "Hey, Vance, we lost you there, or did you [garble]?"
+      ],
+      "speaker": "Swigert",
+      "time": "0330150"
+    },
+    {
+      "tokens": [
+        "Yeah, I think we lost lock.",
+        "We'll stand by a minute."
+      ],
+      "speaker": "Brand",
+      "time": "0330158"
+    },
+    {
+      "tokens": [
+        "Okay, I got you back."
+      ],
+      "speaker": "Swigert",
+      "time": "0330203"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Going on down, cross out \"114:29:16, DAC On, SR dash 40 seconds.\" [Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0330207"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0330226"
+    },
+    {
+      "tokens": [
+        "And at the very bottom line on that half of the page should be crossed out which is \"114:29:56, DAC Off, SR\"."
+      ],
+      "speaker": "Brand",
+      "time": "0330227"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0330242"
+    },
+    {
+      "tokens": [
+        "On the right-hand side of page 25, where you have the title \"Solar corona and limb brightening photography,\" cross out \"limb brightening photography\"."
+      ],
+      "speaker": "Brand",
+      "time": "0330243"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0330257"
+    },
+    {
+      "tokens": [
+        "And in the figure, where you have the \"DAC LOS\" line, which is parallel to the X-axis on the horizon, cross out \"DAC LOS\" parallel to X-axis on horizon.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0330258"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Swigert",
+      "time": "0330324"
+    },
+    {
+      "tokens": [
+        "And cross out the bottom block on that half of the page which is \"DAC magazine percent required 12 magazines, g\" et cetera.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0330326"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Swigert",
+      "time": "0330342"
+    },
+    {
+      "tokens": [
+        "Next page, 26.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0330345"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0330357"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Cross out the top line on the right-hand side of that page, which is \"DAC on for 4 seconds, 50 frame rate cover lens.\" And cross out the block to the right of that and down, which has \"Magazine percent.\" [Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0330358"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "Got it."
+      ],
+      "speaker": "Swigert",
+      "time": "0330435"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Next, page 28.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0330440"
+    },
+    {
+      "tokens": [
+        "Ready to go?"
+      ],
+      "speaker": "Brand",
+      "time": "0330508"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0330510"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On the left-hand side of page 28, at the very bottom, cross out \"Photo target 5 north, frame f:5.6, 250, infinity,\" et cetera.",
+        "All of that line over to the vertical strip.",
+        "And cross out the penned-in \"E4\" below that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0330511"
+    },
+    {
+      "tokens": [
+        "Okay, go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0330602"
+    },
+    {
+      "tokens": [
+        "Okay, and the next page, 29, right-hand side near the top, cross out \"Photo target 13, north, f:5.6, 250,\" et cetera, all of that line.",
+        "And cross out beneath that the penned-in \"E5 slash 6\"."
+      ],
+      "speaker": "Brand",
+      "time": "0330604"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Swigert",
+      "time": "0330627"
+    },
+    {
+      "tokens": [
+        "Going to page 30, next, left-hand side.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0330629"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0330645"
+    },
+    {
+      "tokens": [
+        "At the top at 127:01, cross out \"Visual target 9 on track, 180 degrees, plus 0.47,\" and cross out the penned-in \"E11\" beneath that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0330647"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0330708"
+    },
+    {
+      "tokens": [
+        "Going down to 127:11, cross out \"Verify DSE On.\" Beneath that a ways, cross out \"127:14:20, start visual observations of Fra Mauro.\" [Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0330710"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Swigert",
+      "time": "0330734"
+    },
+    {
+      "tokens": [
+        "Beneath that, cross out \"Continue visual observations,\" and cross out \"Stop observations.\" And beneath that, cross out \"Photo target 56 on track, f:8, 250, infinity, 5,\" et cetera, to the end of that line.",
+        "Cross out the \"5.6\" beneath that and the penned-in \"E15.\" [Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0330736"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0330812"
+    },
+    {
+      "tokens": [
+        "Over in the margin, to the left of all that, make a comment: \"Delete visual only.\" [Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0330814"
+    },
+    {
+      "tokens": [
+        "Where was that, Vance?",
+        "I didn't get that last one."
+      ],
+      "speaker": "Swigert",
+      "time": "0330838"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's still on page 30, on the left-hand side.",
+        "In the time - in the margin at the left where you have times, just pen in beneath the \"127:10\" the following: \"Delete visual only.\" That's only a comment."
+      ],
+      "speaker": "Brand",
+      "time": "0330842"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "All right.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0330904"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Going to page 34.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0330912"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0330927"
+    },
+    {
+      "tokens": [
+        "About - on the left-hand side about almost halfway down beneath the \"Verb 49, maneuver to TOPO target 54A,\" make the comment \"Target 54A is optional.\" [Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0330931"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "Got it."
+      ],
+      "speaker": "Swigert",
+      "time": "0330954"
+    },
+    {
+      "tokens": [
+        "And, next, page 35, on the right-hand side.",
+        "Everything from \"Spacecraft control, CMC, Auto, Verify\" on down, should be given the comment \"Zodiacal light photos optional.\" [Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0330956"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Swigert",
+      "time": "0331032"
+    },
+    {
+      "tokens": [
+        "And, well, where you have the block in the middle of the page that says - the small block that says \"Zodiacal light photos,\" just put \"Optional\" in that title, too."
+      ],
+      "speaker": "Brand",
+      "time": "0331035"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0331048"
+    },
+    {
+      "tokens": [
+        "And, next, page 36, on the left-hand side.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0331050"
+    },
+    {
+      "tokens": [
+        "Okay, go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0331100"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "First, a comment.",
+        "In the middle of the page is where the zodiacal light stuff ends, just under Verb 48.",
+        "And then, if you'll go down to the bottom of the page, cross out the line \"Photo target 12 on track,\" et cetera, and cross out the \"E5\" that is below that line."
+      ],
+      "speaker": "Brand",
+      "time": "0331103"
+    },
+    {
+      "tokens": [
+        "Okay, Vance, can I break in a minute?"
+      ],
+      "speaker": "Haise",
+      "time": "0331130"
+    },
+    {
+      "tokens": [
+        "Sure."
+      ],
+      "speaker": "Brand",
+      "time": "0331133"
+    },
+    {
+      "tokens": [
+        "We have the Cryo Pressure light on now.",
+        "The H2has hit its lower bound, so do you want us to go back to Auto on the H2Heater 1?",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0331139"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0331151"
+    },
+    {
+      "tokens": [
+        "13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0331214"
+    },
+    {
+      "tokens": [
+        "All right, go ahead."
+      ],
+      "speaker": "Haise",
+      "time": "0331218"
+    },
+    {
+      "tokens": [
+        "They request that you leave that switch in the Auto position until you go to bed tonight.",
+        "Stand by.",
+        "I mean in the On position.",
+        "I'll repeat that again.",
+        "In the Off position until you go to bed tonight for reasons that you have a 3-percent imbalance, and they'd like to get that more even.",
+        "So, just before turning in, we'll change the switch to Auto."
+      ],
+      "speaker": "Brand",
+      "time": "033:12:20"
+    },
+    {
+      "tokens": [
+        "The 3 per cent imbalance in how much the tanks have been drained is not worrisome, but they would still prefer them to be more evenly used."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0331254"
+    },
+    {
+      "tokens": [
+        "Okay, Vance, continue."
+      ],
+      "speaker": "Swigert",
+      "time": "0331310"
+    },
+    {
+      "tokens": [
+        "Okay..."
+      ],
+      "speaker": "Brand",
+      "time": "0331311"
+    },
+    {
+      "tokens": [
+        "Before we get away, would you ask FAO - something I didn't get briefed on - what the penned-in E5 and those letters and numbers mean?",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0331312"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Just 1 minute.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0331331"
+    },
+    {
+      "tokens": [
+        "Okay, we'll have comments on that for you in just a second."
+      ],
+      "speaker": "Brand",
+      "time": "0331354"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0331400"
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0331500"
+    },
+    {
+      "tokens": [
+        "Okay, Vance, I'm ready to continue.",
+        "I'm ready.",
+        "Go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0331501"
+    },
+    {
+      "tokens": [
+        "Okay, new subject.",
+        "Like to break in to say that request you re-initialize the PTT - PTC.",
+        "For some reason, it's gone up to 18 degrees in pitch and yaw both.",
+        "We don't quite understand this.",
+        "All we can think of is - start it again.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0331506"
+    },
+    {
+      "tokens": [
+        "The PTC rotation has failed to take, again."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll go back."
+      ],
+      "speaker": "Swigert",
+      "time": "0331527"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We are at the - the end of the changes in the solo book, and I have two pages of changes in the Flight Plan.",
+        "Those are pages 3-122 and 3-125.",
+        "While you're looking that up, we'll put Ken on to answer your question.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0331533"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll start - let me start back re-initializing PTC here."
+      ],
+      "speaker": "Swigert",
+      "time": "0331601"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0331607"
+    },
+    {
+      "tokens": [
+        "Okay, Vance, I'm on 3-122 of the Flight Plan."
+      ],
+      "speaker": "Lovell",
+      "time": "0331659"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Okay, about - at time 156:50 on the right - well, on the right-hand half of the page, there's a line which states \"Visual target 16, south, 180 plus 1:11, Gassendi, f:15.\" Request you cross out that line."
+      ],
+      "speaker": "Brand",
+      "time": "0331703"
+    },
+    {
+      "tokens": [
+        "Okay, we're crossing it out."
+      ],
+      "speaker": "Lovell",
+      "time": "0331738"
+    },
+    {
+      "tokens": [
+        "That's all on 3-122.",
+        "Next change is 3-125.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0331742"
+    },
+    {
+      "tokens": [
+        "Okay, I'm looking at 125."
+      ],
+      "speaker": "Lovell",
+      "time": "0331807"
+    },
+    {
+      "tokens": [
+        "Okay, starting from the top of the page, cross out the first five lines, which are \"Set up camera for contamination and photography, Betelgeuse, CM4/EL/80,\" et cetera, \"Mag T,\" et cetera, \"Install window shades\"."
+      ],
+      "speaker": "Brand",
+      "time": "0331810"
+    },
+    {
+      "tokens": [
+        "I've got them crossed."
+      ],
+      "speaker": "Lovell",
+      "time": "0331835"
+    },
+    {
+      "tokens": [
+        "Okay, then jump down to just about 159:28.",
+        "Cross out \"Maneuver to contamination field photography attitude,\" and all other lines below that through \"Enable thrusters A3, C4, B3,\" et cetera."
+      ],
+      "speaker": "Brand",
+      "time": "0331837"
+    },
+    {
+      "tokens": [
+        "Okay, so we start with \"Maneuver to contamination field photography,\" and we cross out everything down to and including \"Enable thrusters A3, C4, B3, and D4\"."
+      ],
+      "speaker": "Lovell",
+      "time": "0331906"
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "And those are all of the flight changes - Flight Plan changes we have.",
+        "And Ken is coming on now and later sometime when we get the PTC squared away, and it's convenient, I suppose you should read all these things back to make sure that we are squared away on them."
+      ],
+      "speaker": "Brand",
+      "time": "0331916"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead, TK."
+      ],
+      "speaker": "Swigert",
+      "time": "0331941"
+    },
+    {
+      "tokens": [
+        "Prime Crew CMP Ken Mattingly - known as TK from his initials for Thomas Ken - has come to brief his backup who is now having to perform his part of the mission."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "Understand you have a question."
+      ],
+      "speaker": "Mattingly",
+      "time": "0331948"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "I guess I didn't understand what the letter and the number was behind some of these photo targets."
+      ],
+      "speaker": "Swigert",
+      "time": "0331953"
+    },
+    {
+      "tokens": [
+        "Okay..."
+      ],
+      "speaker": "Mattingly",
+      "time": "0332002"
+    },
+    {
+      "tokens": [
+        "Does that refer to a page?"
+      ],
+      "speaker": "Swigert",
+      "time": "0332003"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "That's the map.",
+        "Each fold is lettered in the lower - or upper right-hand corner if you work your way from east to west and the charts are labeled D, E, and F and the solo stuff will all be the D and E, and they change with the plane change 1.",
+        "That's the time they change the two maps."
+      ],
+      "speaker": "Mattingly",
+      "time": "0332005"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I got it.",
+        "Thank you."
+      ],
+      "speaker": "Swigert",
+      "time": "0332030"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "You're doing good work, hey."
+      ],
+      "speaker": "Mattingly",
+      "time": "0332032"
+    },
+    {
+      "tokens": [
+        "Well, I had a good prime crewman that taught me all I know."
+      ],
+      "speaker": "Swigert",
+      "time": "0332037"
+    },
+    {
+      "tokens": [
+        "Don't run out.",
+        "[Pause.]"
+      ],
+      "speaker": "Mattingly",
+      "time": "0332043"
+    },
+    {
+      "tokens": [
+        "Hey, when FIDO gets a good hack on our trajectory, will you let us know?",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0332050"
+    },
+    {
+      "tokens": [
+        "How long are you willing to wait?"
+      ],
+      "speaker": "Brand",
+      "time": "0332058"
+    },
+    {
+      "tokens": [
+        "He's looking at his calendar, if that means anything."
+      ],
+      "speaker": "Mattingly",
+      "time": "0332103"
+    },
+    {
+      "tokens": [
+        "[Laughter] Rog.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0332107"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm back at the attitude here, and I'll wait for rates to damp and you let me know when we're stable again."
+      ],
+      "speaker": "Swigert",
+      "time": "0332131"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Will do."
+      ],
+      "speaker": "Brand",
+      "time": "0332138"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That last exchange was between Jack Swigert in the spacecraft and Astronaut Ken Mattingly, whose been on the CapCom console along with Vance Brand, since immediately following the television transmission this evening."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0332400"
+    },
+    {
+      "tokens": [
+        "Go ahead, Vance."
+      ],
+      "speaker": "Swigert",
+      "time": "0332406"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Just a reminder you have to disable Charlie and Delta here as you've done in the past.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0332408"
+    },
+    {
+      "tokens": [
+        "This refers to the RCS quads C and D, respectively."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I was kind of holding off on this.",
+        "We're dumping a little waste water now."
+      ],
+      "speaker": "Swigert",
+      "time": "0332415"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "FIDO says he knew it all along.",
+        "He's - he says he's been very concerned that you've been doing a lot of water dumping."
+      ],
+      "speaker": "Brand",
+      "time": "0332423"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Vance.",
+        "We've got quad C and D disabled."
+      ],
+      "speaker": "Swigert",
+      "time": "0333007"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copy, Jack."
+      ],
+      "speaker": "Brand",
+      "time": "0333013"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 33 hours, 40 minutes.",
+        "The crew, at the present time, is still involved in eliminating rotational rates and attitude rates from the spacecraft in preparation for re-establishing the Passive Thermal Control mode.",
+        "Once they get the spacecraft stable, they'll start it rotating at a rate of about 3¾ revolutions per hour."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0334112"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0334116"
+    },
+    {
+      "tokens": [
+        "It may be a while before your rates are settled down.",
+        "We're still observing fairly high rates and deadbanding.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0334118"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Swigert",
+      "time": "0334129"
+    },
+    {
+      "tokens": [
+        "The stack is still not stable enough for them to consider starting the PTC roll.",
+        "Doing it while the spacecraft is moving would cause them to wobble around in an unwanted manner."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0335036"
+    },
+    {
+      "tokens": [
+        "Go ahead, Vance."
+      ],
+      "speaker": "Swigert",
+      "time": "0335041"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We've got about three items.",
+        "First one is, all of your P23 batch - two marks have been evaluated and - Hey, congratulations.",
+        "Looks real good; they're very happy with it.",
+        "You're down to 4 arc-minutes on the substellar-point aspect of it, and that's the first thing to mention.",
+        "The second is, unless you see a need, I don't see any need for you to read back the information we gave you on the solo book and so forth.",
+        "Do you concur?"
+      ],
+      "speaker": "Brand",
+      "time": "0335042"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "I think I got it.",
+        "I remembered a lot of it, and so I think with what you gave me and what I remember, I'm pretty sure we got it right.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0335120"
+    },
+    {
+      "tokens": [
+        "Okay, and the third item, we - I was just about to call that your rates were stabilized to start the PTC, but it looks like they're jiggling around again from a dump, so we'll stand by some more."
+      ],
+      "speaker": "Brand",
+      "time": "033:51:36"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0335155"
+    },
+    {
+      "tokens": [
+        "No secrets around here."
+      ],
+      "speaker": "Haise",
+      "time": "0335223"
+    },
+    {
+      "tokens": [
+        "Say again.",
+        "Hey, that's right."
+      ],
+      "speaker": "Brand",
+      "time": "0335228"
+    },
+    {
+      "tokens": [
+        "I said there's no secrets around here."
+      ],
+      "speaker": "Haise",
+      "time": "0335233"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "Big Brother's watching.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0335238"
+    },
+    {
+      "tokens": [
+        "Vance is referring to the oppressive Big Brother figure in the classic dystopian novel '1984.' Their joke is based on the fact that anything that gives their spacecraft any thrust will be instantly detected, either by the trajectory people in Mission Control due to their ability to track the spacecraft with extreme sensitivity, or by the rotation it imparts to the spacecraft which is also detectable via telemetry."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "13..."
+      ],
+      "speaker": "Brand",
+      "time": "0335250"
+    },
+    {
+      "tokens": [
+        "I can just see EECOM telling FIDO.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0335251"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "You really have to watch that pair, all right.",
+        "By the way, we have a maneuver PAD for you, a fly-by PAD, whenever you're ready to copy."
+      ],
+      "speaker": "Brand",
+      "time": "0335303"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0335317"
+    },
+    {
+      "tokens": [
+        "Go ahead, Vance."
+      ],
+      "speaker": "Lovell",
+      "time": "0335355"
+    },
+    {
+      "tokens": [
+        "Okay, maneuver PAD, purpose: fly-by, SPS/G&N; 63385; plus 0.97, minus 0.23; 072:24:33.08; plus 0212.7, minus 0141.7, minus 0254.8; 148, 316, 050; NA, plus 0022.5; 0360.9, 0:53, 0356.3; 33, 352.7, 15.0; NA, NA, NA.",
+        "Starting with latitude, minus 23.26, minus 165.00; 1147.7, 36172; 166:54:02.",
+        "Comments, GDC Align stars are 31, Arcturus; and 23, Denebola.",
+        "R align 288, pitch align 205, yaw align 034; ullage, none; other, burn is SPS docked.",
+        "LM weight, 33499.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0335357"
+    },
+    {
+      "tokens": [
+        "Our PAD as follows: fly-by, SPS/G&N; 63385; plus 0.97, minus 0.23; 072:24:33.08; plus 0212.7, minus 0141.7, minus 0254.8; 148, 316, 050; NA, plus 0022.5; 0360.9, 0:53, 0356.3; 33, 352.7, 15.0; NA, NA, NA; minus 23.26, minus 165.00; 1147.7, 36172; 166:54:02; set stars 31, 23; roll is 288, pitch 205, yaw 034; no ullage; SPS docked; and LM weight, 33499."
+      ],
+      "speaker": "Lovell",
+      "time": "0335739"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's correct.",
+        "Want to verify under Noun 81 that Delta-VXis plus 02127.",
+        "You cut out right there."
+      ],
+      "speaker": "Brand",
+      "time": "0335920"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Delta-VXis 02127."
+      ],
+      "speaker": "Lovell",
+      "time": "0335935"
+    },
+    {
+      "tokens": [
+        "The PAD is interpreted as follows:Purpose:This PAD is for a small contingency burn in case the crew will not to enter lunar orbit.",
+        "Instead, the burn would set the spacecraft on a precise trajectory for return to Earth.Systems:The burn would be made using the large SPS (Service Propulsion System) engine at the rear of the Service Module, under the control of the Guidance and Navigation system.CSM Weight (Noun 47):63,385 pounds (28,751 kg).Pitch and yaw trim (Noun 48):+0.97° and -0.23°.",
+        "These angles represent an initial direction for the gimbal-mounted engine.Time of ignition (Noun 33):72 hours, 24 minutes, 33.08 seconds.Change in velocity (Noun 81), fps (m/s):X, +212.7 (+64.8); Y, -141.7 (-43.2); Z, -254.8 (-77.7).",
+        "The change in velocity is resolved into three components which are quoted relative to the local vertical reference.Spacecraft attitude:Roll, 148°; Pitch, 316°; Yaw, 50°.",
+        "The desired spacecraft attitude is measured relative to the alignment of the guidance platform.HA, expected apogee of resulting orbit (Noun 44):Not applicable.",
+        "If this abort burn were to be made, the apogee of the resulting orbit would be over 9999.9 nautical miles, beyond the limit of the computer's display.HP, expected perigee of resulting orbit (Noun 44):22.5 nautical miles (41.7 km).",
+        "The perigee distance is so low, it intersects Earth's atmosphere.",
+        "What this really means is that the spacecraft will re-enter.Delta-VT:360.9 fps (110.0 m/s).",
+        "This is the total change in velocity the spacecraft would experience and is a vector sum of the three components given above.Burn duration or burn time:53 seconds.Delta-VC:356.3 fps (108.6 m/s).",
+        "Using its ability to independently measure acceleration, the EMS can shut down the engine in case the G&N system fails to do so.",
+        "This figure, Delta-VC, is slightly lower than Delta-VTbecause the EMS does not take account of the engine's tail-off thrust.Sextant star:Star 33 (Antares, Alpha Scorpii) visible in sextant when shaft and trunnion angles are 352.7° and 15.0° respectively.",
+        "This is part of an attitude check.Boresight star:Not available.",
+        "This is a second attitude check which is made by sighting on another celestial object with the COAS (Crew Optical Alignment Sight) looking out of a rendezvous window.",
+        "Since the LM is docked to teh CSM, it is blocking the view out of those windows.The next five parameters all relate to re-entry, during which an important milestone is \"Entry Interface,\" defined as being 400,000 feet (121.92 km) altitude.",
+        "Another important point is when atmospheric drag on the spacecraft imparts a deceleration of 0.05 g's.Expected splashdown point (Noun 61):23.26° south, 165.0° west; in the mid-Pacific.Range to go:1,147.7 nautical miles (2,125.5 km).",
+        "To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel after Entry Interface.",
+        "This would later be decremented based on data from the EMS' own accelerometer.Expected velocity at Entry Interface:36,172 fps (11,025 m/s).Time of Entry Interface:166 hours, 54 minutes and 2 seconds GET.",
+        "This is the predicted time at which the spacecraft would be at 400,000 feet (121.92 km) altitude.GDC Align stars:The stars to be used for GDC Align purposes are 31 and 23 (Arcturus and Denebola).GDC Align angles:roll, 288°; pitch, 205°; yaw, 34°.The PAD includes some additional notes.",
+        "The SPS propellant tanks are full, so there would be no need to perform an ullage burn to settle their contents.",
+        "The burn details assume the LM is still docked and the mass of the LM is given as 33,499 pounds (15,195 kg)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And your rates are low.",
+        "Looks like you can start the PTC.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0335940"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "In work."
+      ],
+      "speaker": "Swigert",
+      "time": "0335951"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And when the computer is available, request P00 and Accept and we'll ship you your state vector."
+      ],
+      "speaker": "Brand",
+      "time": "0335954"
+    },
+    {
+      "tokens": [
+        "Wait until I get PTC going first, Vance, then we'll give it to you."
+      ],
+      "speaker": "Lovell",
+      "time": "0340007"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Brand",
+      "time": "0340010"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Vance.",
+        "We're P00 and Accept.",
+        "The computer's yours."
+      ],
+      "speaker": "Swigert",
+      "time": "0340241"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Here it comes.",
+        "[Long pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0340248"
+    },
+    {
+      "tokens": [
+        "You know, somehow, every time I do a set of P23s, you guys uplink me a state vector.",
+        "I don't think I do too well."
+      ],
+      "speaker": "Swigert",
+      "time": "0340309"
+    },
+    {
+      "tokens": [
+        "No..."
+      ],
+      "speaker": "Brand",
+      "time": "0340324"
+    },
+    {
+      "tokens": [
+        "I could get a complex."
+      ],
+      "speaker": "Swigert",
+      "time": "0340325"
+    },
+    {
+      "tokens": [
+        "Jack is joking that despite Mission Control telling him that Jack's observations are very accurate, they nonetheless update the onboard computer with the ground-generated navigational data."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "No.",
+        "You know - you know how the FIDOs are.",
+        "They like to load in their own data, no matter what.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0340326"
+    },
+    {
+      "tokens": [
+        "But our state vectors take into account the waste water dumps."
+      ],
+      "speaker": "Swigert",
+      "time": "0340344"
+    },
+    {
+      "tokens": [
+        "Yeah, that's..."
+      ],
+      "speaker": "Brand",
+      "time": "0340356"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston.",
+        "It's your computer again."
+      ],
+      "speaker": "Brand",
+      "time": "0340528"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Going to Block."
+      ],
+      "speaker": "Swigert",
+      "time": "0340533"
+    },
+    {
+      "tokens": [
+        "And as a matter of interest, understand that the downrange comparison between the MCC and the computer is within 35,000 feet, and that's on the last sighting, which people think is pretty good."
+      ],
+      "speaker": "Brand",
+      "time": "0340536"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Maybe that gives us a little more confidence that if we had to do P23s on the way home, we'd make it."
+      ],
+      "speaker": "Swigert",
+      "time": "0340556"
+    },
+    {
+      "tokens": [
+        "No doubt about it."
+      ],
+      "speaker": "Brand",
+      "time": "0340605"
+    },
+    {
+      "tokens": [
+        "Their earlier joking aside, if the communications link between the spacecraft and Earth was cut for whatever reason, it would be up to their onboard navigational sightings for the crew to find their way back home."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 34 hours, 13 minutes.",
+        "At this time, the crew has very little left to complete before beginning their sleep period.",
+        "They still have a lithium hydroxide canister to change out.",
+        "Following that, we expect they'll begin their eat period, and it's possible that they will begin the sleep period somewhat earlier than the scheduled 37 hours in the Flight Plan.",
+        "Our latest estimate on the impact of the S-IVB, the Saturn third stage on the lunar surface, is that this event will occur at 77 hours, 57 minutes, 37 seconds; and our current tracking data indicates that the impact point will be 0 degrees, 56 minutes north; 29 degrees, 33 minutes west.",
+        "Apollo 13 at this time is 130,736 nautical miles [242,123 km] from the Earth travelling at a speed of 4,402 feet per second [1,342 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 34 hours, 42 minutes.",
+        "Our Guidance and Control officer reports that the spacecraft appears to be remaining quite stable in the Passive Thermal Control mode.",
+        "The spacecraft rotating slowly to maintain the proper thermal balance.",
+        "This is the normal mode for the spacecraft to be in during sleep periods and periods of low crew activity.",
+        "Jim Lovell advised some time ago - a couple of hours ago, that the crew might begin the sleep period early.",
+        "He said if they had any problem getting to sleep or if they weren't particularly sleepy at the time they finished their other scheduled activities, that they might review some of their lunar charts before turning in for the 10-hour rest period.",
+        "At this time Apollo 13 is 131,948 nautical miles [244,368 km] from Earth, travelling at a speed of 4,368 feet per second [1,331 m/s].",
+        "At 34 hours, 43 minutes; this is Mission Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0345816"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Lovell",
+      "time": "0345821"
+    },
+    {
+      "tokens": [
+        "Just info on your PTC, Jim.",
+        "It's looking very good.",
+        "Excursions in pitch and yaw are very low."
+      ],
+      "speaker": "Brand",
+      "time": "0345823"
+    },
+    {
+      "tokens": [
+        "Okay, thank you.",
+        "And we're going to change another lithium hydroxide canister now."
+      ],
+      "speaker": "Lovell",
+      "time": "0345834"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0345842"
+    },
+    {
+      "tokens": [
+        "Two box-like aluminum objects are hidden from the view usually behind a little door panel.",
+        "These are canisters that contain lithium hydroxide and activated charcoal.",
+        "The CM life support system circulates onboard air through the canisters, where the carbon dioxide, odors and any potential toxins are absorbed into the chemicals inside.",
+        "They have a limited lifetime and need to be changed periodically to maintain a habitable atmosphere."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The core of the Command Module's life support system is located in the left hand compartment.",
+        "It features equipment to remove the carbon dioxide, odours, excessive humidity and heat from the cabin via the suit loop.",
+        "This very compact unit is self-regulated and usually requires minimum crew intervention during normal operations."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Judging by the schedule, they are to remove Can 3 from slot A and replace it with Can 5.",
+        "Normally each canister is in place for 10 to 15 hours on average.",
+        "The longest swap interval of 29 hours is during the single crewmember operation while in lunar orbit, due to only having one person onboard to produce carbon dioxide."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This silent 16mm film shot during the flight of Apollo 8 shows then-Command Module Pilot Jim Lovell hard at work changing the lithium hydroxide canister.",
+        "This clip offers an excellent view into the Lower Equipment Bay and the proceedings involved in changing the carbon dioxide absorber."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Vance.",
+        "Has FIDO come up with any observations on the trajectory?"
+      ],
+      "speaker": "Swigert",
+      "time": "0345854"
+    },
+    {
+      "tokens": [
+        "Well, a minute ago, he said that to tell you that he was pacified now after your past comments on his trajectory and so forth, and he hasn't seen any waste water dumps or anything and he's pretty happy."
+      ],
+      "speaker": "Brand",
+      "time": "0345902"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I just wondered if we're going to need any more midcourse.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0345924"
+    },
+    {
+      "tokens": [
+        "He says, seriously, it's looking probably like you won't have any more."
+      ],
+      "speaker": "Brand",
+      "time": "0345936"
+    },
+    {
+      "tokens": [
+        "Hey, that's real fine."
+      ],
+      "speaker": "Swigert",
+      "time": "0345945"
+    },
+    {
+      "tokens": [
+        "FIDOs never guarantee anything, however."
+      ],
+      "speaker": "Brand",
+      "time": "0345949"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "That's right."
+      ],
+      "speaker": "Swigert",
+      "time": "0345955"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-28."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 13.",
+        "I have the onboard read-out, if you're ready to copy."
+      ],
+      "speaker": "Swigert",
+      "time": "0350450"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead."
+      ],
+      "speaker": "Brand",
+      "time": "0350457"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Bat C, 37; Pyro Bat A, 37; Pyro Bat B, 37; RCS A, 97 percent; B, 97 percent; C, 96 percent; D, 97 percent."
+      ],
+      "speaker": "Swigert",
+      "time": "0350501"
+    },
+    {
+      "tokens": [
+        "Jack checks the battery charges and the amount of RCS fuel left in each of the four quads."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy that.",
+        "Thank you."
+      ],
+      "speaker": "Brand",
+      "time": "0350527"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston.",
+        "[Pause.]"
+      ],
+      "speaker": "Brand",
+      "time": "0352656"
+    },
+    {
+      "tokens": [
+        "Go ahead, Vance."
+      ],
+      "speaker": "Lovell",
+      "time": "0352705"
+    },
+    {
+      "tokens": [
+        "Jim, just an item for you and Fred to be thinking about in case you haven't been briefed on this, something that's now being talked about a little bit.",
+        "These conservative people would like to have you read out the SHe tank pressure when you go into the LM for the LM familiarization at 58 hours.",
+        "If there's no midcourse-3, and it looks like there's a good chance that there will not be, why, they might want to move the LM familiarization up from 58 to 55 hours.",
+        "Over."
+      ],
+      "speaker": "Brand",
+      "time": "0352707"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "If we don't have a midcourse-3, then we'll probably move LM FAM up to 55 hours, in which case we'll go in there and read SHe tank pressure."
+      ],
+      "speaker": "Lovell",
+      "time": "0352750"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Along with the other FAM stuff, and it's not certain that we want to do this, it's just being talked about, so this is just the information for you."
+      ],
+      "speaker": "Brand",
+      "time": "0352802"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "This is beginning to sound like the sim that we ran not too long ago."
+      ],
+      "speaker": "Lovell",
+      "time": "0352818"
+    },
+    {
+      "tokens": [
+        "I don't think it will be a very big deal."
+      ],
+      "speaker": "Brand",
+      "time": "0352829"
+    },
+    {
+      "tokens": [
+        "Despite Vance's best intentions in assuring the crew, it will turn out to be a somewhat big deal indeed."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Descent Propulsion Engine (or DPS), designed to land onto the Moon, is a rocket motor using hydrazine fuel and nitrogen tetroxide oxidizer, which, by the nature of being hypergolic require no ignition hardware.",
+        "The fuel and oxidizer are forced into the engine using helium pressure, which also simplifies the design by removing the need for the kind of turbo-machinery that is used to pump fuel into the engines of the Saturn V rocket.",
+        "The DPS, besides compactness and redundancy, also needs to have the ability to be throttled so that the engine output can be modified - crucial for a soft landing on the lunar surface."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Although built to be very well insulated, the supercritical helium, or SHe tank, experiences a certain amount of heat leak.",
+        "Rising temperature within the tank causes the pressure to increase.",
+        "This is actually part of the design.",
+        "To gain the helium pressure needed to operate the engine, they simply need to time the landing burn so that the pressure has had the time to rise in the tank.",
+        "Normally this happens at a constant rate known to Mission Control thanks to the well determined thermal qualities of the tank, but the tank onboard theAquariushas been behaving out of the norm.",
+        "The pressure was shown to be rising faster than expected before the launch, although not alarmingly enough to warrant replacement.",
+        "They launched knowing that the thermal characteristics of the tank are somewhat suspect.",
+        "Now, concerned controllers want to power up the displays so that the crew can check the tank pressure.",
+        "A rise that is too fast could cause the tank to be vented through a safety valve known as the burst disk, which would disable the engine and cause a definite cancellation of the landing attempt."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Houston, 13."
+      ],
+      "speaker": "Swigert",
+      "time": "0354342"
+    },
+    {
+      "tokens": [
+        "This is Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Brand",
+      "time": "0354346"
+    },
+    {
+      "tokens": [
+        "Okay, Vance.",
+        "Our LM/CM Delta-P is 0.9."
+      ],
+      "speaker": "Swigert",
+      "time": "0354350"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "0.9."
+      ],
+      "speaker": "Brand",
+      "time": "0354358"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Swigert",
+      "time": "0354405"
+    },
+    {
+      "tokens": [
+        "Oxygen pressure inside the Lunar Module is almost 1 psi lower than in the Command Module."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 35 hours, 46 minutes.",
+        "The Flight Dynamics Officer has just recomputed a new impact point for the S-IVB, based on later tracking data.",
+        "The current figures predict that the S-IVB will impact the Moon at a Ground Elapsed Time of 77 hours, 56 minutes, 54 seconds; and the coordinates of the impact are now predicted to be 2 degrees, 35 minutes south, and 28 degrees, 31 minutes west.",
+        "These continue to be preliminary figures and we expect that there is a good chance they will be updated as we get further tracking data on the S-IVB.",
+        "At the present time Apollo 13 is 134,624 nautical miles [249,324 km] from Earth, traveling at a speed of 4,292 feet per second [1,308 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston."
+      ],
+      "speaker": "Brand",
+      "time": "0364210"
+    },
+    {
+      "tokens": [
+        "Go ahead, Vance."
+      ],
+      "speaker": "Haise",
+      "time": "0364214"
+    },
+    {
+      "tokens": [
+        "Are you guys hacking into your presleep checklist yet?"
+      ],
+      "speaker": "Brand",
+      "time": "0364217"
+    },
+    {
+      "tokens": [
+        "Oh, we just finished eating and cleaning up a bit afterwards.",
+        "Jim's going around collecting debris off of all the inlet hoses.",
+        "And, I guess you might say we're kind of thinking about getting ready to go to sleep."
+      ],
+      "speaker": "Haise",
+      "time": "0364224"
+    },
+    {
+      "tokens": [
+        "All loose particles - whether dust, food crumbs or anything left over from the construction of the spacecraft - will float endlessly in microgravity, propelled by the flow of air inside the cabin.",
+        "This flow will eventually pull them against the screens of the ECS inlets set up in to capture these particles.",
+        "This makes cleaning up easier, and prevents the system from becoming clogged up."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Well, I hope you had a good meal."
+      ],
+      "speaker": "Brand",
+      "time": "0364247"
+    },
+    {
+      "tokens": [
+        "Yeah, it wasn't too bad."
+      ],
+      "speaker": "Haise",
+      "time": "0364253"
+    },
+    {
+      "tokens": [
+        "Sounds like you guys are really living it up, up there.",
+        "All that music, food.",
+        "I didn't say drink."
+      ],
+      "speaker": "Brand",
+      "time": "0364301"
+    },
+    {
+      "tokens": [
+        "Yes, it is pretty nice.",
+        "Not bad at all.",
+        "[Pause.] You're right; you didn't say it.",
+        "[Pause.] This PTC we're in is a pretty - pretty nice merry-go-round, Vance.",
+        "Every 10 minutes alternately I get to look at the Earth and the Moon."
+      ],
+      "speaker": "Haise",
+      "time": "0364309"
+    },
+    {
+      "tokens": [
+        "You couldn't ask for anything more than that.",
+        "Just so it isn't so fast you..."
+      ],
+      "speaker": "Brand",
+      "time": "0364340"
+    },
+    {
+      "tokens": [
+        "No, it's a lot - a lot better.",
+        "I remember from 8 when they didn't hardly ever get to look at either one."
+      ],
+      "speaker": "Haise",
+      "time": "0364344"
+    },
+    {
+      "tokens": [
+        "That's right.",
+        "They were tumbling about another axis, weren't they."
+      ],
+      "speaker": "Brand",
+      "time": "0364357"
+    },
+    {
+      "tokens": [
+        "Yep.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0364403"
+    },
+    {
+      "tokens": [
+        "It's pretty cloudy down there tonight.",
+        "About the only land I can see again is a portion of Australia and Korea and looks like a part of China.",
+        "Just about clouds covering everything else."
+      ],
+      "speaker": "Haise",
+      "time": "0364431"
+    },
+    {
+      "tokens": [
+        "Can you still see that clearly with the naked eye, or do you have to look through a glass?"
+      ],
+      "speaker": "Brand",
+      "time": "0364451"
+    },
+    {
+      "tokens": [
+        "Vance is referring to a monocular telescope that can be used for sightseeing, both casual and scientific."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "I can see Australia with the naked eye and the China landmass, but I - It took the monocular to pull out the Korean Peninsula.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0364501"
+    },
+    {
+      "tokens": [
+        "How about the Moon?",
+        "Is it looking very big yet?"
+      ],
+      "speaker": "Brand",
+      "time": "0364515"
+    },
+    {
+      "tokens": [
+        "No, not - not really.",
+        "Bigger, but we've got a ways to go."
+      ],
+      "speaker": "Haise",
+      "time": "0364521"
+    },
+    {
+      "tokens": [
+        "I understand that they're estimating your pericynthion - lunar pericynthion is now 62 [nautical] miles [115 km]."
+      ],
+      "speaker": "Brand",
+      "time": "0364531"
+    },
+    {
+      "tokens": [
+        "Well, that's not bad."
+      ],
+      "speaker": "Haise",
+      "time": "0364546"
+    },
+    {
+      "tokens": [
+        "That's supposed to be just right."
+      ],
+      "speaker": "Brand",
+      "time": "0364547"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0364550"
+    },
+    {
+      "tokens": [
+        "Okay, Houston; 13."
+      ],
+      "speaker": "Swigert",
+      "time": "0364625"
+    },
+    {
+      "tokens": [
+        "Go ahead, Jack."
+      ],
+      "speaker": "Brand",
+      "time": "0364628"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're into the presleep checklist now.",
+        "As far as the crew status report, as far as medication goes, we've had no medication.",
+        "And we're all feeling really good.",
+        "I've given you the onboard readouts.",
+        "Jim is chlorinating the potable water now.",
+        "I'm ready for an E-memory dump whenever you're ready.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0364631"
+    },
+    {
+      "tokens": [
+        "Stand by 1 on the E-memory dump, Jack.",
+        "I think we'll be ready in about a minute."
+      ],
+      "speaker": "Brand",
+      "time": "0364701"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "0364708"
+    },
+    {
+      "tokens": [
+        "And EECOM says that as soon as you stir your cryos, request you go back to Auto on that one tank."
+      ],
+      "speaker": "Brand",
+      "time": "0364712"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll do that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0364725"
+    },
+    {
+      "tokens": [
+        "They've been fiddling with the hydrogen tanks in order to prevent Master Alarms from interrupting their sleep due to low pressure in the tanks."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston.",
+        "We're ready to take your E-memory dump."
+      ],
+      "speaker": "Brand",
+      "time": "0364814"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Coming down."
+      ],
+      "speaker": "Swigert",
+      "time": "0364821"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 36 hours, 50 minutes.",
+        "During that last series of conversations, Jack Swigert passed along the crew physical status, reporting that they've taken no medication and they're all feeling fine.",
+        "Prior to that, Fred Haise gave us an out-the-window description of the Earth and Moon.",
+        "Fred also played back a short sample of the music that they have on board the spacecraft and reported that the food was fine.",
+        "Apollo 13 at this time is 137,250 nautical miles [254,187 km] from Earth, travelling at a speed of 4,219 feet per second [1,286 m/s].",
+        "The crew should be beginning their scheduled 10-hour rest period shortly.",
+        "That rest period is scheduled to begin at a Ground Elapsed Time of 37 hours.",
+        "They've completed all items in the Flight Plan necessary to beginning the sleep period.",
+        "At 36 hours, 52 minutes; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-29."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston.",
+        "Were you trying to call?"
+      ],
+      "speaker": "Lousma",
+      "time": "0370715"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston.",
+        "[Pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0370720"
+    },
+    {
+      "tokens": [
+        "Houston, 13."
+      ],
+      "speaker": "Lovell",
+      "time": "0370729"
+    },
+    {
+      "tokens": [
+        "Apollo 13, Houston.",
+        "We thought you were trying to call.",
+        "Were you?"
+      ],
+      "speaker": "Lousma",
+      "time": "0370733"
+    },
+    {
+      "tokens": [
+        "I don't believe so unless we inadvertently hit the microphone button."
+      ],
+      "speaker": "Lovell",
+      "time": "0370738"
+    },
+    {
+      "tokens": [
+        "Must have been some other guy trying to call, Jack."
+      ],
+      "speaker": "Haise",
+      "time": "0370748"
+    },
+    {
+      "tokens": [
+        "Just trying to get some words in, eh Jack?"
+      ],
+      "speaker": "Lovell",
+      "time": "0370753"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We saw the Down Voice subcarrier come on.",
+        "We thought maybe you were trying to call.",
+        "Sorry.",
+        "I hope we haven't disturbed you and from where I sit, it looks like you're running a rest home up there.",
+        "Good night."
+      ],
+      "speaker": "Lousma",
+      "time": "0370758"
+    },
+    {
+      "tokens": [
+        "We're all going to bed now just after we play the last rendition of 'With Our Eyes on the Stars.'"
+      ],
+      "speaker": "Lovell",
+      "time": "0370814"
+    },
+    {
+      "tokens": [
+        "Okay, Jim.",
+        "And we'd like you to check your S-Band Normal voice switch, Off."
+      ],
+      "speaker": "Lousma",
+      "time": "0370829"
+    },
+    {
+      "tokens": [
+        "S-Band Normal, Off."
+      ],
+      "speaker": "Lovell",
+      "time": "0370837"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 37 hours, 11 minutes.",
+        "That was Jim Lovell reporting just a few minutes ago that the crew was ready to begin their 10-hour sleep period.",
+        "That sleep period is scheduled to end at 47 hours Ground Elapsed Time.",
+        "Here in Mission Control, astronaut Jack Lousma has replaced astronaut Vance Brand as Capsule Communicator."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 13.",
+        "We'll be off comm; so if you need us, send a crew alert, please.",
+        "[Long pause.]"
+      ],
+      "speaker": "Lovell",
+      "time": "0371109"
+    },
+    {
+      "tokens": [
+        "The crew plans to sleep without any of the three wearing the communication headsets.",
+        "Besides potentially being uncomfortable due to prolonged wearing, it is not possible to completely mute the normal radio noise generated by the system operation as well as antenna switching and the like, hence anyone wearing the headset would be prone to being woken up."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "What Jim is requesting here is that if the crew has to be roused from their sleep prematurely, they can use the ship's Up-Data Link to trigger the Master Alarm onboard the spacecraft remotely.",
+        "Known as Real-Time Commands, Mission Control can turn the Master Alarm on or off via a radio signal.",
+        "That, besides the tape recorder, are the only onboard systems that can be remotely controlled."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Jim.",
+        "If we need you, we'll send a crew alert, and we'd like to know who's got the duty tonight on the biomed.",
+        "Is that you?",
+        "[Long pause.]"
+      ],
+      "speaker": "Lousma",
+      "time": "0371144"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "I'll be on the biomed."
+      ],
+      "speaker": "Lovell",
+      "time": "0371203"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We copy, and you're spoiling my good record of two watches without saying anything."
+      ],
+      "speaker": "Lousma",
+      "time": "0371209"
+    },
+    {
+      "tokens": [
+        "Just want to keep you busy, Jack."
+      ],
+      "speaker": "Lovell",
+      "time": "0371224"
+    },
+    {
+      "tokens": [
+        "You're waking me up."
+      ],
+      "speaker": "Lousma",
+      "time": "0371227"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day2_part2_housekeeping_and_updates.html"
+}

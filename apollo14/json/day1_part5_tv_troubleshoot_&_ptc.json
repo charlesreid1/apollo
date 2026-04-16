@@ -1,0 +1,4546 @@
+{
+  "description": "A14FJ - Day 1, part 5: TV Troubleshoot & PTC",
+  "transcript": [
+    {
+      "tokens": [
+        "Routine navigation exercises and housekeeping has kept the crew of Apollo 14 busy for the past few hours as they coast towards the Moon.",
+        "Their earlier problems during the docking are still heavy on the minds of the crew and the personnel in Mission Control.",
+        "Should the system fail to achieve docking when the Lunar Module returns from their Fra Mauro landing, a spacewalk might be the only option to transfer Al Shepard, Ed Mitchell and their Moon rocks back into the Kitty Hawk.",
+        "They plan to get the TV camera up and running again to give the Mission Control engineers a look at the docking probe."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 9 hours, 53 minutes.",
+        "Here in Mission Control, we're proceeding with preparations for the removal and evaluation of the probe and drogue assembly aboard the spacecraft.",
+        "A probe and drogue have been brought into the control center and will be used in directing the crew and in familiarizing flight controllers with the various aspects of the probe and drogue assembly that will be discussed.",
+        "Capsule Communicator Bruce McCandless has the assembly sitting near the base of his console and will use the assembly in directing the crew to perform the tasks that will be asked of them and discussing various aspects of the assembly.",
+        "Again, to repeat, the plan as far as television coverage of this activity is concerned, the crew will remove the - actually they'll vent the tunnel between theLMand the Command Module first and then remove the Command Module hatch, activating a handle on the probe assembly which will collapse the assembly and allow it to be removed from the tunnel.",
+        "And finally removing the drogue if required.",
+        "This whole operation requires on the order of 15 to 20 minutes and will be followed by a detailed examination with questions prepared in the engineering support room here at the Manned Spacecraft Center and passed up to the crew for their response.",
+        "We have about 2 hours and 8 minutes of acquisition time remaining at Goldstone.",
+        "It is estimated that it will require about an hour, perhaps and hour and a half to get the lines up between Goldstone and Houston so that we can receive live television.",
+        "The crew will be instructed to unstow the television camera and television pictures will be recorded until such time as the lines between Houston and Goldstone are up.",
+        "At that time we will receive live television transmission.",
+        "Following the completion of the evaluation of the drogue and probe assembly, we will play back the recorded television.",
+        "At 9 hours, 56 minutes; Apollo 14 is 48,956 nautical miles [90,667 km] from Earth, traveling at a speed of 8,369 feet per second [2,551 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0095720"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0095725"
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "Here's what we would like to do on the probe removal - or actually the whole probe inspection shooting match.",
+        "We'd like to remove the tunnel hatch, of course, and let you make a quick visual inspection there to see if there's anything that looks significantly amiss.",
+        "If you see anything, we'd like to photograph it; and, in this whole sequence, we would like to have you power up the television and send a picture down, which we'll receive at - at Goldstone and record, although we still have about an hour or an hour and a half before we could be configured to receive the television back here live.",
+        "Then pressing on from there, if you want to make a couple of notes on a pad, we'd like you to perform the probe removal in accordance with the decal with the following exceptions.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0095726"
+    },
+    {
+      "tokens": [
+        "Better hold up a minute, Bruce."
+      ],
+      "speaker": "Mitchell",
+      "time": "0095834"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "McCandless",
+      "time": "0095836"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-015"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 10 hours, 1 minute.",
+        "Our Network controller has just reported what is perhaps the fastest hour and a half work we've seen in some time.",
+        "He reports that the lines are up and ready to receive live television from Goldstone, so hopefully, when the crew is ready to begin removing the probe and drogue assembly we'll have live television of that activity."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 14."
+      ],
+      "speaker": "Mitchell",
+      "time": "0100212"
+    },
+    {
+      "tokens": [
+        "Go ahead, 14."
+      ],
+      "speaker": "McCandless",
+      "time": "0100214"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Can you give me the changes of this probe removal procedure so that I can copy it on page S2-5?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0100216"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Actually we'll be looking at page S2-6 for the changes, that is, the section that applies to both TLD and LOD.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0100224"
+    },
+    {
+      "tokens": [
+        "TLD stands for Translunar Docking and LOD for Lunar Orbit Docking."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, I'm ready to copy."
+      ],
+      "speaker": "Mitchell",
+      "time": "0100235"
+    },
+    {
+      "tokens": [
+        "Page 2-6of theCSM Systems Checklist"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "At the top of page 2-6, the first step, \"Probe umbilicals - disconnect and stow\".",
+        "We'd like you to verify proper connection of the umbilicals before you disconnect and stow them.",
+        "And I guess you might take a look for bent pins, contacts, all sort of stuff.",
+        "Down at about the sixth line down where it says \"Capture latch release handle lock - rotate counterclockwise to unlock.\" We'd like you to verify that it is locked prior to unlocking it.",
+        "You got that one?",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0100238"
+    },
+    {
+      "tokens": [
+        "Okay, go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0100325"
+    },
+    {
+      "tokens": [
+        "Down about five lines further, you have \"Capture latch release handle - pull, rotate to unlock, 180 clockwise,\" and we'd like you to pay particular attention to whether there is an unusually high torque required to unlock the capture latch release handle in this step.",
+        "[Pause.] And we'd also like you to verify the absence of, or report, any damage to the pyro cover or to the capture latch release handle.",
+        "And the pyro cover that we're talking about is the - it looks like an extruded metallic shell just forward of the capture latch release handle there.",
+        "It's the one that bears the decals on it that say, \"cocked\" and \"unlocked.\" Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0100327"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Damage to the pyro cover and what else?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0100433"
+    },
+    {
+      "tokens": [
+        "Any damage to the capture latch release handle?",
+        "[Pause.] And then as you pull it out, we'd like to know if you notice any unusual forces required to remove the probe.",
+        "[Pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0100436"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let me read it back."
+      ],
+      "speaker": "Mitchell",
+      "time": "0100500"
+    },
+    {
+      "tokens": [
+        "Okay, go ahead."
+      ],
+      "speaker": "McCandless",
+      "time": "0100502"
+    },
+    {
+      "tokens": [
+        "At top of page S2-6, \"Probe umbilicals.\" Before we disconnect and stow, we want to verify that the \"yea verilies\" are properly connected."
+      ],
+      "speaker": "Mitchell",
+      "time": "0100504"
+    },
+    {
+      "tokens": [
+        "Yea, verily."
+      ],
+      "speaker": "McCandless",
+      "time": "0100514"
+    },
+    {
+      "tokens": [
+        "And there's 1, 2, 3, 4, 5 \"Capture latch release handle lock\"; before rotating counterclockwise to unlock, I want to verify again that that is locked."
+      ],
+      "speaker": "Mitchell",
+      "time": "0100517"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0100530"
+    },
+    {
+      "tokens": [
+        "And that you would like for us to pay attention to the torque required to loosen any of these items - oh, that's the capture latch release handle; and you want us to observe for any damage to the pyro cover or the capture latch release handle and to observe any obvious damage that's apparent to the capture latches or the probe end."
+      ],
+      "speaker": "Mitchell",
+      "time": "0100531"
+    },
+    {
+      "tokens": [
+        "Roger, Ed.",
+        "And we currently have the lines from Goldstone back to the building up here, so I think that we'll probably be ready to support via TV almost in real time.",
+        "And for onboard photography, we're recommending use of the electric Hasselblad set on f/2.8, 1/125th of a second at 3½ feet, magazine O for Okmulgee, which is stowed in Alpha 13, and you might verify the f-stop with the spotmeter set at ASA 64, if you have the chance.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0100554"
+    },
+    {
+      "tokens": [
+        "Okay, Bruce.",
+        "I got that, I believe.",
+        "The electric Hasselblad at 2 8, 125th, 3.5, magazine O for Opinaca, it's stored A-13, and we'll check it with the spotmeter.",
+        "How long will you have Goldstone coverage, Houston?",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0100710"
+    },
+    {
+      "tokens": [
+        "Magazine O contains Ektrachrome MS (colour exterior or CEX) film."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ah, [Long pause.] 14, this is Houston.",
+        "We'll have Goldstone coverage for about another hour and a half.",
+        "If that's any problem, we can reconfigure to pick up Honeysuckle.",
+        "And the shutter speed is 1/125th; that's 1 slash 125.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0100733"
+    },
+    {
+      "tokens": [
+        "Communications are currently being handled on the Earth side by the MSFN station in Goldstone, California.",
+        "As the Earth rotates, this antenna moves away from its line of sight with the spacecraft.",
+        "Going west, the next primary communications station is is Honeysuckle Creek, Australia."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "One twenty fifth."
+      ],
+      "speaker": "Mitchell",
+      "time": "0100815"
+    },
+    {
+      "tokens": [
+        "Getting edgy already down there."
+      ],
+      "speaker": "Mitchell",
+      "time": "0100826"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ed's comment seems to betray a degree of annoyance at McCandless correcting his readback of the shutter speed, which he had stated correctly.",
+        "Both Ed and McCandless are indulging in deviating from the phonetic alphabet when reading letters across the communications link.",
+        "For the letter 'O', McCandless uses a county in Oklahoma (Okmulgee) and Ed seems to be using the name of a Canadian mine, Opinaca.",
+        "This is hardly the first nor only time astronauts do such ex tempore substitutions while on air to ground."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 10 hours, 13 minutes.",
+        "We're still standing by for the crew to begin the operation of removing the probe assembly from the docking tunnel of the Command Module and we do expect that we'll have live television coverage of at least a portion of that activity.",
+        "We have 1 hour, 50 minutes of Goldstone acquisition time remaining and before we expect to lose acquisition from Goldstone and pick up primary coverage from the Honeysuckle site.",
+        "At the present time Apollo 14 is 50,322 nautical miles [93,196 km] from Earth, traveling at a velocity of 8,234 feet per second [2,510 m/s].",
+        "With CapCom Bruce McCandless - at the console, our Apollo 14 backup Command Module Pilot Ron Evans and Apollo 13 Command Module Pilot Jack Swigert."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 14."
+      ],
+      "speaker": "Mitchell",
+      "time": "0101538"
+    },
+    {
+      "tokens": [
+        "Go ahead, 14."
+      ],
+      "speaker": "McCandless",
+      "time": "0101540"
+    },
+    {
+      "tokens": [
+        "Bruce, it'll probably be 15 minutes or so before we finish getting some chow, and we'll start up into that tunnel for you."
+      ],
+      "speaker": "Mitchell",
+      "time": "0101542"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're standing by down here.",
+        "We've got the color converter going so we can watch you in glorious living color.",
+        "And just give us a yell when you're ready to go."
+      ],
+      "speaker": "McCandless",
+      "time": "0101549"
+    },
+    {
+      "tokens": [
+        "Wilco."
+      ],
+      "speaker": "Mitchell",
+      "time": "0101600"
+    },
+    {
+      "tokens": [
+        "Converting the sequential scan television signals to standard colour NTSC signals, including adjustment for the huge timing variations to be expected from a moving spacecraft, requires a sizeable set up that included two huge 2-inch videotape machines (to correct the timing) and a magnetic disc recorder (to combine the separate red, blue and green images coming from the camera)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That was Ed Mitchell reporting that it will be about 15 minutes before the crew is ready to begin the probe removal operation."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, this is Houston.",
+        "When you get around to the hatch removal in the tunnel, we'd like to get aLM/CMDelta-Preading prior to your equalizing the pressure.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0102022"
+    },
+    {
+      "tokens": [
+        "Mission Control are keen to know what the pressure difference is across the CM's forward hatch.",
+        "In truth, it really means the tunnel/CM because that is what is being measured.",
+        "If the LM's overhead hatch is closed, including the valve fitted to that hatch, then the tunnel's pressure will not be the same as the LM's."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rog, Bruce.",
+        "We'll give you that."
+      ],
+      "speaker": "Roosa",
+      "time": "0102037"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0102040"
+    },
+    {
+      "tokens": [
+        "Stuart, how is your peanut butter?"
+      ],
+      "speaker": "Swigert",
+      "time": "0102059"
+    },
+    {
+      "tokens": [
+        "Hey, Big Jack, not enjoying any peanut butter."
+      ],
+      "speaker": "Roosa",
+      "time": "0102106"
+    },
+    {
+      "tokens": [
+        "Coz you're doing a good job."
+      ],
+      "speaker": "Swigert",
+      "time": "0102111"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Using his astronaut's privilege to address the crew from the CapCom console is Stu Roosa's immediate predecessor, Apollo 13 Command Module Pilot Jack Swigert.",
+        "He manned this position in support of Apollo 7 in 1968.",
+        "Not only he is a colleague to Stu as a CMP, but Swigert also worked closely in the development of the Command Module procedures that Stu is using to operate the spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0104547"
+    },
+    {
+      "tokens": [
+        "14.",
+        "Go ahead."
+      ],
+      "speaker": "Shepard",
+      "time": "0104552"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "If you're about wound up on eating, I've got a correction to the inflight erasable load of Tephemfor you, and we'd like to suggest a change to theDAPto open you up to a 5-degree deadband to save a little fuel.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0104555"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll call you back in a minute."
+      ],
+      "speaker": "Shepard",
+      "time": "0104619"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0104621"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "14's ready to copy Tephem."
+      ],
+      "speaker": "Shepard",
+      "time": "0105209"
+    },
+    {
+      "tokens": [
+        "Roger, Apollo 14.",
+        "This is a correction to the inflight erasable load procedure for Tephemas found on page G9-4 of the G&C Checklist.",
+        "Under column B, line 04 now reads 33304, and should be changed to read 35242.",
+        "Line 05, under column B, now reads 07000, and should be changed to read 03262.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0105214"
+    },
+    {
+      "tokens": [
+        "Page9-4 of the G&C Checklistis a table of parameter values within the computer's erasable memory.",
+        "According to Apollo software aficionado, Frank O'Brien, two of these values are being altered to reflect a change in the equations used to calculate the position and velocity of the Sun and Moon relative to the Earth, not the actual Tephemitself.",
+        "These calculations are used with the Tephemin calculating the State Vector of the spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Page now - 9-5, that is.",
+        "How about giving it to me again?",
+        "9-4, that is.",
+        "Go ahead."
+      ],
+      "speaker": "Shepard",
+      "time": "0105306"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's page 9-4.",
+        "Under the OID line number 04 in column B for Buffalo, you'll find the entry 33304; that should be changed to read 35242.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0105316"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "04 Bravo, 35242."
+      ],
+      "speaker": "Shepard",
+      "time": "0105345"
+    },
+    {
+      "tokens": [
+        "Right.",
+        "And the next entry directly below it on OID line 05 now reads 07000, and that should be changed to read 03262.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0105349"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "05 Bravo should read 03262."
+      ],
+      "speaker": "Shepard",
+      "time": "0105408"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Readback correct.",
+        "And on yourDAP, we're recommending an R1load - Okay, I see that you've got it already.",
+        "Sorry about that."
+      ],
+      "speaker": "McCandless",
+      "time": "0105412"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 10 hours, 59 minutes.",
+        "We're standing by for the Apollo 14 crew to begin removal and evaluation of the probe assembly.",
+        "We do anticipate having live television coverage through Goldstone.",
+        "And our Network controller is making arrangements for satellite coverage from Honeysuckle so that we would have television through Honeysuckle also after we hand over to that site.",
+        "At this time, Apollo 14 is 53,866 nautical miles [99,760 km] from Earth.",
+        "The spacecraft velocity is 7,900 feet per second [2,408 m/s].",
+        "And we'll continue to stand by."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-017"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Garble] Houston."
+      ],
+      "speaker": "Mitchell",
+      "time": "0110525"
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "Go ahead."
+      ],
+      "speaker": "McCandless",
+      "time": "0110528"
+    },
+    {
+      "tokens": [
+        "Roger, Houston; 14.",
+        "I've got the camera set up and we're starting to work on the tunnel now.",
+        "When you're configured for television, we'll let you have it."
+      ],
+      "speaker": "Mitchell",
+      "time": "0110532"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're configured, and let me see if we're ready to have you send it down.",
+        "[Pause.] Roger.",
+        "Let her rip."
+      ],
+      "speaker": "McCandless",
+      "time": "0110543"
+    },
+    {
+      "tokens": [
+        "We're now getting a television picture."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You have it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0110556"
+    },
+    {
+      "tokens": [
+        "Stu, this is Houston.",
+        "Before you equalize, would you give us theLM/CMDelta-P?"
+      ],
+      "speaker": "McCandless",
+      "time": "0110623"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "We're working on that."
+      ],
+      "speaker": "Roosa",
+      "time": "0110630"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0110632"
+    },
+    {
+      "tokens": [
+        "Roger, Bruce.",
+        "And it's 0.5."
+      ],
+      "speaker": "Roosa",
+      "time": "0110645"
+    },
+    {
+      "tokens": [
+        "Understand 0.5?"
+      ],
+      "speaker": "McCandless",
+      "time": "0110649"
+    },
+    {
+      "tokens": [
+        "In other words, prior to them equalising the pressures across the CM forward hatch, there is a 0.5 psi difference between the pressure in the cabin and the pressure in the tunnel with the tunnel's absolute pressure being lower.",
+        "Note that the same multi-position valve is used to equalise the pressure across the hatch, and to measure that pressure difference, these being separate positions on the valve's knob.",
+        "Therefore, they cannot equalise the pressure and watch the value change at the same time."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Roosa",
+      "time": "0110652"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Out."
+      ],
+      "speaker": "McCandless",
+      "time": "0110653"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We're starting to bring our pressure up until [garble] in the tunnel."
+      ],
+      "speaker": "Mitchell",
+      "time": "0110853"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0110900"
+    },
+    {
+      "tokens": [
+        "We haven't yet been able to make out who is up in the tunnel working in the hatch area, removing the hatch."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.Delta-Pto zero."
+      ],
+      "speaker": "Mitchell",
+      "time": "0110945"
+    },
+    {
+      "tokens": [
+        "That's Ed Mitchell giving us the reports on the pressure differential."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0110948"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The spacecraft now 54,477 nautical miles [100,891 km] from Earth."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The greenish looking object floating on the end of the white tether is what is referred to as tool E.",
+        "It's a hex-head screwdriver type tool."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, we're starting to bring the hatch out now and put it on the foot of the couch."
+      ],
+      "speaker": "Mitchell",
+      "time": "0111211"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Out."
+      ],
+      "speaker": "McCandless",
+      "time": "011216"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You're not getting very much light down there, Houston, but that's the hatch going under the left-hand couch."
+      ],
+      "speaker": "Mitchell",
+      "time": "0111355"
+    },
+    {
+      "tokens": [
+        "Roger, Ed.",
+        "Even with the low level of light, we're getting a pretty good picture here, especially after it's color converted.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0111402"
+    },
+    {
+      "tokens": [
+        "Can you see anything up in the tunnel, Houston?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0111438"
+    },
+    {
+      "tokens": [
+        "We really aren't seeing much in the way of the docking mechanism there.",
+        "Here we go.",
+        "That looks better."
+      ],
+      "speaker": "McCandless",
+      "time": "0111440"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston, as we start the inspection, we find that the probe umbilicals are properly secured."
+      ],
+      "speaker": "Roosa",
+      "time": "0111628"
+    },
+    {
+      "tokens": [
+        "Houston.",
+        "Roger.",
+        "Out."
+      ],
+      "speaker": "McCandless",
+      "time": "0111635"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That was Al Shepard reporting that the probe umbilicals are properly connected.",
+        "That was one of the things that we had asked him to verify before removing the probe assembly."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Our best guess at this time is that Stu Roosa is the crewman working in the hatch area."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Activation of the handle allows the probe mechanism to collapse inside the tunnel and makes it possible for the crewman to remove the assembly."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Bruce; I don't know how well you can follow with the TV camera down there, but I didn't see anything obviously wrong with the umbilicals, and the capture latch release handle lock was in the Lock position."
+      ],
+      "speaker": "Roosa",
+      "time": "0112231"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you, Stu."
+      ],
+      "speaker": "McCandless",
+      "time": "0112244"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And it appears that the 83-pound probe assembly is collapsing, sliding down out of the tunnel now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The capture latch release handle turned very easily, Bruce."
+      ],
+      "speaker": "Roosa",
+      "time": "0112441"
+    },
+    {
+      "tokens": [
+        "Roger; out."
+      ],
+      "speaker": "McCandless",
+      "time": "0112444"
+    },
+    {
+      "tokens": [
+        "You didn't notice any damage to the pyro cover or anything like that, did you?"
+      ],
+      "speaker": "McCandless",
+      "time": "0112451"
+    },
+    {
+      "tokens": [
+        "No, I - I didn't, Bruce.",
+        "I - I looked it over here with a flashlight and, gee, I can't - can't see anything out of the ordinary.",
+        "We'll - we'll drag it down and take a look at the outside of it.",
+        "But, I didn't see anything wrong with - with the pyro cover or any of the connections or anything like that."
+      ],
+      "speaker": "Roosa",
+      "time": "0112455"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0112515"
+    },
+    {
+      "tokens": [
+        "And, Stu, while you're at it, would you say that the force that it took to remove the probe up there from the tunnel area was high, low, or indifferent - or nominal?"
+      ],
+      "speaker": "McCandless",
+      "time": "0112607"
+    },
+    {
+      "tokens": [
+        "Well, you know it's the first time I've done it without gravity helping a little bit - and pushing back, but I - I wouldn't say it was exceptionally hard.",
+        "I sort of braced myself on the bottom of the tunnel and gave a pull and she came loose.",
+        "[Pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0112621"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0112647"
+    },
+    {
+      "tokens": [
+        "I can see the head of Commander Alan Shepard just behind the probe."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'd like you to examine the probe head as you're now doing with particular emphasis on any evidence of unusual shearpin shearing in the bushing hole there at the end, or foreign material in the capture latch release button area or foreign material or damage anywhere in the areas of the capture latch hooks.",
+        "[Pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0112701"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll give it a go.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0112735"
+    },
+    {
+      "tokens": [
+        "All right, Bruce.",
+        "The first [garble] we looked we don't see anything obvious about it."
+      ],
+      "speaker": "Mitchell",
+      "time": "0112755"
+    },
+    {
+      "tokens": [
+        "Okay..."
+      ],
+      "speaker": "McCandless",
+      "time": "0112801"
+    },
+    {
+      "tokens": [
+        "If you could give us some instructions as to where you'd like to look, we'll try to play the camera right in on it for you."
+      ],
+      "speaker": "Mitchell",
+      "time": "0112802"
+    },
+    {
+      "tokens": [
+        "And, Bruce, up here in the very tip of the probe - you know where the - the tower hooks on it, it looks clean.",
+        "I don't see anything fishy about that right off the bat."
+      ],
+      "speaker": "Roosa",
+      "time": "0112807"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "Is that the bushing on the end you're describing to me, Stu?"
+      ],
+      "speaker": "McCandless",
+      "time": "0112822"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0112826"
+    },
+    {
+      "tokens": [
+        "Okay, 14, we'd like to get some closeup photos of the probe head around the capture latch release button of each capture latch hook; and if you find any scratching or damage up there - of that area in particular, also."
+      ],
+      "speaker": "McCandless",
+      "time": "0112846"
+    },
+    {
+      "tokens": [
+        "Okay, Bruce.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0112906"
+    },
+    {
+      "tokens": [
+        "Houston, looking at the drogue, we see that there are three scratches - 1, 2, 3, 4, 5 - that are rough to the touch [garble] broken the surface of the drogue.",
+        "[Long pause.]"
+      ],
+      "speaker": "Shepard",
+      "time": "0113006"
+    },
+    {
+      "tokens": [
+        "Al, this is Houston.",
+        "You're coming through very weakly.",
+        "Can you, maybe, put the mikes closer to your mouth?",
+        "I think that might be the problem."
+      ],
+      "speaker": "McCandless",
+      "time": "0113025"
+    },
+    {
+      "tokens": [
+        "The \"Snoopy cap\" communications headset has two microphones, one on each side.",
+        "The lightweight headset only has one."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, I was looking up and away from the mike when I was talking but, I was in the - up in the tunnel.",
+        "I'm looking at the drogue and there are these three scratches which we described before that have - that feel rough to the touch.",
+        "They've probably scratched the surface of the drogue - perhaps a fourth of an inch.",
+        "[Pause.]"
+      ],
+      "speaker": "Shepard",
+      "time": "0113033"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0113108"
+    },
+    {
+      "tokens": [
+        "Al, this is Houston.",
+        "You mentioned the dimension associated with these scratches - You mentioned a quarter of an inch.",
+        "Was that width or depth of penetration, or length or what?",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0113124"
+    },
+    {
+      "tokens": [
+        "Yes, I was trying to describe the depth of penetration, and it's very difficult because we don't have any kind of gauge on it, but it has scratched the surface to a depth of perhaps - I don't know - 3 or 4 thousandths maybe.",
+        "Very definitely scratched.",
+        "It's rough to the touch.",
+        "[Long pause.]"
+      ],
+      "speaker": "Shepard",
+      "time": "0113138"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0113205"
+    },
+    {
+      "tokens": [
+        ": Now, I'm confused, CapCom.",
+        "Is that - the scratch is of 3 or 4 thousandths?"
+      ],
+      "speaker": "MCC",
+      "time": "0113217"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Understand you're saying they're about 3 or 4 thousandths of an inch deep and on the order of a couple of inches long?"
+      ],
+      "speaker": "McCandless",
+      "time": "0113225"
+    },
+    {
+      "tokens": [
+        "That's right.",
+        "They're very light.",
+        "They all - as I said before - radial scratches leading away from the apex of the drogue and some are about 2 inches long, one's about 1 inch long, one's about three-quarters, and one's about one-half inch long.",
+        "These are apparently the marks made by the capture latches as they made the docking attempt and then backed in - cut into the surface of the drogue.",
+        "[Long pause.]"
+      ],
+      "speaker": "Shepard",
+      "time": "0113232"
+    },
+    {
+      "tokens": [
+        "Roger, we copy.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0113307"
+    },
+    {
+      "tokens": [
+        "Okay, when you get through taking some photos up there, we'd like you to take the capture latch release handle, pull, rotate it counterclockwise to the Cock position and then manually depress all three capture latch triggers at the base of the capture latch hooks, simultaneously, and verify that the capture latch release button should move forward to the lock position flush with the probe - bushing."
+      ],
+      "speaker": "McCandless",
+      "time": "0113331"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Why don't we do that and then when we get all through, we'll go through and get the pictures you want."
+      ],
+      "speaker": "Roosa",
+      "time": "0113400"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0113407"
+    },
+    {
+      "tokens": [
+        "And we're going to bring the drogue out, too, so you can take a look at it on the TV.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0113410"
+    },
+    {
+      "tokens": [
+        "Roger, Stu; and after you do get it out, we'd like you to hold the TV steady on the area of the drogue where the scratches are for a couple of minutes and do likewise again on the capture latch area on the probe."
+      ],
+      "speaker": "McCandless",
+      "time": "0113431"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0113447"
+    },
+    {
+      "tokens": [
+        "Ah, Houston; I'm moving the television camera in on the drogue now.",
+        "Al's going to put a light on it.",
+        "It is pretty dark."
+      ],
+      "speaker": "Roosa",
+      "time": "0113545"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0113551"
+    },
+    {
+      "tokens": [
+        "We're now looking up into the docking tunnel towards the Lunar Module."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, this is Houston.",
+        "We're getting a picture, but the illumination level isn't very good and I guess I - I for one can't see any scratches right here."
+      ],
+      "speaker": "McCandless",
+      "time": "0113619"
+    },
+    {
+      "tokens": [
+        "Roger; it is pretty hard to see it, Houston.",
+        "It's the light level.",
+        "[Pause.] We're going to try another little trick here.",
+        "Let's see if we can get you some light."
+      ],
+      "speaker": "Roosa",
+      "time": "0113631"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0113648"
+    },
+    {
+      "tokens": [
+        "All right, Houston.",
+        "We're going to move in on the - You're looking at the center of the drogue now and the scratches - you can see Stuart's thumb there.",
+        "He's going to point to them and we'll see if we can get enough light for you to see them."
+      ],
+      "speaker": "Roosa",
+      "time": "0113734"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0113748"
+    },
+    {
+      "tokens": [
+        "Roger, we - we got that last one, Stu, and we got the one you're pointing at now.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0113755"
+    },
+    {
+      "tokens": [
+        "And, Bruce.",
+        "I think that this illumination will give - illumination will give it to you if you'll let me hold it for a minute here."
+      ],
+      "speaker": "Mitchell",
+      "time": "0113829"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0113835"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We can see about five or six of these radial scratches in the present scene - right - right where you're looking there, about three of them.",
+        "One...",
+        "[Pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0113844"
+    },
+    {
+      "tokens": [
+        "Yeah, that's - that's affirmative, Bruce."
+      ],
+      "speaker": "Roosa",
+      "time": "0113901"
+    },
+    {
+      "tokens": [
+        "Okay, now, I guess that at the 4 o'clock position you got about three scratches and then at 8 o'clock, you've got one.",
+        "Do you have anything up at noon?",
+        "[Pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0113908"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Bruce.",
+        "There's one long one at 12 o'clock noon."
+      ],
+      "speaker": "Mitchell",
+      "time": "0113929"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0113934"
+    },
+    {
+      "tokens": [
+        "From the looks and from the feel, I believe it appears that the probe hit the drogue almost dead center every time we tried to make contact.",
+        "But, it just rebounded right off of it."
+      ],
+      "speaker": "Mitchell",
+      "time": "0113952"
+    },
+    {
+      "tokens": [
+        "Roger; we copy."
+      ],
+      "speaker": "McCandless",
+      "time": "0114007"
+    },
+    {
+      "tokens": [
+        "Okay, we're going to put the drogue back in place if you're through with it now."
+      ],
+      "speaker": "Mitchell",
+      "time": "0114009"
+    },
+    {
+      "tokens": [
+        "Negative, we'd like you to hold it out for a minute or so.",
+        "We ultimately want to wind up fit checking the drogue and probe here."
+      ],
+      "speaker": "McCandless",
+      "time": "0114015"
+    },
+    {
+      "tokens": [
+        "Okay, back on the probe, we'd like you to take the capture latch release handle, pull, rotate counterclockwise to the Cock position or a 150-degree rotation."
+      ],
+      "speaker": "McCandless",
+      "time": "0114025"
+    },
+    {
+      "tokens": [
+        "Okay, I've done that."
+      ],
+      "speaker": "Roosa",
+      "time": "0114037"
+    },
+    {
+      "tokens": [
+        "Okay, now manually depress all three capture latch triggers at the base of the capture latch hook simultaneously and verify that the capture latch release button in the end of the probe moves forward to the Lock position; that is flush with the probe pushing.",
+        "[Pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0114041"
+    },
+    {
+      "tokens": [
+        "Okay, you want us to push all three of them simultaneously, is that right?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0114104"
+    },
+    {
+      "tokens": [
+        "That's right.",
+        "[Pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0114107"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "Say it again, and verify what?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0114112"
+    },
+    {
+      "tokens": [
+        "Okay, the little button right at the tip of the probe which is the capture latch release button from theLMactive side - where you got your finger - should pop out flush when you trigger all three of these latches simultaneously."
+      ],
+      "speaker": "McCandless",
+      "time": "0114116"
+    },
+    {
+      "tokens": [
+        "Got it.",
+        "Is it flush?",
+        "Okay I'm going to pull back in and it came out - it appears to be almost flush.",
+        "[Pause.] Stu says that's counted as flush, the way it is now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0114137"
+    },
+    {
+      "tokens": [
+        "We're going to repeat it, Houston.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0114226"
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "We're requesting Medium Beamwidth on the High Gain Antenna and we're going to have to handover from Goldstone here shortly."
+      ],
+      "speaker": "McCandless",
+      "time": "0114252"
+    },
+    {
+      "tokens": [
+        "[Garble] we repeated that, and it - it comes out - flush."
+      ],
+      "speaker": "Roosa",
+      "time": "0114304"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0114311"
+    },
+    {
+      "tokens": [
+        "In looking at that button, do you notice anything unusual about it - any burrs, any bending, or any way it could be hanging up on something?"
+      ],
+      "speaker": "McCandless",
+      "time": "0114323"
+    },
+    {
+      "tokens": [
+        "[Garble]."
+      ],
+      "speaker": "Mitchell",
+      "time": "0114336"
+    },
+    {
+      "tokens": [
+        "Say again, Ed.",
+        "We had some static."
+      ],
+      "speaker": "McCandless",
+      "time": "0114340"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "We are looking at it now."
+      ],
+      "speaker": "Mitchell",
+      "time": "0114346"
+    },
+    {
+      "tokens": [
+        "Al's taking a look at it.",
+        "The top of the button looks smooth.",
+        "Of course, you can't see down below it.",
+        "But it seems to keep from knocking - releases fairly easily.",
+        "[Pause.] It doesn't appear to be sticking at all."
+      ],
+      "speaker": "Roosa",
+      "time": "0114347"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I guess that's what we really wanted to know about it."
+      ],
+      "speaker": "McCandless",
+      "time": "0114405"
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "If you could - on the TV pictures - refrain from using the flashlight in close here, I think we've got enough light to - to see it with the ambient light."
+      ],
+      "speaker": "McCandless",
+      "time": "0114418"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0114431"
+    },
+    {
+      "tokens": [
+        "Maybe you do.",
+        "We don't seem to."
+      ],
+      "speaker": "Mitchell",
+      "time": "0114436"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We got 30 seconds to handover; so we're going to - just go into a standby mode here for a minute or so until Honeysuckle picks up."
+      ],
+      "speaker": "McCandless",
+      "time": "0114440"
+    },
+    {
+      "tokens": [
+        "As the Apollo spacecraft moves further away from Earth, its horizontal speed (speed in relation to the surface) slows down and eventually the rotation of the Earth itself overtakes it.",
+        "This takes each of the three primary communication stations in turn to face the spacecraft.",
+        "Right now the California-based Goldstone station is moving away, while Australia's Honeysuckle Creek station is coming up to view Apollo 14."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0114448"
+    },
+    {
+      "tokens": [
+        "And, Ed, now that you've got the capture latches in the Locked position out there on the end of the probe, we'd like you to push as hard as you conveniently can in zero-g on each of the capture latches and verify that they do not depress."
+      ],
+      "speaker": "McCandless",
+      "time": "0114522"
+    },
+    {
+      "tokens": [
+        "Right.",
+        "We've done that.",
+        "We'll do it again, and they don't."
+      ],
+      "speaker": "Shepard",
+      "time": "0114541"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0114545"
+    },
+    {
+      "tokens": [
+        "Houston, they're not going to go in that way."
+      ],
+      "speaker": "Shepard",
+      "time": "0114604"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "They shouldn't.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0114607"
+    },
+    {
+      "tokens": [
+        "Okay, 14.",
+        "Now we'd like you, using tool B or some other suitable tool, to depress the capture latch release button in the end of the probe there to cock the capture latches."
+      ],
+      "speaker": "McCandless",
+      "time": "0114628"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by."
+      ],
+      "speaker": "Shepard",
+      "time": "0114643"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Our Network controller reports that we are now getting a television signal from the station at Honeysuckle Creek, Australia."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, we can cock the capture - capture latches by pressing in the button on the end of it."
+      ],
+      "speaker": "Mitchell",
+      "time": "0114832"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And now that you've got the drogue out, we'd like you to position the drogue and push it over the capture latches until the capture latch release button extends; and, I guess we'd like you to do this several times and try applying different combinations of offset, side load, and torque on the thing, and check it up for any indications of dragging, binding, or anything it might be giving the problem that you experienced a few hours ago.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0114840"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Say again now how you would like - like us to cock the capture launches in the way we just did by depressing the button on the end of the probe.",
+        "And then fitting it over - into the drogue several times and repeat this operation.",
+        "Is that correct?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0114915"
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "If you put the probe in a fixed place and then put the drogue over it, you could sight in through the hole on the end of the drogue and keep a good eye on things."
+      ],
+      "speaker": "McCandless",
+      "time": "0114931"
+    },
+    {
+      "tokens": [
+        "Roger; understand.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0114944"
+    },
+    {
+      "tokens": [
+        "14; and, one of these times when you have the drogue on over the end of the probe, you might try just holding the drogue in position and wiggling the capture latch release button in and out several times.",
+        "In this condition, it won't do anything but it will allow you to assess the possibilities of binding or sticking of that particular part of the mechanism.",
+        "[Pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0114958"
+    },
+    {
+      "tokens": [
+        "Okay, Houston."
+      ],
+      "speaker": "Mitchell",
+      "time": "0115026"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, I'm going to get rid of the TV camera for a minute.",
+        "It's not doing us any good and it's taking all three of us to handle it."
+      ],
+      "speaker": "Mitchell",
+      "time": "0115310"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0115319"
+    },
+    {
+      "tokens": [
+        "And it appears we may have to get on theLMside to do this.",
+        "There's not quite enough room here to work."
+      ],
+      "speaker": "Mitchell",
+      "time": "0115321"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "McCandless",
+      "time": "0115326"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ed, this is Houston.",
+        "Have you had any - luck, I guess you could call it - in getting the probe and drogue to bind by applying lateral forces to the drogue?"
+      ],
+      "speaker": "McCandless",
+      "time": "0115615"
+    },
+    {
+      "tokens": [
+        "Not yet.",
+        "Stand by; we're getting ready to try it again now."
+      ],
+      "speaker": "Mitchell",
+      "time": "0115627"
+    },
+    {
+      "tokens": [
+        "Oh, okay."
+      ],
+      "speaker": "McCandless",
+      "time": "0115632"
+    },
+    {
+      "tokens": [
+        "Hey, Bruce, there just wasn't any place that worked handily with that.",
+        "We're going to put the drogue back in - Al's on the other side - and then we can put it up in there right."
+      ],
+      "speaker": "Mitchell",
+      "time": "0115636"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "By the other side, do you mean over in theLM?"
+      ],
+      "speaker": "McCandless",
+      "time": "0115651"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Mitchell",
+      "time": "0115657"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It is not customary for any crewmembers to be in the LM at this time.",
+        "Despite the tight quarters available to the crew, the LM is not used as extra living room during the translunar coast.",
+        "The LM is unpowered except for heaters in its guidance electronics, and has no active life support until it is activated in lunar orbit."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-018"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 14."
+      ],
+      "speaker": "Roosa",
+      "time": "0120038"
+    },
+    {
+      "tokens": [
+        "Go ahead, 14."
+      ],
+      "speaker": "McCandless",
+      "time": "0120041"
+    },
+    {
+      "tokens": [
+        "Okay, Bruce.",
+        "We cycled it - oh, about four or five times, and it goes in just so easily.",
+        "The capture latches dock and hold it, and we've tried it by putting the capture latch release handle at 150 and putting it up and they move in.",
+        "We've tried it by leaving it - you know, the yellow - and cocking them by pushing in on the end of the probe on the probe release plunger.",
+        "And it works both ways, just real fine."
+      ],
+      "speaker": "Roosa",
+      "time": "0120044"
+    },
+    {
+      "tokens": [
+        "So, what you're trying to tell me is you still haven't come up with anything that would be the problem."
+      ],
+      "speaker": "McCandless",
+      "time": "0120124"
+    },
+    {
+      "tokens": [
+        "That's basically it.",
+        "[Pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0120130"
+    },
+    {
+      "tokens": [
+        "Would you pass over to Al that, while you've got the probe and drogue in the tunnel there and mated - He's on the other side - and keeping them engaged, would he push the capture latch release button in and out several times and see if he can make it stick up against the bushing by pushing sideways, or anything of that sort, on it while it's being pushed in and out."
+      ],
+      "speaker": "McCandless",
+      "time": "0120138"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll try that."
+      ],
+      "speaker": "Roosa",
+      "time": "0120201"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, this is Houston.",
+        "While you're up there in the tunnel, we'd like to get a roll angle read-out on - from the index mark as you come back through; and, with respect to further procedures, I guess we got a - a write-in comment down here which is a step that says further instructions will follow tomorrow.",
+        "[Pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0120447"
+    },
+    {
+      "tokens": [
+        "Didn't quite understand all that, Bruce.",
+        "But try it, try us again."
+      ],
+      "speaker": "Mitchell",
+      "time": "0120520"
+    },
+    {
+      "tokens": [
+        "Okay, we're asking for a docking tunnel roll index reading at your convenience, and..."
+      ],
+      "speaker": "McCandless",
+      "time": "0120524"
+    },
+    {
+      "tokens": [
+        "Okay, we got that."
+      ],
+      "speaker": "Mitchell",
+      "time": "0120532"
+    },
+    {
+      "tokens": [
+        "You've exhausted our imaginations for right now on troubleshooting the probe.",
+        "We'll work on it some more overnight and be back with you in the morning."
+      ],
+      "speaker": "McCandless",
+      "time": "0120534"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "Understand."
+      ],
+      "speaker": "Mitchell",
+      "time": "0120547"
+    },
+    {
+      "tokens": [
+        "And would you confirm that Al was unsuccessful in getting the capture latch release button to bind up against that bushing in the end of the probe?"
+      ],
+      "speaker": "McCandless",
+      "time": "0120553"
+    },
+    {
+      "tokens": [
+        "That's a - that's a negative, Bruce.",
+        "We've cycled it several times; and he pushed on it and tried to jimmy it; and we - The thing slides in just so easily and locks up; and, when he pushes on the - on the plunger, why she releases very easily; and we can't seem to find any bind or get it to malfunction for us at all.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0120606"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, holding the - holding the probe in place there, we were wanting him to just take and cycle the capture latch release button in and out several times, trying to - doing his best to bind it up against anything he can find there in the way of the internal surface of the bushing.",
+        "I guess you're telling me that he was unable to."
+      ],
+      "speaker": "McCandless",
+      "time": "0120634"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, we hadn't really run that specific test.",
+        "We'll try that."
+      ],
+      "speaker": "Roosa",
+      "time": "0120656"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, we're bringing Al back through.",
+        "We cannot force it to malfunction at all.",
+        "So, you'll have to think about it overnight."
+      ],
+      "speaker": "Mitchell",
+      "time": "0121112"
+    },
+    {
+      "tokens": [
+        "Roger, 14.",
+        "We'll do that.",
+        "We recommend that after you get Al back on the Command Module side, you reinstall the drogue and the Command Module hatch and keep the probe over in the Command Module.",
+        "We believe we've seen enough TV data for the time being, so you can shut down the television at your convenience.",
+        "And we would like to get photographic documentation of the capture latch release button, of each capture latch hook, and of any areas of scratches or visual damage on the probe, Ed.",
+        "[Pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0121120"
+    },
+    {
+      "tokens": [
+        "And, Houston, the docking roll index is plus 0.9."
+      ],
+      "speaker": "Roosa",
+      "time": "0121214"
+    },
+    {
+      "tokens": [
+        "Understand.",
+        "Plus 0.9 on docking roll."
+      ],
+      "speaker": "McCandless",
+      "time": "0121220"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Roosa",
+      "time": "0121225"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Very good.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0121227"
+    },
+    {
+      "tokens": [
+        "From the 1971 Mission Report - \"The most probable cause of the problem was contamination or debris which later became dislodged.",
+        "A cover will be provided to protect the probe tip from foreign material entering the mechanism prior to flight.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Stu; this is Houston.",
+        "You're cleared to start getting set up for aPTCat your convenience.",
+        "We'll be watching the rates; and, on this firstPTCinitiation, we'll probably want to go very close to the full 20 minutes of rate damping, although we expect that on subsequent ones during the mission, we'll have a better feel for it and just be able to cue you as to when to initiate the roll based on the rates that we're observing.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0121247"
+    },
+    {
+      "tokens": [
+        "Okay, understand.",
+        "And we don't mind waiting 20 minutes."
+      ],
+      "speaker": "Roosa",
+      "time": "0121320"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0121324"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "When you do close the hatch in theLM, we'd like you to give us a mark so we may confirm the Floodlights, Off, over."
+      ],
+      "speaker": "McCandless",
+      "time": "0121521"
+    },
+    {
+      "tokens": [
+        "Roger; stand by."
+      ],
+      "speaker": "Mitchell",
+      "time": "0121533"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We weren't intending to rush you on it.",
+        "Just when it happens, give us a yell."
+      ],
+      "speaker": "McCandless",
+      "time": "0121537"
+    },
+    {
+      "tokens": [
+        "Wilco."
+      ],
+      "speaker": "Mitchell",
+      "time": "0121543"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 12 hours, 20 minutes.",
+        "We're in the process now of handing over shifts.",
+        "Flight Director Gerry Griffin and his team of flight controllers coming on now to replace Flight Director Milton Windler.",
+        "During the shift that is just ending, the Windler team came on just after the Apollo 14 crew had successfully completed docking on the sixth attempt.",
+        "That occurred at Ground Elapsed Time of 4 hours, 56 minutes, 46 seconds.",
+        "And following that, the SaturnS-IVBwas successfully configured for the Auxiliary Propulsion System evasive maneuver and the subsequent LOX dump and midcourse correction to put the Saturn third stage on a trajectory which will impact the Moon in the vicinity of the Apollo 12 seismometer.",
+        "The Flight Dynamics Officer had a bit of difficulty in computing the exact impact coordinates due to a small undetermined - small venting from some undetermined origin on theS-IVB.",
+        "The venting apparently having no significant effect on the trajectory but affecting the data on which the trajectory is computed.",
+        "And at this point our trajectory analysis is not too precise, we expect that with additional tracking that the impact coordinates will be more precisely established.",
+        "But at the present time, the tracking data shows that theS-IVBwill impact at 8 degrees, 34 minutes south; 23 degrees, 17 minutes west at a Ground Elapsed Time of 82 hours, 37 minutes.",
+        "And following the midcourse correction on theS-IVB, the crew was advised that the - it would be desirable to remove the probe and drogue assembly with the television activated and to trouble shoot the assembly to see if any obvious problem could be found.",
+        "After going through a series of 12 step-by-step items, the only conclusion that the crew was able to reach was that there was no obvious defect with the probe or drogue assembly.",
+        "The drogue was reinstalled in the tunnel area.",
+        "The probe has been left out and additional trouble shooting will be done tomorrow after the crew completes its sleep period, getting the engineering support people in Mission Control and at Downey, California some additional time to determine what area to proceed in trouble shooting next.",
+        "The booster systems engineer is just reporting status on theS-IVB, the Saturn third stage.",
+        "He reports that all tank pressures appear to be down to zero and that the booster is in a stable configuration.",
+        "No further activities planned with the Saturn third stage.",
+        "At 12 hours, 24 minutes into the mission; Apollo 14 is 59,996 nautical miles [111,113 km] from Earth, traveling at a speed of 7,395 feet per second [2,254 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0123108"
+    },
+    {
+      "tokens": [
+        "Taking over the CapCom station now is astronaut Fred Haise.",
+        "Less than a year previously in April 1970, Fred was a member of the Apollo 13 crew heading to explore Fra Mauro.",
+        "Their oxygen tank explosion and the harrowing return back home delayed the flight of Apollo 14 - and changed their landing site to Fra Mauro.",
+        "He has continued to support the Apollo Program, and will be named Backup Commander of Apollo 16 in March, 1971."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0123112"
+    },
+    {
+      "tokens": [
+        "I've got a comm configuration for you to set up in here forPTC."
+      ],
+      "speaker": "Haise",
+      "time": "0123113"
+    },
+    {
+      "tokens": [
+        "Okay, Freddo.",
+        "Standby.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0123120"
+    },
+    {
+      "tokens": [
+        "Okay, Freddo.",
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0123211"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You can set the High Gain Pitch and Yaw indicators to Pitch, minus 52; and Yaw, 270 degrees and then select Omni Bravo."
+      ],
+      "speaker": "Haise",
+      "time": "0123213"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "52, 270, up to Bravo."
+      ],
+      "speaker": "Mitchell",
+      "time": "0123233"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And then Track to Manual, and Wide Beamwidth."
+      ],
+      "speaker": "Haise",
+      "time": "0123237"
+    },
+    {
+      "tokens": [
+        "You have it."
+      ],
+      "speaker": "Mitchell",
+      "time": "0123247"
+    },
+    {
+      "tokens": [
+        "Okay, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0123248"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "(Cough) Houston, Apollo 14."
+      ],
+      "speaker": "Mitchell",
+      "time": "0123416"
+    },
+    {
+      "tokens": [
+        "Go ahead, 14."
+      ],
+      "speaker": "Haise",
+      "time": "0123420"
+    },
+    {
+      "tokens": [
+        "Rog, Freddo.",
+        "We were busy with the probe at 11 hours, and we're inquiring about turning off the waste storage vent valve and shifting our heater configuration on the O2tanks.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0123423"
+    },
+    {
+      "tokens": [
+        "The waste storage compartment holds solid crew wastes during the mission, held for postflight biomedical analysis.",
+        "To prevent any odors escaping into the cabin, the compartment can be vented out to space.",
+        "This system to increase crew comfort has another use in ensuring that the cabin atmosphere is at 100% oxygen content.",
+        "With a constant flow of oxygen out of the cabin being made up by O2from the Service Module tanks, any lingering nitrogen and other traces gases can be flushed out."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "Waste Storage Vent can go to Close and on the heater configuration, 1 and 2, to Off; 3 to Auto."
+      ],
+      "speaker": "Haise",
+      "time": "0123459"
+    },
+    {
+      "tokens": [
+        "So be it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0123512"
+    },
+    {
+      "tokens": [
+        "And, Apollo 14; Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0123556"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0123559"
+    },
+    {
+      "tokens": [
+        "Did you all by chance vent the batteries back at 11 hours, then?"
+      ],
+      "speaker": "Haise",
+      "time": "0123601"
+    },
+    {
+      "tokens": [
+        "Neg, Fred.",
+        "I'm getting ready to do that now."
+      ],
+      "speaker": "Mitchell",
+      "time": "0123605"
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "I was going to suggest you do that before we get thePTC, so we get all that closed up."
+      ],
+      "speaker": "Haise",
+      "time": "0123609"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Of the five batteries within the CM, two are untouched except to fire the pyros when called upon.",
+        "Their voltage is occasionally monitored.",
+        "The three so-called entry and post-landing batteries, A, B and C, are used throughout the flight to supplement the output from the fuel cells.",
+        "As a result, they are periodically recharged, thereby providing a load for the fuel cells when the demand from other systems is low.",
+        "Batts A, B and C are contained within individual cases to isolate them and these are vented of their sea-level pressure early in the flight."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 14."
+      ],
+      "speaker": "Roosa",
+      "time": "0124619"
+    },
+    {
+      "tokens": [
+        "Go ahead, 14."
+      ],
+      "speaker": "Haise",
+      "time": "0124621"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "Al's closed theLMhatch and he verified the floodlights went out - Went out before the hatch closed."
+      ],
+      "speaker": "Roosa",
+      "time": "0124625"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "They say they saw it here on the power..."
+      ],
+      "speaker": "Haise",
+      "time": "0124637"
+    },
+    {
+      "tokens": [
+        "That may have been - Say again."
+      ],
+      "speaker": "Roosa",
+      "time": "0124640"
+    },
+    {
+      "tokens": [
+        "They saw it down here, too, on the power, I guess."
+      ],
+      "speaker": "Haise",
+      "time": "0124644"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And I'd like to clarify one thing.",
+        "Seemed like Bruce implied that we would keep the probe in - in here with us, and we'd just like to store it in the - in the drogue for the night.",
+        "It's so easy just to open the hatch and get it back out again if we want to dissect it tomorrow or something.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0124649"
+    },
+    {
+      "tokens": [
+        "Yeah, that sounds all right, Stu."
+      ],
+      "speaker": "Haise",
+      "time": "0124727"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0124730"
+    },
+    {
+      "tokens": [
+        "And, 14; Houston,"
+      ],
+      "speaker": "Haise",
+      "time": "0124742"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Roosa",
+      "time": "0124745"
+    },
+    {
+      "tokens": [
+        "Okay, I'd like to verify that you have the Waste Stowage Vent to Close now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0124747"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's verified, Fred.",
+        "We're still venting the battery."
+      ],
+      "speaker": "Roosa",
+      "time": "0124822"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0124828"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 14."
+      ],
+      "speaker": "Mitchell",
+      "time": "0125635"
+    },
+    {
+      "tokens": [
+        "Go ahead, 14."
+      ],
+      "speaker": "Haise",
+      "time": "0125638"
+    },
+    {
+      "tokens": [
+        "Freddo, the battery vent seems to have stopped at a reading of about 2 and a half volts.",
+        "It dropped very quickly to that and it's been staying there.",
+        "Can you tell if the vent is complete?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0125641"
+    },
+    {
+      "tokens": [
+        "Stand by 1.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0125653"
+    },
+    {
+      "tokens": [
+        "Sorry about that; 0.25."
+      ],
+      "speaker": "Mitchell",
+      "time": "0125712"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Did you correct that, Ed, and say 0.25?"
+      ],
+      "speaker": "Haise",
+      "time": "0125718"
+    },
+    {
+      "tokens": [
+        "That's right; 2 and a half units, Freddo; 0.25 volts."
+      ],
+      "speaker": "Mitchell",
+      "time": "0125722"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0125726"
+    },
+    {
+      "tokens": [
+        "Ed is reading the Systems Test Meter, a small voltmeter onPanel 101"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The various sensors around the spacecraft generate electrical signals that represent the values of whatever parameter is being measured.",
+        "Eventually, each signal will be telemetered to Earth but prior to doing so, they must be massaged or conditioned into a form that is suitable for the transmission.",
+        "Apollo uses Pulse Code Modulation to transmit telemetry.",
+        "This is what is nowadays called 'digital', where the analogue signal is converted into a number and that number is transmitted as part of a digital stream.",
+        "The electronics that make the conversion to digital are expecting a voltage range of zero to five volts.",
+        "Therefore, each signal is recalibrated so that its expected range will be expressed between these voltages."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "There are far more sensors and signals within the spacecraft than there are meters and panel area to display them on.",
+        "As a result, Mission Control have far greater visibility into the systems than do the crew.",
+        "However, the Systems Test Meter partially gets around the problem.",
+        "It is a 0-5V voltmeter and a couple of switches that allow a subset of conditioned signals to be selected.Page 1-28of the Systems Checklist has a chart of what parameters can be selected on the meter and how the measured voltage translates to the parameter.",
+        "Battery compartment manifold pressure can be monitored by selecting 4A on the knobs and a reading of 0.25V translates to a compartment pressure of about 1 psi."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, 14.",
+        "That reading will be okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0125738"
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "Did you copy?",
+        "The 0.25 reading is good enough, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0125802"
+    },
+    {
+      "tokens": [
+        "Thanks, Freddo.",
+        "And battery vent is terminated."
+      ],
+      "speaker": "Mitchell",
+      "time": "0125809"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0125813"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-019"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0131108"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0131111"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "If you can give us Accept there, we'll pump you up a state vector and I have P37 block data for you."
+      ],
+      "speaker": "Haise",
+      "time": "0131113"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by 1.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0131125"
+    },
+    {
+      "tokens": [
+        "There'sP00and Accept."
+      ],
+      "speaker": "Mitchell",
+      "time": "0131136"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0131141"
+    },
+    {
+      "tokens": [
+        "Okay, Freddo.",
+        "Go ahead with the P37."
+      ],
+      "speaker": "Mitchell",
+      "time": "0131223"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by 1.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0131227"
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "P37 block data: 025:00; 4971; minus 165; 069:12; 035:00; 7548; minus 165; 068:35.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0131304"
+    },
+    {
+      "tokens": [
+        "Hold it, Freddo."
+      ],
+      "speaker": "Mitchell",
+      "time": "0131340"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0131341"
+    },
+    {
+      "tokens": [
+        "I thought you were reading me a P37 block data."
+      ],
+      "speaker": "Mitchell",
+      "time": "0131344"
+    },
+    {
+      "tokens": [
+        "That's what it says."
+      ],
+      "speaker": "Haise",
+      "time": "0131349"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "Let's start over again.",
+        "GETI."
+      ],
+      "speaker": "Mitchell",
+      "time": "0131353"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "GETI, 025:00; 4971; minus 165; 069:12.",
+        "That'sGETat 400K.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0131355"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "025:00."
+      ],
+      "speaker": "Mitchell",
+      "time": "0131422"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Haise",
+      "time": "0131424"
+    },
+    {
+      "tokens": [
+        "How many are you going to read me up?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0131426"
+    },
+    {
+      "tokens": [
+        "Four of them, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0131428"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Didn't understand.",
+        "Press on."
+      ],
+      "speaker": "Mitchell",
+      "time": "0131431"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The next one: 035:00; 7548; minus 165; 068:35; and the third one is 045:00; 5725; minus 165; 092:58; and the last one, 060:00; 5242; minus 165; 117:02.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0131435"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "025:00; 4971; minus 165; 069:12; 035:00; 7548; minus 165; 068:35; 045:00; 5725; minus 165; 092:58; 060:0 [sic]; 5242; minus 165; 117:02."
+      ],
+      "speaker": "Mitchell",
+      "time": "0131523"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And remarks.",
+        "The second through the fourth sets are, Ed, the 35-hour, 45-hour, and the 60-hour block data assumes a midcourse 2.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0131602"
+    },
+    {
+      "tokens": [
+        "Understand.",
+        "35, 45, and 60 hours assume midcourse 2."
+      ],
+      "speaker": "Mitchell",
+      "time": "0131627"
+    },
+    {
+      "tokens": [
+        "That's affirm, Ed.",
+        "And we're still watching your rates here.",
+        "We'll give you the word when we're ready for thePTC."
+      ],
+      "speaker": "Haise",
+      "time": "0131633"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Mitchell",
+      "time": "0131641"
+    },
+    {
+      "tokens": [
+        "P37 is a 'Return to Earth' program and these PADs provide the minimum information for it to control a burn that will return the crew directly to Earth without reaching the Moon.",
+        "With its knowledge of their trajectory, the computer will work out other required parameters to achieve the values given in the PAD.",
+        "They will only be used in an emergency situation.",
+        "Four PADs are passed to the crew with ignition times at 25, 35, 45 and 60 hours."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Lift-off plus 25 hoursTime of ignition:25 hours GETChange in velocity:4,971 fps (1,515 m/s)Longitude of Earth landing point:165° WestTime of entry into Earth atmosphere:Defined as 400,000 feet (122 km) altitude; 69 hours, 12 minutes GET.Lift-off plus 35 hoursTime of ignition:35 hours GETChange in velocity:7,548 fps (2,301 m/s)Longitude of Earth landing point:165° WestTime of entry into Earth atmosphere:92 hours, 58 minutes GET.Lift-off plus 45 hoursTime of ignition:45 hours GETChange in velocity:5,725 fps (1,745 m/s)Longitude of Earth landing point:165° WestTime of entry into Earth atmosphere:92 hours, 58 minutes GET.Lift-off plus 60 hoursTime of ignition:60 hours GETChange in velocity:5,242 fps (1,598 m/s)Longitude of Earth landing point:165° WestTime of entry into Earth atmosphere:117 hours, 2 minutes GET.One of the constraints on P37 is that it only applies near Earth.",
+        "It does not take the Moon's gravity into account."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control; 13 hours, 20 minutes Ground Elapsed Time in the flight of Apollo 14.",
+        "The crew presently setting up the Passive Thermal Control drift rate of the so called barbecue mode of..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Apollo 14; Houston.",
+        "You can go back to Block on the computer."
+      ],
+      "speaker": "Haise",
+      "time": "0132017"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mitchell",
+      "time": "0132023"
+    },
+    {
+      "tokens": [
+        "A fresh state vector, as measured by radio tracking techniques at the ground stations on Earth, has been uploaded into the erasable memory of the computer."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Fred, and we got the hatch back in, and when I put the probe up for stowage, I looked again at that pyro cover that Bruce had asked me about before, and I can't see anything wrong with the probe anywhere."
+      ],
+      "speaker": "Roosa",
+      "time": "0132028"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0132044"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Another comment by Stu Roosa on the continuing mystery of why the docking probe malfunctioned in the earlier attempts right after Translunar Injection to dock with the Lunar Module.",
+        "Attempts to duplicate this failure in flight as well as here on the ground have been fruitless so far.",
+        "The training model of the probe and drogue are sitting on the floor in the aisle next to the spacecraft communicator's console here in Mission Control.",
+        "Meanwhile, the tests in flight have been postponed or suspended until after the rest and meal period for the crew of Apollo 14.",
+        "The spacecraft is now 63,937 nautical miles [118,411 km] out from Earth, and a velocity of 7,100 feet per second [2,164 m/s].",
+        "We'll continue to monitor air/ground here in Mission Control as the crew prepares for the night's rest and getting the spacecraft set up on the slow rotation of Passive Thermal Control,PTC.",
+        "At 13 hours, 22 minutes Ground Elapsed Time; this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0132424"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0132427"
+    },
+    {
+      "tokens": [
+        "It looks like you quit moving around in there, Ed.",
+        "The rates are down.",
+        "I guess y'all can crank upPTC."
+      ],
+      "speaker": "Haise",
+      "time": "0132430"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mitchell",
+      "time": "0132439"
+    },
+    {
+      "tokens": [
+        "Be right with you, Fred."
+      ],
+      "speaker": "Roosa",
+      "time": "0132440"
+    },
+    {
+      "tokens": [
+        "Don't worry."
+      ],
+      "speaker": "Haise",
+      "time": "0132443"
+    },
+    {
+      "tokens": [
+        "The Digital AutoPilot for Apollo 14 includes a routine that will initiate a slow, constant rotation, such as that used in Passive Thermal Control (PTC) or for orb-rate rotation, where one side of the spacecraft will be made to constantly face a planet during orbit.",
+        "The manoeuvre is begun by Verb 79 but only after the stack has been given 20 minutes for its own rotations to be minimised and for any sloshing by the fluids in the tanks to settle down.",
+        "When Verb 79 is actioned, the crewman has to enter the desired rate of rotation (in degrees per second) and the desired deadband (in degrees).",
+        "When Apollo 8 first carried out PTC, they used a rotation rate of one revolution per hour, or 0.1°/sec.",
+        "Later flights use 0.3°/sec.",
+        "Verb 79 was dropped from later Apollo missions and instead, one of the tracking programs was used to maintain the rotation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0132606"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0132609"
+    },
+    {
+      "tokens": [
+        "Just a reminder.",
+        "You might make sure you've - brushed your teeth and all that kind of stuff before tucking her in there, before you crank up thatPTC."
+      ],
+      "speaker": "Haise",
+      "time": "0132611"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Mitchell",
+      "time": "0132623"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 14."
+      ],
+      "speaker": "Roosa",
+      "time": "0134057"
+    },
+    {
+      "tokens": [
+        "Go ahead, 14."
+      ],
+      "speaker": "Haise",
+      "time": "0134101"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "I'm going to spin it up.",
+        "I'm going to use B/D roll if that's agreeable with you."
+      ],
+      "speaker": "Roosa",
+      "time": "0134104"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That'd be fine."
+      ],
+      "speaker": "Haise",
+      "time": "0134111"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "0134114"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Houston; 14."
+      ],
+      "speaker": "Roosa",
+      "time": "0134406"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Haise",
+      "time": "0134409"
+    },
+    {
+      "tokens": [
+        "Hey, Fred, I guess we've already said everything we can to try to help you all out on that probe.",
+        "We're sitting here trying to run back over.",
+        "I want to make sure that we're not overlooking something that might give you a clue.",
+        "And, when we did our docking, as - as I was thrusting plus-X and then Al hit the retract, he said the talkbacks came back barber pole for - a time period; you know, like a couple of seconds before - and then went gray again when we got the - the dock.",
+        "Now I'm just tossing that in.",
+        "I think we called that, but I just wanted to make sure we've covered everything.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0134411"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We - we had already gotten that, Stu, from your previous comments."
+      ],
+      "speaker": "Haise",
+      "time": "0134459"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I just thought maybe there in the rush of things, you know, we might not got it in.",
+        "I can't think of anything else to - to add, I guess.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0134507"
+    },
+    {
+      "tokens": [
+        "Okay, Stu.",
+        "I guess we got nothing else on the drogue/probe business.",
+        "Just wanted to verify that you get the LiOH canister changed, and yourPTCstartup looks good."
+      ],
+      "speaker": "Haise",
+      "time": "0134529"
+    },
+    {
+      "tokens": [
+        "Okay, Freddo.",
+        "We got the LiOH changed at, let's see, let's check the time; 13:07."
+      ],
+      "speaker": "Roosa",
+      "time": "0134546"
+    },
+    {
+      "tokens": [
+        "This would be the first canister change, and involves the removal of Canister 1 and its replacement with Canister 3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It bears to mention that the Command Module still uses the square AiResearch-supplied LiOH canisters, which famously had to be adapted to use onboard the LM during Apollo 13 - the LM's Hamilton Standard-constructed Environmental Control System taking round canisters which are interchangeable with the PLSS backpacks.",
+        "No attempt was made to standardize the two filters between the two spacecraft - although a diagram on how to build the adapter was included in the LM emergency procedures guide book."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0134556"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control; 13 hours, 50 minutes Ground Elapsed Time.",
+        "And that last exchange of conversation between Command Module Pilot Stu Roosa, and spacecraft communicator Fred Haise here in Mission Control.",
+        "Stu thought of one item that perhaps he did not mention during the earlier discussions of the docking probe problem.",
+        "It turned out he had mentioned them, but that had to do with the indications of some devices in the cabin called talkbacks.",
+        "They're little striped devices that show through a little window and when they're still they have stripes, when they're spinning they turn grey because of the visual effect of black and white stripes moving at high speed.",
+        "However, if he had already mentioned these indicators earlier in the evening.",
+        "He reported also that at 13 hours and 7 minutes Ground Elapsed Time they had changed the lithium hydroxide canister in the Command Module.",
+        "These canisters serve to scrub the carbon dioxide from the cabin atmosphere.",
+        "Earlier this morning, the Flight Director Gerry Griffin was down fiddling with the probe and drogue mechanism sitting on the floor here in Mission Control scratching his head over it.",
+        "And at this time, or perhaps later in the day, at various locations around the country where the probe and drogue had been designed and manufactured, other people will be scratching their heads trying to sort out why the drogue did not latch on the first several attempts at docking on Apollo 14.",
+        "Flight Plan calls for the crew to go to sleep at about 16 hours Ground Elapsed Time which is about 2 hours and 8 minutes from now.",
+        "There is an outside chance that they may decide to move that up a bit.",
+        "At the present time, they're getting set up in Passive Thermal Control,PTC.",
+        "Status reports coming out of the Spacecraft Analysis room; they're rather brief.",
+        "All systems perking along quite nominally.",
+        "Shows the - at 11 hours and 7 minutes, the leak rate in the Lunar Module and Command Module tunnel joint was about 5/10 or 5/100 of a pound per hour of oxygen or atmosphere.",
+        "Guidance and control are all up to snuff, communications are normal, displays and controls all nominal, down through all the rest of the spacecraft systems.",
+        "There is a slight drop below what is nominal at this time in the flight for the Command Module, or Command Service Module Reaction Control System's propellants.",
+        "In the propellant remaining, in as much as quite a bit was used in the several docking attempts but still well within the acceptable budget.",
+        "Electrical system; battery B is still charging in the Command Module.",
+        "All other batteries are topped off, about 107.47 amp-hours remaining in batteries A, B, and C.",
+        "Fuel cells and cryogenic storage tanks, all operating normal at this time.",
+        "No problems according to the notations by the Spacecraft Analysis room who generates these reports about every 2 hours.",
+        "Apollo 14 now weighing, according to the space digital display, 98,110 pounds [44,502 kg].",
+        "Altitude above the Earth - or out from the Earth; 66,183 nautical miles [122,571 km]; velocity, 6,943 feet per second [2,116 m/s].",
+        "And at 13 hours, 55 minutes Ground Elapsed Time; this is Apollo Control with an open circuit Apollo 14 air-to-ground communications."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0135748"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Mitchell",
+      "time": "0135752"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You can terminate battery charge now."
+      ],
+      "speaker": "Haise",
+      "time": "0135753"
+    },
+    {
+      "tokens": [
+        "Okeydoke."
+      ],
+      "speaker": "Mitchell",
+      "time": "0135757"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-020"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0140653"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Shepard",
+      "time": "0140657"
+    },
+    {
+      "tokens": [
+        "Ed, for some reason, we're showing yourPTChas gone out of the - gone out of the box, there; so in a bit, here, we're going to need to reinitialize, but would like to continue with the roll here until we get in good shape on the omnis again."
+      ],
+      "speaker": "Haise",
+      "time": "0140658"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stu [garble].",
+        "Wait until we finish thisP52."
+      ],
+      "speaker": "Mitchell",
+      "time": "0140718"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Haise",
+      "time": "0140723"
+    },
+    {
+      "tokens": [
+        "The idea of the PTC roll is that the spacecraft stack should slowly rotate around its long axis, side-on to the Sun in order to evenly distribute the heat and cold experienced in deep space.",
+        "Unfortunately, such a rotation is not stable.",
+        "Journal contributor Phil Karn adds the following detailed discussion of the PTC maneuver and why it could be difficult to establish and maintain."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Journal contributor Phil Karn: \"The desired pure roll about the X (longitudinal) axis often degenerated into a complex coning motion.",
+        "When this got too severe, the crew (usually the CMP) had to re-establish the PTC.",
+        "This was especially hard to do on Apollo 13 with the LM's RCS.",
+        "Why does this happen?",
+        "Because the Apollo stack just doesn't want to roll cleanly around its X axis.",
+        "It's inherently unstable.",
+        "No matter how it turns or tumbles, every object in space eventually settles down into a stable spin around the axis with the largest moment of inertia.",
+        "For Apollo that is most definitely not the X (roll) axis.",
+        "After TLI, the Y (pitch) and Z (yaw) axes of the docked CSM/LM had moments of inertia nearly ten times that of the X axis!",
+        "That's why the PTC was so unstable."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"Technically, this is true only for non-rigid objects.",
+        "Isn't the Apollo stack rigid?",
+        "No.",
+        "The spacecraft can flex somewhat, but more importantly propellants and other fluids can slosh in their incompletely filled tanks.",
+        "Propellants account for most of the spacecraft mass at launch.",
+        "Flexing and sloshing turn mechanical energy into heat that is eventually radiated to space.",
+        "Even the astronauts contacting the inside walls of the CM and LM contributed to this process.",
+        "Conservation of energy dictates that the spacecraft must lose an equal amount of energy, so it spins more slowly.",
+        "But angular momentum must also be conserved.",
+        "How is this done?",
+        "This is where the different moments of inertia come in."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"Moment of inertia is the angular counterpart to mass.",
+        "There is one important difference between mass and moment of inertia: unlike mass, moment of inertia need not be conserved.",
+        "The classic example is an ice skater moving her arms in or away from her body.",
+        "So while linear momentum is mass times velocity, angular momentum is moment of inertia times angular velocity (rotation rate).",
+        "You calculate the kinetic energy in a rotating system analogously to a linear system.",
+        "The kinetic energy in a linear system is one half times mass times velocity squared; the energy in a rotating system is one half times moment of inertia times angular velocity squared.",
+        "That's the entire key to the puzzle: angular momentum varies linearly with angular velocity but ENERGY varies with angular velocity SQUARED.",
+        "(It's crucial to not confuse momentum and energy.",
+        "The linear and angular momentum in a closed system are conserved vectors; neither their magnitude nor direction can be changed without an outside force.",
+        "Energy, including linear and rotational kinetic energy, is always a scalar.",
+        "Energy is also conserved in a closed system, but in practice a spacecraft can easily gain or lose energy by radiation.)"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"As a rotating, flexing and sloshing spacecraft turns some of its rotational kinetic energy into heat, it seeks the lowest energy state consistent with conserving its original angular momentum.",
+        "When the spacecraft can no longer lower its energy without also decreasing its angular momentum, it has reached its minimum energy state.",
+        "Dissipation stops and the spacecraft remains forever in a stable, unchanging spin.",
+        "(Until acted on by an outside force, of course.) Because energy varies with the square of the spin rate while angular momentum only varies linearly, the minimum energy state is reached when the spacecraft spins as slowly as possible.",
+        "For that to happen, the spacecraft must spin entirely around the axis with the largest moment of inertia.",
+        "If that isn't the axis you want, tough!",
+        "So that's all there is to it.",
+        "Start any spacecraft spinning or tumbling, and even a tiny energy dissipation mechanism will cause it to slow down and eventually settle into a stable spin around the spacecraft axis with the largest moment of inertia."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "\"Apollo mission reports have 'mass reports', the vehicle masses and moments of inertia at each flight stage.",
+        "As an example, after transposition, docking and extraction from the S-IVB, the Apollo 16 stack had the following moments of inertia: X: 62,580 slug-feet^2; Y: 576,734 slug-feet^2; Z: 579,385 slug-feet^2.",
+        "Since the Z axis had the largest moment of inertia, the most stable spin state would be end-over-end -- a flat spin -- parallel to the Z axis, that is, in a continuous yaw.",
+        "(Of course the spin axis would pass through the spacecraft center of gravity.) Actually, the spin axis would only be nearly parallel to the Z axis; the stack would find its own maximum moment of inertia axis that won't necessarily match one of our arbitrarily chosen axes.",
+        "It is unfortunate that good Apollo passive thermal control could not be achieved with a flat spin as that would have been far easier to establish and maintain than the X-axis roll actually used.",
+        "If the sun were in the X/Y plane, then points in the X/Y plane would be evenly \"cooked\".",
+        "But points away from the X/Y plane would not receive the same benefit, and they might become very cold.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0141109"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Shepard",
+      "time": "0141112"
+    },
+    {
+      "tokens": [
+        "Okay, whenever you get a chance, after the 52 there, I guess you can stop thePTCand reinitialize; we're in good Omni; read you now."
+      ],
+      "speaker": "Haise",
+      "time": "0141115"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Shepard",
+      "time": "0141126"
+    },
+    {
+      "tokens": [
+        "And, 14; Houston.",
+        "We're not really sure what caused thePTCto diverge.",
+        "It looked like a pretty good start unless you either vented something or maybe something continued to vent from a while back."
+      ],
+      "speaker": "Haise",
+      "time": "0141146"
+    },
+    {
+      "tokens": [
+        "That's the more likely - we had a continuing vent."
+      ],
+      "speaker": "Mitchell",
+      "time": "0141205"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0141209"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 14."
+      ],
+      "speaker": "Mitchell",
+      "time": "0141303"
+    },
+    {
+      "tokens": [
+        "Go ahead.",
+        "And we got your Noun 93s."
+      ],
+      "speaker": "Haise",
+      "time": "0141306"
+    },
+    {
+      "tokens": [
+        "Oh, gosh.",
+        "Did you give them the torquing time of 14:12:50?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0141310"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0141315"
+    },
+    {
+      "tokens": [
+        "According to the Apollo 14 Mission Report, this P52 platform realignment exercise was carried out using stars 31 (Arcturus, Alpha Boötes) and 35 (Rasalhague, Alpha Ophiuchi).",
+        "In order to correct the drift that had occurred in the platform's alignment since the previous P52 at 006:40, it had to be rotated, or torqued by 0.271° in X, -0.127° in Y and -0.036° in Z."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0142553"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Roosa",
+      "time": "0142557"
+    },
+    {
+      "tokens": [
+        "14, we're having a little trouble with data dropout in your present position.",
+        "We'd like Omni Charlie.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0142601"
+    },
+    {
+      "tokens": [
+        "Say again, Fred, will you?",
+        "You busted up on that one."
+      ],
+      "speaker": "Roosa",
+      "time": "0142624"
+    },
+    {
+      "tokens": [
+        "Okay, Stu.",
+        "We're having data dropouts.",
+        "We'd like Omni Charlie."
+      ],
+      "speaker": "Haise",
+      "time": "0142627"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "Try us again real slow.",
+        "You're - you're just coming in syllables."
+      ],
+      "speaker": "Roosa",
+      "time": "0142638"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We would like Omni Charlie, Omni Charlie."
+      ],
+      "speaker": "Haise",
+      "time": "0142644"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0142652"
+    },
+    {
+      "tokens": [
+        "Okay, there's Omni (cough) Omni Charlie.",
+        "How's that?"
+      ],
+      "speaker": "Roosa",
+      "time": "0142711"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "How do you read me now?"
+      ],
+      "speaker": "Haise",
+      "time": "0142714"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're loud and clear."
+      ],
+      "speaker": "Roosa",
+      "time": "0142717"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We were having some data dropouts on High Bit Rate there, Stu, and we - before we get ready to crank upPTC, we'll have you go back to Bravo then."
+      ],
+      "speaker": "Haise",
+      "time": "0142719"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "0142733"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0143354"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Shepard",
+      "time": "0143358"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're showing O2flow pegged high down here.",
+        "Just wondered if you're getting that on board, too."
+      ],
+      "speaker": "Haise",
+      "time": "0143359"
+    },
+    {
+      "tokens": [
+        "Yeah, we are, Freddo."
+      ],
+      "speaker": "Mitchell",
+      "time": "0143410"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0143413"
+    },
+    {
+      "tokens": [
+        "We thought we'd stopped all - stopped all of the venting, but we apparently are still venting somewhere we're not aware of."
+      ],
+      "speaker": "Mitchell",
+      "time": "0143414"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0143419"
+    },
+    {
+      "tokens": [
+        "It seems surprising but the Apollo spacecraft would leak but this was not only expected but also accepted as a fact of life.",
+        "Engineers figured that as long as the leak rate was acceptably low, there would be more than enough in the tanks to keep the cabin pressurised for the duration of a mission.",
+        "According to the CSM's handbook, during normal space operations, cabin pressure would be maintained with flowrates of from the oxygen tanks of up to 1.4 pounds per hour (0.64 kg/hr).",
+        "The two tanks held 640 pounds (290 kg) between them."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Oxygen is not only used in power generation and supplying breathing air, it is also used to pressurise the water tanks.",
+        "Thus, when water is dumped overboard, oxygen will flow into the water tank to replace the missing volume and this will appear as an increased flowrate."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0143843"
+    },
+    {
+      "tokens": [
+        "Go ahead, Freddo."
+      ],
+      "speaker": "Shepard",
+      "time": "0143847"
+    },
+    {
+      "tokens": [
+        "Just a question.",
+        "Did I understand you to say that you had checked, and you got all of your vents closed up now?"
+      ],
+      "speaker": "Haise",
+      "time": "0143849"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Freddo.",
+        "We're looking right now to see if we can find where this is going.",
+        "Stand by to mark."
+      ],
+      "speaker": "Shepard",
+      "time": "0143901"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "Did you change anything now?",
+        "We're seeing the O2flow dropping off a bit."
+      ],
+      "speaker": "Haise",
+      "time": "0144413"
+    },
+    {
+      "tokens": [
+        "Did you see any marked change?",
+        "We just..."
+      ],
+      "speaker": "Mitchell",
+      "time": "0144424"
+    },
+    {
+      "tokens": [
+        "Well, it was up over 0.9 there, Ed, and it's down around 0.7.",
+        "Gone back up now, though; 0.8 something now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0144433"
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0144522"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Mitchell",
+      "time": "0144526"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Our - original thoughts were that it might be a 'ducer.",
+        "If you haven't already done so, you might run throughECSMAL 1a and see how you come out of that one.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0144529"
+    },
+    {
+      "tokens": [
+        "Fred Haise's comment implies that the oxygen flow issue might be a problem with the transducer.",
+        "Several Apollo missions experienced faults in the oxygen flow measurement system for the cabin and the suit circuits."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Well, Freddo, we can see the venting right now.",
+        "We think we've got an actual problem."
+      ],
+      "speaker": "Mitchell",
+      "time": "0144555"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "What side of the spacecraft, 14?"
+      ],
+      "speaker": "Haise",
+      "time": "0144601"
+    },
+    {
+      "tokens": [
+        "Now it's coming out the port side."
+      ],
+      "speaker": "Mitchell",
+      "time": "0144609"
+    },
+    {
+      "tokens": [
+        "Okay, the port side."
+      ],
+      "speaker": "Haise",
+      "time": "0144614"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0145153"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Mitchell",
+      "time": "0145158"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We saw it drop off.",
+        "I guess you cycled the Regs, Ed.",
+        "So that would indicate the 'ducer's okay.",
+        "You might check again the valve on top of the urine receptacle and make sure that guy is closed off."
+      ],
+      "speaker": "Haise",
+      "time": "0145159"
+    },
+    {
+      "tokens": [
+        "Yeah, we're rechecking those now [garble] Freddo."
+      ],
+      "speaker": "Mitchell",
+      "time": "0145217"
+    },
+    {
+      "tokens": [
+        "Yes, Fred, I did that.",
+        "And, in fact, I even closed the - the waste management dump just to see if Myrtle was leaking, but it didn't do any good."
+      ],
+      "speaker": "Roosa",
+      "time": "0145221"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0145231"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stu's comment about 'Myrtle' implies that this is the crew's name for the urine system.",
+        "It consists of two primary elements - the Urine Transfer System, basically a Gemini vintage bag for temporary storage of waste, or the Urine Receptacle Assembly, a cylinder which allows for simultaneous urination and dumping the resulting waste overboard using oxygen flow pressure.",
+        "The astronauts found the resulting device functional, if somewhat tricky - to the point that Apollo 8 LMP Bill Anders recalls in \"A Man on the Moon\" by Andrew Chaikin that the operation could even get painful with a misalignment of genitalia inside a suction tube that was basically open to space via a long hose."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0145559"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Mitchell",
+      "time": "0145603"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You seeing any more venting overboard at this time?"
+      ],
+      "speaker": "Haise",
+      "time": "0145605"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Fred.",
+        "I was just sitting here watching it - just - it - it comes in spurts.",
+        "Just about 30 seconds ago, we got a nice splash, and there's some right now.",
+        "Looks like it's coming, you know, from over in the area of the - of the normal dumps."
+      ],
+      "speaker": "Roosa",
+      "time": "0145612"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Haise",
+      "time": "0145632"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0145856"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Roosa",
+      "time": "0145900"
+    },
+    {
+      "tokens": [
+        "Gee, that oxygen flow looked like it had settled down there around 0.4, and then all at once it started - it jumped up again there just a half a minute ago or so.",
+        "And, it looks like it's back down again.",
+        "Did you all move anything else in that area?"
+      ],
+      "speaker": "Haise",
+      "time": "0145902"
+    },
+    {
+      "tokens": [
+        "Yeah, Fred.",
+        "We went back, cleaning up after that malfunction, and we had the Water Glycol valves Off and the emergency Regs, and Suit Demand; we didn't see any effect when we went through it.",
+        "And then we just went and opened them up again, here?"
+      ],
+      "speaker": "Roosa",
+      "time": "0145921"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0145942"
+    },
+    {
+      "tokens": [
+        "It's settled down on our meter at 0.6 pounds an hour now, Freddo."
+      ],
+      "speaker": "Mitchell",
+      "time": "0145945"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0145952"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-021"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0150151"
+    },
+    {
+      "tokens": [
+        "Go ahead, Freddo."
+      ],
+      "speaker": "Mitchell",
+      "time": "0150155"
+    },
+    {
+      "tokens": [
+        "Ah, I guess we're happy with that O2flow you got now.",
+        "It looks pretty stable, and the vehicle rates look okay to crank up aPTCagain.",
+        "We think we have got a handle on what happened except in - what really caused the first O2Flow High.",
+        "Must be something you readjusted.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0150156"
+    },
+    {
+      "tokens": [
+        "I don't know that we can have a good answer for you.",
+        "Stu and I were just talking about.",
+        "We think quite possibly the - urine dump is leaking.",
+        "We got it cycled now and shut clear off.",
+        "Let's see if that helps any."
+      ],
+      "speaker": "Mitchell",
+      "time": "0150226"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0150242"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, 14; Houston.",
+        "We'd like Omni Bravo."
+      ],
+      "speaker": "Haise",
+      "time": "0150839"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Shepard",
+      "time": "0150844"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, this is Al.",
+        "We're going to presleep checklist now.",
+        "We thought we'd drop off a little bit early tonight."
+      ],
+      "speaker": "Shepard",
+      "time": "0151123"
+    },
+    {
+      "tokens": [
+        "The crew has a list of chores to do before bedtime."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0151132"
+    },
+    {
+      "tokens": [
+        "Houston, we're bringing direct O2valve, On, to pump the cabin up to 5.7 [psi] now."
+      ],
+      "speaker": "Mitchell",
+      "time": "0151202"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0151208"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, 14; Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0151603"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Roosa",
+      "time": "0151607"
+    },
+    {
+      "tokens": [
+        "We're configured down here to take the E-memory dump any time.",
+        "Stand by 1.",
+        "I'm going to check the - how the Omnis are.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0151610"
+    },
+    {
+      "tokens": [
+        "Mission Control wants to download the contents of the computer's 2k words of erasable memory in order to examine its contents and ensure they understand its current state.",
+        "However, they do no want that to occur if the omnidirectional antenna currently being used is about to turn away from Earth."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "We ought to have you now.",
+        "How do you read?",
+        "[Pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0151630"
+    },
+    {
+      "tokens": [
+        "Houston, 14.",
+        "How do you read?"
+      ],
+      "speaker": "Roosa",
+      "time": "0151638"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Loud and clear, Stu.",
+        "Stand by 1."
+      ],
+      "speaker": "Haise",
+      "time": "0151640"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "0151644"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're ready now, Stu, for the E-memory.",
+        "They're all set."
+      ],
+      "speaker": "Haise",
+      "time": "0151646"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0151654"
+    },
+    {
+      "tokens": [
+        "Houston, onboard readouts, if you're ready to copy."
+      ],
+      "speaker": "Mitchell",
+      "time": "0151715"
+    },
+    {
+      "tokens": [
+        "Okay, Fred, here comes the Verb 74.",
+        "[Garble] 4.",
+        "Now."
+      ],
+      "speaker": "Roosa",
+      "time": "0151718"
+    },
+    {
+      "tokens": [
+        "Verb 74 is 'Initialize erasable dump via downlink'.",
+        "In other words, begin to sent the contents of the erasable memory to Earth."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0151727"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Bat C is 37.",
+        "Pyro Bat A, 37.45; Pyro Bat B, 37.45;RCSA, 88; B, 90; C, 87; D, 91.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0151731"
+    },
+    {
+      "tokens": [
+        "The presleep checklist has them check some onboard readings for consumables and report them to Earth for comparison with the telemetered data.",
+        "Ed gives voltage readouts on one of the three Command Module batteries, the two pyro batteries, and quantities for each of the four RCS propellant supplies."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0151754"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "The crew of Apollo 14 at the present time is going through their presleep checklist, a little earlier than scheduled in the Flight Plan.",
+        "Spacecraft being tracked now through the Madrid tracking station of the Deep Space Network.",
+        "The crew earlier had called and said they wanted to go to sleep a little earlier and prior to that, there were a flurry of questions back and forth about spurious high flow rate of oxygen in the Command Module, higher than normal that is, not excessively high, caused by some valve being open perhaps in the waste management system.",
+        "Apparently it seems to have settled down.",
+        "And the spacecraft seems to be in a good solid steady roll rate for Passive Thermal Control.",
+        "They passed up their onboard readouts of consumables.",
+        "Battery amp-hours remaining, percentages ofRCSpropellants.",
+        "Right now Apollo 14 as shown on the space digital display, as being 71,887 nautical miles [133,135 km] out from Earth; velocity now 6,570 feet per second [2,003 m/s].",
+        "We'll leave the air/ground circuit up for a while longer until it appears that the crew has settled down for the sleep period.",
+        "At 15 hours, 24 minutes Ground Elapsed Time; this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, do you read 14?"
+      ],
+      "speaker": "Roosa",
+      "time": "0153732"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, do you read 14?"
+      ],
+      "speaker": "Roosa",
+      "time": "0153905"
+    },
+    {
+      "tokens": [
+        "Go ahead, 14.",
+        "[No answer.]"
+      ],
+      "speaker": "Haise",
+      "time": "0153909"
+    },
+    {
+      "tokens": [
+        "Go ahead, 14; Houston here.",
+        "[No answer.]"
+      ],
+      "speaker": "Haise",
+      "time": "0153917"
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "How do you read?",
+        "[No answer.]"
+      ],
+      "speaker": "Haise",
+      "time": "0153952"
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "How do you read?",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0154025"
+    },
+    {
+      "tokens": [
+        "Houston, do you read 14?"
+      ],
+      "speaker": "Roosa",
+      "time": "0154047"
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "Read you loud and clear."
+      ],
+      "speaker": "Haise",
+      "time": "0154050"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "How do you read 14?"
+      ],
+      "speaker": "Roosa",
+      "time": "0154225"
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "How do you read me?"
+      ],
+      "speaker": "Haise",
+      "time": "0154228"
+    },
+    {
+      "tokens": [
+        "Oh, you're loud and clear.",
+        "There was a lot of static and no reception on - I guess that other antenna."
+      ],
+      "speaker": "Roosa",
+      "time": "0154231"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We had to drop Madrid and try to reacquire there to get you back.",
+        "Could you verify that you are on Omni Bravo there, Stu?"
+      ],
+      "speaker": "Haise",
+      "time": "0154239"
+    },
+    {
+      "tokens": [
+        "That's affirmative; Omni Bravo."
+      ],
+      "speaker": "Roosa",
+      "time": "0154252"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0154256"
+    },
+    {
+      "tokens": [
+        "And if you don't have anything else for us, we're about to secure here."
+      ],
+      "speaker": "Roosa",
+      "time": "0154300"
+    },
+    {
+      "tokens": [
+        "Stand by 1, Stu."
+      ],
+      "speaker": "Haise",
+      "time": "0154306"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0154432"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Roosa",
+      "time": "0154435"
+    },
+    {
+      "tokens": [
+        "Just one more thing, I'd like to confirm the H2fans, Off.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0154437"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, they were on; they're off now, Fred."
+      ],
+      "speaker": "Roosa",
+      "time": "0154452"
+    },
+    {
+      "tokens": [
+        "Roger, Stu.",
+        "I guess you can take the rest of the day off."
+      ],
+      "speaker": "Haise",
+      "time": "0154457"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "0154502"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 15 hours, 47 minutes Ground Elapsed Time and apparently the crew of Apollo 14 has retired for the night.",
+        "That last conversation between Stu Roosa and spacecraft communicator Fred Haise here in Mission Control.",
+        "The flight surgeon on the Gold team, Dr.",
+        "Willard Hawkins, said he couldn't really tell yet from his biomedical data at his console who was asleep yet.",
+        "He said it appears that spacecraft Commander Shepard is now nearing sleep status but he couldn't really tell.",
+        "We'll take down the air to ground circuit and if there are any further conversations after the sleep period which has now begun, we'll play those back on a delayed basis from tapes.",
+        "Present position of the spacecraft, 73,420 nautical miles [135,974 km] out; velocity, 6,476 feet per second [1,974 m/s].",
+        "And at 15 hours, 48 minutes Ground Elapsed Time; this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-022"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0160207"
+    },
+    {
+      "tokens": [
+        "Houston, did you call 14?"
+      ],
+      "speaker": "Roosa",
+      "time": "0160214"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Right, Stu.",
+        "One last thing.",
+        "Looks like maybe an O2tank number 1 heater is on.",
+        "Tank 2 switches should be number 1 and 2, Off; number 3 on Auto.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0160217"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "3 is Auto, and 1 and 2 O2tanks are Off."
+      ],
+      "speaker": "Roosa",
+      "time": "0160237"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll leave you alone, now."
+      ],
+      "speaker": "Haise",
+      "time": "0160246"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "0160250"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "As the crew beds down, they settle into what is akin to a bunk bed arrangement.",
+        "The plan is for two crewmen to slip into their sleep restraints and rest under the crew couches, while the third guy sleeps on either side couch.",
+        "The sleeping bags are lightweight and made of fireproofed Beta cloth.",
+        "Their primary purpose is to keep the crewmembers from floating around the cabin while asleep - a condition that cold be hazardous and at the very least disorienting."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "...minutes Ground Elapsed Time.",
+        "Even though the crew had been tucked in for the night, they came back with a short exchange of somewhat less than a minute with spacecraft communicator Fred Haise here in Mission Control.",
+        "We'll play the tape back now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Tape played back for comm at 016:02:07."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "That wraps up the short piece of tape that was accumulated after the crew supposedly had sacked out for the night.",
+        "Apollo 14 now 74,589 nautical miles [138,139 km] out.",
+        "Velocity, 6,406 feet per second [1,953 m/s].",
+        "And at 16 hours, 7 minutes Ground Elapsed Time; this is Apollo Control"
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rest Period - No Communications"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "According to Ed Mitchell's autobiography \"The Way of an Explorer\", during several sleep periods while in cislunar space, he conducted a private experiment unknown to his crewmates or NASA.",
+        "A series of pre-arranged messages were projected by Mitchell to recipients waiting on Earth for the purpose of investigating the feasibility of instantaneous telepathic message delivery at extraterrestial distance.",
+        "The results, per Mitchell, were significant, but required a suitable state of belief for proper interpretation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day1_part5_tv_troubleshoot_&_ptc.html"
+}

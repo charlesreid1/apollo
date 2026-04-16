@@ -1,0 +1,1373 @@
+{
+  "description": "Apollo 10 Flight Journal - Day 1, part 2: Earth orbit, rev 1",
+  "transcript": [
+    {
+      "tokens": [
+        "[Garble] at 56."
+      ],
+      "speaker": "Stafford",
+      "time": "0001147"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by, 10."
+      ],
+      "speaker": "Duke",
+      "time": "0001150"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We show a 102.6 by 101.1 [nautical miles]."
+      ],
+      "speaker": "Cernan",
+      "time": "0001202"
+    },
+    {
+      "tokens": [
+        "The Command Module Computer (CMC) is displaying its determination of their orbit in terms of its apogee and perigee.",
+        "In metric, this is 190.0 by 187.2 kilometres and is regarded as essentially a circular orbit."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy that."
+      ],
+      "speaker": "Duke",
+      "time": "0001207"
+    },
+    {
+      "tokens": [
+        "And our VIwas 25,565 [fps], minus one-tenth H dot, and 102.6 [nautical miles]."
+      ],
+      "speaker": "Young",
+      "time": "0001211"
+    },
+    {
+      "tokens": [
+        "At the point of engine cut-off, the computer was displaying their inertial speed, their rate of vertical ascent and their altitude.",
+        "They are travelling at 7,792 metres per second, ignoring the rotation of Earth, they were descending at around 30 centimetres per second (i.e.",
+        "essentially flying parallel to the ground) and their altitude was 190.0 kilometres which means that they were inserted into orbit at their apogee."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "Duke",
+      "time": "0001217"
+    },
+    {
+      "tokens": [
+        "[Garble]."
+      ],
+      "speaker": "Stafford",
+      "time": "0001219"
+    },
+    {
+      "tokens": [
+        "And, Charlie, have them take a look at our evaporator.",
+        "We're reading a high outlet temperature and Off-Scale Low on the steam pressure right now."
+      ],
+      "speaker": "Young",
+      "time": "0001220"
+    },
+    {
+      "tokens": [
+        "The primary evaporator in the Environmental Control System began operation soon after lift-off but dried out after only a few minutes.",
+        "The secondary cooling system was activated and functioned nominally.",
+        "The primary evaporator was deactivated and was not reserviced with water until just prior to Lunar Orbit Insertion.",
+        "It dried out again during the second lunar orbit.",
+        "Just prior to entry, the evaporator was serviced again.",
+        "During entry, it functioned normally."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This evaporator had dried out once during altitude chamber tests at KSC, and the cause was not determined.",
+        "During later tests, the evaporator functioned satisfactorily."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "After the mission, the spacecraft wiring and control circuits were checked.",
+        "Continuity and resistance measurements were normal.",
+        "Further tests of the system duplicated the inflight condition and revealed that the water control circuit operated intermittently.",
+        "When a microswitch in this circuit opens, the water section of the environmental temperature control unit is activated and begins to supply water to the evaporator on demand."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "A check of the switch assembly revealed that the actuator moved as little as 0.0008 inch beyond the point at which the switch should have opened.",
+        "With changes in environment, the actuator travel was at times not sufficient to open the switch.",
+        "Actuator rigging procedures were modified to assure proper overtravel on all subsequent missions."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We agree.",
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0001228"
+    },
+    {
+      "tokens": [
+        "Up to now, communications had been handled through a ground station near the launch site.",
+        "With Apollo 10 heading towards the horizon for that site, communication moves to USNS Vanguard, a converted ship."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay..."
+      ],
+      "speaker": "Stafford",
+      "time": "0001235"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "Your S-IVB is safe.",
+        "We'd like you - On the evaporator, we'd like for you to close the Primary Back Pressure valve, and activate the Secondary Loop."
+      ],
+      "speaker": "Duke",
+      "time": "0001252"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand.",
+        "Close the primary back pressure valve and activate the secondary loop."
+      ],
+      "speaker": "Young",
+      "time": "0001303"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Just for a little while.",
+        "We'll give you the number.",
+        "And we'll have Vanguard LOS at 15:32, and a minute gap.",
+        "And, we'll see you over the Canaries at 16:29."
+      ],
+      "speaker": "Duke",
+      "time": "0001308"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And, we have closed the isolation valve on CM RCS ring 1 [panel 2], 2 is still Open."
+      ],
+      "speaker": "Stafford",
+      "time": "0001319"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0001326"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "The Saturn is in great shape; you're configured for orbit; we're all Go."
+      ],
+      "speaker": "Duke",
+      "time": "0001336"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Just looks beautiful."
+      ],
+      "speaker": "Stafford",
+      "time": "0001341"
+    },
+    {
+      "tokens": [
+        "And 10, Houston.",
+        "We confirm your orbit.",
+        "The IU vector has you in a 103 by 100 [nautical miles]."
+      ],
+      "speaker": "Duke",
+      "time": "0001347"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "0001354"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "We want you to keep the Primary Back Pressure [Panel 382] valve closed for about 15 minutes, and then we'll deacti - Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0001454"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "0001502"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "At GET of 30 we'd like you to put the Primary Back Pressure [Panel 382] valve back in Auto and deactivate the Secondary Loop [Panel 382]."
+      ],
+      "speaker": "Duke",
+      "time": "0001518"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand.",
+        "You want - at 30 - You want to deactivate the Secondary Loop and go back to Auto on the primary boiler."
+      ],
+      "speaker": "Cernan",
+      "time": "0001535"
+    },
+    {
+      "tokens": [
+        "Affirm, Gene"
+      ],
+      "speaker": "Duke",
+      "time": "0001544"
+    },
+    {
+      "tokens": [
+        "We've had LOS at the Vanguard - there will be about a minute gap between the Vanguard and the Canary Island station.",
+        "Showing a lift-off time of 12:49:00.70 Eastern Daylight Time.",
+        "This is Apollo Control we should be picking up via Canaries anytime now; we'll continue to stand by.",
+        "We do have AOS - acquisition of signal - at Canaries now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Earth parking orbit around does not allow continuous communication with Houston, Mission Control.",
+        "The orbit is low, when the spacecraft does come within range of a ground station, it is only above the ground stations horizon for a short period of time, even during passes that go directly overhead.",
+        "For passes other than directly overhead, the period of contact is even less.",
+        "Communications has been via the insertion tracking ship Vanguard.",
+        "Following a one minute gap communications will be picked up by the tracking station on the Canaries."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "Standing by through the Canaries."
+      ],
+      "speaker": "Duke",
+      "time": "0001701"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "10 reading you loud and clear.",
+        "We've just completed that insertion checklist."
+      ],
+      "speaker": "Stafford",
+      "time": "0001704"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "And, 10, Houston, would you like for me to review this ring 2 heater check?"
+      ],
+      "speaker": "Duke",
+      "time": "0001709"
+    },
+    {
+      "tokens": [
+        "When the propellant isolation valves in Command Module Reaction Control System B were opened about 10 hours prior to launch, the helium manifold pressure dropped from 44 to 37 psia.",
+        "A pressure drop of this magnitude would be expected if the oxidizer burst disc was ruptured, allowing oxidizer to flow from the tank into the oxidizer manifold."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The isolation valve and the burst disc are redundant devices; therefore, a decision was made to proceed with the launch even though the disc was ruptured.",
+        "The isolation valves were closed after orbital insertion.",
+        "The engine valves were then opened by means of the reaction control heater circuits, and the oxidizer was vented from the manifold for 25 minutes.",
+        "Afterward, the helium manifold pressure remained at 37 psia except for changes caused by thermal effects.",
+        "When the isolation valves were opened just prior to system activation for entry, the helium manifold pressure dropped from 37 to 25 psia, confirming that the venting procedure had been effective and that the manifold was empty."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "After the mission, the oxidizer and fuel burst discs were similar in physical appearance, indicating that the oxidizer burst disc had failed because of pressure."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Caution notes were added to the prelaunch checkout procedures for subsequent missions, in the places where the allowable limits on the burst disc (241 + or -16 psid in the flow direction and 10 psid in the reverse direction) could be exceeded.",
+        "To allow early detection of any similar problem in the later missions, a leak check of the burst disc was added after Reaction Control System propellant servicing."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Why don't you do that ..."
+      ],
+      "speaker": "Stafford",
+      "time": "0001722"
+    },
+    {
+      "tokens": [
+        "Okay, Tom.",
+        "We'd like for you to - We got a 7-step procedure here, and I'll read it up to you.",
+        "On panel 8, CB CM heaters, 2, Main B, closed, CM RCS Logic, On [panel 1], CM RCS heaters, On [panel 101].",
+        "We want you to heat ring 2 for 15 minutes, and you can select position C5 on the systems test [also panel 101] and monitor the Ox line temp."
+      ],
+      "speaker": "Duke",
+      "time": "0001725"
+    },
+    {
+      "tokens": [
+        "[Garble]."
+      ],
+      "speaker": "Stafford",
+      "time": "0001800"
+    },
+    {
+      "tokens": [
+        "Correct - 10, your first step would be to close the RCS Propellant Isolation valve on ring 2 [panel 2"
+      ],
+      "speaker": "Duke",
+      "time": "0001802"
+    },
+    {
+      "tokens": [
+        "We'll go ahead and do that right now, Charlie."
+      ],
+      "speaker": "Stafford",
+      "time": "0001814"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Then you can - then we'd like for you to - If you are going to close the Prop valve right now, we'd like for you to turn the heaters on, too."
+      ],
+      "speaker": "Duke",
+      "time": "0001816"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Turn the heaters on right now."
+      ],
+      "speaker": "Stafford",
+      "time": "0001822"
+    },
+    {
+      "tokens": [
+        "Affirm.",
+        "And then after..."
+      ],
+      "speaker": "Stafford",
+      "time": "0001822"
+    },
+    {
+      "tokens": [
+        "10, Houston."
+      ],
+      "speaker": "Duke",
+      "time": "0001830"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "We're going through the procedure; the heater is On."
+      ],
+      "speaker": "Stafford",
+      "time": "0001831"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0001834"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And we'll turn them off after 15 minutes.",
+        "And you say we can monitor what on C5?"
+      ],
+      "speaker": "Cernan",
+      "time": "0001837"
+    },
+    {
+      "tokens": [
+        "You can monitor the oxidizer line temp on C5 - it'll probably be Off-Scale High, but if you see any change, we'd appreciate you - we'd appreciate you telling us."
+      ],
+      "speaker": "Duke",
+      "time": "0001842"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "0001852"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We got that, Charlie."
+      ],
+      "speaker": "Cernan",
+      "time": "0001853"
+    },
+    {
+      "tokens": [
+        "10, after 15 minutes, we'll - We'd like for you to turn the heater off, RCS Logic, Off [Panel 1], and open both heater circuit breakers."
+      ],
+      "speaker": "Duke",
+      "time": "0001905"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Will do, Houston."
+      ],
+      "speaker": "Stafford",
+      "time": "0001915"
+    },
+    {
+      "tokens": [
+        "Charlie, it's just fantastic to be back up here again!",
+        "Fantastic, really."
+      ],
+      "speaker": "Cernan",
+      "time": "0001931"
+    },
+    {
+      "tokens": [
+        "Man, you guy's - [laughter].",
+        "You guys really sound great up there."
+      ],
+      "speaker": "Duke",
+      "time": "0001936"
+    },
+    {
+      "tokens": [
+        "Yes, Charlie, after 3 years, it seems a long time, but here comes the Coast of Africa again and it looks beautiful."
+      ],
+      "speaker": "Stafford",
+      "time": "0001940"
+    },
+    {
+      "tokens": [
+        "Yes, I'll bet.",
+        "Wish we were there with you."
+      ],
+      "speaker": "Duke",
+      "time": "0001949"
+    },
+    {
+      "tokens": [
+        "They make you feel - we all feel great."
+      ],
+      "speaker": "Cernan",
+      "time": "0001950"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Next time we are going to put a cot on board and one of us is going along."
+      ],
+      "speaker": "Duke",
+      "time": "0001955"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "0001956"
+    },
+    {
+      "tokens": [
+        "That was Gene Cernan and Tom Stafford conversing with Charlie through - both very happy to be back in orbit."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "The P52 is your option.",
+        "It really looked great during the launch phase; we have an azimuth correction of minus 0.11."
+      ],
+      "speaker": "Duke",
+      "time": "0002100"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Minus 0.11.",
+        "Thank you."
+      ],
+      "speaker": "Stafford",
+      "time": "0002108"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "If you've taken your helmets off, we'd remind you to open the Suit Circuit Return valve."
+      ],
+      "speaker": "Duke",
+      "time": "0002158"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're gonna do that now."
+      ],
+      "speaker": "Stafford",
+      "time": "0002206"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0002208"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston; you've got about 1 minute to Canaries LOS; Tananarive at 3; - correction - 37."
+      ],
+      "speaker": "Duke",
+      "time": "0002229"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Tananarive at 37, thank you."
+      ],
+      "speaker": "Stafford",
+      "time": "0002233"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 24 minutes into the mission.",
+        "Canary Island has Loss Of Signal.",
+        "Tananarive will acquire Apollo 10 at 37 minutes.",
+        "Apollo 10 is in a good orbit.",
+        "Controllers here in the Control Center report all systems functioning well.",
+        "The procedure that you heard passed up to the crew over the Canaries was to release some oxidizer in system B of the Command Module RCS.",
+        "During a test on the pad when the isolation valves were open it was discovered that a burst disc had opened also and had allowed some liquid hydrogen to flow into the lines.",
+        "The valve was then closed, the crew is now going through a procedure in which they will open an engine valve and allow this liquid hydrogen to vent through the engine.",
+        "This was the talkiest crew on liftoff in the memory of anyone here in the Control Center.",
+        "We have a tape of that powered portion of flight and we will play that for you now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 35 minutes.",
+        "Just about within acquisition at Tananarive.",
+        "We have a report now from the Flight Surgeon on the heart rates on the crew during launch.",
+        "Tom Stafford, 123; Gene Cernan, 120; John Young, 125.",
+        "And the Guidance Officer has just reported that all of the guidance systems look very good on Apollo 10.",
+        "Tananarive will be acquiring Apollo 10 any second now.",
+        "We'll stand by for any conversation through that station."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10, this is Houston through Tananarive.",
+        "How do you read?",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0003746"
+    },
+    {
+      "tokens": [
+        "The space vehicle has now passed into range of the Tananarive tracking station on the island of Madagascar."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's astronaut Bruce McCandless putting in a call."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10, this is Houston through Tananarive.",
+        "How do you read?",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0003812"
+    },
+    {
+      "tokens": [
+        "000:38:25 Comm Tech:Tananarive, Houston Comm Tech Net 1."
+      ],
+      "speaker": "Commentary",
+      "time": "0003825"
+    },
+    {
+      "tokens": [
+        "000:38:28 Comm Tech:Houston Comm Tech, Tananarive."
+      ],
+      "speaker": "Commentary",
+      "time": "0003828"
+    },
+    {
+      "tokens": [
+        "000:38:30 Comm Tech:Roger.",
+        "Can you confirm that CapCom is uplinking through your site?"
+      ],
+      "speaker": "Commentary",
+      "time": "0003830"
+    },
+    {
+      "tokens": [
+        "000:38:32 Comm Tech:That's affirm.",
+        "You are uplinking."
+      ],
+      "speaker": "Commentary",
+      "time": "0003832"
+    },
+    {
+      "tokens": [
+        "000:38:34 Comm Tech:Have you heard any downlink from the spacecraft?"
+      ],
+      "speaker": "Commentary",
+      "time": "0003834"
+    },
+    {
+      "tokens": [
+        "000:38:38 Comm Tech:Negative.",
+        "No downlink."
+      ],
+      "speaker": "Commentary",
+      "time": "0003838"
+    },
+    {
+      "tokens": [
+        "000:38:39 Comm Tech:Roger."
+      ],
+      "speaker": "Commentary",
+      "time": "0003839"
+    },
+    {
+      "tokens": [
+        "000:38:45 DukeApollo 10, this is Houston through Tananarive.",
+        "Radio check.",
+        "Over."
+      ],
+      "speaker": "Commentary",
+      "time": "0003845"
+    },
+    {
+      "tokens": [
+        "Apollo 10, this is Houston transmitting in the blind.",
+        "Confirm Simplex Alpha [Panel 3].",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0003913"
+    },
+    {
+      "tokens": [
+        "The VHF/AM transmitter-receiver is controlled by the VHF-AM controls on panel No.3 of the main display console (S43, 544, and S71).",
+        "The Duplex/Off/Simplex switches activate the receivers and transmitters by applying 28-volt DC power.",
+        "About 6 watts of power are required in these modes with the transmitter in standby and about 36 watts when keyed.",
+        "Simplex A transmit and receive on 296.8 MHz for voice only."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston are trying to at least establish voice communications with the spacecraft through the Tananarive ground station."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "We have experienced considerable voice communication difficulties at Tananarive in past missions, apparently we're having the same problem on this mission.",
+        "We'll continue to stand by."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10, Apollo 10, this is Houston through Tananarive.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0004004"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 10.",
+        "Transferring to broad.",
+        "We're reading you loud and clear."
+      ],
+      "speaker": "Stafford",
+      "time": "0004024"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "And now we're reading you loud and clear.",
+        "Up."
+      ],
+      "speaker": "Duke",
+      "time": "0004026"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We've been reading you all the time down there, Houston.",
+        "John and Gene have completed the P52 [IMU align], and the torquing on the IMU realign is minus 0.12, plus 0.34, and minus 0.76.",
+        "Looks like the platform is real good."
+      ],
+      "speaker": "Stafford",
+      "time": "0004032"
+    },
+    {
+      "tokens": [
+        "Before the platform realignment could commence, the cover protecting the optics, which is located on the opposite side of the CM from the main hatch, was jettisoned to enable the spacecraft's optical instruments to view targets in deep space.",
+        "The cover protects the external surfaces of the sextant and scanning telescope from the aerodynamic and thermal effects of the launch and ascent to Earth orbit."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Guidance and navigation are crucial to any journey, especially on the ballistic trajectory used to get to the Moon and back.",
+        "The crew need the ability to point the spacecraft precisely, to well-known directions.",
+        "The spacecraft carries a gyroscopically stabilised platform within the IMU (Inertial Measurement Unit) which remains fixed in attitude while the spacecraft moves about it, connected to it by three orthogonal gimbals.",
+        "The only way to ensure that the platform is properly aligned is to compare its orientation to a fixed attitude reference - with the stars almost always used.",
+        "Initially, the CSM (Command/Service Module)'s platform was aligned just before launch.",
+        "Realignment, once in orbit, is achieved by using P52 [Program 52] on the CMC (Command Module Computer).",
+        "With the spacecraft held in a steady attitude, the sextant is pointed at a specified star, marked on that star, then to a second star, where another mark is taken.",
+        "The computer, knowing the attitude of the spacecraft (relative to its own idea of where the stars are), now has new values of where the stars are located.",
+        "With these measurements, the amount of drift the platform has experienced can be calculated, and displayed as the amount of correction needed to move, or \"torque\" the gimbals to bring the platform back into accurate alignment.",
+        "Known as \"gyro torquing angles\", they are displayed on the DSKY as \"Noun 93\".",
+        "These angles are usually very small, and are expressed in thousandths of a degree."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Command Module Pilot (CMP), John Young has completed these procedures."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "We copy.",
+        "Understand platform is good."
+      ],
+      "speaker": "Duke",
+      "time": "0004050"
+    },
+    {
+      "tokens": [
+        "And we will turn the Command Module RCS B heater off at 43.",
+        "That will give us 15 minutes on it."
+      ],
+      "speaker": "Stafford",
+      "time": "0004056"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We confirm - We confirm that.",
+        "And - Your Prop Isol valves, Off?",
+        "RCS Propellant valves, Off?"
+      ],
+      "speaker": "Duke",
+      "time": "0004106"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Charlie."
+      ],
+      "speaker": "Stafford",
+      "time": "0004113"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0004115"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 10.",
+        "The [garble] on the heater is Off-Scale High, which we expected for the heaters, and we're going to turn the heaters off at 43."
+      ],
+      "speaker": "Stafford",
+      "time": "0004139"
+    },
+    {
+      "tokens": [
+        "Say again, 10.",
+        "You're fading in and out."
+      ],
+      "speaker": "Duke",
+      "time": "0004150"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Command Module RCS heaters, Off at 43."
+      ],
+      "speaker": "Stafford",
+      "time": "0004154"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy.",
+        "Off at 43."
+      ],
+      "speaker": "Duke",
+      "time": "0004158"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "We expected that on the heaters.",
+        "We'll have LOS here at Tananarive in 30 seconds; we'll see you over Carnarvon at 52."
+      ],
+      "speaker": "Duke",
+      "time": "0004213"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand 52.",
+        "Our radiators appear to be working all right.",
+        "Our Glycol Evap Outlet temperature is down around 58.",
+        "The steam pressure is Off-Scale Low, Off-Scale Low?"
+      ],
+      "speaker": "Cernan",
+      "time": "0004224"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Steam pressure Off-Scale Low?"
+      ],
+      "speaker": "Duke",
+      "time": "0004242"
+    },
+    {
+      "tokens": [
+        "That's affirm.",
+        "And the evaporator outlet temperature is 58 degrees with - with the radiators apparently working."
+      ],
+      "speaker": "Cernan",
+      "time": "0004244"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy, Gene."
+      ],
+      "speaker": "Duke",
+      "time": "0004251"
+    },
+    {
+      "tokens": [
+        "And, Apollo 10, Houston.",
+        "If you read, we'd like you to close the Primary Back Pressure [Panel 382] valve again.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0004305"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 43 minutes.",
+        "Apollo 10 is out of range at Tananarive.",
+        "The purge of that oxidizer line on the Command Module RCS system has been completed.",
+        "This system is in good shape.",
+        "Gene Cernan reported the radiators on the spacecraft are working well.",
+        "Carnarvon will acquire Apollo 10 at 52 minutes.",
+        "This is Mission Control Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is referring to the single eye patch sometimes used to aid the CMP when he is sighting through the CM optics"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford reference to \"set that other one up in orb-rate\" refers to the second FDAI (Flight director attitude indicator, aka \"8-ball\").",
+        "The FDAI can display the spacecraft's attitude in two different modes, Inertial or Orb-Rate.",
+        "The FDAI displays the spacecraft's attitude relative to the celestial sphere (i.e.",
+        "it normally shows the inertial attitude).",
+        "For the FDAI to be operated in the Orb-Rate mode, a device know as ORDEAL (Orbital-Rate Drive Earth And Lunar) (panel 13) provides the correct drive signal to rotate the FDAI at a rate which also matches the orbital period.",
+        "With the ORDEAL, the FDAI will display attitudes relative to the body's surface below (Earth or Moon)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Below is a description of the GDC taken from the Apollo Operations Handbook."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Gyro Display Coupler (GDC)The purpose of the GDC is to provide a backup attitude reference system for accurately displaying the spacecraft position relative to a given set of reference axes.",
+        "Spacecraft attitude errors can be displayed on an FDAI using the ASCP [Attitude Set Control Panel - In the lower left hand corner of Panel 1]-GDC difference.",
+        "This error signal provides a means of aligning the attitude reference system to a fixed reference while monitoring the alignment process on the error needles; or it could be used in conjunction with manual manoeuvring of the spacecraft with the error needles representing fly-to commands.The GDC can be configured for the following configurations:GDC Align- Provides a means of aligning the GDC to a given reference [i.e.",
+        "the IMU]Euler- Computes total inertial attitude from body rate signal inputs.Non-Euler- Converts analogue body rate signals to digital body rate pulses.Entry (~.05 G)- Provides redundant outputs of attitude changes with respect to the roll stability axis.GDC Configurations.Panel switch positions necessary to obtain each particular GDC function are discussed below.The GDC Align mode is used when aligning the GDC Euler angles (shafts) to the desired inertial reference selected by the ASCP thumbwheels (resolvers).",
+        "This is done by interfacing the GDC resolvers with the ASCP resolvers (per axis) to generate error signals which are proportional to the sine of the difference between the resolver angles.",
+        "When the GDC Align switch is pressed, these error signals are fed back to the GDC input to drive the GDC (ASCP resolver angular difference to zero.",
+        "During the align operation all other inputs and functions for the GDC are inhibited.",
+        "When the EMS ROLL [panel 1 bottom] switch is up and the GDC Align [panel 1 lower section] switch is pressed, the RSI pointer rotates (open loop) in response to yaw ASCP thumbwheel rotations.In the Euler configuration, the GDC accepts pitch, yaw, and roll DC body rate signals from either gyro assembly and transforms them to Euler angles to be displayed on either FDAI ball.",
+        "The GDC Euler angles also interface with the attitude set control panel (ASCP) to provide Euler angular errors, which are transformed to body angular errors for display on either FDAI attitude error indicators.With the CMC ATT switch in the GDC position, pitch, yaw, and roll DC body rate signals from either gyro assembly are converted to digital body rate signals and sent to the G&N command module computer.",
+        "Power is not only removed from both FDAI ball-drive circuits when this configuration is selected, but ASCP-generated errors are also removed.In the entry mode (~.05 G), the GDC accepts yaw and roll DC rate signals from;Either gyro assembly, and computes roll attitude with respect to the stability axis to drive the RSI on the entry monitor system.Gyro assembly 1, and computes roll attitude with respect to the stability axis to drive either FDAI 1 or FDAI 2 in roll only."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 52 minutes into the mission of Apollo 10, Carnarvon has acquired Apollo 10.",
+        "We will stand by for transmission."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10, Houston through Carnarvon.",
+        "Standing by."
+      ],
+      "speaker": "Duke",
+      "time": "0005242"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "This is Apollo 10.",
+        "We're going through our ECS checklist and everything looks good."
+      ],
+      "speaker": "Stafford",
+      "time": "0005249"
+    },
+    {
+      "tokens": [
+        "Roger, Tom.",
+        "Comm is real great."
+      ],
+      "speaker": "Duke",
+      "time": "0005253"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We got the - we could read you all the way through Tananarive, but evidently you couldn't read us - COMM back here until the last.",
+        "We got the heater off at exactly 15 minutes, the propellant valve was shut, the logic was off and the breaker open."
+      ],
+      "speaker": "Stafford",
+      "time": "0005256"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We got the - We could read you all the way through Tananarive, Houston, but evidently you couldn't read us - Comm back here until the last.",
+        "We got the heater Off exactly at 15 minutes, the Propellant valve was shut, the Logic was Off and the breakers Open."
+      ],
+      "speaker": "Stafford",
+      "time": "0005259"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy, Tom."
+      ],
+      "speaker": "Duke",
+      "time": "0005313"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 10.",
+        "Did you get our torquing angles on the IMU realign?"
+      ],
+      "speaker": "Stafford",
+      "time": "0005453"
+    },
+    {
+      "tokens": [
+        "Roger, Tom.",
+        "You were pretty weak.",
+        "What I copied was minus 0.12, plus 0.34, and minus 0.76."
+      ],
+      "speaker": "Duke",
+      "time": "0005458"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And everything looks real good."
+      ],
+      "speaker": "Stafford",
+      "time": "0005508"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Can you give us the time that you torqued those?"
+      ],
+      "speaker": "Duke",
+      "time": "0005512"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Stafford",
+      "time": "0005517"
+    },
+    {
+      "tokens": [
+        "It was 41 minutes even, Charlie.",
+        "That's what I paid special attention to that."
+      ],
+      "speaker": "Young",
+      "time": "0005523"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you very much, John.",
+        "41 minutes; special attention."
+      ],
+      "speaker": "Duke",
+      "time": "0005530"
+    },
+    {
+      "tokens": [
+        "Hello, Houston; this is 10."
+      ],
+      "speaker": "Cernan",
+      "time": "0005703"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0005705"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Guess you got my word on the Off-Scale Low on the steam pressure on the Primary Loop."
+      ],
+      "speaker": "Cernan",
+      "time": "0005707"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We've been discussing that, Gene, and stand by.",
+        "We'll have some words on it for you."
+      ],
+      "speaker": "Duke",
+      "time": "0005712"
+    },
+    {
+      "tokens": [
+        "I just rechecked the Secondary Loop and it all looks good on it.",
+        "Going through all our monitor checks and redundant component checks.",
+        "Looks like we've got a good Charlie Brown, here."
+      ],
+      "speaker": "Cernan",
+      "time": "0005717"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Good."
+      ],
+      "speaker": "Duke",
+      "time": "0005727"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston, with some words on the - the primary evap."
+      ],
+      "speaker": "Duke",
+      "time": "0005759"
+    },
+    {
+      "tokens": [
+        "Go ahead, Charlie."
+      ],
+      "speaker": "Cernan",
+      "time": "0005803"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We'd like you to put the Back Pressure valve back to Auto - correction, Manual.",
+        "And we wondered if you went to Auto on the H2O valve during launch?"
+      ],
+      "speaker": "Duke",
+      "time": "0005804"
+    },
+    {
+      "tokens": [
+        "That's affirm; I sure did.",
+        "I went to Auto on the steam pressure valve and the water valve."
+      ],
+      "speaker": "Cernan",
+      "time": "0005817"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We want the steam pressure back to Manual, and we're going to think about it a little bit more, and we might reservice later on."
+      ],
+      "speaker": "Duke",
+      "time": "0005822"
+    },
+    {
+      "tokens": [
+        "Okay, fine.",
+        "Looks like our radiators are beginning to carry the load.",
+        "I'm looking at about 51 degrees on the Evap Outlet Temp."
+      ],
+      "speaker": "Cernan",
+      "time": "0005830"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0005837"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "Gene, everybody thinks I might have given you the wrong word.",
+        "What - Now to clarify it, we want the Back Pressure valve Closed.",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0005917"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "In other words, you want Steam Pressure Auto switched to Manual, and you want me to go to Increase, is that correct?"
+      ],
+      "speaker": "Cernan",
+      "time": "0005931"
+    },
+    {
+      "tokens": [
+        "Affirmative."
+      ],
+      "speaker": "Duke",
+      "time": "0005938"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, I'm in Manual now.",
+        "I'll go to Increase."
+      ],
+      "speaker": "Cernan",
+      "time": "0005941"
+    },
+    {
+      "tokens": [
+        "Houston, this is 10.",
+        "Do you want me to leave the Water Flow in Auto during - after I do this?"
+      ],
+      "speaker": "Cernan",
+      "time": "0010037"
+    },
+    {
+      "tokens": [
+        "Stand by"
+      ],
+      "speaker": "Duke",
+      "time": "0010041"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "You can leave the water valve in Auto."
+      ],
+      "speaker": "Duke",
+      "time": "0010051"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand."
+      ],
+      "speaker": "Cernan",
+      "time": "0010055"
+    },
+    {
+      "tokens": [
+        "Communications is now taken through the Honeysuckle Creek ground station in eastern Australia."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston on the S-band through Honeysuckle.",
+        "How do you read?",
+        "Over."
+      ],
+      "speaker": "Duke",
+      "time": "0010224"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Houston, Apollo 10.",
+        "Reading you loud and clear."
+      ],
+      "speaker": "Stafford",
+      "time": "0010228"
+    },
+    {
+      "tokens": [
+        "Roger, Tom.",
+        "Same.",
+        "The S-band is really great today."
+      ],
+      "speaker": "Duke",
+      "time": "0010232"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I've never seen the comm better.",
+        "It's great, Charlie."
+      ],
+      "speaker": "Stafford",
+      "time": "0010236"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0010239"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "We'll have LOS at Honeysuckle at 1 plus 06.",
+        "We'll see you over Guaymas at 1 plus 28."
+      ],
+      "speaker": "Duke",
+      "time": "0010320"
+    },
+    {
+      "tokens": [
+        "Apollo 10, Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "0010328"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 1 hour, 5 minutes into the mission.",
+        "The station at Honeysuckle Creek in Australia has Loss Of Signal.",
+        "Flight Director Glynn Lunney is taking checks with the controllers here in the Mission Control Center.",
+        "Everybody gives him a Go.",
+        "The Service Propulsion System looks good, the Reaction Control Systems on both the Service Module and the Command Module look very good.",
+        "The environmental communications officer is pleased with his system.",
+        "There is one minor problem in with the EECOM.",
+        "You heard Charlie Duke and Gene Cernan discussing the steam pressure and evaporators during this Australian pass.",
+        "There is a belief that the primary evaporator may have dried out.",
+        "These evaporators, there is a primary and a secondary, they are used for cooling purposes when the radiators are not on the line.",
+        "They cool by evaporating or boiling water.",
+        "They are sometimes referred to as water boilers.",
+        "We may reservice the water boilers and again we may not.",
+        "EECOM wants to take a look at it over the States and see whether it needs to be reserviced.",
+        "The radiators are working very well and there's the secondary evaporator.",
+        "It is in good shape.",
+        "We really have no need for the primary evaporator.",
+        "So EECOM will continue to take a look at that, but it is not really a problem.",
+        "The station at Guaymas, Mexico, will be next to acquire Apollo 10 at 1 hour, 28 minutes.",
+        "This is Mission Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    }
+  ],
+  "source_file": "day1_part2_earth_orbit_rev_1.html"
+}

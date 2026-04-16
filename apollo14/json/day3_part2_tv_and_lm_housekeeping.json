@@ -1,0 +1,4528 @@
+{
+  "description": "A14FJ - Day 3, part 2: TV and LM Housekeeping",
+  "transcript": [
+    {
+      "tokens": [
+        "The crew of Apollo 14 is busy with checks in the Lunar Module's primary systems in preparation for their upcoming Lunar Orbit Insertion manoeuvre the next day.",
+        "An unprecedented manoeuvre earlier during the day has adjusted the onboard clock and Ground Elapsed Time to take into account the 40-minute launch delay that left their timeline out of synch with the pre-printed Flight Plan."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Editor's note:All transcript times are presented according to the GET update at 054:53:36 that saw the mission timer moved forward 40 minutes, 2.90 seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 14."
+      ],
+      "speaker": "Mitchell",
+      "time": "0603935"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Haise",
+      "time": "0603937"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're in the process of pressurizing theLMnow, as you can probably see.",
+        "We're holding for the integrity check at this point.",
+        "I have the television set up and I can turn it on at your command."
+      ],
+      "speaker": "Mitchell",
+      "time": "0603942"
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "Stand by on the TV, we'll see if they're ready."
+      ],
+      "speaker": "Haise",
+      "time": "0603959"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "They're all set up, Ed; you can turn it on any time."
+      ],
+      "speaker": "Haise",
+      "time": "0604008"
+    },
+    {
+      "tokens": [
+        "Houston, I'm transmitting.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0604015"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We got the picture, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0604038"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "You should be able to recognize it.",
+        "There's the Commander's number 1 window.",
+        "There's its field of view at the moment.",
+        "And Alan is up in the tunnel working the pressurization procedure.",
+        "Stuart is coming up from under the Commander's seat - you can see his head starting to come into the field of view now - from stowing items down under the seat.",
+        "Let's see if I can get a little better picture here for you.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0604043"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Stu's head looks pretty good in color there.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0604126"
+    },
+    {
+      "tokens": [
+        "You mean that color wheel can handle red, Freddo?"
+      ],
+      "speaker": "Roosa",
+      "time": "0604140"
+    },
+    {
+      "tokens": [
+        "The Apollo TV camera produces a color image by rotating a disc with red, blue and green filters spinning in front of the vidicon imaging tube.",
+        "The resulting 60-fields-per-second signal therefore represents sequential analyses of the scene in those three colours.",
+        "The color information is reconstructed from the video signal through a lengthy process back on Earth after the basic signal has been retrieved and corrected for timing."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "It seems to be doing a pretty good job there.",
+        "I noticed some speckles on the window there.",
+        "Is that - did y'all end up with a little debris on there?"
+      ],
+      "speaker": "Haise",
+      "time": "0604146"
+    },
+    {
+      "tokens": [
+        "We have a few ice crystals, apparently, that have adhered to it from the various dumps we've made."
+      ],
+      "speaker": "Mitchell",
+      "time": "0604157"
+    },
+    {
+      "tokens": [
+        "You know, Freddo, that window was clean as all get out until we started all the dumping.",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0604204"
+    },
+    {
+      "tokens": [
+        "Houston.",
+        "We're continuing the pressurization procedure.",
+        "We've just opened up the pressurization valve between the two spacecraft.",
+        "And we're flowing into theLMfrom the Command Module.",
+        "Give you a picture if you can see it here.",
+        "There's our cabin pressure gage, shows your quantity as well.",
+        "Let's see if I can get it in view.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0604222"
+    },
+    {
+      "tokens": [
+        "A little dark and out of focus there right now, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0604259"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "It's a little too close.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0604305"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "That's a little better, I can now see the - your little card there showing the antenna patterns.",
+        "But the needles on the gage is a little hard to read.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0604317"
+    },
+    {
+      "tokens": [
+        "We'll give up on that, Freddo.",
+        "Our pressure is equal between the Command Module and theLM, and we will start removing tunnel hardware at this point."
+      ],
+      "speaker": "Mitchell",
+      "time": "0604344"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0604453"
+    },
+    {
+      "tokens": [
+        "And, Houston, we're starting to shoot up into the tunnel here where - Alan Shepard is starting to pull the hatch out - if I can get him to look down for a minute and say hello to the world."
+      ],
+      "speaker": "Mitchell",
+      "time": "0604518"
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "I can see a form there that I guess is Al.",
+        "It's - this picture is just a little bit dark.",
+        "You can see the lights up in the tunnel."
+      ],
+      "speaker": "Haise",
+      "time": "0604532"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I think we'll have just a little bit more light once this hatch gets out of the way.",
+        "We have all of our floodlights on full right now.",
+        "While they're doing that, let's slide out to theCDR's window and take a look at the Moon, which happens to be right out the window.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0604545"
+    },
+    {
+      "tokens": [
+        "Going to coach me a little bit, Fred, as I approach this?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0604622"
+    },
+    {
+      "tokens": [
+        "Okay, we can see it now; it's right down in the lower right quadrant of the window.",
+        "The picture, though, we're seeing is a crescent, and it's really not showing too much of the detail, Ed.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0604627"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Assume you're zooming the camera now, Ed.",
+        "And we lost the picture of the Moon."
+      ],
+      "speaker": "Haise",
+      "time": "0604657"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let me try it again.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0604708"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I think what happened when you zoomed, Ed, you ended up pointing above it.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0604723"
+    },
+    {
+      "tokens": [
+        "Do you see anything now, Freddo?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0604744"
+    },
+    {
+      "tokens": [
+        "Okay, it just disappeared out the lower right corner.",
+        "We had it there for a little while."
+      ],
+      "speaker": "Haise",
+      "time": "0604746"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "How now?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0604758"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "There, it barely came in the bottom portion of the picture now.",
+        "Whereabouts is the terminator now?",
+        "Is that about Tranquility, somewhere in there ?"
+      ],
+      "speaker": "Haise",
+      "time": "0604802"
+    },
+    {
+      "tokens": [
+        "It's past Tranquility, and I think it's - it's approaching zero longitude at this point, I believe."
+      ],
+      "speaker": "Mitchell",
+      "time": "0604816"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0604828"
+    },
+    {
+      "tokens": [
+        "A few hours ago we just passed Delta 'Tegnius [?], Fred."
+      ],
+      "speaker": "Roosa",
+      "time": "0604829"
+    },
+    {
+      "tokens": [
+        "Stu is most likely referring to the crater Albategnius as a landmark here."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Right, Stu."
+      ],
+      "speaker": "Haise",
+      "time": "0604839"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It - I was looking through the sextant there just a minute ago.",
+        "It - all of Descartes - around Descartes and the Highlands showed up real well and the terminator had just moved on over just past Platte [?].",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0604844"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And for your information, in the audience in the back here, we have most of the family in tonight - this morning down here, I should say."
+      ],
+      "speaker": "Haise",
+      "time": "0604905"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "3:15 is a good time of night to have a TV show."
+      ],
+      "speaker": "Roosa",
+      "time": "0604918"
+    },
+    {
+      "tokens": [
+        "Prime time.",
+        "Yes, that's about right in the center of the picture now.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0604923"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've got full zoom on it, Freddo.",
+        "And maybe it's too bright.",
+        "Let's see if I can darken it.",
+        "It'll improve the picture a little."
+      ],
+      "speaker": "Mitchell",
+      "time": "0604938"
+    },
+    {
+      "tokens": [
+        "Yes, you're right.",
+        "It's so bright, Ed, we're - we have the crescent, but not too much detail on."
+      ],
+      "speaker": "Haise",
+      "time": "0604947"
+    },
+    {
+      "tokens": [
+        "Yes, that's a little better."
+      ],
+      "speaker": "Haise",
+      "time": "0604957"
+    },
+    {
+      "tokens": [
+        "And from our point of view, the Moon appears about the size of a grapefruit, held at the arm's length.",
+        "It's going to get considerably bigger, and if I don't have the Earth to compare it with at the moment.",
+        "But I suspect they are about the same size or maybe the Moon is starting to exceed the Earth in apparent size, [Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0605006"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And the big board now has you at ..."
+      ],
+      "speaker": "Haise",
+      "time": "0605037"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll go ..."
+      ],
+      "speaker": "Mitchell",
+      "time": "0605040"
+    },
+    {
+      "tokens": [
+        "...",
+        "about ...",
+        "180,000 out."
+      ],
+      "speaker": "Haise",
+      "time": "0605041"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Okay, I'm going to come back inside.",
+        "We have now stowed the hatch.",
+        "And Stu and Al are up starting to bring the probe out.",
+        "And very soon we'll be able to make the trip into theLMwith the camera and see what we can find in there.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0605046"
+    },
+    {
+      "tokens": [
+        "We have not, as you can obviously see, rehearsed this.",
+        "Our procedures are new to us, going into theLMfor the first time.",
+        "And, as a matter of fact, we were a little bit rushed getting the pressurization procedure complete in order to get in on time.",
+        "We'll be ready here in about 2 minutes to move on into theLM, I think.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0605109"
+    },
+    {
+      "tokens": [
+        "Okay, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0605136"
+    },
+    {
+      "tokens": [
+        "And, now, let's go back inside the Command Module.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0605138"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Are we looking up in the tunnel area now, Ed?",
+        "It's pretty dark right now."
+      ],
+      "speaker": "Haise",
+      "time": "0605240"
+    },
+    {
+      "tokens": [
+        "Yes, I'll be bringing the probe out ..."
+      ],
+      "speaker": "Roosa",
+      "time": "0605248"
+    },
+    {
+      "tokens": [
+        "Yes, I'm trying to, Fred, but it's dark.",
+        "Just 1 second, I'll see if I can improve the light situation for us."
+      ],
+      "speaker": "Mitchell",
+      "time": "0605250"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0605256"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're looking directly up into the tunnel now.",
+        "The probe has been released from the drogue, and Stu will be bringing it straight down through the tunnel."
+      ],
+      "speaker": "Mitchell",
+      "time": "0605329"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "We got that picture in pretty good now.",
+        "We can see it coming on down.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0605341"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Al and Stu are taking the probe down under the right-hand couch now."
+      ],
+      "speaker": "Mitchell",
+      "time": "0605423"
+    },
+    {
+      "tokens": [
+        "Roger, Ed.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0605434"
+    },
+    {
+      "tokens": [
+        "Yes, we can see Al in the picture now."
+      ],
+      "speaker": "Haise",
+      "time": "0605459"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "He's probably clearer for you than he is on our monitor.",
+        "It's a little dark in here."
+      ],
+      "speaker": "Mitchell",
+      "time": "0605504"
+    },
+    {
+      "tokens": [
+        "You can look up the tunnel and see the drogue [Garbled], Ed, and I'll go and pick it up for you.",
+        "[Long pause]"
+      ],
+      "speaker": "Shepard",
+      "time": "0605515"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're looking directly at the drogue now, which is gray in color and which has a hole in the center above the capture latches.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0605531"
+    },
+    {
+      "tokens": [
+        "In our color pictures here, the opening in the drogue looks red in color.",
+        "Like a big red eye."
+      ],
+      "speaker": "Haise",
+      "time": "0605554"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And Alan has it out and he's starting to come down the tunnel with it.",
+        "That's probably a little dark for you, but he's coming down anyhow."
+      ],
+      "speaker": "Mitchell",
+      "time": "0605607"
+    },
+    {
+      "tokens": [
+        "Okay, and we've temporarily, I hope, lost our picture down here, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0605621"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0605629"
+    },
+    {
+      "tokens": [
+        "Fred, do you have your picture back yet?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0605723"
+    },
+    {
+      "tokens": [
+        "Negative, Ed.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0605725"
+    },
+    {
+      "tokens": [
+        "And 14, the problem with the loss of picture is on our end of the street."
+      ],
+      "speaker": "Haise",
+      "time": "0605807"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Tell me when you have it back and we're ready to go through into theLM."
+      ],
+      "speaker": "Mitchell",
+      "time": "0605815"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0605824"
+    },
+    {
+      "tokens": [
+        "And, Ed, Houston.",
+        "You may continue the commentary, I guess.",
+        "It's being received out at the site and being recorded; we're just not getting it - plumbed into here."
+      ],
+      "speaker": "Haise",
+      "time": "0605908"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "While we were just holding up here, Alan has slipped on through into theLMand is opening up the window shades and turning on the lights, so that as we go in, we will have some lights to give you a little better picture.",
+        "I'm waiting here until - to get your picture back before I start in; however, if you would like, I'll go ahead and go into theLM."
+      ],
+      "speaker": "Mitchell",
+      "time": "0605924"
+    },
+    {
+      "tokens": [
+        "Stand by 1, Ed.",
+        "Okay, Ed.",
+        "They don't have an estimate right now.",
+        "We might wait a couple of minutes; and then, I guess, if we haven't got it back, you can proceed.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0605951"
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-060"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Okay, Alan's coming back through the tunnel now and it will be clear here in a minute.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0610012"
+    },
+    {
+      "tokens": [
+        "Houston, while we're waiting for your picture to come back and, since it is being recorded at the site, we will take a quick station break and let Alan give us a commercial for Apollo 14."
+      ],
+      "speaker": "Mitchell",
+      "time": "0610115"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0610133"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Apollo 14 is progressing very nicely.",
+        "As you can see, we're now right on schedule.",
+        "And it looks as though the first midcourse correction is going to put us in for the lunar orbit insertion burn - very close.",
+        "We're - we're currently preparing to go into theLMas Ed has told you; and, so far, everything is working very well in the Command Module.",
+        "We're very pleased with the way the systems are working.",
+        "Everything is quiet, going along extremely smoothly, and we have a happy little ship here.",
+        "Everyone is well.",
+        "Everyone is resting well.",
+        "We're adapting to weightlessness, I think, very rapidly.",
+        "And everything is going along very smoothly at this point.",
+        "[Long pause]"
+      ],
+      "speaker": "Shepard",
+      "time": "0610147"
+    },
+    {
+      "tokens": [
+        "Roger, Al.",
+        "And we have a picture back now.",
+        "It's just a little bit on the dark side, but we can see you quite well."
+      ],
+      "speaker": "Haise",
+      "time": "0610243"
+    },
+    {
+      "tokens": [
+        "Okay, Freddo.",
+        "We'll start on in."
+      ],
+      "speaker": "Mitchell",
+      "time": "0610255"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "How's that?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0610306"
+    },
+    {
+      "tokens": [
+        "Hey, that's a good picture, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0610310"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're starting through the tunnel."
+      ],
+      "speaker": "Shepard",
+      "time": "0610315"
+    },
+    {
+      "tokens": [
+        "Why don't you show the docking latches while you go by, Ed.",
+        "See how they look on the television.",
+        "Can you see the docking latches, Freddo?"
+      ],
+      "speaker": "Shepard",
+      "time": "0610324"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We can see those, Ed.",
+        "We can see on down to the tunnel and the top of the ascent engine cover."
+      ],
+      "speaker": "Haise",
+      "time": "0610332"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I think it's significant that, in spite of our problem the other day, that when Stu - Stu finally got us into the docking ring that all of them snapped shut, which is - was very well lined up.",
+        "And our docking index, as you know, cost us a case of beer, I think, because it's within 1 degree.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0610344"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And you might let us know, Ed, how you find the fit through the tunnel there."
+      ],
+      "speaker": "Haise",
+      "time": "0610417"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm sliding through."
+      ],
+      "speaker": "Mitchell",
+      "time": "0610426"
+    },
+    {
+      "tokens": [
+        "Hey, was that question from Joe?"
+      ],
+      "speaker": "Roosa",
+      "time": "0610429"
+    },
+    {
+      "tokens": [
+        "I'm not sure he'd own up to it."
+      ],
+      "speaker": "Haise",
+      "time": "0610436"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm through the tunnel, and I'm right at the top of theLM.",
+        "I'm shining the - showing the camera down on the main console on the Commander's side.",
+        "How's that picture, Freddo?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0610442"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That looks very good, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0610457"
+    },
+    {
+      "tokens": [
+        "And let's see.",
+        "I'll turn it around.",
+        "I'll go ahead and go on down and twist around, and maybe we can look out the window.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0610503"
+    },
+    {
+      "tokens": [
+        "And, we're now inside theLM.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0610533"
+    },
+    {
+      "tokens": [
+        "Thank you, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0610553"
+    },
+    {
+      "tokens": [
+        "Can you see that, Fred?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0610557"
+    },
+    {
+      "tokens": [
+        "Yes, we see what looks to be a patch there, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0610559"
+    },
+    {
+      "tokens": [
+        "Is it good enough for you to read it?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0610607"
+    },
+    {
+      "tokens": [
+        "Is it something like beep, beep or -"
+      ],
+      "speaker": "Haise",
+      "time": "0610615"
+    },
+    {
+      "tokens": [
+        "How did you ever guess?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0610620"
+    },
+    {
+      "tokens": [
+        "Must be some prompting from the ground."
+      ],
+      "speaker": "Roosa",
+      "time": "0610626"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And, Ed, a good portion of your swing here, the picture is a little bit on the dark side.",
+        "You might try opening it up just a little bit more."
+      ],
+      "speaker": "Haise",
+      "time": "0610635"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I've had it open all the way, Freddo."
+      ],
+      "speaker": "Mitchell",
+      "time": "0610648"
+    },
+    {
+      "tokens": [
+        "Well, I guess you can't do any better than that.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0610653"
+    },
+    {
+      "tokens": [
+        "Did you find theLMpretty clean, Ed, when y'all first came aboard or was anything loose in there?"
+      ],
+      "speaker": "Haise",
+      "time": "0610718"
+    },
+    {
+      "tokens": [
+        "No, both spacecraft, Freddo, have been immaculate.",
+        "I think we have found one washer floating along about 1 day ago, and we have seen nothing that was foreign to the spacecraft either before or since that time.",
+        "And, as I say that, I see one floating by me right now.",
+        "It may be the same washer.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0610730"
+    },
+    {
+      "tokens": [
+        "Yes, I'd like to point out that Ed is talking about something external to the spacecraft.",
+        "The cabin above the Command Module and theLMare extremely clean.",
+        "We've been very pleased with the way they've looked."
+      ],
+      "speaker": "Shepard",
+      "time": "0610759"
+    },
+    {
+      "tokens": [
+        "Very good."
+      ],
+      "speaker": "Haise",
+      "time": "0610813"
+    },
+    {
+      "tokens": [
+        "Yes, I think from what we've heard along the line, we actually expected maybe to see a few more nuts and bolts.",
+        "I think a lot of credit goes to checkout crew and everything because this spacecraft is really in good shape.",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0610817"
+    },
+    {
+      "tokens": [
+        "And, Freddo, I'm passing the camera back to Alan in the Command Module.",
+        "We don't have enough light in here to really give you a good picture.",
+        "And there's not much help from the outside since the Sun is behind us right now."
+      ],
+      "speaker": "Mitchell",
+      "time": "0610841"
+    },
+    {
+      "tokens": [
+        "Roger, Ed.",
+        "I - we got a pretty good picture of you down in the tunnel right now.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0610856"
+    },
+    {
+      "tokens": [
+        "Hey, Fred.",
+        "Did you hear that last comment I made about the crew and how clean the spacecraft was?"
+      ],
+      "speaker": "Roosa",
+      "time": "0610911"
+    },
+    {
+      "tokens": [
+        "Roger, Stu."
+      ],
+      "speaker": "Haise",
+      "time": "0610918"
+    },
+    {
+      "tokens": [
+        "Well, that was planted, you know, for all the authorized people that worked on the spacecraft.",
+        "You know, we're really unindated [sic] with unauthorized objects in both spacecraft.",
+        "I think Ed was showing you one up there, but if you could see this.",
+        "I don't know if any of the backup crew is down in there tonight or not.",
+        "But - okay, how about - about here - [Garbled] But, they've left their calling card.",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0610921"
+    },
+    {
+      "tokens": [
+        "Okay, we have a pretty good picture of that, Stu.",
+        "And, they are here."
+      ],
+      "speaker": "Haise",
+      "time": "0611000"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Tell them we sure appreciate every compartment that we open up having one of these come floating out of it."
+      ],
+      "speaker": "Roosa",
+      "time": "0611008"
+    },
+    {
+      "tokens": [
+        "They aim to please.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0611021"
+    },
+    {
+      "tokens": [
+        "Stu, you want to take the camera?",
+        "Perhaps you can move it on up to the window.",
+        "I don't know how much light there is, but sure is a good shot of the Moon out there.",
+        "You might try again with the monitor so you can see what it looks like to them."
+      ],
+      "speaker": "Mitchell",
+      "time": "0611037"
+    },
+    {
+      "tokens": [
+        "Well, we'll give it a go.",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0611049"
+    },
+    {
+      "tokens": [
+        "Okay, we can see the Moon again in the number - number 1 window.",
+        "It's down in the lower left corner now, Stu.",
+        "Hey, that's about right in the center.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0611106"
+    },
+    {
+      "tokens": [
+        "Okay, that's - the picture's a little distorted now, Stu.",
+        "It's a little bright.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0611138"
+    },
+    {
+      "tokens": [
+        "Okay, that ought to help it a little."
+      ],
+      "speaker": "Roosa",
+      "time": "0611204"
+    },
+    {
+      "tokens": [
+        "Yes, that's about right.",
+        "It's still hard to see in this picture - much in the way of detail of the features - any features on the surface.",
+        "Right at the terminator, we can pick up a few craters; but, other than that, it's really hard to see very much.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0611207"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Yes, I didn't think it was going to show up too much there, Fred, because that's really the way it looks with the eye.",
+        "It's just now starting, you know, to get into the area where the larger craters would show up.",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0611237"
+    },
+    {
+      "tokens": [
+        "Okay, we've got a good picture of Al there, now."
+      ],
+      "speaker": "Haise",
+      "time": "0611321"
+    },
+    {
+      "tokens": [
+        "Okay, he's got the transfer items that he's taking up into theLMfor the activation, and he might just give you a word on what they are."
+      ],
+      "speaker": "Roosa",
+      "time": "0611327"
+    },
+    {
+      "tokens": [
+        "The purpose of the excursion into theLMat this time is to check out some of the communications, do a little housekeeping, look - generally look the vehicle over, and also, in this particular case, we are going to take some pictures of the Command Module while we're there.",
+        "This is done during the flight on the way to the Moon to save time, so that when we actually go into theLMfor the final time prior to the descent, there will be less things to do.",
+        "So, I have a package of things here in my hand which I'll now be taking up into theLMand will proceed on with our housekeeping tasks up there.",
+        "[Long pause]"
+      ],
+      "speaker": "Shepard",
+      "time": "0611339"
+    },
+    {
+      "tokens": [
+        "Okay, we can see him heading out with the package in hand there.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0611424"
+    },
+    {
+      "tokens": [
+        "Okay, is there enough light up in there, Fred?",
+        "You getting the picture?"
+      ],
+      "speaker": "Roosa",
+      "time": "0611443"
+    },
+    {
+      "tokens": [
+        "Roger, Stu."
+      ],
+      "speaker": "Haise",
+      "time": "0611447"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "0611451"
+    },
+    {
+      "tokens": [
+        "Looks like running an obstacle course in the early going, getting by all the hoses."
+      ],
+      "speaker": "Haise",
+      "time": "0611453"
+    },
+    {
+      "tokens": [
+        "You got it.",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0611501"
+    },
+    {
+      "tokens": [
+        "And, Freddo, I'm starting back through the tunnel now to pick up the rest of the equipment.",
+        "We have several 16- and 70-millimeter camera Mags that are being transferred over.",
+        "We'll pick those up and be right back with you."
+      ],
+      "speaker": "Mitchell",
+      "time": "0611518"
+    },
+    {
+      "tokens": [
+        "Okay, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0611535"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, I guess the picture I'm looking at now, as you're pointing back into theLEBin the area where the optics would be.",
+        "And I can see the radiation meter back there."
+      ],
+      "speaker": "Haise",
+      "time": "0611637"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Yes.",
+        "That's affirmative, Fred; I'm just really trying to get the camera out of the way there for a minute.",
+        "Ed's got the other film magazine.",
+        "He's headed back up into theLMnow.",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0611650"
+    },
+    {
+      "tokens": [
+        "Yes, Ed fits through there quite easily.",
+        "I guess zero g really does help."
+      ],
+      "speaker": "Haise",
+      "time": "0611720"
+    },
+    {
+      "tokens": [
+        "(Laughter) [Garbled] no comment."
+      ],
+      "speaker": "Roosa",
+      "time": "0611731"
+    },
+    {
+      "tokens": [
+        "If you're commenting on what I think you're commenting on, it was totally uncalled for, Freddo.",
+        "And, Houston, we are both - Al and I are both in theLMnow with all of our transfer items, and we will proceed to go ahead and give it a checkout as per the time line."
+      ],
+      "speaker": "Mitchell",
+      "time": "0611741"
+    },
+    {
+      "tokens": [
+        "Roger, Ed.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0611803"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "I'll try to move up here, and maybe we can look over the shoulder a little bit."
+      ],
+      "speaker": "Roosa",
+      "time": "0611829"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I can see a moving back and forth; I guess your head is down through now.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0611835"
+    },
+    {
+      "tokens": [
+        "Okay, we're going to get a picture of it all up here, Fred.",
+        "I'm up ahead by theLMhatch now, trying to watch them work in theLM; but it doesn't look like it's going to be bright enough.",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0611855"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "It's - it's a pretty dark picture now, Stu."
+      ],
+      "speaker": "Haise",
+      "time": "0611917"
+    },
+    {
+      "tokens": [
+        "Yes, I'm afraid that's not going to show up.",
+        "If we had a little light, I guess we need a little Sun through theLMwindow.",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0611923"
+    },
+    {
+      "tokens": [
+        "Well, Houston, I guess Fred and I'll have to give you a show from - I mean Stu and I'll have to give you a show from that side.",
+        "It's too dark over here."
+      ],
+      "speaker": "Mitchell",
+      "time": "0612003"
+    },
+    {
+      "tokens": [
+        "[Garbled.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0612013"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And you're cutting in and out there, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0612019"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "How now?",
+        "Is that better?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0612029"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're loud and clear now."
+      ],
+      "speaker": "Haise",
+      "time": "0612032"
+    },
+    {
+      "tokens": [
+        "Fred, this is Al.",
+        "As you know, we have the probe and drogue out.",
+        "Is there anybody that - who's interested in taking a look at those, or are you pretty well satisfied that just taking still - still pictures of it from here on out will do the trick?"
+      ],
+      "speaker": "Shepard",
+      "time": "0612038"
+    },
+    {
+      "tokens": [
+        "Okay, Al.",
+        "The word is the pictures should suffice.",
+        "I - They're not that - particularly interested in another look right now."
+      ],
+      "speaker": "Haise",
+      "time": "0612056"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Is there anything else you'd like to see before we sign out for the evening?",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0612109"
+    },
+    {
+      "tokens": [
+        "Okay, Ed - Al.",
+        "The - I guess the answer is no to your last question."
+      ],
+      "speaker": "Haise",
+      "time": "0612129"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "In that case, we'll sign off from Apollo 14.",
+        "We appreciate the opportunity to show you around the spacecraft and a little bit of theLM; and I hope that next time you see theLM, it'll have more light, so you'll be able to see it better."
+      ],
+      "speaker": "Mitchell",
+      "time": "0612138"
+    },
+    {
+      "tokens": [
+        "Thank you very much."
+      ],
+      "speaker": "Haise",
+      "time": "0612155"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 61 hours 23 minutes Ground Elapsed Time.",
+        "That ends about 42 minutes of television time from Apollo 14.",
+        "Beginning of theLMcheckout, the checkout of the Lunar Module some of the housekeeping chores that the crew have to do for preparation for manningLMon landing day.",
+        "The guests back in the viewing room for the TV transmission included Mrs.",
+        "Louise Shepard, Mr.",
+        "and Mrs.",
+        "Alan B.",
+        "Shepard, Sr., Al's parents.",
+        "His daughter, Mrs.",
+        "Laura Snider, a nephew, Bob Williams.",
+        "Mrs.",
+        "Shepard's mother, Mrs.",
+        "Russell Brewer and a friend of Mrs.",
+        "Shepard's, Mrs.",
+        "Richard Abbott.",
+        "Others in the viewing room were Mrs.",
+        "Louise Mitchell, wife of the Lunar Module Pilot, their daughters Carol, Collin, and Libby and Ed's mother Mrs.",
+        "Ernest Wagoner.",
+        "Stu Roosa's wife Joan, their children Chris, Jack, Allen, and Rosemary."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Houston, 14."
+      ],
+      "speaker": "Roosa",
+      "time": "0612453"
+    },
+    {
+      "tokens": [
+        "Go ahead, 14."
+      ],
+      "speaker": "Haise",
+      "time": "0612454"
+    },
+    {
+      "tokens": [
+        "Okay, Freddo, do you want me to stay on the High Gain here or go to Omni Charlie?"
+      ],
+      "speaker": "Roosa",
+      "time": "0612458"
+    },
+    {
+      "tokens": [
+        "They would like you to stay on High Gain."
+      ],
+      "speaker": "Haise",
+      "time": "0612506"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "0612511"
+    },
+    {
+      "tokens": [
+        "Okay; and, Stu, would you pass one word on down to Al and Ed?",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0612518"
+    },
+    {
+      "tokens": [
+        "Yes, I can do that."
+      ],
+      "speaker": "Roosa",
+      "time": "0612533"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Would you tell them to - to give us a call before they proceed on page 1-15, where they're going to turn on the - the comm and get a Go from us and make sure we've got good lock on theS-IVB.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0612535"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Freddo, I'm still on the comm.",
+        "I understood.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0612557"
+    },
+    {
+      "tokens": [
+        "Okay, and I guess when you get there, Ed, just check with us, and - and I'll make sure they're set up good on the IU before you press on.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0612610"
+    },
+    {
+      "tokens": [
+        "Okay, Freddo."
+      ],
+      "speaker": "Mitchell",
+      "time": "0612630"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This Apollo Control continuing with the roster of guests and parents who are in the viewing room during the television pass.",
+        "Stu Roosa's parents, Mr.",
+        "and Mrs.",
+        "Dewey Roosa.",
+        "Two of Stu Roosa's sisters, Mrs.",
+        "Patty White, and Mrs.",
+        "Gloria Sessums and a close family friend, Mr.",
+        "Bob Perkins.",
+        "The space digital display now showing distance and velocity reference to the Moon.",
+        "Now showing 44 175 nautical miles [81,812 km] out from the Moon, velocity toward the Moon 3 241 feet per second [988 m/s].",
+        "At 61 hours 27 minutes Ground Elapsed Time, still live on air-ground during the checkout of the Lunar Module, this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "You still there?"
+      ],
+      "speaker": "Haise",
+      "time": "0615238"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "Go ahead."
+      ],
+      "speaker": "Roosa",
+      "time": "0615244"
+    },
+    {
+      "tokens": [
+        "It's just pretty quiet.",
+        "Just wanted to see if you were still around."
+      ],
+      "speaker": "Haise",
+      "time": "0615246"
+    },
+    {
+      "tokens": [
+        "That's affirm."
+      ],
+      "speaker": "Roosa",
+      "time": "0615255"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 14."
+      ],
+      "speaker": "Roosa",
+      "time": "0615446"
+    },
+    {
+      "tokens": [
+        "Go ahead, 14."
+      ],
+      "speaker": "Haise",
+      "time": "0615448"
+    },
+    {
+      "tokens": [
+        "Okay, Freddo, I guess - sitting here looking, the next hour - we - You'd originally said we're going to go intoPTCat 62:10.",
+        "I don't know if that was before you came up with the waste water dump or not; we don't really want to start that before the waste water dump, do we?"
+      ],
+      "speaker": "Roosa",
+      "time": "0615454"
+    },
+    {
+      "tokens": [
+        "That's right, Stu.",
+        "The time - Let's see, I show on the flight-plan change here is 63:10, establishPTC.",
+        "I'll recheck that.",
+        "Stand by.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0615516"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're - you're right, Freddo.",
+        "63:10, okay."
+      ],
+      "speaker": "Roosa",
+      "time": "0615540"
+    },
+    {
+      "tokens": [
+        "Okay, Stu; but, in any case, you're right, not before the water dump."
+      ],
+      "speaker": "Haise",
+      "time": "0615550"
+    },
+    {
+      "tokens": [
+        "Yes, that - that was my mistake.",
+        "I had marked that in and before I'd moved everything up an hour, and I've got it back over there in the right place, and I did mark it off.",
+        "Thank you."
+      ],
+      "speaker": "Roosa",
+      "time": "0615557"
+    },
+    {
+      "tokens": [
+        "And, 14, while we're talking aboutPTC, Stu, I'd like B/D roll selected before you crank it up.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0615611"
+    },
+    {
+      "tokens": [
+        "Okay, we use B/D roll."
+      ],
+      "speaker": "Roosa",
+      "time": "0615630"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-061"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0620137"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Roosa",
+      "time": "0620143"
+    },
+    {
+      "tokens": [
+        "You got any idea, Stu, where they are in the Good Book, so we can maybe begin and be warned about the IU business?"
+      ],
+      "speaker": "Haise",
+      "time": "0620145"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "I'll check.",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0620157"
+    },
+    {
+      "tokens": [
+        "Okay, they're finishing up 111, Freddo."
+      ],
+      "speaker": "Roosa",
+      "time": "0620214"
+    },
+    {
+      "tokens": [
+        "Okay, 111."
+      ],
+      "speaker": "Haise",
+      "time": "0620218"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Just a second here.",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0622124"
+    },
+    {
+      "tokens": [
+        "Okay, Houston; Apollo 14.",
+        "We're switching toLMpower at 62:21:14."
+      ],
+      "speaker": "Mitchell",
+      "time": "0622200"
+    },
+    {
+      "tokens": [
+        "Roger, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0622208"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, the - the ED Bus Bat A is reading 37 volts; Bat B, 37 volts."
+      ],
+      "speaker": "Mitchell",
+      "time": "0622518"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Both of them 37 volts, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0622525"
+    },
+    {
+      "tokens": [
+        "That's affirm."
+      ],
+      "speaker": "Mitchell",
+      "time": "0622531"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yes, I need you to turn on your ...",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0623307"
+    },
+    {
+      "tokens": [
+        "14, how do you read?",
+        "Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0623325"
+    },
+    {
+      "tokens": [
+        "I read you 5 square, Freddo."
+      ],
+      "speaker": "Roosa",
+      "time": "0623331"
+    },
+    {
+      "tokens": [
+        "Hey, Fred, when you get a minute, I need a VHF A check."
+      ],
+      "speaker": "Shepard",
+      "time": "0623337"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Shepard",
+      "time": "0623345"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And we'd like high taps on theLM."
+      ],
+      "speaker": "Haise",
+      "time": "0623347"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "High taps on theLM."
+      ],
+      "speaker": "Roosa",
+      "time": "0623356"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're going to get them to them."
+      ],
+      "speaker": "Shepard",
+      "time": "0623400"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I guess we're reading Antares now, loud and clear."
+      ],
+      "speaker": "Haise",
+      "time": "0623411"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And we're checking out the [Garbled] ..."
+      ],
+      "speaker": "Mitchell",
+      "time": "0623418"
+    },
+    {
+      "tokens": [
+        "Hello, 14, Freddo.",
+        "This is Antares.",
+        "Do you read loud and clear?"
+      ],
+      "speaker": "Shepard",
+      "time": "0623419"
+    },
+    {
+      "tokens": [
+        "Too many of you are speaking at once there.",
+        "Say again, Antares."
+      ],
+      "speaker": "Haise",
+      "time": "0623425"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I was just giving you an estimated check from Antares."
+      ],
+      "speaker": "Shepard",
+      "time": "0623431"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Loud and clear, and go ahead, Kitty Hawk."
+      ],
+      "speaker": "Haise",
+      "time": "0623440"
+    },
+    {
+      "tokens": [
+        "Disregard, Fred."
+      ],
+      "speaker": "Roosa",
+      "time": "0623449"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0623451"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Your first one is 20 seconds at 24 frames a second, and then 20 seconds at 1 frame per second.",
+        "Then, when you get near the end, when you're going to shut it off, you want 10 seconds at 24 frames per second, and then 1 frame per second as it peters off."
+      ],
+      "speaker": "Mitchell",
+      "time": "0623520"
+    },
+    {
+      "tokens": [
+        "That's correct, Ed.",
+        "Except they didn't want to run it any longer than 180 seconds, which is pretty close to 3 minutes."
+      ],
+      "speaker": "Haise",
+      "time": "0623539"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "I've got it.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0623554"
+    },
+    {
+      "tokens": [
+        "Can you see it?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0623629"
+    },
+    {
+      "tokens": [
+        "Oh, boy, it's not there."
+      ],
+      "speaker": "Shepard",
+      "time": "0623630"
+    },
+    {
+      "tokens": [
+        "And, Ed, or Antares, just a reminder.",
+        "You're on SPA Down Noise Backup now, so you're hot-mike."
+      ],
+      "speaker": "Haise",
+      "time": "0623638"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Suspected that.",
+        "Thank you."
+      ],
+      "speaker": "Mitchell",
+      "time": "0623651"
+    },
+    {
+      "tokens": [
+        "We're holding up, Freddo, on our procedures until Al finishes getting the waste water dump pictures."
+      ],
+      "speaker": "Mitchell",
+      "time": "0623657"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0623704"
+    },
+    {
+      "tokens": [
+        "It probably does."
+      ],
+      "speaker": "Mitchell",
+      "time": "0623736"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "[Long pause]"
+      ],
+      "speaker": "Shepard",
+      "time": "0623738"
+    },
+    {
+      "tokens": [
+        "Houston, from theLM, this water dump looks like a snow storm."
+      ],
+      "speaker": "Mitchell",
+      "time": "0623756"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "That's the way I figured it would look.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0623805"
+    },
+    {
+      "tokens": [
+        "Fred, were you getting your LO bit rate?",
+        "If so, I'll switch you over to Hi."
+      ],
+      "speaker": "Mitchell",
+      "time": "0623830"
+    },
+    {
+      "tokens": [
+        "Stand by 1.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0623836"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Okay, Ed.",
+        "It looks good here.",
+        "LO bit rate, you can go to step 3."
+      ],
+      "speaker": "Haise",
+      "time": "0623847"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "There's Hi bit rate.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0623858"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We got Hi bit rate now, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0623923"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Going step 4."
+      ],
+      "speaker": "Mitchell",
+      "time": "0623932"
+    },
+    {
+      "tokens": [
+        "Houston, how do you read Antares?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0623942"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I read you loud and clear, Ed.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0623944"
+    },
+    {
+      "tokens": [
+        "And, Antares; Houston.",
+        "We're ready for step 5."
+      ],
+      "speaker": "Haise",
+      "time": "0624032"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And, Houston; this is step 5.",
+        "How do you read Antares?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0624039"
+    },
+    {
+      "tokens": [
+        "Antares, we're reading you loud and clear on LO bit rate, now."
+      ],
+      "speaker": "Haise",
+      "time": "0624047"
+    },
+    {
+      "tokens": [
+        "Roger, standing by.",
+        "[Long pause]"
+      ],
+      "speaker": "Shepard",
+      "time": "0624059"
+    },
+    {
+      "tokens": [
+        "Antares, Houston.",
+        "We're ready for step 6, now."
+      ],
+      "speaker": "Haise",
+      "time": "0624153"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause]"
+      ],
+      "speaker": "Shepard",
+      "time": "0624202"
+    },
+    {
+      "tokens": [
+        "Antares, Houston.",
+        "How do you read?"
+      ],
+      "speaker": "Haise",
+      "time": "0624244"
+    },
+    {
+      "tokens": [
+        "Okay, Freddo, loud and clear.",
+        "How me?",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0624251"
+    },
+    {
+      "tokens": [
+        "Okay, it's not bad at all.",
+        "I'd say you're loud and clear, also.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0624305"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Mitchell",
+      "time": "0624319"
+    },
+    {
+      "tokens": [
+        "Antares, Houston.",
+        "We're ready for step 7, now.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0624324"
+    },
+    {
+      "tokens": [
+        "All right, Houston.",
+        "How do you read Antares?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0624337"
+    },
+    {
+      "tokens": [
+        "Okay, Antares, Houston.",
+        "Read you loud and clear."
+      ],
+      "speaker": "Haise",
+      "time": "0624341"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "Kitty Hawk, Antares, how do you read VHF A?"
+      ],
+      "speaker": "Shepard",
+      "time": "0624349"
+    },
+    {
+      "tokens": [
+        "Ed, how do you read on A?"
+      ],
+      "speaker": "Roosa",
+      "time": "0624352"
+    },
+    {
+      "tokens": [
+        "Loud and clear, Stu."
+      ],
+      "speaker": "Mitchell",
+      "time": "0624355"
+    },
+    {
+      "tokens": [
+        "Antares, Houston.",
+        "We're ready for step 8 now."
+      ],
+      "speaker": "Haise",
+      "time": "0624405"
+    },
+    {
+      "tokens": [
+        "Roger, Freddo.",
+        "Stand by 1.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0624410"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Antares.",
+        "How do you read VHF A, now?",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0624452"
+    },
+    {
+      "tokens": [
+        "Houston, Antares.",
+        "How do you read?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0624546"
+    },
+    {
+      "tokens": [
+        "Antares, Houston.",
+        "Read you loud and clear.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0624550"
+    },
+    {
+      "tokens": [
+        "Okay, I guess I'm ready for step 8, now."
+      ],
+      "speaker": "Mitchell",
+      "time": "0624605"
+    },
+    {
+      "tokens": [
+        "Okay, you're Go for step 8."
+      ],
+      "speaker": "Haise",
+      "time": "0624610"
+    },
+    {
+      "tokens": [
+        "Okay, now.",
+        "Roger.",
+        "How do you read, now?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0624612"
+    },
+    {
+      "tokens": [
+        "Read you loud and clear, Ed.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0624618"
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "Everything looks good down here."
+      ],
+      "speaker": "Haise",
+      "time": "0624644"
+    },
+    {
+      "tokens": [
+        "Okay, Freddo.",
+        "Stand by - We're still having trouble - not getting our VHF turned up."
+      ],
+      "speaker": "Mitchell",
+      "time": "0624649"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0624658"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's B Simplex."
+      ],
+      "speaker": "Roosa",
+      "time": "0624712"
+    },
+    {
+      "tokens": [
+        "Okay, how me?",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0624714"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Antares.",
+        "How do you read me on VHF B?",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0624726"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Antares.",
+        "How do you read VHF B?",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0624749"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Antares.",
+        "How do you read, now?",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0624830"
+    },
+    {
+      "tokens": [
+        "Antares, Houston.",
+        "We'd like a readout on Bat 5 and 6 - voltage.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0624910"
+    },
+    {
+      "tokens": [
+        "Stand by, Houston.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0624924"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "We're ready to dispense with the water dump, now."
+      ],
+      "speaker": "Haise",
+      "time": "0624953"
+    },
+    {
+      "tokens": [
+        "I've already shut it off, Freddo.",
+        "I'm just coming back up, now."
+      ],
+      "speaker": "Roosa",
+      "time": "0625001"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0625006"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Antares.",
+        "Read you loud and clear."
+      ],
+      "speaker": "Mitchell",
+      "time": "0625007"
+    },
+    {
+      "tokens": [
+        "Okay, you're 5 square.",
+        "Let's try A."
+      ],
+      "speaker": "Roosa",
+      "time": "0625009"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mitchell",
+      "time": "0625012"
+    },
+    {
+      "tokens": [
+        "How do you read on A, Ed?"
+      ],
+      "speaker": "Roosa",
+      "time": "0625016"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Antares.",
+        "Read you loud and clear on A.",
+        "How me?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0625019"
+    },
+    {
+      "tokens": [
+        "You're 5 square."
+      ],
+      "speaker": "Roosa",
+      "time": "0625022"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We check out finally.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0625024"
+    },
+    {
+      "tokens": [
+        "Houston, Antares.",
+        "Bats 5 and 6 are reading 36 and a half and 37 volts, respectively."
+      ],
+      "speaker": "Mitchell",
+      "time": "0625111"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copied, Antares."
+      ],
+      "speaker": "Haise",
+      "time": "0625119"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "Can I turn - Do you want me to turn the VHF Off?",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0625246"
+    },
+    {
+      "tokens": [
+        "Houston, Antares."
+      ],
+      "speaker": "Mitchell",
+      "time": "0625312"
+    },
+    {
+      "tokens": [
+        "Go ahead, Antares."
+      ],
+      "speaker": "Haise",
+      "time": "0625315"
+    },
+    {
+      "tokens": [
+        "We're going to skip theOPScheckout until Al gets through with his camera work.",
+        "And I'm going to go ahead with the comm deactivation.",
+        "We'll pick the checkout up shortly."
+      ],
+      "speaker": "Mitchell",
+      "time": "0625318"
+    },
+    {
+      "tokens": [
+        "Okay, that'll be all right.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0625327"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Antares is going off the air for a couple of days."
+      ],
+      "speaker": "Mitchell",
+      "time": "0625340"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With all their checks done, Ed and Al can switch the LM comms off and continue with their checks."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-062"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0630139"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Roosa",
+      "time": "0630145"
+    },
+    {
+      "tokens": [
+        "Is Ed still downstairs?"
+      ],
+      "speaker": "Haise",
+      "time": "0630147"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "They're both down there."
+      ],
+      "speaker": "Roosa",
+      "time": "0630152"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0630154"
+    },
+    {
+      "tokens": [
+        "We just transferred to - we just transferred to Command Module power.",
+        "Be coming back up in a minute."
+      ],
+      "speaker": "Shepard",
+      "time": "0630157"
+    },
+    {
+      "tokens": [
+        "Roger, Antares.",
+        "I got - I got a question there.",
+        "I was wondering if Ed recalls back on step 1, on comm activation, if he had to switch the antenna - S-Band Antenna switch, was it already in Aft or did he move it to Forward and then back to Aft?",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0630205"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by.",
+        "[Long pause]"
+      ],
+      "speaker": "Shepard",
+      "time": "0630232"
+    },
+    {
+      "tokens": [
+        "Okay, this is Antares talking through Kitty Hawk's transmitters.",
+        "We found the S-Band Antenna switch in Aft as the checklist called for, and he did not move in for step 1."
+      ],
+      "speaker": "Shepard",
+      "time": "0630249"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Haise",
+      "time": "0630404"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 63 hours 8 minutes Ground Elapsed Time.",
+        "Presently crew of Apollo 14, two of them that is, en route back to the Command Module if indeed they are not already in with the tunnel closed.",
+        "Change of shift hand-over taking place in the control room now where Pete Franks' Orange Team is taking over from the Gold Team headed up by Flight Director Gerry Griffin.",
+        "We will have the change of shift press conference in the Houston news center within the next half hour or so.",
+        "Participant being said Jerry Griffin.",
+        "And, at 63 hours 9 minutes Ground Elapsed Time, this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Antares, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0630926"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "This is Antares.",
+        "Go ahead.",
+        "[Long pause]"
+      ],
+      "speaker": "Shepard",
+      "time": "0630933"
+    },
+    {
+      "tokens": [
+        "Okay, Al, are you back in the Kitty Hawk, now?"
+      ],
+      "speaker": "Haise",
+      "time": "0630945"
+    },
+    {
+      "tokens": [
+        "No, I'm still in Antares, but I'm using Kitty Hawk cable."
+      ],
+      "speaker": "Shepard",
+      "time": "0630952"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "The question is, we've got you back on - Antares - back on Command Module power, and they're showing about 2 amps high.",
+        "And, the question is, has the reconfiguration been complete as per the initial activation status chart for circuit breakers back on 13 and 14 yet?",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0630957"
+    },
+    {
+      "tokens": [
+        "That is affirmative, per checklist."
+      ],
+      "speaker": "Shepard",
+      "time": "0631029"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0631031"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Antares."
+      ],
+      "speaker": "Shepard",
+      "time": "0631326"
+    },
+    {
+      "tokens": [
+        "Go ahead, Antares."
+      ],
+      "speaker": "Haise",
+      "time": "0631330"
+    },
+    {
+      "tokens": [
+        "TheOPScheckup complete.",
+        "The source pressure on theCDR's reading 6200; lowest pressure onLMPis reading 6000."
+      ],
+      "speaker": "Shepard",
+      "time": "0631335"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copy now.CDR's 6200;LMP, 6000."
+      ],
+      "speaker": "Haise",
+      "time": "0631349"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's Al Shepard talking to Fred Haise out here in Mission Control.",
+        "Meanwhile in Mission Control, we're pressing on with our handover between shifts.",
+        "The Orange Team coming in now to replace the Gold Team.",
+        "We're at 63 hours 15 minutes into the flight.",
+        "We presently show Apollo 14 traveling at a speed of 2500 to 54 feet per second [?].",
+        "And, at a distance away from Earth of 179 900 nautical miles [333,175 km].",
+        "Continuing to monitor this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Antares."
+      ],
+      "speaker": "Mitchell",
+      "time": "0632259"
+    },
+    {
+      "tokens": [
+        "Go ahead, Antares."
+      ],
+      "speaker": "Haise",
+      "time": "0632304"
+    },
+    {
+      "tokens": [
+        "We rechecked our circuit breaker configuration, and we found thatEPSDC Bus Volt, panel 11, was out.",
+        "It is now in.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0632308"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Haise",
+      "time": "0632324"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Antares, Houston.",
+        "Over."
+      ],
+      "speaker": "Haise",
+      "time": "0632532"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Mitchell",
+      "time": "0632539"
+    },
+    {
+      "tokens": [
+        "I was just looking through the checklist on page 1-18; under the 64-hour callout, it shows thatEPSDC Bus Volt circuit breaker back open.",
+        "It comes after you check the circuit breaker charge, up at the top of the page.",
+        "So I guess that DC Volt should be open.",
+        "[Long pause]"
+      ],
+      "speaker": "Haise",
+      "time": "0632541"
+    },
+    {
+      "tokens": [
+        "Okay, stand by 1."
+      ],
+      "speaker": "Mitchell",
+      "time": "0632612"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "Gordon Fullerton now on the CapCom position replacing Fred Haise.",
+        "That was Fullerton speaking just now to Commander Al Shepard.",
+        "We're 63 hours 26 minutes, Apollo 14 180 184 nautical miles [333,700 km] away from the Earth.",
+        "And, traveling at a speed of 2546 feet per second [776 m/s].",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Antares."
+      ],
+      "speaker": "Shepard",
+      "time": "0632806"
+    },
+    {
+      "tokens": [
+        "Go ahead, Antares."
+      ],
+      "speaker": "Fullerton",
+      "time": "0632810"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I think our checklist is finally in phase with your checklist, and the DC Bus Volt circuit breaker, panel 11, is out."
+      ],
+      "speaker": "Shepard",
+      "time": "0632815"
+    },
+    {
+      "tokens": [
+        "Roger, Al."
+      ],
+      "speaker": "Fullerton",
+      "time": "0632824"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "63 hours 29 minutes.",
+        "Participants for the change of shift news conference are presently en route.",
+        "We anticipate the conference to start in approximately 10 minutes."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston."
+      ],
+      "speaker": "Fullerton",
+      "time": "0633033"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Shepard",
+      "time": "0633039"
+    },
+    {
+      "tokens": [
+        "That current in theLMseems to be dropping down.",
+        "It's down to about an amp, now.",
+        "It's looking pretty normal.",
+        "So we don't think any more effort trying to find out the cause of it is worthwhile.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0633041"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "As I say, I think we're finally in phase now.",
+        "We - The - the last item we did was turn out the floodlights which probably helps the situation.",
+        "The - theLMhatch is now closed, and both Ed and I are clear of it."
+      ],
+      "speaker": "Shepard",
+      "time": "0633058"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0633516"
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston."
+      ],
+      "speaker": "Fullerton",
+      "time": "0633537"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Roosa",
+      "time": "0633544"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "If - if it's convenient to get to, we'd like to know how much of that magazine Foxtrot you used taking pictures of the water dump.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0633547"
+    },
+    {
+      "tokens": [
+        "Okay, Al says he used one-third of the magazine."
+      ],
+      "speaker": "Roosa",
+      "time": "0633608"
+    },
+    {
+      "tokens": [
+        "Roger, Stu; one-third."
+      ],
+      "speaker": "Fullerton",
+      "time": "0633611"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston.",
+        "63 hours 37 minutes now into the flight.",
+        "Al Shepard, Ed Mitchell back in the Kitty Hawk now.",
+        "Presumably closing out theLMhatch and at some point, installing the probe and drogue and Command Module hatch.",
+        "We show Apollo 14 at 180,438 nautical miles [334,171 km] and traveling at a speed of 2,540 feet per second [774 m/s].",
+        "At 63 hours 37 minutes into the flight, this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 63 hours 39 minutes Ground Elapsed Time.",
+        "The change of shift news conference is scheduled to start momentarily and at this point we will take down the line and tape any conversations which might transpire.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston, at 63 hours 59 minutes Ground Elapsed Time.",
+        "We presently show Apollo 14 at the distance of 180,983 nautical miles [335,181 km] away from Earth, traveling at a speed of 2,526 feet per second [770 m/s].",
+        "CapCom Gordon Fullerton has had limited conversation with Apollo 14 since we had taken the line down for the change of shift conference.",
+        "We will play that conversation back to you now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 14."
+      ],
+      "speaker": "Roosa",
+      "time": "0634142"
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Fullerton",
+      "time": "0634145"
+    },
+    {
+      "tokens": [
+        "Okay, Gordon, I guess you're going to give me a call when it's okay forPTC, huh?"
+      ],
+      "speaker": "Roosa",
+      "time": "0634149"
+    },
+    {
+      "tokens": [
+        "That's right.",
+        "Down a little, we'll take a look and see how your rates look."
+      ],
+      "speaker": "Fullerton",
+      "time": "0634158"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "You look good now; you're clear to spin it up."
+      ],
+      "speaker": "Fullerton",
+      "time": "0634516"
+    },
+    {
+      "tokens": [
+        "Okay, thank you."
+      ],
+      "speaker": "Roosa",
+      "time": "0634524"
+    },
+    {
+      "tokens": [
+        "Also, we'd like Omni Bravo, and you're clear to secure the high gain antenna."
+      ],
+      "speaker": "Fullerton",
+      "time": "0634533"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Bravo."
+      ],
+      "speaker": "Mitchell",
+      "time": "0634542"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control.",
+        "As you heard CapCom Fullerton talking both to Stu Roosa and Ed Mitchell.",
+        "Apollo 14 has now returned to its slow rotation, the passive thermal control of the spacecraft, and of the high gain antenna has been secured.",
+        "We're 64 hours 1 minute into the flight.",
+        "Back up live.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-063"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0641420"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Mitchell",
+      "time": "0641430"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're watching yourPTC, and it doesn't look too good.",
+        "It's heading right on out of the box.",
+        "We lost data just as you started to spin up with that antenna switchover.",
+        "It was P00r timing on our part.",
+        "So we're not sure just how the start went, but we're sure this one isn't going to work.",
+        "So, at your convenience, if you'll restart another - or redamp the rates and stand by for our Go for another startup.",
+        "Over.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0641433"
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston.",
+        "64 hours 15 minutes Ground Elapsed Time.",
+        "Gordon Fullerton advising Ed Mitchell to - that it's our consideration to reestablish the passive thermal control mode."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Stand by.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0641516"
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Fullerton",
+      "time": "0641543"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0641548"
+    },
+    {
+      "tokens": [
+        "If you stop near a roll angle of either zero or 180, that will give us better high bit rate to watch your rates."
+      ],
+      "speaker": "Fullerton",
+      "time": "0641549"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stu's coming up to the top now."
+      ],
+      "speaker": "Mitchell",
+      "time": "0641601"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0641605"
+    },
+    {
+      "tokens": [
+        "64 hours, 16 minutes Ground Elapsed Time.",
+        "14 now 181,390 nautical miles [335,934 km] away from Earth.",
+        "Presently travelling at a velocity of 2,516 feet per second [767 m/s].",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Gordon.",
+        "I'm up here.",
+        "That one didn't take, huh?"
+      ],
+      "speaker": "Roosa",
+      "time": "0641640"
+    },
+    {
+      "tokens": [
+        "No.",
+        "It just headed right on out to the limit for some reason, Stu.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0641644"
+    },
+    {
+      "tokens": [
+        "Okay, Gordon.",
+        "How do you read?"
+      ],
+      "speaker": "Roosa",
+      "time": "0641706"
+    },
+    {
+      "tokens": [
+        "Loud and clear, Stu.",
+        "Go ahead."
+      ],
+      "speaker": "Fullerton",
+      "time": "0641708"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "So that one didn't take, huh?"
+      ],
+      "speaker": "Roosa",
+      "time": "0641714"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "It went right straight on out toward a limit on our plot here.",
+        "We didn't get a good read-out of the - of the initiation of it, because we had that antenna switchover right at the time.",
+        "I'll stand by until we get through this - into the next Omni here.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0641717"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0641744"
+    },
+    {
+      "tokens": [
+        "Stu, this is Houston.",
+        "How do you read now?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0641836"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're loud and clear."
+      ],
+      "speaker": "Roosa",
+      "time": "0641842"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I mentioned to Ed if you'll stop the roll on near zero or near 180, we'll have good antenna angle for high bit rate and can watch the rates that way."
+      ],
+      "speaker": "Fullerton",
+      "time": "0641844"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "0641901"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control Houston at 64 hours, 48 minutesGET.",
+        "We presently show Apollo 14 at a distance of 182,151 nautical miles [337,344 km] out from Earth, and travelling at a speed of 2,496 feet per second [761 m/s].",
+        "The crew of Apollo 14 presumably eating at the present time, they will establish the passive thermal control - or re-establish the Passive Thermal Control following this morning's meal.",
+        "We're at 64 hours, 48 minutesGET; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-064"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston, 65 hours and 30 minutes Ground Elapsed Time.",
+        "We now show Apollo 14 at a distance of 182,520 nautical miles [338,027 km] traveling at a speed of 2,487 feet per second [758 m/s].",
+        "We'll continue to monitor for any conversation as it should come up between CapCom Gordon Fullerton here in Mission Control and members of the Apollo 14 crew.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Judging by how far the spacecraft has flown since the last report from the Public Affairs Officer, he probably meant to say \"65 hours and 3 minutes\"."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0650411"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston; 14."
+      ],
+      "speaker": "Roosa",
+      "time": "0650416"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "As you're sitting there, your high gain is pretty well pointed at us.",
+        "We'd like to bring it up to watch the start of this next attempt at PC -PTC.",
+        "Would you go to Auto - and then select High Gain?",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0650419"
+    },
+    {
+      "tokens": [
+        "Okay, Gordon, it looks like we've got the High Gain."
+      ],
+      "speaker": "Roosa",
+      "time": "0650515"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We have it."
+      ],
+      "speaker": "Fullerton",
+      "time": "0650518"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's Stu Roosa aboard Apollo 14 talking to CapCom Gordon Fullerton."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "You have a Go to start the spinup."
+      ],
+      "speaker": "Fullerton",
+      "time": "0650754"
+    },
+    {
+      "tokens": [
+        "Okay, thank you."
+      ],
+      "speaker": "Roosa",
+      "time": "0650805"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston, 65 hours, 08 minutes Ground Elapsed Time.",
+        "Apollo 14 182,644 nautical miles [338,256 km] away from Earth presently traveling at a speed of 2,484 feet per second [757 m/s].",
+        "That was Gordon Fullerton giving a Go for restart of the passive thermal control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Fullerton",
+      "time": "0651016"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Shepard",
+      "time": "0651021"
+    },
+    {
+      "tokens": [
+        "It looks to us like you might have missed one jet enable, Delta-2.",
+        "Do you have roll coupled?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0651023"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you, Gordon.",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0651037"
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "Your rates are still good, if you want to give her a start."
+      ],
+      "speaker": "Fullerton",
+      "time": "0651126"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Roosa",
+      "time": "0651132"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0651313"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Roosa",
+      "time": "0651318"
+    },
+    {
+      "tokens": [
+        "We're showing the O2flow up a little bit to eight-tenths and suggest you might look around at the - all the overboard drains, valves, and make sure they're tightly secured.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0651320"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Roosa",
+      "time": "0651337"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "Give us Omni Bravo, and you're clear to secure the high gain antenna."
+      ],
+      "speaker": "Fullerton",
+      "time": "0652100"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "0652109"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0652323"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Shepard",
+      "time": "0652329"
+    },
+    {
+      "tokens": [
+        "We see that the cabin pressure, which was down to near 5, is back up to 5 dec - 5.1, and the flow rate is decreasing now.",
+        "Does this help you - give you any clues as to what the problem might have been?",
+        "Did you find any loose valves?",
+        "Over.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0652332"
+    },
+    {
+      "tokens": [
+        "No, not as yet.",
+        "We're having a problem with a sticky Myrtle.",
+        "We're working [Garbled] equipment problem right now."
+      ],
+      "speaker": "Shepard",
+      "time": "0652359"
+    },
+    {
+      "tokens": [
+        "Roger, Al."
+      ],
+      "speaker": "Fullerton",
+      "time": "0652407"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control Houston, 65 hours 24 minutesGETtime.",
+        "We presently show 14 at a distance of 183 025 nautical miles [338,962 km] away from Earth and traveling at a velocity of 2475 feet per second [754 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0654025"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Roosa",
+      "time": "0654031"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Roosa",
+      "time": "0654041"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I have a short shopping list of items for you here.",
+        "First of all, the state vector on board there is in good shape and no update will be required as scheduled at 66 hours."
+      ],
+      "speaker": "Fullerton",
+      "time": "0654043"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "0654102"
+    },
+    {
+      "tokens": [
+        "And it's looking like midcourse 4 will be about 3.5 feet per second - 3-1/2 feet per second.",
+        "And one question, on the lens - the 18-millimeter lens that you took over to use to take the pictures of the water dump.",
+        "Just to help us keep track of where things are, did you bring that back and restow it in the Command Module?",
+        "Over.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0654103"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Gordon.",
+        "The lens is back and stowed in the Command Module, and understand midcourse 4 will be about 3.2."
+      ],
+      "speaker": "Roosa",
+      "time": "0654139"
+    },
+    {
+      "tokens": [
+        "Stu, that's 3.5, but that's close enough as - as close as we can tell now.",
+        "ThePTCis looking good.",
+        "It's hanging in there and, well, maybe its too early to predict; it looks like it's going to take this time.",
+        "There is some - an O2heater reconfiguration shown at 65.10 in the Flight Plan to do and the presleep items on the checklist, and that's all we have before you retire for the day.",
+        "Over.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0654149"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We just, about 10 minutes ago, configured the heaters, and we're going to press into the presleep here momentarily."
+      ],
+      "speaker": "Roosa",
+      "time": "0654232"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0654243"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "65 hours, 43 minutes into the flight.",
+        "That was CapCom, Gordon Fullerton talking to Command Module Pilot Stu Roosa.",
+        "The report he made indicated that no alignment of the platform would be required before the start of the rest period.",
+        "Also the plots of the passive thermal control mode as displayed on the guidance and control officers console here at Mission Control appear very favorable.",
+        "Midcourse correction 4, flight dynamics advises presently looks like a 3.5 foot per second burn.",
+        "This is presently scheduled at a Ground Elapsed Time of 77 hours, 38 minutes and we now show Apollo 14 at a distance of 183,490 nautical miles [339,823 km], traveling at a velocity of 2463 feet per second [751 m/s].",
+        "We're at 65 hours, 44 minutes Ground Elapsed Time and this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control Houston at 65 hours 55 minutesGET.",
+        "Apollo 14 now at a distance of 183 764 nautical miles [340,331 km] away from the Earth.",
+        "Velocity now showing 2456 feet per second [749 m/s].",
+        "The crew of Apollo 14 just about ready to start their rest period, we may - or may not - have further contact with them.",
+        "We will standby and continue to monitor in the eventuality we do have contact with the crew prior to the start of their rest.",
+        "We're at 65 hours 56 minutesGETand this is Apollo Control Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 14.",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0655921"
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "Were you calling?",
+        "You are very weak.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0655934"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Gordon.",
+        "I'm ready for an E-memory dump.",
+        "Can you take it with this comm?"
+      ],
+      "speaker": "Roosa",
+      "time": "0655942"
+    },
+    {
+      "tokens": [
+        "I'm reading you just barely, Stu.",
+        "Stand by.",
+        "I'll check if we can take the E-MOD in this kind of antenna configuration.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0655950"
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-065"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stu, we're going to have to wait a couple of minutes until a better antenna gets up."
+      ],
+      "speaker": "Fullerton",
+      "time": "0660028"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0660036"
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "We are ready at this time for the E-MOD.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0660121"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Here it comes.",
+        "And, Gordon, I've got some onboard read-outs when you're ready.",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0660130"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead."
+      ],
+      "speaker": "Fullerton",
+      "time": "0660145"
+    },
+    {
+      "tokens": [
+        "Okay, battery C, 37.0; pyro battery A, 37.4; pyro battery B, 37.4.RCS: Able, 87; Baker, 87; Charlie, 85; Delta - Delta, 86.",
+        "[Long pause]"
+      ],
+      "speaker": "Roosa",
+      "time": "0660150"
+    },
+    {
+      "tokens": [
+        "Roger, Stu.",
+        "We copied all those.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0660224"
+    },
+    {
+      "tokens": [
+        "And, Gordon, for a crew status, we're all in good shape and no medication."
+      ],
+      "speaker": "Roosa",
+      "time": "0660239"
+    },
+    {
+      "tokens": [
+        "Roger, Stu."
+      ],
+      "speaker": "Fullerton",
+      "time": "0660246"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston, 66 hours 03 minutes Ground Elapsed Time.",
+        "We presently show Apollo 14 at an altitude of 183 948 nautical miles [340,672 km] away from Earth, presently traveling at 2452 feet per second [747 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Fullerton",
+      "time": "0660529"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Roosa",
+      "time": "0660534"
+    },
+    {
+      "tokens": [
+        "Looks like we've got the dump complete.",
+        "And one question fromEECOM.",
+        "With this data configuration right now, he can't really tell if you cycled all the cryo fans.",
+        "He just wanted a confirmation that you had.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0660536"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "The fans were cycled."
+      ],
+      "speaker": "Roosa",
+      "time": "0660552"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Fullerton",
+      "time": "0660556"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston, 66 hours 06 minutes.",
+        "Following that conversation between CapCom Gordon Fullerton and Command Module Pilot, Stu Roosa, we expect the crew to start their rest period, the E-memory dump completed, then this should close out our contact with the crew.",
+        "We now show Apollo 14 at 184 033 nautical miles [340,829 km] away from Earth and traveling at a speed of 2450 feet per second [747 m/s].",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 14 is signing off for the evening."
+      ],
+      "speaker": "Shepard",
+      "time": "0661734"
+    },
+    {
+      "tokens": [
+        "Roger, Al.",
+        "Pleasant dreams to you all."
+      ],
+      "speaker": "Fullerton",
+      "time": "0661738"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Shepard",
+      "time": "0661744"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control Houston.",
+        "That was space craft commander Al Shepard advising the mission control in Houston that the crew of Apollo 14 was ready to get some sleep.",
+        "We now show Apollo 14 at 184,292 nautical miles [341,309 km] out from Earth.",
+        "Velocity now reads 2443 feet per second [745 m/s].GETtime presently at 66 hours 18 minutes.",
+        "This is Apollo Control Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston, at 66 hours, 35 minutes now into the flight.",
+        "Our displays in mission control show Apollo 14 at a distance of 184,700 nautical miles [342,064 km] away from the Earth.",
+        "Traveling at a velocity of 2433 feet per second [742 m/s].",
+        "Since the crew of Apollo 14 has begun the Flight Plan sleep period we will bring down the line at this time and pick up again if any conversation should transpire.",
+        "We're at 66 hours, 36 minutes Ground Elapsed Time and this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control Houston at 66 - 67 hours 7 minutesGET.",
+        "We expect CapCom Gordon Fullerton will place a call to the spacecraft.",
+        "Here we're showing a high O2 flow rate.",
+        "Apparently, most probably caused by a leak of one of the over board vents.",
+        "If this call is placed, Fullerton will ask one of the crew members to - to check all the valves on board.",
+        "There's some consideration that they might not be seated properly.",
+        "The passive thermal control mode however still remains stable.",
+        "We'll standby and continue to monitor in the event that call is placed, the line is now up live.",
+        "Since Apollo 14 has passed through lunar sphere influence at 66 hours 49 minutes 4 seconds, our displays in Mission Control are now referenced to the Moon.",
+        "We show Apollo 14 now presently 33 202 nautical miles [61,490 km] away from the Moon, and traveling at a speed of 3,306 feet per second [1,008 m/s], relative to the Moon.",
+        "We'll standby and see if the call is placed to Apollo 14."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The shift to Moon-centric rather than Earth-centric reporting of their distance is not merely a convenience.",
+        "This also affects the guidance system, which either works in the Earth or the lunar sphere of influence, using the center of mass of each body as the starting point."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In practical terms, Apollo 14 has escaped the gravitational pull of the Earth that has been slowing it down since their Translunar injection burn, and they have now started to fall towards the Moon at an increasing speed.",
+        "They have already gained 266 m/s of velocity from lunar gravitational pull since the shift."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Apollo 14, this is Houston.",
+        "Over.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0670636"
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 14.",
+        "Apollo 14; this is Houston.",
+        "Over.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0670714"
+    },
+    {
+      "tokens": [
+        "Houston, this is Apollo 14.",
+        "Houston, Apollo 14.",
+        "How do you read?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0670814"
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "You are loud and clear.",
+        "Sorry to disturb you, but we have been watching some parameters on theECS.",
+        "We watched the cabin leak down to 5.1 the last we saw and we've also noticed a - that the main Regs have opened as a result, and your O2flow has been steadily increasing; last time we had high bit rate, it was about 4/10ths of a pound per hour.",
+        "ThePTCis being disturbed, but it still - is stable.",
+        "We wanted to alert you to try to troubleshoot this leak before we throw thePTCout of bounds.",
+        "What we'd like you to do is check all the overboard drain valves, one at a time.",
+        "And, this time, we would like to try to tie down precisely which - which valve is the guilty one and so we would like - as you either tighten them or jiggle them or whatever you can think of - to do to the valves, do each one individually and give us time to watch the flow rate and see if we can tie it down.",
+        "Over.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0670819"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0670949"
+    },
+    {
+      "tokens": [
+        "That's Ed Mitchell responding to that call."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, the Waste Management Dump valve is going to Off at this point."
+      ],
+      "speaker": "Mitchell",
+      "time": "0671016"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0671023"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 14."
+      ],
+      "speaker": "Mitchell",
+      "time": "0671257"
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Fullerton",
+      "time": "0671301"
+    },
+    {
+      "tokens": [
+        "Gordon, did you notice a step increase of the flow rate, or has it just been a gradually increasing thing over the last hour or so?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0671306"
+    },
+    {
+      "tokens": [
+        "It's been a gradual increase; however, just - We've been watching the data after you told us you closed the Waste Management Overboard Drain, and we're seeing it drop down.",
+        "That may be the culprit right there.",
+        "Can you verify the configuration that you were in?",
+        "Did you have the cap on the Myrtle; was that closed?",
+        "And was the Waste Management Overboard Drain open?",
+        "Prior to our waking you up?",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0671316"
+    },
+    {
+      "tokens": [
+        "Well, the Waste Management Drain [Garble]."
+      ],
+      "speaker": "Mitchell",
+      "time": "0671346"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control Houston, we will standby while we're having a switching of antennas."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0671533"
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0671540"
+    },
+    {
+      "tokens": [
+        "Houston, 14.",
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0671547"
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "We missed your answer to my question completely during the Omni switchover there.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0671549"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Your last question about the configuration of the waste management drain to the Myrtle?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0671559"
+    },
+    {
+      "tokens": [
+        "That's affirmative; that question."
+      ],
+      "speaker": "Fullerton",
+      "time": "0671604"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I guess - the Myrtle - the waste management system had been in use several times for the last hour, and if you saw changes probably fluctuating up and down, it was undoubtedly due to that system."
+      ],
+      "speaker": "Mitchell",
+      "time": "0671610"
+    },
+    {
+      "tokens": [
+        "I see.",
+        "You've used it several times?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0671627"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Mitchell",
+      "time": "0671634"
+    },
+    {
+      "tokens": [
+        "That's - I mean - that's since - since you signed out for the night, is that right?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0671637"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Mitchell",
+      "time": "0671643"
+    },
+    {
+      "tokens": [
+        "Right."
+      ],
+      "speaker": "Fullerton",
+      "time": "0671644"
+    },
+    {
+      "tokens": [
+        "Right now the drain is closed, and it had been closed, reopened, and closed, at least twice since we signed off for the night."
+      ],
+      "speaker": "Mitchell",
+      "time": "0671645"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0671658"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston."
+      ],
+      "speaker": "Fullerton",
+      "time": "0672021"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0672026"
+    },
+    {
+      "tokens": [
+        "The O2flow has - dropped back down now.",
+        "It's not come down; it - it still appears that the main Regs may be flowing a little bit.",
+        "What we suggest is that you use the Direct O2to pump the cabin back up to 5.7, and then go on back to sleep and we'll try not to bother you.",
+        "ThePTClooks like it should hold okay through the sleep period.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0672028"
+    },
+    {
+      "tokens": [
+        "Okay, Gordon.",
+        "That's fine."
+      ],
+      "speaker": "Mitchell",
+      "time": "0672106"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control Houston.",
+        "67 hours 21 minutesGETtime.",
+        "You heard that last conversation between CapCom Gordon Fullerton and Lunar Module Pilot Ed Mitchell.",
+        "It would appear that the use of the waste management system may have been the culprit in this case.",
+        "We now show Apollo 14 at 32,766 nautical miles [60,683 km] away from the Moon and traveling at a speed of 3,309 feet per second [1,009 m/s].",
+        "That speed relative to the Moon.",
+        "This is Apollo Control Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, this is Al."
+      ],
+      "speaker": "Shepard",
+      "time": "0672534"
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Fullerton",
+      "time": "0672540"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "This is Al."
+      ],
+      "speaker": "Shepard",
+      "time": "0672551"
+    },
+    {
+      "tokens": [
+        "Roger, Al.",
+        "We read you weak.",
+        "Go ahead.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0672554"
+    },
+    {
+      "tokens": [
+        "Houston, 14."
+      ],
+      "speaker": "Mitchell",
+      "time": "0672615"
+    },
+    {
+      "tokens": [
+        "Ed, this is Houston.",
+        "Go ahead.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0672618"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "Apollo 14."
+      ],
+      "speaker": "Mitchell",
+      "time": "0672636"
+    },
+    {
+      "tokens": [
+        "Apollo 14, Houston.",
+        "Loud and clear now.",
+        "Go ahead.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0672638"
+    },
+    {
+      "tokens": [
+        "Apollo 14."
+      ],
+      "speaker": "Fullerton",
+      "time": "0672707"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 14.",
+        "Do you read?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0672708"
+    },
+    {
+      "tokens": [
+        "Roger, Apollo 14.",
+        "This is Houston.",
+        "You're loud and clear.",
+        "Go ahead."
+      ],
+      "speaker": "Fullerton",
+      "time": "0672709"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Two items.",
+        "First of all, Al's got a sensor replaced.",
+        "He wanted the medics to take a look at it, and pump the cabin up, shut off the Direct O2, and that flow is down to 2/10ths now."
+      ],
+      "speaker": "Mitchell",
+      "time": "0672716"
+    },
+    {
+      "tokens": [
+        "14, Houston; we're going to have to wait until we rotate around to an - an antenna angle that we can get High Bit Rate before we can check that sensor, but we'll give you a call in a minute or two when we're ready."
+      ],
+      "speaker": "Fullerton",
+      "time": "0672748"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0672803"
+    },
+    {
+      "tokens": [
+        "14, Houston.CDR's biomed data looks very good, according to Dr.",
+        "Berry himself."
+      ],
+      "speaker": "Fullerton",
+      "time": "0672852"
+    },
+    {
+      "tokens": [
+        "Dr.",
+        "Charles \"Chuck\" Berry was the Medical Director and had the overall responsibility for crew health.",
+        "An omnipresent figure since the selection of the first Mercury astronauts, he was known to everyone.",
+        "Gordon's comment implies that Dr.",
+        "Berry is present in Mission Control and overseeing the incoming electrocardiogram display.",
+        "Normally the SURGEON console was manned around the clock by one of the doctors assignnd to the mission - in the case of Apollo 14, Drs.",
+        "Hawkins, Ziegelschmid and Baird."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I just changed the paste in the sensor and put a new sticky washer on the electrode [Garbled.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0672903"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "They're - they're willing to sign you up for a permanent job at doing that, if you'd like to after the flight."
+      ],
+      "speaker": "Fullerton",
+      "time": "0672914"
+    },
+    {
+      "tokens": [
+        "Well, we'll discuss it.",
+        "[Long pause]"
+      ],
+      "speaker": "Mitchell",
+      "time": "0672926"
+    },
+    {
+      "tokens": [
+        "Houston, 14.",
+        "If you're satisfied then, I'll return my comm configuration to the sleep configuration."
+      ],
+      "speaker": "Shepard",
+      "time": "0672941"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let me make one quick check here.",
+        "[Long pause]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0672947"
+    },
+    {
+      "tokens": [
+        "Well, I guess that's all we've got.",
+        "We'll say good night once again."
+      ],
+      "speaker": "Fullerton",
+      "time": "0673001"
+    },
+    {
+      "tokens": [
+        "Thank you, Gordon."
+      ],
+      "speaker": "Mitchell",
+      "time": "0673008"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "67 hours, 30 minutes Ground Elapsed Time.",
+        "This is Apollo Control, Houston.",
+        "We show Apollo 14 at 32,470 nautical miles [60,134 km] away from the Moon and now traveling at a speed of 3,311 feet per second [1,009 m/s] relative to the Moon."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-066"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston, at 68 hours 04 minutes into the flight - Ground Elapsed Time.",
+        "We presently show Apollo 14 at a distance of 31,392 nautical miles [58,138 km] away from the Moon and traveling at a speed of 3321 feet per second [1,012 m/s] relative to the Moon.",
+        "We've had no further conversation with the crew of Apollo 14 since they were awakened by CapCom Gordon Fullerton to check a high O2flow rate.",
+        "Presumably the crew, if not yet sleeping, shortly will be.",
+        "We're at 68 hours, 05 minutes into the flight and this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "At 68 hours, 33 minutes now into the flight of Apollo 14.",
+        "We presently show Apollo 14 at a distance of 30,431 nautical miles [56,358 km] away from the Moon, now traveling at a velocity of 3,329 feet per second [1,015 m/s].",
+        "We've had no communications with the crew.",
+        "Since our last report, the crew now in its rest period - they are in their rest period.",
+        "Meanwhile, activity in Mission Control has been conversations over the flight directors loop have been quite subdued.",
+        "It's been mainly a scene where flight controllers are studying their displays, they are considering the activities that will lie ahead on the next shift.",
+        "A test of one of the lunar modular batteries by spacecraft Commander, Al Shepard, and Ed Mitchell is being considered either at the time ofLMactivation or before.",
+        "Ascent battery number 5 has shown a reading of 3 tenths of a volt low on the open circuit voltage.",
+        "If the test is run, it would involve putting theLMbattery number 5, the one under question, on one of the busses for an independent or second reading off another transducer and provide a second data point.",
+        "The present reading is taken from the battery transducer without any load.",
+        "If the second reading indicates a shift in signal conditioner then it would indicate faulty instrumentation rather than a fault of the battery itself.",
+        "We will stand by and continue to monitor this possibility and provide updates as they become available.",
+        "We're at 68 hours, 35 minutes Ground Elapsed Time and this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston, at 69 hours and 09 minutes now into the flight of Apollo 14.",
+        "We presently show Apollo 14 at a distance of 29,256 nautical miles [54,182 km] away from the Moon traveling at a velocity of 3,340 feet per second [1,018 m/s].",
+        "We've had no communication with the crew of Apollo 14 since our last report.",
+        "Our clock at Mission Control shows a projected wake-up time of 5 hours and 50 minutes from this time.",
+        "At this time, we will take down the release line and bring it back should we have contact with the crew, which is not presently anticipated.",
+        "At 69 hours, 10 minutes Ground Elapsed Time, this is Apollo Control, Houston.",
+        "elapsed time, this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    }
+  ],
+  "source_file": "day3_part2_tv_and_lm_housekeeping.html"
+}

@@ -1,0 +1,3508 @@
+{
+  "description": "Apollo 7 Flight Journal - Day 1, part 3: S-IVB Takeover Demonstration, Separation, and First Phasing Maneuver",
+  "transcript": [
+    {
+      "tokens": [
+        "The ORDEAL box is an add-on to the spacecraft's guidance system that turns the 8-ball display into a sort of artificial horizon.",
+        "The designers of the G&N system intended it to be entirely referenced from an inertial standpoint.",
+        "The crew fought for a capability to see their attitude with respect to the ground below and the ORDEAL was the result.",
+        "Its operation is quite simple.",
+        "It provides a drive signal to make the 8-ball rotate in pitch at a rate which matches their orbit (orbital rate or orb-rate), whether that be around Earth or the Moon.",
+        "Therefore the name ORDEAL - Orbital Rate Display Earth And Lunar."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It's a happy crew and the toilet jokes are flowing.",
+        "Guenter Wendt is the 'pad leader', employed to supervise the crew's entry into the spacecraft at the white room.",
+        "Apollo crews were fond of him and appreciated his deep professionalism at the launch pad prior to lift-off."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control Houston at 1 hour, 21 minutes into the flight.",
+        "We've just had a little thrill here in the Apollo Control Center in Building 30 in Houston.",
+        "We had a rather complete power outage in the building, the first one I can recall in the history of this particular control center.",
+        "We didn't lose all power, of course.",
+        "Certain critical elements like the computers continued to run on emergency power lines, and emergency power circuits left certain lights, exit lights and that sort of thing lighted in the halls.",
+        "But all of our consoles went dead, lost power.",
+        "Our lights were out here in the control center except for certain emergency red lights.",
+        "I would clock the outage as occurring about 20 minutes after the hour and lasting perhaps 60 to 90 seconds, about a minute - minute and a half duration.",
+        "We have verified that all the computers, the critical computers running on line with this mission, continue to run.",
+        "They are located on the first floor of this building.",
+        "We were not in contact, of course, with the spacecraft at the time, and had we been, we would have continued to be able to go out of the building.",
+        "All of our comm circuits continued to work, we were simply without lights, and we didn't know, in other words these comm circuits are set up in such a way that we know whether we are radiating by a flashing white light or we are monitoring when we simply have a steady yellow light.",
+        "On each console you have such an array of buttons to various back rooms and to points outside of this building, to the Cape, to other places.",
+        "We lost power on all those kinds of circuits, we lost all of our video capability to monitor the various slides and we do not yet have an explanation of just how or why this occurred.",
+        "But at 1 hour and 23 minutes into the mission we are back up in good shape with full power.",
+        "This is Apollo Control in Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "001:24:23 Huntsville Comm Tech:Huntsville AOS [Acquisition Of Signal]."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston."
+      ],
+      "speaker": "Stafford",
+      "time": "001:24:29"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 7.",
+        "Go ahead.",
+        "[Pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "001:24:34"
+    },
+    {
+      "tokens": [
+        "001:24:4l Stafford:Apollo 7, this is Houston through the Huntsville.",
+        "How do you read?"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 7.",
+        "Loud and clear.",
+        "How me?",
+        "[Long pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "001:24:43"
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston.",
+        "How do you read?"
+      ],
+      "speaker": "Stafford",
+      "time": "001:25:08"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 7.",
+        "Loud and clear.",
+        "How me?",
+        "[Pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "001:25:11"
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston.",
+        "How do you read?"
+      ],
+      "speaker": "Stafford",
+      "time": "001:25:21"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 1 hour, 25 minutes into the flight.",
+        "Capsule Communicator Tom Stafford is putting in a call to the communicator on the ship Huntsville halfway between Hawaii and California.",
+        "Let's cut in on that conversation now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 7.",
+        "Read you loud and clear.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cunningham",
+      "time": "001:25:24"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Are we transmitting simultaneously and receiving VHF?"
+      ],
+      "speaker": "Stafford",
+      "time": "001:25:25"
+    },
+    {
+      "tokens": [
+        "001:25:30 Huntsville Comm Tech:Affirmative."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Are you going to contact - have you heard Apollo 7?"
+      ],
+      "speaker": "Stafford",
+      "time": "001:25:32"
+    },
+    {
+      "tokens": [
+        "001:26:29 StaffordApollo 7, Houston.",
+        "[Pause.]"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "001:26:34 StaffordApollo 7, Houston."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 7.",
+        "How do you read?"
+      ],
+      "speaker": "Schirra",
+      "time": "001:26:37"
+    },
+    {
+      "tokens": [
+        "[Garble] Houston, coming [garble]."
+      ],
+      "speaker": "Stafford",
+      "time": "001:26:40"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 7.",
+        "I read you loud and clear."
+      ],
+      "speaker": "Schirra",
+      "time": "001:26:45"
+    },
+    {
+      "tokens": [
+        "001:26:47 Huntsville Comm Tech:Houston, Comm Tech Huntsville."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Go ahead Huntsville."
+      ],
+      "speaker": "Stafford",
+      "time": "001:27:00"
+    },
+    {
+      "tokens": [
+        "001:26:52 Huntsville Comm Tech:Apollo 7 copied you loud and clear.",
+        "Apollo 7 copied you loud and clear.",
+        "Go ahead, and we'll relay."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Lockup S-band."
+      ],
+      "speaker": "Schirra",
+      "time": "001:26:58"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Apollo 7, this is Houston CapCom.",
+        "Understand you are reading.",
+        "Go ahead and relay through the Huntsvilie the S-IVB tank pressures; and again just to remind you, call program 47 prior to the LOX dump."
+      ],
+      "speaker": "Stafford",
+      "time": "001:27:00"
+    },
+    {
+      "tokens": [
+        "Wilco.",
+        "Huntsville, Apollo 7.",
+        "Tank pressures, I'll give you present readings: 24 on A, 24 on B for oxidizers; fuel is 13 on A, and 13 on B.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "001:27:11"
+    },
+    {
+      "tokens": [
+        "Huntsville M and O, Houston, CapCom."
+      ],
+      "speaker": "Stafford",
+      "time": "001:27:15"
+    },
+    {
+      "tokens": [
+        "001:27:17 Huntsville Comm Tech:Go ahead, Huntsville M and O."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Did Apollo 7 get the message?"
+      ],
+      "speaker": "Stafford",
+      "time": "001:27:21"
+    },
+    {
+      "tokens": [
+        "001:27:25 Huntsville Comm Tech:Negative.",
+        "We can only copy him when we are S-band locked.",
+        "We are presently experiencing trouble with locking two way VHF Band."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, you can't read any VHF?"
+      ],
+      "speaker": "Stafford",
+      "time": "001:27:31"
+    },
+    {
+      "tokens": [
+        "001:27:34 Huntsville Comm Tech:Negative at this time."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "001:27:52 Huntsville Comm Tech:We can only copy if - when we are in S-band lock.",
+        "Still having trouble [garble]."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Huntsville, do you read Apollo 7...?"
+      ],
+      "speaker": "Schirra",
+      "time": "001:28:01"
+    },
+    {
+      "tokens": [
+        "Huntsville, do you read Apollo 7 now?",
+        "[Long pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "001:28:05"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 7.",
+        "Do you read?"
+      ],
+      "speaker": "Cunningham",
+      "time": "001:28:20"
+    },
+    {
+      "tokens": [
+        "Roger, Apollo 7.",
+        "Reading you loud and clear.",
+        "How us?"
+      ],
+      "speaker": "Stafford",
+      "time": "001:28:22"
+    },
+    {
+      "tokens": [
+        "Okay, the readings are - 24, 24, 13, 13."
+      ],
+      "speaker": "Schirra",
+      "time": "001:28:24"
+    },
+    {
+      "tokens": [
+        "Roger, 24 and 13, Wally.",
+        "Now reading you loud and clear."
+      ],
+      "speaker": "Stafford",
+      "time": "001:28:30"
+    },
+    {
+      "tokens": [
+        "That's affirm on both A and B, and I have it logged."
+      ],
+      "speaker": "Schirra",
+      "time": "001:28:32"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "001:28:37"
+    },
+    {
+      "tokens": [
+        "You're breaking up [garble]."
+      ],
+      "speaker": "Schirra",
+      "time": "001:28:38"
+    },
+    {
+      "tokens": [
+        "001:28:41 StaffordRoger, did you get me transmitting in the blind over the Huntsville, Wally?"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "I don't think so.",
+        "What was that Tom?"
+      ],
+      "speaker": "Schirra",
+      "time": "001:28:45"
+    },
+    {
+      "tokens": [
+        "Well, I just - to read the tank pressures and to call program 47 prior to the LOX dump."
+      ],
+      "speaker": "Stafford",
+      "time": "001:28:48"
+    },
+    {
+      "tokens": [
+        "Roger, we have that data.",
+        "I have tank pressures logged for 01 plus 06 plus 15, 01 plus l4 plus 50, if you're ready to copy.",
+        "(Laughter)"
+      ],
+      "speaker": "Schirra",
+      "time": "001:28:54"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "001:29:06"
+    },
+    {
+      "tokens": [
+        "Okay, that's 23, 23, 8, and 8; that's 01 plus 06.",
+        "01 plus 14 plus 50 is 23, 23, 10, 10.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "001:29:07"
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston.",
+        "You faded out completely.",
+        "We'll contact you over California in a couple of seconds."
+      ],
+      "speaker": "Stafford",
+      "time": "001:29:33"
+    },
+    {
+      "tokens": [
+        "Roger, data is logged."
+      ],
+      "speaker": "Schirra",
+      "time": "001:29:39"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 1 hour, 31 minutes into the flight.",
+        "We should establish contact through Guaymas momentarily.",
+        "To recap a bit on that power outage that we experienced about 10 minutes ago, I clocked it at 20 minutes after the hour, the duration was something on the order of 1 to 2 minutes, and initially it was a rather complete power outage.",
+        "We still had communications on the circuits, but we did not have the light showing us on which circuits we had communications.",
+        "We were not in touch with the spacecraft at the time, and the computers, the critical computers, the on-line computers continued to run through a separate and a secure emergency power source.",
+        "Since that time, for about the past 5 minutes, we have been without our TV data displays until such time as additional power could be brought over on that circuit.",
+        "Now we have the spacecraft in touch, and let's listen to Tom Stafford and Wally Schirra discuss the situation."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston."
+      ],
+      "speaker": "Stafford",
+      "time": "001:32:35"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "Just coming over Baja California."
+      ],
+      "speaker": "Schirra",
+      "time": "001:32:37"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Everything looks good on the IVB back there, and you're Go for the dump."
+      ],
+      "speaker": "Stafford",
+      "time": "001:32:40"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Schirra",
+      "time": "001:32:45"
+    },
+    {
+      "tokens": [
+        "And also for the data, they plan to dump the DSE over MILA, and we'll have a real fast evaluation on the voyage."
+      ],
+      "speaker": "Stafford",
+      "time": "001:32:47"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Looks like Guaymas is working pretty hard down there; we can see it.",
+        "Tell me when you get that data on the S-IVB now.",
+        "[Pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "001:32:55"
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston."
+      ],
+      "speaker": "Stafford",
+      "time": "001:33:07"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Schirra",
+      "time": "001:33:03"
+    },
+    {
+      "tokens": [
+        "You might tell Walt, what they did is they rewound the tape recorder over Canary, and if he has any additional voice that he wants to place on, he can place it on there now.",
+        "They'll dump it again over MILA."
+      ],
+      "speaker": "Stafford",
+      "time": "001:33:10"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you."
+      ],
+      "speaker": "Schirra",
+      "time": "001:33:26"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "They didn't get your remarks on boost because they rewound it over Canary, Walt, per the Flight Plan.",
+        "[Pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "001:33:27"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, all meter readouts were normal, and I did list then individually on the insertion text, and it's on the tape, and that's about the best we can do."
+      ],
+      "speaker": "Cunningham",
+      "time": "001:33:40"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And we're standing by for the dump shortly."
+      ],
+      "speaker": "Stafford",
+      "time": "001:33:57"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Schirra",
+      "time": "001:34:01"
+    },
+    {
+      "tokens": [
+        "It's a fantastic world up here.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "001:34:10"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; at 1 hour, 34 minutes into the flight.",
+        "Apparently there is some discrepancy in our earlier report on the power outage.",
+        "I want to absolutely emphasize that there was no affect at all on the computers in Building 30.",
+        "I repeat.",
+        "No affect.",
+        "They have an emergency power source which cut in and handled that load just perfectly.",
+        "We did lose light in the building in the halls, and we lost lights on our console.",
+        "We continued to have communications, however; we continued to have phone service.",
+        "For a period of about 1 to 2 minutes we were without most of the lights in the building, and we were able to see through an emergency over head system a faint red light which illuminates regardless of - in case of complete power outage.",
+        "But again I want to emphasize there was no power outage at all on the computers tracking this mission.",
+        "We'll go back now and listen to the events as we move across the States."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston.",
+        "We're reading your DSKY; looks like you're getting some Delta-V."
+      ],
+      "speaker": "Stafford",
+      "time": "001:35:02"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Schirra",
+      "time": "001:35:06"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston.",
+        "The dump appears to be proceeding normally."
+      ],
+      "speaker": "Stafford",
+      "time": "001:38:54"
+    },
+    {
+      "tokens": [
+        "Good."
+      ],
+      "speaker": "Schirra",
+      "time": "001:38:58"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control Houston with the spacecraft just east of New Orleans and proceeding toward Elean Pass, it will take it almost directly over Savannah, Georgia.",
+        "We are 1 hour, 40 minutes into the flight and we have completed at least the initial part of the oxygen dump, and we have now opened the liquid hydrogen vent valves.",
+        "They will shortly be closed at the completion of that exercise.",
+        "The liquid hydrogen valve is to be closed in 1 hour, 45 minutes into the flight, just east of Florida.",
+        "About a minute later, we'll stop the - stop dumping the residual LOX.",
+        "Earlier, the booster console operator told me there should be a - on the order of 1 percent residual liquid oxygen in the S-IVB, which remains attached, of course, to the spacecraft; and 1 percent with in terms of weight would be 1,000 to 1,500 lbs [450 to 680 kg].",
+        "Very little conversation from the crew as they came across the States in this pass, but we did get a good look at the systems.",
+        "We got a cabin that stabilized at about 5.3 psi.",
+        "We know the temperature is running a steady 66 degrees [19°C] inside.",
+        "Earlier, by the Australia stations, Schirra reported that they're having a ball and he was enthusiastic over the fact that the windows have not clouded at all, this was a recurring problem in Gemini.",
+        "He also commented as they moved across Australia, what an advantage it was to watch the booster operation through the center hatch window, one of five windows available.",
+        "We are now starting our helium dump from the S-IVB, and again no conversation at all on this eastern portion of the State swing.",
+        "Here is a call."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston.",
+        "Cold helium dump is initiated."
+      ],
+      "speaker": "Stafford",
+      "time": "001:42:52"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "001:42:58"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 7.",
+        "I have a PPO2for you.",
+        "I'm reading 165."
+      ],
+      "speaker": "Schirra",
+      "time": "001:43:48"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "A PPO2at 165."
+      ],
+      "speaker": "Stafford",
+      "time": "001:43:54"
+    },
+    {
+      "tokens": [
+        "There is a meter on Panel 2 of the Main Display Console which indicates the partial pressure of CO2rather than O2in the cabin atmosphere.",
+        "This is likely to be wh Wally is refering to."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "001:43:58"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 7.",
+        "Our cabin press now is being - very rapidly it seems to me, we're down to about 5.5."
+      ],
+      "speaker": "Cunningham",
+      "time": "001:44:15"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "5.5 on the cabin."
+      ],
+      "speaker": "Stafford",
+      "time": "001:44:25"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 7.",
+        "[Pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "001:47:43"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 7.",
+        "[Pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "001:47:49"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 7."
+      ],
+      "speaker": "Schirra",
+      "time": "001:47:56"
+    },
+    {
+      "tokens": [
+        "Apollo 7, go."
+      ],
+      "speaker": "Stafford",
+      "time": "001:47:59"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Could you verify that the S-IVB passivisation is complete?"
+      ],
+      "speaker": "Schirra",
+      "time": "001:48:01"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by, Wally."
+      ],
+      "speaker": "Stafford",
+      "time": "001:48:05"
+    },
+    {
+      "tokens": [
+        "I can stop program 47."
+      ],
+      "speaker": "Schirra",
+      "time": "001:48:08"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "The passivation is complete, and you can terminate 47."
+      ],
+      "speaker": "Stafford",
+      "time": "001:48:12"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You have our readout on the DSKY?"
+      ],
+      "speaker": "Schirra",
+      "time": "001:48:18"
+    },
+    {
+      "tokens": [
+        "We got it."
+      ],
+      "speaker": "Stafford",
+      "time": "001:48:21"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We won't bother logging it.",
+        "We're waiting for an update on Nav stars for program 52."
+      ],
+      "speaker": "Schirra",
+      "time": "001:48:23"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "001:48:30"
+    },
+    {
+      "tokens": [
+        "We're working on it right now."
+      ],
+      "speaker": "Stafford",
+      "time": "001:48:32"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston through Canary."
+      ],
+      "speaker": "Swigert",
+      "time": "001:52:18"
+    },
+    {
+      "tokens": [
+        "Roger, Jack, loud and clear."
+      ],
+      "speaker": "Schirra",
+      "time": "001:52:21"
+    },
+    {
+      "tokens": [
+        "Your stars for your P52 are stars number 2 and stars number 4."
+      ],
+      "speaker": "Swigert",
+      "time": "001:52:23"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Number 2 and 4.",
+        "Thank you.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "001:52:34"
+    },
+    {
+      "tokens": [
+        "One of the crew, likely Donn as it is normally the CMP's role, is about to carry out a realignment of the spacecraft's guidance platform.",
+        "Two stars are accurately sighted upon, yielding their direction.",
+        "The computer can use this information to check how far the platform has drifted out of alignment with the celestial sphere and to bring it back onto perfect alignment."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Here are the numbers; we have trouble pronouncing words ourselves."
+      ],
+      "speaker": "Schirra",
+      "time": "001:52:57"
+    },
+    {
+      "tokens": [
+        "Say again."
+      ],
+      "speaker": "Swigert",
+      "time": "001:53:01"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Here are the numbers; we have trouble pronouncing the words ourselves."
+      ],
+      "speaker": "Schirra",
+      "time": "001:53:03"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "001:53:08"
+    },
+    {
+      "tokens": [
+        "We are preparing to jettison the optics covers shortly."
+      ],
+      "speaker": "Schirra",
+      "time": "001:53:27"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "001:53:30"
+    },
+    {
+      "tokens": [
+        "Jack, for the record our Delta-V counter is at 33 feet per second."
+      ],
+      "speaker": "Schirra",
+      "time": "001:53:57"
+    },
+    {
+      "tokens": [
+        "Okay, we got it all in the - that was the Delta-V counter?"
+      ],
+      "speaker": "Swigert",
+      "time": "001:54:01"
+    },
+    {
+      "tokens": [
+        "Affirmative."
+      ],
+      "speaker": "Schirra",
+      "time": "001:54:07"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "001:54:08"
+    },
+    {
+      "tokens": [
+        "We do a Reset now?"
+      ],
+      "speaker": "Schirra",
+      "time": "001:54:10"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "001:54:14"
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston."
+      ],
+      "speaker": "Swigert",
+      "time": "001:54:47"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Schirra",
+      "time": "001:54:50"
+    },
+    {
+      "tokens": [
+        "001:54:52 SwigertMILA reports your DSE voice quality on the dump was very good."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Oh, good deal.",
+        "That really helps."
+      ],
+      "speaker": "Schirra",
+      "time": "001:55:00"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Before he can use the spacecraft's sextant and telescope for the first time, Donn must remove the covers on the outside of the hull that protect their external optical surfaces.",
+        "He does this by moving one of the optics control levers fully right.",
+        "At the same time, he observes the progress of the operation through the telescope eyepiece."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston."
+      ],
+      "speaker": "Swigert",
+      "time": "001:57:01"
+    },
+    {
+      "tokens": [
+        "Go ahead, Jack."
+      ],
+      "speaker": "Schirra",
+      "time": "001:57:04"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You are 1 minute LOS Canary and we've computed a cabin leak rate.",
+        "We find it to be one-half of spec value."
+      ],
+      "speaker": "Swigert",
+      "time": "001:57:05"
+    },
+    {
+      "tokens": [
+        "Very good.",
+        "[Pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "001:57:15"
+    },
+    {
+      "tokens": [
+        "The optic covers are jettisoned and Donn is tracking them."
+      ],
+      "speaker": "Schirra",
+      "time": "001:57:23"
+    },
+    {
+      "tokens": [
+        "001:57:28 SwigertRoger, real good.",
+        "[Long pause.]"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Donn is getting a taste of an issue that would visit every CMP.",
+        "Unless the spacecraft is in a planet's shadow, any object in the field of view of the optics interferes with the CMP's ability to see the stars.",
+        "If the item is large like these optics covers, it dazzles him; if it is small, it confuses him with its star-like appearance.",
+        "Unfortunately, when travelling between Earth and the Moon, the spacecraft tends not to be in shadow.",
+        "Also, it is regularly emitting substances like water and urine which form ice crystals, and dust particles tend to be shed every time the optics are rotated."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Jack, the SPS propellant tank temperature has held pretty much right around 70, ever since lift-off.",
+        "I never did get a feedback on what kind of a duty cycle they expect on those heaters - I haven't turned them On, but for the last couple of hours they are getting by with no heat at all."
+      ],
+      "speaker": "Cunningham",
+      "time": "001:58:10"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Apollo 7, Houston.",
+        "I couldn't copy that, Walt; you're down very low."
+      ],
+      "speaker": "Swigert",
+      "time": "001:58:32"
+    },
+    {
+      "tokens": [
+        "Did you set the cut-off [garble]."
+      ],
+      "speaker": "Schirra",
+      "time": "001:59:00"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Unknown",
+      "time": "001:59:02"
+    },
+    {
+      "tokens": [
+        "I didn't copy it, either.",
+        "The SPS tank temps, I think.",
+        "Isn't that what you got?",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "001:59:03"
+    },
+    {
+      "tokens": [
+        "I thought it was the SPS tank temps.",
+        "Didn't you?"
+      ],
+      "speaker": "Unknown",
+      "time": "001:59:25"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "002:12:12 StaffordApollo 7, this is Houston through Tananarive.",
+        "How do you read?"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Loud and clear, Tom."
+      ],
+      "speaker": "Schirra",
+      "time": "002:12:17"
+    },
+    {
+      "tokens": [
+        "Roger, we're getting a lot of background noise on the HF coming in [garble] here, but you're coming in loud and clear."
+      ],
+      "speaker": "Stafford",
+      "time": "002:12:19"
+    },
+    {
+      "tokens": [
+        "Roger, you're putting through a lot of echo, and you are just readable.",
+        "We just ran through the Orion constellation, and it was very pretty."
+      ],
+      "speaker": "Schirra",
+      "time": "002:12:26"
+    },
+    {
+      "tokens": [
+        "Roger, how do the stars look through both the telescope and sextant compared to the simulator?"
+      ],
+      "speaker": "Stafford",
+      "time": "002:12:36"
+    },
+    {
+      "tokens": [
+        "A little bit better..."
+      ],
+      "speaker": "Schirra",
+      "time": "002:12:43"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "002:12:47"
+    },
+    {
+      "tokens": [
+        "...The Orion constellation was not [garble]."
+      ],
+      "speaker": "Schirra",
+      "time": "002:12:47"
+    },
+    {
+      "tokens": [
+        "Real good.",
+        "Okay, we're going to give you a time hack at 40 minutes to go until separation in about 2 minutes."
+      ],
+      "speaker": "Stafford",
+      "time": "002:12:55"
+    },
+    {
+      "tokens": [
+        "Roger, I'll reset my dial."
+      ],
+      "speaker": "Schirra",
+      "time": "002:13:04"
+    },
+    {
+      "tokens": [
+        "And we have a GET for the pitchdown maneuver and the inertial maneuver.",
+        "Do you want to copy it?"
+      ],
+      "speaker": "Stafford",
+      "time": "002:13:07"
+    },
+    {
+      "tokens": [
+        "Roger, Tom, ready to copy.",
+        "Go ahead."
+      ],
+      "speaker": "Schirra",
+      "time": "002:13:14"
+    },
+    {
+      "tokens": [
+        "002:13:25 StaffordOkay, GET of pitchdown is 02 plus 42 plus 55; GET of inertial attitude, 02 plus 51 plus 10."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, pitchdown at 02 plus 42 plus 55, and inertial at 02 plus 51 plus 10.",
+        "And [garble] the Sep."
+      ],
+      "speaker": "Schirra",
+      "time": "002:13:40"
+    },
+    {
+      "tokens": [
+        "We are going to give a 40-minute hack counting down, so you can set your watch."
+      ],
+      "speaker": "Stafford",
+      "time": "002:13:53"
+    },
+    {
+      "tokens": [
+        "Okay, I'm all set here, Tom."
+      ],
+      "speaker": "Schirra",
+      "time": "002:13:59"
+    },
+    {
+      "tokens": [
+        "002:14:00 StaffordAlright.",
+        "[Long pause.]"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "30 seconds to go."
+      ],
+      "speaker": "Stafford",
+      "time": "002:14:30"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "002:14:33"
+    },
+    {
+      "tokens": [
+        "5, 4, 3, 2, 1."
+      ],
+      "speaker": "Stafford",
+      "time": "002:14:55"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Stafford",
+      "time": "002:15:00"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control Houston, 2 hours, 15 minutes into the flight.",
+        "We have established contact with the crew via the Tananarive station and here's how the conversation is going."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Forty minutes, counting down for Sep."
+      ],
+      "speaker": "Stafford",
+      "time": "002:15:01"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Over here."
+      ],
+      "speaker": "Schirra",
+      "time": "002:15:03"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "002:15:04"
+    },
+    {
+      "tokens": [
+        "We have our gyro-torquing angles if you'd like to copy."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:15:09"
+    },
+    {
+      "tokens": [
+        "002:15:l4 Stafford:Go ahead."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, DSKY readout follows: this is Verb 06, Noun 93, minus 00012, plus 00023, plus 00186.",
+        "Star difference angle was 00002.",
+        "[Pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "002:15:21"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "002:15:42"
+    },
+    {
+      "tokens": [
+        "We had a terrible time [garble]."
+      ],
+      "speaker": "Schirra",
+      "time": "002:15:45"
+    },
+    {
+      "tokens": [
+        "[Garble] In fact, I'm going to get [garble]."
+      ],
+      "speaker": "Schirra",
+      "time": "002:15:47"
+    },
+    {
+      "tokens": [
+        "[Garble].",
+        "Okay, that's one more time hack."
+      ],
+      "speaker": "Schirra",
+      "time": "002:16:06"
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston.",
+        "What was your star angle difference?",
+        "That's the only one we were questioning."
+      ],
+      "speaker": "Stafford",
+      "time": "002:16:09"
+    },
+    {
+      "tokens": [
+        "Four balls 2."
+      ],
+      "speaker": "Schirra",
+      "time": "002:16:13"
+    },
+    {
+      "tokens": [
+        "002:16:16 StaffordNot bad."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "As part of the procedure for sighting on two stars for the realignment, the computer throws a number called the star angle difference.",
+        "The computer knows the angle between the two stars selected for the realignment.",
+        "It also knows the angle between the two sightings just made by the CMP.",
+        "If the sightings have been made perfectly, the difference between these two angles should be zero.",
+        "In this case there was a difference of two hundredths of a degree.",
+        "This value was a crude measure of the CMP's accuracy and therefore became a point of pride for many of these competitive ex test pilots."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We're going to go on to another..."
+      ],
+      "speaker": "Schirra",
+      "time": "002:16:17"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "002:16:22"
+    },
+    {
+      "tokens": [
+        "Hey, we've got a real nice, clean cabin here, very few little particles floating around."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:16:28"
+    },
+    {
+      "tokens": [
+        "Sounds good."
+      ],
+      "speaker": "Stafford",
+      "time": "002:16:34"
+    },
+    {
+      "tokens": [
+        "There are a few very small particles, one looks like [garble]."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:16:35"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "002:16:47"
+    },
+    {
+      "tokens": [
+        "(Laughter) [Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "002:16:53"
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston.",
+        "You're one minute to LOS Tananarive.",
+        "We'll pick you up at Carnarvon in about 8 minutes."
+      ],
+      "speaker": "Stafford",
+      "time": "002:18:44"
+    },
+    {
+      "tokens": [
+        "Roger, Tom.",
+        "Navigating at four balls 1 on the second test."
+      ],
+      "speaker": "Schirra",
+      "time": "002:18:50"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "002:18:55"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Sounds good."
+      ],
+      "speaker": "Stafford",
+      "time": "002:19:08"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Donn has carried out the realignment procedure a second time and has achieved a star angle difference of only one hundredth of a degree."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "We have Loss Of Signal by Tananarive.",
+        "The spacecraft moving across the Indian Ocean.",
+        "During the pass across Australia, Carnarvon should acquire about 10 minutes - about 8 minutes from now; 2 hours, 28 minutes into the flight.",
+        "We will be set up to decide on whether we will proceed with the crew takeover, the crew flying of the S-IVB.",
+        "I understand this configuration we are in right now, we essentially have a spacecraft about 100 feet long.",
+        "Consider the Command Module, the Service Module, the SLA panels and the nearly 60-foot-long second stage S-IVB, still hooked up together and the second stage is to be unhooked and jettisoned at 2 hours, 55 minutes into the flight.",
+        "That would occur after the crew has gone through an exercise whereby they will get the feel of what the control problems are and just how does it feel to fly such a big kluge from the vantage point of the Command Module.",
+        "The - Donn Eisele, the center - the Command Module Pilot, will return to his couch.",
+        "He has been down in the Lower Equipment Bay looking over some of his gear and going through some stowage and unstowing activities.",
+        "He'll return to his couch for these upcoming activities with the S-IVB leading up to the separation.",
+        "When we acquire at Carnarvon, we'll come back to you.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston."
+      ],
+      "speaker": "Swigert",
+      "time": "002:27:16"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Schirra",
+      "time": "002:27:18"
+    },
+    {
+      "tokens": [
+        "002:27:19 SwigertRoger.",
+        "You won't need a state vector update.",
+        "I guess Donn did so good there - and you are Go for your S-IVB takeover."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Schirra",
+      "time": "002:27:35"
+    },
+    {
+      "tokens": [
+        "And Wally, after you get through with the S-IVB control test there, let me know when you arm your Logic and we'll then take a look at it and give you a Go for Pyro Arm."
+      ],
+      "speaker": "Swigert",
+      "time": "002:27:37"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "002:27:51"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 7."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:28:48"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "002:28:50"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 2 hours, 28 minutes into the flight.",
+        "We have established contact with Apollo 7 by Carnarvon, and the crew has been given a Go."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We turned both cabin fans off about an hour ago because the noise is really terrific, and we just put one back on again to circulate some air, out of the noise from both cabin fans is way up there."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:28:51"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We copy."
+      ],
+      "speaker": "Swigert",
+      "time": "002:29:06"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Well, we've got a dead period here.",
+        "We want to clarify.",
+        "Perhaps earlier we had given an indication that the control thrusters during this S-IVB takeover would be thrusters on the Service Module; that's not correct.",
+        "They are the thrusters, the small pitch control thrusters on the second stage, the S-IVB itself.",
+        "The crew will be operating those from the cabin through logic circuits down through the Instrument Unit which is the principal electronic element joining the booster and the spacecraft.",
+        "That event of course is presently programmed for 2 hours and 55 minutes; we are at 2 hours and 30 minutes right now.",
+        "We should get some reports on the attitudes as we move across Australia and we'll just leave the line open."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston."
+      ],
+      "speaker": "Swigert",
+      "time": "002:30:54"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Schirra",
+      "time": "002:31:01"
+    },
+    {
+      "tokens": [
+        "Wait, Wally.",
+        "I'm sorry; we'll wait till you get through with this before we take over here."
+      ],
+      "speaker": "Swigert",
+      "time": "002:31:03"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're right in it."
+      ],
+      "speaker": "Schirra",
+      "time": "002:31:07"
+    },
+    {
+      "tokens": [
+        "I'm sorry.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "002:31:09"
+    },
+    {
+      "tokens": [
+        "The S-IVB is working very well, and we're now pitching up."
+      ],
+      "speaker": "Schirra",
+      "time": "002:32:04"
+    },
+    {
+      "tokens": [
+        "The Apollo 7 crew is controlling the total spacecraft and booster combination at this time through the thrusters on the S-IVB.",
+        "Here is Schirra."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stop."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:32:11"
+    },
+    {
+      "tokens": [
+        "Did you get [garble] the stop?"
+      ],
+      "speaker": "Schirra",
+      "time": "002:32:12"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "Swigert",
+      "time": "002:32:16"
+    },
+    {
+      "tokens": [
+        "Three, two, one."
+      ],
+      "speaker": "Schirra",
+      "time": "002:32:19"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Schirra",
+      "time": "002:32:21"
+    },
+    {
+      "tokens": [
+        "Minus roll [garble]."
+      ],
+      "speaker": "Schirra",
+      "time": "002:32:22"
+    },
+    {
+      "tokens": [
+        "And that's about [garble]."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:32:24"
+    },
+    {
+      "tokens": [
+        "Ninety degrees."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:32:25"
+    },
+    {
+      "tokens": [
+        "Up for 5 degrees."
+      ],
+      "speaker": "Schirra",
+      "time": "002:32:27"
+    },
+    {
+      "tokens": [
+        "Three, two, one."
+      ],
+      "speaker": "Schirra",
+      "time": "002:32:28"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Schirra",
+      "time": "002:32:30"
+    },
+    {
+      "tokens": [
+        "That's right on."
+      ],
+      "speaker": "Schirra",
+      "time": "002:32:32"
+    },
+    {
+      "tokens": [
+        "Next will be thrust roll for 5 degrees.",
+        "Three, two, one."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:32:33"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:32:40"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Coming back in."
+      ],
+      "speaker": "Schirra",
+      "time": "002:32:41"
+    },
+    {
+      "tokens": [
+        "It's standing very well."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:32:45"
+    },
+    {
+      "tokens": [
+        "That's about five-tenths [garble]."
+      ],
+      "speaker": "Schirra",
+      "time": "002:32:47"
+    },
+    {
+      "tokens": [
+        "Three, two, one."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:32:48"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:32:50"
+    },
+    {
+      "tokens": [
+        "Very good."
+      ],
+      "speaker": "Schirra",
+      "time": "002:32:52"
+    },
+    {
+      "tokens": [
+        "Minus yaw for 3 degrees."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:32:54"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Schirra",
+      "time": "002:32:56"
+    },
+    {
+      "tokens": [
+        "Three, two, one."
+      ],
+      "speaker": "Swigert",
+      "time": "002:32:58"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:33:00"
+    },
+    {
+      "tokens": [
+        "Minus yaw, and that's three-tenths."
+      ],
+      "speaker": "Schirra",
+      "time": "002:33:02"
+    },
+    {
+      "tokens": [
+        "Three, two, one."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:33:05"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:33:10"
+    },
+    {
+      "tokens": [
+        "Right on it."
+      ],
+      "speaker": "Schirra",
+      "time": "002:33:11"
+    },
+    {
+      "tokens": [
+        "Touch off at 3 degrees.",
+        "Three, two, one."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:33:12"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:33:20"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Coming on it."
+      ],
+      "speaker": "Schirra",
+      "time": "002:33:21"
+    },
+    {
+      "tokens": [
+        "There's much cross-coupling with this thing."
+      ],
+      "speaker": "Schirra",
+      "time": "002:33:25"
+    },
+    {
+      "tokens": [
+        "Three, two, one."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:33:28"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:33:30"
+    },
+    {
+      "tokens": [
+        "S-IVB test complete."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:33:31"
+    },
+    {
+      "tokens": [
+        "Beautiful."
+      ],
+      "speaker": "Schirra",
+      "time": "002:33:35"
+    },
+    {
+      "tokens": [
+        "Real fine; outstanding.",
+        "You want to hit your logic down so we can look at that?",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "002:33:36"
+    },
+    {
+      "tokens": [
+        "Second logic On.",
+        "Logic On."
+      ],
+      "speaker": "Schirra",
+      "time": "002:33:48"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We copy.",
+        "And after Carnarvon here, which we'll lose you in about 2 minutes, we are going to do some remoting through ARIA to get - complete this DTO."
+      ],
+      "speaker": "Swigert",
+      "time": "002:33:52"
+    },
+    {
+      "tokens": [
+        "Very good.",
+        "Okay.",
+        "S-IVB [garble]."
+      ],
+      "speaker": "Schirra",
+      "time": "002:34:03"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "002:34:12"
+    },
+    {
+      "tokens": [
+        "Interesting sideline: when the [garble]."
+      ],
+      "speaker": "Schirra",
+      "time": "002:34:14"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Apollo 7, you're Go for Pyro Arm."
+      ],
+      "speaker": "Swigert",
+      "time": "002:34:20"
+    },
+    {
+      "tokens": [
+        "There you are."
+      ],
+      "speaker": "Schirra",
+      "time": "002:34:24"
+    },
+    {
+      "tokens": [
+        "On Arm."
+      ],
+      "speaker": "Schirra",
+      "time": "002:34:26"
+    },
+    {
+      "tokens": [
+        "We can see on the night side, the APS thrusting on the S-IVB."
+      ],
+      "speaker": "Schirra",
+      "time": "002:34:29"
+    },
+    {
+      "tokens": [
+        "How so?"
+      ],
+      "speaker": "Swigert",
+      "time": "002:34:34"
+    },
+    {
+      "tokens": [
+        "As a rule, flight's just like Gemini?"
+      ],
+      "speaker": "Swigert",
+      "time": "002:34:36"
+    },
+    {
+      "tokens": [
+        "It's a pretty big blob of light; it's sort of a yellow-orange light."
+      ],
+      "speaker": "Schirra",
+      "time": "002:34:39"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Swigert",
+      "time": "002:34:45"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Pick up again."
+      ],
+      "speaker": "Schirra",
+      "time": "002:34:47"
+    },
+    {
+      "tokens": [
+        "This is Apollo 7.",
+        "When you are dumping some of our tapes, we'll be going live on some of these things to make sure we've got complete coverage."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:34:49"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Swigert",
+      "time": "002:34:55"
+    },
+    {
+      "tokens": [
+        "Direct RCS On."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:34:59"
+    },
+    {
+      "tokens": [
+        "That's On."
+      ],
+      "speaker": "Schirra",
+      "time": "002:35:03"
+    },
+    {
+      "tokens": [
+        "Control SCS.",
+        "BMAG modes all on Rate 2."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:35:06"
+    },
+    {
+      "tokens": [
+        "Rate 2.",
+        "SCS channels."
+      ],
+      "speaker": "Schirra",
+      "time": "002:35:14"
+    },
+    {
+      "tokens": [
+        "Four of them On.",
+        "Manual attitude, three of them at Rate Command."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:35:15"
+    },
+    {
+      "tokens": [
+        "Rate Command on three."
+      ],
+      "speaker": "Schirra",
+      "time": "002:35:25"
+    },
+    {
+      "tokens": [
+        "Tape recorder - Record."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:35:28"
+    },
+    {
+      "tokens": [
+        "That's the [garble] stand by for their on that [garble]."
+      ],
+      "speaker": "Schirra",
+      "time": "002:35:31"
+    },
+    {
+      "tokens": [
+        "TVC servo power, AC 1, main A."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:35:35"
+    },
+    {
+      "tokens": [
+        "Circuit breakers EDS, three of them closed."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:35:42"
+    },
+    {
+      "tokens": [
+        "RCS Logic both closed: verified."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:35:48"
+    },
+    {
+      "tokens": [
+        "EDS power, On."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:35:54"
+    },
+    {
+      "tokens": [
+        "EDS power, On, and light, On."
+      ],
+      "speaker": "Schirra",
+      "time": "002:35:57"
+    },
+    {
+      "tokens": [
+        "Okay, Delta-V counter is zero.",
+        "[Pause.]"
+      ],
+      "speaker": "Cunningham",
+      "time": "002:36:01"
+    },
+    {
+      "tokens": [
+        "ARIA 2, go Remote."
+      ],
+      "speaker": "Swigert",
+      "time": "002:36:10"
+    },
+    {
+      "tokens": [
+        "We called for GET to be reset here.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cunningham",
+      "time": "002:36:15"
+    },
+    {
+      "tokens": [
+        "002:36:31 ARIA Comm Tech:ARIA 2 has two-way lock; ARIA 2 has two-way lock.",
+        "[Pause.]"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 7 through ARIA.",
+        "How do you read?"
+      ],
+      "speaker": "Swigert",
+      "time": "002:36:43"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Read you loud and clear, Jack.",
+        "How me?"
+      ],
+      "speaker": "Schirra",
+      "time": "002:36:46"
+    },
+    {
+      "tokens": [
+        "Five-by."
+      ],
+      "speaker": "Swigert",
+      "time": "002:36:48"
+    },
+    {
+      "tokens": [
+        "Okay, Wally.",
+        "ARIA 2 has us for about 10 minutes here, and then we'll pick up ARIA 3 for about another 10 minutes."
+      ],
+      "speaker": "Swigert",
+      "time": "002:36:53"
+    },
+    {
+      "tokens": [
+        "That's a very nice light opera."
+      ],
+      "speaker": "Schirra",
+      "time": "002:37:02"
+    },
+    {
+      "tokens": [
+        "Do you think you'll like those ARIA's there?",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "002:37:05"
+    },
+    {
+      "tokens": [
+        "Okay, Jack, can you verify the tape recorder is in Record Forward, and we'll go to High Bit Rate for the S-IVB maneuver?"
+      ],
+      "speaker": "Cunningham",
+      "time": "002:37:17"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by."
+      ],
+      "speaker": "Swigert",
+      "time": "002:37:27"
+    },
+    {
+      "tokens": [
+        "If we're running through AIRA, you're going to want me to go to High Bit Rate?",
+        "[Long pause.]"
+      ],
+      "speaker": "Cunningham",
+      "time": "002:37:29"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Apollo 7, EECOM tells me they will control it for Sep."
+      ],
+      "speaker": "Swigert",
+      "time": "002:37:42"
+    },
+    {
+      "tokens": [
+        "Understand.",
+        "You will control it for Sep."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:37:50"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "The crew has completed the maneuvers using the S-IVB thrusters.",
+        "You heard Walt Cunningham going through the countdowns and giving Wally Schirra each of the angles and in essence, amounted to going to 5 degrees in every attitude visual and yaw in these twice.",
+        "Wally seemed impressed with the handling characteristics of this nearly 100 foot combination of booster and spacecraft.",
+        "We are now remoting through a series of aircraft which are strung out across the - or flying in large square patterns in the southwest Atlantic, southwest Pacific.",
+        "We should have continuous comm with the spacecraft up through Hawaii.",
+        "Hawaii is to acquire - stand by one here.",
+        "Hawaii is to acquire at 2 hours, 53 minutes into the flight.",
+        "It'll be then within the Hawaii area of acquisition that we will separate from the S-IVB.",
+        "If this were the lunar mission, that is approximately the point where we might very well ignite the S-IVB over the long burn out to the Moon to put us on a lunar trajectory.",
+        "At 2 hours, 39 minutes into the flight, this is Apollo Control standing by for any additional comm."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "002:40:35 ARIA Comm Tech:This is ARIA 3 [garble]."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "ARIA 3, Apollo 7 reads you."
+      ],
+      "speaker": "Schirra",
+      "time": "002:40:40"
+    },
+    {
+      "tokens": [
+        "Apollo 7, this is Houston through ARIA 3 - How do you read me?"
+      ],
+      "speaker": "Stafford",
+      "time": "002:40:44"
+    },
+    {
+      "tokens": [
+        "Roger, read you loud and clear, Tom.",
+        "[Pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "002:40:47"
+    },
+    {
+      "tokens": [
+        "Apollo 7, this is Houston through ARIA 3.",
+        "Over."
+      ],
+      "speaker": "Stafford",
+      "time": "002:40:56"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "We read you loud and clear.",
+        "How me?"
+      ],
+      "speaker": "Schirra",
+      "time": "002:41:00"
+    },
+    {
+      "tokens": [
+        "002:41:06 StaffordRoger.",
+        "We can read you about one-by, Wally."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You're about 4-4."
+      ],
+      "speaker": "Schirra",
+      "time": "002:41:12"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston through ARIA 3.",
+        "How do you read now?"
+      ],
+      "speaker": "Stafford",
+      "time": "002:42:20"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Read you loud and clear.",
+        "How me?"
+      ],
+      "speaker": "Eisele",
+      "time": "002:42:24"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You're now coming in about three-by-three."
+      ],
+      "speaker": "Stafford",
+      "time": "002:42:27"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Schirra",
+      "time": "002:42:31"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "002:44:03 ARIA Comm Tech:ARIA 3 [garble] ARIA contact.",
+        "Remote S-band only.",
+        "Remote - Remote S-band only if it is better."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 2 hours, 45 minutes into the flight, and it's unlikely that we will have any additional com during this period, so we will take the circuit down now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston.",
+        "How do you read now?"
+      ],
+      "speaker": "Stafford",
+      "time": "002:45:20"
+    },
+    {
+      "tokens": [
+        "Read you loud and clear.",
+        "Well, slightly garbled.",
+        "How me?",
+        "[Long pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "002:45:25"
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston through ARIA 3.",
+        "How do you read?",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "002:45:36"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 7.",
+        "Do you read?"
+      ],
+      "speaker": "Cunningham",
+      "time": "002:45:51"
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "002:45:57"
+    },
+    {
+      "tokens": [
+        "002:46:30 ARIA Comm Tech:ARIA 3, ARIA 3, ARIA contact Remote [garble] Remote VHF...",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 7, how do you read through ARIA 3?"
+      ],
+      "speaker": "Stafford",
+      "time": "002:47:22"
+    },
+    {
+      "tokens": [
+        "Apollo 7, loud and clear.",
+        "How me?"
+      ],
+      "speaker": "Eisele",
+      "time": "002:47:26"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Wally, you're about three-by.",
+        "We have the PAD for the phasing maneuver.",
+        "We'll send it up to you or give it to you through Hawaii whenever you're ready for it.",
+        "We're not in any hurry, but whenever you're ready for it."
+      ],
+      "speaker": "Stafford",
+      "time": "002:47:28"
+    },
+    {
+      "tokens": [
+        "Say again."
+      ],
+      "speaker": "Schirra",
+      "time": "002:47:45"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston."
+      ],
+      "speaker": "Stafford",
+      "time": "002:53:50"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Schirra",
+      "time": "002:53:53"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Through Hawaii.",
+        "Minus 1 minute till Sep.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "002:53:55"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 7.",
+        "Are we recording high bit rate?"
+      ],
+      "speaker": "Schirra",
+      "time": "002:54:22"
+    },
+    {
+      "tokens": [
+        "Affirmative, Apollo 7.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "002:54:26"
+    },
+    {
+      "tokens": [
+        "Did you hear that on the ground?"
+      ],
+      "speaker": "Schirra",
+      "time": "002:55:08"
+    },
+    {
+      "tokens": [
+        "No.",
+        "You're saying it was loud, right?"
+      ],
+      "speaker": "Stafford",
+      "time": "002:55:11"
+    },
+    {
+      "tokens": [
+        "Loudest sound heard round the world."
+      ],
+      "speaker": "Schirra",
+      "time": "002:55:15"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We confirm.",
+        "SLA's up.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "002:55:17"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 2 hours, 55 minutes into the flight; and just 30 seconds ago, precisely at 2 hours and 55 minutes, the crew reported they had separated from the S-IVB.",
+        "We are in contact over Hawaii, and let's listen for conversation."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "I can see a thruster firing action in daylight."
+      ],
+      "speaker": "Schirra",
+      "time": "002:56:07"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "002:56:12"
+    },
+    {
+      "tokens": [
+        "This is Apollo Houston, From the ground we know that the spacecraft is pitching over, turning around, and having a good long look."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "I can see little tiny particles out the right-hand window way down; looks like pieces of chaff.",
+        "I would assume that came from the separation of the S-IVB."
+      ],
+      "speaker": "Schirra",
+      "time": "002:57:04"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I understand.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "002:57:12"
+    },
+    {
+      "tokens": [
+        "I assume that she is still there then.",
+        "Tom, we've got same old split [garble] when we pitched out."
+      ],
+      "speaker": "Schirra",
+      "time": "002:57:26"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Looks like you are going straight in."
+      ],
+      "speaker": "Stafford",
+      "time": "002:57:32"
+    },
+    {
+      "tokens": [
+        "Same [garble] It's absolutely beautiful here, and we got a lot of loose particle chaff sitting at about..."
+      ],
+      "speaker": "Schirra",
+      "time": "002:57:38"
+    },
+    {
+      "tokens": [
+        "Look at them!"
+      ],
+      "speaker": "Eisele",
+      "time": "002:57:45"
+    },
+    {
+      "tokens": [
+        "Chaff seems to be oriented mostly between 3 o'clock and 5 o'clock from my point of view here in the right seat and between 9 o'clock and 12 o'clock.",
+        "The other two quadrants are relatively clean; and the SLA panel at the top, left, and bottom are opened at - I would guess to he about a 45-degree angle, and the SLA panel on the right is just opened maybe 30 degrees at the very best."
+      ],
+      "speaker": "Cunningham",
+      "time": "002:57:49"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Looks like you are looking at a four-jawed angry alligator.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "002:58:16"
+    },
+    {
+      "tokens": [
+        "It's a bigger one, Tom."
+      ],
+      "speaker": "Schirra",
+      "time": "002:58:28"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston here.",
+        "That is Walt Cunningham giving that report on the position of the SLA panels.",
+        "He is in conversation with Tom Stafford who is an expert on angry alligators from the Gemini days.",
+        "The crew is simulating a docking approach at this time in to the SLA area.",
+        "They won't go in so close as to touch it, but they will operate in the area.",
+        "They are taking pictures and in general, they will fly a formation with the S-IVB for the next 10 to 15 minutes."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston.",
+        "Go ahead and get the EDS power switch Off if you want to.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "003:01:28"
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "003:01:56"
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 7.",
+        "This is Houston.",
+        "Over."
+      ],
+      "speaker": "Stafford",
+      "time": "003:02:05"
+    },
+    {
+      "tokens": [
+        "Huntsville M and O, this Houston CapCom."
+      ],
+      "speaker": "Stafford",
+      "time": "003:02:09"
+    },
+    {
+      "tokens": [
+        "003:02:12 Huntsville Comm Tech:Houston, Huntsville M and O, go."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Are we getting through to Apollo 7?"
+      ],
+      "speaker": "Stafford",
+      "time": "003:02:15"
+    },
+    {
+      "tokens": [
+        "003:02:20 Huntsville M and O:We cannot acquire the spacecraft presently with S-band.",
+        "Stand by."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "003:02:30"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 3 hours and 2 minutes into the flight.",
+        "The ship Huntsville, which is parked between Hawaii and the coast of California, is experiencing some difficulty apparently with patching us through, so our - we do have a voice communication drop out with the spacecraft.",
+        "The combination of the California station and/or Guaymas, Mexico station should acquire just any second and we would look for considerable improvement in the communication.",
+        "The crew had turned around, they were taking a close look at the large SLA panels, which are - the four of them are opened up.",
+        "They are photographing them, and Cunningham reported some chaff.",
+        "As yet we haven't been able to identify the source of the chaff in the area.",
+        "No problem, but he did report it.",
+        "He also reported seeing thruster action in the daylight.",
+        "We are now, I believe, attempting to go through Guaymas.",
+        "Let's go back to the report."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 7, Houston.",
+        "How do you read?"
+      ],
+      "speaker": "Stafford",
+      "time": "003:03:47"
+    },
+    {
+      "tokens": [
+        "003:03:48 Huntsville Comm Tech:Houston, Huntsville.",
+        "We have AOS apparently with S-band, experience a drop of signal from handover, Hawaii to Huntsville."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "003:03:51"
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston.",
+        "Over."
+      ],
+      "speaker": "Stafford",
+      "time": "003:04:04"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Houston, go.",
+        "Apollo 7."
+      ],
+      "speaker": "Schirra",
+      "time": "003:04:06"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Everything going okay?"
+      ],
+      "speaker": "Stafford",
+      "time": "003:04:08"
+    },
+    {
+      "tokens": [
+        "Yea, just fine.",
+        "We've got a [garble] out there about a couple or 300 feet."
+      ],
+      "speaker": "Schirra",
+      "time": "003:04:11"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You might check your EDS power switch Off, if you want to."
+      ],
+      "speaker": "Stafford",
+      "time": "003:04:15"
+    },
+    {
+      "tokens": [
+        "Switch is Off.",
+        "Have you got any kind of update for us for the Sep maneuvers?"
+      ],
+      "speaker": "Schirra",
+      "time": "003:04:21"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We sure do.",
+        "Are you ready to copy it?"
+      ],
+      "speaker": "Stafford",
+      "time": "003:04:29"
+    },
+    {
+      "tokens": [
+        "Stand by for about 10 seconds."
+      ],
+      "speaker": "Schirra",
+      "time": "003:04:31"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Give me a call when you are ready.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "003:04:35"
+    },
+    {
+      "tokens": [
+        "Apollo 7.",
+        "Go ahead with your update."
+      ],
+      "speaker": "Schirra",
+      "time": "003:04:48"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It's a phasing maneuver, 003 20 all balls, Noun 82 N/A, 1641 plus 1224, 00057, 32538, Noun 48 N/A, zero plus 16; and roll, pitch, and yaw are 183, 299, 002; remarks: SEF, heads down, retrograde minus X thrusters.",
+        "You should he in your retro-attitude by 3 plus 16 plus 30."
+      ],
+      "speaker": "Stafford",
+      "time": "003:04:50"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand.",
+        "Upgrade for Sep maneuvers, 003, 20, 00, 1641, plus 1224, 00057, down retrograde minus-X thrusters.",
+        "You should he in your retro-attitude by 3 plus 16 plus 30."
+      ],
+      "speaker": "Schirra",
+      "time": "003:06:15"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand update for Sep maneuver 003, 20, 00, 1641, check 1224, 00057, 32538.",
+        "Noun 48 now on schedule; roll, pitch, and yaw 183, 299, 002.",
+        "SEF heads down, retro, and use minus X thrusters."
+      ],
+      "speaker": "Schirra",
+      "time": "003:06:30"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I copied, but I didn't get your pitch; but I want to give it to you again.",
+        "That's 299 for the pitch."
+      ],
+      "speaker": "Stafford",
+      "time": "003:06:42"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "003:06:48"
+    },
+    {
+      "tokens": [
+        "003:06:55 Huntsville Comm Tech:Huntsville LOS.",
+        "[Long pause.]"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "003:07:14"
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 7, Houston."
+      ],
+      "speaker": "Stafford",
+      "time": "003:07:32"
+    },
+    {
+      "tokens": [
+        "Houston, go."
+      ],
+      "speaker": "Schirra",
+      "time": "003:07:37"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We expect some nonpropulsive venting up near the front end of the S-IVB between 3 plus 08 and 3 plus 09.",
+        "The booster will make a retrograde maneuver at 3 plus 16 plus 55."
+      ],
+      "speaker": "Stafford",
+      "time": "003:07:38"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand nonpropulsive venting between 03:08 and 03:09, and the booster will be retro-venting at 03:16:55."
+      ],
+      "speaker": "Schirra",
+      "time": "003:08:01"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's when the maneuver will be commanded.",
+        "You should be able to see it maneuver around.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "003:08:12"
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston.",
+        "Confirm that your TVC servo power number 1 is Off."
+      ],
+      "speaker": "Stafford",
+      "time": "003:08:25"
+    },
+    {
+      "tokens": [
+        "It is Off."
+      ],
+      "speaker": "Schirra",
+      "time": "003:08:32"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "003:08:33"
+    },
+    {
+      "tokens": [
+        "[Garble].",
+        "[Long pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "003:08:34"
+    },
+    {
+      "tokens": [
+        "There is quite a small-type debris still inside the S-IVB.",
+        "Is that Go?",
+        "[Long pause.]"
+      ],
+      "speaker": "Cunningham",
+      "time": "003:09:18"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copied that."
+      ],
+      "speaker": "Stafford",
+      "time": "003:09:29"
+    },
+    {
+      "tokens": [
+        "Seems to be coming out.",
+        "That's probably the vent."
+      ],
+      "speaker": "Cunningham",
+      "time": "003:09:31"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "003:09:38"
+    },
+    {
+      "tokens": [
+        "All the internal structure looks just fine.",
+        "There is one set of cords that's running around - one set of cords running around that seems to be going to a panel that didn't open too far."
+      ],
+      "speaker": "Cunningham",
+      "time": "003:10:32"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Get some pictures."
+      ],
+      "speaker": "Stafford",
+      "time": "003:10:48"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; with the spacecraft almost over the central United States.",
+        "We are getting a pretty descriptive view of what the S-IVB looks like, primarily from Walt Cunningham.",
+        "He has reported among other things, that one of the four SLA panels is not open completely.",
+        "They should be back to nearly 90 degree position, I think one of them is open only a third or a half the way.",
+        "I heard a figure earlier of 30 degrees that will have to be confirmed later.",
+        "In several times, Cunningham has commented on the venting, the LOX venting from the S-IVB.",
+        "Apparently it's a pretty spectacular show.",
+        "We will continue to monitor as they move across the states."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We have got - Ponchartrain in the back of the S-IVB.",
+        "I can see the bridge right across it.",
+        "We should have a - unfortunately, it's too cloudy for us to look at, Tom, but New Orleans looks good."
+      ],
+      "speaker": "Schirra",
+      "time": "003:13:38"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand you can see New Orleans."
+      ],
+      "speaker": "Stafford",
+      "time": "003:13:54"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We got a shot of the [garble] across the lake cutting about."
+      ],
+      "speaker": "Schirra",
+      "time": "003:13:56"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Good show.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "003:14:01"
+    },
+    {
+      "tokens": [
+        "Looks like the entire U.S.",
+        "is cloud covered until you get over here, though.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "003:14:41"
+    },
+    {
+      "tokens": [
+        "003:14:XX Stafford:We copy.",
+        "[Long pause.]"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We're looking right down at the Cape.",
+        "We can get a picture of it in the background."
+      ],
+      "speaker": "Cunningham",
+      "time": "003:15:36"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You got a picture of them over the Cape in the background."
+      ],
+      "speaker": "Stafford",
+      "time": "003:15:40"
+    },
+    {
+      "tokens": [
+        "The Cape's not clear."
+      ],
+      "speaker": "Cunningham",
+      "time": "003:15:42"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "003:15:44"
+    },
+    {
+      "tokens": [
+        "Now it's starting to clear.",
+        "[Pause.]"
+      ],
+      "speaker": "Schirra",
+      "time": "003:15:45"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You on top of the booster this time, Wally?"
+      ],
+      "speaker": "Stafford",
+      "time": "003:15:56"
+    },
+    {
+      "tokens": [
+        "Say again."
+      ],
+      "speaker": "Schirra",
+      "time": "003:15:58"
+    },
+    {
+      "tokens": [
+        "You on top of the booster?"
+      ],
+      "speaker": "Stafford",
+      "time": "003:15:59"
+    },
+    {
+      "tokens": [
+        "[Garble] we got some real great stuff here."
+      ],
+      "speaker": "Cunningham",
+      "time": "003:16:01"
+    },
+    {
+      "tokens": [
+        "Good show.",
+        "Okay.",
+        "In about a minute, the booster should start its retrograde maneuver."
+      ],
+      "speaker": "Stafford",
+      "time": "003:16:04"
+    },
+    {
+      "tokens": [
+        "The booster is - engine is set up facing down toward the Atlantic Ocean - to straight down.",
+        "We're pointing straight down."
+      ],
+      "speaker": "Schirra",
+      "time": "003:16:10"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "003:16:19"
+    },
+    {
+      "tokens": [
+        "Got a very slow rate going on the booster."
+      ],
+      "speaker": "Schirra",
+      "time": "003:16:25"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "003:16:31"
+    },
+    {
+      "tokens": [
+        "Except for that one panel, everything looks like it's just as you'd expect it to be on that S-IVB SLA deployment."
+      ],
+      "speaker": "Schirra",
+      "time": "003:16:34"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Sounds real good."
+      ],
+      "speaker": "Stafford",
+      "time": "003:16:42"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We've got about 3 minutes to go to the phasing maneuver, and are you all set up for the roll, pitch, and yaw?"
+      ],
+      "speaker": "Stafford",
+      "time": "003:16:49"
+    },
+    {
+      "tokens": [
+        "We've [garble] and roll, and we [garble] attitude shortly."
+      ],
+      "speaker": "Schirra",
+      "time": "003:16:58"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "003:17:03"
+    },
+    {
+      "tokens": [
+        "Apollo 7, Houston."
+      ],
+      "speaker": "Stafford",
+      "time": "003:17:45"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Schirra",
+      "time": "003:17:47"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Our - GNC just confirmed that inertial pitch attitude is 299 degrees.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "003:17:48"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll give you a Mark at 60 seconds: two, one."
+      ],
+      "speaker": "Stafford",
+      "time": "003:18:55"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Stafford",
+      "time": "003:19:00"
+    },
+    {
+      "tokens": [
+        "T minus 60 seconds; minus 30 seconds; 10 seconds.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "003:19:01"
+    },
+    {
+      "tokens": [
+        "Burn complete."
+      ],
+      "speaker": "Schirra",
+      "time": "003:19:29"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "003:19:32"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Schirra",
+      "time": "003:19:33"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "If you are ready on the ground, we are going to start checking our main Reg."
+      ],
+      "speaker": "Cunningham",
+      "time": "003:22:40"
+    },
+    {
+      "tokens": [
+        "Okay, Apollo 7, Houston.",
+        "We're ready to copy."
+      ],
+      "speaker": "Stafford",
+      "time": "003:22:48"
+    },
+    {
+      "tokens": [
+        "Houston, 7."
+      ],
+      "speaker": "Schirra",
+      "time": "003:22:55"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You can go ahead and terminate program 47 if you want to."
+      ],
+      "speaker": "Stafford",
+      "time": "003:22:56"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We have terminated.",
+        "We are trying to get a few more pictures after we set; we have made the burn one-tenth of a foot per second [garble]."
+      ],
+      "speaker": "Schirra",
+      "time": "003:23:00"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's real good; thank you.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "003:23:07"
+    },
+    {
+      "tokens": [
+        "Tom, we had P47 running there a couple of minutes early, and we picked up about a foot and a half per second in register two.",
+        "I guess you can pick that up on your downlink; you might have somebody consider whether they want to re-do the state vector or not."
+      ],
+      "speaker": "Schirra",
+      "time": "003:23:20"
+    },
+    {
+      "tokens": [
+        "Okay, good.",
+        "Look, we're going to have you at Ascension in just a couple of minutes, and we'd like to get a PP02 reading."
+      ],
+      "speaker": "Stafford",
+      "time": "003:23:35"
+    },
+    {
+      "tokens": [
+        "Okay, stand by."
+      ],
+      "speaker": "Schirra",
+      "time": "003:23:45"
+    },
+    {
+      "tokens": [
+        "Also, what was your closest point of approach, Wally, to the IVB?"
+      ],
+      "speaker": "Stafford",
+      "time": "003:23:48"
+    },
+    {
+      "tokens": [
+        "I'd say about 4 or 5 feet, Tom."
+      ],
+      "speaker": "Schirra",
+      "time": "003:23:53"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "4 or 5 feet."
+      ],
+      "speaker": "Stafford",
+      "time": "003:23:55"
+    },
+    {
+      "tokens": [
+        "It's a pretty big one."
+      ],
+      "speaker": "Schirra",
+      "time": "003:23:58"
+    },
+    {
+      "tokens": [
+        "We're a little worried to get in - about getting in there with that one cocked panel.",
+        "It's probably a good decision to drop those things off."
+      ],
+      "speaker": "Schirra",
+      "time": "003:24:01"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "003:24:09"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 7."
+      ],
+      "speaker": "Cunningham",
+      "time": "003:25:22"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 3 hours, 25 minutes into the flight and we have moved out of the acquisition zone of the Antigua station.",
+        "We should acquire Ascension in a very few minutes.",
+        "You heard Schirra say that he had pulled up within 4 to 5 feet of the S-IVB and had done a very close inspection of the SLA Panels.",
+        "The - 3 of the panels appear to have opened fully, which in the fully deployed position is a 45-degree angle; one of the panels stopped apparently at about 30 degrees.",
+        "On later missions we have, or the present thinking is to simply jettison the panels all together so this is sort of a one-time consideration.",
+        "We - the reason for the jettisoning of the panels in future missions is a point which has brought the thinking to that conclusion.",
+        "It has to do with the exhaust impingement on the panels as the spacecraft looks directly into the hole, or prepares to make the docking maneuver with the Lunar Module.",
+        "We will assume that the crew has concluded it's first phasing maneuver of 6.8 foot per second burn which will have a phasing or a shaping affect on the orbit, a very moderate one, and it will move it some distance, I don't just yet know how much distance, away from the S-IVB.",
+        "At 3 hours, 27 minutes into the flight; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    }
+  ],
+  "source_file": "day1_part3_s-ivb_takeover_demonstration_separation_and_first_phasing_maneuver.html"
+}

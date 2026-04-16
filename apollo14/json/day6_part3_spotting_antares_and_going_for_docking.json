@@ -1,0 +1,1106 @@
+{
+  "description": "A14FJ - Day 6, part 3: Spotting <i>Antares</i> and Going for Docking",
+  "transcript": [
+    {
+      "tokens": [
+        "Antares has lifted off from Fra Mauro and is now coasting in lunar orbit.",
+        "For the first time, they are performing a direct rendezvous which sees them bypass some of the manoeuvres that had previously been used to ensure that the two spacecraft can meet up in lunar orbit.",
+        "Increasing confidence in their navigational abilities has made this new mode of rendezvous a possibility, saving an extra two-hour orbit; another sign of the ever developing nature of Apollo operations."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Editor's note:All transcript times are presented according to the GET update at 054:53:36 that saw the mission timer moved forward 40 minutes, 2.90 seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 143 hours, 33 minutes and we're about 8½ minutes now from reacquiring the LM and CSM as they come around on the front side of the Moon.",
+        "The Lunar Module should have performed the terminal phase initiation manuever on the backside of the Moon.",
+        "This manuever is - a fine computation for it is done onboard.",
+        "The figures given from the ground are used as a check and a backup for the planned maneuver.",
+        "It looked as if the burn would have probably come out to around to around 85 feet per second and would have been performed at about 143 hours, 10 minutes Ground Elapsed Time.",
+        "When we reacquire, in about 7 minutes 45 seconds from now, Antares should be on its final approach into the CSM on align aside approach, and nearing the braking gates, beginning to slow down.",
+        "The final docking of course, as on previous missions, will be performed by the CSM, by Stu Roosa.",
+        "That is primarily because of the visibility difficulties that the crew in the Lunar Module has when the 2 vehicles close at very close rates.",
+        "And the plan is for Roosa to proceed with a normal docking.",
+        "If, at the time that the probe is inserted into the drogue of the Lunar Module, we don't get an immediate capture, Roosa will deactivate his stabilization control system from the Command Module and the Lunar Module will thrust to hold the probe firmly into the drogue in the hope that if the capture latches on the probe are a bit slow engaging that they will occur at this time.",
+        "We would expect that we would get a normal docking, based on the data that has been analyzed from the previous successful docking following translunar injection.",
+        "If, however, we do not get a normal docking, we're prepared with several contingency procedures, which range from attempting to energize the neumatic system that retracts the drogue or the probe rather, and latching up with the primary docking latches.",
+        "If this doesn't work, we would be prepared to instruct the crew in jumpering an electrical connection so that they would put electrical power onto the activate switch, a control for the probe assembly, hoping to retract it that way.",
+        "And the - of course the final procedure would be to go extra vehicular or an extra vehicular transfer.",
+        "We're now 5 minutes 30 seconds from reacquiring.",
+        "We would like to mention, also at this time that Apollo 12 Commander Charles Conrad will meet with Newsmen in the main auditorium of the MSC News Center at 3:30 pm today to discuss Lunar Surface Operations on Apollo 14.",
+        "That will be Astronaut Pete Conrad, in the MSC News Center main auditorium at 3:30 pm today."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 143 hours 41 minutes and we're now less then 45 seconds from reacquiring the spacecraft as they come back on the frontside of the Moon.",
+        "Shortly after reacquiring, we expect Stu Roosa in Kitty Hawk to activate the television system there.",
+        "We have the lines up and we are prepared to receive the television in Mission Control and see the final closing and docking operation."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "Over."
+      ],
+      "speaker": "CC",
+      "time": "1434150"
+    },
+    {
+      "tokens": [
+        "Antares, this is Houston.",
+        "How do you read?",
+        "Over."
+      ],
+      "speaker": "CC",
+      "time": "1434209"
+    },
+    {
+      "tokens": [
+        "We read you loud and clear, Houston."
+      ],
+      "speaker": "Mitchell-LM",
+      "time": "1434218"
+    },
+    {
+      "tokens": [
+        "Roger, Antares.",
+        "How'd it go?"
+      ],
+      "speaker": "CC",
+      "time": "1434220"
+    },
+    {
+      "tokens": [
+        "Well, things just about nominal as they could be.",
+        "We had good TPI and midcourses of around 1.9 and 1.1 feet per second, Delta-V...Give you the exact numbers if you want them, but everything's just about nominal."
+      ],
+      "speaker": "Shepard-LM",
+      "time": "1434225"
+    },
+    {
+      "tokens": [
+        "We'd like the numbers for TPI."
+      ],
+      "speaker": "CC",
+      "time": "1434245"
+    },
+    {
+      "tokens": [
+        "You're locked up on the steerable, Houston."
+      ],
+      "speaker": "Mitchell-LM",
+      "time": "1434246"
+    },
+    {
+      "tokens": [
+        "Say again, Ed."
+      ],
+      "speaker": "CC",
+      "time": "1434250"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Ed will give - Ed will give them to you."
+      ],
+      "speaker": "Shepard-LM",
+      "time": "1434252"
+    },
+    {
+      "tokens": [
+        "Okay, The numbers for TPI: Noun 81, plus 62.1, plus 0.1, plus 63.1; burned on time; and nulled PGNS to 00 plus 0.1."
+      ],
+      "speaker": "Mitchell-LM",
+      "time": "1434258"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And say again about the steerable."
+      ],
+      "speaker": "CC",
+      "time": "1434314"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "Are you reading us now?"
+      ],
+      "speaker": "CC",
+      "time": "1434328"
+    },
+    {
+      "tokens": [
+        "I'm reading you loud and clear."
+      ],
+      "speaker": "Roosa",
+      "time": "1434332"
+    },
+    {
+      "tokens": [
+        "Roger, Stu.",
+        "Could we have your TPI solution, please?"
+      ],
+      "speaker": "CC",
+      "time": "1434334"
+    },
+    {
+      "tokens": [
+        "Stand by 1."
+      ],
+      "speaker": "Roosa",
+      "time": "1434341"
+    },
+    {
+      "tokens": [
+        "Stu Roosa has the television active in the Command Module.",
+        "We got a brief picture here in the control center and then it dropped out again.",
+        "We'll stand by for getting a good lockup on the television."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Kitty Hawk."
+      ],
+      "speaker": "Roosa",
+      "time": "1434414"
+    },
+    {
+      "tokens": [
+        "Go ahead, Kitty Hawk."
+      ],
+      "speaker": "McCandless",
+      "time": "1434416"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On the VHF - I mean a sextant only solution, I had a minus 67.4, plus 0.5, minus 69.2.",
+        "I did get the ranging to work when our comm got better after TPI.",
+        "And everything's worked out good."
+      ],
+      "speaker": "Roosa",
+      "time": "1434423"
+    },
+    {
+      "tokens": [
+        "Understand; you did get the VHF ranging going after TPI?"
+      ],
+      "speaker": "McCandless",
+      "time": "1434444"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Roosa",
+      "time": "1434450"
+    },
+    {
+      "tokens": [
+        "Sounds good."
+      ],
+      "speaker": "McCandless",
+      "time": "1434454"
+    },
+    {
+      "tokens": [
+        "Well, Bruce.",
+        "I was going to send you some TV, I had it on Standby and I went to Transmit and I could see the surface pretty good and all of a sudden it quit."
+      ],
+      "speaker": "Roosa",
+      "time": "1434542"
+    },
+    {
+      "tokens": [
+        "Stand by on that, Stu.",
+        "We can probably get it working again."
+      ],
+      "speaker": "McCandless",
+      "time": "1434605"
+    },
+    {
+      "tokens": [
+        "How are you configured down there?",
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1434609"
+    },
+    {
+      "tokens": [
+        "Stu, this is Houston.",
+        "I think that's a ground-commanded configuration problem.",
+        "And as soon as we're through dumping the backside tape, we'll give it back to you."
+      ],
+      "speaker": "McCandless",
+      "time": "1434621"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "What are you doing way down there, oh Fearless One?"
+      ],
+      "speaker": "Roosa",
+      "time": "1434635"
+    },
+    {
+      "tokens": [
+        "Roosa's comment that the LM was way down there is a pretty good indication that they have not begun station keeping at this time and are still on the final approach."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "...",
+        "I show you at 1.52 or something like that."
+      ],
+      "speaker": "Roosa",
+      "time": "1434822"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "We'd like you to load the nominal LM weight and the DAP please, 5700."
+      ],
+      "speaker": "McCandless",
+      "time": "1434857"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1434909"
+    },
+    {
+      "tokens": [
+        "I got a spot out over here where I - maybe I can do that, Bruce."
+      ],
+      "speaker": "Roosa",
+      "time": "1434923"
+    },
+    {
+      "tokens": [
+        "We'd expect the line of sight, braking maneuvers performed by the Lunar Module, to continue for about another 5 minutes before they're in the position to begin the station keeping.",
+        "And we will be standing by for completion of the data dump, dumping the data tapes, at which time we'll be able to bring up the television."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1434937"
+    },
+    {
+      "tokens": [
+        "The line of sight through the COAS looks real good."
+      ],
+      "speaker": "Roosa",
+      "time": "1434951"
+    },
+    {
+      "tokens": [
+        "And we're beginning to get some indications of a television picture now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay Stu, we're getting a great TV signal now."
+      ],
+      "speaker": "McCandless",
+      "time": "1435020"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll try a little zoom.",
+        "I don?t know if you can pick him up yet or not."
+      ],
+      "speaker": "Roosa",
+      "time": "1435026"
+    },
+    {
+      "tokens": [
+        "Okay, can you tell us roughly where he is in the monitor and grid coordinates?"
+      ],
+      "speaker": "McCandless",
+      "time": "1435036"
+    },
+    {
+      "tokens": [
+        "He's right on the top of B and C.",
+        "On the line in between them it looks like, Bruce."
+      ],
+      "speaker": "Roosa",
+      "time": "1435107"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Is that B-2 and -3?"
+      ],
+      "speaker": "McCandless",
+      "time": "1435115"
+    },
+    {
+      "tokens": [
+        "Well, let me see.",
+        "I can't see that far over to the monitor.",
+        "Let me take another look."
+      ],
+      "speaker": "Roosa",
+      "time": "1435121"
+    },
+    {
+      "tokens": [
+        "Oh, don't worry about it."
+      ],
+      "speaker": "McCandless",
+      "time": "1435126"
+    },
+    {
+      "tokens": [
+        "I'll look out the window here first."
+      ],
+      "speaker": "Roosa",
+      "time": "1435127"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We've got it now."
+      ],
+      "speaker": "McCandless",
+      "time": "1435140"
+    },
+    {
+      "tokens": [
+        "Roger, Stu.",
+        "We've got him at the left-hand edge of our picture about one-third of the way down from the top.",
+        "Growing bigger every second."
+      ],
+      "speaker": "McCandless",
+      "time": "1435155"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Roger."
+      ],
+      "speaker": "Roosa",
+      "time": "1435207"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Roosa",
+      "time": "1435215"
+    },
+    {
+      "tokens": [
+        "Looking mighty pretty.",
+        "No sweat."
+      ],
+      "speaker": "Roosa",
+      "time": "1435405"
+    },
+    {
+      "tokens": [
+        "Okay, I believe I'll just have a few pictures of you here."
+      ],
+      "speaker": "Roosa",
+      "time": "1435439"
+    },
+    {
+      "tokens": [
+        "You've lost a little weight since the last time I saw you."
+      ],
+      "speaker": "Roosa",
+      "time": "1435523"
+    },
+    {
+      "tokens": [
+        "The range at this point is less then 1/10 of a mile.",
+        "The vehicles are closing at about 4 feet per second.",
+        "The poor quality of the television picture is due to a weak signal strength.",
+        "The communications engineer is looking into it to see what can be done, perhaps on the ground to improve the signal strength."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1435607"
+    },
+    {
+      "tokens": [
+        "Houston, Antares is stationkeeping at about 100 feet.",
+        "Closing in a little more for the pictures of the service module and Command Module."
+      ],
+      "speaker": "Shepard-LM",
+      "time": "1435700"
+    },
+    {
+      "tokens": [
+        "Roger, Al.",
+        "We've got you on television, and It's looking beautiful."
+      ],
+      "speaker": "Roosa",
+      "time": "1435707"
+    },
+    {
+      "tokens": [
+        "Okay, anytime you're ready Al, you..."
+      ],
+      "speaker": "Roosa",
+      "time": "1435717"
+    },
+    {
+      "tokens": [
+        "Okay, we've got you Stu.",
+        "Go ahead and turn it around, we'll photograph you."
+      ],
+      "speaker": "Shepard-LM",
+      "time": "1435722"
+    },
+    {
+      "tokens": [
+        "Say, Stu..."
+      ],
+      "speaker": "McCandless",
+      "time": "1435730"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm going to turn the TV on here."
+      ],
+      "speaker": "Roosa",
+      "time": "1435731"
+    },
+    {
+      "tokens": [
+        "...Stu, looking at the ascent stage of the LM, it looks like there's something hanging loose from the bottom of it.",
+        "A piece of wire or insulation or anything.",
+        "Any comment on that?"
+      ],
+      "speaker": "McCandless",
+      "time": "1435732"
+    },
+    {
+      "tokens": [
+        "Yes, I saw that.",
+        "I was going to wait until we got in a little closer.",
+        "Probably part of the separation plane, I'm sure."
+      ],
+      "speaker": "Roosa",
+      "time": "1435746"
+    },
+    {
+      "tokens": [
+        "Yes, we - we concur on that."
+      ],
+      "speaker": "McCandless",
+      "time": "1435752"
+    },
+    {
+      "tokens": [
+        "Let me turn the TV out here before I blast it into the Sun on this pitcharound, Bruce."
+      ],
+      "speaker": "Roosa",
+      "time": "1435753"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "1435757"
+    },
+    {
+      "tokens": [
+        "And, Stu, we'd like to confirm that you got the LM weight of 5700 pounds loaded in the DAP prior to the docking."
+      ],
+      "speaker": "McCandless",
+      "time": "1435808"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1435818"
+    },
+    {
+      "tokens": [
+        "The CSM Digital Autopilot is presently programmed to only handle the lone mothership.",
+        "After docking, the center of mass for the docked stack will change and hence the requirements for the DAP will be different, too."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, I see a smooth loop there."
+      ],
+      "speaker": "Shepard-LM",
+      "time": "1435822"
+    },
+    {
+      "tokens": [
+        "That's no problem, Bruce.",
+        "Because I dock and I'll go Free, and then I'll get all that squared away, but I'll load it in."
+      ],
+      "speaker": "Roosa",
+      "time": "1435824"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Out."
+      ],
+      "speaker": "McCandless",
+      "time": "1435833"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by 1 here.",
+        "Okay, I shall do a loop, leader."
+      ],
+      "speaker": "Roosa",
+      "time": "1435834"
+    },
+    {
+      "tokens": [
+        "Okay, make it smooth."
+      ],
+      "speaker": "Shepard-LM",
+      "time": "1435844"
+    },
+    {
+      "tokens": [
+        "And around we go."
+      ],
+      "speaker": "Roosa",
+      "time": "1435849"
+    },
+    {
+      "tokens": [
+        "Show us a little style.",
+        "Oh, you look good."
+      ],
+      "speaker": "Shepard-LM",
+      "time": "1435851"
+    },
+    {
+      "tokens": [
+        "There I was at 240,000 coming over the top."
+      ],
+      "speaker": "Roosa.",
+      "time": "1435900"
+    },
+    {
+      "tokens": [
+        "And there's our home.",
+        "That's our home away from home."
+      ],
+      "speaker": "Mitchell-LM",
+      "time": "1435906"
+    },
+    {
+      "tokens": [
+        "Would you believe 360,000?"
+      ],
+      "speaker": "McCandless",
+      "time": "1435919"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Mitchell-LM",
+      "time": "1435926"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Kitty Hawk is doing an extremely smooth loop.",
+        "We're sitting at 70 feet watching him go around.",
+        "He looks very clean.",
+        "Engine bell looks very clean.",
+        "All these streak patterns are radial and uniform.",
+        "No hot spots at all."
+      ],
+      "speaker": "Shepard-LM",
+      "time": "1435934"
+    },
+    {
+      "tokens": [
+        "We would expect to get a television picture back once Stu Roosa has completed manuevering in the Command Module in the proper attitude for docking."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Man the old Earth went right through the COAS."
+      ],
+      "speaker": "Roosa.",
+      "time": "1440129"
+    },
+    {
+      "tokens": [
+        "Oh, you look clean.",
+        "Nice and clean, Stu."
+      ],
+      "speaker": "Shepard-LM",
+      "time": "1440156"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa.",
+      "time": "1440158"
+    },
+    {
+      "tokens": [
+        "I'll come in a little closer.",
+        "It'll save you some gas."
+      ],
+      "speaker": "Shepard-LM",
+      "time": "1440211"
+    },
+    {
+      "tokens": [
+        "Ed, this is Houston.",
+        "When you get a chance, on panel 16, would you check the ASA - AEA circuit breakers.",
+        "We've lost data from the AEA only.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1440226"
+    },
+    {
+      "tokens": [
+        "Bruce wants the crew to check the circuit breakers supplying power to the AEA - the Abort Electronics Assembly, the computer section of the Abort Guidance System."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "They're both in."
+      ],
+      "speaker": "Mitchell-LM",
+      "time": "1440243"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "McCandless",
+      "time": "1440243"
+    },
+    {
+      "tokens": [
+        "That close enough?"
+      ],
+      "speaker": "Shepard-LM",
+      "time": "1440243"
+    },
+    {
+      "tokens": [
+        "Yes, that ought to do it."
+      ],
+      "speaker": "Roosa",
+      "time": "1440246"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1440553"
+    },
+    {
+      "tokens": [
+        "Okay, I've got the stationkeeping."
+      ],
+      "speaker": "Roosa",
+      "time": "1440324"
+    },
+    {
+      "tokens": [
+        "Houston, what that is trailing is a little bit of that foil..."
+      ],
+      "speaker": "Roosa",
+      "time": "1440333"
+    },
+    {
+      "tokens": [
+        "...on the bottom part of that tank area, there."
+      ],
+      "speaker": "Roosa",
+      "time": "1440337"
+    },
+    {
+      "tokens": [
+        "Looks like during separation, the foil..."
+      ],
+      "speaker": "Roosa",
+      "time": "1440342"
+    },
+    {
+      "tokens": [
+        "Thank you, Stu."
+      ],
+      "speaker": "McCandless",
+      "time": "1440344"
+    },
+    {
+      "tokens": [
+        "that insulation got - got ripped.",
+        "The other side is down tight.",
+        "And the side you're looking at there is ripped out pretty badly."
+      ],
+      "speaker": "Roosa",
+      "time": "1440346"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you, Stu.",
+        "And we got a real good TV picture."
+      ],
+      "speaker": "McCandless",
+      "time": "1440403"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1440515"
+    },
+    {
+      "tokens": [
+        "Antares, this is Houston.",
+        "Request Lo Bit Rate, Aft Omni.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1440538"
+    },
+    {
+      "tokens": [
+        "You want Lo Bit Rate, Aft Omni?"
+      ],
+      "speaker": "Roosa",
+      "time": "1440546"
+    },
+    {
+      "tokens": [
+        "Let's see, I wouldn't come in much closer than that."
+      ],
+      "speaker": "Roosa",
+      "time": "1440553"
+    },
+    {
+      "tokens": [
+        "Aren't you going to do your roll?"
+      ],
+      "speaker": "Roosa",
+      "time": "1440556"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Roosa",
+      "time": "1440603"
+    },
+    {
+      "tokens": [
+        "Okay, I'm starting my roll."
+      ],
+      "speaker": "Shepard-LM",
+      "time": "1440605"
+    },
+    {
+      "tokens": [
+        "Houston, Antares.",
+        "How do you read?"
+      ],
+      "speaker": "Mitchell-LM",
+      "time": "1440616"
+    },
+    {
+      "tokens": [
+        "Okay, why don't you Just stop it there.",
+        "I need to translate down and right, here.",
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1440704"
+    },
+    {
+      "tokens": [
+        "And, Kitty Hawk, we show you..."
+      ],
+      "speaker": "McCandless",
+      "time": "1440711"
+    },
+    {
+      "tokens": [
+        "Houston, Antares.",
+        "Over."
+      ],
+      "speaker": "Mitchell-LM",
+      "time": "1440713"
+    },
+    {
+      "tokens": [
+        "...P47 for the docking.",
+        "Go ahead, Antares."
+      ],
+      "speaker": "McCandless",
+      "time": "1440722"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Roosa",
+      "time": "1440723"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You're on the Omnis and be advised I seem to have lost AGS, although I have no warning."
+      ],
+      "speaker": "Mitchell-LM",
+      "time": "1440724"
+    },
+    {
+      "tokens": [
+        "Roger, Ed.",
+        "We copy."
+      ],
+      "speaker": "McCandless",
+      "time": "1440730"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "I have a - Houston, I have the Logic On and would like a Go for Pyro Arm."
+      ],
+      "speaker": "Roosa",
+      "time": "1440733"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston, You're Go for Pyro Arm."
+      ],
+      "speaker": "McCandless",
+      "time": "1440749"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "They're coming on."
+      ],
+      "speaker": "Roosa",
+      "time": "1440756"
+    },
+    {
+      "tokens": [
+        "Antares, this is Houston.",
+        "We'd like to get the steerable up.",
+        "Pitch, 170; Yaw, plus 55; High Bit Rate and request that you and Kitty Hawk do not make contact until we establish good telemetry.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1440816"
+    },
+    {
+      "tokens": [
+        "Roger; Ed.",
+        "Steerable up.",
+        "Say again the angles; let's check them."
+      ],
+      "speaker": "Mitchell-LM",
+      "time": "1440836"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Pitch, 170; Yaw, plus 55, Ed.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1440840"
+    },
+    {
+      "tokens": [
+        "Say again?"
+      ],
+      "speaker": "Roosa",
+      "time": "1440903"
+    },
+    {
+      "tokens": [
+        "Houston, we're locked up.",
+        "How do you read?"
+      ],
+      "speaker": "Mitchell-LM",
+      "time": "1440905"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Loud and clear, Ed, and we got High Bit Rate."
+      ],
+      "speaker": "McCandless",
+      "time": "1440909"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mitchell-LM",
+      "time": "1440913"
+    },
+    {
+      "tokens": [
+        "I can't believe you're docking."
+      ],
+      "speaker": "Roosa",
+      "time": "1440941"
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "You're Go for the docking."
+      ],
+      "speaker": "McCandless",
+      "time": "1440942"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We got you."
+      ],
+      "speaker": "Mitchell-LM",
+      "time": "1440946"
+    },
+    {
+      "tokens": [
+        "This has been your docking practice flight, Stu."
+      ],
+      "speaker": "Shepard-LM",
+      "time": "1440950"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "How about that?"
+      ],
+      "speaker": "Roosa",
+      "time": "1440953"
+    },
+    {
+      "tokens": [
+        "Say again?"
+      ],
+      "speaker": "Roosa",
+      "time": "1441154"
+    },
+    {
+      "tokens": [
+        "Okay, we capture."
+      ],
+      "speaker": "Roosa",
+      "time": "1441233"
+    },
+    {
+      "tokens": [
+        "Beautiful.",
+        "Normal docking."
+      ],
+      "speaker": "McCandless",
+      "time": "1441242"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And we got hard dock."
+      ],
+      "speaker": "Roosa",
+      "time": "1441255"
+    },
+    {
+      "tokens": [
+        "Beautiful.",
+        "There's a big sigh of relief being breathed around here."
+      ],
+      "speaker": "McCandless",
+      "time": "1441300"
+    },
+    {
+      "tokens": [
+        "All over the world, there is."
+      ],
+      "speaker": "Shepard",
+      "time": "1441307"
+    },
+    {
+      "tokens": [
+        "You ought to try it from up here."
+      ],
+      "speaker": "Roosa",
+      "time": "1441309"
+    },
+    {
+      "tokens": [
+        "This world and out of this world, too."
+      ],
+      "speaker": "McCandless",
+      "time": "1441315"
+    },
+    {
+      "tokens": [
+        "Despite all the consternation and double-checking due to the troubles experienced during the first docking of the mission, everything has gone well on this occasion."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day6_part3_spotting_antares_and_going_for_docking.html"
+}

@@ -1,0 +1,3270 @@
+{
+  "description": "A15FJ - Day 5, part 6: Preparations for Landing",
+  "transcript": [
+    {
+      "tokens": [
+        "LM Flight Plan page 3-120."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "CSM Flight Plan page 3-121."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 102 hours, 8 minutes and we're about 2 minutes from reacquiring the Command ModuleEndeavour, assuming that the circularization burn was performed on time.Endeavourshould be behind but above the Lunar ModuleFalcon.The higher orbit that the Command Module would be in, would cause it to pop around the corner so to speak sooner, [to] come into view of radio antennas about 2 minutes prior to the time we'll acquire the signal from the Lunar Module.",
+        "Just a few minutes ago, Flight Director Glynn Lunney again reviewed the status of the mission with each of his flight controllers, and pointed out that the major activity on this revolution, the last - last revolution prior to the powered descent, will be the landmark tracking, which Al Worden will be performing in the Command Module.",
+        "Al Worden will be taking marks through the scanning telescope in the Command Module on a 1,000-foot [300-metre] diameter crater, called Index Crater, which is in the landing ellipse - the marks that he takes on this crater are telemetered to ground where we feed them into the computers in Mission Control, and from that compute new orbits for both the Command Module and the Lunar Module, and also compute these orbits with respect to the precise location of the landing site.",
+        "This information is then fed into the Lunar Module Guidance System - the Guidance Computer on the LM, just prior to the powered descent.",
+        "Should we not get the landmark tracking on this revolution, the preference would be to wait for 1 revolution to do the lunar landing - slip the landing 1 revolution and attempt to get the landmark tracking on the 14th revolution.",
+        "At this point we would see no reason for not accomplishing successfully, the landmark tracking on this revolution.",
+        "And we have had Acquisition Of Signal from the Command Module, which indicates that we did get the circularization burn."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At the present time our radio signal strength from the Command Module is still too weak to permit voice communications.",
+        "We are starting to get some telemetry data.",
+        "And we're about 40 seconds away from reacquiring the Lunar Module,Falcon."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "INCO says we appear to have lost contact.",
+        "Madrid reported we had a momentary acquisition of signal, which has since dropped out."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "Standing by for your burn status.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1021224"
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "Standing by for burn status."
+      ],
+      "speaker": "Mitchell",
+      "time": "1021244"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "Endeavour.",
+        "Rog.",
+        "Stand by one."
+      ],
+      "speaker": "Worden",
+      "time": "1021251"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Roger, Al."
+      ],
+      "speaker": "Mitchell",
+      "time": "1021255"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "The burn got off on time.",
+        "Burn time, 4 seconds; VGX, minus 0000.9 [fps]; and I trimmed that to 0 at - roll of 0 [degrees], pitch of 107, and yaw of 358.",
+        "VGXwas plus all zero's, VGYwas plus all zero's, VGZwas minus 0000.5.",
+        "Delta-VCwas minus 11.2 [fps]; fuel was 29.25 [per cent]; oxidizer, 29.15 [per cent]; and unbalance meter was decreased 50.",
+        "And I've got me in a 65.2 by 54.8 [nautical mile orbit, 120.7 by 101.4 km]."
+      ],
+      "speaker": "Worden",
+      "time": "1021300"
+    },
+    {
+      "tokens": [
+        "VGrepresents the velocity to be gained and Al is expressing it in each of the three axes.",
+        "After the burn, these values are known as the residual velocities.",
+        "Note that although Al said during the debriefing that the burn did not require trimming, he did, in fact, trim 0.9 fps out of the X-axis residual."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Al.",
+        "We got everything except the item after the burn time.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1021344"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "The VGXat shutdown was minus .9.",
+        "[repeat] 0.9."
+      ],
+      "speaker": "Worden",
+      "time": "1021354"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We copy.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1021403"
+    },
+    {
+      "tokens": [
+        "And, Al.",
+        "I'm ready to give you a P24 PAD, when you're ready to copy.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1021419"
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "Go ahead."
+      ],
+      "speaker": "Worden",
+      "time": "1021445"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "15-1; T-1, 102:37:27; T-2, 42:17; TCA, 43:57; T-3, 44:45.",
+        "The attitude is nominal, and you'll be off track 3 miles to the north."
+      ],
+      "speaker": "Mitchell",
+      "time": "1021447"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I understand.",
+        "[P]24 landmark tracking PAD, tracking 15-1; T-1, 102:37:27; 42:17; 43:57; 44:45.",
+        "Nominal attitude is off track north 3 miles."
+      ],
+      "speaker": "Worden",
+      "time": "1021521"
+    },
+    {
+      "tokens": [
+        "Good readback."
+      ],
+      "speaker": "Mitchell",
+      "time": "1021542"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "[Pause.]"
+      ],
+      "speaker": "Worden",
+      "time": "1021546"
+    },
+    {
+      "tokens": [
+        "The numbers just read up are times of the various points in the P24 tracking profile.",
+        "In this profile, the CSM will keep a 22° pitched down attitude, with respect to the local vertical, throughout the entire tracking pass.",
+        "To achieve this, the spacecraft will make a slow pitch-down rotation with respect to its stellar inertial frame of reference, throughout the entire period.",
+        "This will keep Index crater within the range of the sextant, even as it passes rather quickly below:T-1:102:37:27 GET.",
+        "This is the time when the landmark, in this case Index crater, will be on the horizon.",
+        "It is not the time it will be visible through the sextant optics.T-2:102:42:17 GET.",
+        "This is the time when the target can be acquired in the sextant and is when the CSM begins to pitch down.TCA:102:43:57 GET.",
+        "This is when the CSM will be closest to the target.T-3:102:44:45 GET.",
+        "This is the time when the target will fall out of the sextant's field of view.Note that at the time of the closest approach, Endeavour will not be directly overhead of Index crater, but will be 3 miles to the north.",
+        "Also note that a value for the longitude-over-2 has not been given.",
+        "Al will point this out at 102:34:32 but is told to use the value in the Flight Plan."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ed, I have some AGS Cal numbers for you."
+      ],
+      "speaker": "Irwin",
+      "time": "1021554"
+    },
+    {
+      "tokens": [
+        "Okay, Falcon.",
+        "Ready to copy."
+      ],
+      "speaker": "Mitchell",
+      "time": "1021557"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "The initial values: plus 02, minus 04, plus 03, plus 02, plus 90, minus 07.",
+        "Cal values: plus 02, minus 04, plus 02, plus 21, plus 81, and minus 15."
+      ],
+      "speaker": "Irwin",
+      "time": "1021602"
+    },
+    {
+      "tokens": [
+        "Copied all of them.",
+        "[Pause.] Those numbers look good, Falcon."
+      ],
+      "speaker": "Mitchell",
+      "time": "1021626"
+    },
+    {
+      "tokens": [
+        "And, Houston; Falcon.",
+        "We're ready to go with the DPS."
+      ],
+      "speaker": "Scott",
+      "time": "1021636"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And we're ready to go with the DPS pressure checkout any time you are."
+      ],
+      "speaker": "Scott",
+      "time": "1021641"
+    },
+    {
+      "tokens": [
+        "Two helium tanks, one storing gas at an ambient temperature, the other storing supercritical helium (SHe) at high pressure and cryogenic temperatures, provide a source of pressure to the four propellant tanks of the LM descent stage.",
+        "This pressure forces their contents into the propellant lines leading to the engine.",
+        "The supercritical helium is extremely cold when it leaves its storage tank but it will be heated by warmth from the fuel as both flow through a heat exchanger.",
+        "This technique depends on a constant flow of fuel through the heat exchanger to avoid the fuel freezing within it.",
+        "That flow is missing in the early stages of the burn.",
+        "Therefore, the SHe will not be used for pressurisation until after the DPS engine has been ignited and fuel flow is established.",
+        "Instead, initial pressurisation of the propellant tanks is provided by the contents of the ambient tank.",
+        "Three valves are explosively opened by command from the crew; one to allow ambient helium, via a regulator, into the pressurising lines to the tanks.",
+        "The other two open the lines to the tanks, having been kept closed to prevent propellant contaminating the lines for long periods before the engine is required."
+      ],
+      "speaker": "Commentary",
+      "time": "dpspress"
+    },
+    {
+      "tokens": [
+        "The DPS pressure checkout consists of verifying the ambient helium has pressurized the tanks correctly and that the temperatures are within range.",
+        "Much of this checkout is done in Mission Control, since lots of telemetered data can be seen there, but not in the LM cockpit.",
+        "Therefore, the LM's steerable antenna must be in use to carry all the required high-bit-rate data."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Later, when the DPS engine is ignited and the descent to the Moon has begun, another explosively operated valve will be opened automatically, releasing the SHe to the propellant tanks.",
+        "The SHe will travel via redundant regulators through the heat exchanger."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're ready.",
+        "Press on."
+      ],
+      "speaker": "Mitchell",
+      "time": "1021644"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Scott",
+      "time": "1021649"
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "Give us Narrow please on your High Gain [Antenna]."
+      ],
+      "speaker": "Mitchell",
+      "time": "1021654"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Worden",
+      "time": "1021702"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston; Falcon.",
+        "We've done the descent start.",
+        "The ambient pressure is down to 450 but the manifold pressure hasn't moved.",
+        "[Pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "1021826"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "[Pause.] Okay, Falcon.",
+        "We believe you turned your PQM [Propellant Quantity Monitor] Off, and - and that's your PQGS [Propellant Quantity Gauging System] Off, and - probably your problem - your hed - Helium Monitor.",
+        "I think you got it inadvertently.",
+        "[Pause.] And, Endeavour, we'll take P00 and Accept.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1021839"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You got it."
+      ],
+      "speaker": "Worden",
+      "time": "1021923"
+    },
+    {
+      "tokens": [
+        "Mission Control is uplinking a state vector to the CSM in preparation for Al doing the landmark tracking."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And Falcon..."
+      ],
+      "speaker": "Mitchell",
+      "time": "1021927"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "DPS looks good from down here."
+      ],
+      "speaker": "Mitchell",
+      "time": "1021930"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "1021936"
+    },
+    {
+      "tokens": [
+        "The Descent Propulsion System on the Lunar Module is pressurized and looks good at this time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Falcon; Houston.",
+        "A couple of items.",
+        "Dave do you have a warm feel for the LPD decal."
+      ],
+      "speaker": "Mitchell",
+      "time": "1022005"
+    },
+    {
+      "tokens": [
+        "Rog, Ed.",
+        "It was right on."
+      ],
+      "speaker": "Scott",
+      "time": "1022014"
+    },
+    {
+      "tokens": [
+        "Dave Scott was to check the alignment of the Landing Point Designator, a set of colored lines on the two panes of his forward window.",
+        "The LPD is used during the approach phase of the landing.",
+        "When Dave looks through his window from the correct position, the outer and inner grid will line up.",
+        "Via Jim, the computer will supply angles which will indicate a position on the LPD and as Dave sees the LPD against the lunar surface, this will indicate where the computer thinks it is going to land the LM.",
+        "If Dave wants to alter this point, left, right, downrange or uprange, he only has to \"blip\" the hand controller in the appropriate direction and the computer would maneuver the vehicle by fixed increments to achieve this change."
+      ],
+      "speaker": "Commentary",
+      "time": "lpd"
+    },
+    {
+      "tokens": [
+        "Good enough.",
+        "And we'd like for you to take your Propellant Temp/Press Monitor to Ascent and give us an Ox[idizer] tank read-out, please."
+      ],
+      "speaker": "Mitchell",
+      "time": "1022016"
+    },
+    {
+      "tokens": [
+        "Oxidizer is 100."
+      ],
+      "speaker": "Scott",
+      "time": "1022028"
+    },
+    {
+      "tokens": [
+        "We copy.",
+        "Thank you.",
+        "And, Dave, be advised, there will be no gyro bias updates - or gyro drift updates."
+      ],
+      "speaker": "Mitchell",
+      "time": "1022031"
+    },
+    {
+      "tokens": [
+        "Okay; very good.",
+        "[Long pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "1022044"
+    },
+    {
+      "tokens": [
+        "Houston, Falcon.",
+        "Going into landing radar checkout now."
+      ],
+      "speaker": "Scott",
+      "time": "1022107"
+    },
+    {
+      "tokens": [
+        "Roger, Roger, Falcon.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1022113"
+    },
+    {
+      "tokens": [
+        "The landing radar antenna is an assembly mounted on the underside of the descent stage.",
+        "Four microwave beams at a frequency of around 10GHz provide information about the current altitude (using radar techniques) and the rate of change of altitude (using Doppler techniques) as the LM flies in for a landing.",
+        "The computer has a simplified model of the terrain profile as part of its programming to compensate for the mountainous landscape which will pass below Falcon during the approach to Hadley.",
+        "The computer also compensates for whatever angle the antenna may be pointing away from the local vertical.",
+        "The information coming from the landing radar is fed to the LM computer and also drives the tapemeter display."
+      ],
+      "speaker": "Commentary",
+      "time": "landradar"
+    },
+    {
+      "tokens": [
+        "The antenna has two positions depending on whether the LM is approaching the landing site on its side or hovering in a vertical attitude above it.",
+        "Throughout most of the descent, it is angled 24° from the LM's vertical (X-axis).",
+        "At \"pitch-over\", when the LM enters its hover mode, the antenna is rotated to aim in a direction parallel to the LM's X-axis and therefore pointing straight down."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Dave and Jim are testing the landing radar by having it apply simulated Doppler and radar signals to its processing electronics."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Altitude Transmitter is 3.6.",
+        "Velocity Transmitter, 3.8.",
+        "[Long pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "1022150"
+    },
+    {
+      "tokens": [
+        "Okay, Endeavour; Houston.",
+        "Computer is yours, and you can start your maneuver.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1022216"
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "The computer is yours.",
+        "You can start your maneuver."
+      ],
+      "speaker": "Mitchell",
+      "time": "1022235"
+    },
+    {
+      "tokens": [
+        "Roger, Houston; Endeavour.",
+        "Thank you.",
+        "[Pause.]"
+      ],
+      "speaker": "Worden",
+      "time": "1022243"
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "We're recommending a half a degree per second for your maneuver.",
+        "You've got quite aways to go."
+      ],
+      "speaker": "Mitchell",
+      "time": "1022253"
+    },
+    {
+      "tokens": [
+        "Rog, Ed.",
+        "[Pause.]"
+      ],
+      "speaker": "Worden",
+      "time": "1022302"
+    },
+    {
+      "tokens": [
+        "The maneuver is to put the CSM in the correct attitude in roll for the upcoming P24 landmark tracking exercise over the landing site."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Houston; Falcon.",
+        "The Landing Radar looks good up here."
+      ],
+      "speaker": "Scott",
+      "time": "1022310"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It looks good here.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1022314"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Scott",
+      "time": "1022325"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Falcon, Houston.",
+        "If you'll let us have P00 and Data, we have uplink for you."
+      ],
+      "speaker": "Mitchell",
+      "time": "1022448"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Irwin",
+      "time": "1022455"
+    },
+    {
+      "tokens": [
+        "And I have PADs for Endeavour and Falcon, when you're both ready.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1022458"
+    },
+    {
+      "tokens": [
+        "Falcon's ready."
+      ],
+      "speaker": "Irwin",
+      "time": "1022511"
+    },
+    {
+      "tokens": [
+        "Endeavour's ready."
+      ],
+      "speaker": "Worden",
+      "time": "1022514"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Here we go.",
+        "With Echo, 104:42:30.00; Foxtrot, plus 0108.2, plus all zeros, minus 0050.0; 0144.9, plus 0008.6, 0119.2; 0:36, 000, 270; 0282.5; plus 0108.5, plus all zeros, minus 0049.3; Golf, 107:37:30.00; Hotel, 109:18:45.00.",
+        "Readback.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1022517"
+    },
+    {
+      "tokens": [
+        "There are 4 individual updates in the NO PDI+12 Abort PAD, E through H: Interpreting the PAD:PDI-1 Abort PAD E (Echo):Ground Elapsed Time of the burn (a Noun 33 entry):104:42:30.00.PDI-1 Abort PAD F (Foxtrot):Change in velocity, with respect to the local vertical, fps (m/s):X, +108.2 (+33.0); Y, 0; Z, -50.0 (-15.2).Height of apocynthion:144.9 nautical miles (268.4 km).Height of pericynthion:8.6 nautical miles (15.9 km).Delta-V (Overall change in velocity):119.2 fps (36.3 m/s).Burn Time:0 minutes, 36 seconds.FDAI (Flight Director Attitude Indicator - the \"eight ball\") angles:Roll, 000°; Pitch, 270°.An entry made into the AGS, at address 373, is the minutes until the next burn:02825.AGS Delta VX(Noun 86):+108.5 fps (+33.1 m/s).AGS Delta VY(Noun 86):0 fps.AGS Delta VZ(Noun 86):-49.3 fps (-15.0 m/s).PDI-1 Abort Pad G (Golf):Time of Ignition:107:37:30.00.",
+        "This is the time of ignition of the Coelliptic Sequence Initiation (CSI) maneuver, a Noun 11 entry.",
+        "This maneuver is essentially a plane change, and brings the LM into the same orbital plane as the CSM.PDI-1 Abort Pad H (Hotel):Time of Ignition:109:18:45.00.",
+        "This is the time of ignition of the Terminal Phase Initiation (TPI) maneuver, a Noun 37 entry.",
+        "This maneuver targets the LM for its final approach to the CSM, ensuring proper distance and closing rates.This completes the PAD interpretation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Falcon with the readback on no PDI plus 12.",
+        "104:42:30.00; plus 0108.2, plus all zips, minus 0050.0; 0144.9, plus 0008.6, 0119.2; 0:36, 000, 270; 0282.5; plus 0108.5, plus all zips, minus 0049.3; 107:37:30.00; and 109:18:45.00."
+      ],
+      "speaker": "Irwin",
+      "time": "1022631"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You got cut out there.",
+        "Your AGS Delta-VZ, confirm it's a negative [sign] and [the GET for] Hotel [is] 109:18:45.00.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1022720"
+    },
+    {
+      "tokens": [
+        "That's confirmed, Ed."
+      ],
+      "speaker": "Irwin",
+      "time": "1022736"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Endeavour, give us Omni Charlie, please.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1022738"
+    },
+    {
+      "tokens": [
+        "Endeavour on Omni Charlie."
+      ],
+      "speaker": "Worden",
+      "time": "1022748"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And did you get the readbacks, Al?"
+      ],
+      "speaker": "Mitchell",
+      "time": "1022750"
+    },
+    {
+      "tokens": [
+        "Endeavour copied them - copied the PADs.",
+        "Rog."
+      ],
+      "speaker": "Worden",
+      "time": "1022755"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Here we go with India PDI PAD: 104:30:10.94; 11:03, plus 0002.9; 002, 110, 310; plus 56922; Juliet: 109:18:45.00; Kilo: 107:27:30.00; Lima: 104:50:49.67; Meco: 109:18:45.00; T-2 is at PDI plus 20:39; Nectar: 106:41:20.05.",
+        "Readback.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1022758"
+    },
+    {
+      "tokens": [
+        "These are the third through seventh PDI PADs, and they provide the parameters for PDI, the Powered Descent Initiation, also known as PDI P63 Braking Phase, and for the various aborts through to T-3, the third launch opportunity after landing.",
+        "PAD India is the only one that is not providing abort parameters.",
+        "The name for PAD India originates from the first program of the Powered Descent, known as P63."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "PDI Juliet is for aborts occurring during the first 6 minutes of the Powered Descent.",
+        "Kilo is for any abort from 6 minutes from the start of PDI through touchdown, and prior to T-2, the second opportunity to launch after landing.",
+        "T-2 aborts use PADs Lima and Mike, and the T-3 PAD uses November.",
+        "Note that both the crew and CapCom are rather casual about using the official phonetic alphabet in their transmissions.",
+        "In particular, \"Meco\" is the usual acronym for \"Main Engine Cut-Off\" but Ed is using it for the letter \"M\".",
+        "Interpreting the five PADs:PDI-1 (P63) India.TIGfor PDI (Noun 33):104:30:10.94.\"Time to go\":11 minutes, 3 seconds.",
+        "This is the duration of the powered descent.Crossrange:2.9 nautical miles.",
+        "This is how far out-of-plane (to the left or right) their approach path is compared to the landing site.LM attitude at PDI (Noun 18):Roll: 002°, Pitch: 110°, Yaw: 310°.PDI-1 (up to 6 mins into PDI) Abort PAD Juliet.Time of Ignition for the Transfer Phase Initiation (TPI):109:18:45.00.PDI-1 (from 6 mins to touchdown) Abort PAD Kilo (also a T-1 PAD).Time of Ignition for the Transfer Phase Initiation (TPI):107:27:30.00.T-2 (PDI + 20:39) Abort PAD Lima.Time of Ignition (from the surface):104:50:49.67.Time of Ignition for the Transfer Phase Initiation (TPI):109:18:45.00.T-3 (1 revolution) Abort PAD NovemberTime of ignition (from the surface):106:41:20.05.This completes the PAD interpretation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Falcon, with the readback.",
+        "PDI-1: 104:30:10.94; 11:03, plus 0002.9; 002, 110, 310; plus 56922; Juliet: 109:18:45.00; Kilo: 107:27:30.00; Lima: 104:50:49.67; 109:18:45.00; T-2 at PDI: plus 23:39; and Nan is 106:41:20.05."
+      ],
+      "speaker": "Irwin",
+      "time": "1022918"
+    },
+    {
+      "tokens": [
+        "LM Flight Plan page 3-122."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "CSM Flight Plan page 3-123."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The T-2 time is at 20:39.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1023005"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "20:39."
+      ],
+      "speaker": "Irwin",
+      "time": "1023016"
+    },
+    {
+      "tokens": [
+        "Let's try it again - 20:39."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023019"
+    },
+    {
+      "tokens": [
+        "20:39; thank you, Ed."
+      ],
+      "speaker": "Irwin",
+      "time": "1023025"
+    },
+    {
+      "tokens": [
+        "Good readback.",
+        "[Pause.] Falcon, computer's yours."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023026"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "While Jim has been copying numbers from Houston, Dave has been preparing to photograph the landing site with the Hasselblad and magazine KK (160 ASA colour transparency film).",
+        "At around this time, he takes a photo of an area to the west of the crater Macrobius."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The unusual pattern of the rays of this crater, in particular the 'excluded zone' to the lower right, indicate that the object which formed this feature came in from the lower right at a shallow angle."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Flight Activities Officer [FAO] reports that Al Worden inEndeavouris nearly in the proper attitude for the landmark tracking.",
+        "That's scheduled to begin in about 8 or 9 minutes from now.",
+        "The landmark will first come into view over the horizon at 102 hours, 37 minutes, 27 seconds.",
+        "And it will be about 4 or 5 minutes after that before Worden actually begins taking marks on the landmark."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Reviewing our status briefly, we've nearly completed the systems checkouts on the Lunar Module.",
+        "Everything appears to be in order at the moment both with the LM and the Command Module for the powered descent, which will occur on the next revolution, 14th revolution.",
+        "And we're standing by now for the landmark tracking which Al Worden will perform from the Command ModuleEndeavour."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Endeavour."
+      ],
+      "speaker": "Worden",
+      "time": "1023424"
+    },
+    {
+      "tokens": [
+        "Go ahead, Endeavour."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023427"
+    },
+    {
+      "tokens": [
+        "Roger, Ed.",
+        "Just checking over this P24 PAD again.",
+        "And you didn't update the longitude over 2 on this one.",
+        "Did you want to do that?"
+      ],
+      "speaker": "Worden",
+      "time": "1023432"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "[Pause.] Negative, Al.",
+        "Go with the one in the Flight Plan."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023441"
+    },
+    {
+      "tokens": [
+        "...and low altitude.",
+        "Okay."
+      ],
+      "speaker": "Worden",
+      "time": "1023446"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Dave continues the photography with three photos of a distinctive crater pair between Crisium and Serenitatis.",
+        "These craters were formerly called Macrobius A and B.",
+        "Now they are Carmichael and Hill respectively."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Falcon, Houston.",
+        "Over."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023614"
+    },
+    {
+      "tokens": [
+        "Houston, Falcon.",
+        "Go."
+      ],
+      "speaker": "Scott",
+      "time": "1023619"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Check your CO2Sensor circuit breaker.",
+        "We're showing off-scale low."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023621"
+    },
+    {
+      "tokens": [
+        "Once again, the fact that the reading from the sensor is off-scale-low does not mean that the partial pressure of CO2is low.",
+        "It just means that it cannot be measured - in this case because it is not being supplied with power."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "1023629"
+    },
+    {
+      "tokens": [
+        "Circuit breaker's closed, Ed."
+      ],
+      "speaker": "Irwin",
+      "time": "1023632"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1023634"
+    },
+    {
+      "tokens": [
+        "Endeavour, standby for T-1 minus 30 seconds."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023652"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023657"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "[Long pause.]"
+      ],
+      "speaker": "Worden",
+      "time": "1023659"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "T-1 is the time at which the landing site landmark will first appear on the horizon."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Index Crater is at the spacecraft's theoretical horizon at 102:37:27 GET."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Al is preparing for the P24 landmark tracking task, the results from which will refine the flight control team's knowledge of where the landing site is and the targeting of the LM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Dave continues photography from the LM as he and Jim approach the eastern shore of Mare Serenitatis"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The following photos show examples of the linear features that run parallel to the shore of Mare Serenitatis.",
+        "Some are extensional features, caused by the great weight of basalt that fills the Serenitatis Basin.",
+        "This opens up grabens near the shore like those seen here.",
+        "At the same time, compression features called wrinkle ridges are formed within the mare."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The next three in the series show the wrinkle ridge, Dorsum Androvandi.",
+        "It is easy to make the mistake of seeing this ridge as a sunken feature rather than the raised feature it really is, and it might help to be reminded that the Sun is shining from the left."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "One minute; T-2 minus 1."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024119"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "[Long pause.]"
+      ],
+      "speaker": "Worden",
+      "time": "1024124"
+    },
+    {
+      "tokens": [
+        "Standby for 30 seconds."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024145"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024147"
+    },
+    {
+      "tokens": [
+        "10 seconds."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024204"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024207"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Dave is still taking picures of the approach to Hadley.",
+        "This next image gives an impression of how how low the LM is coasting as the peaks of the Apennine Mountains rise above the horizon."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "CapCom Ed Mitchell is giving Al audio cues leading up to the pitch down portion of the landmark tracking sequence, beginning at 102:42:17, when the spacecraft is made to slowly pitch down so as to keep Index Crater in range of the sextant.",
+        "At 102:43:57,Endeavourwill be closest to Index and by 102:44:45, Al will lose sight of the crater."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Activities Officer [FAO] reports that Worden has begun taking marks and we're seeing those here on our data displays here in the Control Center.",
+        "We'll get a qualitative assessment from Worden following the landmark tracking."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "It's out of sight."
+      ],
+      "speaker": "Worden",
+      "time": "1024454"
+    },
+    {
+      "tokens": [
+        "Roger, Endeavour.",
+        "How did you feel about them, Al?"
+      ],
+      "speaker": "Mitchell",
+      "time": "1024456"
+    },
+    {
+      "tokens": [
+        "Oh, I felt good about them, Ed.",
+        "Right on."
+      ],
+      "speaker": "Worden",
+      "time": "1024503"
+    },
+    {
+      "tokens": [
+        "Very good.",
+        "Thank you."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024505"
+    },
+    {
+      "tokens": [
+        "No question about the landmark.",
+        "And every mark, I had the - the crater centered, Crater Index."
+      ],
+      "speaker": "Worden",
+      "time": "1024508"
+    },
+    {
+      "tokens": [
+        "Very, very good.",
+        "Thank you.",
+        "And I have an update to the PDI abort PAD, when Endeavour and Falcon are ready.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1024517"
+    },
+    {
+      "tokens": [
+        "The Falcon's ready.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1024537"
+    },
+    {
+      "tokens": [
+        "Endeavour's ready."
+      ],
+      "speaker": "Worden",
+      "time": "1024546"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's item Kilo.",
+        "Should be 107:20:30.00.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1024547"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Falcon copied Kilo as 107:20:30.00."
+      ],
+      "speaker": "Irwin",
+      "time": "1024602"
+    },
+    {
+      "tokens": [
+        "This update is for the T1 Abort PAD, which is effective for the first six minutes of Powered Descent.",
+        "The Time of Ignition for the Transfer Phase Initiation Maneuver is being updated to 107:20:30.00.",
+        "(The previous time was 102:27:30.00.)"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Good readback."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024602"
+    },
+    {
+      "tokens": [
+        "Endeavour copies."
+      ],
+      "speaker": "Worden",
+      "time": "1024608"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At about this time, the LM is coasting low over the landing site and Dave takes a sequence of six photographs which show it and and the plain on the opposite side of Hadley Rille.",
+        "These are spectacular images of the bay which they will begin to explore in a couple of hours time."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "Omni Delta."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025051"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In Falcon, Dave is carrying out his second realignment of the LM's guidance platform to thelanding site REFSMMATAs the spacecraft is now in free flight rather than attached to the CSM, Dave will use P52 rather than P57.",
+        "This technique requires Dave to manoeuvre the LM to make his chosen star move across the X and Y lines in the AOT's reticle, taking marks when it coincides with each line.",
+        "A fuller description of the use of the AOT can be found in the commentary after098:46:54.",
+        "Note that the Flight Plan does not define who should carry out these realignments."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Flight Dynamics Officer [FIDO] has confirmed Al Worden's assessment of the landmark tracking.",
+        "He reports that we appear to have gotten sufficient information from the landmark tracking to update the location of the landing site, and this would appear to clear the way for carrying out the landing on the planned revolution on the next rev.",
+        "We'll be giving a Go for the powered descent on reacquiring at the beginning of the 14th revolution.",
+        "The Command Module,Endeavour,now in a more or less circular orbit.",
+        "Al Worden reported that the onboard computations of the orbit following the circularization burn were 65.2 by 54.8 [nautical miles, 120.8 by 101.5 km], which is very close to what we had anticipated and we'll be getting a ground computation of that orbit before too much longer.",
+        "But it would appear from the information passed - passed down to the ground by Worden that the circularization maneuver was almost precisely as planned.",
+        "Both crews, Irwin and Scott aboard the Lunar Module, and Worden aboard the Command Module, are presently involved in making the final alignments of their guidance system platforms prior to the powered descent."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Al is also carrying out a P52 platform realignment to the landing site REFSMMAT."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Falcon, Houston.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1025644"
+    },
+    {
+      "tokens": [
+        "Alright.",
+        "Go ahead, Ed."
+      ],
+      "speaker": "Irwin",
+      "time": "1025650"
+    },
+    {
+      "tokens": [
+        "Let's see if you can reach Endeavour and ask him to bring the High Gain [Antenna] up.",
+        "Flight Plan angles, please.",
+        "Minus 69 and 114.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1025651"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Endeavour, this is Falcon.",
+        "How do you read?",
+        "[Pause.] Roger.",
+        "Houston would like you to bring up the High Gain [Antenna] to a minus 69 and a 114."
+      ],
+      "speaker": "Irwin",
+      "time": "1025705"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Falcon.",
+        "Do you have the torquing angles?"
+      ],
+      "speaker": "Scott",
+      "time": "1025924"
+    },
+    {
+      "tokens": [
+        "That's affirm.",
+        "We have [garble], Falcon."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025926"
+    },
+    {
+      "tokens": [
+        "Dave has the three angles by which the LM IMU must be moved to bring it back into realignment up on his DSKY, from where Mission Control can read then via telemetry.",
+        "Dave used stars 41 (Dabih, Beta Capricorni) and 01 (Alpheratz, Alpha Andromedae) and the angles through which the IMU platform had to be torqued were: X, -0.01°; Y, +0.023°; Z, -0.34°.",
+        "The star angle difference, a check of Dave's sighting accuracy, was 0.01°, a good result."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Torque to 30."
+      ],
+      "speaker": "Scott",
+      "time": "1025933"
+    },
+    {
+      "tokens": [
+        "Copy."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025936"
+    },
+    {
+      "tokens": [
+        "Houston, Endeavour's up on High Gain."
+      ],
+      "speaker": "Worden",
+      "time": "1025941"
+    },
+    {
+      "tokens": [
+        "Roger, Endeavour.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1025944"
+    },
+    {
+      "tokens": [
+        "And, Endeavour, we copy your Noun 93s."
+      ],
+      "speaker": "Mitchell",
+      "time": "1030012"
+    },
+    {
+      "tokens": [
+        "Mission Control has read Endeavour's torquing angles, via telemetry, off Al's DSKY.",
+        "Noun 93 is the operand used to bring these values up on the DSKY.",
+        "Al used stars 01 (Alpheratz, Alpha Andromedae) and 44 (Enif, Epsilon Pegasi) and the angles through which the IMU platform had to be torqued were: X, +0.023°; Y, -0.005°; Z, +0.009°.",
+        "The star angle difference, a check of Dave's sighting accuracy, was 0.00°, an excellent result."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "LM Flight Plan page 3-124."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "CSM Flight Plan page 3-125."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "And I'll torque them out on the minute."
+      ],
+      "speaker": "Worden",
+      "time": "1030017"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "Recommending monitor 92, Noun 92."
+      ],
+      "speaker": "Mitchell",
+      "time": "1030723"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Worden",
+      "time": "1030732"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Al is calibrating the COAS (Crew Optical Alignment Sight) by using it to sight on the star Dabih in Capricorn.",
+        "As part of that procedure, he is to monitor Noun 92 which gives the angles of Endeavour's optical system."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The documentation available to me at the time didn't cover this operation and I asked Dave Scott what he could tell me about it."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott, from1999 correspondence:\"COAS calibration - orient the spacecraft relative to one set of stars such that the plus-X axis points to some other known star; whereby the spacecraft orientation is based on a combination of both spacecraft attitude and optics angles.",
+        "Then look through the COAS and the known star should be centered in the reticle.",
+        "If not, the bias can be determined (e.g., one tic up and one tic right), and that will always be plus-X."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott (continued):\"One brief comment related to the COAS calibration.",
+        "It should be remembered that, fundamentally, the CSM (and LM) procedures were designed to enable the crew to operate the spacecraft without MCC in Houston - primarily for communications loss.",
+        "The MCC capability was then incorporated as additional capability within most procedures.",
+        "Therefore, when evaluating, describing or outlining a flight 'procedure' (CSM or LM), if the procedure works when you take MCC out of the loop (if MCC is in the loop), then the procedure is correct.",
+        "There may be some exceptions to this basic philosophy, but I can't think of any offhand - even the lunar landing procedures did not require MCC involvement to be successful.",
+        "However, 'Mission Techniques' (Data Priority/Tindall) and 'Mission' Rules are another matter.",
+        "Therefore, the COAS calibration procedure had to be independent of Houston, although, as a check or to simplify or verify, Houston could have been involved.",
+        "The COAS was important for many piloting and independent CSM operations, such as spacecraft orientation, rendezvous, docking, etc.",
+        "- e.g., if the IMU and communications with MCC both failed while in lunar orbit, the COAS could be used to align the BMAGs/GDC/SCS and then align the CSM for any particular maneuver or operations; e.g., TEI (Trans-Earth Injection).\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Dave mentions Bill Tindall here who was famed within Apollo, not only for the important work he did in coordinating the development of mission techniques (i.e.",
+        "How do we go to the Moon?), but also for his unique, chatty style of memo writing.",
+        "Tindall's memos are an important resource to those studying the mechanics of the Apollo missions.",
+        "The following memo, dated 11 November 1967, specifically dealt with the calibration of the COAS."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Bill Tindall, frommemo, dated 11 November 1967:\"...the Command Module computer program - COLOSSUS - is being developed to permit use of the [COAS] as a backup reference source for aligning the IMU and for rendezvous navigation.",
+        "This is to guard against some failure of the sextant and telescope as well as providing the capability to make line of sight measurements as might be helpful in a one man rendezvous situation.",
+        "Since precise COAS alignment cannot be established prior to launch, a provision has been made in the spacecraft program to accept and utilize its alignment as determined inflight and specified with reference to the sextant.",
+        "However, it is necessary that the ground supply so-called 'equivalent sextant' shaft and trunnion angles.",
+        "..."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Tindall memo (continued):\"The inflight procedure is as follows.",
+        "The IMU is aligned using the sextant.",
+        "The spacecraft is then maneuvered in attitude such that the COAS is centered precisely on a known star and the Mark button is pushed to get the platform gimbal angles on telemetry to the ground.",
+        "With this information, the ground is able to determine the 'equivalent sextant' shaft and trunnion angles.",
+        "These are the angles which the sextant would have to assume to be centered on that star given that spacecraft orientation.",
+        "Of course, it is impossible for the sextant to view the star with that spacecraft orientation since it would be located approximately on the spacecraft X-axis which is outside the field of view of the sextant.",
+        "It is the equivalent sextant shaft and trunnion angles which must be relayed by voice to the crew."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Tindall memo (continued):\"When the crew later specifies to the computer that they are using the COAS, it displays these parameters which, if not correct, must be input.",
+        "It then uses the optical observation obtained with the COAS just as if it were a sextant mark obtained with those shaft and trunnion angles...\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Tindall's memo predates Apollo 15 by nearly 4 years and the detail of the procedure is bound to have been refined in the meantime.",
+        "During our review in 2004, Dave talked further about Bill Tindall and the pivotal role he played in making a horrendously complex system come together."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "David Woods, from2004 mission review:\"I've heard a lot about the Tindallgrams but I'm interested to learn more about how the meetings operated.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Frank O'Brien, from2004 mission review:\"Were these particularly large meetings?",
+        "Were they lively, rowdy?\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott, from2004 mission review:\"They weren't rowdy but there were some strong debates.",
+        "And Tindall would control the debates in terms of giving people the opportunity to talk, and then mix and match and make the trades.",
+        "And then he would make a decision and say, 'I'm gonna recommend this to management.",
+        "Anybody have any really strong objections?' And the guy who lost the debate may say, 'Yeah, it won't work!' And Tindall would say, 'OK, fine.",
+        "We'll go this way and if it won't work, we'll come back and re-address it, but we'll make a decision today.' And the beauty of Tindall's meetings was he made decisions on the spot.",
+        "And the people who attended had the authority to make a commitment on behalf of their subsystem or whatever.",
+        "So if they made a commitment, and they went back to their management and their management didn't like it, then the guy shouldn't be given the authority to make the commitment.",
+        "And people were also very well qualified in their disciplines.",
+        "The electrical guys or comm guys or whatever were very, very good.",
+        "Tindall forced them into making commitments.",
+        "Forced them.",
+        "He said, 'OK.",
+        "What are you gonna do?",
+        "You gonna put two batteries on or one battery?' Guy says, 'I don't know.' Tindall would say, 'OK.",
+        "We put one.",
+        "Right?' 'Well, OK.' 'Done.",
+        "Now, next subject.' That kind of thing where he kept it moving."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott (continued):\"They were good debates and anybody could stand up and debate the issue.",
+        "But he kept it moving.",
+        "He didn't get bogged down because he himself was a brilliant engineer.",
+        "I think Tindall was a real key to the success of Apollo because of how he brought people together and had them communicate in very complex issues.",
+        "I mean really big complicated trades.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "O'Brien, from2004 mission review:\"That must have been an incredibly difficult job for him because, okay, you have an EECOM guy, you have a GNC guy, you have a propulsion guy and their all experts in their fields and he has to know their job.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott, from2004 mission review:\"Pretty much.",
+        "Yeah.",
+        "He was very good at it.",
+        "If he didn't, he'd have them explain it.",
+        "And in front of all their peers.",
+        "If somebody found a hole in the explanation, they'd say, 'Hey, wait a minute, John.",
+        "No, no, no.",
+        "That's not the way it works.",
+        "Remember it does this or that.' So this openness and discussion, but again, Tindall made decisions and he kept it moving.",
+        "And his decisions were really recommendations to management.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Woods, from2004 mission review:\" Tindall was mainly responsible for issues regarding the spacecraft.",
+        "Was there a similar process to do with the launch vehicle at Kennedy?\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott, from2004 mission review:\"Tindall was not just spacecraft.",
+        "His data priority meant Mission Techniques.",
+        "He was concerned with the whole operational part of the mission including the hardware and the software and how all that traded.",
+        "So his domain, if you will, encompassed the whole mission.",
+        "The launch vehicle had launch, 12 minutes or whatever.",
+        "Tindall had the whole thing including launch.",
+        "Launch aborts and things like that.",
+        "So often a Tindall decision would affect the launch vehicle.",
+        "Like the S-IVB.",
+        "When do you vent the S-IVB and when do you do this and that with the S-IVB because it affected so much more of the mission.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston; Falcon.",
+        "How's the P63 look?"
+      ],
+      "speaker": "Scott",
+      "time": "1030938"
+    },
+    {
+      "tokens": [
+        "Okay, Dave.",
+        "It looks very good.",
+        "Time's okay.",
+        "And be advised, both Endeavour and Falcon, that the P24 looked good.",
+        "There will be an update, but we feel very confident about it.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1030942"
+    },
+    {
+      "tokens": [
+        "Okay, Falcon here.",
+        "Very good."
+      ],
+      "speaker": "Scott",
+      "time": "1031000"
+    },
+    {
+      "tokens": [
+        "Earlier, Dave Scott started Program 63, which calculates the time of ignition, TIG, based on its own information and data uplinked up from Mission Control, and performs the first part of the powered descent burn, the braking phase.",
+        "Houston is happy with the TIGsolution it has arrived at.",
+        "Around now, he will maneuver Falcon to the correct attitude for PDI while Jim is using the alignment of the PGNS to align the AGS."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Falcon, we'd like to see a Verb 47 down to the AGS, please.",
+        "And be advised that your platform, both gyros and PIPA [Pulsed Integrating Pendulous Accelerometers]'s, are [in] good shape.",
+        "No updates to them."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031004"
+    },
+    {
+      "tokens": [
+        "Very good.",
+        "[Long pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "1031019"
+    },
+    {
+      "tokens": [
+        "Verb 47 initialized the AGS with the attitude and acceleration information from the PGNS.",
+        "The AGS used gyros that are \"strapped down\", that is, fixed to the body of the LM, as opposed to the PGNS, whose gyros maintained a fixed attitude in space.",
+        "Realignments of the AGS gyros using star sightings were not necessary, and being fixed, did not have to be \"torqued\" into proper alignment.",
+        "As a result, a simple update from the PGNS was necessary to tell the AGS, essentially, \"which way was up\".",
+        "This is very similar to the way that the BMAGs or Body Mounted Attitude Gyros in the CSM are aligned to the IMU with the GDC Align pushbutton."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Falcon.",
+        "While that's running through there, we're going back through notes, checking over the activation.",
+        "And one thing we missed there was, just before undocking, we ran the suit pressure integrity check, and the first time around, we got a greater than 3/10ths decrease in one minute.",
+        "So we cycled through both regulators, did that test, and came back and ran the suit integrity check again, and it was just fine.",
+        "It was about 1/10th in a minute."
+      ],
+      "speaker": "Scott",
+      "time": "1031026"
+    },
+    {
+      "tokens": [
+        "Dave and Jim discussed this anomaly during the crew's technical debriefing which is reproduced after099:29:40."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Falcon.",
+        "We copy that.",
+        "Thank you."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031138"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "1031144"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With Endeavour's orbit set for the next three days and the landmark tracking completed, Al puts the CSM into an attitude for gathering science data.",
+        "The SIM bay is made to face the lunar surface while the plus-X axis points in the direction of travel, or \"pointy-end-forward.\" This is an \"orb rate\" attitude in which the spacecraft keeps a constant attitude with respect to the ground below, but is slowly rotating with respect to the stars at a rate which matches the orbital period.",
+        "P20 and option 5 sets and maintains this attitude.",
+        "The deadband for holding the desired position is ±5°."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Falcon, Houston."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031256"
+    },
+    {
+      "tokens": [
+        "Houston, Falcon.",
+        "Go."
+      ],
+      "speaker": "Scott",
+      "time": "1031301"
+    },
+    {
+      "tokens": [
+        "Rog, Dave.",
+        "Talk about reviewing notes, we did so, also, and we found one we'd like to pass to you before LOS."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031303"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "1031312"
+    },
+    {
+      "tokens": [
+        "Dave, we - working out a procedure down here that we simmed [that is, ran in the simulator], and it's in the event of a low thrusting DPS during PDI.",
+        "We're prepared to call to you - an RCS thrust augmentation for one minute, at about one minute or a minute and a half into the burn.",
+        "And recommend doing it on the LMP's TTCA [Thrust/Translational Control Assembly], if we have to do it at all.",
+        "What do you think?"
+      ],
+      "speaker": "Mitchell",
+      "time": "1031314"
+    },
+    {
+      "tokens": [
+        "That's fine.",
+        "We'll try that if we need it."
+      ],
+      "speaker": "Scott",
+      "time": "1031347"
+    },
+    {
+      "tokens": [
+        "Okay, the procedures are very simple.",
+        "We'll call it to you as we've measured the thrust."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031350"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And I guess you'll call \"On\" and call \"Off\" with the TTCA, is that correct?"
+      ],
+      "speaker": "Scott",
+      "time": "1031357"
+    },
+    {
+      "tokens": [
+        "We can.",
+        "That'll just be a one minute - a one minute burst."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031403"
+    },
+    {
+      "tokens": [
+        "Okay, fine.",
+        "And by the way, when we went by PD - PDI-0, we took a couple of hacks at the altitude.",
+        "It showed 10 [nautical] miles even."
+      ],
+      "speaker": "Scott",
+      "time": "1031411"
+    },
+    {
+      "tokens": [
+        "Very good."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031420"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The PDI-0 abort PAD was read to the crew during the previous near-side pass.",
+        "It included a TIGfor the abort at 102:39:35 which was one orbit before PDI is due to occur.",
+        "When Falcon reached that point, Dave interrogated the DSKY, probably requesting the values given by Noun 43, the third item of which displays current height."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Woods, from1999 correspondence with Scott:\"I'm interested to know why you felt it was useful to take this reading.",
+        "It isn't mentioned in the Flight Plan and I wonder if it was prompted by some preflight discussion.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott, from1999 correspondence:\"As you note, TIGoccurs at the same physical point as PDI in the orbit - therefore, we knew that we would be starting PDI at 10 nm altitude - just where it is supposed to be.",
+        "If we were low or high, we would have been able to start thinking about post-PDI guidance corrections, or that maybe we were not set up properly for PDI.",
+        "It was basically a nice comfort factor that things were as they should have been.",
+        "However, also note that the PDI-0 point was not at the same physical location over the surface as PDI, since the surface (and target point) would move under the orbit between PDI-0 and PDI.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We're about three minutes away now from loss of radio contact with the Lunar Module.",
+        "However we won't be losing contact with the Command Module due to its higher orbit for about 7 minutes - 7½ minutes.",
+        "The contingency procedure which Ed Mitchell passed up to Dave Scott related to the use of the Reaction Control System thrusters on the Lunar Module in the unlikely event that the LM descent engine is significantly below normal in thrust.",
+        "Normally that engine should produce about 9,900 pounds of thrust.",
+        "If the thrust level should be about 260 pounds low or more, it would be possible to make up the difference by turning on the Reaction Control System thrusters, firing the 4 thrusters in the plus-X direction, adding to the thrust of [the] descent engine.",
+        "These 4 thrusters each provide about 100 lbs of thrust and we found by simulating this technique, if the thrusters are applied early enough in the powered descent, a normal landing can be carried out."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Falcon, Houston.",
+        "You're about a minute and 40 seconds from LOS.",
+        "We'd like to see your 400 plus 30000 before LOS."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031553"
+    },
+    {
+      "tokens": [
+        "The AGS entry, 400 +30000 is used to align the AGS using the Primary Guidance System.",
+        "Houston would like to have the alignment performed before loss of signal so that they have a chance to evaluate AGS performance."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "In work."
+      ],
+      "speaker": "Irwin",
+      "time": "1031606"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Al is scheduled to begin his meal period now."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We're about 1 minute now from Loss Of Signal with the Lunar Module.",
+        "And would like to reemphasize that that technique for using the Reaction Control System thrusters is a backup technique.",
+        "The normal procedure would be to use only the Descent Propulsion System for the braking required for the landing.",
+        "The Reaction Control System thrusters would be used solely for attitude control.",
+        "And in the unlikely event that we have a low thrust engine once we turn on the Descent Propulsion System, then we'll have up the sleeve the possibility of using the Reaction Control System thrusters."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Falcon, Houston.",
+        "LOS in 30 seconds."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031719"
+    },
+    {
+      "tokens": [
+        "Roger, Houston; Falcon.",
+        "All set."
+      ],
+      "speaker": "Scott",
+      "time": "1031724"
+    },
+    {
+      "tokens": [
+        "Omni Delta..."
+      ],
+      "speaker": "Worden",
+      "time": "1031740"
+    },
+    {
+      "tokens": [
+        "Endeavour; Rog.",
+        "[Long pause.]"
+      ],
+      "speaker": "Worden",
+      "time": "1031747"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Worden",
+      "time": "1031759"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We've had Loss Of Signal with the Lunar Module,Falcon.We're getting weak signal strength from the Command Module, although we do have about 3 minutes left before we lose radio contact withEndeavour.And asFalconwent around the corner behind the Moon, we were showing the Lunar Module in an orbit, 60.6 [nautical miles, 112.2 km] at its high point; 60.6 nautical miles, and with a low point of 8.5 nautical miles [15.7 km] above the lunar surface."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston."
+      ],
+      "speaker": "Mitchell",
+      "time": "1032130"
+    },
+    {
+      "tokens": [
+        "Houston, Endeavour.",
+        "Go ahead."
+      ],
+      "speaker": "Worden",
+      "time": "1032136"
+    },
+    {
+      "tokens": [
+        "Rog, Al.",
+        "Your a minute from LOS.",
+        "We recommend, on the next pass, check your S-Band Squelch Switch, Off."
+      ],
+      "speaker": "Mitchell",
+      "time": "1032137"
+    },
+    {
+      "tokens": [
+        "Ah, Rog.",
+        "[Laughing.]"
+      ],
+      "speaker": "Worden",
+      "time": "1032150"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Mitchell",
+      "time": "1032152"
+    },
+    {
+      "tokens": [
+        "Thank you.",
+        "It was On."
+      ],
+      "speaker": "Worden",
+      "time": "1032153"
+    },
+    {
+      "tokens": [
+        "While Al is settling into his meal, Dave and Jim are making final preparations for the powered descent to the Moon's surface.",
+        "As they begin the 14th orbit, they are putting on their helmets and gloves, checking out the Environmental Control System (ECS) and making sure that the appropriate switches are set for PDI.",
+        "Biomedical data is switched to Left meaning from Dave who is occupying the left side of the cockpit."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At some point before they go around to the far side, one of the LM crew snaps two shots of Earth.",
+        "The following scans of these two images are from theMarch to the Moonwebsite from Arizona State University.",
+        "Their scans of the Apollo Hasselblad collection were made at 200 pixels per millimetre, resulting in very large arrays, around 11,000 pixels to a side.",
+        "Therefore, as well as full versions, a crop of Earth is included for each shot."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, we've had Loss Of Signal now with the Command Module.",
+        "When next we reacquire the Lunar Module,Falcon,will be about 25 minutes away from the scheduled time of the powered descent, the beginning of the powered descent to the lunar surface.",
+        "And as both spacecraft went around the corner, everything appeared to be normal.",
+        "At this point we see nothing that would interfere with a normal landing.",
+        "We'll be getting the - taking a final look at the status of the trajectory in both spacecraft on reacquiring, and at that time a decision for the powered decent will be made.",
+        "However, as we say at the present time we see nothing that would stand in - stand in the way of a normal landing on the 14th revolution.",
+        "At 103 hours, 24 minutes; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "LM Flight Plan page 3-126."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "CSM Flight Plan page 3-127."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rev 14 begins at about 103:43."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Midway through this far-side pass, soon after they come back into sunlight, Dave manages to take some photography from his window."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At about 103:58, Dave takes four photos of Tsiolkovsky, a spectacular dark-floored crater on the lunar far side."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "We're now about 4 minutes from reacquiring the Lunar ModuleFalcon, now on its 14th revolution of the Moon.",
+        "On reacquisition of the Lunar Module, the crew will be in final preparations for the powered descent.",
+        "The Flight Dynamics Officer [FIDO] reported that results of the landmark tracking were all satisfactory.",
+        "And we're, as far as the trajectory is concerned, in good shape for the powered descent.",
+        "We will have to steer out about 3.3 miles - nautical miles of cross-range error and this will be taken into account in the targeting for the powered descent.",
+        "I would like to run over the major sequence of events which will occur in the powered descent.",
+        "At about 3 minutes prior to the initiation of the maneuver, Scott and Irwin will yaw 50 degrees left; this is to clear the Lunar Module antennas so that we have good lock-on, good communications during the early portions of the powered descent when the LM body tends to block the antennas without the yaw maneuver.",
+        "Initiation of the powered descent is scheduled to occur at 104 hours, 30 minutes and 11 seconds Ground Elapsed Time; and the nominal burn time would be about 12 minutes to the landing.",
+        "For the first 26 seconds of the burn on the Descent Propulsion System engine, the throttle will be at Minimum; this is to allow the engine gimbal to trim up, get everything going in the right direction before full - full thrust is applied.",
+        "At about 26 seconds, the guidance system throttles the engine to full thrust which is about 9,900 pounds of thrust and is also the thrust level that is maintained throughout a good portion of the braking phase.",
+        "After 3 minutes of burn time, the crew will yaw face up which is the normal attitude for landing radar acquisition.",
+        "At this time, they will be in a position facing upward with their feet, so to speak, in the direction of travel and the LM will be gradually pitching into a more upright position throughout the powered descent maneuver.",
+        "At about 4 minutes into the burn, we can expect to get landing radar data.",
+        "This landing radar updates will begin feeding into the guidance system, improving its knowledge of how far above the lunar surface the Lunar Module is.",
+        "And at about 7½ minutes into the burn, Lunar ModuleFalconwill pass over the Apennine Front, clearing the mountains at a height of about 10,000 feet, passing about 10,000 feet above the mountains which at that point have an altitude of about 12,000 feet above the landing site.",
+        "And at about 9 minutes, 24 seconds; we would reach the point designated \"High gate,\" at which the Lunar Module pitches forward to give the crew their first visibility of the landing site.",
+        "And at this point, they will be switching to Program 64 in the guidance logic which will carry them from an altitude of 7,000 feet down to the altitude of about four or five hundred where they'll switch to Program 66 for the final descent.",
+        "At this point, Dave Scott will most likely be flying with Automatic Attitude Control and he will be controlling the rate of descent manually from probably about 4 to 500 feet vertically down to touchdown.",
+        "Because of the nature of this landing site, there are several opportunities during the powered descent to update the guidance system's knowledge of where it is with respect to the landing site.",
+        "We have had Acquisition of Signal with the Lunar Module.",
+        "We'll stand by for a call to the crew."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Falcon, Houston.",
+        "[No answer.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1040542"
+    },
+    {
+      "tokens": [
+        "Falcon, Houston."
+      ],
+      "speaker": "Mitchell",
+      "time": "1040600"
+    },
+    {
+      "tokens": [
+        "Houston, Falcon.",
+        "Go."
+      ],
+      "speaker": "Scott",
+      "time": "1040605"
+    },
+    {
+      "tokens": [
+        "Roger, Falcon.",
+        "We're ready for your Ascent Bat On time and your ED Bat report.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1040608"
+    },
+    {
+      "tokens": [
+        "Roger, Ed.",
+        "The Ascent Bats were On at 103:50:45, and I'll check the ED Bats now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1040618"
+    },
+    {
+      "tokens": [
+        "And, Houston, this is Falcon.",
+        "ED batteries both check at 37 volts."
+      ],
+      "speaker": "Irwin",
+      "time": "1040653"
+    },
+    {
+      "tokens": [
+        "Batteries in the ascent stage of the LM were brought online whileFalconwas behind the Moon.",
+        "The ED batteries are for detonating the Explosive Devices which separate the ascent stage from the descent stage in the event of an abort during the descent, or when the time comes for lunar lift-off when these pyrotechnic devices must work if the crew is to leave the surface."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Copy; 37 volts.",
+        "And I have an update to your PDI PAD.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1040653"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead."
+      ],
+      "speaker": "Irwin",
+      "time": "1040706"
+    },
+    {
+      "tokens": [
+        "And, Falcon, give us P00 and Data, and we'll give you an uplink.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1040708"
+    },
+    {
+      "tokens": [
+        "Mission Control are going to uplink their most recent calculation of the LM's state vector, probably based on Al's landmark tracking exercise."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "P00 and Data.",
+        "Go ahead with the PAD."
+      ],
+      "speaker": "Scott",
+      "time": "1040720"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "India: 104:30:08.54."
+      ],
+      "speaker": "Mitchell",
+      "time": "1040722"
+    },
+    {
+      "tokens": [
+        "Noun 61 crossrange, plus 0003.3 and your DEDA's 231 entry, plus 56943."
+      ],
+      "speaker": "Mitchell",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The PDI-1 PAD was read up at 102:27:58.",
+        "CapCom Ed Mitchell is giving them two updates to this PAD:Revised time of ignition for PDI:104:30:08.54, 2.4 seconds earlier than before.The LM will have to steer 3.3 nautical miles (6.1 km) north during the descent to compensate for the their orbit being slightly out of the ideal plane."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mitchell also gives them a value to be entered at address 231 in the AGS computer which Jim punches in using the DEDA (Data Entry and Display Assembly), the equivalent to the DSKY.",
+        "The value possibly represents the RLS (Radius of Landing Site or the distance of the landing site from the Moon's centre) in terms understood by the simple logic of the AGS."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ed, if you're reading us, you ought to call us after the - the uplink.",
+        "We cannot read you."
+      ],
+      "speaker": "Irwin",
+      "time": "1040757"
+    },
+    {
+      "tokens": [
+        "Falcon, Houston.",
+        "How do you read now?"
+      ],
+      "speaker": "Mitchell",
+      "time": "1040836"
+    },
+    {
+      "tokens": [
+        "Read you loud and clear, Ed.",
+        "I'm ready for that update now."
+      ],
+      "speaker": "Irwin",
+      "time": "1040842"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "India: 104:30:08.54; Noun 61 crossrange, plus 0003.3; DEDA 231, plus 56943.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1040845"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "104:30:08.54; crossrange, plus 0003.3; DEDA 231, plus 56943."
+      ],
+      "speaker": "Irwin",
+      "time": "1040914"
+    },
+    {
+      "tokens": [
+        "Readback is correct, and be advised that crossrange number means you're going from south to north.",
+        "You'll probably see some roll during the PDI."
+      ],
+      "speaker": "Mitchell",
+      "time": "1040926"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Irwin",
+      "time": "1040939"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We're coming up now on 20 minutes until ignition for the powered descent.",
+        "The landing point for Apollo 15, in a plains area boxed in by mountains on one side, actually on two sides and a rille on the third side.",
+        "We'll putFalcondown about 1 mile from the Hadley Rille.",
+        "They'll be coming in about 2 miles to the south, rather to the north of the point where Hadley Delta begins to rise abruptly to an altitude of about 13,000 feet above the landing site, and approximately 6 miles behind their approach path, about 6 miles from the touch down point to the east, the Apennine Front itself begins to rise up to about 12,000 feet, with the highest peaks in that Front about 15,000."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And here in Mission Control, we've switched over from the large display of the lunar surface that we've had up on our front plot board since going into lunar orbit.",
+        "We now have the analog displays which will tell the Flight Dynamics Officer [FIDO] how well the descent trajectory is progressing and includes abort lines that will tell him if any of the parameters or the characteristics of the trajectory are approaching unsafe limits."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour's orbit is, on average, higher than Falcon's and it is therefore slower.",
+        "Al has only now reached AOS and he has relatively little to do while Mission Control concentrate on working with Dave and Jim leading up to the descent and through to a safe landing."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Verb 47 is to initialise the AGS.",
+        "The DEDA (the keyboard and display for the AGS) is on Jim's side of the cabin."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "Standing by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1041142"
+    },
+    {
+      "tokens": [
+        "And our Instrumentation and Communications Engineer reports that we should have lock on now withEndeavour.",
+        "Al Worden in the Command Module."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Falcon, Houston.",
+        "Computer's yours."
+      ],
+      "speaker": "Mitchell",
+      "time": "1041204"
+    },
+    {
+      "tokens": [
+        "Mission Control have completed their uplink toFalcon'scomputer and control of it is restored to the crew."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you."
+      ],
+      "speaker": "Scott",
+      "time": "1041209"
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "[No answer.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1041213"
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "[No answer.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1041250"
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "How do you read?",
+        "[No answer.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1041311"
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "You're on the scan limit.",
+        "Go to Reacq when you're at the angles.",
+        "[No answer.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1041319"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Flight Plan includes appropriate angles for Al to set the HGA (High Gain Antenna) to."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "How do you read?"
+      ],
+      "speaker": "Mitchell",
+      "time": "1041441"
+    },
+    {
+      "tokens": [
+        "Houston, Endeavour.",
+        "Loud and clear."
+      ],
+      "speaker": "Worden",
+      "time": "1041446"
+    },
+    {
+      "tokens": [
+        "Roger, Endeavour.",
+        "I have an update for the PDI PAD, India.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1041448"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Worden",
+      "time": "1041503"
+    },
+    {
+      "tokens": [
+        "It's 104:30:08.54, Al.",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1041505"
+    },
+    {
+      "tokens": [
+        "Understand.",
+        "PDI is 104:30:08.54."
+      ],
+      "speaker": "Worden",
+      "time": "1041517"
+    },
+    {
+      "tokens": [
+        "Mitchell is essentially informaing Al when the LM's descent will begin."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Good readback."
+      ],
+      "speaker": "Mitchell",
+      "time": "1041523"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "We're ready for Auto on the High Gain [Antenna] please."
+      ],
+      "speaker": "Mitchell",
+      "time": "1041632"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Auto."
+      ],
+      "speaker": "Worden",
+      "time": "1041641"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Falcon, Houston."
+      ],
+      "speaker": "Mitchell",
+      "time": "1041842"
+    },
+    {
+      "tokens": [
+        "Houston, Falcon.",
+        "Go."
+      ],
+      "speaker": "Scott",
+      "time": "1041847"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We did not see the 231 load go in.",
+        "Can you verify that, please?",
+        "[Pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1041849"
+    },
+    {
+      "tokens": [
+        "In work.",
+        "[Pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "1041902"
+    },
+    {
+      "tokens": [
+        "231 is the AGS entry which was requested at104:08:45.",
+        "The value, +56943, represents RLS, the radius of the landing site in hundreds of feet.",
+        "It is essentially a line drawn from the centre of the Moon to the landing site.",
+        "To better appreciate its value, multiply by 100 to get 5,694,300 feet.",
+        "Convert to metres by multiplying by 0.3048 to get 1,735,623 metres or 1,735.6 kilometres.",
+        "Jim needs to enter on the DEDA, 231 (the address where the value will be stored) then +56943."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "There's the readout.",
+        "I didn't put the 231 in.",
+        "You want that also, Ed?"
+      ],
+      "speaker": "Irwin",
+      "time": "1041910"
+    },
+    {
+      "tokens": [
+        "That is affirmative, Falcon.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1041915"
+    },
+    {
+      "tokens": [
+        "Okay, Falcon.",
+        "Thank you.",
+        "[Long pause.]"
+      ],
+      "speaker": "Mitchell",
+      "time": "1041946"
+    },
+    {
+      "tokens": [
+        "We're coming up now on 10 minutes until the beginning of this 12-minute powered burn to the lunar surface.",
+        "At the initiation of this maneuver, the Command ModuleEndeavourwill be about 350 nautical miles [650 km] behind the Lunar Module.",
+        "The Command Module will pass overhead at just about the time the Lunar Module is touching down.",
+        "Aboard the Lunar ModuleFalconthe crew has completed updating their backup guidance system with the same information that has been loaded into the Primary Guidance [and Navigation] System."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Houston, Falcon on Vox.",
+        "How do you read?"
+      ],
+      "speaker": "Scott",
+      "time": "1042037"
+    },
+    {
+      "tokens": [
+        "Dave and Jim switch their communications to Vox.",
+        "Rather than having to press a button to talk to Earth, voice-operated switches will transmit every time they speak, allowing Mission Control to monitor the crew's exchanges during the descent."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Loud and clear, Dave."
+      ],
+      "speaker": "Mitchell",
+      "time": "1042040"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "1042044"
+    },
+    {
+      "tokens": [
+        "[Garble] off.",
+        "[Long pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "1042047"
+    },
+    {
+      "tokens": [
+        "And the crew has now switched on the guidance program - program 63 which will guide the Lunar Module during the initial portion of the power descent, the principal braking phase."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Propellant Quantity Monitors, Descent 1."
+      ],
+      "speaker": "Irwin",
+      "time": "1042119"
+    },
+    {
+      "tokens": [
+        "The descent stage contains four tanks, two each for fuel and oxidiser.",
+        "All four have systems for measuring the quantity of propellant contained within but the crew can only monitor one set of tanks (one fuel and one oxidiser) at a time.",
+        "By default, Jim selects set 1.",
+        "During powered descent, Mission Control will discuss which set is giving a more conservative reading before deciding a couple of minutes before landing to stay with set 1."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Garble]."
+      ],
+      "speaker": "Scott",
+      "time": "1042121"
+    },
+    {
+      "tokens": [
+        "Okay; you ready for the DPS configuration card?"
+      ],
+      "speaker": "Irwin",
+      "time": "1042123"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Scott",
+      "time": "1042126"
+    },
+    {
+      "tokens": [
+        "Since the crew are using the Vox mode of communication, this is one of the few occasions where we get to hear how they operate.",
+        "Dave and Jim both have an intensive aviation background and are used to the strict protocols of challenge and response used in checklists used in every good pilot's routine prior to flight."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Jim has cue card F16 in front of him and reads each line to Dave who confirms that the action required in each has been carried out."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay; CBs on 11.",
+        "DECA Gimbal AC, Closed."
+      ],
+      "speaker": "Irwin",
+      "time": "1042127"
+    },
+    {
+      "tokens": [
+        "DECA Gimbal AC is Closed."
+      ],
+      "speaker": "Scott",
+      "time": "1042131"
+    },
+    {
+      "tokens": [
+        "The DECA (Descent Engine Control Assembly) package is mounted in the descent stage and translates all the signals from the crew's controls or from the computer to the appropriate gimbal actuators on the descent engine.",
+        "The circuit breaker call is to route power to those actuators.",
+        "They adjust the engine's direction of thrust, ensuring the thrust axis passes through the LM's centre of mass."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Command Override logic is Closed.",
+        "Att Control circuit breakers, all Closed, except AEA, Open."
+      ],
+      "speaker": "Irwin",
+      "time": "1042133"
+    },
+    {
+      "tokens": [
+        "Roger, verified."
+      ],
+      "speaker": "Scott",
+      "time": "1042139"
+    },
+    {
+      "tokens": [
+        "Command Override is a shorthand for \"Descent Engine Command Override\", which will allow either pilot to assume control of the descent engine's thrust using the Thrust/Translational Hand Controllers, if required."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Jim then refers to a number of circuit breakers for Stabilization and Control that are located on both his and Dave Scott's panels, which control vital systems such as the hand controllers, the engine controller and engine arming and starting."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Most of these are critical systems, and are powered by two independent electrical busses referred to as simply the Commander's and LMP's busses.",
+        "As a result, there is a set of circuit breakers for these systems on both the Commander's and the LMP's panels.",
+        "By closing the breakers for a particular system on both panels, that piece of equipment will have a source of power if one bus fails.",
+        "The Abort Electronics Assembly (AEA), which includes the Abort Guidance Computer, consumes a nontrivial amount of power, and is left off the Commander's bus to better balance the load on the busses."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rate Scale, 25 degrees per second."
+      ],
+      "speaker": "Irwin",
+      "time": "1042141"
+    },
+    {
+      "tokens": [
+        "25."
+      ],
+      "speaker": "Scott",
+      "time": "1042143"
+    },
+    {
+      "tokens": [
+        "This switch sets the sensitivity of the attitude error needles and the rotational rate indicators (small arrows on a scale at the periphery of the LM's two FDAIs.)"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Thrust Control, Auto, CDR."
+      ],
+      "speaker": "Irwin",
+      "time": "1042144"
+    },
+    {
+      "tokens": [
+        "Auto, CDR."
+      ],
+      "speaker": "Scott",
+      "time": "1042145"
+    },
+    {
+      "tokens": [
+        "The engine thrust controls are being set to allow the computer to control automatically, as opposed to manually by the crew.",
+        "If manual control were to be selected (as it was inApollo 13), another switch directs the engine to take its commands from the Commander's Thrust/Translational Hand Controller."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Attitude/Translation, 4 Jets."
+      ],
+      "speaker": "Irwin",
+      "time": "1042146"
+    },
+    {
+      "tokens": [
+        "4 Jets."
+      ],
+      "speaker": "Scott",
+      "time": "1042147"
+    },
+    {
+      "tokens": [
+        "As with the CSM, attitude control can be done using all four of the quad jet assemblies around the LM, or just two of them.",
+        "In the LM, the sixteen jets are arranged in two redundant sets, each of which fully capable of maneuvering the vehicle.",
+        "When four RCS jets are used, both RCS systems are used adding redundancy if one system should fail.",
+        "Additionally, using four jets for maneuvering gives more authority to control commands when the full descent stage is still attached."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Balance Couple, On."
+      ],
+      "speaker": "Irwin",
+      "time": "1042148"
+    },
+    {
+      "tokens": [
+        "On."
+      ],
+      "speaker": "Scott",
+      "time": "1042149"
+    },
+    {
+      "tokens": [
+        "Balance Coupling is a function specific to the AGS, in which balanced sets of thrusters are selected for attitude maneuvering.",
+        "The RCS system is designed as two independent systems, and each system controls half of the thrusters and is capable of handling the attitude control functions of the LM.",
+        "The AGS doesn't have a sophisticated Digital AutoPilot (DAP) as the PGNS does (remember, the DAP is a software entity, not hardware) and the balance coupling provides the RCS jet selection logic necessary to perform a maneuver."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Engine Gimbal, Enable."
+      ],
+      "speaker": "Irwin",
+      "time": "1042150"
+    },
+    {
+      "tokens": [
+        "Enable."
+      ],
+      "speaker": "Scott",
+      "time": "1042151"
+    },
+    {
+      "tokens": [
+        "The actuators for the engine gimballing system not only have power (from a previous step) but can now accept control commands."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Descent Engine] Command Override, Off."
+      ],
+      "speaker": "Irwin",
+      "time": "1042152"
+    },
+    {
+      "tokens": [
+        "Off."
+      ],
+      "speaker": "Scott",
+      "time": "1042153"
+    },
+    {
+      "tokens": [
+        "Descent Engine Command Override allows the crew to override the engine thrust commanded by the computer.",
+        "We believe it really only works \"in one direction\", that is, to add thrust by manipulating the Thrust/Translational Hand Controller.",
+        "This is contrasted to the manual engine control, where the computer is no longer controlling the engine, and all thrust changes are made through the hand controller."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Abort, Abort Stage, Reset."
+      ],
+      "speaker": "Irwin",
+      "time": "1042154"
+    },
+    {
+      "tokens": [
+        "Reset."
+      ],
+      "speaker": "Scott",
+      "time": "1042155"
+    },
+    {
+      "tokens": [
+        "This resets the Abort and Abort Stage 'discretes', essentially the representative bits in the computer.",
+        "This is done, of course, to make sure that there aren't any stray bits that might cause an unexpected abort when the computer starts the powered descent program."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Deadband, Min."
+      ],
+      "speaker": "Irwin",
+      "time": "1042156"
+    },
+    {
+      "tokens": [
+        "Min."
+      ],
+      "speaker": "Scott",
+      "time": "1042157"
+    },
+    {
+      "tokens": [
+        "As with the Command Module, there are two commonly used settings for the attitude control deadband.",
+        "The or Max(imum) deadband is 5° while Min is ½°."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Attitude Control, 3, to Mode Control."
+      ],
+      "speaker": "Irwin",
+      "time": "1042158"
+    },
+    {
+      "tokens": [
+        "Mode Control."
+      ],
+      "speaker": "Scott",
+      "time": "1042159"
+    },
+    {
+      "tokens": [
+        "This gives control over Roll, Pitch and Yaw rotations to the computer."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "PGNS, AGS to Auto."
+      ],
+      "speaker": "Irwin",
+      "time": "1042200"
+    },
+    {
+      "tokens": [
+        "Auto, Auto."
+      ],
+      "speaker": "Scott",
+      "time": "1042201"
+    },
+    {
+      "tokens": [
+        "The mode control switch has two settings (other than 'off'); Auto and Attitude Hold.",
+        "In the Auto mode, the computer has full control of the vehicles attitude, and can command it to whatever attitude the currently running program requires.",
+        "Of course, the crew can stop any maneuver through a suitably assertive motion on the attitude hand controller."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Attitude Hold is a quasi-manual mode, where the computer attempts to hold the spacecraft at the current attitude.",
+        "If a crewmember wishes to maneuver the vehicle, the computer will let him.",
+        "When the desired attitude is reached, the crewmember will null the rotational rates, and once below a certain deadband value, the computer will again hold that attitude."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Attitude hold is particularly useful when there is lots of movement inside the spacecraft, such as crewmembers moving about or the motions of fuel sloshing in the tanks."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Additionally, Attitude Hold imparts an element of stability and ease of control to the LM.",
+        "Without the computer's intervention, it would be almost impossible to maneuver the LM and then hold it steady at the desired attitude."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stop pushbutton, both reset."
+      ],
+      "speaker": "Irwin",
+      "time": "1042202"
+    },
+    {
+      "tokens": [
+        "Both reset."
+      ],
+      "speaker": "Scott",
+      "time": "1042203"
+    },
+    {
+      "tokens": [
+        "As with the Abort Stage discrete, this is simply resetting the 'Stop Engine' discrete, so that it doesn't accidentally shut down."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The throttle, Yours to Min and mine to Soft Stop."
+      ],
+      "speaker": "Irwin",
+      "time": "1042205"
+    },
+    {
+      "tokens": [
+        "Soft stop.",
+        "And you're - you're clipping a little bit on the first part, Jim."
+      ],
+      "speaker": "Scott",
+      "time": "1042209"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1042217"
+    },
+    {
+      "tokens": [
+        "When the powered descent begins, the descent engine will start at 10 per cent of full thrust while the control system senses the direction of the thrust and adjusts the gimbal actuators to align it with the LM's centre of gravity.",
+        "In case Dave has to assume manual thrust control early in the descent, his TTHC is preset to its Minimum (10 per cent) position, and in case his control lever fails during the descent, they can switch over to Jim's which has been preset to the \"soft stop\" position."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The sensitivity of the VOX switch for Jim's mike is set too low and doesn't operate until he is well into his utterance."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We're down here where I can take a Verb 40, Noun 20."
+      ],
+      "speaker": "Irwin",
+      "time": "1042229"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go.",
+        "[Long pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "1042232"
+    },
+    {
+      "tokens": [
+        "Verb 40 zeros the CDUs (Coupling Data Units).",
+        "Noun 20 displays the ICDU angles for the three gimbals."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Garble] On."
+      ],
+      "speaker": "Irwin",
+      "time": "1042306"
+    },
+    {
+      "tokens": [
+        "Say again."
+      ],
+      "speaker": "Scott",
+      "time": "1042307"
+    },
+    {
+      "tokens": [
+        "AGS steering is in."
+      ],
+      "speaker": "Irwin",
+      "time": "1042308"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "1042310"
+    },
+    {
+      "tokens": [
+        "Guidance Mode Select has been switched to AGS from PGNS as a final check of the Abort system.",
+        "If there are any problems with the AGS in maintaining attitude control, it will become apparent now.",
+        "Guidance Mode Control will be switched back to PGNS at about PDI minus 2 minutes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by for 5 minutes [to PDI ignition]."
+      ],
+      "speaker": "Irwin",
+      "time": "1042318"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "A last look at the Lunar Module orbit showed it to be in an orbit with a high point of 60.6 nautical miles [112.2 km] and a low point of about 8.1 nautical miles [15.0 km].",
+        "The Command ModuleEndeavour, that was in an orbit of 64.6 by 53.8 [nautical miles, 119.6 by 99.6 km].",
+        "And we're now coming up on about 6 minutes prior to the beginning of the powered descent.",
+        "Everything continuing to progress very smoothly, and rather quietly here in Mission Control at the moment."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Five minutes."
+      ],
+      "speaker": "Irwin",
+      "time": "1042511"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Garble]."
+      ],
+      "speaker": "Scott",
+      "time": "1042512"
+    },
+    {
+      "tokens": [
+        "[Garble, may be landing radar] breaker is in.",
+        "Altitude transmitter."
+      ],
+      "speaker": "Irwin",
+      "time": "1042513"
+    },
+    {
+      "tokens": [
+        "Altitude transmitter is 3.7; velocity's 3.8."
+      ],
+      "speaker": "Scott",
+      "time": "1042518"
+    },
+    {
+      "tokens": [
+        "The altitude transmitter call is a request to Dave to verify the signal strength of the radar.",
+        "There are two transmitters in the landing radar, one for altitude and one for velocity."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by for 4 minutes for [garble].",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "1042523"
+    },
+    {
+      "tokens": [
+        "Reading me any better, now?"
+      ],
+      "speaker": "Irwin",
+      "time": "1042536"
+    },
+    {
+      "tokens": [
+        "Yep.",
+        "[Long pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "1042537"
+    },
+    {
+      "tokens": [
+        "Flight Director Glynn Lunney, at this moment getting a final status for powered descent."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go for the final trim."
+      ],
+      "speaker": "Scott",
+      "time": "1042609"
+    },
+    {
+      "tokens": [
+        "This is the final attitude trim before PDI.",
+        "If the LM has drifted from it's PDI attitude, this is the opportunity to correct it."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Falcon, you are Go for PDI."
+      ],
+      "speaker": "Mitchell",
+      "time": "1042611"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go for PDI."
+      ],
+      "speaker": "Scott",
+      "time": "1042619"
+    },
+    {
+      "tokens": [
+        "LM Flight Plan page 3-128."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "CSM Flight Plan page 3-129."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Readers can follow the progress of Falcon through landing, the surface activities and return to orbit by following the link to theApollo Lunar Surface Journalby Eric Jones.",
+        "All the pages from the Flight Plan, including those for the surface activities are available by going to theFlight Plan index page."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day5_part6_preparations_for_landing.html"
+}

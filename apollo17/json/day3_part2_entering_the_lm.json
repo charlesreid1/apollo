@@ -1,0 +1,3958 @@
+{
+  "description": "Apollo 17 Flight Journal - Day 3, part 2: Entering the LM",
+  "transcript": [
+    {
+      "tokens": [
+        "Okay.",
+        "Direct O2is coming Open now."
+      ],
+      "speaker": "Evans",
+      "time": "0392723"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Fullerton",
+      "time": "0392727"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Direct O2's Off."
+      ],
+      "speaker": "Schmitt",
+      "time": "0393011"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0393014"
+    },
+    {
+      "tokens": [
+        "America, before you open the equalization valve, we'd like one final reading on the LM/CM Delta-P."
+      ],
+      "speaker": "Fullerton",
+      "time": "0393055"
+    },
+    {
+      "tokens": [
+        "The equalization valve is built into the CM's forward hatch and permits air to pass in either direction in order to have the pressure on both sides of the hatch be equal.",
+        "Prior to this, Mission Control wish to evacuate the tunnel and LM to rid it of any leftover gases.",
+        "To the side of the hatch is the Tunnel Vent Valve.",
+        "This multiposition valve allows a pressure gauge to monitor the pressure difference across the hatch (the LM/CM Delta-P), or it can vent the tunnel, and hence the LM, to space."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okitydoke.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0393107"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "With this cabin pressure now, it's up to 3.5, almost 3.6."
+      ],
+      "speaker": "Evans",
+      "time": "0393117"
+    },
+    {
+      "tokens": [
+        "The tunnel and LM are now at a pressure that is 3.5 psi lower than the cabin.",
+        "Since the cabin's normal pressure is about 5 psi, the tunnel is at only 1.5 psi."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Ron."
+      ],
+      "speaker": "Fullerton",
+      "time": "0393125"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Jack, Houston.",
+        "We're ready to terminate the charge on battery A.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0393358"
+    },
+    {
+      "tokens": [
+        "Standby."
+      ],
+      "speaker": "Evans",
+      "time": "0393410"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "CSM/LM pressure equalization, huh?",
+        "Okay, Cryo Pressure Indicator to Surge/3 and verify cryo.",
+        "Oh, wait a minute.",
+        "See if I got the right one here.",
+        "[Pause.] Recto 2's on.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0393528"
+    },
+    {
+      "tokens": [
+        "Okay, Gordo, I cycled the Cryo Pressure Indicator from up to down, back to Surge/3.",
+        "And we got a Master Alarm and there was no O2High Flow with it at all."
+      ],
+      "speaker": "Cernan",
+      "time": "0393606"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0393626"
+    },
+    {
+      "tokens": [
+        "Okay, I just did it again to verify it.",
+        "And that picked up - it picked up the Master Alarm, although it might be associated with the fact that the surge tank is down and coming back up."
+      ],
+      "speaker": "Cernan",
+      "time": "0393634"
+    },
+    {
+      "tokens": [
+        "No, I don't think so."
+      ],
+      "speaker": "Evans",
+      "time": "0393648"
+    },
+    {
+      "tokens": [
+        "Roger, Gene.",
+        "Although, the surge tank shouldn't have caused it."
+      ],
+      "speaker": "Fullerton",
+      "time": "0393650"
+    },
+    {
+      "tokens": [
+        "Okay, let me give you one more try on it.",
+        "Well, that time it didn't wait.",
+        "All I did was go up to 1 slash 2 and the Alarm came on.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0393657"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0393712"
+    },
+    {
+      "tokens": [
+        "Okay, I went back to surge/3; it did not.",
+        "So maybe it's coming on when I go up to 1 slash 2."
+      ],
+      "speaker": "Cernan",
+      "time": "0393714"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0393721"
+    },
+    {
+      "tokens": [
+        "Yes, there it is, Gordy.",
+        "It's definitely repeatable.",
+        "I can go up to Pressure Cryo Quantity 1 slash 2 and the Alarm comes on."
+      ],
+      "speaker": "Cernan",
+      "time": "0393726"
+    },
+    {
+      "tokens": [
+        "Okay, Geno; understand."
+      ],
+      "speaker": "Fullerton",
+      "time": "0393738"
+    },
+    {
+      "tokens": [
+        "You might note that - hey..."
+      ],
+      "speaker": "Schmitt",
+      "time": "0393739"
+    },
+    {
+      "tokens": [
+        "Okay..."
+      ],
+      "speaker": "Evans",
+      "time": "0393742"
+    },
+    {
+      "tokens": [
+        "Gordo, you might think about the fact that we were getting them when the cabin pressure was high after launch.",
+        "And there might be some association there, also."
+      ],
+      "speaker": "Schmitt",
+      "time": "0393742"
+    },
+    {
+      "tokens": [
+        "Okay, a good observation.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0393757"
+    },
+    {
+      "tokens": [
+        "Emergency Cabin selector to Off.",
+        "We got to unbolt it down there somewhere.",
+        "Underneath the commander's couch.",
+        "Ah, okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0393805"
+    },
+    {
+      "tokens": [
+        "Repress Package valve, Off; should be Off.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0393838"
+    },
+    {
+      "tokens": [
+        "Okay; verify Direct O2is Closed.",
+        "Okay; Tunnel Vent Valve, LM/Command Module Delta-P.",
+        "[Pause.] Okay, it's greater than 3.1.",
+        "It's up around 3.6.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0393852"
+    },
+    {
+      "tokens": [
+        "Okay, we're going to open the Pressure Equalization Valve."
+      ],
+      "speaker": "Evans",
+      "time": "0393938"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Delta-P is 2½."
+      ],
+      "speaker": "Evans",
+      "time": "0394109"
+    },
+    {
+      "tokens": [
+        "And, Gordy, battery A charge has been stopped and the battery compartment pressure is still reading 0.6."
+      ],
+      "speaker": "Schmitt",
+      "time": "0394112"
+    },
+    {
+      "tokens": [
+        "Roger, Jack.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0394122"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "There's a Delta-P of 2.",
+        "We'll close the equalization valve.",
+        "[Pause.] Yeah, we'll monitor for 3 minutes now."
+      ],
+      "speaker": "Evans",
+      "time": "0394136"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "If the Delta-P is 2 psi and the cabin pressure is 5 psi, then the absolute tunnel pressure is 3 psi.",
+        "With the Equalization Valve closed, monitoring over a 3-minute period should show little change in that reading which will verify that there are no unexpected leaks.",
+        "On the assumption that the CM pressure is stable, then were the Delta-P to increase, air would be leaking out of the tunnel or LM.",
+        "Were it to decrease, air would be entering the tunnel/LM, probably from the CM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Geno, Houston.",
+        "We just wanted to verify that no - none of the lights in the matrix were - flashed when you operated that switch and got the Master Alarm."
+      ],
+      "speaker": "Fullerton",
+      "time": "0394401"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Gordo; none of the lights flashed at all."
+      ],
+      "speaker": "Cernan",
+      "time": "0394415"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0394418"
+    },
+    {
+      "tokens": [
+        "When we get the cabin pressure down, Gordy, here, we might try one more time.",
+        "[Pause.] Which Gene just did."
+      ],
+      "speaker": "Schmitt",
+      "time": "0394421"
+    },
+    {
+      "tokens": [
+        "Okay, and nothing happened?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0394435"
+    },
+    {
+      "tokens": [
+        "That's affirm."
+      ],
+      "speaker": "Schmitt",
+      "time": "0394439"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0394442"
+    },
+    {
+      "tokens": [
+        "Okay, still holding at 2.0 on the Delta-P."
+      ],
+      "speaker": "Evans",
+      "time": "0394540"
+    },
+    {
+      "tokens": [
+        "Okay, we'll open the pressure equalization valve and when the cabin pressure gets to 4.0, hit the Repress O2, Gene.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0394548"
+    },
+    {
+      "tokens": [
+        "Air from the CM cabin will pass through the valve, through the tunnel and through an open valve in the LM's overhead hatch.",
+        "This will raise the pressure in both the tunnel and the LM cabin.",
+        "As it does so, the pressure in the CM cabin must drop.",
+        "If it goes below 4.0 psi, addition oxygen from the repress package will bring it back up to 5."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Delta-P is about 0.6, we might make it this time."
+      ],
+      "speaker": "Evans",
+      "time": "0394658"
+    },
+    {
+      "tokens": [
+        "Delta-P's - Okay, I'm going to open her right up.",
+        "Delta-P is 0.2 now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0394720"
+    },
+    {
+      "tokens": [
+        "There is now little pressure difference between the CM cabin and the tunnel."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston, the hatch is open."
+      ],
+      "speaker": "Schmitt",
+      "time": "0394829"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0394832"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, the Extend Latch is Engaged.",
+        "Red is not visible.",
+        "GN2Bleed button.",
+        "[Singing] Okay; GN2Bleed.",
+        "Not too much in there.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0395039"
+    },
+    {
+      "tokens": [
+        "Okay, Preload Selector lever - rotate parallel to the orange stripe.",
+        "Okay.",
+        "Preload Handle, torque clockwise to unload the old support beams.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0395106"
+    },
+    {
+      "tokens": [
+        "[Clanking noise.] Ah ha!",
+        "The probe is big.",
+        "Whoops - Oh, okay."
+      ],
+      "speaker": "Evans",
+      "time": "0395132"
+    },
+    {
+      "tokens": [
+        "The probe's loose in the tunnel.",
+        "Okay, rotate away from the orange stripe.",
+        "[Singing] Torque...",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0395143"
+    },
+    {
+      "tokens": [
+        "Okay, probe umbilicals.",
+        "Is the LM Power Off?",
+        "Proceed - doesn't make any difference.",
+        "Dock Probe Circuit Breakers undone?",
+        "[Pause.] [Garble.] [Pause.] That's good and tight."
+      ],
+      "speaker": "Evans",
+      "time": "0395225"
+    },
+    {
+      "tokens": [
+        "[Clanking noise.] Oops.",
+        "This darn thing.",
+        "[Pause.] Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0395256"
+    },
+    {
+      "tokens": [
+        "Son of a buck.",
+        "Okay, I'm trying putting those things back on now, just for the heck of it.",
+        "[Pause.] It's brand new; nice and tight.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0395322"
+    },
+    {
+      "tokens": [
+        "Can you smell nitrogen?",
+        "Smell something up here.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0395348"
+    },
+    {
+      "tokens": [
+        "Okay, probe umbilicals disconnected and stow.",
+        "Electrical connector covers are closed.",
+        "Yeah, yeah, those are yellow ones.",
+        "Preload Handle, position against - against the umbilical connector.",
+        "Okay, that's done."
+      ],
+      "speaker": "Evans",
+      "time": "0395356"
+    },
+    {
+      "tokens": [
+        "Selector Lever is in the mid position.",
+        "Installation Strut.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0395418"
+    },
+    {
+      "tokens": [
+        "Okay, Installation Strut is unstowed.",
+        "Capture Latch Release Handle Lock.",
+        "Okay, the Release Handle is unlocked.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0395431"
+    },
+    {
+      "tokens": [
+        "Okay, Ratchet Handle unstowed to the full extension; boost to the first detent.",
+        "[Pause.] That's good and tight going back to the first detent.",
+        "Okay.",
+        "Fold probe, looks like.",
+        "Yes, it's out.",
+        "[Singing.] [Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0395457"
+    },
+    {
+      "tokens": [
+        "Ooooh!",
+        "There it comes.",
+        "[Pause.] That's just like in the simulator.",
+        "It comes down by itself.",
+        "It comes - pushes me out of the way, as a matter of fact.",
+        "Okay.",
+        "I'll get it a little better.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0395531"
+    },
+    {
+      "tokens": [
+        "Okay, Ratchet Handle pulled to full extension and then ratchet one stroke.",
+        "[Pause.] Gets it so it gets it off the thing.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0395600"
+    },
+    {
+      "tokens": [
+        "Okay, that's one stroke backwards now.",
+        "[Pause.] Okay, Ratchet Handle and Installation Strut are restowed.",
+        "Capture Latch Release Handle.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0395625"
+    },
+    {
+      "tokens": [
+        "Okay, Capture Latch Release Handle is rotated 180 degrees and it's back in the recess.",
+        "Okay, let's see if it comes out."
+      ],
+      "speaker": "Evans",
+      "time": "0395708"
+    },
+    {
+      "tokens": [
+        "[Clanking noise.]"
+      ],
+      "speaker": "Evans",
+      "time": "0395720"
+    },
+    {
+      "tokens": [
+        "Ooops.",
+        "Here it comes.",
+        "And I couldn't see it awhile ago, Let me look - the Probe Strut's in the way.",
+        "That's why you can't see it until now.",
+        "Where do we want to go with this thing down over here at the...",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0395722"
+    },
+    {
+      "tokens": [
+        "Houston, it's a nice clean shear pin release there on top of the probe.",
+        "It's nice and clean down there.",
+        "The button is depressed.",
+        "There's play around the little button on the end of the probe there too."
+      ],
+      "speaker": "Evans",
+      "time": "0395823"
+    },
+    {
+      "tokens": [
+        "Okay, Ron.",
+        "In about 1 minute, we're going to have a site handover.",
+        "You'll be talking through Hawaii after that takes place."
+      ],
+      "speaker": "Fullerton",
+      "time": "0395840"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.] What's the docking angle?",
+        "Blew it, I guess.",
+        "1.2 degrees, huh?",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0395853"
+    },
+    {
+      "tokens": [
+        "Yeah, I think I better ver - verify that, just to make sure.",
+        "COAS looks great.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0395923"
+    },
+    {
+      "tokens": [
+        "Hold a minute, Gene - wait a minute.",
+        "You got - there we go."
+      ],
+      "speaker": "Evans",
+      "time": "0395941"
+    },
+    {
+      "tokens": [
+        "[Clanking noise.]"
+      ],
+      "speaker": "Evans",
+      "time": "0395951"
+    },
+    {
+      "tokens": [
+        "At this point, the available recording from the Public Affairs Office no longer carries speech and instead is just radio noise.",
+        "The PAO announcer soon mentions that communications have been split into two links.",
+        "The original typed technical transcript includes a note that \"the CMP aboard America was switched to the GOSS 2 net, for which time-annotated recordings are not available.\" However, at046:46:58, the PAO announcer will inform the press that the missing audio has been located, and the following is what is played back.",
+        "It is of a much inferior quality when compared to the other available recordings."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Garble] even getting - Can't see if there's any scratching on here now.",
+        "[Pause.] [Garble] I [garble] out there."
+      ],
+      "speaker": "Evans",
+      "time": "0400006"
+    },
+    {
+      "tokens": [
+        "Ron, this is Houston.",
+        "Was that a - We'd like to confirm the tunnel index angle - that's a positive - a plus 1.2, is that right?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0400027"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "I don't believe it yet.",
+        "I want to check it myself."
+      ],
+      "speaker": "Evans",
+      "time": "0400037"
+    },
+    {
+      "tokens": [
+        "Well, Gordo, that's what I read, but I figure it's his privilege.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0400040"
+    },
+    {
+      "tokens": [
+        "I was just checking for any scratches on the drogue, but it doesn't look like there is any on there."
+      ],
+      "speaker": "Evans",
+      "time": "0400050"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0400058"
+    },
+    {
+      "tokens": [
+        "See [garble].",
+        "[Singing.",
+        "Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0400104"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "The roll docking index is on a 1.2 - a plus - one point - a plus 1.2."
+      ],
+      "speaker": "Evans",
+      "time": "0400213"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Plus 1.2."
+      ],
+      "speaker": "Fullerton",
+      "time": "0400223"
+    },
+    {
+      "tokens": [
+        "And - I took a look up there in the docking latch number 4.",
+        "The bungee is parallel [garble].",
+        "Bungee is parallel, but it's not fully extended.",
+        "You look down in the end of it you know, and it's not fully extended.",
+        "And the - capture - the docking latch itself or the docking lever is loose on the docking ring.",
+        "So, it looks like to me that's when I ought to recock and fire it again."
+      ],
+      "speaker": "Evans",
+      "time": "0400228"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We copy that, Ron.",
+        "Stand by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0400312"
+    },
+    {
+      "tokens": [
+        "Ron, can you estimate in inches how far down the bungee piston is?",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0400408"
+    },
+    {
+      "tokens": [
+        "Yeah, it's down about a half an inch."
+      ],
+      "speaker": "Evans",
+      "time": "0400418"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0400421"
+    },
+    {
+      "tokens": [
+        "And, when I take the - and move the handle back a ways and I can take the hook [pause] no I did [laughter].",
+        "I took the hook and I pulled it back off the docking ring and then it caught again, so now it won't go back over the docking ring.",
+        "Maybe I just lifted the hook off the docking [garble] ring with my finger."
+      ],
+      "speaker": "Evans",
+      "time": "0400425"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0400458"
+    },
+    {
+      "tokens": [
+        "[Garble]."
+      ],
+      "speaker": "Evans",
+      "time": "0400529"
+    },
+    {
+      "tokens": [
+        "Say, Ron, I would like to caution you again, sticking your finger around or under that hook - there may still be some spring energy stored up there that could release."
+      ],
+      "speaker": "Fullerton",
+      "time": "0400534"
+    },
+    {
+      "tokens": [
+        "Oh, you bet you.",
+        "Yeah, I know that.",
+        "No, I was just touching the top of the hook when I pulled it back off the docking ring.",
+        "[Pause.] I pulled it back onto the docking ring, and it looks like it's back in the cocked position now."
+      ],
+      "speaker": "Evans",
+      "time": "0400547"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I think we've got the picture.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0400608"
+    },
+    {
+      "tokens": [
+        "Do you want me to open the hatch here, Jack, or do you want to - while they're thinking about that I'll get out of the way and come on and open the hatch.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0400642"
+    },
+    {
+      "tokens": [
+        "[Laughter.] Can't get up and can't get down.",
+        "[Long pause.] Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0400722"
+    },
+    {
+      "tokens": [
+        "We're having a long conversation here about that latch, Ron.",
+        "Why don't you all just press on down the checklist and leave it as it is while we think about it?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0400827"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's what we're doing here Gordo.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0400838"
+    },
+    {
+      "tokens": [
+        "Okay, Gordo, do you want the O2Heaters 1 and 2, Off, and 3, Auto?",
+        "That's what you've got.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0400855"
+    },
+    {
+      "tokens": [
+        "Yeah, that's fine.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0400912"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "He's going to open the hatch and IVT.",
+        "Gordo, let me give you a little more on that docking latch.",
+        "When I looked at it, of course, my handle was flush against the edge and it was also - essentially - locked in position.",
+        "But since the bungee was down on the thing I took hold of it, and I felt that the hook itself was loose.",
+        "Okay, so I took the handle and the handle will come back - would come back once you pressed the little button, you know, to release the handle.",
+        "The handle would come back to about a 45-degree position just like it normally does when you try to cock the latches.",
+        "Okay, with the handle back in that 45-degree position, then I grabbed hold of the hook and brought the hook off of the docking ring with my fingers and back to about that 45-degree position again just like it was comparable to the first cocked position.",
+        "And that's the way it is right now."
+      ],
+      "speaker": "Evans",
+      "time": "0400922"
+    },
+    {
+      "tokens": [
+        "Okay, Ron.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0401031"
+    },
+    {
+      "tokens": [
+        "Okay, Gordo, I'm running up through the tunnel from America to Challenger."
+      ],
+      "speaker": "Schmitt",
+      "time": "0401057"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0401103"
+    },
+    {
+      "tokens": [
+        "Yeah [garble].",
+        "Okay [garble]."
+      ],
+      "speaker": "Schmitt",
+      "time": "0401119"
+    },
+    {
+      "tokens": [
+        "One piece of tape coming up shortly, provided I can find the tape.",
+        "Here it is.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0401125"
+    },
+    {
+      "tokens": [
+        "Piece of tape coming up.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0401225"
+    },
+    {
+      "tokens": [
+        "I'll tell you, Gordo, it's remarkably clean up here.",
+        "It doesn't look like the snowstorm that I remember coming into last time."
+      ],
+      "speaker": "Cernan",
+      "time": "0401251"
+    },
+    {
+      "tokens": [
+        "Rog, Geno.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0401301"
+    },
+    {
+      "tokens": [
+        "We tried to leave it all tidied up..."
+      ],
+      "speaker": "Fullerton",
+      "time": "0401307"
+    },
+    {
+      "tokens": [
+        "[Garble] up here.",
+        "Hey, you did a good job, friend.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0401308"
+    },
+    {
+      "tokens": [
+        "Hey, that's good.",
+        "Where is it?",
+        "[Long pause.] Oh, you - straight out there?",
+        "Let me see; I want to see.",
+        "I want to take a look at it, too.",
+        "Hey, there it is; sticking straight out."
+      ],
+      "speaker": "Evans",
+      "time": "0401330"
+    },
+    {
+      "tokens": [
+        "Okay, Houston, America has a VHF antenna - looks deployed perfectly."
+      ],
+      "speaker": "Schmitt",
+      "time": "0401359"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0401408"
+    },
+    {
+      "tokens": [
+        "Hey, you guys are upside down in there [laughter].",
+        "[Long pause.] The old latch here.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0401419"
+    },
+    {
+      "tokens": [
+        "The commander's window has a slight amount of condensation on the - along the lower left edge - that's the left-hand edge, really.",
+        "It seems to be just there when the Sun warms the window."
+      ],
+      "speaker": "Schmitt",
+      "time": "0401513"
+    },
+    {
+      "tokens": [
+        "Roger, Jack.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0401530"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "74 on 1-3."
+      ],
+      "speaker": "Schmitt",
+      "time": "0401539"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0401543"
+    },
+    {
+      "tokens": [
+        "Geez, what was that?",
+        "[laughter] What was that from?",
+        "[Garble] cabin repress.",
+        "[Garble].",
+        "What the hell is that?",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0401555"
+    },
+    {
+      "tokens": [
+        "Sounds like the cabin repress is working up there."
+      ],
+      "speaker": "Fullerton",
+      "time": "0401629"
+    },
+    {
+      "tokens": [
+        "Holy smoley.",
+        "[Garble]."
+      ],
+      "speaker": "Cernan",
+      "time": "0401634"
+    },
+    {
+      "tokens": [
+        "Man oh man, did the heart beat go up on that?"
+      ],
+      "speaker": "Evans",
+      "time": "0401638"
+    },
+    {
+      "tokens": [
+        "Sorry about that [garble]."
+      ],
+      "speaker": "Schmitt",
+      "time": "0401640"
+    },
+    {
+      "tokens": [
+        "[Laughter.] [Garble].",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0401641"
+    },
+    {
+      "tokens": [
+        "This seems to be a repeat of a stunt that Fred Haise became well known for pulling, thanks to its depiction in the movieApollo 13.",
+        "Operation of the LM's Cabin Repress Valve produces a loud bang which is apparently harmless but which startles the other members of the crew."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Turns out - there's Sun out in the AOT."
+      ],
+      "speaker": "Schmitt",
+      "time": "0401659"
+    },
+    {
+      "tokens": [
+        "The Alignment Optical Telescope is a low-power optical instrument intended to allow star sightings to give the guidance system an absolute orientation reference.",
+        "Its eyepiece is mounted at head height between where the two LM crew will stand.",
+        "Its objective pokes out of the top of the LM cabin, angled 45° up from the horizontal.",
+        "Its viewpoint can be rotated into one of six detent positions to allow an all-round swathe of the sky to be viewable when aligning the guidance platform.",
+        "Evidently, the objective happened to be pointed roughly towards the Sun when Jack entered the LM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Jack.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0401706"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm looking out the AOT, and I see a VHF antenna and part of a rendezvous radar antenna in position 1.",
+        "[Long pause.] Position 2 looks right into the radar antenna, and, as I said yesterday, it looks beautiful."
+      ],
+      "speaker": "Schmitt",
+      "time": "0401717"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0401748"
+    },
+    {
+      "tokens": [
+        "Position 3, I can see the other side of America and very, very clean AOT, very clean.",
+        "[Long pause.] Okay, I got a good view of the side of the Service Module, [pause] and you can see these little blisters in the side of the covering there quite distinctly.",
+        "I think people were talking about those before."
+      ],
+      "speaker": "Schmitt",
+      "time": "0401750"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0401839"
+    },
+    {
+      "tokens": [
+        "Yeah, I take that back.",
+        "That's the side of - that's the side of the Command Module - looking at that has the little blisters on it.",
+        "Got to get oriented up here.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0401904"
+    },
+    {
+      "tokens": [
+        "Got a great view of the hatch through position 6.",
+        "Watch your eyes there Gene.",
+        "Look up, rather than into the Sun [garble].",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0401946"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Step 1 on 1-4."
+      ],
+      "speaker": "Schmitt",
+      "time": "0402051"
+    },
+    {
+      "tokens": [
+        "Okay, Gordy.",
+        "The LMP OPS is 6100 psi, 6100."
+      ],
+      "speaker": "Cernan",
+      "time": "0402056"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0402103"
+    },
+    {
+      "tokens": [
+        "And the CDR's OPS is 5900, that's five-nine-zero-zero."
+      ],
+      "speaker": "Cernan",
+      "time": "0402111"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Fullerton",
+      "time": "0402117"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "During their time on the lunar surface, both LM crewmen will carry an emergency supply of oxygen which will be mounted on top of their backpacks.",
+        "This is the Oxygen Purge System (OPS) which consists of two spherical tanks each filled with oxygen to an extremely high pressure.",
+        "Their function is to flood a suit with oxygen in case of a major leak, thereby gaining a crewman extra time to return to the safety of the LM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "040:21:20 -This is Apollo Control.",
+        "Cernan and Evans [means Schmitt] at this time have gone into the Lunar Module, and they're going through the housekeeping transfer of items from the Command Module into the Lunar Module and will proceed with the checklist of activating the spacecraft, or Lunar Module, spacecraft communications system, and the communications have been split into two links on Earth, Air-to-Ground 1 for the Command Module, and Air-to-Ground 2 for the Lunar Module.",
+        "They're on hot mike or a voice-actuated circuit, so we can hear them run through the items as they accomplish them aboard the Lunar Module Challenger."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Zip bag coming up.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0402224"
+    },
+    {
+      "tokens": [
+        "You won't scare me any more if I come on up here with you, will you?",
+        "[Laughter.]."
+      ],
+      "speaker": "Evans",
+      "time": "0402302"
+    },
+    {
+      "tokens": [
+        "I got to go back in there."
+      ],
+      "speaker": "Evans",
+      "time": "0402318"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Evans",
+      "time": "0402318"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "040:24:00 -This is Apollo Control, a correction on the earlier statement, it is Cernan and Schmitt in the Lunar Module Challenger at this time.",
+        "Evans had the detail of removing the probe and drogue earlier, but he's by his lonesome, back in the Command Module."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "Do you want to stack part of it over there?"
+      ],
+      "speaker": "Evans",
+      "time": "0402424"
+    },
+    {
+      "tokens": [
+        "No, wait a minute.",
+        "There's strips of the stuff, you know, I'll just give you a strip of it.",
+        "Take it over there."
+      ],
+      "speaker": "Evans",
+      "time": "0402431"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Here you go.",
+        "That's nine of them, isn't it?"
+      ],
+      "speaker": "Evans",
+      "time": "0402538"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yeah, go ahead, Jack.",
+        "You're in the tunnel.",
+        "What do you need."
+      ],
+      "speaker": "Evans",
+      "time": "0402715"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Evans",
+      "time": "0402720"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0402728"
+    },
+    {
+      "tokens": [
+        "Checking circuit breakers now, Gordy.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0402815"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0402822"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Garble] both circuit breaker panels were as advertised, Gordy."
+      ],
+      "speaker": "Schmitt",
+      "time": "0402951"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Fullerton",
+      "time": "0402957"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Am I not looking in the right place?"
+      ],
+      "speaker": "Evans",
+      "time": "0403632"
+    },
+    {
+      "tokens": [
+        "Let me look.",
+        "I don't know where one is, right offhand.",
+        "I'll check here.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0403637"
+    },
+    {
+      "tokens": [
+        "Well, just help me with some terms here.",
+        "I was just looking again at side of - underneath the power bungee."
+      ],
+      "speaker": "Evans",
+      "time": "0403651"
+    },
+    {
+      "tokens": [
+        "Okay, Gordy; we're at the top of 1-13 and all switches, valves were in proper configuration."
+      ],
+      "speaker": "Schmitt",
+      "time": "0403722"
+    },
+    {
+      "tokens": [
+        "Okay, you could have asked me and I could have told you that.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0403731"
+    },
+    {
+      "tokens": [
+        "We were just trying to give you a plug - Well, if you don't want them - Well, we'll take it back.",
+        "[Laughter.] [Long pause.] I shouldn't have said anything to the world's most experienced DLMP.",
+        "Right?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0403739"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Fullerton",
+      "time": "0403805"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, can you guys open the hatch out there.",
+        "[Pause.] Take your picture.",
+        "[Long Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0403934"
+    },
+    {
+      "tokens": [
+        "Ron, at first glance, it doesn't look like you have one onboard, a picture of the latch.",
+        "We're still looking though, but I don't think we have one."
+      ],
+      "speaker": "Fullerton",
+      "time": "0404027"
+    },
+    {
+      "tokens": [
+        "Well, it was kind of the conclusion I came to there, when I didn't find it in the systems data - Hey, I got a little bit to tell you about that.",
+        "Oh, those little ones underneath the power bungee."
+      ],
+      "speaker": "Evans",
+      "time": "0404038"
+    },
+    {
+      "tokens": [
+        "Okay, go ahead.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0404049"
+    },
+    {
+      "tokens": [
+        "[Garble.] [Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0404113"
+    },
+    {
+      "tokens": [
+        "Okay, if you look at the docking latch number 4 up beside of that - Oh, kind of a J-hook looking thing.",
+        "There is a snowman.",
+        "In other words, a great big fat thing with a head on top of it.",
+        "And if you consider the fat thing with the head on it as a snowman, well then, the snowman's head is pointing out a 9 o'clock, on that one.",
+        "Whereas one that's fully cocked and latched over there, the snowman's head points up at about 11 o'clock.",
+        "And [pause], okay, there's a lever that comes right out of the bottom of the power bungee, it looks like, and then it comes out of the bottom, then [garble] of that lever is another silver slot or silver bar that goes from the lever to the J-hook with the snowman on it.",
+        "That particular thing that connects the J-hook to the lever coming out of the bottom of the bungee is visible.",
+        "In other words, it's not sticking back underneath the J-hook.",
+        "It's visible."
+      ],
+      "speaker": "Evans",
+      "time": "0404122"
+    },
+    {
+      "tokens": [
+        "Ron, we've got just a line drawing here and we've still haven't got with you on what's what according to the drawing.",
+        "Maybe you can hold off until we get a model of the latch, then we can stay with your description."
+      ],
+      "speaker": "Fullerton",
+      "time": "0404249"
+    },
+    {
+      "tokens": [
+        "Oh, okay, Gordy."
+      ],
+      "speaker": "Evans",
+      "time": "0404308"
+    },
+    {
+      "tokens": [
+        "I'll give you a call."
+      ],
+      "speaker": "Fullerton",
+      "time": "0404309"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Evans",
+      "time": "0404313"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Laughter.] [Long pause.]"
+      ],
+      "speaker": "SC",
+      "time": "0404503"
+    },
+    {
+      "tokens": [
+        "Yeah, I know it, it's up to you.",
+        "[Garble] [Pause] [Garble] I want to float up in the tunnel.",
+        "Do you want to float up and look?"
+      ],
+      "speaker": "Evans",
+      "time": "0404538"
+    },
+    {
+      "tokens": [
+        "Yeah, the congestion I had all day yesterday is just about gone."
+      ],
+      "speaker": "Evans",
+      "time": "0404605"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Gordy, you'll be happy to know that putting the LMP's camera together is 500-percent easier in zero gravity."
+      ],
+      "speaker": "Schmitt",
+      "time": "0404739"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0404748"
+    },
+    {
+      "tokens": [
+        "It becomes a two-hand process."
+      ],
+      "speaker": "Schmitt",
+      "time": "0404753"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Is that temporary stow?"
+      ],
+      "speaker": "Evans",
+      "time": "0405130"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Jack, if you get a chance, take a picture back this way."
+      ],
+      "speaker": "Evans",
+      "time": "0405301"
+    },
+    {
+      "tokens": [
+        "Okay [garble].",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0405341"
+    },
+    {
+      "tokens": [
+        "Based on measurements of the image size, two more photographs of Earth are taken around this time showing the Americas."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Evans",
+      "time": "0405423"
+    },
+    {
+      "tokens": [
+        "Putting the cue cards up now, and the camera, by the way, Gordy, operated for two frames and the Reseau looked clean, lens looks clean and everything's fine with it."
+      ],
+      "speaker": "Schmitt",
+      "time": "0405503"
+    },
+    {
+      "tokens": [
+        "Jack is discussing the camera that will be used for taking photos on the lunar surface, not the one he has been using to take pictures of Earth.",
+        "The cameras they will use on the Moon are modified versions of the Hasselblad 500C fitted with Reseau plates, which is a glass plate mounted directly in front of the film.",
+        "It is engraved with fine crosses 1 centimetre apart that leave an imprint on the image to help with photogrammetry.",
+        "The camera he has used for Earth photography is a more basic version of the Hasselblad and does not have a Reseau plate.",
+        "All of them, however, have electric winders, then a novelty in still cameras that use film."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Jack; sounds good."
+      ],
+      "speaker": "Fullerton",
+      "time": "0405516"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "040:55:47 -This is Apollo Control.",
+        "Schmitt and Cernan at this time still in the Lunar Module going through the activation and housekeeping chores that are scheduled in the Flight Plan.",
+        "They entered approximately on time as indicated by the Flight Plan.",
+        "Meanwhile, here in the Control Center, one of the docking collar capture latches is here in the Control Center being examined by flight controllers trying to sort out why some of the latches apparently did not fully engage during the docking operation.",
+        "Spacecraft now 140,451 nautical miles [260,115 km] from Earth.",
+        "Velocity now is 3,683 feet per second [1,123 m/s].",
+        "Continuing to stand by on air-ground 2 for a conversation from the crew of Challenger."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Laughter.] [Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0410059"
+    },
+    {
+      "tokens": [
+        "First up too.",
+        "The regular type, huh?",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0410124"
+    },
+    {
+      "tokens": [
+        "Okay, I can do that."
+      ],
+      "speaker": "Evans",
+      "time": "0410143"
+    },
+    {
+      "tokens": [
+        "Okay, Gordo, we're on the top of 1-15, we're ready to go ahead and transfer the power and we'll give you a call."
+      ],
+      "speaker": "Cernan",
+      "time": "0410145"
+    },
+    {
+      "tokens": [
+        "Okay, Geno.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0410153"
+    },
+    {
+      "tokens": [
+        "Okay, the LM Power circuit breaker is In.",
+        "What the - let me know what you want [garble] Okay, going to Off, Reset.",
+        "Okay, back to Off.",
+        "And, I got the old Master Alarm again.",
+        "Yeah?",
+        "The pressure's been - I don't know what it is."
+      ],
+      "speaker": "Evans",
+      "time": "0410206"
+    },
+    {
+      "tokens": [
+        "Okay, Houston; we got a good transfer."
+      ],
+      "speaker": "Schmitt",
+      "time": "0410234"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0410241"
+    },
+    {
+      "tokens": [
+        "Got it again by hitting the panel.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0410242"
+    },
+    {
+      "tokens": [
+        "Ron, this is Houston."
+      ],
+      "speaker": "Fullerton",
+      "time": "0410340"
+    },
+    {
+      "tokens": [
+        "Yeah, go ahead, Gord."
+      ],
+      "speaker": "Evans",
+      "time": "0410344"
+    },
+    {
+      "tokens": [
+        "Okay, we've got considerable conversation going on here about that docking latch, and it's not at all settled yet.",
+        "But the primary thing we want to guard against is the possibility that it is malfunctioning and that we get it latched down on the ring and can't unlatch it, and, therefore, have problem with undocking, or possibly even prevent it.",
+        "So, we'd like you steer clear of that until we come up with a final solution.",
+        "No experimentation, please.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0410346"
+    },
+    {
+      "tokens": [
+        "Okay, I understand.",
+        "I'll leave them alone.",
+        "And just one little other bit of information to let you know.",
+        "The handle itself is not free at this point to come on back down like it's - you know.",
+        "Like, if it were fully cocked, the handle itself would be free to come back down.",
+        "It is not free, I did not try to put a whole lot of pressure on it, but it's not free."
+      ],
+      "speaker": "Evans",
+      "time": "0410423"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Understand.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0410451"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Glycol Pump 2 is On, it's been on about a minute, and we've got good talkbacks from batteries 1 and 4."
+      ],
+      "speaker": "Schmitt",
+      "time": "0410502"
+    },
+    {
+      "tokens": [
+        "Roger, Jack.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0410512"
+    },
+    {
+      "tokens": [
+        "LMP and CDR buses are 262."
+      ],
+      "speaker": "Schmitt",
+      "time": "0410542"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0410548"
+    },
+    {
+      "tokens": [
+        "Okay, Jack, you can go ahead and switch on - onto high taps on 1 and 4."
+      ],
+      "speaker": "Fullerton",
+      "time": "0410606"
+    },
+    {
+      "tokens": [
+        "That's in work.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0410612"
+    },
+    {
+      "tokens": [
+        "Okay, 1 and 4 are on high taps."
+      ],
+      "speaker": "Schmitt",
+      "time": "0410627"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Fullerton",
+      "time": "0410630"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The LM has seven batteries, two in the ascent stage and the remainder in the decent stage.",
+        "Of these, two batteries (numbers 1 and 4) are used to power some systems in the LM from just before launch to the time when Ron connected up an umbilical from the CSM to the LM, thereby supplying power from the CSM's fuel cells.",
+        "Each battery consists of 20 cells connected in series to produce a voltage of around 28V.",
+        "However, when freshly charged, the battery voltage is somwhat higher than this so in order to supply the LM with approximately the correct voltage, a feed (or tap) is taken off batteries 1 and 4 from cell 17, presenting the circuit with the total voltage from only 17 cells.",
+        "This is known as the low voltage tap.",
+        "Once the crew gain entry into the LM, they switch batteries 1 and 4 to supply power from cell 20, producing voltage across all 20 cells.",
+        "This is known as the high voltage tap.",
+        "The 200-watt consumption of the LM will, by this time, have brought the overall voltage of these batteries down."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, glycol pressure is 22.",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0410822"
+    },
+    {
+      "tokens": [
+        "You faded out, Jack.",
+        "Say again on glycol pressure.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0410831"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It's 22.0."
+      ],
+      "speaker": "Schmitt",
+      "time": "0410836"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Fullerton",
+      "time": "0410841"
+    },
+    {
+      "tokens": [
+        "Well, you can cut off the decimal.",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0410842"
+    },
+    {
+      "tokens": [
+        "Okay, stand by 1.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0410854"
+    },
+    {
+      "tokens": [
+        "Okay, it's off, Jack."
+      ],
+      "speaker": "Evans",
+      "time": "0410909"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "No, wait a minute, I got to go get it.",
+        "Which one you on?",
+        "A?",
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0411100"
+    },
+    {
+      "tokens": [
+        "Okay, Jack, I'm Simplex Alpha.",
+        "Okay, try it again.",
+        "I got the - how me.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0411135"
+    },
+    {
+      "tokens": [
+        "Okay, Jack, you're cutting out on everything, and all I'm getting is the end of your transmission there.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0411154"
+    },
+    {
+      "tokens": [
+        "Okay, I got counting - 1, 2, 3, 4."
+      ],
+      "speaker": "Evans",
+      "time": "0411204"
+    },
+    {
+      "tokens": [
+        "Jack, you read Gene?",
+        "Okay, you - you were loud and clear after your first two words in every case, just like you were cutting out on VOX.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0411208"
+    },
+    {
+      "tokens": [
+        "We got it all..."
+      ],
+      "speaker": "Cernan",
+      "time": "0411231"
+    },
+    {
+      "tokens": [
+        "Got it all that time.",
+        "You got it all that time there now, do you read me too?"
+      ],
+      "speaker": "Evans",
+      "time": "0411232"
+    },
+    {
+      "tokens": [
+        "Well, that's interesting.",
+        "Let me adjust the squelch on this one here.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0411253"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Seems to work.",
+        "I can't hear the squelch on any of them.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0411317"
+    },
+    {
+      "tokens": [
+        "Jack, go VHF A Transmitter and Receiver, Off, and B Transmitter, Voice, and leave the Receiver, On."
+      ],
+      "speaker": "Cernan",
+      "time": "0411326"
+    },
+    {
+      "tokens": [
+        "Okay, Voice, On, and Off on B now."
+      ],
+      "speaker": "Schmitt",
+      "time": "0411334"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.] TR."
+      ],
+      "speaker": "Schmitt",
+      "time": "0411337"
+    },
+    {
+      "tokens": [
+        "Okay, I'm on B now.",
+        "[Pause.] Okay, [garble] get some level.",
+        "How's that?",
+        "[Garble]."
+      ],
+      "speaker": "Evans",
+      "time": "0411348"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're loud and clear, Ron.",
+        "How me?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0411402"
+    },
+    {
+      "tokens": [
+        "Okay, loud and clear that time."
+      ],
+      "speaker": "Evans",
+      "time": "0411404"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And my - my VHF Alpha had to go to 2 on the Squelch, and I'm in 3 on Bravo."
+      ],
+      "speaker": "Schmitt",
+      "time": "0411406"
+    },
+    {
+      "tokens": [
+        "[Garble] okay?"
+      ],
+      "speaker": "Cernan",
+      "time": "0411417"
+    },
+    {
+      "tokens": [
+        "You're loud and clear, Gene."
+      ],
+      "speaker": "Schmitt",
+      "time": "0411419"
+    },
+    {
+      "tokens": [
+        "Okay [garble] but not much."
+      ],
+      "speaker": "Cernan",
+      "time": "0411421"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "How do you read now?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0411427"
+    },
+    {
+      "tokens": [
+        "Okay I got it."
+      ],
+      "speaker": "Cernan",
+      "time": "0411429"
+    },
+    {
+      "tokens": [
+        "Okay, I took it B to 2.",
+        "So it's the same kind of thing I guess."
+      ],
+      "speaker": "Schmitt",
+      "time": "0411430"
+    },
+    {
+      "tokens": [
+        "Okay for four minutes in voice, is low bit rate check [garble]."
+      ],
+      "speaker": "Cernan",
+      "time": "0411437"
+    },
+    {
+      "tokens": [
+        "Okay, Houston, how do you read Challenger?",
+        "Counting 1, 2, 3, 4, 5.",
+        "Over."
+      ],
+      "speaker": "Schmitt",
+      "time": "0411450"
+    },
+    {
+      "tokens": [
+        "Challenger, Houston.",
+        "You're loud and clear, although we have a lot of background noise.",
+        "Not sure whether that's getting through.",
+        "Do you know if Ron is still on VOX?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0411457"
+    },
+    {
+      "tokens": [
+        "Ron has been speaking with the ground using a a more whereby his voice gets switched to the downlink merely by the action of speaking.",
+        "In other words, it is a voice-operated switch, or VOX."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Garble] Challenger to give you a call [garble].",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0411509"
+    },
+    {
+      "tokens": [
+        "Hello, Houston, America.",
+        "How do you read?"
+      ],
+      "speaker": "Cernan",
+      "time": "0411548"
+    },
+    {
+      "tokens": [
+        "America, this is Houston.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0411552"
+    },
+    {
+      "tokens": [
+        "Okay, stand by, and Challenger's going to give you a call on S-band, and VHF checks are both Go on A and B."
+      ],
+      "speaker": "Cernan",
+      "time": "0411557"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I think our site lost lock on Challenger, we are getting some data.",
+        "We'll stand by for another check."
+      ],
+      "speaker": "Fullerton",
+      "time": "0411605"
+    },
+    {
+      "tokens": [
+        "Do you acknowledge that?",
+        "I heard him the first time."
+      ],
+      "speaker": "Schmitt",
+      "time": "0411614"
+    },
+    {
+      "tokens": [
+        "Okay, you ought to be getting in [garble] low bit rate.",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0411616"
+    },
+    {
+      "tokens": [
+        "Okay, Houston, this is Challenger.",
+        "Counting 1, 2, 3, 4, 5.",
+        "How do you read?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0411623"
+    },
+    {
+      "tokens": [
+        "Challenger, Houston.",
+        "You're loud and clear, with the background noise.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0411629"
+    },
+    {
+      "tokens": [
+        "They don't have a good uplink Gene.",
+        "I had signal strength.",
+        "And now I don't have any at all."
+      ],
+      "speaker": "Schmitt",
+      "time": "0411638"
+    },
+    {
+      "tokens": [
+        "Okay, Houston, Challenger gave you a call, but he does not have any uplink signal strength at all."
+      ],
+      "speaker": "Cernan",
+      "time": "0411646"
+    },
+    {
+      "tokens": [
+        "Okay, and we'd like him to hold this configuration right there, until we get the site straightened out and we understand what the problem is."
+      ],
+      "speaker": "Fullerton",
+      "time": "0411654"
+    },
+    {
+      "tokens": [
+        "[Garble] 2.2."
+      ],
+      "speaker": "Schmitt",
+      "time": "0411703"
+    },
+    {
+      "tokens": [
+        "Okay, understand hold configuration there.",
+        "He just got about 2.2 on the signal strength."
+      ],
+      "speaker": "Cernan",
+      "time": "0411706"
+    },
+    {
+      "tokens": [
+        "Okay, Geno.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0411711"
+    },
+    {
+      "tokens": [
+        "And tell them I heard their transmission to you.",
+        "No, a few minutes ago.",
+        "[Pause.] I was at zero signal strength and I heard their transmission, at least one of them.",
+        "The first time they acknowledged, that I was going to do it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0411717"
+    },
+    {
+      "tokens": [
+        "Did you shift my hose back?",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0411752"
+    },
+    {
+      "tokens": [
+        "Hello, Challenger; this is Houston.",
+        "Do you read me?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0411806"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "I read you.",
+        "You're weak but clear.",
+        "Signal strength is fluctuating.",
+        "When you call me, it fluctuated down to about 1.6.",
+        "Over.",
+        "And it's 2 now."
+      ],
+      "speaker": "Schmitt",
+      "time": "0411813"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "You're loud and clear.",
+        "The background noise I've been mentioning, although I guess you haven't heard me mention it until now, is what we expect in Down Voice Backup and Low Bit Rate.",
+        "How have you read this transmission all the way through?",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0411827"
+    },
+    {
+      "tokens": [
+        "Did he say \"say again?\" Gene?",
+        "Gene, did he say \"say again?\" I got a little bit - oh he's got three point..."
+      ],
+      "speaker": "Schmitt",
+      "time": "0411846"
+    },
+    {
+      "tokens": [
+        "[Garble] they're not talking to us [garble]."
+      ],
+      "speaker": "Evans",
+      "time": "0411857"
+    },
+    {
+      "tokens": [
+        "What?",
+        "[Pause.] Okay, Houston.",
+        "I've got 3.4 on the signal strength, and try me again."
+      ],
+      "speaker": "Schmitt",
+      "time": "0411859"
+    },
+    {
+      "tokens": [
+        "Okay, Challenger.",
+        "You're coming in loud and clear.",
+        "How do you read me?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0411912"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "I know you tried to transmit.",
+        "I could just barely tell that.",
+        "I could see the signal strength vary down to 3.",
+        "You were modulating, apparently, but you're not getting through to me."
+      ],
+      "speaker": "Schmitt",
+      "time": "0411920"
+    },
+    {
+      "tokens": [
+        "Okay, Challenger.",
+        "I'm transmitting simul now in both S-band frequencies, and it sounds to us like for some reason when I transmit, the uplink signal starts to break up.",
+        "It's just the way you see it.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0411936"
+    },
+    {
+      "tokens": [
+        "Okay, Gordy.",
+        "You're breaking up there.",
+        "Still modulating, but I cannot read you.",
+        "Would you - would you tell America what you said?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0411953"
+    },
+    {
+      "tokens": [
+        "Yes, Gordy, we - we read you in America loud and clear on that simul."
+      ],
+      "speaker": "Cernan",
+      "time": "0412004"
+    },
+    {
+      "tokens": [
+        "Okay, Geno.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0412009"
+    },
+    {
+      "tokens": [
+        "Is he talking, Gene?",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0412052"
+    },
+    {
+      "tokens": [
+        "As soon as he starts trying to talk, the signal strength drops off about 0.4.",
+        "Now, I have had - I heard him loud and clear one time when he called you guys."
+      ],
+      "speaker": "Schmitt",
+      "time": "0412114"
+    },
+    {
+      "tokens": [
+        "America and Challenger, we're going to hand over to a different site and try that here in about 30 seconds."
+      ],
+      "speaker": "Fullerton",
+      "time": "0412125"
+    },
+    {
+      "tokens": [
+        "What else do we have to do, get some of these mags stowed?",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0412142"
+    },
+    {
+      "tokens": [
+        "We've got to stow the mags.",
+        "Here, put the PPK where it belongs."
+      ],
+      "speaker": "Schmitt",
+      "time": "0412156"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Challenger; this is Houston through Bermuda.",
+        "How do you copy?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0412434"
+    },
+    {
+      "tokens": [
+        "Challenger, this is Houston.",
+        "How do you read me?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0412448"
+    },
+    {
+      "tokens": [
+        "Do you want to [garble] up the camera [garble] tow our LCG back there [garble]."
+      ],
+      "speaker": "Schmitt",
+      "time": "0412454"
+    },
+    {
+      "tokens": [
+        "America, Houston [garble]."
+      ],
+      "speaker": "Fullerton",
+      "time": "0412510"
+    },
+    {
+      "tokens": [
+        "Go ahead [garble]."
+      ],
+      "speaker": "Cernan",
+      "time": "0412516"
+    },
+    {
+      "tokens": [
+        "Go ahead, Gordo [garble]."
+      ],
+      "speaker": "Cernan",
+      "time": "0412522"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "I think he answered us, but he was completely lost in the noise.",
+        "I could just barely make out some answers, somebody talking.",
+        "Could he hear us okay?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0412524"
+    },
+    {
+      "tokens": [
+        "No.",
+        "If he did hear you, he didn't answer."
+      ],
+      "speaker": "Cernan",
+      "time": "0412541"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It was my imagination then."
+      ],
+      "speaker": "Fullerton",
+      "time": "0412546"
+    },
+    {
+      "tokens": [
+        "Challenger, Houston.",
+        "How do you read?",
+        "[No answer.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0412555"
+    },
+    {
+      "tokens": [
+        "Hello, Challenger; Houston.",
+        "How do you read?",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0412605"
+    },
+    {
+      "tokens": [
+        "[Garble] 3.2 [garble] one word [garble] I heard [garble] America."
+      ],
+      "speaker": "Schmitt",
+      "time": "0412627"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Challenger.",
+        "This is Houston.",
+        "1, 2, 3, 4, 5, how do you copy.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0412750"
+    },
+    {
+      "tokens": [
+        "[Garble]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0412805"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "America, Houston."
+      ],
+      "speaker": "Fullerton",
+      "time": "0412931"
+    },
+    {
+      "tokens": [
+        "Can you tell Jack, ask him to verify he's on aft Omni?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0412939"
+    },
+    {
+      "tokens": [
+        "3.2."
+      ],
+      "speaker": "Fullerton",
+      "time": "0412943"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll have him verify he's on aft Omni.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0412947"
+    },
+    {
+      "tokens": [
+        "That's affirm.",
+        "He's verified now."
+      ],
+      "speaker": "Cernan",
+      "time": "0412955"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Fullerton",
+      "time": "0412958"
+    },
+    {
+      "tokens": [
+        "[Garble] earlier when he was [garble] that he had good signal strength [garble] he would transmit [garble]."
+      ],
+      "speaker": "Cernan",
+      "time": "041:29:58"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Fullerton",
+      "time": "0413010"
+    },
+    {
+      "tokens": [
+        "But on this last set of checks, we didn't hear anything at your end."
+      ],
+      "speaker": "Fullerton",
+      "time": "0413012"
+    },
+    {
+      "tokens": [
+        "Apparently not."
+      ],
+      "speaker": "Cernan",
+      "time": "0413017"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Fullerton",
+      "time": "0413019"
+    },
+    {
+      "tokens": [
+        "There was one time earlier when he had zero signal strength where he said he could hear you transmitting to us very weak but clear."
+      ],
+      "speaker": "Cernan",
+      "time": "0413024"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0413035"
+    },
+    {
+      "tokens": [
+        "Hello, Challenger.",
+        "Hello, Challenger; this is Houston.",
+        "How do you read?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0413102"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're loud - well, you're about 3 by, Gordy, but very clear."
+      ],
+      "speaker": "Schmitt",
+      "time": "0413107"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "We're getting you about 1 by 1 in the midst of a lot of noise, but we could tell you're sounding much better."
+      ],
+      "speaker": "Fullerton",
+      "time": "0413113"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "No.",
+        "I've got 2 now signal strength.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0413328"
+    },
+    {
+      "tokens": [
+        "Challenger, this is Houston.",
+        "Going up to you through Bermuda, and your - you should come down through Goldstone.",
+        "How do I sound now?",
+        "[No answer.] [Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0413417"
+    },
+    {
+      "tokens": [
+        "Challenger, Houston.",
+        "How do you read?",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0413441"
+    },
+    {
+      "tokens": [
+        "You're 1.8, 1.8.",
+        "Yep.",
+        "Never heard him.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0413452"
+    },
+    {
+      "tokens": [
+        "Hello, Challenger; Houston.",
+        "How do you read?",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0413534"
+    },
+    {
+      "tokens": [
+        "Gordy received me, didn't he?",
+        "[Pause.] Well, he started to say something; then he dropped off."
+      ],
+      "speaker": "Schmitt",
+      "time": "0413646"
+    },
+    {
+      "tokens": [
+        "Now he's up.",
+        "Haven't heard him.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0413650"
+    },
+    {
+      "tokens": [
+        "America, Houston."
+      ],
+      "speaker": "Fullerton",
+      "time": "0413757"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're going to go back to Goldstone, both up and down, and we'd like Jack to do step 406 on the checklist; in other words, go to Voice, S-Band Voice to Voice, the Biomed to Right.",
+        "And we're going to give it a try in the normal configuration.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0413804"
+    },
+    {
+      "tokens": [
+        "They want step 406, gentlemen.",
+        "Biomed, Right; and S-Band Voice to Voice."
+      ],
+      "speaker": "Cernan",
+      "time": "0413827"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Fullerton",
+      "time": "0413835"
+    },
+    {
+      "tokens": [
+        "Okay, he's going there now."
+      ],
+      "speaker": "Cernan",
+      "time": "0413839"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0413840"
+    },
+    {
+      "tokens": [
+        "Houston, do you read Challenger?"
+      ],
+      "speaker": "Cernan",
+      "time": "0413859"
+    },
+    {
+      "tokens": [
+        "Roger, Challenger.",
+        "Read you weak but clear.",
+        "How do you read?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0413903"
+    },
+    {
+      "tokens": [
+        "Okay, Houston, You just came in loud and clear.",
+        "How do you read?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0413909"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And that time, you're loud and clear, Jack and sounds real good."
+      ],
+      "speaker": "Fullerton",
+      "time": "0413913"
+    },
+    {
+      "tokens": [
+        "Okay, Gordy.",
+        "Let me say once again, way back when we first started and Gene was talking to you, I heard one of your answers, weak but clear, with zero signal strength showing here.",
+        "Now, that might have been through Ron's VOX, I don't know.",
+        "Since then, you've been able to modulate the signal strength, with occasional weak words.",
+        "And - and then, when that signal strength was up around 3.2, where it is now, then you came in loud and clear with a broadcast.",
+        "I answered you, you said about three words, then dropped off completely.",
+        "And then we - we changed configuration."
+      ],
+      "speaker": "Schmitt",
+      "time": "0413921"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "That correlates with what we've seen here in the way of signal strengths dropping in and out.",
+        "Stand by, and I'll see where we want to go from here."
+      ],
+      "speaker": "Fullerton",
+      "time": "0414004"
+    },
+    {
+      "tokens": [
+        "Challenger, Houston.",
+        "We'd like you to do step 7.",
+        "We'll check out the telemetry High Bit Rate.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0414121"
+    },
+    {
+      "tokens": [
+        "Okay; step 7.",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0414130"
+    },
+    {
+      "tokens": [
+        "And, Challenger; Houston.",
+        "Making a voice check.",
+        "How do you copy?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0414140"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You're loud and clear.",
+        "How me?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0414147"
+    },
+    {
+      "tokens": [
+        "You're loud and clear.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0414149"
+    },
+    {
+      "tokens": [
+        "Challenger, Houston.",
+        "We're looking at the High Bit Rate for a minute here while we're waiting.",
+        "Would you check the Cross Tie circuit breakers, panel 16?",
+        "Verify they're Open."
+      ],
+      "speaker": "Fullerton",
+      "time": "0414253"
+    },
+    {
+      "tokens": [
+        "That's verified.",
+        "Cross Tie's Bus and Bal Loads, Open."
+      ],
+      "speaker": "Schmitt",
+      "time": "0414306"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0414311"
+    },
+    {
+      "tokens": [
+        "Challenger, Houston.",
+        "We'd like you to accomplish step number 8.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0414352"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Step 8.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0414406"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "How do you read the Challenger?",
+        "1, 2, 3, 4, 5.",
+        "Over."
+      ],
+      "speaker": "Schmitt",
+      "time": "0414424"
+    },
+    {
+      "tokens": [
+        "Challenger, you're loud and clear.",
+        "How me?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0414428"
+    },
+    {
+      "tokens": [
+        "Loud and clear."
+      ],
+      "speaker": "Schmitt",
+      "time": "0414431"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Fullerton",
+      "time": "0414433"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Challenger, Houston.",
+        "Go ahead with step 9.",
+        "Report the ED Bat voltages.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0414601"
+    },
+    {
+      "tokens": [
+        "Pyrotechnic charges (also known as Explosive Devices, or EDs) are used to carry out various functions on the Lunar Module, particularly the separation of its descent and ascent stages.",
+        "Other functions include the operation of essential helium valves and the deployment of the landing legs.",
+        "Power to ignite the EDs comes from two redundant and independent batteries that have their open-circuit voltage periodically checked."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Wilco.",
+        "Stand by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0414612"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "ED Bats A and B are 37.2."
+      ],
+      "speaker": "Schmitt",
+      "time": "0414703"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.] Okay.",
+        "And go ahead with step 10, and then we'll go back and try to find out what's wrong with Down Voice Backup.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0414709"
+    },
+    {
+      "tokens": [
+        "Gordo, say again, please."
+      ],
+      "speaker": "Schmitt",
+      "time": "0414735"
+    },
+    {
+      "tokens": [
+        "Go ahead and check the sequence camera, if you haven't already, Jack, and then we'll have some steps for you to check out what was wrong with Down Voice Backup.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0414738"
+    },
+    {
+      "tokens": [
+        "All righty.",
+        "Stand by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0414756"
+    },
+    {
+      "tokens": [
+        "Sequence camera - sequence camera is Go."
+      ],
+      "speaker": "Schmitt",
+      "time": "0414816"
+    },
+    {
+      "tokens": [
+        "The sequence camera is also also known as a Data Acquisition Camera, a very NASA-esque name for a Maurer 16-mm movie camera.",
+        "This will be used to film the lunar descent and ascent."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Fullerton",
+      "time": "0414820"
+    },
+    {
+      "tokens": [
+        "And I'm ready for your step."
+      ],
+      "speaker": "Schmitt",
+      "time": "0414824"
+    },
+    {
+      "tokens": [
+        "Stand by 1."
+      ],
+      "speaker": "Fullerton",
+      "time": "0414826"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Challenger, Houston.",
+        "We'd like the Ranging switch to Off/Reset, and the Voice switch to Down Voice Backup, then give us a call.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "0415037"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Off/Reset on Range, and Down Voice Backup on Voice."
+      ],
+      "speaker": "Schmitt",
+      "time": "0415048"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Fullerton",
+      "time": "0415053"
+    },
+    {
+      "tokens": [
+        "Okay, Gordy.",
+        "On Down Voice Backup, how do you read?",
+        "1, 2, 3, 4, 5."
+      ],
+      "speaker": "Schmitt",
+      "time": "0415100"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "You're readable.",
+        "You're [pause].",
+        "Okay, Challenger, we read your transmission, but you're just about - just about lost in the noise.",
+        "Give us another count, please."
+      ],
+      "speaker": "Fullerton",
+      "time": "0415107"
+    },
+    {
+      "tokens": [
+        "Okay, Houston; this is the Challenger.",
+        "You were loud and clear, loud and clear.",
+        "No different from the transmissions in Voice, and counting 1, 2, 3, 4, 5.",
+        "How do you read?",
+        "Over."
+      ],
+      "speaker": "Schmitt",
+      "time": "0415130"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "It got a lot better.",
+        "You're - you're perfectly readable now.",
+        "Sounding good.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0415143"
+    },
+    {
+      "tokens": [
+        "That sounds good.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0415153"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "Would you go to High Bit Rate?"
+      ],
+      "speaker": "Fullerton",
+      "time": "0415207"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Challenger's High Bit Rate.",
+        "How do you read High Bit Rate?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0415212"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Still the same.",
+        "Loud and clear.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0415218"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'd like Biomed, Off now, Jack."
+      ],
+      "speaker": "Fullerton",
+      "time": "0415236"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Going Biomed, Off.",
+        "Okay, Houston.",
+        "How do you read the LM?",
+        "Down Voice Backup; Biomed, Off; PCM, Hi.",
+        "Over."
+      ],
+      "speaker": "Schmitt",
+      "time": "0415243"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "You're loud and clear."
+      ],
+      "speaker": "Fullerton",
+      "time": "0415254"
+    },
+    {
+      "tokens": [
+        "Okay, Gordy.",
+        "And that was hot mike, so that's working fine up here.",
+        "And you're loud and clear, also.",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0415300"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "Let's try PCM, Lo, now.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0415311"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Talking to you Down Voice Backup; Biomed, Off; and PCM, Lo.",
+        "How do you read?",
+        "Over."
+      ],
+      "speaker": "Schmitt",
+      "time": "0415318"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Same old, loud and clear."
+      ],
+      "speaker": "Fullerton",
+      "time": "0415325"
+    },
+    {
+      "tokens": [
+        "Okay, Gordy.",
+        "Certainly is clear up here.",
+        "You're coming through 5 by at signal strength 3.2, and - all appearances up here, that previous problem was an uplink.",
+        "But I guess you were not reading me.",
+        "is that correct?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0415330"
+    },
+    {
+      "tokens": [
+        "Well, I was - The answer is yes and no at various times.",
+        "We think, though, we have a good handle on the problem."
+      ],
+      "speaker": "Fullerton",
+      "time": "0415353"
+    },
+    {
+      "tokens": [
+        "Okay; very good.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0415402"
+    },
+    {
+      "tokens": [
+        "Are you ready for us to press on here, Gordy?",
+        "We're all stowed and - in pretty good shape in the LM."
+      ],
+      "speaker": "Schmitt",
+      "time": "0415416"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'd like you to check one more switch first before moving on.",
+        "Check the Updata Link switch to Off.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0415425"
+    },
+    {
+      "tokens": [
+        "Okay, That is verified Off."
+      ],
+      "speaker": "Schmitt",
+      "time": "0415436"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0415439"
+    },
+    {
+      "tokens": [
+        "Want you to stand by a minute or two Jack, until we verify a funny-looking parameter here on that uplink switch.",
+        "[Pause.]"
+      ],
+      "speaker": "Fullerton",
+      "time": "0415457"
+    },
+    {
+      "tokens": [
+        "Standing by.",
+        "[Pause.] What's that?",
+        "No, they want - they got something looking funny on the uplink - they're [garble] I guess on the uplink switch."
+      ],
+      "speaker": "Schmitt",
+      "time": "0415513"
+    },
+    {
+      "tokens": [
+        "Challenger, Houston..."
+      ],
+      "speaker": "Fullerton",
+      "time": "0415532"
+    },
+    {
+      "tokens": [
+        "They want to look at it."
+      ],
+      "speaker": "Schmitt",
+      "time": "0415533"
+    },
+    {
+      "tokens": [
+        "That was a bad call.",
+        "We were reading the data wrong.",
+        "You're clear to press on with the checklist now on page 1-20."
+      ],
+      "speaker": "Fullerton",
+      "time": "0415535"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll press on.",
+        "Geno, here is your jettison bag.",
+        "You can get back to Ron.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0415545"
+    },
+    {
+      "tokens": [
+        "Okay, S-band PR Off, VHF Off; I can hear you.",
+        "[Pause.] PM Off."
+      ],
+      "speaker": "Schmitt",
+      "time": "0415604"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Geno."
+      ],
+      "speaker": "Fullerton",
+      "time": "0415806"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We just transferred to CSM power, and the caution warning light did go off.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0420211"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0420220"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Gordo, we're about wrapped up here in Challenger.",
+        "It looks like there's some life in - in the old bird, huh?",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0420737"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0420748"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll give you a call when we - when we get the hatch closed.",
+        "Ron's doing some housekeeping in the Command Module, and we're going to take it slow getting back in."
+      ],
+      "speaker": "Cernan",
+      "time": "0420756"
+    },
+    {
+      "tokens": [
+        "Okay, Geno."
+      ],
+      "speaker": "Overmyer",
+      "time": "0420805"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "The drogue is going in.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0421601"
+    },
+    {
+      "tokens": [
+        "Roger, Ron.",
+        "We've got a couple of questions for you about those - about the latch.",
+        "Good old latch number 4 gave us a problem I guess, huh?",
+        "[No answer.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0421614"
+    },
+    {
+      "tokens": [
+        "America, Houston.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0421638"
+    },
+    {
+      "tokens": [
+        "America, go ahead."
+      ],
+      "speaker": "Evans",
+      "time": "0421643"
+    },
+    {
+      "tokens": [
+        "Ron, can you take a look at the latch number 4, and is the hook back away from the ring approximately one inch, as opposed to resting against the ring?",
+        "[No answer.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0421645"
+    },
+    {
+      "tokens": [
+        "America, Houston, did you copy my question?",
+        "[No answer.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0421742"
+    },
+    {
+      "tokens": [
+        "We're going back to air-ground one.",
+        "[Pause.]"
+      ],
+      "speaker": "MCC-H",
+      "time": "0421822"
+    },
+    {
+      "tokens": [
+        "Okay, I heard somebody going to air-ground one that time, and..."
+      ],
+      "speaker": "Evans",
+      "time": "0421822"
+    },
+    {
+      "tokens": [
+        "Roger, Ron.",
+        "Got a couple of questions on those - that latch number 4 if you can answer it for me.",
+        "[No answer.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0421836"
+    },
+    {
+      "tokens": [
+        "America, Houston.",
+        "[No answer.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0421856"
+    },
+    {
+      "tokens": [
+        "America, Houston.",
+        "We're back with you after some site changeover.",
+        "How do you read?"
+      ],
+      "speaker": "Overmyer",
+      "time": "0421938"
+    },
+    {
+      "tokens": [
+        "Okay; loud and clear.",
+        "How me, Bob?"
+      ],
+      "speaker": "Evans",
+      "time": "0421946"
+    },
+    {
+      "tokens": [
+        "Real good, Ron.",
+        "On that number 4, latch number 4, is the hook backed away from the ring about 1 inch as opposed to resting against the ring?",
+        "Do you have about an inch clearance on that hook right now?",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0421948"
+    },
+    {
+      "tokens": [
+        "Well, there's about ½ inch."
+      ],
+      "speaker": "Evans",
+      "time": "0422014"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Understand about ½ inch.",
+        "In what position was the latch handle when the hook was first moved back, Ron?",
+        "Was it kind of like in a normal stroke-back, or was it just flopping back?",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0422017"
+    },
+    {
+      "tokens": [
+        "No, when I first looked at it, the latch handle was - see, the hook itself was over the ring when I first looked at it."
+      ],
+      "speaker": "Evans",
+      "time": "0422032"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "We understand that..."
+      ],
+      "speaker": "Overmyer",
+      "time": "0422041"
+    },
+    {
+      "tokens": [
+        "The hook was over the ring, and the - and the latch handle was flush, you know.",
+        "It looks just like a normal - hooked docking latch, you know."
+      ],
+      "speaker": "Evans",
+      "time": "0422041"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Understand."
+      ],
+      "speaker": "Overmyer",
+      "time": "0422054"
+    },
+    {
+      "tokens": [
+        "And, Bob, this is Gene.",
+        "I can confirm that it did not fold back easily, because I - I checked it yesterday.",
+        "I didn't check - I checked to see that the hooks were over as well as where the handles would fold back, but I obviously didn't check to see whether that one was seated.",
+        "But the handle was locked."
+      ],
+      "speaker": "Cernan",
+      "time": "0422055"
+    },
+    {
+      "tokens": [
+        "Yes, that's right."
+      ],
+      "speaker": "Evans",
+      "time": "0422117"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand.",
+        "And the first thing you saw was the depression in the bungee.",
+        "is that - is that affirm?"
+      ],
+      "speaker": "Overmyer",
+      "time": "0422118"
+    },
+    {
+      "tokens": [
+        "Yeah, that's affirm.",
+        "And the bungee is depressed about 3/8 - 3/8 to a ½ inch you know."
+      ],
+      "speaker": "Evans",
+      "time": "0422124"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0422130"
+    },
+    {
+      "tokens": [
+        "You can push the - you can push the hook about an inch away from the ring, but the normal - just a resting position on the thing is about a finger's width or ½ inch from the ring."
+      ],
+      "speaker": "Evans",
+      "time": "0422148"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "In other words, the loose - The hook is loose so it flops a little bit; you can move it back and forth.",
+        "Is that affirm?"
+      ],
+      "speaker": "Overmyer",
+      "time": "0422204"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "I can move it from about ½ inch to an inch from the edge of the ring - clearing the edge of the docking ring."
+      ],
+      "speaker": "Evans",
+      "time": "0422212"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Ron, when you pulled the hook - when you pulled the handle back, did you reach and pull the hook back with it, or did it come back with the handle like a normal pullback then?"
+      ],
+      "speaker": "Overmyer",
+      "time": "0422218"
+    },
+    {
+      "tokens": [
+        "No, the - the hook did not come back with the handle.",
+        "The hook did not come back with the handle.",
+        "Although, when I - when I pulled the handle back to - you know, which is - which is kind of a normally uncocked position - and then it wouldn't go any further, you know.",
+        "It wouldn't go an farther.",
+        "And then the latch itself - or the hook - the J-hook; I'll call it the hook.",
+        "I moved it off off the docking ring back to this position that was about an inch or ½ inch from the docking ring.",
+        "And it stays right there now.",
+        "And I can't push it back up into the docking ring at all.",
+        "Can't push the hook back up to the docking ring at all."
+      ],
+      "speaker": "Evans",
+      "time": "0422231"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We copy that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0422325"
+    },
+    {
+      "tokens": [
+        "Okay, Ron.",
+        "Our plan here is to leave it like it is.",
+        "And we're going to think about it tonight, and we'd like you to just keep pressing on.",
+        "Just leave it alone, okay?"
+      ],
+      "speaker": "Overmyer",
+      "time": "0422338"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Sounds good.",
+        "It'll clear the docking ring; no problem.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0422348"
+    },
+    {
+      "tokens": [
+        "Houston, America.",
+        "While Ron's putting in the probe and getting the hatch back in, I'm going to go ahead and maneuver.",
+        "How's that sound?"
+      ],
+      "speaker": "Cernan",
+      "time": "0422402"
+    },
+    {
+      "tokens": [
+        "That's real fine, Gene."
+      ],
+      "speaker": "Overmyer",
+      "time": "0422416"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "042:24:30 -This is Apollo Control at 42 hours, 27 minutes Ground Elapsed Time.",
+        "We're estimating the change of shift press conference in 15 minutes; 15 minutes at 6:15 Central Time in the small briefing room.",
+        "Spacecraft communicator now is Bob Overmeyer.",
+        "During this past checkout of the Lunar Module, we've had considerable difficulty in some of the communications configurations in the way the downlinks and uplinks were set up.",
+        "And some bit of difficulty in sorting out just what the nature of the problem in one of the docking latches is.",
+        "People will be examining this through the night and during the checkout of the LM tomorrow, or additional work in the LM, perhaps the thing can be sorted out.",
+        "Apollo 17 presently at 143,562 nautical miles [265,877 km] out from Earth, traveling at a velocity of 3,590 feet per second [1,094 m/s].",
+        "At 42:28 and standing by, this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Bob, are you all going to want Omni or High Gain on this?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0422614"
+    },
+    {
+      "tokens": [
+        "Stand by on that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0422620"
+    },
+    {
+      "tokens": [
+        "We're all locked up on the High Gain.",
+        "We'd just like you to leave it on High Gain.",
+        "The angles you see in the Flight Plan are in case it breaks lock.",
+        "That's what you need for - with this attitude.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0422637"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Schmitt",
+      "time": "0422652"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "The probe is installed.",
+        "We'll get the hatch in now."
+      ],
+      "speaker": "Evans",
+      "time": "0423010"
+    },
+    {
+      "tokens": [
+        "Roger, Ron.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0423015"
+    },
+    {
+      "tokens": [
+        "I'm not going to connect the umbilicals unless you really want to look at probe temperature."
+      ],
+      "speaker": "Evans",
+      "time": "0423021"
+    },
+    {
+      "tokens": [
+        "Stand by on that, Ron.",
+        "[Pause.] We concur on that, Ron."
+      ],
+      "speaker": "Overmyer",
+      "time": "0423030"
+    },
+    {
+      "tokens": [
+        "Okay; good."
+      ],
+      "speaker": "Evans",
+      "time": "0423043"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "The hatch went in nominally, once the probe installation strut was stowed in the right position."
+      ],
+      "speaker": "Evans",
+      "time": "0423628"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0423642"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day3_part2_entering_the_lm.html"
+}

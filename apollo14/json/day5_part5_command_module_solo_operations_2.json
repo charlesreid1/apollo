@@ -1,0 +1,2879 @@
+{
+  "description": "A14FJ - Day 5, part 5: Command Module Solo Operations 2",
+  "transcript": [
+    {
+      "tokens": [
+        "Al Shepard and Ed Mitchell have landed at Fra Mauro after a harrowing time troubleshooting the onboard computer.",
+        "They are about to step out of the Antares and onto the lunar surface, while Stu Roosa circling the Moon presses on with his own hectic schedule of lunar surface target and astronomy photography experiments."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Editor's note:All transcript times are presented according to the GET update at 054:53:36 that saw the mission timer moved forward 40 minutes, 2.90 seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-132"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-133"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-134"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-135"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, how do you read Kitty Hawk?"
+      ],
+      "speaker": "Roosa",
+      "time": "1140703"
+    },
+    {
+      "tokens": [
+        "Okay, Kitty Hawk; Houston.",
+        "We got you loud and clear."
+      ],
+      "speaker": "Evans",
+      "time": "1140706"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1140712"
+    },
+    {
+      "tokens": [
+        "And, Stu, I guess we may as well start off with the P24 landmark tracking PAD, there, on page 21.",
+        "And, let me ask you a question here.",
+        "If the - the hours are the same in all these T1, T2, TCAs, and T3, how about just reading the hour on the T1and read minutes and seconds on the rest of them.",
+        "Is that okay?"
+      ],
+      "speaker": "Evans",
+      "time": "1140718"
+    },
+    {
+      "tokens": [
+        "That sounds like a great idea."
+      ],
+      "speaker": "Roosa",
+      "time": "1140743"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Good."
+      ],
+      "speaker": "Evans",
+      "time": "1140745"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston."
+      ],
+      "speaker": "Evans",
+      "time": "1140937"
+    },
+    {
+      "tokens": [
+        "Houston, how do you read Kitty Hawk?"
+      ],
+      "speaker": "Roosa",
+      "time": "1140938"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Loud and clear there.",
+        "Now, Stu, how about that P00 and Accept here, and we'll ship you a state vector.",
+        "And whenever you're ready to copy on the LM visual PAD."
+      ],
+      "speaker": "Evans",
+      "time": "1140940"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You have P00 and Accept, and I'm ready to copy."
+      ],
+      "speaker": "Roosa",
+      "time": "1140955"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "T1, 114:43:27; 48:27, 49:57, 50:11; north 12 miles.",
+        "Okay for your latitude - it'll be a minus 03.651; longitude over 2, minus 08.734.",
+        "And you can make a little note down there for the site map.",
+        "The coordinates - latest ones, are CQ 0.1 and 65.4, that's Charlie Quebec 0.1."
+      ],
+      "speaker": "Evans",
+      "time": "1140957"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copy 114:43:27, 48:27, 49:57, 50:11; north 12; latitude, minus 03.651; longitude over 2, minus 08.734, and, I guess, we'll call the altitude 000.76."
+      ],
+      "speaker": "Roosa",
+      "time": "1141110"
+    },
+    {
+      "tokens": [
+        "The P24 tracking PAD for the Lunar Module on the surface is interpreted as follows:T-1:114:43:27 GET.",
+        "This is the time when the landmark will be on the horizon.",
+        "It is not the time it will be visible through the sextant optics.T-2:114:48:27 GET.",
+        "This is the time when the target can be acquired in the sextant and is when the CSM begins to pitch down.TCA:114:49:57 GET.",
+        "This is when the CSM will be closest to the target.T-3:114:50:11 GET.",
+        "This is the time when the target will fall out of the sextant's field of view.Note that at the time of the closest approach, Kitty Hawk will not be directly overhead of the LM, but will be 12 nautical miles to the north."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's affirm.",
+        "And, Kitty Hawk; Houston, the computer is yours.",
+        "And, Stu, I'm going to..."
+      ],
+      "speaker": "Evans",
+      "time": "1141137"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The computer's mine and - Go ahead, Ron."
+      ],
+      "speaker": "Roosa",
+      "time": "1141151"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "If you want to take these down here, I'm going to give you some magazine - numbers here that I want to make sure we save.",
+        "Since we're having a couple of problems here with our Hycon, we would like to save magazine Tango.",
+        "That's the MBW film as a backup to magazine Papa.",
+        "And the magazine Papa is the prime 500-millimeter magazine.",
+        "And now, if you've already used something out of magazine Tango, we'd just like to know what percentages are still on the magazine, or what the frame numbers are?"
+      ],
+      "speaker": "Evans",
+      "time": "1141158"
+    },
+    {
+      "tokens": [
+        "That doesn't sound familiar.",
+        "I'll have to go back through here and check it.",
+        "The only ones I've used are those that we've listed here.",
+        "So far, I've been following them right down the line."
+      ],
+      "speaker": "Roosa",
+      "time": "1141252"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Sounds like we're in pretty good shape.",
+        "I think magazine Tango is the one that - was - you know, opportunity-type photos."
+      ],
+      "speaker": "Evans",
+      "time": "1141304"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "I haven't taken any of those."
+      ],
+      "speaker": "Roosa",
+      "time": "1141316"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Real good..",
+        "And just as a - a note, we're not sure - for sure yet, but we'll probably do a COAS pass on Descartes on REV 25.",
+        "And then, when they get on around to the Hycon passes, we'll probably try to - to get that thing to work as we're going for REV 27 and whenever the other one is."
+      ],
+      "speaker": "Evans",
+      "time": "1141319"
+    },
+    {
+      "tokens": [
+        "And, Stu, to keep you up to date on what's happening down there on the surface, they had a little bit of comm problems with the PLSSs and the relays and all those good-deal things like that.",
+        "And they're running a little bit behind, but it looks like they'll make it out, probably in about 20 or 30 minutes."
+      ],
+      "speaker": "Evans",
+      "time": "1141344"
+    },
+    {
+      "tokens": [
+        "And, Kitty Hawk; Houston.",
+        "Do you remember - remember what the percentage of magazine left for the zodiacal light?"
+      ],
+      "speaker": "Evans",
+      "time": "1141615"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "I call that 72 percent."
+      ],
+      "speaker": "Roosa",
+      "time": "1141632"
+    },
+    {
+      "tokens": [
+        "Mighty fine, Stu.",
+        "72 percent."
+      ],
+      "speaker": "Evans",
+      "time": "1141638"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston."
+      ],
+      "speaker": "Evans",
+      "time": "1142011"
+    },
+    {
+      "tokens": [
+        "Go, Houston."
+      ],
+      "speaker": "Roosa",
+      "time": "1142016"
+    },
+    {
+      "tokens": [
+        "Okay, we've got a good tape dump, and you can proceed to the LM visual attitude at your convenience."
+      ],
+      "speaker": "Evans",
+      "time": "1142018"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Roosa",
+      "time": "1142029"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-136"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-137"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "Big Al's on the surface."
+      ],
+      "speaker": "Evans",
+      "time": "1143142"
+    },
+    {
+      "tokens": [
+        "The EVA has been delayed for almost an hour due to communications problem at the LM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston."
+      ],
+      "speaker": "Evans",
+      "time": "1143435"
+    },
+    {
+      "tokens": [
+        "And Kitty Hawk, Houston.",
+        "Kind of translating in the blind.",
+        "Ed's out on the surface now with Al, And I think we got a good uplink, but downlink is pretty weak.",
+        "So, don't answer if you can't read anything."
+      ],
+      "speaker": "Evans",
+      "time": "1143443"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Kitty Hawk."
+      ],
+      "speaker": "Roosa",
+      "time": "1144101"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "You're very weak.",
+        "Say again."
+      ],
+      "speaker": "Evans",
+      "time": "1144127"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "In the blind, about 30 seconds from T1time."
+      ],
+      "speaker": "Evans",
+      "time": "1144155"
+    },
+    {
+      "tokens": [
+        "Houston, are you calling Kitty Hawk?"
+      ],
+      "speaker": "Roosa",
+      "time": "1144206"
+    },
+    {
+      "tokens": [
+        "Hey, by golly; I read you, Stu.",
+        "Yes, you are coming up T1time."
+      ],
+      "speaker": "Evans",
+      "time": "1144209"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You are unreadable.",
+        "Pick another comm track ..."
+      ],
+      "speaker": "Roosa",
+      "time": "1144348"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston."
+      ],
+      "speaker": "Evans",
+      "time": "1145941"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston; Kitty Hawk."
+      ],
+      "speaker": "Roosa",
+      "time": "1145946"
+    },
+    {
+      "tokens": [
+        "Okay, Stu.",
+        "I've got a bunch of P24 PADs here, if you're ready to start copying.",
+        "Starting on page 22 with RP-2."
+      ],
+      "speaker": "Evans",
+      "time": "1145948"
+    },
+    {
+      "tokens": [
+        "Okay, just a word about the - Okay, before you start those, I got a track on the - on the LM.",
+        "I noticed as I came back up, the - the tape motion had gone barber pole, though; I hope it was running.",
+        "I checked it just before I started marking.",
+        "Or maybe you stopped it.",
+        "I don't know.",
+        "But I would put the LM on those coordinates at Charlie Quebec 0.0 and 65.1."
+      ],
+      "speaker": "Roosa",
+      "time": "1145957"
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-138"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-139"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And you saw the LM at Charlie Quebec 0.0 and 65.1.",
+        "Is that correct?"
+      ],
+      "speaker": "Evans",
+      "time": "1150034"
+    },
+    {
+      "tokens": [
+        "Yes, that's where I - I would put it on the map.",
+        "It looks like that's where I was tracking it.",
+        "It looked like it was just a little - you know, you'd - you'd plotted it down just off the edge of that old crater in Triplet, and I've got it over on the other side of it."
+      ],
+      "speaker": "Roosa",
+      "time": "1150048"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Evans",
+      "time": "1150102"
+    },
+    {
+      "tokens": [
+        "I guess you got the word - they're out on the surface now - don't you?"
+      ],
+      "speaker": "Evans",
+      "time": "1150116"
+    },
+    {
+      "tokens": [
+        "I heard Bruce talk something about the contingency sample, so I figured they made it."
+      ],
+      "speaker": "Roosa",
+      "time": "1150122"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And, if you are ready to copy here, we'll press on with some of these P24 pads."
+      ],
+      "speaker": "Evans",
+      "time": "1150132"
+    },
+    {
+      "tokens": [
+        "Okay, I'm ready to go."
+      ],
+      "speaker": "Roosa",
+      "time": "1150140"
+    },
+    {
+      "tokens": [
+        "Okay, in RP-2: T1115:49:34; 54:24, 56:04, 56:52; north 08."
+      ],
+      "speaker": "Evans",
+      "time": "1150142"
+    },
+    {
+      "tokens": [
+        "The P24 tracking PAD for RP-2 is interpreted as follows:T-1:115:49:34 GET.",
+        "This is the time when the landmark will be on the horizon.",
+        "It is not the time it will be visible through the sextant optics.T-2:115:54:24 GET.",
+        "This is the time when the target can be acquired in the sextant and is when the CSM begins to pitch down.TCA:115:56:04 GET.",
+        "This is when the CSM will be closest to the target.T-3:115:56:52 GET.",
+        "This is the time when the target will fall out of the sextant's field of view.Note that at the time of the closest approach, Kitty Hawk will not be directly overhead of RP-2, but will be 8 nautical miles to the north."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, I got that."
+      ],
+      "speaker": "Roosa",
+      "time": "1150219"
+    },
+    {
+      "tokens": [
+        "Okay; and the 12-1: T1115:59:16; T2is 116:04:06, 05:46, 06:34; north 32.",
+        "And let's go on over to the map update next."
+      ],
+      "speaker": "Evans",
+      "time": "1150221"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1150301"
+    },
+    {
+      "tokens": [
+        "The P24 tracking PAD for 12-1 is interpreted as follows:T-1:115:59:16 GET.",
+        "This is the time when the landmark will be on the horizon.",
+        "It is not the time it will be visible through the sextant optics.T-2:116:04:06 GET.",
+        "This is the time when the target can be acquired in the sextant and is when the CSM begins to pitch down.TCA:116:05:46 GET.",
+        "This is when the CSM will be closest to the target.T-3:116:06:34 GET.",
+        "This is the time when the target will fall out of the sextant's field of view.Note that at the time of the closest approach, Kitty Hawk will not be directly overhead of 12-1, but will be 32 nautical miles to the north."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "LOS and AOS are changes.",
+        "I'll read them all.",
+        "LOS, 115:18:05; 115:43:01; l16:04:23.",
+        "Okay, let's switch to page 23 and Dollond..."
+      ],
+      "speaker": "Evans",
+      "time": "1150303"
+    },
+    {
+      "tokens": [
+        "The Map Update PAD is interpreted as follows:Map update REV:18LOS:115:18:05180°:115:43:01AOS:116:04:23"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "...",
+        "115 - Okay.",
+        "I'm ready for Dollond."
+      ],
+      "speaker": "Roosa",
+      "time": "1150331"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "T1: 116:30:45; 35:35, 37:15, 38:03; north 15.",
+        "And push to the next page for FM-1."
+      ],
+      "speaker": "Evans",
+      "time": "1150336"
+    },
+    {
+      "tokens": [
+        "The P24 tracking PAD for Dollond E is interpreted as follows:T-1:116:30:45 GET.",
+        "This is the time when the landmark will be on the horizon.",
+        "It is not the time it will be visible through the sextant optics.T-2:116:35:35 GET.",
+        "This is the time when the target can be acquired in the sextant and is when the CSM begins to pitch down.TCA:116:37:15 GET.",
+        "This is when the CSM will be closest to the target.T-3:116:38:03 GET.",
+        "This is the time when the target will fall out of the sextant's field of view.Note that at the time of the closest approach, Kitty Hawk will not be directly overhead of Dollond E, but will be 15 nautical miles to the north."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Roosa",
+      "time": "1150415"
+    },
+    {
+      "tokens": [
+        "T1: 116:41:46; 46:36, 48:16, 49:04; north 23.",
+        "Over."
+      ],
+      "speaker": "Evans",
+      "time": "1150417"
+    },
+    {
+      "tokens": [
+        "The P24 tracking PAD for FM-1 is interpreted as follows:T-1:116:41:46 GET.",
+        "This is the time when the landmark will be on the horizon.",
+        "It is not the time it will be visible through the sextant optics.T-2:116:46:36 GET.",
+        "This is the time when the target can be acquired in the sextant and is when the CSM begins to pitch down.TCA:116:48:16 GET.",
+        "This is when the CSM will be closest to the target.T-3:116:49:04 GET.",
+        "This is the time when the target will fall out of the sextant's field of view.Note that at the time of the closest approach, Kitty Hawk will not be directly overhead of 12-1, but will be 23 nautical miles to the north."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll go back to RP-2."
+      ],
+      "speaker": "Roosa",
+      "time": "1150445"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go."
+      ],
+      "speaker": "Evans",
+      "time": "1150450"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "115:49:34; 54:24, 56:04, 56:52; north 08.",
+        "12-1: 115:59:16; l16:04:06, 05:46, 06:34; north 32.",
+        "Map update REV 18: 115:18:05; 115:43:01; l16:04:23.",
+        "Dollond E: 116:30:45, 35:35, 37:15, 38:03; north 15.",
+        "Are you still with me?"
+      ],
+      "speaker": "Roosa",
+      "time": "1150458"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Your readback is correct, so far."
+      ],
+      "speaker": "Evans",
+      "time": "1150501"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Are you with me, Ron?"
+      ],
+      "speaker": "Roosa",
+      "time": "1150520"
+    },
+    {
+      "tokens": [
+        "I missed your readback on FM-1, Stu."
+      ],
+      "speaker": "Evans",
+      "time": "1150523"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "FM-1: l16:41:46, 46:36, 48:16, 49:04; north 23."
+      ],
+      "speaker": "Roosa",
+      "time": "1150530"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Your readback is correct.",
+        "And I've got a preliminary TEI-34 PAD for your update book."
+      ],
+      "speaker": "Evans",
+      "time": "1150543"
+    },
+    {
+      "tokens": [
+        "Okay, I'm ready to copy."
+      ],
+      "speaker": "Roosa",
+      "time": "1150707"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "This is preliminary.",
+        "TEI-34, SPS/G&N; 34930; minus 0.71, minus 0.02; 149:15:34.58; plus 3018.2, plus 1649.1, minus 0283.4; 181, 108, 029; NA; plus 0019.0.",
+        "Okay.",
+        "Your Delta-V total, 3451.0, 2:25, 3426.9.",
+        "Sextant star 11, 125.3, 22.7; NA on the bore sight.",
+        "Skip down to Noun 61, minus 27.03, minus 171.50; 1160.8, 36251; 216:23:32.",
+        "Okay.",
+        "Your GDC Align, Sirius and Rigel, 130, 129, 018.",
+        "Ullage, four jets, 12 seconds.",
+        "Okay.",
+        "Your notes, number 1, the longitude at TIGequals plus 178.69.",
+        "Note 2, assumed plane change and lift-off REFSMMAT.",
+        "Note 3, with TEI REFSMMAT, roll, 180; pitch, 0; yaw, 0.",
+        "And ready for readback."
+      ],
+      "speaker": "Evans",
+      "time": "1150709"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Before I start, give me Delta-V total again, please ..."
+      ],
+      "speaker": "Roosa",
+      "time": "1151051"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "I can't read you now.",
+        "Maybe it'll get better here in the next 7 minutes before all of that.",
+        "But too much background noise."
+      ],
+      "speaker": "Evans",
+      "time": "1151058"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Could you read me Delta-V total, please?"
+      ],
+      "speaker": "Roosa",
+      "time": "1151113"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stu, your Delta-V total was 3451.0."
+      ],
+      "speaker": "Evans",
+      "time": "1151118"
+    },
+    {
+      "tokens": [
+        "Okay...."
+      ],
+      "speaker": "Roosa",
+      "time": "1151141"
+    },
+    {
+      "tokens": [
+        "Interpretation of the preliminary TEI-34 PAD is as follows:Purpose:This is the first of two TEI-34 PADs, the second of which will be the final details of their burn to bring them home.",
+        "The PAD contains the best information available at this time, and will certainly be able to get them home in the event communications are lost as it includes data on their re-entry in three days time.",
+        "If used, the burn would occur towards the end of rev 34.System:The burn would be made using the large SPS (Service Propulsion System) engine at the rear of the Service Module, under the control of the Guidance and Navigation system.CSM Weight (Noun 47):34,930 pounds (15,844 kilograms).Pitch and yaw trim (Noun 48):-0.71° and -0.02°.",
+        "These are the angles to which the SPS engine should be aimed to place the thrust vector through the spacecraft's centre of mass.Time of ignition, TIG(Noun 33):149 hours, 15 minutes, 34.58 seconds.Change in velocity (Noun 81), fps (m/s):X, +3,018.2 (+919.9); Y, +1,649.1 (+502.6); Z, -283.4 (-86.4).",
+        "The change in velocity is resolved into three components which are quoted relative to the local vertical.",
+        "The large positive X component shows the prograde nature of the burn and there is a sizeable out-of-plane or Y component to match the plane of the Moon's orbit around Earth.Spacecraft attitude at TIG:Roll, 181°; Pitch, 108°; Yaw, 29°.",
+        "The desired spacecraft attitude is measured relative to the alignment of the guidance platform, in this case, the lift-off REFSMMAT.The next two items in the list define the Earth-based orbit that the burn will place them into.HA, expected apogee of resulting orbit:Not applicable.",
+        "For a TEI burn, the spacecraft would be leaving the Moon's sphere of influence.HP, expected perigee of resulting orbit:19.0 nautical miles (35.2 km).",
+        "In this context, this is the closest point to Earth for the theoretical orbit.",
+        "However, since it intersects with Earth's atmosphere, it will hence reenter and descend to the surface.Delta-VT(Noun 81):3,451.0 fps (1,052 m/s).",
+        "This is the total change in velocity the spacecraft would experience and is a vector sum of the three components given above.Burn duration or burn time:2 minutes, 25 seconds.Delta-VC:3,426.9 fps.",
+        "Using its ability to independently measure acceleration, the EMS can shut down the engine in case the G&N system fails to do so.",
+        "This figure, Delta-VC, is slightly lower than Delta-VTbecause the EMS does not take account of the engine's tail-off thrustSextant star:Star 11 (Aldebaran, Alpha Tauri) is visible in sextant when shaft and trunnion angles are 125.3° and 22.7° respectively.",
+        "This is part of an attitude check.Boresight Star:Not applicable.",
+        "This is a second attitude check which is made by sighting on another celestial object with the COAS (Crew Optical Alignment Sight).",
+        "In this case, with the windows facing the Moon, a star would not be available.COAS Pitch Angle:N/ACOAS X Position Angle:N/AThe next five parameters all relate to re-entry, during which an important milestone is \"Entry Interface,\" defined as being 400,000 feet (121.92 km) altitude.",
+        "In this context, a more important milestone is when atmospheric drag on the spacecraft imparts a deceleration of 0.05 g.Expected splashdown point (Noun 61):27.03° South, 171.50° West.Range to go at the 0.05 g event:1,160.8 nautical miles.",
+        "To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance, in nautical miles, that the CM would travel after the EMS is triggered by the 0.05g event.",
+        "This number would be entered into a counter and would be decremented during re-entry based on data from the EMS's own accelerometer.Expected velocity at the 0.05 g event:36,251 fps.",
+        "This is another entry for the EMS.",
+        "It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.Predicted GET of 0.05 g event:216 hours, 23 minutes, 32 seconds GET.",
+        "This is the predicted time at which the spacecraft's G&N system would be expected to measure one twentieth of a g.GDC Align stars:Stars 15, Sirius (in Canis Major) and 12, Rigel (in Orion) are to be used to align the gyro assemblies if it is not possible to use the guidance platform for this purpose.GDC Align angles:Roll, 130°; pitch, 129°; yaw, 18°.Other notes include that the SPS propellants are to be settled in their tanks by firing the plus-X thrusters on all four of the Service Module RCS quads for 12 seconds.",
+        "Lunar longitude at time of ignition is 178.69.",
+        "This PAD assumes that the plane change maneuver has been performed and that the IMU is aligned to the lift-off REFSMMAT.",
+        "If IMU is aligned to TEI REFSMMAT, the spacecraft attitude would read roll, 180°; pitch, 0°; yaw, 0°.",
+        "Using the TEI REFSMMAT makes it easier to read the FDAI and this methodology will become standard for subsequent missions."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "Skip the readback now.",
+        "I can't read you."
+      ],
+      "speaker": "Evans",
+      "time": "1151151"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "In the blind here.",
+        "You want to try Omni Charlie?",
+        "We've got about a minute and a half to LOS now."
+      ],
+      "speaker": "Evans",
+      "time": "1151611"
+    },
+    {
+      "tokens": [
+        "Stu, Houston.",
+        "In the blind.",
+        "About 30 seconds to LOS here.",
+        "We'll pick you up on the other side."
+      ],
+      "speaker": "Evans",
+      "time": "1151737"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1151746"
+    },
+    {
+      "tokens": [
+        "Beautiful answer that time, anyhow.",
+        "I heard that."
+      ],
+      "speaker": "Evans",
+      "time": "1151748"
+    },
+    {
+      "tokens": [
+        "I guess when I don't have much to say, I'm coming in loud and clear, huh?"
+      ],
+      "speaker": "Roosa",
+      "time": "1151755"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "That's right."
+      ],
+      "speaker": "Evans",
+      "time": "1151759"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston."
+      ],
+      "speaker": "Evans",
+      "time": "1161109"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston."
+      ],
+      "speaker": "Evans",
+      "time": "1161232"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "Got a report.",
+        "Your downlink is very weak, but it's not important now.",
+        "I'll catch you once you get into high gain for your P52 attitude."
+      ],
+      "speaker": "Evans",
+      "time": "1161322"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "In the blind here.",
+        "Looks like about - coming upon T1time for Dollond E."
+      ],
+      "speaker": "Evans",
+      "time": "1163022"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "In the blind, again.",
+        "Time to start the camera."
+      ],
+      "speaker": "Evans",
+      "time": "1163436"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Can you read, Ron?"
+      ],
+      "speaker": "Roosa",
+      "time": "1163445"
+    },
+    {
+      "tokens": [
+        "We just barely got you that time, Stu."
+      ],
+      "speaker": "Evans",
+      "time": "1163451"
+    },
+    {
+      "tokens": [
+        "Stu aboard Kitty Hawk reported visual sighting of Antares at a GET of 114 hours 48 minutes."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This sighting occurred while in program 24, a computer program for landmark tracking.",
+        "We're at 116 hours 37 minutes.",
+        "2 hours 18 minutes since cabin depress."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "I guess remote site said that you were asking if we're picking you up, and - negative, we're not picking you up here."
+      ],
+      "speaker": "Evans",
+      "time": "1163749"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston in the blind.",
+        "Coming up on T1time."
+      ],
+      "speaker": "Evans",
+      "time": "1164118"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston in the blind.",
+        "You can start the camera."
+      ],
+      "speaker": "Evans",
+      "time": "1164536"
+    },
+    {
+      "tokens": [
+        "Okay, Kitty Hawk; Houston in the blind here still.",
+        "Looks like you're on your way to the attitude.",
+        "You might figure out your - switch over to page 26 for P30 maneuver there in the flight changes."
+      ],
+      "speaker": "Evans",
+      "time": "1165050"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston; you're in the blind, again.",
+        "You might try Omni Charlie."
+      ],
+      "speaker": "Evans",
+      "time": "1165307"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston; how you read?"
+      ],
+      "speaker": "Evans",
+      "time": "1165642"
+    },
+    {
+      "tokens": [
+        "Well, great.",
+        "Looks like we made it."
+      ],
+      "speaker": "Roosa",
+      "time": "1165647"
+    },
+    {
+      "tokens": [
+        "Hey, mighty fine.",
+        "How about whipping into P00 and Accept, there; and we'll ship you up a state vectors and the target load.",
+        "And if you're ready to copy, there on - We got your plane change maneuver from page 26."
+      ],
+      "speaker": "Evans",
+      "time": "1165651"
+    },
+    {
+      "tokens": [
+        "All right, I'll be right with you."
+      ],
+      "speaker": "Roosa",
+      "time": "1165712"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Evans",
+      "time": "1165714"
+    },
+    {
+      "tokens": [
+        "Okay, Ron, I'm ready to copy."
+      ],
+      "speaker": "Roosa",
+      "time": "1165748"
+    },
+    {
+      "tokens": [
+        "Okay, mighty fine.",
+        "Your weight, 35752; minus 0.95, plus 0.17; 118:09:35.17; Noun 81, minus 0012.9, plus 0370.7, minus 0005.5; 180, 354, 002; Noun 44, 0062.1, plus 0057.2; 0371.0, 0:l8, 0356.6; sextant Star, 27, 030.5, 07.6; boresight star, 043, up 13.2, left 27; GDC Align, Sirius and Rigel, 049, 287, 331; your ullage, four jet, 11 seconds.",
+        "Read back."
+      ],
+      "speaker": "Evans",
+      "time": "1165751"
+    },
+    {
+      "tokens": [
+        "Okay, Ron.",
+        "Plane change, 35752; minus 0.95, plus 0.17; 118:09:35.17; minus 0012.9, plus 0370.7, minus 0005.5; 180, 354, 002; 0062.1, plus 0057.2; 0371.0, 0:18, 0356.6; 27, 030.5, 07.6; 043, up 132, left 27; Sirius and Rigel, 049, 287, 331; four jet 11 seconds."
+      ],
+      "speaker": "Roosa",
+      "time": "1170008"
+    },
+    {
+      "tokens": [
+        "Okay, read back your Delta-VYagain."
+      ],
+      "speaker": "Evans",
+      "time": "1170115"
+    },
+    {
+      "tokens": [
+        "Delta-VY, plus 0370.7."
+      ],
+      "speaker": "Roosa",
+      "time": "1170123"
+    },
+    {
+      "tokens": [
+        "The PAD is interpreted as follows:Purpose:This is a burn to change the orbital inclination of the Kitty Hawk.",
+        "This will compensate for the Moon's rotation having taken the LM away from the plane of the CSM's current orbit.System:The burn would be made using the large SPS (Service Propulsion System) engine at the rear of the Service Module, under the control of the Guidance and Navigation system.CSM Weight (Noun 47):35,752 pounds (16,217 kg).Pitch and yaw trim (Noun 48):-0.95° and +0.17°.",
+        "These angles represent an initial direction for the gimbal-mounted engine.Time of ignition, TIG(Noun 33):118 hours, 09 minutes, 35.17 seconds.Change in velocity (Noun 81), fps (m/s):X, -12.9 (-3.9); Y, +370.7 (+113.0); Z, -5.5 (-1.7).",
+        "The change in velocity is resolved into three components which are quoted relative to the local vertical frame of reference.",
+        "As this burn's major task is to change the plane of the orbit, we can see that the Y component, the out-of-plane component that will achieve it, is much larger.Spacecraft attitude:Roll, 180°; Pitch, 354°; Yaw, 2°.",
+        "The desired spacecraft attitude is measured relative to the alignment of the guidance platform.HA, expected apocynthion of resulting orbit:62.1 nautical miles (115.0 km).HP, expected pericynthion of resulting orbit:57.2 nautical miles (105.9 km).Delta-VT:371.0 fps (113.1 m/s).",
+        "This is the total change in velocity the spacecraft would experience and is a vector sum of the three components given above.Burn duration or burn time:18 seconds.Delta-VC:356.6 fps.",
+        "Using its ability to independently measure acceleration, the EMS can shut down the engine in case the G&N system fails to do so.",
+        "This figure, Delta-VC, is slightly lower than Delta-VTbecause the EMS does not take account of the engine's tail-off thrust.",
+        "It is entered into a counter.Sextant star:Star 27 (Alkaid, Eta Ursae Majoris) visible in sextant when shaft and trunnion angles are 30.5° and 7.6° respectively.",
+        "This is part of an attitude check.Boresight star:43 (Deneb, Alpha Cygni).",
+        "This is a second attitude check which is made by sighting on another celestial object with the COAS (Crew Optical Alignment Sight).Boresight Star pitch angle on COAS:Up 13.2°.Boresight Star X position on COAS:Left 27.0°.GDC Align stars:Stars 15 (Sirius, Alpha Canis Majoris) and 12 (Rigel, Beta Orionis) to be used for GDC Align in case the IMU cannot be used.GDC Align angles:Roll, 49°; pitch, 287°; yaw, 331°.The PAD includes an additional note that ullage to settle the SPS propellants is performed with 4 RCS jets for 11 seconds before engine start."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, that was correct.",
+        "Okay, whip back to page 25, on your north ecliptic pole attitudes."
+      ],
+      "speaker": "Evans",
+      "time": "1170128"
+    },
+    {
+      "tokens": [
+        "Okay, I got it."
+      ],
+      "speaker": "Roosa",
+      "time": "1170147"
+    },
+    {
+      "tokens": [
+        "Okay, it'll be at roll 270, 009, and 355 - And your 180 position for your map update 117:41:22."
+      ],
+      "speaker": "Evans",
+      "time": "1170148"
+    },
+    {
+      "tokens": [
+        "Okay, that's the north ecliptic pole attitudes at 117:11; 270, 009, 355; 180, 117:41:22."
+      ],
+      "speaker": "Roosa",
+      "time": "1170212"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Okay, Stu, it's your computer; and, now, you can whip in to P52."
+      ],
+      "speaker": "Evans",
+      "time": "1170227"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1170245"
+    },
+    {
+      "tokens": [
+        "We saw that."
+      ],
+      "speaker": "Evans",
+      "time": "1170614"
+    },
+    {
+      "tokens": [
+        "Sorry about that."
+      ],
+      "speaker": "Roosa",
+      "time": "1170620"
+    },
+    {
+      "tokens": [
+        "(Laughter) Okay."
+      ],
+      "speaker": "Evans",
+      "time": "1170621"
+    },
+    {
+      "tokens": [
+        "Well, there's just no justice tonight."
+      ],
+      "speaker": "Roosa",
+      "time": "1170744"
+    },
+    {
+      "tokens": [
+        "(Laughter) Okay."
+      ],
+      "speaker": "Evans",
+      "time": "1170750"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We got you Noun 93 here, Stu."
+      ],
+      "speaker": "Evans",
+      "time": "1170815"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1170822"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston."
+      ],
+      "speaker": "Evans",
+      "time": "1171310"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston."
+      ],
+      "speaker": "Evans",
+      "time": "1171332"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "Kind of in the blind here.",
+        "Just a reminder to terminate your battery charge prior to the plane change burn."
+      ],
+      "speaker": "Evans",
+      "time": "1171406"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "About 1 minute until LOS.",
+        "We?ll see you coining around the other side, and Al and Ed are about 3 hours into their EVA, whipping away on their ALSEP deployment."
+      ],
+      "speaker": "Evans",
+      "time": "1171504"
+    },
+    {
+      "tokens": [
+        "I didn't get all of that, Ron.",
+        "But I did get they're in the ALSEP deployment.",
+        "Is that affirm?"
+      ],
+      "speaker": "Roosa",
+      "time": "1171521"
+    },
+    {
+      "tokens": [
+        "That's affirm, about 30 seconds.",
+        "And did you get: terminate your battery charge prior to burn?"
+      ],
+      "speaker": "Evans",
+      "time": "1171527"
+    },
+    {
+      "tokens": [
+        "No, I didn't get that yet.",
+        "Do you want to let it run on through until I come out AOS, or do you want that terminated?"
+      ],
+      "speaker": "Roosa",
+      "time": "1171537"
+    },
+    {
+      "tokens": [
+        "No, do it sometime prior to the burn."
+      ],
+      "speaker": "Evans",
+      "time": "1171547"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1171553"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, you read 4 - Kitty Hawk?"
+      ],
+      "speaker": "Roosa",
+      "time": "1180310"
+    },
+    {
+      "tokens": [
+        "Okay, Kitty Hawk; Houston.",
+        "We're reading you loud and clear."
+      ],
+      "speaker": "Evans",
+      "time": "1180313"
+    },
+    {
+      "tokens": [
+        "Okay, I'm coming up on my pitch 4-minute mark.",
+        "Everything's completed on the checklist up to that."
+      ],
+      "speaker": "Roosa",
+      "time": "1180320"
+    },
+    {
+      "tokens": [
+        "Okay, mighty fine, Stu.",
+        "As soon as we get a little High Bit Rate here, we?ll take a good look at your data."
+      ],
+      "speaker": "Evans",
+      "time": "1180329"
+    },
+    {
+      "tokens": [
+        "And, Ron, do you want me to do anything with the tape recorder; you going to handle that?"
+      ],
+      "speaker": "Roosa",
+      "time": "1180356"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "We'll handle the tape recorder."
+      ],
+      "speaker": "Evans",
+      "time": "1180507"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1180514"
+    },
+    {
+      "tokens": [
+        "Okay, Kitty Hawk; Houston.",
+        "You're looking mighty fine down here.",
+        "You have a Go for plane change."
+      ],
+      "speaker": "Evans",
+      "time": "1180535"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "You have a Go for the burn."
+      ],
+      "speaker": "Evans",
+      "time": "1180623"
+    },
+    {
+      "tokens": [
+        "Okay, 30 seconds.",
+        "Everything looks good, Ron."
+      ],
+      "speaker": "Roosa",
+      "time": "1180910"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Looking good down here."
+      ],
+      "speaker": "Evans",
+      "time": "1180914"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Ullage is on."
+      ],
+      "speaker": "Roosa",
+      "time": "1180927"
+    },
+    {
+      "tokens": [
+        "And we've got -"
+      ],
+      "speaker": "Roosa",
+      "time": "1180939"
+    },
+    {
+      "tokens": [
+        "Ignition.",
+        "And she's steady as a rock."
+      ],
+      "speaker": "Roosa",
+      "time": "1180940"
+    },
+    {
+      "tokens": [
+        "Beautiful."
+      ],
+      "speaker": "Evans",
+      "time": "1180949"
+    },
+    {
+      "tokens": [
+        "And Shutdown."
+      ],
+      "speaker": "Roosa",
+      "time": "1180957"
+    },
+    {
+      "tokens": [
+        "Okay, Kitty Hawk; Houston.",
+        "No trim on this burn.",
+        "And you can whip into P00, and we'll start sending some uplink to you."
+      ],
+      "speaker": "Evans",
+      "time": "1181055"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Just a second ...",
+        "Do you need anything else The Delta is minus 12.3, and I guess your monitors are wrong.",
+        "I hate to break up the discussion here, but I want to be right with you."
+      ],
+      "speaker": "Roosa",
+      "time": "1181106"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Delta-V^, was minus 12.3."
+      ],
+      "speaker": "Evans",
+      "time": "1181124"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You wanted P00 and Accept.",
+        "Is that right, Ron?"
+      ],
+      "speaker": "Roosa",
+      "time": "1181200"
+    },
+    {
+      "tokens": [
+        "Okay, Kitty Hawk; Houston.",
+        "Do you have P00 and Accept?"
+      ],
+      "speaker": "Evans",
+      "time": "1181212"
+    },
+    {
+      "tokens": [
+        "You've got P00 and Accept now."
+      ],
+      "speaker": "Roosa",
+      "time": "1181221"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Evans",
+      "time": "1181224"
+    },
+    {
+      "tokens": [
+        "And, when you get things pretty well squared away there, I've got some 00 time and a photo PAD and then a map update for you."
+      ],
+      "speaker": "Evans",
+      "time": "1181231"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm ready to copy."
+      ],
+      "speaker": "Roosa",
+      "time": "1181249"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Your REFSMMAT 00 time, 142:25:30.00.",
+        "Okay, your Earthshine photo PAD is on page 28; T-start is 118:45:37."
+      ],
+      "speaker": "Evans",
+      "time": "1181251"
+    },
+    {
+      "tokens": [
+        "Okay, Ron.",
+        "I copy REFSMMAT 00 time, 142:25:30.00; Earthshine photo PAD T-start, 118:45:37-"
+      ],
+      "speaker": "Roosa",
+      "time": "1181340"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And then the next page - on page 29, your map update.",
+        "For 180 - for 180, it's 119:39:59-And while we've got a little time here, do you happen to have the percent magazine for the P24 pass and also from the galactic survey?"
+      ],
+      "speaker": "Evans",
+      "time": "1181353"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "...",
+        "right after ..."
+      ],
+      "speaker": "Roosa",
+      "time": "1181432"
+    },
+    {
+      "tokens": [
+        "Stu, wait a minute.",
+        "I can't read you there.",
+        "You might check - try tweaking on the Omni - or tweaking up the High Gain, please."
+      ],
+      "speaker": "Evans",
+      "time": "1181444"
+    },
+    {
+      "tokens": [
+        "How do you read, now?"
+      ],
+      "speaker": "Roosa",
+      "time": "1181501"
+    },
+    {
+      "tokens": [
+        "Still got a lot of - Hey, there It's quieted down-It should be good now."
+      ],
+      "speaker": "Evans",
+      "time": "1181504"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let's start with map update."
+      ],
+      "speaker": "Roosa",
+      "time": "1181513"
+    },
+    {
+      "tokens": [
+        "Okay, go ahead."
+      ],
+      "speaker": "Evans",
+      "time": "1181517"
+    },
+    {
+      "tokens": [
+        "I didn't get it."
+      ],
+      "speaker": "Roosa",
+      "time": "1181522"
+    },
+    {
+      "tokens": [
+        "Oh, okay.",
+        "Map update, REV 20 - -"
+      ],
+      "speaker": "Evans",
+      "time": "1181524"
+    },
+    {
+      "tokens": [
+        "Went out on me."
+      ],
+      "speaker": "Roosa",
+      "time": "1181525"
+    },
+    {
+      "tokens": [
+        "- - is l8 - for the 180, 119:39:59."
+      ],
+      "speaker": "Evans",
+      "time": "1181528"
+    },
+    {
+      "tokens": [
+        "Okay; 119:39:59-"
+      ],
+      "speaker": "Roosa",
+      "time": "1181540"
+    },
+    {
+      "tokens": [
+        "And the computer's yours."
+      ],
+      "speaker": "Evans",
+      "time": "1181543"
+    },
+    {
+      "tokens": [
+        "And, Stu, if you got it there, we need the percent of the magazine remaining from your P24 passes and also from the galactic survey."
+      ],
+      "speaker": "Evans",
+      "time": "1181556"
+    },
+    {
+      "tokens": [
+        "Okay, Ron.",
+        ".",
+        "I think I've got you again."
+      ],
+      "speaker": "Roosa",
+      "time": "1181641"
+    },
+    {
+      "tokens": [
+        "Okay, good.",
+        "Go.",
+        "Okay.",
+        "Did you hear the request for the - -"
+      ],
+      "speaker": "Evans",
+      "time": "1181643"
+    },
+    {
+      "tokens": [
+        "I got the map update."
+      ],
+      "speaker": "Roosa",
+      "time": "1181650"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And we need the percent remaining on your magazine from P24 and your galactic survey.",
+        "Over."
+      ],
+      "speaker": "Evans",
+      "time": "1181654"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1181707"
+    },
+    {
+      "tokens": [
+        "Okay; on the galactic survey is 73 percent."
+      ],
+      "speaker": "Roosa",
+      "time": "1181714"
+    },
+    {
+      "tokens": [
+        "Copy; 73 percent."
+      ],
+      "speaker": "Evans",
+      "time": "1181721"
+    },
+    {
+      "tokens": [
+        "And on the landmark tracking, that's magazine B, it's 50 percent."
+      ],
+      "speaker": "Roosa",
+      "time": "1181725"
+    },
+    {
+      "tokens": [
+        "MAG Bravo, 50 percent."
+      ],
+      "speaker": "Evans",
+      "time": "1181732"
+    },
+    {
+      "tokens": [
+        "Magazine B contains 16-mm color film and is used for the landmarking tracking photography with the DAC."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Stu.",
+        "You can go ahead and press on, and whip into your P52 attitude there."
+      ],
+      "speaker": "Evans",
+      "time": "1181747"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1181752"
+    },
+    {
+      "tokens": [
+        "And, whenever you get some time there, maybe while you're torquing P52 or something, you can read back your TEI-34 preliminary PAD."
+      ],
+      "speaker": "Evans",
+      "time": "1181758"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1181814"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Kitty Hawk accomplished her plane change by the book.",
+        "Now circling the Moon on the 19 rev."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Kitty Hawk; Houston.",
+        "We're back with you again."
+      ],
+      "speaker": "Evans",
+      "time": "1184044"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Roosa",
+      "time": "1184052"
+    },
+    {
+      "tokens": [
+        "Okay, Kitty Hawk; Houston.",
+        "You got about 30 seconds here before T-start time on the Earthshine."
+      ],
+      "speaker": "Evans",
+      "time": "1184504"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1184512"
+    },
+    {
+      "tokens": [
+        "Okay, Stu; Houston here.",
+        "Looks like this might be a good time to read back your TEI-34 PAD to us."
+      ],
+      "speaker": "Evans",
+      "time": "1184605"
+    },
+    {
+      "tokens": [
+        "Just a minute, Ron.",
+        "I got to configure one more camera, here."
+      ],
+      "speaker": "Roosa",
+      "time": "1184616"
+    },
+    {
+      "tokens": [
+        "Oh, okay, I -"
+      ],
+      "speaker": "CC",
+      "time": "1184621"
+    },
+    {
+      "tokens": [
+        "And, Stu, just as a matter of interest, Ed now has been out 4 hours and 28 minutes.",
+        "They're back at the LM now cleaning up the stuff, and they're about ready to crawl back in."
+      ],
+      "speaker": "CC",
+      "time": "1184713"
+    },
+    {
+      "tokens": [
+        "And, Kitty Hawk; Houston.",
+        "Comm down here is getting lousy again."
+      ],
+      "speaker": "CC",
+      "time": "1185150"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston in the blind.",
+        "It's time to change your shutter speed.",
+        "Your data camera to 1/I5th; your DAC, l/50th."
+      ],
+      "speaker": "CC",
+      "time": "1185306"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll see if they're in the blind, losing their comm, or data from the - pick an antenna there or try the High Gain."
+      ],
+      "speaker": "CC",
+      "time": "1190755"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston; in the blind."
+      ],
+      "speaker": "CC",
+      "time": "1190812"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston; transmitting in the blind.",
+        "For your Verb 79 attitude there in - about 119:28; make it a 5-degree deadband instead of l0 degrees."
+      ],
+      "speaker": "CC",
+      "time": "1190824"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston; transmitting in the blind.",
+        "At 119:28, for the Verb 79 maneuver there, change your deadband from l0 degrees to 5 degrees."
+      ],
+      "speaker": "CC",
+      "time": "1190841"
+    },
+    {
+      "tokens": [
+        "Meanwhile all alone in Kitty Hawk, Stu Roosa..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stu Roosa performed plane - plane change number 1 right on schedule - with a Delta-V of 370.5 feet per second, a burn time of 18.45 feet per second, this is done in a Ground Elapsed Time of 118 hours and 9 minutes, 35 seconds."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Kitty Hawk; Houston.",
+        "We've started picking up some data, now.",
+        "You got about 2 minutes and 30 seconds to LOS."
+      ],
+      "speaker": "CC",
+      "time": "1191207"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston; transmitting in the blind.",
+        "For the Verb 79 deadband there, it's 119:28; and change the deadband to 5 degrees."
+      ],
+      "speaker": "CC",
+      "time": "1191252"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk now in an orbit of 62.1 nautical miles by 57.6 nautical miles.",
+        "And this Apollo Control, Houston at 119 hours 13 minutes."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "About 30 seconds to LOS here.",
+        "Change your deadband for the arrest attitude to 5 degrees instead of l0 degrees."
+      ],
+      "speaker": "CC",
+      "time": "1191350"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "At 119 hours, 59 minutes we've completed the shift handover in Mission Control.",
+        "Flight Director Milton Windler and his maroon team of flight controllers are now on.",
+        "Capsule Communicator on this shift is Astronaut Gordon Fullerton.",
+        "There will be a change of shift briefing shortly in the MSC News Center, main auditorium.",
+        "At the present time, Flight Director Windler is reviewing the mission status with each of his flight controllers - going around the room checking status and also discussing the lunar lift off which will occur on this shift tomorrow.",
+        "We're about one minute fifteen seconds from reacquiring the Command Module on its 20th revolution and al: this time we expect that crewmen on both spacecraft are in the midst of an eat period prior to beginning their scheduled rest periods.",
+        "We'll stand by for acquisition of Kitty Hawk now in about 45 seconds."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "1200336"
+    },
+    {
+      "tokens": [
+        "Oh, howdy, Houston; Kitty Hawk."
+      ],
+      "speaker": "Roosa",
+      "time": "1200342"
+    },
+    {
+      "tokens": [
+        "Howdy, Stu, You're loud and clear.",
+        "Sounds better than it has in a while.",
+        "Maroon Team's now on duty, and I got a number of words for you when you get a chance to listen to me."
+      ],
+      "speaker": "Fullerton",
+      "time": "1200345"
+    },
+    {
+      "tokens": [
+        "How do you read, Gordon?"
+      ],
+      "speaker": "Roosa",
+      "time": "1200543"
+    },
+    {
+      "tokens": [
+        "Stu, I'm reading you about 3 by 3, now.",
+        "How do read me?"
+      ],
+      "speaker": "Fullerton",
+      "time": "1200544"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're 5 square.",
+        "Looks like the comm keeps coming and going."
+      ],
+      "speaker": "Roosa",
+      "time": "1200552"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You're loud and clear, now.",
+        "And starting through my list of things to tell you here, we've a - first of all, the LM guys are back in the LM.",
+        "They got about a 4-hour 48-minute EVA and completed all the ALSEP deploy.",
+        "And - pretty good shape and got quite a batch of rocks back in with them."
+      ],
+      "speaker": "Fullerton",
+      "time": "1200559"
+    },
+    {
+      "tokens": [
+        "Hey, that sounds great.",
+        "How was the TV from the surface?"
+      ],
+      "speaker": "Roosa",
+      "time": "1200630"
+    },
+    {
+      "tokens": [
+        "It was beautiful.",
+        "We had live TV through just about everything they did, including all the ALSEP deploy, and - and it couldn't have been much better."
+      ],
+      "speaker": "Fullerton",
+      "time": "1200633"
+    },
+    {
+      "tokens": [
+        "Hey, that sounds real good."
+      ],
+      "speaker": "Roosa",
+      "time": "1200650"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stuff for you.",
+        "We're going to ask you to use 5-degree deadband during the sleep period to help us stay on the High Gain better, and hope we can get it a little higher percentage of High Bit Rate while you're sleeping.",
+        "If this results in too much RCS activity and keeps you awake, then we'll consider - well, we'll most likely then go back to the 10 degree if that's .",
+        "considerably quieter.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "1200653"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1200730"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Still hanging our - your readback of the TEI-34 preliminary PAD.",
+        "Also, would like the magazine percentage and frame numbers at the end of Earthside.",
+        "That should be listed under Solo Book at 119:09.",
+        "And the P52 data, and I'll take any of that in any order that you come to it.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "1200732"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let's start with the TEI-34 - -"
+      ],
+      "speaker": "Roosa",
+      "time": "1200801"
+    },
+    {
+      "tokens": [
+        "Okay - -"
+      ],
+      "speaker": "Fullerton",
+      "time": "1200807"
+    },
+    {
+      "tokens": [
+        "334930; minus 0.711 minus 0.02; 149:15:34.58; plus 3018.2, plus 1649,1, minus 0283.4; 181, 108, 029; and NA; Delta-V total, 3451.0; 2:25; 3426.9; 11, 125.3, 22.7; boresight star NA; Noun 61, minus 27.03, minus 171.50; l160.8, 36251; 216:23:32; Sirius and Rigel, 130, 129, 0l8; four jet, 12 seconds; longitude and T.",
+        ", IS plus 178:69 assumes plane change burn and lift-off REFSMMAT; with TEI REFSMMAT attitude 180:00."
+      ],
+      "speaker": "Roosa",
+      "time": "1200808"
+    },
+    {
+      "tokens": [
+        "Okay, Stu.",
+        "Readback's good, except for one omission on Noun 44.",
+        "Your height to perigee is a plus 0019.0.",
+        "Over."
+      ],
+      "speaker": "Fullerton",
+      "time": "1200935"
+    },
+    {
+      "tokens": [
+        "Oh, very good.",
+        "Hp, plus 0019.0."
+      ],
+      "speaker": "Roosa",
+      "time": "1200951"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Readback's good."
+      ],
+      "speaker": "Fullerton",
+      "time": "1200955"
+    },
+    {
+      "tokens": [
+        "And on the magazines - the mag - okay, magazine S ended up with frame number 57; magazine K, 55 percent; the P52: Noun 93, 00.027, 00.065, that's a minus and a minus; plus 00.018.",
+        "They were torqued at 119:27:15."
+      ],
+      "speaker": "Roosa",
+      "time": "1200956"
+    },
+    {
+      "tokens": [
+        "Okay, Stu.",
+        "Copy 55 percent on Kilo; and frame 57 on Foxtrot; and a minus 00.027, a minus 00.065, a plus 00.018, at 119:27:15."
+      ],
+      "speaker": "Fullerton",
+      "time": "1201037"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That Hasselblad magazine is Sierra, S.",
+        "Frame number 57-"
+      ],
+      "speaker": "Roosa",
+      "time": "1201102"
+    },
+    {
+      "tokens": [
+        "Okay, Sierra."
+      ],
+      "speaker": "Fullerton",
+      "time": "1201109"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1201115"
+    },
+    {
+      "tokens": [
+        "Okay, Gordon.",
+        "I just set you up a 5-degree deadband in this attitude; looks like it's a pretty good one for the High Gain."
+      ],
+      "speaker": "Roosa",
+      "time": "1201158"
+    },
+    {
+      "tokens": [
+        "Roger, Stu."
+      ],
+      "speaker": "Fullerton",
+      "time": "1201311"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 120 hours,15 minutes.",
+        "We're ready now for the change of shift press briefing in the MSC News Center auditorium.",
+        "We'll switch to that at this time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Houston; Kitty Hawk."
+      ],
+      "speaker": "Roosa",
+      "time": "1201758"
+    },
+    {
+      "tokens": [
+        "Go ahead, Kitty Hawk."
+      ],
+      "speaker": "Fullerton",
+      "time": "1201801"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Have you got good enough lockup for an E-memory dump?"
+      ],
+      "speaker": "Roosa",
+      "time": "1201806"
+    },
+    {
+      "tokens": [
+        "Stand by to check."
+      ],
+      "speaker": "Fullerton",
+      "time": "1201812"
+    },
+    {
+      "tokens": [
+        "Say again, Gordon."
+      ],
+      "speaker": "Roosa",
+      "time": "1201821"
+    },
+    {
+      "tokens": [
+        "Stu, you are Go for the E-MOD dump.",
+        "Let us have it."
+      ],
+      "speaker": "Fullerton",
+      "time": "1201827"
+    },
+    {
+      "tokens": [
+        "Okay, coming at you."
+      ],
+      "speaker": "Roosa",
+      "time": "1201834"
+    },
+    {
+      "tokens": [
+        "And, Gordon.",
+        "And as far as crew status, I'm in good health, no medication; and I have some onboard read-outs."
+      ],
+      "speaker": "Roosa",
+      "time": "1201857"
+    },
+    {
+      "tokens": [
+        "Roger, Stu.",
+        "Stand by on the read-out; I'm working with the LM here on the other channel."
+      ],
+      "speaker": "Fullerton",
+      "time": "1201904"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1201914"
+    },
+    {
+      "tokens": [
+        "Okay, Stu; ready to copy the onboard read-outs.",
+        "I was tied up with Ed, there."
+      ],
+      "speaker": "Fullerton",
+      "time": "1201925"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Battery C is 37-0; Pyro Battery A, 37-2; Pyro Battery B, 37.2; RCS: A, 80; B, 71; C, 74; D, 73."
+      ],
+      "speaker": "Roosa",
+      "time": "1201935"
+    },
+    {
+      "tokens": [
+        "Okay, Stu.",
+        "Copied all that."
+      ],
+      "speaker": "Fullerton",
+      "time": "1201956"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston."
+      ],
+      "speaker": "Fullerton",
+      "time": "1202409"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Roosa",
+      "time": "1202414"
+    },
+    {
+      "tokens": [
+        "Okay, Kitty Hawk.",
+        "Got some S-Band things for you.",
+        "Got a - I'd like to have you put the S-Band Normal Voice switch to Off, set the High Gain Antenna to Wide and Manual, and use your present angles."
+      ],
+      "speaker": "Fullerton",
+      "time": "1202416"
+    },
+    {
+      "tokens": [
+        "And Kitty Hawk - -"
+      ],
+      "speaker": "Fullerton",
+      "time": "1202440"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You want Wide - Go ahead."
+      ],
+      "speaker": "Roosa",
+      "time": "1202443"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On the S-Band Normal Voice to Off, that's when you're getting ready to go to sleep.",
+        "But they do want the High Gain to Wide and Manual, and you already have the good angles."
+      ],
+      "speaker": "Fullerton",
+      "time": "1202447"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Going Wide."
+      ],
+      "speaker": "Roosa",
+      "time": "1202503"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston."
+      ],
+      "speaker": "Fullerton",
+      "time": "1202901"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Roosa",
+      "time": "1202906"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Got a couple of short messages for you before we close up shop.",
+        "The - in a position to stop and talk a minute?"
+      ],
+      "speaker": "Fullerton",
+      "time": "1202909"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Roosa",
+      "time": "1202922"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "First of all, let's say that REVs 25 and 26 are going to be nominal, no matter - as far as you're concerned - no matter what other activities people decide to juggle around.",
+        "And, in case you didn't get the word, the President called Control Center, here awhile back, and offered us his congratulations to all of you, and the team down here for doing a good job; and as soon as we get a transcript of that, why, we'll read it up to you.",
+        "The third thing is that Hycon camera.",
+        "We've been talking to the Hycon people; and they're of the opinion that many of the things we've been chasing, some of the shutter oscillations and so forth, would not occur if the - or could not occur - if the counter is, in fact, counting off with each film advance; and it's our LMPression that, normally, you've been seeing the film counter advance.",
+        "So, we've got a couple of steps we'd like to have you try in order to verify camera operation.",
+        "The betting is that we have a good chance that the camera is functioning normally as far as taking pictures, and the noise may or may not be extraneous.",
+        "The first question is status of MAG W.",
+        "And if it still has some film on it, we'd like you to use it as the one to perform the check I'm going to describe to you."
+      ],
+      "speaker": "Fullerton",
+      "time": "1202924"
+    },
+    {
+      "tokens": [
+        "Yes, it's still got film.",
+        "I don't know how much, but we haven't hit the end of it yet."
+      ],
+      "speaker": "Roosa",
+      "time": "1203108"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It won't take much.",
+        "Briefly, what we're going to do is to check visually and have you look to see if the shutter's operating.",
+        "And we'll do this by looking down the lens barrel, looking from the - the operating end back towards the shutter.",
+        "And what you're going to be seeing is -you won't see the shutter slit go across, but you will see the motion; and you should be able to detect the direction of motion, and the time of it.",
+        "And you may want to use your flashlight to look down into the lens barrel and see what a - what you're doing.",
+        "I'll read you some details - a detailed procedure; I just want to give you an outline first of what we're doing."
+      ],
+      "speaker": "Fullerton",
+      "time": "1203115"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "What did they have to say about that check that we made where you look inside to make sure that the slit is an inch from the side."
+      ],
+      "speaker": "Roosa",
+      "time": "1203203"
+    },
+    {
+      "tokens": [
+        "Okay -"
+      ],
+      "speaker": "Fullerton",
+      "time": "1203215"
+    },
+    {
+      "tokens": [
+        "You know ...",
+        "and -"
+      ],
+      "speaker": "Roosa",
+      "time": "1203217"
+    },
+    {
+      "tokens": [
+        "I'll - I'll check on that one; I'm not sure."
+      ],
+      "speaker": "Mattingly",
+      "time": "1203218"
+    },
+    {
+      "tokens": [
+        "Okay, Stu.",
+        "I understand that they're satisfied with what you saw, and they think that - that looks normal, which is one of the things that makes us think that the camera is probably operating normally.",
+        "And if it turns out that the shutter is oscillating, what you're going to see is just a blur; but, again, you'll see a - the - the blur will appear to oscillate; and I think you'll be able to detect that the shutter is going from side to side; and it just looks like a big flash.",
+        "And I - if you'll put the - put a flashlight in the lens with you as you look in there, I think you'll be able to see it; and you may even see one of the seams on the Mylar, when it comes to a stop.",
+        "So, with that description of what it is you're going to be looking at, I'll read you the detailed procedures, if.",
+        "you're ready."
+      ],
+      "speaker": "Mattingly",
+      "time": "1203237"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead."
+      ],
+      "speaker": "Roosa",
+      "time": "1203337"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll use the magazine W, because we're not going to use much film.",
+        "We'd like to finish that one off.",
+        "Go ahead and put the camera on the couch, or wherever it's convenient for you, with the lens opening visible to you.",
+        "And you might want to tie the camera down, because we're going to operate it.",
+        "Go ahead and hook up the camera according to the instruction decal; do everything in the normal orders.",
+        "Like to have you make the following settings: for the Mode, we'd like to use Auto; the shutter should be on l/50th of a second; the Range, 99-9; and the Frame Rate at 60.",
+        "Once you have the control box set up, turn the power to ON; and we'd like to have you observe the shutter operation by looking through the lens and use the penlight.",
+        "And go ahead and run this thing, say 10 cycles.",
+        "Like to have you also verify that the magazine spools are rotating and that the counter is counting for each actuation that you observe."
+      ],
+      "speaker": "Mattingly",
+      "time": "1203341"
+    },
+    {
+      "tokens": [
+        "Magazine W contains black and white film for the Hycon Lunar Topographic Camera."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yes, I can already verify that.",
+        "The counter counts, and the spools rotate."
+      ],
+      "speaker": "Roosa",
+      "time": "1203453"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Has there been any instance when the counter didn't count when it was making its funny noises and so forth?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1203458"
+    },
+    {
+      "tokens": [
+        "No.",
+        "Not - I don't - don't believe so at all."
+      ],
+      "speaker": "Roosa",
+      "time": "1203511"
+    },
+    {
+      "tokens": [
+        "Okay, that's encouraging.",
+        "I think the voting down here is that you probably have a functioning camera.",
+        "What we'd like for you to do is - do this little test at your convenience, and let us know what you see.",
+        "If it works out that this is one of these times where the test is performed, and the camera sounds like it's operating okay, go ahead and run the test; but don't sit there and run the camera trying to make it duplicate the sounds you've heard before.",
+        "And what we're going to do is assume that if you see a shutter move, and it sounds right - we're going to assume that it's okay.",
+        "Now - then, later in the flight, if this thing starts to act up again, we'd like to have you go ahead and finish that pass using the film; assume again that it's working properly; but, at the first convenient time afterwards, perform this test again.",
+        "And the time, of course, that we're most interested in is performing this test when the noises and so forth are coming out."
+      ],
+      "speaker": "Mattingly",
+      "time": "1203515"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I don't think we'll have to sweat finding that.",
+        "Seem like it's all the time.",
+        "Now, I still don't see what I'm looking for when I look down the - the lens.",
+        "I know the shutter moves because I can actuate it and go in and look at the slit, and it's moved."
+      ],
+      "speaker": "Roosa",
+      "time": "1203626"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "What we're trying to see, Stu, is that the slit is not oscillating.",
+        "We've been able to duplicate your noises down here by setting up an oscillation in the slit, whereas the shutter just sits there and runs back and forth.",
+        "And it's cycling.",
+        "Just completely out of control.",
+        "So, we want to verify that that's not our problem.",
+        "In that case, if you look at the slit before and after an actuation, you would find that the slit had moved, but it wouldn't tell you that it was moving properly.",
+        "And I think that's the big thing you're looking for."
+      ],
+      "speaker": "Mattingly",
+      "time": "1203650"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll do that sometime, first chance I get tomorrow."
+      ],
+      "speaker": "Roosa",
+      "time": "1203731"
+    },
+    {
+      "tokens": [
+        "And, Ken, another question."
+      ],
+      "speaker": "Roosa",
+      "time": "1203817"
+    },
+    {
+      "tokens": [
+        "Yes, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "1203821"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "What do they say about the - the shutter moving, FMC operating, and all that good-deal stuff with the switch in Standby?"
+      ],
+      "speaker": "Roosa",
+      "time": "1203825"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We've run several tests where we've been able to duplicate that, but it's - it's not easy to correlate the way we've duplicated that with : what you've been saying.",
+        "We've been able to lower the power into the camera and make it do that.",
+        "And it'll sit there; and, when the timing logic gets out of sequence, then there's - there's a little -all the timing internal to the camera is run from a commutator.",
+        "And this little commutator can get hung up on one sequence like the shutter operation, and it?ll sit there and do that.",
+        "The reason the EMC seems to operate normally is that that's all an AC operation, and the problems that we have been able to duplicate have all been associated with DC."
+      ],
+      "speaker": "Mattingly",
+      "time": "1203838"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "At 119 hours, 59 minutes we've completed the shift handover in Mission Control.",
+        "Flight Director Milton Windler and his Maroon team of flight controllers are now on.",
+        "Capsule Communicator on this shift is Astronaut Gordon Fullerton.",
+        "There will be a change of shift briefing shortly in the MSC News Center, main auditorium.",
+        "At the present time, Flight Director Windler is reviewing the mission status with each of his flight controllers - going around the room checking status and also discussing the lunar lift off which will occur on this shift tomorrow.",
+        "We're about one minute fifteen seconds from reacquiring the Command Module on its 20th revolution and al: this time we expect that crewmen on both spacecraft are in the midst of an eat period prior to beginning their scheduled rest periods.",
+        "We'll stand by for acquisition of Kitty Hawk now in about 45 seconds."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I tried that - you know, I had it in Standby, and I put the frame rate on zero - now I don't know whether there's a minimum, whether zero really means zero or not - but that didn?t seem to phase it.",
+        "It went ahead and did its thing anyway."
+      ],
+      "speaker": "Roosa",
+      "time": "1203934"
+    },
+    {
+      "tokens": [
+        "That's - that's been our experience too, Stu.",
+        "Whenever we oet this condition up due to a low-power input on the DC, why, once it gets into this uncontrolled shutter oscillation, why, all other controls are - seem to be ineffective."
+      ],
+      "speaker": "Mattingly",
+      "time": "1203950"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 120 hours 40 minutes.",
+        "During the change of shift briefings we have conversations going on with both the Lunar Module, Antares, and with Stu Roosa, in Kitty Hawk.",
+        "We have tape recorded on the conversations with Antares and we'll be prepared to play that back.",
+        "The conversations with Stu Roosa primarily concern the Hi Con camera.",
+        "Capcom, Ken Mattingly, who is handling the CSM side of the capcom duties advised Roosa that tests on the ground indicate that the hicon camera may in fact be getting usable pictures and we asked Roosa to attempt to verify that the shutter is operating.",
+        "This would add to the feeling of confidence that perhaps the Hycon camera is operating properly.",
+        "And Roosa was advised to operate the camera and to attempt to look down toward the aperture with a flash light and see if he could verify that the shutters were operating.",
+        "If he can verify this, the plan at this time would be to use the Hycon camera, the lunar photographic camera at the next opportunity to photograph the potential landing site at Descartes, which would be on the 25th and 26th revolutions.",
+        "Roosa is finishing up a meal period, and as soon as he has completed with that, he's scheduled to enter a sleep period.",
+        "We're in conversation with the Lunar Module at tile present time.",
+        "We'll pick up with tape recorded communications and then stand by to follow live."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And the noise is - is not synonymous with sporadic firings of the camera.",
+        "You know, you can set sometimes in Standby POWER, ON, and all you have is the noise and no operation of the camera.",
+        "Then, other times, you have the operation of the camera along with the noise."
+      ],
+      "speaker": "Roosa",
+      "time": "1204013"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm afraid we don't have a real good handle on that.",
+        "And - we've been able to duplicate many of your symptoms, but we haven't been able to duplicate them all simultaneously.",
+        "So, we're going to hang our hats on this check that you're making just to - to verify that - our assumption that the camera's probably taking photographs and operated normally.",
+        "If it turns out that the shutter speeds have been off or something of that nature, once we know that - and we can determine that on the ground - we can process the film accordingly and -and recover all of the data.",
+        "And just as a backup procedure, we've had a lot of people working around the theory here that - to see what we can do - how we'd use our film if we finally have a limited amount or how we want to apportion our other film resources to take the place in case this camera check doesn't pass."
+      ],
+      "speaker": "Mattingly",
+      "time": "1204037"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "So, if the shutter's not oscillating, we can press ahead.",
+        "That's the plan, huh?"
+      ],
+      "speaker": "Roosa",
+      "time": "1204143"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "And just in case it doesn't act up the one time you look at it, which seems to be one of nature's rules, why go ahead and assume it's working fine; and, next time it does act up, why, we'll run the test whenever it's convenient."
+      ],
+      "speaker": "Mattingly",
+      "time": "1204149"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Roosa",
+      "time": "1204210"
+    },
+    {
+      "tokens": [
+        "You having a good time up there?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1204212"
+    },
+    {
+      "tokens": [
+        "Yes, man."
+      ],
+      "speaker": "Roosa",
+      "time": "1204217"
+    },
+    {
+      "tokens": [
+        "Sure sounds like it.",
+        "You guys have really done a good job."
+      ],
+      "speaker": "Mattingly",
+      "time": "1204222"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll, I think I'm going to see - Yes, I think I'm going to see if I can have a little chow and sack out here.",
+        "It's been a long day.",
+        "Hey, would It help anybody if I'd run that check now, or should I - Is it all right if I wait until .",
+        "in the morning?"
+      ],
+      "speaker": "Roosa",
+      "time": "1204225"
+    },
+    {
+      "tokens": [
+        "Well, I think - just run it the next time it's convenient for you."
+      ],
+      "speaker": "Mattingly",
+      "time": "1204252"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Unless - unless you think it would be a breakthrough somebody could work on tonight, I'd just as soon wait until tomorrow."
+      ],
+      "speaker": "Roosa",
+      "time": "1204303"
+    },
+    {
+      "tokens": [
+        "That sounds good.",
+        "Just give us a call whenever you get it done."
+      ],
+      "speaker": "Mattingly",
+      "time": "1204309"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And I think, as I told Gordon there, you know, I did take the pictures of the - of the llanding, just assuming that maybe the thing was working right.",
+        "I did - I did not take that target 16, however, because I thought maybe we could get it again if the thing gets to working right."
+      ],
+      "speaker": "Roosa",
+      "time": "1204316"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Sounds good."
+      ],
+      "speaker": "Mattingly",
+      "time": "1204335"
+    },
+    {
+      "tokens": [
+        "Hey, Ken?",
+        "One other question."
+      ],
+      "speaker": "Roosa",
+      "time": "1204445"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead."
+      ],
+      "speaker": "Mattingly",
+      "time": "1204451"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Originally, criteria been that that shutter slit would stop an inch from the side.",
+        "That - that's not really an iron-clad operating mode, then.",
+        "Is that correct?"
+      ],
+      "speaker": "Roosa",
+      "time": "1204455"
+    },
+    {
+      "tokens": [
+        "Well, I'm not - real sure what you mean by an iron-clad, operating mode, Stu.",
+        "It - it indicates that the - the shutter is, in fact, still being properly sync'ed.",
+        "Tells you that the timing sync hasn't been lost, but it doesn't tell you that the shutter is firing at the proper time.",
+        "It just means that it's - the shutter curtain itself is still hooked up."
+      ],
+      "speaker": "Mattingly",
+      "time": "1204517"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Put I'm sure you got the word that it - you.",
+        "know, you can trip this beauty and sometimes it stops an inch from the side like it should; and then, the four or five times that I looked at that little operation, twice it stopped down maybe twice that far, maybe 2 inches or a little more out.",
+        "It didn't - it didn't always stop the same distance out."
+      ],
+      "speaker": "Roosa",
+      "time": "1204546"
+    },
+    {
+      "tokens": [
+        "Okay, Stu.",
+        "Gordy says that's enough.",
+        "That's an indication that we do have a sync problem."
+      ],
+      "speaker": "Mattingly",
+      "time": "1204615"
+    },
+    {
+      "tokens": [
+        "I guess one thing I'd like some verification on, Stu, is the randomness of this oscillation that you're getting.",
+        "Does it happen the same in Standby and Auto?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1204633"
+    },
+    {
+      "tokens": [
+        "You mean the noise?"
+      ],
+      "speaker": "Roosa",
+      "time": "1204650"
+    },
+    {
+      "tokens": [
+        "Yes, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "1204652"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "it's - it doesn't change when you go from Standby to Auto.",
+        "It doesn't change when you move the Nonessential Bus switch from Main A to Main B.",
+        "It doesn?t change when you poke around on the connector on 227.",
+        "It just seems like it's there, and - in all the modes.",
+        "It - it - like it [sic] say, it started intermittently on that low pass.",
+        "Came on, then went back off again.",
+        "But now, every time that I've turned the power on, I've gotten the noise.",
+        "I don't always get the shutter operation - 1 meant the - well, the shutter operation as far as the counter moving and the FMC operating But the noise is always there."
+      ],
+      "speaker": "Roosa",
+      "time": "1204657"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And can you associate that more with Auto than Standby?",
+        "Anything like that?"
+      ],
+      "speaker": "Mattingly",
+      "time": "1204801"
+    },
+    {
+      "tokens": [
+        "That's a negative."
+      ],
+      "speaker": "Roosa",
+      "time": "1204814"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "1204817"
+    },
+    {
+      "tokens": [
+        "You turn the power on in Standby, and it's there."
+      ],
+      "speaker": "Roosa",
+      "time": "1204817"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Mattingly",
+      "time": "1204819"
+    },
+    {
+      "tokens": [
+        "And you go to Auto - You go to Auto and you start taking the pictures, but the noise is still there."
+      ],
+      "speaker": "Roosa",
+      "time": "1204820"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Understand, Thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "1204831"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "I'm going to turn off my handy-dandy switch here, and we'll see you all in the morning."
+      ],
+      "speaker": "Roosa",
+      "time": "1205006"
+    },
+    {
+      "tokens": [
+        "All right, sir.",
+        "All your systems look Go."
+      ],
+      "speaker": "Mattingly",
+      "time": "1205012"
+    },
+    {
+      "tokens": [
+        "Jolly good."
+      ],
+      "speaker": "Roosa",
+      "time": "1205018"
+    },
+    {
+      "tokens": [
+        "Begin sleep period for Roosa."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "This is in the blind.",
+        "No need to answer.",
+        "Should you remember it, I want -being sure that your biomed's plugged in."
+      ],
+      "speaker": "CC",
+      "time": "1205133"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 120 hours, 54 minutes.",
+        "We've bid Stu Roosa good night.",
+        "The Communication's Officer reports that he's turned his comm off in the spacecraft.",
+        "He's scheduled to have a 9½ rest period and we wouldn't expect to hear from him until that rest period is completed.",
+        "The Science Briefing on EVA one which had been scheduled for 4:00 PM in the MSC News Center Auditorium has been cancelled.",
+        "Dr.",
+        "David W.",
+        "Strangway, Chief of the Geophysics Branch at the Manned Spacecraft Center will be available at 7:00 PM central standard time in the MSC News Center main auditorium to answer questions concerning EVA-one.",
+        "And at the present time we show Kitty Hawk in an orbit 61.8 by 57.7 nautical miles.",
+        "Spacecraft current altitude is 58.5 and the velocity is 53 53.",
+        "We'll be losing contact with Kitty Hawk in a little over 17 minutes as the spacecraft goes behind the Moon on it's 20th revolution.",
+        "We'll continue to stand by for any calls from the crew aboard Antares on the lunar surface.",
+        "At 120 hours, 56 minutes, this is Apollo Control Houston, standing by."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 121 hours and 13 minutes and Kitty Hawk has just gone around the corner on it's 20th revolution of the Moon.",
+        "When next we reacquire the spacecraft, we would expect Stu Roosa to be asleep.",
+        "He turned off his communications midway through this revolution at about 120 hours, 45 minutes and we did not hear further from him on the frontside pass.",
+        "We'll continue to stand by for any communications with the Lunar Module, Antares.",
+        "In a previous conversation with the crew on Antares, CapCom Gordon Fullerton queriedthem as to how there checklists were going and what looked like a good time to begin the post EVA debriefing and according to our figures here that would probably occur at about 122 hours, Ground Elapsed Time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    }
+  ],
+  "source_file": "day5_part5_command_module_solo_operations_2.html"
+}

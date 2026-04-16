@@ -1,0 +1,1314 @@
+{
+  "description": "A8FJ - Day 3: Lunar Encounter",
+  "transcript": [
+    {
+      "tokens": [
+        "Apollo 8 has just disappeared behind the Moon's western limb and will be out of radio contact with Earth for a period of time that depends on what the crew do in the next few minutes.",
+        "If they do nothing, the Moon's gravity will sling them around and send them back towards Earth.",
+        "They would then re-emerge from behind its eastern limb 22½ minutes later, having aborted the mission.",
+        "What they intend to do is to fire their SPS (Service Propulsion System) engine for a little over four minutes against their direction of travel, slowing them down enough to be captured by the lunar gravitational field.",
+        "If this burn works as expected, then according to the trajectory experts and their computers, Apollo 8 will reappear 32 minutes, 37 seconds after it disappears.",
+        "Any deviation from the planned burn will affect this duration, making it a good initial test of the burn's fidelity and their trajectory."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In the minds of many, this temporary interruption of Apollo 8's communication link by the massive bulk of another world is a most profound step in human exploration, at least since the flight of Yuri Gagarin.",
+        "Arguably, it is of equal historical importance and almost certainly represents the point where the United States was deemed to have essentially won the race to the Moon.",
+        "Apollo 11 would be the remembered mission.",
+        "However, Apollo 8 made the political point.",
+        "This is borne out by the fact that the Soviets were pushing to achieve a similar manned circumlunar flight in the months leading up to Apollo 8 with which they would have undoubtedly claimed the kudos of reaching the Moon first."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "They're traveling over the back side of the Moon now.",
+        "Our velocity reading here; 7,777 feet per second [2,370 m/s].",
+        "At the present time we show an altitude above the Moon of 293 nautical miles [543 km].",
+        "So at 69 hours, 1 minute; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "While out of view and radio range of Earth, telemetry on the spacecraft's most vital systems is being recorded on the DSE (Data Storage Equipment) tape recorder.",
+        "The crew's conversations are also recorded on this tape, whose contents will be replayed to Earth once they come around for a nearside pass."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Just as Jim Lovell reminded his commander, Frank Borman, of the exact time they were calculated to lose the S-band radio signal from Earth, it was lost, a precision by the Earthbound computers of some wonder to Frank."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Chris Kraft is very much the boss in Houston.",
+        "At the time of Apollo 8, he is the Director of Flight Operations and the man the Flight Directors report to.",
+        "The joke that Bill Anders injects is to suggest that Kraft would have ordered the people at the transmitting station to turn off the radio signal at the right time so as not to worry the crew if the predictions had not been so accurate."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "They are following the checklist for Program 40 per pages G-43 to G-49 in the Guidance Checklist.",
+        "As we pick them up, they are beginning the TVC (Thrust Vector Control) Check and Preparation section, midway down page G-45.",
+        "While the engine is firing, it is important for its thrust axis to act through the spacecraft's centre-of-gravity to avoid it tumbling.",
+        "To achieve this, the SPS engine is mounted on gimbals with actuators that allow it to be aimed before and during a burn.",
+        "Note that these checks had already been performed while to spacecraft was still in view of Earth so that ground controllers could monitor telemetry.",
+        "Now the crew are repeating the steps purely as checks."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Panel 8 is to the left of the Main Display console and populated mostly with circuit breakers.",
+        "Though there are two rows of breakers for the SCS (Stabilisation and Control System), the checklist line is referring to a single breaker at the top left."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "These twelve SPS circuit breakers are also on panel 8, second row from the bottom.",
+        "They feed power to the gauging system, the helium pressurisation valve, the engine gimbal motors and the two pilot valves that control the flow of propellant to the engine."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Bill and Frank are using the challenge and response methodology to work through the checklist.",
+        "Bill reads the line from the checklist and Frank confirms to him that the requested action has been carried out."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Deadband refers to the range of attitudes around the ideal that the spacecraft can drift through before active steps are taken to correct it.",
+        "There are two settings for this: maximum is ±5° and minimum is ±0.5°.",
+        "For the next series of checklist lines, Frank deals with switches on Panel 1 of the Main Display Console."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "When the RCS system does need to correct the attitude of the spacecraft, it can be set to do so at a high (7° per second) or low (0.7° per second) rate."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Limit Cycle switch enables a subtle aspect of automatic attitude control.",
+        "With the switch set to On, then during active attitude correction, when the spacecraft approaches the deadband, the RCS jets are made to pulse on and off quickly rather than making long firings.",
+        "This helps to reduce the overshoot effects of liquids sloshing about in the tanks."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Three switches, one each for roll, pitch and yaw, set the mode that the spacecraft's attitude is controlled in.",
+        "The Rate Command position gives control to the SCS and allows rotation rates that are proportional to the deflection."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This refers to another three switches, one each for roll, pitch and yaw, which set how two sets of gyros, thegyro assemblies, supply information to the rest of the SCS, including the two FDAIs (Flight Director Attitude Indicators).",
+        "The gyros are called BMAGs as they are body mounted and used primarily for attitude control.",
+        "In this configuration, gyro assembly 1 will supply attitude information while gyro assembly 2 supplies rate of change of attitude information."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The rotational hand controllers have two modes of operation.",
+        "In Normal, they operate via the computer so that commands can be interpreted into different ways of firing the RCS thrusters.",
+        "In Direct mode, the controllers directly signal the thrusters to fire.",
+        "This is a mode that must be used carefully as it can cause prodigious amounts of manoeuvring fuel to be consumed."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Thrust vector control is normally handled by the Guidance and Navigation system.",
+        "As a backup, the commander can fly the engine manually.",
+        "In case he has to resort to it, this switch setting readies the manual control system in a rate-damped mode which is the easiest way to control the engine."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At the bottom of Panel 1, two switches set how the pitch and yaw gimbals that move the engine bell are controlled.",
+        "In auto, the control is automatic.",
+        "However, control signals can be sent to the primary (1) or secondary (2) gimbal system."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "By the checklist, this is the six-minute point and there are nine minutes to go.",
+        "They will hold here and continue in three minutes time."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The GDCs (Gyro Display Couplers) take signals from the two gyro assemblies and use them to drive the FDAIs.",
+        "However, the BMAGs (the type of gyros in these assemblies) do not have an absolute attitude reference as they only measure changes in attitude.",
+        "The resulting measurements from this are prone to error and drift.",
+        "Periodically, then, the GDCs' knowledge of absolute attitude must be updated which is done by aligning them with the IMU (Inertial Measurement Unit) and its stabilised platform.",
+        "This is done simply with a push-button on Panel 1."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Bill is looking at items in the top half of page G-45, apparently just to double check them.",
+        "These two items are the switch settings for the spacecraft control mode."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Bill is now referring to a line halfway down page G-43 of the checklist.",
+        "This is to have the EMS (Entry Monitor System) prepared to provide a backup means of shutting down the engine.",
+        "Frank entered a Delta-V figure into the EMS display.",
+        "As the burn progresses, this figure will reduce, sending a shutdown command when it goes below zero."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Bill is waiting for the six-minute point in their count.",
+        "At that time, he will throw two switches that channel power from the batteries to the main DC power busses as follows: the A/C switch puts battery A across Main Bus A and battery C across Main Bus B; the B/C switch puts battery B across Main Bus B and battery C across Main Bus A.",
+        "The extra power is needed to supply the gimbal motors that aim the SPS engine."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Presumably Jim means that they should try and not get too worked up about their current historic situation and the accuracy demanded in what they are about to do.",
+        "Quickly, Frank begins talking about the temperature of the cabin."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It is an interesting question as to what cues Jim is using to determine this.",
+        "The map update read to the crew two hours ago includes a time, 069:05:05, just over three minutes before the LOI-1 burn, when the crew will pass over the 150° west meridian, a line which coincides with the eastern rim of the large crater, Korolev.",
+        "Based on a look at later photography, that rim also coincides with the Moon's sunset terminator.",
+        "Therefore, they will not fly over the sunlit Moon for another three minutes.",
+        "Additionally, the spacecraft is oriented to be facing engine-first at LOI ignition as they travel towards the daylit Moon, which means the spacecraft's windows are facing towards the lunar night.",
+        "However, they are flying in a heads-down orientation with the windows favouring the Moon's surface.",
+        "Based on Frank's debrief remarks reproduced at 069:15:24, it seems like that Jim is inferring the Moon's proximity by seeing an arc of darkness that contains no stars."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The propellants for the SPS engine are stored in four great tanks that take up most of the bulk of the Service Module.",
+        "For reliability reasons, there are no pumps to feed the fuel and oxidiser to the engine.",
+        "Instead, the tanks are pressurised by helium fed from two small high-pressure tanks mounted in the module's central tunnel.",
+        "This pressure forces the propellants to the engine.",
+        "With the propellant tanks still full, little helium has been used and the pressure in the helium tanks is in the order of 25 MPa (3,600 psi).",
+        "Bill is pointing out how far the helium pressure should drop to.",
+        "It is also a reminder that a value below 1,500 psi would indicate a helium leak - a very serious problem if one is just entering lunar orbit."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Power has now been fed to the servos that operate the engine gimbals.",
+        "The primary servos are fed from the primary AC bus, while the secondary servos are powered from the secondary AC bus."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Two hand controllers need to be operational for this manoeuvre.",
+        "If the automatic control of the engine gimbals fails, then Frank needs the rotational hand controller to be able to hold the spacecraft's attitude.",
+        "Prior to SPS ignition, a ullage burn will be carried out which is essentially a plus-X translation manoeuvre, requiring the use of the translational hand controller."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The following sequence checks that the Thrust Vector Control is properly configured."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Meaning the time when the SPS gimbals are to be powered on."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Momentary switches on panel 1 activate relays that send power to the primary gimbal motors on the SPS."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston; 69 hours, 3 minutes now into the flight of Apollo 8.",
+        "Apollo 8 now traveling over the back side of the Moon.",
+        "Time of ignition for our Service Propulsion System engine burn; 69 hours, 8 minutes, 52 seconds [sic - planned time of ignition is 069:08:19.52].",
+        "Some - a little over four minutes away from this time, Apollo 8 will perform its burn in the guidance and navigation mode, using the onboard computer and the DSKY - the Display Keyboard.",
+        "To do this, the crew will key into one of their guidance programs on the DSKY.",
+        "The Service Propulsion System gimbal is trimmed before the burn.",
+        "Maneuver to burn altitude [means attitude] has already been accomplished.",
+        "A good deal of data will be flashed on the DSKY; and then in the final thirty seconds, a countdown to time of ignition will come up on its face.",
+        "And at time of ignition minus seco - five seconds, comes what in effect is a final Go/No Go.",
+        "The computer in effect asks the crew, 'May I proceed?' To execute the burn, one of the crew, probably spacecraft Commander Frank Borman, must punch the Proceed key.",
+        "So at 69 hours, 4 minutes, 55 seconds into the flight of Apollo 8; this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Jim's utterance at069:07:30indicates that he will press the Proceed key."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the primary gimbal motors powered, Frank turns the THC clockwise to try and control the engine's aim.",
+        "If their configuration is correct, the engine should not respond to his commands as the primary gimbals are to be controlled by the G&C system and any manual control is to be via the rotational controller."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Their next check is to ensure the secondary gimbals do respond to Frank's commands, as they should."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Now the secondary gimbal motors are activated via relays."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "GPI is Gimbal Position Indicator, a set of dual-use gauges on panel 1.",
+        "During ascent from Earth, they showed the tank pressures in the launch vehicle using the 0 to 50 scales.",
+        "Now they will show the angles to which the SPS engine is being aimed using the scales that run from +4.5, through zero to -4.5."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This photograph shows the GPI meters and the two GPI trim thumbwheels on board the Apollo 13 Command Module,Odyssey.",
+        "The crew are setting the trim angles on the thumbwheels.",
+        "These only have relevance when the crew have to manually aim the engine, which they do so for the start of the burn.",
+        "This Manual TVC Mode is being tested now.",
+        "The secondary motors are controlled by the Rotational Hand Controller.",
+        "Frank tries moving the controller and confirms that the engine moves by watching the needles on the GPI."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The THC was previously turned clockwise to enable the secondary TVC mode.",
+        "Now that the check is complete, the THC is returned to normal."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The checklist actually says that the GPI meters should return to zero if they have the primary system under control of the G&N system, otherwise, if the SCS is in control, the trim angles would be displayed."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew is midway down G-46.",
+        "At this stage, they have the option to ensure the spacecraft attitude is still correct (perhaps because the movements of the engine bell may have upset the spacecraft attitude slightly) by returning to step 12 at the top of page G-45 where they ask the computer to manoeuvre the spacecraft to the requested attitude angles."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Both sets ofgyro assembliesare switched to provide rate data to the FDAIs."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the spacecraft attitude checked, the crew return to the middle of Page G-46 where they can move on to step 15.",
+        "First they have to return the BMAGs in thegyro assembliesto providing attitude and rate data."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Now they move onto step 15."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "They verify that the spacecraft attitude is still under the control of the CMC (Command Module Computer)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Step 15 has the option to accept or reject the gimbal test option.",
+        "This exchange implies that Jim is helping the process by operating the DSKY and that he has chosen to bypass the test by pressing Enter rather than Proceed.",
+        "Jim is confident in the operation of the SPS gimbals, and he believes that his small procedural error will not be of any consequence."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Program 40, which performs the burn, is running on the computer.",
+        "Verb 06 Noun 40 is selected on the DSKY.",
+        "This code says, \"Display the contents of Noun 40.\" The DSKY's three displays will show the time elapsed from ignition, the velocity still to be gained and the velocity change thus far.",
+        "These will let the crew monitor the progress of the burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Power for the rotational hand controller is switched to come from both main DC power busses."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the helium valve in auto, helium is only allowed into the propellant tanks when the engine valves are energised."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Limit Cycle switch was set On during the TVC check."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Around the edge of the FDAI are three displays that show the rate of rotation of the spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The FDAI Scale switch allows the crew to select what is meant by the full scale deflection of these needles.",
+        "Its positions are ±1° per second, ±5° per second and a \"50/10\" position that means ±10° per second in pitch and yaw, and ±50° per second in roll."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The same switch also selects the full scale deflection for the attitude error needles (the yellow needles within the ball display).The first two positions of the switch represent ±5° error while the bottom position selects ±15° in pitch and yaw, and ±50° in roll.",
+        "The crew have therefore selected the position that has the coarsest resolution for the error and rate displays."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "About now they are passing over the 150°W meridian which we reckon is also the terminator.",
+        "They ought to be able to see the lunar features out of their window very soon."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The cockpit lights prevent any night adaptation of their eyes, making it impossible to see many stars.",
+        "Without the ability to see faint stars, the horizon of the Moon cannot easily be discerned.",
+        "Still any \"horizon\" that might be visible would be very hard to discern.",
+        "See discussion at 69:01:18"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "For the first time in the mission, the crew can see the first shafts of sunlight obliquely illuminating the lunar surface.",
+        "They are flying heads-down and the windows are looking at the surface they have just passed.",
+        "Frank ought to be able to see to the south through window 1 while Bill would be looking to the north out of window 5.",
+        "Jim has the best view of the surface below and to the east of them as he looks straight ahead out of the central hatch window."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The first reaction to seeing the Moon makes Frank think that Bill has found a problem with the systems."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With two minutes left in the count, Bill picks up the checklist at the top of page G-47."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Two guarded switches in the middle of panel 1 enable the main and backup Pilot valves in the SPS engine.",
+        "Frank has enabled the main valves, set A, which will now open upon command from the computer.",
+        "Set B will be brought into play soon after ignition."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The hand controllers are ready to be used if called upon if the primary automatic systems fail."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "There are two recorders onboard the spacecraft.",
+        "The DSE has been operated regularly throughout the flight to record telemetry and crew voices.",
+        "It is regularly replayed to Earth and is recording the voices you are reading in this journal.",
+        "The second recorder is the Flight Qualification Recorder which, by its presence, shows that Apollo 8's spacecraft, CSM-103, is still very much an experimental vehicle.",
+        "Unlike the DSE, it is an analogue instrument and will only be replayed on return to Earth.",
+        "It is therefore activated only during ascent, entry and for SPS engine burns."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Flight Recorder will start recording with only seconds to go to ignition.",
+        "By the fact that we have this transcript, we know the DSE is recording.",
+        "Therefore, Bill may simply be stating a line of the SPS ignition checklist that is not relevant to this situation.",
+        "Remember that the checklist is for any use of the SPS engine, whether or not the spacecraft is behind the Moon."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Bill and Jim are struck by the view unfolding out of their windows and will have to be pulled back into the cabin and their instruments by their commander."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "One characteristic of our perception of the lunar surface is that, at first, we have difficulty telling depressions from high ground.",
+        "Without the cues of familiar objects to help us, and with the right lighting, our brain can interpret the countless lunar crater pits with a positive as well as a negative relief.",
+        "Experienced lunar watchers do not have this problem as they long ago learned to make the correct distinction."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "One of Frank's main responsibilities as commander is to \"keep the troops focused\".",
+        "This certainly isn't to say that Jim and Bill are running around the spacecraft like toddlers on a sugar high, but at this point, Frank wants to maintain a tone of \"all business\".",
+        "Even without the actual tapes, we can likely guess that he is gently chiding Jim and Bill to keep their attention at the task at hand."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Twenty hours or ten orbits is the length of time they will spend in lunar orbit."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At 069:07:45, with only 35 seconds to ignition, the display on the DSKY will go blank to show that the G&N system has begun measuring the average g-force that the burn will produce."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Five seconds before TIG, the computer will begin to flash \"99\".",
+        "This is a request from the computer asking for permission to open the propellant valves and ignite the engine.",
+        "Just so there is no confusion, Jim is stating that when it does so, he will be the one to press Proceed.",
+        "This is the final task necessary to perform the engine ignition."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is a step that was dropped from the checklists of later flights.",
+        "The PIPAs are the accelerometers within the IMU (Inertial Measurement Unit) which are mounted on the stabilised platform.",
+        "PIPA is Pulsed Integrating Pendulous Accelerometer and there are three of them, one each for the three directions of three-dimensional space.",
+        "They do exhibit some bias which shows up as an apparent change in velocity when they are really in a zero-g environment.",
+        "It is unclear how this would be determined during the final seconds before ignition but it may be simply a case of watching the Delta-V display while they are still weightless and ensuring it does not change by more than 2 fps every five seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 69 hours, 8 minutes.",
+        "Apollo 8 is now less than 30 seconds away from the planned time of Lunar - the Lunar Orbit Insertion burn.",
+        "The crew should be now looking at the countdown to ignition on the face of their Display and Keyboard.",
+        "Heads down, they should be seeing the features, the rugged features over the back side of the Moon moving below them at a high rate of speed.",
+        "Standing by, this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "When the engine starts, it will only be using one of two sets of valves that let propellant flow to the engine.",
+        "Bill is reminding Frank and Jim that the secondary set, the B set, should be enabled soon after ignition per a handwritten addition to page G-48 of the checklist.",
+        "Having both A and B banks of valves operating allows the engine to reach its proper thrust."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At 069:08:20 the SPS engine ignites for its 4-minute burn, bringing humans into lunar orbit for the first time in history."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "There are two pressure readings the crew will be looking at during the burn.",
+        "Bill is watching the pressures in the propellant tanks on a pair of meters at the top of panel 3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This photograph shows the same meters as photographed in the Apollo 13 Command Module,Odyssey.",
+        "The four scales show propellant temperature, pressure of either the helium or nitrogen storage tanks and the pressure in the fuel and oxidiser tanks respectively.",
+        "As the engine begins operation, helium is allowed into the propellant tanks to keep them pressurised as their contents are depleted."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "On the opposite side of the Main Display Console, Frank is watching the combustion pressure meter.",
+        "This little meter was used during launch from Earth to show the angle of attack based on the air pressure on the tip of the launch vehicle as it rose through the thickest part of the atmosphere.",
+        "Now it monitors the pressure imposed on the combustion chamber walls by the burning fluids, PC, and is a good indication of how well the engine is performing."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Frank has brought the B bank of valves into play by placing the Delta-V Thrust, B switch in the Normal position.",
+        "Once he has done that, a small but noticeable increase in thrust can be felt."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "On Bill's panel, four indicators show the position of the four propellant valves and he confirms that they show that all four are open."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Although Jim doesn't finish his sentence, readers can easily imagine how it is finished."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Given the positioning of the EMS display directly in front of Frank, it is entirely possible these are his words."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The EMS has its own accelerometer, the output of which causes the Delta-V display to count down from the original Delta-V figure entered by the crew.",
+        "If it passes zero, the EMS will send a command to shut down the engine.",
+        "If the flight controllers have done their sums right, this will be at the same time that the G&N system will be sending the same command based on its own calculations.",
+        "Either way, they have redundant methods of automatically shutting the engine down."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "If neither of the automatic systems work, the crew can manually bring the burn to an end by throwing the two Delta-V Thrust switches.",
+        "Near the bottom of page G-48, there are instructions on when they should do this and in the case of the LOI-1 burn they should wait six seconds after the planned end of the burn.",
+        "If they were to wait much longer, they would be in danger of slowing down enough to cause them to impact the Moon.",
+        "To try and put this into perspective, consider that in two orbits time, they will make another burn to circularise their orbit, bringing their near-side altitude down by 200 km.",
+        "This drop in their apocynthion will be achieved with only a 9-second burn.",
+        "It does not take much of an overburn to place the crew in danger of impact and the six-second allowance for manual shutdown errs on the side of caution."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Although we will not know until we reacquire, their retrograde burn with the Service Propulsion System engine should be progressing now, assuming no last minute complications.",
+        "We won't know, however, until we acquire."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The tension of the situation is readily apparent."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Helium is leaving its storage tanks to fill the voids left in the propellant tanks by the depleting fuel.",
+        "The pressure in the helium supply tanks is therefore dropping."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mode 30 is one of the abort control points for Lunar Orbit Insertion.",
+        "Aborts and their recovery procedures during the SPS burn depend greatly on their velocity.",
+        "Depending on the point of the SPS failure, Apollo 8 might return to Earth, be placed into an unstable orbit in the Earth/Moon system, or be trapped in Lunar Orbit.",
+        "'Flange temp' might refer to the SPS engine bell flange, where the nozzle extension is bolted to the engine proper."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At the start of the burn, the engine's thrust was about a third of the Earth-weight of the spacecraft.",
+        "The acceleration felt by the crew is therefore about a third of a g.",
+        "As propellant is depleted, this will rise to about half a g by the end of the burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The burn should finish at 069:12:21.5 though this is based on the expected thrust of the SPS engine.",
+        "In practice, the thrust is about two percent lower than expected and the G&N system will burn the engine correspondingly longer to compensate."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The lower than expected thrust has extended the controlled burn duration such that it came to an end at nearly the same time as the crew were meant to manually stop the engine."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the burn at an end, Apollo 8 has achieved lunar orbit.",
+        "The crew continue with the P40 checklist at the bottom of page G-48."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Borman, from the1969 Technical debrief:\"We performed the LOI number 1 SPS burn with no ullage using Program 40, G&N external Delta-V.",
+        "We started the engine on bank A, and after approximately 2 seconds I threw on bank B.",
+        "When we threw it on there was a noticeable surge, but the engines from then on were extremely smooth.",
+        "The guidance was smooth and the cut-off was very accurate.",
+        "I don't have the specific details of the cut-off now, but it required no trimming.",
+        "There was no oscillation or swaying of the spacecraft at the initiation of the burn.",
+        "It seems that the [engine] gimbal angles that were called up from the ground must have been very close to the center of gravity because we had no initial oscillation at all.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "These are the two switches that would have been used to kill the engine manually.",
+        "By operating them now, the engine is inhibited from inadvertent ignition."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Though Bill mentions the Flight Recorder at this point, he will call for it to be switched off when he reaches the top of page G-49."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Like all large inductive loads, the gimbal motors will likely cause a short power surge as current is removed.",
+        "By switching them one by one, these power spikes can minimised."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston.",
+        "Now we are in our period of the longest wait thus far in the mission.",
+        "We're 19 minutes, 50 seconds awayfrom acquisition at this time.",
+        "During Mission Control simulations, this was a good time for coffee breaks for the flight controllers, but that is not true today.",
+        "Continuing to monitor, this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "A long burn with the SPS is not likely to achieve the exact velocity changes required in the three axes as called for in the PAD.",
+        "Jim calls up Noun 85 on the computer which displays three velocity figures called VGX, VGYand VGZ.",
+        "These numbers represent the velocities still to be gained and are known as residual velocities.",
+        "In the case of midcourse correction burns or Trans-Earth Injection burns, these residual velocities are trimmed out, or \"nulled\" by using the translation controller.",
+        "For the LOI burn they are simply recorded, though it appears Jim is about to call for them to be nulled.",
+        "This is probably due to the layout of the checklist at this point."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The EMS was counting down the velocity change (Delta-VC) as the burn progressed, ready to shut down the engine when it reached zero.",
+        "This should have happened at the same time the G&N system decided to do so.",
+        "However, unlike the G&N system, the EMS did not take account of the tail-off thrust.",
+        "20.1 fps (6.1 m/s) represents how much velocity change the EMS measured after it reached zero.",
+        "Some of the figure will be due to the tail-off thrust, some to the error's in Mission Control determination of what figure Delta-VCshould be."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the deadband set to maximum, the spacecraft can wander in attitude quite far (±5°) before active steps are made to correct the drift."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew are essentially powering down the systems that were used for the burn, per page G-49 in the Guidance Checklist."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Verb 82 tells the computer to display the size their new orbit based on the effect of the burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Frank is referring to saving a copy of the spacecraft's state vector into the computer's memory location usually reserved for the Lunar Module state vector.",
+        "Since the LM is not flown on this mission, this is a good way of saving a \"backup copy\" of the current state vector."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And with that arcane reference to arriving at the computer's Program 00 in the checklist, Bill dryly announces that they have completed the most critical parts of the task to insert themselves into lunar orbit."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It is likely that there is a mistake in the second number.",
+        "These give the size of their orbit and when the crew eventually speak to Mission Control, Jim will report that its dimensions are 169.1 by 60.5 nautical miles (313.2 by 112.0 km)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "They are going through the final steps of the P40 SPS thrusting program, per page G49 of the Guidance Checklist.",
+        "Note that the PAO announcer (and the rest of Mission Control) have no confirmation yet that the burn has been completed successfully.",
+        "The numbers they quote for velocity and distance are based on the spacecraft's trajectory before the burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; 69 hours, 15 minutes now into the flight.",
+        "Our display readings now show an altitude of 86 nautical miles [159 km], a velocity reading of 8,355 [feet per second, 2,547 m/s]: this last reading assuming that we did not have a burn.",
+        "Our AOS [Acquisition Of Signal] at this time; 16 minutes, 40 seconds.",
+        "If, for any reason, the Service Propulsion System engine did not burn, we would see the spacecraft perhaps 10 minutes before a normal acquisition time.",
+        "So here in Mission Control, continuing to monitor; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The PAO announcer's AOS countdown is based on the crew making a successful burn.",
+        "If the burn had not been made, the spacecraft would not have been slowed down and would consequently reappear around the Moon's eastern limb about ten minutes earlier."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Jim is copying their state vector into spare set of slots in the computer's erasable memory, the final line in the P40 checklist."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Prior to NASA's exploration of the Moon, the lunar science community had been split over the origins of the Moon's ubiquitous craters.",
+        "The number of those who believed that volcanic processes explained the huge circular formations was declining and impact by meteorites was becoming widely accepted as the correct theory.",
+        "Bill's dry sense of humour seems to be playing on this."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The far side of the Moon is a far rougher place than the near side, missing the great dark maria over much of its surface.",
+        "Instead, this landscape is a beat-up mish-mash of overlapping large craters whose ancient forms have been smoothed by aeons of relentless sandblasting from space.",
+        "Its rounded, undulating topography reminds Bill of a sandy beach which has seen the passage of many feet."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Borman, from the1969 Technical debrief:\"We should point out that we never even saw the Moon until we had completed burning LOI.",
+        "When we saw it, we were in exactly the right position.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the LOI burn completed, the crew begin the most intensive phase of the mission.",
+        "Page 2-51 of the Flight Plan shows the beginning of this twenty-hour, ten-orbit period with different tasks being assigned to each crewmember.",
+        "Within the next half hour, Frank will hold an inertial attitude then help with preparation of the camera equipment.",
+        "Jim will also help with unstowing photographic equipment after he makes a check of the Service Module RCS system.",
+        "Bill, meanwhile, has completed a check of the SPS and begins preparing his camera gear.",
+        "After his system monitoring duties, photography is his major responsibility during their orbital tour."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Frank is setting up the spacecraft fororb-rate rotation.",
+        "After they have spoken to Mission Control in a quarter of an hour, he will begin a rotation whose period matches that of their orbital revolutions, thereby keeping one side of the spacecraft facing the Moon.",
+        "To help them maintain this, the FDAI will be driven to rotate at the same rate such that, instead of showing inertial attitude (with respect to the stars) it will show attitude with respect to the local horizontal.",
+        "This drive signal is supplied by an add-on box called the ORDEAL (Orbital Rate Display - Earth and Lunar)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "When the Apollo control system was first conceived, the designers wanted to discard earlier conventions of attitude control which concentrated on the horizon, as pilots have always used.",
+        "Instead they wished to make Apollo an all-inertial spacecraft, with all attitude references being made with respect to the guidance platform and its orientation with respect to the stars.",
+        "The crews, being pilots, fought for some kind of aircraft-like reference.",
+        "After all, many orbital manoeuvres are made parallel to the local horizontal of the planet below.",
+        "The result is the ORDEAL which can supply a drive signal relevant to either Earth or lunar orbits over a range of altitudes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Verb 83 brings rendezvous parameters; Range, Range-rate and Theta; onto the DSKY display."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Theta represents the angle between the spacecraft's plus-X axis and the local horizontal.",
+        "Frank will use theta to initialise the ORDEAL correctly."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Bill is probably referring to taking off his headset."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Frank is reading from his column in the Flight Plan.",
+        "Interpreting the instructions, he is to set up the 16-mm movie camera with an 18-mm lens attached, likely looking out of the left rendezvous window.",
+        "His next item really means he should use one new magazine of C-EX (colour-exterior SO368) film.",
+        "The shutter speed should be set to 1/250th second and the camera set to take one frame, not foot, per second.",
+        "Three additional lenses for the Maurer camera include a 200-mm, a 75-mm and a 5-mm."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Presumably Jim means the Moon is gray.",
+        "That will be his comment to Earth twenty minutes after they regain contact."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The spacecraft is holding an inertial attitude, constant with respect to the stars.",
+        "As they come around the curve of the Moon, the nose increasingly points towards the surface.",
+        "The HGA is on the side of the spacecraft away from Earth so Frank rolls 180° to ready it for contacting Mission Control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew have two still cameras for capturing images of the lunar surface.",
+        "These are Hasselblad 6 by 6-centimetre format cameras that use 70-mm film.",
+        "Each has an 80-mm lens (considered the \"standard\" lens for the format) and there is a single 250-mm telephoto lens."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The two lines just read out by Frank are as they are printed in the Flight Plan but the first is confusing.",
+        "The second line makes sense: use camera 1 with an 80-mm lens, black and white film at a shutter speed of 1/250th of a second.",
+        "The first line implies a 150-mm lens will be used with camera 2 which does not make sense as no such lens is on board."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hasselblad cameras have their film preloaded into detachable magazines.",
+        "The films have a thinner than normal base layer so that 180 frames can be packed into each magazine.",
+        "At this stage, the magazines are simply given a letter.",
+        "Back on Earth, they will be catalogued into an overall Apollo numbering system.",
+        "Magazine D will become roll 12 in the Apollo collection."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The burn gave a temporary sense of gravity in the spacecraft with any loose objects falling to the aft of the Command Module."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston here.",
+        "In Mission Control Center, Cliff Charlesworth getting our - correction there - Glynn Lunney we should say, getting ready to talk to his flight control team.",
+        "Our time-of-acquisition clock now reading 9 minutes, 45 seconds and we're continuing to watch it.",
+        "Meanwhile our top clock is counting forward, now reading 25 seconds.",
+        "The top clock was used to denote an acquisition time if we had a no-burn situation.",
+        "We will continue to monitor here in Mission Control Center."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "From Earth, the Moon appears as a waxing crescent so the far side is largely lit.",
+        "They passed over the terminator just before LOI and as they approach the Moon's eastern limb and contact with Earth, they cross the midday landscape.",
+        "Here, with the Sun shining nearly vertical on to the lunar surface, they are almost at the subsolar point and there are no shadows to give relief to the topography."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston.",
+        "Just under four minutes away now from our time of acquisition with Apollo 8.",
+        "Apollo 8 still out of range, should be rolling 180 degrees shortly, if not already, to establish S-band High Gain Antenna communications with the ground.",
+        "We're standing by in Mission Control.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Flight Plan does not call for the 250-mm lens to be used but considering the ambiguous line in the Flight Plan apparently calling for a 150-mm lens, perhaps Bill is using the 250-mm on camera 2."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "Three minutes from predicted time of acquisition.",
+        "Standing by."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston.",
+        "Mark, two minutes from predicted time of acquisition."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "These coordinates lead to a spot near to the crater Lucretius which is far from their current position.",
+        "In fact, it is on the night-time side of the Moon.",
+        "It is possible that Jim meant 118° east which would put them above the crater Langemak (Georgij E.",
+        "Langemak (1898-1938) was a Soviet rocket scientist).",
+        "Jim is about to give us a better idea of where they are in a few seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 8's exploration takes place at a time before the names of the far-side craters had been officially decided by the IAU (International Astronomical Union), the body charged with naming the landscapes discovered by the astronomers and explorers of space."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "When, in 1959, the Soviet Union succeeded in photographing the far side for the first time, it was given the privilege of naming the features it could see.",
+        "For example, the dark features Tsiolkovsky and the Moscow Sea showed up well on the otherwise bland images.",
+        "During their preparations for lunar operations, the Apollo crews used the excellentLunar Orbiterimagery for mission planning.",
+        "To aid this, they named a lot of the large craters they saw in the photographs after prominent members of their team.",
+        "All the craters they named have since be renamed by the IAU with the names of deceased scientists, a move that has been controversial as there has been a convention whereby explorers usually get to name the features they are first to visit."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The policy in this journal will be to preserve the Apollo names within the transcripts but we will include the IAU names within the commentary for reference.",
+        "Crater Brand is now called Danjon after André-Louis Danjon (1890-1967), a French astronomer noted for inventing a scale of lunar brightness during total lunar eclipses.",
+        "Danjon is just east of Langemak."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston.",
+        "Mark one minute from predicted time of acquisition."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The dark floor of Tsiolkovsky makes it perhaps the most distinctive feature on an otherwise light-toned lunar far-side.",
+        "This majestic 200-km crater was named after one of the pioneers of rocketry.",
+        "Konstantin Tsiolkovsky (1857-1935) was a Russian physicist who laid much of the theoretical groundwork for the use of rockets for spaceflight.",
+        "It is fitting that this important lunar feature bears his name.",
+        "One of the best images of Tsiolkovsky isAS15-0757M,an oblique Mapping Camera photograph taken during the Apollo 15 mission."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Carr",
+      "time": "0693202"
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston.",
+        "Jerry Carr has placed a call.",
+        "We're standing by.",
+        "We've heard nothing yet, but we're standing by."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Their three largest windows are fogged, making photography difficult."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Carr",
+      "time": "0693235"
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston.",
+        "We've acquired signal but no voice contact yet.",
+        "We're standing by."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Carr",
+      "time": "0693250"
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston.",
+        "We're looking at engine data, and it looks good, tank pressures look good.",
+        "We have not talked yet with the crew, but we're standing by."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Carr",
+      "time": "0693308"
+    },
+    {
+      "tokens": [
+        "There are markings on the left-hand side of the Flight Plan along the timeline to show when certain events occur.",
+        "These include an indication of when the spacecraft is in night-time, when the crew have contact with MSFN (Manned Space Flight Network) and a cross and circle mark that shows when they are due to pass over the subsolar point.",
+        "By coincidence, the subsolar point at this time nearly coincides with the moment the crew regain contact with Mission Control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Carr",
+      "time": "0693321"
+    },
+    {
+      "tokens": [
+        "Apollo 8, Houston.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Carr",
+      "time": "0693344"
+    },
+    {
+      "tokens": [
+        "We've got it!",
+        "We've got it!",
+        "Apollo 8 now in lunar orbit!",
+        "There's a cheer in this room!",
+        "This is Apollo Control, Houston, switching now to the voice of Jim Lovell."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston, (This is) Apollo 8.",
+        "Burn complete.",
+        "Our orbit (is) 160.9 [sic] by 60.5; 169.1 by 60.5."
+      ],
+      "speaker": "Lovell",
+      "time": "0693352"
+    },
+    {
+      "tokens": [
+        "Apollo 8, this is Houston.",
+        "Roger, 169.1 by 60.5.",
+        "Good to hear your voice.",
+        "[Long pause.]"
+      ],
+      "speaker": "Carr",
+      "time": "0693407"
+    }
+  ],
+  "source_file": "day3_lunar_encounter.html"
+}

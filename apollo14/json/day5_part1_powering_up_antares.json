@@ -1,0 +1,4448 @@
+{
+  "description": "A14FJ - Day 5, part 1: Powering up <i>Antares</i>",
+  "transcript": [
+    {
+      "tokens": [
+        "Country music, rehydratable spaghetti and a stuck Lunar Topographic Camera kept the Apollo 14 crew well entertained until it was time for the final sleep before the very intense days of work ahead.",
+        "As the fifth day of the mission comes around, Al Shepard and Ed Mitchell hope to add their footsteps onto the lunar soil along those of Neil, Buzz, Pete and Al.",
+        "Stu Roosa in the Command Module Kitty Hawk can also look forward to a full schedule of photographic experiments and observations from orbit."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Editor's note:All transcript times are presented according to the GET update at 054:53:36 that saw the mission timer moved forward 40 minutes, 2.90 seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "BEGIN LUNAR Rev-9."
+      ],
+      "speaker": "Note",
+      "time": "0981703"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control Houston at 98 hours 38 minutes.",
+        "We're about to regain radio contact with Apollo 14.",
+        "The spacecraft now on its ninth revolution of the Moon.",
+        "And the crew is scheduled to end their rest period in about 51 minutes from now, about 2/3 of the way through this front side pass.",
+        "At the present time we show Apollo 14 at an altitude of 41.5 nautical miles.",
+        "The spacecraft velocity is 53076 feet per second.",
+        "The pericynthion or low point of the orbit is 8.5 nautical miles, and the high point 59.7.",
+        "And we have reacquired radio contact with the spacecraft.",
+        "We'll stand by for the awakening of the crew or for any other communication between the ground and the spacecraft.",
+        "We would not expect to put in a call to the crew before the wakeup period, but we will be up and live should we receive any calls from the crew.",
+        "This is Apollo Control standing by at 98 hours 39 minutes."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-095"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 99 hours, 14 minutes.",
+        "We're now about 16 minutes from the scheduled end of the crew rest period and we do plan to awake them on this revolution if we do not hear from them we'll put in a call to the spacecraft.",
+        "At the present time we're showing the spacecraft perigee ah - pericynthion at 8.4 nautical miles.",
+        "Pericynthion continuing to drop.",
+        "Flight Dynamics Officer predicts that at power descent it will be down at about 4,600 feet which is somewhat lower than nominal but would present no problems in fact as the Flight Dynamics Officer expressed it, it would actually help with the descent increasing the propellant savings to the Lunar Module.",
+        "We've had quite a bit of noise on the communications circuit.",
+        "The High Gain Antenna has not locked up at this time in narrow beam width and we'll be checking with - one of the things we'll be checking with the crew on the awake is the settings of the High Gain Antenna to be sure that we're in the proper attitude with the antenna for reacquiring in narrow beamwidth."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Good morning, Houston.",
+        "14 here."
+      ],
+      "speaker": "Roosa",
+      "time": "0991616"
+    },
+    {
+      "tokens": [
+        "Apollo 14, Apollo 14; this is Houston.",
+        "Roger.",
+        "Good evening, Stu."
+      ],
+      "speaker": "McCandless",
+      "time": "0991620"
+    },
+    {
+      "tokens": [
+        "Good evening?",
+        "It's good morning, Bruce baby."
+      ],
+      "speaker": "Roosa",
+      "time": "0991629"
+    },
+    {
+      "tokens": [
+        "Although the crew of Apollo 14 is just waking up, it's 5 pm in Houston."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "How'd you all sleep?"
+      ],
+      "speaker": "McCandless",
+      "time": "0991633"
+    },
+    {
+      "tokens": [
+        "And Bruce, I've got a crew status report for you."
+      ],
+      "speaker": "Roosa",
+      "time": "0991650"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead with your crew status report."
+      ],
+      "speaker": "McCandless",
+      "time": "0991653"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Al: 6 hours of sleep, dosimeter, 16048; Ed: 6 hours, 01046; and 6 hours, 05038."
+      ],
+      "speaker": "Roosa",
+      "time": "0991659"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Understand 6 hours of sleep each, 16048, 01046, and 05038.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0991715"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Roosa",
+      "time": "0991730"
+    },
+    {
+      "tokens": [
+        "14, this is Houston.",
+        "At this time, we would like the CMP and the LMP to swap dosimeters.",
+        "The LMP dosimeter is inoperative, and we would like to have two active dosimeters on the lunar surface.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0991733"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll do that."
+      ],
+      "speaker": "Roosa",
+      "time": "0991750"
+    },
+    {
+      "tokens": [
+        "The radiation dose received by the crew of Apollo 14 averaged around 1.14 rads - or 0.0114 gray.",
+        "For comparison, the exposure limit for an Apollo mission had been set at 400 rads.",
+        "1.14 rads is somewhere in the vicinity of 100 times lower than the amount of radiation known to cause acute health effects in a human being."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, 14; this is Houston.",
+        "Would you confirm a negative presleep status report?",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0991819"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "We went to bed all healthy, no medication, and we're getting up the same way."
+      ],
+      "speaker": "Roosa",
+      "time": "0991831"
+    },
+    {
+      "tokens": [
+        "A negative report means that the crew has nothing to report.",
+        "The Flight Plan specifies this as the mode of normal reporting for crew status."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Out."
+      ],
+      "speaker": "McCandless",
+      "time": "0991838"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "When you're interested, I have about four or five general information-type items to pass up to you all."
+      ],
+      "speaker": "McCandless",
+      "time": "0991857"
+    },
+    {
+      "tokens": [
+        "Okay, Bruce.",
+        "This is something - we should all be on the headset for?",
+        "If it is, we should just wait a few minutes."
+      ],
+      "speaker": "Roosa",
+      "time": "0991909"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Why don't we do that?",
+        "There's no great rush in any of them, but we've got 24 minutes to LOS.",
+        "And just let me know when you're ready."
+      ],
+      "speaker": "McCandless",
+      "time": "0991917"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll take a consumables update, anytime you've got it.",
+        "We'll get that out of the way, if you want to give it to me now."
+      ],
+      "speaker": "Roosa",
+      "time": "0991929"
+    },
+    {
+      "tokens": [
+        "Okay, I'll have the consumables update for you momentarily.",
+        "In the meantime, we'd like you to read out the High Gain Antenna meters and the High Gain Antenna knobs.",
+        "It has not been switching to Narrow Beam at AOS.",
+        "We're not sure why, right now.",
+        "We'd like to leave the configuration as is and get those readouts.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0991936"
+    },
+    {
+      "tokens": [
+        "Okay, Bruce, the -"
+      ],
+      "speaker": "Roosa",
+      "time": "0992013"
+    },
+    {
+      "tokens": [
+        "Bruce, this is Ed.",
+        "I got my biomed on, and I got the sensor corrected.",
+        "Have the medics take a look at it while you're talking to Stu, please."
+      ],
+      "speaker": "Mitchell",
+      "time": "0992018"
+    },
+    {
+      "tokens": [
+        "I understand you have your biomed hooked up, and the sensor is connected, and you'd like the medics to look at it."
+      ],
+      "speaker": "McCandless",
+      "time": "0992026"
+    },
+    {
+      "tokens": [
+        "That's affirm."
+      ],
+      "speaker": "Mitchell",
+      "time": "0992033"
+    },
+    {
+      "tokens": [
+        "We're in Low Bit Rate right now, Ed.",
+        "You'll have to hold on a minute."
+      ],
+      "speaker": "McCandless",
+      "time": "0992035"
+    },
+    {
+      "tokens": [
+        "Okay, Bruce, the read-outs on the Pitch meter is 50 degrees, on the Yaw meter is 270, on the knob, it's set at 35; and the - Pitch - Yaw knob is set at 275-"
+      ],
+      "speaker": "Roosa",
+      "time": "0992045"
+    },
+    {
+      "tokens": [
+        "Okay, Stu, on pitch, is that plus or minus?",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0992109"
+    },
+    {
+      "tokens": [
+        "Oh, sorry about that.",
+        "Both are minuses."
+      ],
+      "speaker": "Roosa",
+      "time": "0992115"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Meter: Pitch, minus 50; Yaw, 270; knob, minus 35 and 275.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0992118"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Roosa",
+      "time": "0992130"
+    },
+    {
+      "tokens": [
+        "Okay; coming at you with a consumables update.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0992132"
+    },
+    {
+      "tokens": [
+        "And let her rip."
+      ],
+      "speaker": "Roosa",
+      "time": "0992139"
+    },
+    {
+      "tokens": [
+        "At a GET of 99 hours even; RCS total, 74 percent; quads in order, 73, 75, 73, 75; hydrogen, 65, 65; oxygen, 85, 83, 31.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0992141"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy the GET 99 hours; RCS total, 74; quads, 73, 75, 73, 75; hydrogen, 65, 65; 0 , 85, 83, 31."
+      ],
+      "speaker": "Roosa",
+      "time": "0992213"
+    },
+    {
+      "tokens": [
+        "Roger, out."
+      ],
+      "speaker": "McCandless",
+      "time": "0992230"
+    },
+    {
+      "tokens": [
+        "Houston, 14."
+      ],
+      "speaker": "Mitchell",
+      "time": "0992246"
+    },
+    {
+      "tokens": [
+        "Go ahead, Ed."
+      ],
+      "speaker": "McCandless",
+      "time": "0992247"
+    },
+    {
+      "tokens": [
+        "Are you going to switch over to High Bit Rate so you can look at this?",
+        "I'd like to go ahead and start suiting up."
+      ],
+      "speaker": "Mitchell",
+      "time": "0992253"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "McCandless",
+      "time": "0992258"
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "We request High Gain Antenna Servo Electronics to Secondary.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0992320"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "...",
+        "- -"
+      ],
+      "speaker": "Mitchell",
+      "time": "0992331"
+    },
+    {
+      "tokens": [
+        "Okay; going to Secondary."
+      ],
+      "speaker": "Roosa",
+      "time": "0992332"
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "Request S-Band Normal, Transponder, Secondary.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0992514"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Transponder, Secondary."
+      ],
+      "speaker": "Mitchell",
+      "time": "0992525"
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "How do you read?"
+      ],
+      "speaker": "McCandless",
+      "time": "0992611"
+    },
+    {
+      "tokens": [
+        "Loud and clear.",
+        "How me?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0992617"
+    },
+    {
+      "tokens": [
+        "Roger; reading you the same."
+      ],
+      "speaker": "McCandless",
+      "time": "0992618"
+    },
+    {
+      "tokens": [
+        "Houston, 14."
+      ],
+      "speaker": "Mitchell",
+      "time": "0992703"
+    },
+    {
+      "tokens": [
+        "Go ahead, 14."
+      ],
+      "speaker": "McCandless",
+      "time": "0992706"
+    },
+    {
+      "tokens": [
+        "I'd appreciate an answer on your intentions relative to the sensor."
+      ],
+      "speaker": "Mitchell",
+      "time": "0992710"
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "Relative to the sensor, we require a High Bit Rate down here in order for the surgeon to get any biomed telemetry.",
+        "We're attempting to get High Bit Rate at the present time, as evidenced by our request for Secondary Electronics on the High Gain Antenna and the Secondary Transponder, We'll let you know just as soon as we can press on.",
+        "Perhaps, in the meantime, you could tell us which sensor you think was giving you the problem and what you've done in the meantime to it.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0992714"
+    },
+    {
+      "tokens": [
+        "Okay, the lower sternum sensor was leaking, and we replaced it last evening, and it seemed to be the only one that had a chance to he in had shape."
+      ],
+      "speaker": "Mitchell",
+      "time": "0992746"
+    },
+    {
+      "tokens": [
+        "We copy.",
+        "Out."
+      ],
+      "speaker": "McCandless",
+      "time": "0992802"
+    },
+    {
+      "tokens": [
+        "...",
+        "to be the only one that looked like it might be ..."
+      ],
+      "speaker": "Mitchell",
+      "time": "0992804"
+    },
+    {
+      "tokens": [
+        "Roger out.",
+        "And -"
+      ],
+      "speaker": "McCandless",
+      "time": "0992806"
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "Request High Gain, Electronic - High Gain Antenna, Servo Electronics, Power, Primary; S-Band Normal, Transponder to Primary, and go to Track mode, Manual.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0992844"
+    },
+    {
+      "tokens": [
+        "The distance between Earth and the spacecraft is large enough to cause some time delay due to their radio transmissions being limited to the speed of light.",
+        "Talking on top of each other is a possibility."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 14.",
+        "Do you read, now?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0992950"
+    },
+    {
+      "tokens": [
+        "14.",
+        "This is Houston.",
+        "Roger.",
+        "We're reading you about 5 by 4.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0992952"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've given - given you Primary, Servo Electronics; Primary, Transponder; and what else did you want?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0993001"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We want to go back to Track mode, Manual; and we'll use the positions that you have set on the Pitch and Yaw dials at the present time."
+      ],
+      "speaker": "McCandless",
+      "time": "0993007"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mitchell",
+      "time": "0993018"
+    },
+    {
+      "tokens": [
+        "...",
+        "Manual ..."
+      ],
+      "speaker": "Mitchell",
+      "time": "0993034"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And reading you about 4 by 2 at the present time.",
+        "Stand by."
+      ],
+      "speaker": "McCandless",
+      "time": "0993037"
+    },
+    {
+      "tokens": [
+        "Houston.",
+        "14.",
+        "Do you read?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0993131"
+    },
+    {
+      "tokens": [
+        "Roger, Ed.",
+        "We're reading you.",
+        "We'd like you to do a normal manual acquisition, switching back the Wide Beam and then coming on over."
+      ],
+      "speaker": "McCandless",
+      "time": "0993134"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mitchell",
+      "time": "0993145"
+    },
+    {
+      "tokens": [
+        "Houston, I have you on Auto and Narrow again, and I cannot seem to get the signal strength above about the three-quarter mark."
+      ],
+      "speaker": "Mitchell",
+      "time": "0993306"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I'm reading you with a good bit of noise in the background, Ed."
+      ],
+      "speaker": "McCandless",
+      "time": "0993317"
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "We request you attempt acquisition again using the normal manual procedures.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0993412"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Roger."
+      ],
+      "speaker": "Mitchell",
+      "time": "0993423"
+    },
+    {
+      "tokens": [
+        "Apollo 14, Apollo 14; this is Houston.",
+        "We suggest High Gain Antenna angles of Pitch, minus 25; Yaw, 280.",
+        "I say it again: Pitch, minus 25; Yaw, 280.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0993612"
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "We suggest High Gain Antenna; Pitch, minus 25; that is minus 25; Yaw, 280; Yaw, 280.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0993655"
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "How do you - -"
+      ],
+      "speaker": "McCandless",
+      "time": "0993933"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 14.",
+        "How do you read?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0993935"
+    },
+    {
+      "tokens": [
+        "- - minutes to LOS."
+      ],
+      "speaker": "McCandless",
+      "time": "0993936"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Loud and clear, now, Ed.",
+        "We've got 4 - -"
+      ],
+      "speaker": "McCandless",
+      "time": "0993937"
+    },
+    {
+      "tokens": [
+        "Go ahead, Bruce.",
+        "You're loud and clear."
+      ],
+      "speaker": "Mitchell",
+      "time": "0993940"
+    },
+    {
+      "tokens": [
+        "Apollo 14 - -"
+      ],
+      "speaker": "McCandless",
+      "time": "0993952"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0993953"
+    },
+    {
+      "tokens": [
+        "Apollo 14, Stu.",
+        "We've got 4 minutes until LOS.",
+        "I have a four-step procedure for testing the lunar topo camera, if you are ready to listen and copy?"
+      ],
+      "speaker": "McCandless",
+      "time": "0993954"
+    },
+    {
+      "tokens": [
+        "Stand by 1, Bruce."
+      ],
+      "speaker": "Roosa",
+      "time": "0994009"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're standing by."
+      ],
+      "speaker": "McCandless",
+      "time": "0994011"
+    },
+    {
+      "tokens": [
+        "Okay, go ahead Bruce."
+      ],
+      "speaker": "Roosa",
+      "time": "0994027"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "With respect to the Hycon, we think this may be a low-current problem.",
+        "We've been able to duplicate most of your symptoms down here in Building 4 with the other model.",
+        "What we'd like you to do is - step 1: disconnect all power connectors, inspect, and reconnect.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0994030"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "This baby reads disconnect all power connectors, inspect, and reconnect.",
+        "And I guess - you know, we - we do that when we put it in and out, if I understand your step right.",
+        "I mean, they're all disconnected.",
+        "I guess you mean just look at the pins and so forth.",
+        "Amplify that just a little bit, Bruce."
+      ],
+      "speaker": "Roosa",
+      "time": "0994105"
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "We'd just like you to inspect for bent pins, any sort of damage, cracked insulators; anything like that you can find in error.",
+        "Break, break, for Ed.",
+        "We are unable to verify your biomed harness at this time.",
+        "We'd like you to change out biomed harness.",
+        "Do not suit up, and we'll check it over at AOS, next pass.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0994126"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand.",
+        "Change out the biomed harness, and do not suit up."
+      ],
+      "speaker": "Mitchell",
+      "time": "0994151"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You can - you can suit up partially..."
+      ],
+      "speaker": "McCandless",
+      "time": "0994155"
+    },
+    {
+      "tokens": [
+        "Be advised that - okay, understand.",
+        "Be advised that the High Gain, I've tried manual procedures and about three-quarters of that signal strength I can get."
+      ],
+      "speaker": "Mitchell",
+      "time": "0994158"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy on the High Gain.",
+        "You can suit up partially if you want to take the risk of having to unsuit a little ways.",
+        "Break, break, for Stu.",
+        "Step 2: we'd like you to switch non-essential power to opposite Main DC Bus, that is, from B to A or A to B, whatever you were on last time.",
+        "Step 3: reset control box film counter to zero; shutter speed to l/200th of a second; with magazine removed, visually examine the shutter-curtain slit position.",
+        "If the slit is visible, it should not be more than 1 inch from the magazine guide rail.",
+        "Examine sprocket area for visible tears.",
+        "Step 4: install magazine Whiskey and actuate single frame.",
+        "Remove magazine and verify slit is not more than 1 inch from magazine guide rail, if visible.",
+        "Thirty seconds to LOS.",
+        "I repeat, switch from nonessential power from Bus B to A or A to B, opposite what you had.",
+        "Reset control box film counter to zero and shutter to l/200th; with magazine removed, visually examine shutter-curtain slit position; if visible, slit should not be more than 1 inch frcm magazine guide rail.",
+        "Examine sprocket area for visible tears; install magazine Whiskey and actuate single frame.",
+        "Remove magazine and verify slit is not more than 1 inch from magazine guide rail.",
+        "We'll talk, to you on AOS next time on the results."
+      ],
+      "speaker": "McCandless",
+      "time": "0994205"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And network reports we've had LOS.",
+        "Apparently that last message from the CAPCOM did get through.",
+        "During the exchanges with the crew aboard the spacecraft, a couple of things of significance, the conversations with Ed Mitchell pertaining to his biomedical data relate to the fact that we're getting erratic biomedical data on Mitchell at the present time.",
+        "We've asked him to change to one of the backup biomedical harnesses and the surgeon estimates that this changeover time is about a 10 minute operation.",
+        "It should pose no problem as far as getting suited up.",
+        "The suitup time is normally about 100 hours 30 minutes Ground Elapsed Time.",
+        "The network controller also advises that the manned spaceflight network station at Goldstone, California is having a computer problem at the present time and that station has been released.",
+        "Goldstone is backup at this time with Madrid being the prime station.",
+        "We'll be reacquiring Apollo 14 in about 47 minutes.",
+        "The spacecraft will be at the beginning of its tenth revolution at that time.",
+        "At the present time we show Apollo 14 traveling at velocity of 53072 feet per second.",
+        "The current spacecraft altitude is about 42 nautical miles and the orbital parameters are as follows, a pericynthion of 8.4 and the apocynthion of 59.7.",
+        "At 99 hours 46 minutes, this is Apollo Control Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-096"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The lack of any appreciable atmosphere, the stark sunlight angle and the absence of more familiar visual cues means that the perception of distances is very difficult for the crew observing the lunar surface from orbit."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 100 hours 30 minutes.",
+        "We're now a little less than 2 minutes away from reacquiring Apollo 14 on its tenth revolution of the Moon and during this frontside pass a number of things will be discussed with the crew, among them as we reacquire now we're going to try a normal acquisition, a normal automatic acquisition on the High Gain Antenna.",
+        "If we don't get locked in on narrowbeam width, then we'll try it manually and if we still don't get a good narrow beam lock on, the plan is to continue on with no further troubleshooting at the moment.",
+        "Narrow beamwidth on the CSM High Gain Antenna is desirable but it is not essential to continuing with the mission.",
+        "As far as the biomedical data on Lunar Module Pilot Ed Mitchell that is also in the category of a very desirable items but is also not essential or mandatory for continuing and if, when we reacquire and presuming that Mitchell will have put on the backup biomed harness, if we still do not have a good biomedical data he will be advised to continuing along with the suiting up.",
+        "Also (inaudible) reviewing the status of the ascent batteries with the crew.",
+        "And we'll also be discussing the probe and drogue and some alternate undocking procedures if, in the unlikely, that the undocking does not occur as planned, we'll have some alternate procedures for the crew.",
+        "Would emphasize that we do expect the docking mechanism to work properly.",
+        "We expect that we will get a normal undocking but in the event that we don't get a normal undocking we'll have a set of contingency procedures - backup procedures for the crew to use.",
+        "We're standing by now for reacquisition."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14.",
+        "Apollo 14, this is Houston.",
+        "How do you read?",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1003319"
+    },
+    {
+      "tokens": [
+        "Read you 5 square, Bruce.",
+        "How me?"
+      ],
+      "speaker": "Roosa",
+      "time": "1003327"
+    },
+    {
+      "tokens": [
+        "Roger, Stu.",
+        "We're reading you with a good bit of background noise.",
+        "We've got a few things to pass up to you, if you're ready to listen."
+      ],
+      "speaker": "McCandless",
+      "time": "1003330"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by just 1."
+      ],
+      "speaker": "Roosa",
+      "time": "1003346"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "In the meantime, Stu, for you or Ed, we'd like you to try a normal acquisition again on the High Gain Antenna and, if that's No Go, try acquisition in Manual and Medium BEAM width.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1003348"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let me get down here and give it a go."
+      ],
+      "speaker": "Roosa",
+      "time": "1003408"
+    },
+    {
+      "tokens": [
+        "Our prime network site is Madrid, the Goldstone site report said it had cured its computer problems and is back on line."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, how do you read Apollo 14?"
+      ],
+      "speaker": "Roosa",
+      "time": "1003522"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Loud and clear, 14."
+      ],
+      "speaker": "McCandless",
+      "time": "1003528"
+    },
+    {
+      "tokens": [
+        "Okay, Bruce; doesn't seem to be doing too good.",
+        "Still can't get the lock up solid all the way.",
+        "I'm in Auto and Medium now, and that's where you want it?"
+      ],
+      "speaker": "Roosa",
+      "time": "1003534"
+    },
+    {
+      "tokens": [
+        "In this remarkable exchange, while Stu is working with Bruce to troubleshoot the radio, Al and Ed share concerns about whether their urine receptable is hygienic enough."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's affirmative, 14.",
+        "And we're checking out Ed's biomed."
+      ],
+      "speaker": "McCandless",
+      "time": "1003548"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1003557"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "In the meantime, an item of general interest on your orbital status.",
+        "You started out somewhat high and are decaying at a slightly greater rate than predicted.",
+        "However, the altitude at PDI will still be about 46,000 feet.",
+        "That's 46,000 feet or 8.3 nautical miles; so your pericynthion's still good.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1003606"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Sounds like good planning."
+      ],
+      "speaker": "Roosa",
+      "time": "1003637"
+    },
+    {
+      "tokens": [
+        "And, Apollo 14; Stu, map update REV 11, if you're ready."
+      ],
+      "speaker": "McCandless",
+      "time": "1003702"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "Stand by 1."
+      ],
+      "speaker": "Roosa",
+      "time": "1003710"
+    },
+    {
+      "tokens": [
+        "Apollo 14; Ed, this is Houston.",
+        "You're Go to commence suiting up."
+      ],
+      "speaker": "McCandless",
+      "time": "1003725"
+    },
+    {
+      "tokens": [
+        "Roger, Roger.",
+        "Thank you, Bruce."
+      ],
+      "speaker": "Mitchell",
+      "time": "1003735"
+    },
+    {
+      "tokens": [
+        "Biomed's looking good.",
+        "Apollo 14; Ed, this is Houston.",
+        "Can you monitor, just for a minute, discussion on the ascent batteries."
+      ],
+      "speaker": "McCandless",
+      "time": "1003737"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I'm on.",
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "1003754"
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "Our feeling right now is that this is a single-cell problem in ascent battery number 5- If one cell were shorted out entirely and completely discharged, this would drop your terminal voltage by 1.8 volts.",
+        "The expected voltage, open circuit, at activation is greater than 35-3.",
+        "I say again, it's greater than 35*3.",
+        "However, the open circuit voltage will not be our criterion.",
+        "We will use the Delta in voltage between BATs 5 and 6 underload to evaluate battery 5.",
+        "If there is more than a 1.8-volt Delta between 5 and 6 - that is, if it should turn out that you have a problem with more than one cell, then battery 5 will be No Go.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1003756"
+    },
+    {
+      "tokens": [
+        "Understand, Houston, that if, in subsequent checks, we have more than one cell that shows up bad, battery 5 will be No Go."
+      ],
+      "speaker": "Mitchell",
+      "time": "1003858"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "1003909"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And I'm ready for the REV 11 update, Bruce."
+      ],
+      "speaker": "Roosa",
+      "time": "1003914"
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "REV 11, 180 degrees, 102:03:40.",
+        "Understand you don't need LOS or AOS; they're close to nominal."
+      ],
+      "speaker": "McCandless",
+      "time": "1003918"
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "I've got a lot of noise in the background now.",
+        "Did you copy the time for 180, 102:03:40?",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1003949"
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "How do you read now?",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1004104"
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "How do you read?"
+      ],
+      "speaker": "McCandless",
+      "time": "1004141"
+    },
+    {
+      "tokens": [
+        "Loud and clear, Bruce."
+      ],
+      "speaker": "Roosa",
+      "time": "1004147"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're reading you again, Stu.",
+        "We'd like you to go with Manual and Medium BEAM width, please."
+      ],
+      "speaker": "McCandless",
+      "time": "1004149"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1004158"
+    },
+    {
+      "tokens": [
+        "Okay, Bruce.",
+        "The antenna seemed to oscillate a little bit, there.",
+        "It's steadied out now with a reasonably good signal - -"
+      ],
+      "speaker": "Roosa",
+      "time": "1004229"
+    },
+    {
+      "tokens": [
+        "Say, that looks beautiful.",
+        "That looks beautiful, Stu."
+      ],
+      "speaker": "McCandless",
+      "time": "1004234"
+    },
+    {
+      "tokens": [
+        "Okay - -"
+      ],
+      "speaker": "Roosa",
+      "time": "1004242"
+    },
+    {
+      "tokens": [
+        "Stu, did you copy the time for 180-degree meridian, 102:03:40?"
+      ],
+      "speaker": "McCandless",
+      "time": "1004243"
+    },
+    {
+      "tokens": [
+        "That's affirmative; 102:03:40."
+      ],
+      "speaker": "Roosa",
+      "time": "1004254"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Were you able to run through the LTC camera checkout procedures 1 through 4, or we fade out on you before you got them?"
+      ],
+      "speaker": "McCandless",
+      "time": "1004257"
+    },
+    {
+      "tokens": [
+        "That's negative on being able to run through them.",
+        "I didn't even begin to get them copied, Bruce.",
+        "I guess - I need to - What time frame are you thinking of me troubleshooting that one?",
+        "Is that something that we need to worry about right now?"
+      ],
+      "speaker": "Roosa",
+      "time": "1004307"
+    },
+    {
+      "tokens": [
+        "No, we'll hold off on that."
+      ],
+      "speaker": "McCandless",
+      "time": "1004321"
+    },
+    {
+      "tokens": [
+        "Okay, 14.",
+        "On the subject of the docking probe situation, for undocking, we anticipate a normal undocking sequence, that is, extension followed by release of the LM.",
+        "If there should be no release at this time, we request that you hold the Release position of the Extend/Release switch and both vehicles thrust minus-X for 3 seconds, and then Release on the - or return the switch to center.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1004346"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Understand; we're anticipating a normal SEP.",
+        "If we get on the end of the probe and no release, we'll both thrust minus-X for 3 seconds."
+      ],
+      "speaker": "Roosa",
+      "time": "1004421"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "While you hold the switch in the Release position.",
+        "And we've got some other procedures that we'll run through in real time, if the requirement develops, in order to accomplish an undocking.",
+        "We would like to say at this time, though, that we are not considering blowing the docking ring in order to undock.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1004442"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That sounds reasonable."
+      ],
+      "speaker": "Roosa",
+      "time": "1004509"
+    },
+    {
+      "tokens": [
+        "And is Al listening?"
+      ],
+      "speaker": "McCandless",
+      "time": "1004513"
+    },
+    {
+      "tokens": [
+        "Al is not on the headset right now, Bruce."
+      ],
+      "speaker": "Roosa",
+      "time": "1004519"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I wonder if you'd pass to him that when he and Ed go over into the LM, they should either carry with them a tool R, that's tool Romeo, from the Command Module, or, if he should have such a thing as a screwdriver, bit, or something like that available, why that would also suffice.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1004522"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll let him borrow a tool R, I guess, on a hand receipt, and he'll take that over with him."
+      ],
+      "speaker": "Roosa",
+      "time": "1004549"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Be sure and get a QC stamp on it."
+      ],
+      "speaker": "McCandless",
+      "time": "1004557"
+    },
+    {
+      "tokens": [
+        "21 Nancy."
+      ],
+      "speaker": "Roosa",
+      "time": "1004604"
+    },
+    {
+      "tokens": [
+        "(Laughter) Roger; 21 Nancy.",
+        "Hey, a little more background on that - thing that we're looking for, of course, would be an item such as tool R that would enable our crewmen from the LM to depress the capture latch release button on the tip of the probe from the LM side, and tool R will fill this bill, or this other screwdriver, if it were available.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1004606"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We got you."
+      ],
+      "speaker": "Roosa",
+      "time": "1004635"
+    },
+    {
+      "tokens": [
+        "And with respect to docking, again we anticipate normal operation.",
+        "However, we'd like to add to the normal procedures a LM plus-X thrust of 10 seconds, four-jet RCS, to facilitate or to give us just a little more of a warm feeling on the docking.",
+        "Once again, we have some backup procedures that we can run through in real time, if these should prove necessary, and, in order to formalize this, I've got a flight-plan update for the CMP Solo Book and for the LM Timeline Book whenever you all are ready to copy these down."
+      ],
+      "speaker": "McCandless",
+      "time": "1004638"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by here and let's get out the LM Timeline."
+      ],
+      "speaker": "Roosa",
+      "time": "1004731"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I'll do likewise down here.",
+        "And we'll make them together."
+      ],
+      "speaker": "McCandless",
+      "time": "1004736"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1004744"
+    },
+    {
+      "tokens": [
+        "And since you don't have a lot going on up there right now, Stu, I wondered if you could give us P00 and Accept, and we'll send you up some uplinks We've got a state vector, a desired orientation REFSMMAT, a - and that's it."
+      ],
+      "speaker": "McCandless",
+      "time": "1004749"
+    },
+    {
+      "tokens": [
+        "Okay, You have P00 and Accept."
+      ],
+      "speaker": "Roosa",
+      "time": "1004807"
+    },
+    {
+      "tokens": [
+        "Okay, Stu.",
+        "You seem to be fading out a little bit Are you close enough to the mike?"
+      ],
+      "speaker": "McCandless",
+      "time": "1004818"
+    },
+    {
+      "tokens": [
+        "I - I'm talking right into them, Bruce.",
+        "You have P00 and Accept."
+      ],
+      "speaker": "Roosa",
+      "time": "1004827"
+    },
+    {
+      "tokens": [
+        "Stu's comment proposes he is wearing the Snoopy cap with its two microphones."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you.",
+        "And would you return to the Narrow deadband five-tenths of a degree in the DAP, please?"
+      ],
+      "speaker": "McCandless",
+      "time": "1004831"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by 1."
+      ],
+      "speaker": "Roosa",
+      "time": "1004841"
+    },
+    {
+      "tokens": [
+        "That's in reference to keeping the High Gain pointed right at us here."
+      ],
+      "speaker": "McCandless",
+      "time": "1004843"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1004849"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm Narrow deadband.",
+        "I'm through with the DSKY if you want to press with the uplink, and looks like we got good signal strength here."
+      ],
+      "speaker": "Roosa",
+      "time": "1004946"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It looks real good here, Stu, and we'll press on with the uplink.",
+        "And I got my Timeline Book out and we're going to page 14."
+      ],
+      "speaker": "McCandless",
+      "time": "1004953"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll have to stand by on that LM Timeline Book for a little bit here, Bruce."
+      ],
+      "speaker": "Roosa",
+      "time": "1005004"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "McCandless",
+      "time": "1005008"
+    },
+    {
+      "tokens": [
+        "And back on the subject of the drogue, I guess our analysis down here and all the data that we've been able to come up with indicates that you did, in fact, have a normal retraction on the last attempt.",
+        "The selection of a bottle did not contribute to the capture in itself, and we've passed you the procedures here that we'd like you to run through."
+      ],
+      "speaker": "McCandless",
+      "time": "1005018"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1005044"
+    },
+    {
+      "tokens": [
+        "Houston, 14."
+      ],
+      "speaker": "Roosa",
+      "time": "1005201"
+    },
+    {
+      "tokens": [
+        "Go ahead, 14."
+      ],
+      "speaker": "McCandless",
+      "time": "1005203"
+    },
+    {
+      "tokens": [
+        "Okay, Bruce.",
+        "I - just something that seems like back from memory in debriefing from 11 - they tried this plus-X on the IM and docking and they got some - if I remember right - some attitude excursions.",
+        "Is everybody satisfied that the LM can plus-X and everything will be stable?"
+      ],
+      "speaker": "Roosa",
+      "time": "1005209"
+    },
+    {
+      "tokens": [
+        "14, this is Houston.",
+        "Roger.",
+        "We recalled 11, and the biggest part of the problem there was that both vehicles were actively trying to control attitude.",
+        "The procedure which we'll be passing up to you has you going into CMC Mode, Free, prior to the LM commencing its plus-X thrusting.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1005254"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "So I guess we'll - we'll wait until we get the changes, and then we'll talk about it, if we've got any questions."
+      ],
+      "speaker": "Roosa",
+      "time": "1005322"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "1005328"
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "I have your CMC REFSMMAT zero time update for you.",
+        "There is no GET or Tephem, update required.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1005817"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And I'm ready to copy, Bruce."
+      ],
+      "speaker": "Roosa",
+      "time": "1005834"
+    },
+    {
+      "tokens": [
+        "Okay, CMC REFSMMAT zero zero time is 108 hours 53 minutes 58.00 seconds.",
+        "And I'll have the TEI-19 PAD shortly.",
+        "You want to go ahead and read back?"
+      ],
+      "speaker": "McCandless",
+      "time": "1005837"
+    },
+    {
+      "tokens": [
+        "Okay, REFSMMAT zero zero time, 108 - 108:53:58.00."
+      ],
+      "speaker": "Roosa",
+      "time": "1005856"
+    },
+    {
+      "tokens": [
+        "Roger, readback correct.",
+        "I'll be coming at you with the TEI-19 PAD in about 10 seconds."
+      ],
+      "speaker": "McCandless",
+      "time": "1005904"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1005912"
+    },
+    {
+      "tokens": [
+        "And if you're ready to copy on TEI-19, I'm ready."
+      ],
+      "speaker": "McCandless",
+      "time": "1005938"
+    },
+    {
+      "tokens": [
+        "Okay, TEI-19; let her go, Bruce."
+      ],
+      "speaker": "Roosa",
+      "time": "1005952"
+    },
+    {
+      "tokens": [
+        "Roger, Stu.",
+        "SPS/G&N; 36583; minus 0.66, plus 0.24; TIG, 119:38:09.13; Noun 81, plus 2903.4, plus 1564.7, minus 0485.2; roll, 179, 120, 029- The rest of the PAD is NA.",
+        "Ullage, four jets, 11 seconds.",
+        "Remarks: this is an undocked burn.",
+        "We assume circularization, but no plane change number 1.",
+        "The lunar longitude that you are crossing at time of TIGis minus 175.8 west longitude.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1005956"
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-098"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-099"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, TEI-19; SPS/G&N; 36583; minus 0.66, plus 0.24; 119:38:09.13; plus 2903.4, plus 1564.7, minus 0485.2; 179, 120, 029.",
+        "Ullage, four jet, 11 seconds; undocked, assumed CIRC, no plane change 1; and longitude of TIGminus 175.8."
+      ],
+      "speaker": "Roosa",
+      "time": "1010126"
+    },
+    {
+      "tokens": [
+        "14, this is Houston; readback correct.",
+        "Out."
+      ],
+      "speaker": "McCandless",
+      "time": "1010209"
+    },
+    {
+      "tokens": [
+        "An interpretation of the PAD follows:Purpose:The burn would be carried out at the end of Rev-19 in case the mission had to be aborted.System:It would use the large SPS (Service Propulsion System) engine at the rear of the Service Module, under the control of the Guidance and Navigation system.CSM Weight (Noun 47):36,583 pounds (16,594 kg).Pitch and yaw trim (Noun 48):-0.66° and +0.24°.",
+        "These angles represent an initial direction for the gimbal-mounted engine in order to fire through the predicted centre of mass of the spacecraft.Time of ignition, TIG(Noun 33):119 hours, 38 minutes, 9.13 seconds.",
+        "As with all the TEI PADs, the burn is timed for when the spacecraft is over the farside.Change in velocity (Noun 81), fps (m/s):X, +2,903.4 (+885.0); Y, +1,564.7 (+476.9); Z, -485.2 (-147.9).",
+        "The change in velocity is resolved into three components which are quoted relative to the local vertical.",
+        "The large positive X component shows that this burn would be prograde, i.e.",
+        "in the same direction as their orbital motion, increasing their velocity so that they escape the gravitational pull of the Moon.",
+        "The Y component indicates that the plane of their orbit would be changed to one which intersects Earth.Spacecraft attitude:Roll, 179°; Pitch, 120°; Yaw, 29°.",
+        "The desired spacecraft attitude is measured relative to the alignment of the guidance platform.Other items on the standard form are not applicable (NA) to this PAD.",
+        "There are the following additional notes.",
+        "SPS propellants would be settled in their tanks by firing the plus-X thrusters on all four quads around the Service Module for 11 seconds.",
+        "The burn data assumes that the CSM is no longer carrying the weight of the LM and that they would be aborting the mission from its circular orbit.",
+        "It would not have made a plane change burn.",
+        "An additional note is that ignition would occur when the spacecraft is over a longitude of -175.8°."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Roosa",
+      "time": "1010217"
+    },
+    {
+      "tokens": [
+        "And, Houston, 14."
+      ],
+      "speaker": "Roosa",
+      "time": "1010413"
+    },
+    {
+      "tokens": [
+        "Go ahead, Stu."
+      ],
+      "speaker": "McCandless",
+      "time": "1010415"
+    },
+    {
+      "tokens": [
+        "Okay, the LM/Command Module DELTA-P is 0.8."
+      ],
+      "speaker": "Roosa",
+      "time": "1010419"
+    },
+    {
+      "tokens": [
+        "Houston, Roger.",
+        "Out."
+      ],
+      "speaker": "McCandless",
+      "time": "1010425"
+    },
+    {
+      "tokens": [
+        "Stu, Houston.",
+        "How is your viewing attitude up there?"
+      ],
+      "speaker": "McCandless",
+      "time": "1010509"
+    },
+    {
+      "tokens": [
+        "It's rather tremendous, Bruce.",
+        "This - coming across this low - low orbit is phenomenal, and this attitude is absolutely great."
+      ],
+      "speaker": "Roosa",
+      "time": "1010517"
+    },
+    {
+      "tokens": [
+        "I guess that settles that one."
+      ],
+      "speaker": "McCandless",
+      "time": "1010531"
+    },
+    {
+      "tokens": [
+        "I tell you one thing, Bruce; you sure get the impression you're more like about a thousand feet than 45,000."
+      ],
+      "speaker": "Roosa",
+      "time": "1010606"
+    },
+    {
+      "tokens": [
+        "I guess the scenery is really clipping along."
+      ],
+      "speaker": "McCandless",
+      "time": "1010616"
+    },
+    {
+      "tokens": [
+        "Yes, and it seems so close.",
+        "It looks like you can just reach out and touch it."
+      ],
+      "speaker": "Roosa",
+      "time": "1010622"
+    },
+    {
+      "tokens": [
+        "The recent input from FAO is that we need the Hycon camera check prior to a GET of 107 hours.",
+        "That's about 6 hours from now."
+      ],
+      "speaker": "McCandless",
+      "time": "1010629"
+    },
+    {
+      "tokens": [
+        "Okay, prior 107.",
+        "And we'll sure try to give it a go."
+      ],
+      "speaker": "Roosa",
+      "time": "1010645"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And whenever you're ready on the flight-plan update to the CMP Solo Book and the LM Timeline Book, why, we've got it setting down here, but there's no rush."
+      ],
+      "speaker": "McCandless",
+      "time": "1010651"
+    },
+    {
+      "tokens": [
+        "Okay, I can take the CMP Solo Book now, but we might as well get them both together, and it'll be a little bit here.",
+        "They're getting their suits on."
+      ],
+      "speaker": "Roosa",
+      "time": "1010703"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, the details of the two are a little different."
+      ],
+      "speaker": "McCandless",
+      "time": "1010712"
+    },
+    {
+      "tokens": [
+        "Okay, lets get me out of the way and take the Solo Book now."
+      ],
+      "speaker": "Roosa",
+      "time": "1010723"
+    },
+    {
+      "tokens": [
+        "Okay, on page 52."
+      ],
+      "speaker": "McCandless",
+      "time": "1010729"
+    },
+    {
+      "tokens": [
+        "Okay, go ahead."
+      ],
+      "speaker": "Roosa",
+      "time": "1010746"
+    },
+    {
+      "tokens": [
+        "At 144 hours and 08 minutes, it presently reads, \"Translate to capture latch,\" we want to change that to read, \"Translate to contact.\" Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1010750"
+    },
+    {
+      "tokens": [
+        "Okay, we'll change that \"Translate to contact,\" and hope they're both the same, huh?"
+      ],
+      "speaker": "Roosa",
+      "time": "1010814"
+    },
+    {
+      "tokens": [
+        "Roger, Roger.",
+        "Under that, add in \"Report contacts to LM;\" and \"CMC Mode, Free.\" Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1010819"
+    },
+    {
+      "tokens": [
+        "Okay, and after contact, I'll report contact to LM and go CMC, Free."
+      ],
+      "speaker": "Roosa",
+      "time": "1010846"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And over there in the \"Docking checklist,\" we want to delete the \"CMC Mode, Free.\" It says, \"Docking checklist at capture, CMC Mode, Free;\" you can delete that."
+      ],
+      "speaker": "McCandless",
+      "time": "1010852"
+    },
+    {
+      "tokens": [
+        "Okay, I'll delete \"CMC Mode, Free\" under the \"Docking checklist at capture.\""
+      ],
+      "speaker": "Roosa",
+      "time": "1010906"
+    },
+    {
+      "tokens": [
+        "And that's it.",
+        "That wasn't so bad, was it?"
+      ],
+      "speaker": "McCandless",
+      "time": "1010911"
+    },
+    {
+      "tokens": [
+        "No, that was pretty painless."
+      ],
+      "speaker": "Roosa",
+      "time": "1010916"
+    },
+    {
+      "tokens": [
+        "21 Nancy."
+      ],
+      "speaker": "McCandless",
+      "time": "1010918"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Roosa",
+      "time": "1010922"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "McCandless",
+      "time": "1011120"
+    },
+    {
+      "tokens": [
+        "Go ahead, Bruce."
+      ],
+      "speaker": "Roosa",
+      "time": "1011126"
+    },
+    {
+      "tokens": [
+        "Yes, Stu; we just got word that your family is listening to you, and they're outside looking up at that great big Fra Mauro Moon."
+      ],
+      "speaker": "McCandless",
+      "time": "1011127"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Roosa",
+      "time": "1011139"
+    },
+    {
+      "tokens": [
+        "Stu is married to Joan, and they have four children: Christopher, John, Stuart Jr.",
+        "and Rosemary."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Bruce; for their benefit - just to pinpoint us, we're approaching the terminator now and the Fra Mauro formation.",
+        "And I guess of all the views you see, I think it's going to be tough to beat this - going into the terminator at this low altitude.",
+        "It's - it's really something."
+      ],
+      "speaker": "Roosa",
+      "time": "1011200"
+    },
+    {
+      "tokens": [
+        "It sounds really spectacular.",
+        "I'm sure we'd all like to be up there with you.",
+        "I know I would."
+      ],
+      "speaker": "McCandless",
+      "time": "1011220"
+    },
+    {
+      "tokens": [
+        "Yes, I wish you could be - yes, I wish you could be, after all that hard work."
+      ],
+      "speaker": "Roosa",
+      "time": "1011227"
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "We'd like to try the Secondary Servo Electronics on the High Gain Antenna and attempt a normal acquisition.",
+        "If that is unsuccessful, we'll return to the present configuration."
+      ],
+      "speaker": "McCandless",
+      "time": "1011257"
+    },
+    {
+      "tokens": [
+        "All right, Bruce; go on Secondary, now."
+      ],
+      "speaker": "Roosa",
+      "time": "1011316"
+    },
+    {
+      "tokens": [
+        "Okay, how do you read, Bruce?"
+      ],
+      "speaker": "Roosa",
+      "time": "1011332"
+    },
+    {
+      "tokens": [
+        "Loud and clear, Stu.",
+        "Looks beautiful."
+      ],
+      "speaker": "McCandless",
+      "time": "1011334"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "I went Secondary, and there was not a glitch in - in anything."
+      ],
+      "speaker": "Roosa",
+      "time": "1011339"
+    },
+    {
+      "tokens": [
+        "Are you in Auto now?"
+      ],
+      "speaker": "McCandless",
+      "time": "1011345"
+    },
+    {
+      "tokens": [
+        "Oh, no.",
+        "I am - I'm sorry.",
+        "I didn't get the Auto bit."
+      ],
+      "speaker": "Roosa",
+      "time": "1011350"
+    },
+    {
+      "tokens": [
+        "Great."
+      ],
+      "speaker": "McCandless",
+      "time": "1011353"
+    },
+    {
+      "tokens": [
+        "I thought you just wanted Secondary on the Electronics."
+      ],
+      "speaker": "Roosa",
+      "time": "1011354"
+    },
+    {
+      "tokens": [
+        "Great.",
+        "Now that you - -"
+      ],
+      "speaker": "McCandless",
+      "time": "1011359"
+    },
+    {
+      "tokens": [
+        "You - you want Auto Mode?",
+        "Is that - -"
+      ],
+      "speaker": "Roosa",
+      "time": "1011401"
+    },
+    {
+      "tokens": [
+        "Now that you've got the Secondary Servo Electronics up, we'd like you to run through a normal acquisition procedure; over."
+      ],
+      "speaker": "McCandless",
+      "time": "1011403"
+    },
+    {
+      "tokens": [
+        "Oh, okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1011413"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Roosa",
+      "time": "1011510"
+    },
+    {
+      "tokens": [
+        "Okay, loud and clear, Stu.",
+        "It looks like it was successful.",
+        "I understand - -"
+      ],
+      "speaker": "McCandless",
+      "time": "1011513"
+    },
+    {
+      "tokens": [
+        "That's negative.",
+        "I'm back in Manual and Medium.",
+        "What happens when I go to Auto - the Pitch goes to about a minus 50 and the Yaw stays just about the same, but it seems like the Auto Mode wants to drive the Pitch down to about minus 50; and if I do that in - in - in Wide Beam width and then I go to Medium, Narrow, it doesn't seem to have any effect, and the signal strength drops back off."
+      ],
+      "speaker": "Roosa",
+      "time": "1011519"
+    },
+    {
+      "tokens": [
+        "Okay, we copy, Stu."
+      ],
+      "speaker": "McCandless",
+      "time": "1011554"
+    },
+    {
+      "tokens": [
+        "And I'm back Manual, Medium now."
+      ],
+      "speaker": "Roosa",
+      "time": "1011559"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Out."
+      ],
+      "speaker": "McCandless",
+      "time": "1011603"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Stu.",
+        "We have your torquing angles.",
+        "You're Go."
+      ],
+      "speaker": "McCandless",
+      "time": "1012421"
+    },
+    {
+      "tokens": [
+        "Okay, Bruce.",
+        "Torqued at 101, 24, 20."
+      ],
+      "speaker": "Roosa",
+      "time": "1012449"
+    },
+    {
+      "tokens": [
+        "This is Stu's 13th P52 realignment of the guidance platform during the flight.",
+        "As a reference, he sighted on star 17 (Regor) and star 33 (Menkent).",
+        "As a check of his sighting accuracy, the computer compared the measured angle between these stars and the actual angle.",
+        "The difference between them was 00.000, or 'all balls', perfect accuracy.",
+        "Finally, the computer displayed Noun 93, the angles by which the gimbals would be rotated or 'torqued' to restore perfect alignment.",
+        "These were +0.073° in X, -0.229° in Y and 0.000° in Z axis.",
+        "According to the post-flight Mission Report, the platform was torqued at GET."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Command Module's IMU alignment will be transferred to the Lunar Module soon and hence it is useful to have a fresh alignment on the CSM to start with."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "101, 24, 20."
+      ],
+      "speaker": "McCandless",
+      "time": "1012453"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14; Stu, this is Houston."
+      ],
+      "speaker": "McCandless",
+      "time": "1012856"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Roosa",
+      "time": "1012902"
+    },
+    {
+      "tokens": [
+        "Roger, Stu.",
+        "Prior to commencing your maneuver here, which it looks like you're about ready to do, we'll give you an Omni antenna to select.",
+        "Once you get to the new attitude, we'd like you to return to Manual, Medium BEAM width, and we'll give you Pitch and Yaw angles.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "1012904"
+    },
+    {
+      "tokens": [
+        "All right, we're getting ready to manuever.",
+        "Have you got the angles?"
+      ],
+      "speaker": "Roosa",
+      "time": "1012922"
+    },
+    {
+      "tokens": [
+        "Okay, Stuart.",
+        "Omni Bravo while maneuvering, and and the flight-plan angles of a Pitch, minus 80; and Yaw, 98* are good."
+      ],
+      "speaker": "McCandless",
+      "time": "1012933"
+    },
+    {
+      "tokens": [
+        "Okay, Omni Bravo during the maneuver, and flight-plan angles good when we get there.",
+        "Thank you."
+      ],
+      "speaker": "Roosa",
+      "time": "1012950"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And with respect to the LM Timeline Book, we'll try to pass this up in real time during the tail end of the rendezvous.",
+        "You might pass to Al that it essentially makes the Timeline Book agree with what we gave you in the CMP Solo Book -10 seconds or contact on the thrust X-plus at contact and then confirm docking.",
+        "Confirm capture report from CSM."
+      ],
+      "speaker": "McCandless",
+      "time": "1012956"
+    },
+    {
+      "tokens": [
+        "The LM Timeline Book contains the Flight Plan for the LM's independent operations while it is not on the lunar surface.",
+        "The CMP Solo Book does the same for the Kitty Hawk during Stu's one-man science mission while Al and Ed explore Fra Mauro."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We got that.",
+        "And passing it up later is fine with us."
+      ],
+      "speaker": "Shepard",
+      "time": "1013021"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We just wanted to make sure you were aware of what we had in mind."
+      ],
+      "speaker": "McCandless",
+      "time": "1013028"
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "Six minutes to LOS."
+      ],
+      "speaker": "McCandless",
+      "time": "1013119"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Roosa",
+      "time": "1013124"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "One minute to LOS."
+      ],
+      "speaker": "McCandless",
+      "time": "1013636"
+    },
+    {
+      "tokens": [
+        "Roger, Houston."
+      ],
+      "speaker": "Shepard",
+      "time": "1013642"
+    },
+    {
+      "tokens": [
+        "Okay; 14 is up - on the timeline, Houston."
+      ],
+      "speaker": "Mitchell",
+      "time": "1013645"
+    },
+    {
+      "tokens": [
+        "Say again?"
+      ],
+      "speaker": "McCandless",
+      "time": "1013650"
+    },
+    {
+      "tokens": [
+        "Okay, 14.",
+        "Down here, we're going to turn over to the good old Gold Team, and the friendly Maroon Team will see you in a few hours."
+      ],
+      "speaker": "McCandless",
+      "time": "1013658"
+    },
+    {
+      "tokens": [
+        "Okay, stick around.",
+        "We've got ice cream."
+      ],
+      "speaker": "Mitchell",
+      "time": "1013709"
+    },
+    {
+      "tokens": [
+        "You'll be back for the fun, Bruce?"
+      ],
+      "speaker": "Shepard",
+      "time": "1013714"
+    },
+    {
+      "tokens": [
+        "I will; yes, indeed."
+      ],
+      "speaker": "McCandless",
+      "time": "1013716"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 101 hours 38 minutes and we've had loss of signal now with Apollo 14.",
+        "During that front side pass, a number of things were discussed with the crew.",
+        "I'd like to run back over several of the more significanl; ones, briefly.",
+        "The biomedical harness switch, which was performed by Ed Mitchell, apparently took care of the problem.",
+        "We have good biomedical data on him.",
+        "We still have our problem with the High Gain Antenna and that problem essentially is in acquiring automatically, a narrow beam width.",
+        "We have good lock on and good data in wide beam width.",
+        "What we lose when we do not have the narrow beam width is high bit rate data, however, we can also, even get high bit rate data when we're on the 210 foot dish at Goldstone, California.",
+        "The high gain narrow beam width is one of those desirable items, but is not essential for continuing on with the mission at this point.",
+        "We also discussed with the crew, procedures for determining if battery 5 is Go or No Go, and essentially, the criteria for determining whether that battery will be healthy enough to continue with the powered descent is to look at the voltage when the battery is once again brought on line and see if, under load, the battery 5 voltage stays within 1.8 volts of the voltage that we see on battery 6.",
+        "I would like to point out that we have not seen battery 5 since the test that was run on it last night.",
+        "We have not had telemetry data on the LM electrical power system since that time, however, in the tests that were run last night, under heavy load, battery 5's voltage was identical with the voltage we saw on battery 6.",
+        "The Engineering Support Room here in the Control Center says that it will accept a voltage difference of up to 1.9 volts.",
+        "We advised the crew 1.8 volts, but the engineering backroom says that 1.9 will be the actual criteria, which will be used.",
+        "At this time we are optimistic that battery 5 will be in roughly the same shape that it was in when we saw it last night.",
+        "And at that time, as I said, it was able to maintain full load, sharing as expected and with no voltage difference between battery5 and battery 6.",
+        "We now have 42 minutes 45 seconds before we reacquire the spacecraft and at that time it will be at the beginning of its eleventh revolution.",
+        "At this time in Mission Control, we are in the midst of a shift handover.",
+        "Flight Director Jerry Griffin and the Gold team of Flight Directors coming on to replace the Maroon team.",
+        "Capsule Communicator on the coming shift is Astronaut Fred Haise.",
+        "Our orbital data on the spacecraft at this time is as follows: the apocynthion or high point of the orbit is now showing 59.8 nautical miles and the pericynthion is currently reading 8.1 nautical miles.And at 101 hours 42 minutes this is Apollo Control Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Starting with Activation 2-1, Al uses an inbuilt scale at the lip of the tunnel to read the docking angle.",
+        "It will be taken into account while converting CSM gyro values to their LM counterparts."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Tool R is the"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "By pressing the GDC Align button, Al transfers their present attitude data to the Gyro Display Coupler - the auxiliary attitude sensing system that is part of the Stabilization Control System, or SCS.",
+        "From then on, the SCS' own attitude and acceleration sensing units - the BMAGs - will continue to measure them."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "They are clearing the tunnel into the LM by taking out the probe and the drogue."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It should be Al's time to move into the LM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "By using the rotary dials on the Systems Test Meter, they've determined that no power is flowing through the LM umbilicals and it is now safe to remove them."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Up is of course a relative concept for the moment."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-100"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-101"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "102:05:03 :BEGIN LUNAR REV 11"
+      ],
+      "speaker": "Commentary",
+      "time": "1020503"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control 102 hours 21 minutes Ground Elapsed Time.",
+        "We're less than 2 minutes away from acquisition of signal as the Apollo 14 spacecraft still docked, come around the front side of the Moon again on this llth lunar revolution.",
+        "And at this time, the lunar landing crew should have been in the spacecraft 10 or 15 minutes beginning the power up sequence and checkout of the Lunar Module, getting it prepared for the landing tomorrow morning which will be around 3:15 Houston time.",
+        "Here in the Control Center is the gold team of flight controllers taking over from the off going shift headed up by Milton Windler.",
+        "Rather quiet in the Control Center as the flight controllers discuss among themselves the upcoming checkout of the Lunar Module.",
+        "We'll begin to get telemetry about the same time we get voice.",
+        "Continuing to stand by as we anticipate Apollo 14 being acquired by the ground stations primarily through the Goldstone station in California.",
+        "We show Goldstone acquiring at 102 25 44, slightly over a minute from now.",
+        "Apparently there was some confusion in the acquisition of signal clock here in the control room.",
+        "And looking at the tables for station acquisition, we can see that we're still about a minute away from acquisition.",
+        "We've had CSM AOS.",
+        "Let's stand by for the air to ground communications."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "1022614"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston; Kitty Hawk."
+      ],
+      "speaker": "Roosa",
+      "time": "1022621"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're ready with some updates to you - or an uplink rather, if you can give us P00 and Accept."
+      ],
+      "speaker": "Haise",
+      "time": "1022624"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You've got P00 and Accept."
+      ],
+      "speaker": "Roosa",
+      "time": "1022634"
+    },
+    {
+      "tokens": [
+        "And when you've got time, Stu, I've got some DAP data, and the SEP PAD's ready."
+      ],
+      "speaker": "Haise",
+      "time": "1022637"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by 1.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "1022645"
+    },
+    {
+      "tokens": [
+        "Okay, Antares.",
+        "How do you read Kitty Hawk B?"
+      ],
+      "speaker": "Roosa",
+      "time": "1022721"
+    },
+    {
+      "tokens": [
+        "As per the Flight Plan, Stu has switched on the Command Module's VHF comms for a checkout with the LM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Kitty Hawk.",
+        "Antares' LMP reads you loud and clear."
+      ],
+      "speaker": "Mitchell",
+      "time": "1022724"
+    },
+    {
+      "tokens": [
+        "CDR reads you loud and clear, Red."
+      ],
+      "speaker": "Shepard",
+      "time": "1022729"
+    },
+    {
+      "tokens": [
+        "Let's go VHF A."
+      ],
+      "speaker": "Mitchell",
+      "time": "1022733"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "Stand by 1."
+      ],
+      "speaker": "Roosa",
+      "time": "1022735"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Antares.",
+        "Start count: 1, 2, 3, 4, 5, 4, 3, 2, 1."
+      ],
+      "speaker": "Mitchell",
+      "time": "1022817"
+    },
+    {
+      "tokens": [
+        "Oh, you're loud and clear, now."
+      ],
+      "speaker": "Roosa",
+      "time": "1022821"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let's go VHF A."
+      ],
+      "speaker": "Mitchell",
+      "time": "1022822"
+    },
+    {
+      "tokens": [
+        "How about me?",
+        "Am I loud and clear?"
+      ],
+      "speaker": "Shepard",
+      "time": "1022824"
+    },
+    {
+      "tokens": [
+        "You're loud and clear, fearless one."
+      ],
+      "speaker": "Roosa",
+      "time": "1022828"
+    },
+    {
+      "tokens": [
+        "Good show, Rojo."
+      ],
+      "speaker": "Shepard",
+      "time": "1022830"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ENABLE."
+      ],
+      "speaker": "Roosa",
+      "time": "1022836"
+    },
+    {
+      "tokens": [
+        "Okay, Antares.",
+        "Kitty Hawk on A SIMPLEX.",
+        "How do you read?"
+      ],
+      "speaker": "Roosa",
+      "time": "1022844"
+    },
+    {
+      "tokens": [
+        "Roger, Kitty Hawk.",
+        "Antares reads you loud and clear, A SIMPLEX."
+      ],
+      "speaker": "Mitchell",
+      "time": "1022847"
+    },
+    {
+      "tokens": [
+        "You're loud and clear, Ed."
+      ],
+      "speaker": "Roosa",
+      "time": "1022851"
+    },
+    {
+      "tokens": [
+        "Same here."
+      ],
+      "speaker": "Shepard",
+      "time": "1022853"
+    },
+    {
+      "tokens": [
+        "You're loud and clear, Al,"
+      ],
+      "speaker": "Roosa",
+      "time": "1022854"
+    },
+    {
+      "tokens": [
+        "Houston, this is Antares.",
+        "Over."
+      ],
+      "speaker": "Mitchell",
+      "time": "1022909"
+    },
+    {
+      "tokens": [
+        "Antares, Houston.",
+        "Read you loud and clear."
+      ],
+      "speaker": "Haise",
+      "time": "1022911"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by."
+      ],
+      "speaker": "Mitchell",
+      "time": "1022916"
+    },
+    {
+      "tokens": [
+        "Houston, Primary EVAP FLOW NUMBER 1, OPEN; 102:15: 45 ."
+      ],
+      "speaker": "Mitchell",
+      "time": "1022931"
+    },
+    {
+      "tokens": [
+        "Activation page 2-12 tells the LM crew to report the time they activated the primary evaporator back to Mission Control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copy now."
+      ],
+      "speaker": "Haise",
+      "time": "1022942"
+    },
+    {
+      "tokens": [
+        "Okay, and your LM power transfer time was 101:54:02."
+      ],
+      "speaker": "Mitchell",
+      "time": "1022946"
+    },
+    {
+      "tokens": [
+        "Similarly, Activation 2-12 orders the crew to report the time they switched off the CM power and went to LM internal power."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Ed.",
+        "We got it."
+      ],
+      "speaker": "Haise",
+      "time": "1022954"
+    },
+    {
+      "tokens": [
+        "And let's have a secondary S-band check."
+      ],
+      "speaker": "Mitchell",
+      "time": "1022959"
+    },
+    {
+      "tokens": [
+        "Continuing on Activation Page 2-12, Ed will first test the secondary S-Band transceiver electronics."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "We're reading you loud and clear on secondary S-band, and they're ready for primary."
+      ],
+      "speaker": "Haise",
+      "time": "1023003"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let's go primary."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023013"
+    },
+    {
+      "tokens": [
+        "The S-Band communications electronics are redundant, and both sets are checked now."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "The computer is yours, and are you ready for the updates yet?"
+      ],
+      "speaker": "Haise",
+      "time": "1023029"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "The computer's mine and go ahead."
+      ],
+      "speaker": "Roosa",
+      "time": "1023049"
+    },
+    {
+      "tokens": [
+        "Let me give you your DAP data first.",
+        "Your CSM weight is plus 36l16.",
+        "Your gimbal trims: pitch, minus 08l; yaw, plus 019."
+      ],
+      "speaker": "Haise",
+      "time": "1023054"
+    },
+    {
+      "tokens": [
+        "Okay, The DAP data: weight 36116; minus 08l, plus 019."
+      ],
+      "speaker": "Roosa",
+      "time": "1023119"
+    },
+    {
+      "tokens": [
+        "These are the SPS engine nozzle pointing gimbals, not the more famous Inertial Measurement Unit gimbals."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's a good readback, and if you've got the PAD book out, I'll give you your SEP PAD."
+      ],
+      "speaker": "Haise",
+      "time": "1023131"
+    },
+    {
+      "tokens": [
+        "Okay - -"
+      ],
+      "speaker": "Roosa",
+      "time": "1023141"
+    },
+    {
+      "tokens": [
+        "Houston, Antares.",
+        "If you read me, I'll press on."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023142"
+    },
+    {
+      "tokens": [
+        "Roger, Ed.",
+        "You're loud - loud and clear.",
+        "Press on."
+      ],
+      "speaker": "Haise",
+      "time": "1023146"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023152"
+    },
+    {
+      "tokens": [
+        "And, Kitty Hawk, I understand you're ready for a SEP PAD."
+      ],
+      "speaker": "Haise",
+      "time": "1023153"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Fred.",
+        "Let her go."
+      ],
+      "speaker": "Roosa",
+      "time": "1023159"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Your Noun 33 is 104:27:31.00.",
+        "Pitch is 103.",
+        "That's it."
+      ],
+      "speaker": "Haise",
+      "time": "1023202"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copy 104:27:31.00; and pitch, 103."
+      ],
+      "speaker": "Roosa",
+      "time": "1023220"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's good read; and now, I have a P24 landmark track data for you."
+      ],
+      "speaker": "Haise",
+      "time": "1023233"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm ready to copy."
+      ],
+      "speaker": "Roosa",
+      "time": "1023247"
+    },
+    {
+      "tokens": [
+        "Okay T1, 104:56:55; T2, 104:58:33; TCA, 104:59:03; T3, 104:59:25; 355, 297, and 000; south 6; and use 14-1."
+      ],
+      "speaker": "Haise",
+      "time": "1023250"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copy; this is 14-1; and T1, 104:56:55; 104:58:33; 104:59:03; 104:59:25; 355, 297, 000; it's south 6; and 14-1."
+      ],
+      "speaker": "Roosa",
+      "time": "1023337"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That was good, Stu; and one more thing, a map update for REV 12."
+      ],
+      "speaker": "Haise",
+      "time": "1023408"
+    },
+    {
+      "tokens": [
+        "All right, I'm ready."
+      ],
+      "speaker": "Roosa",
+      "time": "1023421"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The 180-degree point at 103:57:28."
+      ],
+      "speaker": "Haise",
+      "time": "1023423"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "103:57:28.",
+        "Map update, REV 12."
+      ],
+      "speaker": "Roosa",
+      "time": "1023436"
+    },
+    {
+      "tokens": [
+        "Good readback."
+      ],
+      "speaker": "Haise",
+      "time": "1023441"
+    },
+    {
+      "tokens": [
+        "And one other thing, Kitty Hawk.",
+        "Could you verify that the docking angle was still plus 0.9?"
+      ],
+      "speaker": "Haise",
+      "time": "1023445"
+    },
+    {
+      "tokens": [
+        "That's affirmative, plus 0.9."
+      ],
+      "speaker": "Roosa",
+      "time": "1023454"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "1023458"
+    },
+    {
+      "tokens": [
+        "Houston, Antares.",
+        "How do you read on the steerable antenna?"
+      ],
+      "speaker": "Mitchell",
+      "time": "1023502"
+    },
+    {
+      "tokens": [
+        "Okay, Antares.",
+        "I read you loud and clear."
+      ],
+      "speaker": "Haise",
+      "time": "1023505"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023510"
+    },
+    {
+      "tokens": [
+        "Ed, still working on the LM telecommuninications, has now activated the steerable S-Band antenna."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stu, I'm ready for a gimbal-angle check, here."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023529"
+    },
+    {
+      "tokens": [
+        "Ed and Al have reached Activation 2-16, the Docked Coarse Align.",
+        "This will transfer the initial orientation of the CSM IMU into the LM system."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew will now access present gimbal angles in the CSM computer, write them down on their checklist, and apply the simple calculations needed to re-orient the initial angles into the LM's coordinate system.",
+        "The reason for this is simple - the IMU in the Command Module is located about the crew's feet, while in the LM it is located above the crew station."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This process was famously dramatized in the movie Apollo 13.",
+        "The scene showed the crew shouting numbers to each other, writing them down, and then demanding Mission Control check their calculations for accuracy.",
+        "The procedures were essentially the same as during a normal docked align, but for the time constraint involved."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Want me to go Min Deadband and so forth?"
+      ],
+      "speaker": "Roosa",
+      "time": "1023534"
+    },
+    {
+      "tokens": [
+        "By setting minimum deadband, the spacecraft will attempt to maintain its present position."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go Deadband, antenna ..."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023539"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm on Minimum Deadband, antenna ...",
+        "plus 00625, plus 11762, ..."
+      ],
+      "speaker": "Roosa",
+      "time": "1023603"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've got [garble]..."
+      ],
+      "speaker": "Shepard",
+      "time": "1023624"
+    },
+    {
+      "tokens": [
+        "And, Kitty Hawk; Houston."
+      ],
+      "speaker": "Haise",
+      "time": "1023629"
+    },
+    {
+      "tokens": [
+        "- - 02387."
+      ],
+      "speaker": "Shepard",
+      "time": "1023634"
+    },
+    {
+      "tokens": [
+        "Read R3again, Al."
+      ],
+      "speaker": "Roosa",
+      "time": "1023637"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You got middle gimbal plus 02387."
+      ],
+      "speaker": "Shepard",
+      "time": "1023639"
+    },
+    {
+      "tokens": [
+        "The gimbal angles are read in the order of 'outer, inner, middle'."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "Go ahead, Houston, Kitty Hawk."
+      ],
+      "speaker": "Roosa",
+      "time": "1023642"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I guess we've got the LM back now.",
+        "Antares, Houston.",
+        "Just want to verify you're in Auto on the steerable."
+      ],
+      "speaker": "Haise",
+      "time": "1023645"
+    },
+    {
+      "tokens": [
+        "That's affirm, Freddo.",
+        "I went to Auto, and it was holding at a signal strength of 3.9 and I looked back over and we're - suddenly we're at 3, and I tried to relock, and I can't get it above 3 except on the Omni."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023654"
+    },
+    {
+      "tokens": [
+        "Roger, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "1023715"
+    },
+    {
+      "tokens": [
+        "If you'll give me a new set of angles, we'll try it again."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023721"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Haise",
+      "time": "1023724"
+    },
+    {
+      "tokens": [
+        "Okay, Antares; Houston.",
+        "We'd like you to try the steerable again, and the flight-plan angles are 116 and 4l.",
+        "Should be good."
+      ],
+      "speaker": "Haise",
+      "time": "1023737"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Here we go again."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023748"
+    },
+    {
+      "tokens": [
+        "All right, Houston; Antares.",
+        "I'm locked back up on the steerable, and that antenna's making a hell of a racket when it drives."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023834"
+    },
+    {
+      "tokens": [
+        "Roger, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "1023846"
+    },
+    {
+      "tokens": [
+        "And, Antares; Houston.",
+        "We have good lock, now; and we'd like to verify you're in Auto.",
+        "And the noise - again, we're not knowing what level you're hearing; there is quite a bit of noise with that antenna."
+      ],
+      "speaker": "Haise",
+      "time": "1023918"
+    },
+    {
+      "tokens": [
+        "I understand that.",
+        "It's Just surprisingly much more than I expected, and I am in Auto.",
+        "And it seems to be holding at a signal, strength of about 3.9, right now."
+      ],
+      "speaker": "Mitchell",
+      "time": "1023934"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And, Antares, whenever you get time there to copy, I've got your AGS abort constants ready."
+      ],
+      "speaker": "Haise",
+      "time": "1023944"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'd like to hold those for a minute, Freddo."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024003"
+    },
+    {
+      "tokens": [
+        "That would be fine, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "1024006"
+    },
+    {
+      "tokens": [
+        "Okay, Stu, we're coarse aligned; don't know if I need Att hold."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024019"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1024025"
+    },
+    {
+      "tokens": [
+        "Okay, Stu.",
+        "We're ready for a snapshot on Noun 20s, whenever you are."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024204"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Standing by for your mark."
+      ],
+      "speaker": "Roosa",
+      "time": "1024210"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "3, 2, 1 -"
+      ],
+      "speaker": "Mitchell",
+      "time": "1024220"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024223"
+    },
+    {
+      "tokens": [
+        "Okay, on your mark, I read plus 00687, plus 11777, plus 02366."
+      ],
+      "speaker": "Roosa",
+      "time": "1024226"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Give them to me again, please.",
+        "I was copying time GET."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024238"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Plus 00687, plus 11777, plus 02366."
+      ],
+      "speaker": "Roosa",
+      "time": "1024243"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Noun 20s as follows: 00687, 11777, 02366."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024301"
+    },
+    {
+      "tokens": [
+        "That's a good readback."
+      ],
+      "speaker": "Roosa",
+      "time": "1024309"
+    },
+    {
+      "tokens": [
+        "Houston, Antares.",
+        "I'll take the - the AGS control now."
+      ],
+      "speaker": "Shepard",
+      "time": "1024318"
+    },
+    {
+      "tokens": [
+        "Roger, Antares.",
+        "And we copied the Noun 20s down here."
+      ],
+      "speaker": "Haise",
+      "time": "1024325"
+    },
+    {
+      "tokens": [
+        "Okay, and GET was 102:42:21."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024334"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "GET of 102:42:21, and here's the AGS abort constants, Ed: 224, plus 60464; 225, plus 29400; 226, plus 60480; 305, minus 01760; 662, minus 54516; 673, minus 31704."
+      ],
+      "speaker": "Haise",
+      "time": "1024343"
+    },
+    {
+      "tokens": [
+        "Okay, Freddo.",
+        "224 is plus 60464; 225 is plus 29400; 226 is plus 60480; 305, minus 01760; 662, minus 54516; 673, minus 31704."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024433"
+    },
+    {
+      "tokens": [
+        "Okay, Antares.",
+        "That was good readback."
+      ],
+      "speaker": "Haise",
+      "time": "1024459"
+    },
+    {
+      "tokens": [
+        "And Freddo, I'm coming on with ascent battery check, if you would like to watch that."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024506"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Haise",
+      "time": "1024511"
+    },
+    {
+      "tokens": [
+        "Antares, Houston.",
+        "You have the Go for the ascent Bat check."
+      ],
+      "speaker": "Haise",
+      "time": "1024519"
+    },
+    {
+      "tokens": [
+        "This is not an extra check on the ascent batteries, but a normal part of the LM Activation.",
+        "Ed is commenting on it due to the particular attention that the batteries have received during the mission so far."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024524"
+    },
+    {
+      "tokens": [
+        "Bat 5 Normal Feed coming on, now."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024532"
+    },
+    {
+      "tokens": [
+        "Okay, I've got CMC time.",
+        "You ready?"
+      ],
+      "speaker": "Roosa",
+      "time": "1024645"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "You want me to set it up on 102:47?"
+      ],
+      "speaker": "Mitchell",
+      "time": "1024649"
+    },
+    {
+      "tokens": [
+        "That'd be great."
+      ],
+      "speaker": "Roosa",
+      "time": "1024652"
+    },
+    {
+      "tokens": [
+        "Three seconds."
+      ],
+      "speaker": "Roosa",
+      "time": "1024700"
+    },
+    {
+      "tokens": [
+        "Hack 102:47.",
+        "Did you get that or would you like 102:47:30?"
+      ],
+      "speaker": "Roosa",
+      "time": "1024702"
+    },
+    {
+      "tokens": [
+        "Just like the navigational data was transferred manually from one ship to another, the CSM and LM clocks are synchronized by yelling down the hatch."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "No.",
+        "I have that.",
+        "Stand by for a snapshot on Noun 65, please."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024713"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm standing by."
+      ],
+      "speaker": "Roosa",
+      "time": "1024721"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Verb 06 Noun 65; 3, 2, 1 -"
+      ],
+      "speaker": "Mitchell",
+      "time": "1024725"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024730"
+    },
+    {
+      "tokens": [
+        "Okay, on your mark, I read 102:47:28.35."
+      ],
+      "speaker": "Roosa",
+      "time": "1024732"
+    },
+    {
+      "tokens": [
+        "102:47:28.35.",
+        "Thank you."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024743"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Roosa",
+      "time": "1024747"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You got a little old Tephem, over there somewhere I might be able to use?",
+        "Either A or B, depending upon which one you like."
+      ],
+      "speaker": "Shepard",
+      "time": "1024845"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by."
+      ],
+      "speaker": "Roosa",
+      "time": "1024851"
+    },
+    {
+      "tokens": [
+        "Okay, Tephem.",
+        "Are you ready to copy?"
+      ],
+      "speaker": "Roosa",
+      "time": "1024859"
+    },
+    {
+      "tokens": [
+        "Go ahead, Stu."
+      ],
+      "speaker": "Shepard",
+      "time": "1024912"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Four ball 6; 3522.3, 1602.0."
+      ],
+      "speaker": "Roosa",
+      "time": "1024914"
+    },
+    {
+      "tokens": [
+        "You cut out there during the middle of it.",
+        "Would you give it to me again, please?"
+      ],
+      "speaker": "Shepard",
+      "time": "1024926"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Four ball 6; 3522.3, 1602.0."
+      ],
+      "speaker": "Roosa",
+      "time": "1024929"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I have four, zero, six; 3522.3, 1602.0."
+      ],
+      "speaker": "Shepard",
+      "time": "1024942"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let's verify R1.",
+        "That's 00006."
+      ],
+      "speaker": "Roosa",
+      "time": "1024949"
+    },
+    {
+      "tokens": [
+        "That's verified.",
+        "00006."
+      ],
+      "speaker": "Mitchell",
+      "time": "1024953"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1024955"
+    },
+    {
+      "tokens": [
+        "Houston, Antares."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025023"
+    },
+    {
+      "tokens": [
+        "Go ahead, Antares."
+      ],
+      "speaker": "Haise",
+      "time": "1025025"
+    },
+    {
+      "tokens": [
+        "My battery check is complete.",
+        "The ED Bat voltage are 37.0, 37.0; and it appears that BATs 5 and 6 look exactly like they did last night."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025031"
+    },
+    {
+      "tokens": [
+        "Ed has checked the two small silver-zinc batteries which provide power to the pyrotechnic devices onboard."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That looks great, Ed.",
+        "Thirty-seven on each of the EDs, and we'll now get the work configured for -Verb 74."
+      ],
+      "speaker": "Haise",
+      "time": "1025044"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025057"
+    },
+    {
+      "tokens": [
+        "Okay, and we got the Tephemsquared here.",
+        "And Verb 74 is coming down."
+      ],
+      "speaker": "Shepard",
+      "time": "1025100"
+    },
+    {
+      "tokens": [
+        "Houston, Antares."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025135"
+    },
+    {
+      "tokens": [
+        "Go ahead, Antares."
+      ],
+      "speaker": "Haise",
+      "time": "1025137"
+    },
+    {
+      "tokens": [
+        "Do you have any updates for DAP Verb 48 numbers?"
+      ],
+      "speaker": "Mitchell",
+      "time": "1025141"
+    },
+    {
+      "tokens": [
+        "Stand by on that one, Ed.",
+        "I do have some LM torquing - gyro torque angles for you."
+      ],
+      "speaker": "Haise",
+      "time": "1025147"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Roger."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025155"
+    },
+    {
+      "tokens": [
+        "And Al, when you get a chance, I'd like to verify the capture latches."
+      ],
+      "speaker": "Roosa",
+      "time": "1025200"
+    },
+    {
+      "tokens": [
+        "Okay, and Antares; Houston.",
+        "I have the DAP data now, if you want to copy that."
+      ],
+      "speaker": "Haise",
+      "time": "1025207"
+    },
+    {
+      "tokens": [
+        "Go ahead.",
+        "Ready to copy."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025217"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "LM weight, plus 34039; CSM weight, plus 36116; and your gimbal angles, as loaded in the computer, are good."
+      ],
+      "speaker": "Haise",
+      "time": "1025219"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025240"
+    },
+    {
+      "tokens": [
+        "And Antares, are you ready for the gyro torque angles, now?"
+      ],
+      "speaker": "Haise",
+      "time": "1025246"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025255"
+    },
+    {
+      "tokens": [
+        "That's over on about page 2-26, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "1025258"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Ready to copy."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025314"
+    },
+    {
+      "tokens": [
+        "A plus 00960, minus 00170, plus 00640."
+      ],
+      "speaker": "Haise",
+      "time": "1025317"
+    },
+    {
+      "tokens": [
+        "I read back X, plus 00960; Y, minus 00170; Z, plus 00640."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025335"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's correct, and I need a readback on the weights.",
+        "I didn't get that from you."
+      ],
+      "speaker": "Haise",
+      "time": "1025348"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "The weight - LM weight: 34039; Command Module weight: 36l16."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025357"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's good, Antares."
+      ],
+      "speaker": "Haise",
+      "time": "1025406"
+    },
+    {
+      "tokens": [
+        "And Houston, I'm in my S-band antenna stop.",
+        "I'm going to have to go to Omnis, I think."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025415"
+    },
+    {
+      "tokens": [
+        "Roger, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "1025422"
+    },
+    {
+      "tokens": [
+        "Houston, Antares."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025505"
+    },
+    {
+      "tokens": [
+        "Go ahead, Antares."
+      ],
+      "speaker": "Haise",
+      "time": "1025509"
+    },
+    {
+      "tokens": [
+        "My S-band steerable pitch needle is sitting at 255 and will not move.",
+        "The yaw seems to be working okay; however, I do not think that I'm in the stop."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025515"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We copied, Antares.",
+        "Your pitch reading is 255 5 and INCO concurs that it appears down here you're not in the stop."
+      ],
+      "speaker": "Haise",
+      "time": "1025536"
+    },
+    {
+      "tokens": [
+        "Okay, if you like, I took it out for safety's sake; I'll put it back on Auto Track if you'll give me the angles again."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025553"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by,"
+      ],
+      "speaker": "Haise",
+      "time": "1025601"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Antares, the numbers are plus 121 and 40 - plus 40 on the yaw."
+      ],
+      "speaker": "Haise",
+      "time": "1025609"
+    },
+    {
+      "tokens": [
+        "Good.",
+        "Roger.",
+        "121 and 40."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025618"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025631"
+    },
+    {
+      "tokens": [
+        "Houston.",
+        "You're locked up on the steerable, and n$r pitch needle is still sitting at 255.",
+        "I think we have a failure in it."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025646"
+    },
+    {
+      "tokens": [
+        "Roger, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "1025658"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "This is Kitty Hawk.",
+        "We're getting ready to drop the landing gear."
+      ],
+      "speaker": "Shepard",
+      "time": "1025801"
+    },
+    {
+      "tokens": [
+        "The landing gear deployment is on page 2-21 of the Activation Checklist, meaning that they will have to flip back a few pages."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1025807"
+    },
+    {
+      "tokens": [
+        "Houston, this is Antares - -"
+      ],
+      "speaker": "Mitchell",
+      "time": "1025910"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "The gear deployed, and we've got a gray talkback."
+      ],
+      "speaker": "Roosa",
+      "time": "1025912"
+    },
+    {
+      "tokens": [
+        "Roger, Antares."
+      ],
+      "speaker": "Haise",
+      "time": "1025918"
+    },
+    {
+      "tokens": [
+        "And Antares, Houston.",
+        "Would you verify that the comm display breaker is closed on 16?"
+      ],
+      "speaker": "Haise",
+      "time": "1025921"
+    },
+    {
+      "tokens": [
+        "Fred's first troubleshooting suggestion on their antenna needles is to check that the display system is properly powered via its Panel 16 circuit breaker."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's verified."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025933"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Haise",
+      "time": "1025936"
+    },
+    {
+      "tokens": [
+        "Remember, Fred, I've got one good needle and one bad needle."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025939"
+    },
+    {
+      "tokens": [
+        "Okay, that wasn't - wasn't clear.",
+        "We weren't sure if you just said one ...",
+        "or not - Go ahead, Antares."
+      ],
+      "speaker": "Haise",
+      "time": "1025942"
+    },
+    {
+      "tokens": [
+        "Okay, we're ready to press ahead with - -"
+      ],
+      "speaker": "Shepard",
+      "time": "1025951"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Freddo."
+      ],
+      "speaker": "Mitchell",
+      "time": "1025955"
+    },
+    {
+      "tokens": [
+        "Okay, Antares."
+      ],
+      "speaker": "Haise",
+      "time": "1025959"
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-102"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-103"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, we're ready to press ahead with RCS PRESSURIZATION."
+      ],
+      "speaker": "Mitchell",
+      "time": "1030000"
+    },
+    {
+      "tokens": [
+        "Go, Antares.",
+        "You go."
+      ],
+      "speaker": "Haise",
+      "time": "1030003"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "1030004"
+    },
+    {
+      "tokens": [
+        "Okay, we're Go for RCS PRESS."
+      ],
+      "speaker": "Shepard",
+      "time": "1030009"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The RCS pressurization covers most of pages 2-21 and 2-22."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Al, when you get a chance, I need another verifier on the capture latches."
+      ],
+      "speaker": "Roosa",
+      "time": "1030220"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Pressurization looked good, and HELIUM PRESS, 2850."
+      ],
+      "speaker": "Shepard",
+      "time": "1030444"
+    },
+    {
+      "tokens": [
+        "Roger, Antares."
+      ],
+      "speaker": "Haise",
+      "time": "1030457"
+    },
+    {
+      "tokens": [
+        "And Houston.",
+        "We're standing by for RCS checkout; and Stu, we need Wide Deadband, Att hold."
+      ],
+      "speaker": "Mitchell",
+      "time": "1030532"
+    },
+    {
+      "tokens": [
+        "..",
+        "."
+      ],
+      "speaker": "Roosa",
+      "time": "1030546"
+    },
+    {
+      "tokens": [
+        "Hey, Antares, we're Go for the RCS checkout."
+      ],
+      "speaker": "Haise",
+      "time": "1030547"
+    },
+    {
+      "tokens": [
+        "This is Activation pages 2-23, 2-24 and 2-25."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Mitchell",
+      "time": "1030554"
+    },
+    {
+      "tokens": [
+        "Okay, I'm CMC Free."
+      ],
+      "speaker": "Roosa",
+      "time": "1030557"
+    },
+    {
+      "tokens": [
+        "No, need Att hold, Stu; Wide Deadband and Att hold."
+      ],
+      "speaker": "Mitchell",
+      "time": "1030600"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "This your RCS checkout?"
+      ],
+      "speaker": "Roosa",
+      "time": "1030605"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Mitchell",
+      "time": "1030608"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Mine says CMC Free; I'll give you SCS Wide Deadband."
+      ],
+      "speaker": "Roosa",
+      "time": "1030612"
+    },
+    {
+      "tokens": [
+        "Great."
+      ],
+      "speaker": "Mitchell",
+      "time": "1030617"
+    },
+    {
+      "tokens": [
+        "It's the first part, Kitty Hawk.",
+        "It's a cold fire."
+      ],
+      "speaker": "Haise",
+      "time": "1030619"
+    },
+    {
+      "tokens": [
+        "Okay, Stu, you can go Free now."
+      ],
+      "speaker": "Mitchell",
+      "time": "1030841"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1030845"
+    },
+    {
+      "tokens": [
+        "By setting the SC CONT switch to Free, neither the computer"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, here comes the hard part, the hot fire check."
+      ],
+      "speaker": "Mitchell",
+      "time": "1030927"
+    },
+    {
+      "tokens": [
+        "Okay, Antares.",
+        "We're ready."
+      ],
+      "speaker": "Haise",
+      "time": "1030931"
+    },
+    {
+      "tokens": [
+        "Kitty Hawk, Houston.",
+        "We'd like Omni Alpha."
+      ],
+      "speaker": "Haise",
+      "time": "1031015"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I - Is that for Kitty Hawk?"
+      ],
+      "speaker": "Roosa",
+      "time": "1031021"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "We'd like Omni Alpha."
+      ],
+      "speaker": "Haise",
+      "time": "1031023"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1031028"
+    },
+    {
+      "tokens": [
+        "Stu, hot fire checks are complete."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031154"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "1031157"
+    },
+    {
+      "tokens": [
+        "Roger, Antares.",
+        "We're showing you a low yaw rate now."
+      ],
+      "speaker": "Haise",
+      "time": "1031159"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031203"
+    },
+    {
+      "tokens": [
+        "Say again, Houston."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031210"
+    },
+    {
+      "tokens": [
+        "We're showing a little rates on there -"
+      ],
+      "speaker": "Haise",
+      "time": "1031213"
+    },
+    {
+      "tokens": [
+        "Why don't you bang the - take the -"
+      ],
+      "speaker": "Roosa",
+      "time": "1031215"
+    },
+    {
+      "tokens": [
+        "Why don't you take the rate out before I go back to Auto, Ed."
+      ],
+      "speaker": "Roosa",
+      "time": "1031224"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You'll have to tell us which way, Stu.",
+        "We're not showing any rate."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031228"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Touch it a little right yaw."
+      ],
+      "speaker": "Roosa",
+      "time": "1031236"
+    },
+    {
+      "tokens": [
+        "Okay, hit it again.",
+        "Again, you got 2/lOths a second to go.",
+        "Again.",
+        "Again.",
+        "Again, Again.",
+        "Two more times."
+      ],
+      "speaker": "Roosa",
+      "time": "1031251"
+    },
+    {
+      "tokens": [
+        "Okay, that's good."
+      ],
+      "speaker": "Roosa",
+      "time": "1031314"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031317"
+    },
+    {
+      "tokens": [
+        "Antares, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "1031339"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031344"
+    },
+    {
+      "tokens": [
+        "When you can work it in here, we'd like you to go back to page 2-12 and repeat step 7, which is terminate self test."
+      ],
+      "speaker": "Haise",
+      "time": "1031346"
+    },
+    {
+      "tokens": [
+        "The computer self test is stopped by keying in Verb 21 (Load Component 1 in R1) Noun 27 (Self-test ON/OFF) Enter, followed by 0 Enter."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Wilco."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031404"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll go through it again, Houston."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031415"
+    },
+    {
+      "tokens": [
+        "Okay, Antares.",
+        "We don't need the whole self test again, just step 7.",
+        "The termination step will do."
+      ],
+      "speaker": "Haise",
+      "time": "1031420"
+    },
+    {
+      "tokens": [
+        "We understand."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031429"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Haise",
+      "time": "1031430"
+    },
+    {
+      "tokens": [
+        "And Kitty Hawk, Houston.",
+        "We're showing your cabin pressure up to about 57 now."
+      ],
+      "speaker": "Haise",
+      "time": "1031512"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "I see it."
+      ],
+      "speaker": "Roosa",
+      "time": "1031521"
+    },
+    {
+      "tokens": [
+        "Houston, I'm ready for an uplink if you're ready to give it to me?"
+      ],
+      "speaker": "Mitchell",
+      "time": "1031605"
+    },
+    {
+      "tokens": [
+        "Okay, give us P00 and DATA, and we'll start her up."
+      ],
+      "speaker": "Haise",
+      "time": "1031609"
+    },
+    {
+      "tokens": [
+        "You have it."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031620"
+    },
+    {
+      "tokens": [
+        "Roger, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "1031622"
+    },
+    {
+      "tokens": [
+        "Stu, you look good from this side.",
+        "You ready for hatch closure?"
+      ],
+      "speaker": "Mitchell",
+      "time": "1031654"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "I'll be ready in just a little bit."
+      ],
+      "speaker": "Roosa",
+      "time": "1031657"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You want us to stand by?"
+      ],
+      "speaker": "Mitchell",
+      "time": "1031703"
+    },
+    {
+      "tokens": [
+        "No, you can go ahead and close your hatch."
+      ],
+      "speaker": "Roosa",
+      "time": "1031711"
+    },
+    {
+      "tokens": [
+        "Okay, proceeding."
+      ],
+      "speaker": "Mitchell",
+      "time": "1031716"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day5_part1_powering_up_antares.html"
+}

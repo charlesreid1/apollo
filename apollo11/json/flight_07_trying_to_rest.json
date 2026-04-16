@@ -1,0 +1,2205 @@
+{
+  "description": "Trying to Rest",
+  "transcript": [
+    {
+      "tokens": [
+        "(Garbled) read?",
+        "(Pause) A, receive.",
+        "B, off."
+      ],
+      "speaker": "Armstrong",
+      "time": "111:56:08"
+    },
+    {
+      "tokens": [
+        "Neil, this is Houston.",
+        "We seem to be reading you now.",
+        "How do you read us?",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "111:56:25"
+    },
+    {
+      "tokens": [
+        "ICS, push to talk.",
+        "(Pause) Houston, this is Tranquility.",
+        "How do you read?"
+      ],
+      "speaker": "Armstrong",
+      "time": "111:56:32"
+    },
+    {
+      "tokens": [
+        "Tranquility Base, this is Houston.",
+        "Loud and clear.",
+        "How us?"
+      ],
+      "speaker": "McCandless",
+      "time": "111:56:47"
+    },
+    {
+      "tokens": [
+        "Loud and clear.",
+        "We're in the process of switching over to LM Comm here."
+      ],
+      "speaker": "Armstrong",
+      "time": "111:56:53"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "111:56:56"
+    },
+    {
+      "tokens": [
+        "Tranquility Base, this is Houston.",
+        "We'd like to verify your steerable antenna in track mode Slew.",
+        "We're going to do a communications handover here on Earth.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "111:59:41"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's affirmative.",
+        "We're in track mode slew."
+      ],
+      "speaker": "Aldrin",
+      "time": "111:59:55"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Out."
+      ],
+      "speaker": "McCandless",
+      "time": "112:00:00"
+    },
+    {
+      "tokens": [
+        "(Calling at AOS) Houston, Columbia.",
+        "Omni C-Charlie.",
+        "How do you read?"
+      ],
+      "speaker": "Collins",
+      "time": "112:06:00"
+    },
+    {
+      "tokens": [
+        "(Apparently not have heard Mike's call) Columbia.",
+        "Columbia.",
+        "This is Houston.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:06:06"
+    },
+    {
+      "tokens": [
+        "Roger, Columbia on (Omni) C-Charlie.",
+        "How do you read?"
+      ],
+      "speaker": "Collins",
+      "time": "112:06:12"
+    },
+    {
+      "tokens": [
+        "Roger, Columbia.",
+        "This is Houston.",
+        "Reading you loud and clear on Omni Charlie.",
+        "The crew of Tranquility Base is back inside their base, repressurized, and they're in the process of doffing the PLSSs.",
+        "Everything went beautifully.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:06:16"
+    },
+    {
+      "tokens": [
+        "Hallelujah."
+      ],
+      "speaker": "Collins",
+      "time": "112:06:36"
+    },
+    {
+      "tokens": [
+        "And we'd like to get P00 and Accept from you.",
+        "We have a state vector uplink.",
+        "And, after that, we'd like you to re-align your platform to the new REFSMMAT that we sent up a rev or two ago.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:06:38"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand.",
+        "You want a option 1; P52 option 1."
+      ],
+      "speaker": "Collins",
+      "time": "112:06:59"
+    },
+    {
+      "tokens": [
+        "Columbia, this is Houston.",
+        "We're going to uplink you a new state vector, and then we'll send the REFSMMAT up again, because sending the state vector up will wipe out the one that you have on board; and then you can do a P52 option 1.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:08:53"
+    },
+    {
+      "tokens": [
+        "P52."
+      ],
+      "speaker": "Collins",
+      "time": "112:09:11"
+    },
+    {
+      "tokens": [
+        "Columbia, this is Houston.",
+        "Do you read?",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:14:44"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "Columbia's reading you."
+      ],
+      "speaker": "Collins",
+      "time": "112:14:53"
+    },
+    {
+      "tokens": [
+        "Okay, Columbia.",
+        "We've completed the uplink; the computer is yours.",
+        "You can go Block; however, we'd like you to hold off on the P52 option 1 align until after you've passed landing site 2; and we're requesting that you perform another P22 and attempt to find the LM this pass.",
+        "I've got some numbers for you when you're ready to copy.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:14:56"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by.",
+        "(Long Pause) Ready to copy."
+      ],
+      "speaker": "Collins",
+      "time": "112:15:22"
+    },
+    {
+      "tokens": [
+        "Roger, Columbia.",
+        "P22 landmark ID is lunar module...",
+        "(correcting himself) make that Tranquility Base; T1, 112 25 08; T2, 112 30 17, 4 nautical miles south.",
+        "Time of closest approach, 112 31 52; shaft 357.051, trunnion 047.432, roll zero, pitch 250, yaw zero.",
+        "Readback.",
+        "Over.",
+        "(Long Pause)"
+      ],
+      "speaker": "McCandless",
+      "time": "112:15:51"
+    },
+    {
+      "tokens": [
+        "Columbia, this is Houston.",
+        "Did you copy my P22 update?",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:17:06"
+    },
+    {
+      "tokens": [
+        "Houston, Columbia."
+      ],
+      "speaker": "Collins",
+      "time": "112:17:39"
+    },
+    {
+      "tokens": [
+        "Columbia, this is Houston.",
+        "Did you copy my P22 PAD?"
+      ],
+      "speaker": "McCandless",
+      "time": "112:17:45"
+    },
+    {
+      "tokens": [
+        "Columbia, this is Houston.",
+        "Do you copy my PAD?",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:18:03"
+    },
+    {
+      "tokens": [
+        "Negative, Bruce.",
+        "Just give me the latitude and longitude over 2, altitude, and the grid squares.",
+        "Never mind the other.",
+        "You're broken up."
+      ],
+      "speaker": "Collins",
+      "time": "112:18:09"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "McCandless",
+      "time": "112:18:21"
+    },
+    {
+      "tokens": [
+        "Well, that is, if you have new information.",
+        "Otherwise, I'll just use the old numbers."
+      ],
+      "speaker": "Collins",
+      "time": "112:18:30"
+    },
+    {
+      "tokens": [
+        "Tranquility Base, this is Houston.",
+        "Can you give us some idea of how you're progressing on the PLSS doffing and preparation for Depress?"
+      ],
+      "speaker": "McCandless",
+      "time": "112:20:42"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "Tranquility Base.",
+        "We're in the process of using up what (Hasselblad) film we have, and I'm just getting ready to change the primary"
+      ],
+      "speaker": "Aldrin",
+      "time": "112:20:56"
+    },
+    {
+      "tokens": [
+        "Roger, Tranquility.",
+        "We'd like to hold off as long as possible on the lithium hydroxide canister.",
+        "Make that one of the last things you do in getting ready for the Depress, if you can.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:21:14"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're planning on doing that.",
+        "I was just wondering how much longer we want to wait, though.",
+        "We've probably got another half an hour's worth of picture taking, and I guess we could run through an eat cycle and then change the canister, and then Depress.",
+        "Over."
+      ],
+      "speaker": "Aldrin",
+      "time": "112:21:31"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That sounds fine to us."
+      ],
+      "speaker": "McCandless",
+      "time": "112:21:56"
+    },
+    {
+      "tokens": [
+        "Well, it'll be a little crowded in here for a while."
+      ],
+      "speaker": "Aldrin",
+      "time": "112:22:02"
+    },
+    {
+      "tokens": [
+        "Oh, we don't mind a bit!",
+        "(Pause)"
+      ],
+      "speaker": "McCandless",
+      "time": "112:22:06"
+    },
+    {
+      "tokens": [
+        "Houston, Columbia.",
+        "You got the new coordinates?"
+      ],
+      "speaker": "Collins",
+      "time": "112:22:20"
+    },
+    {
+      "tokens": [
+        "Columbia.",
+        "This is Houston.",
+        "Go ahead."
+      ],
+      "speaker": "McCandless",
+      "time": "112:22:27"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Have you got the new coordinates for me?"
+      ],
+      "speaker": "Collins",
+      "time": "112:22:34"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Latitude 00 decimal 691...That would be plus 00.691.",
+        "And longitude over 2 is plus 11.713.",
+        "The altitude is minus 1.44 nautical miles.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:22:37"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you.",
+        "(Long Pause)"
+      ],
+      "speaker": "Collins",
+      "time": "112:23:15"
+    },
+    {
+      "tokens": [
+        "Columbia, this is Houston.",
+        "On latitude, make that plus 00.692, rounding off.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:23:31"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "(Long Pause) Okay.",
+        "I read back plus 00692, plus 11713, and minus 00144.",
+        "And do you have a grid square for me?"
+      ],
+      "speaker": "Collins",
+      "time": "112:23:45"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Standby.",
+        "(Long Pause) Columbia.",
+        "This is Houston.",
+        "Grid coordinates: Kilo 0.9, 6.3, on LAM-2.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:24:10"
+    },
+    {
+      "tokens": [
+        "Kilo 0.9 and 6.3.",
+        "Thank you.",
+        "One of these grid squares is about as much as you can scan on a single pass."
+      ],
+      "speaker": "Collins",
+      "time": "112:24:38"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "(Long Pause)"
+      ],
+      "speaker": "McCandless",
+      "time": "112:24:48"
+    },
+    {
+      "tokens": [
+        "And for your information, Columbia, you're approaching the VHF line-of-site comm limit with Tranquility Base.",
+        "(VHF) LOS will be at (112 hours) 38 minutes plus 25 seconds.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:25:22"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Collins",
+      "time": "112:25:40"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And we've had to disable the one-way MSFN relay owing to a ground-site reconfiguration down here.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:25:42"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Collins",
+      "time": "112:25:53"
+    },
+    {
+      "tokens": [
+        "(Very faint) Houston, Columbia.",
+        "No joy."
+      ],
+      "speaker": "Collins",
+      "time": "112:33:59"
+    },
+    {
+      "tokens": [
+        "This is Houston.",
+        "Go ahead.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:34:06"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I can't see them."
+      ],
+      "speaker": "Collins",
+      "time": "112:34:12"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I guess that takes care of the news for today, Mike."
+      ],
+      "speaker": "McCandless",
+      "time": "112:34:17"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "(Garbled)"
+      ],
+      "speaker": "Collins",
+      "time": "112:34:23"
+    },
+    {
+      "tokens": [
+        "You might be interested in knowing, Mike, that we have gotten reflections back from the laser reflector array they deployed, and we may be able to get some information out of that a little later."
+      ],
+      "speaker": "McCandless",
+      "time": "112:34:29"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "I need a very precise position, because I can only do a decent job of scanning maybe one of those grid squares at a time.",
+        "The area that we've been sweeping (this is, the area covered by the various estimated positions) covers 10's and 20's and 30's of them."
+      ],
+      "speaker": "Collins",
+      "time": "112:34:45"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We understand.",
+        "This is intended to be your last P22.",
+        "We don't want to use up too much fuel in this effort.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:35:00"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "How's the fuel coming?"
+      ],
+      "speaker": "Collins",
+      "time": "112:35:12"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "There's no problem fuel-wise.",
+        "It's just that there seems to be a limit to the number of P22's and the number of grid squares you can search.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:35:18"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Well, I'll continue this maneuver, then, to roll 82, pitch 218, yaw zero, if that's okay with you, and do a P52 in that attitude.",
+        "And that'll be the sleep attitude."
+      ],
+      "speaker": "Collins",
+      "time": "112:35:32"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's fine with us.",
+        "And P52 in that attitude.",
+        "(Pause) Roger.",
+        "A P52 and then the sleep attitude."
+      ],
+      "speaker": "McCandless",
+      "time": "112:35:48"
+    },
+    {
+      "tokens": [
+        "Tranquility Base, this is Houston.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:43:46"
+    },
+    {
+      "tokens": [
+        "Houston, Tranquility Base.",
+        "Go ahead."
+      ],
+      "speaker": "Aldrin",
+      "time": "112:43:52"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "When you all have a free moment, I have your T8 through T12 block data.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:43:55"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by one."
+      ],
+      "speaker": "Aldrin",
+      "time": "112:44:08"
+    },
+    {
+      "tokens": [
+        "Houston, Tranquility Base.",
+        "Ready to copy."
+      ],
+      "speaker": "Aldrin",
+      "time": "112:45:24"
+    },
+    {
+      "tokens": [
+        "Roger, Tranquility.",
+        "T8, 114:30:57; T9, 116:29:10; T10, 118:27:23; T11, 120:25:36; T12, 122:23:49.",
+        "Readback.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:45:29"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "T8, 114:30:57; T9, 116:29:10; T10, 118:27:23; T11, 120:25:36; T12, 122:23:49.",
+        "Over."
+      ],
+      "speaker": "Aldrin",
+      "time": "112:46:14"
+    },
+    {
+      "tokens": [
+        "Readback correct.",
+        "Houston out.",
+        "(Long Pause)"
+      ],
+      "speaker": "McCandless",
+      "time": "112:46:45"
+    },
+    {
+      "tokens": [
+        "Houston, Columbia.",
+        "(No answer; Long Pause) Houston, Columbia..."
+      ],
+      "speaker": "Collins",
+      "time": "112:47:26"
+    },
+    {
+      "tokens": [
+        "Houston, Tranquility Base."
+      ],
+      "speaker": "Armstrong",
+      "time": "112:47:50"
+    },
+    {
+      "tokens": [
+        "...on high gain."
+      ],
+      "speaker": "Collins",
+      "time": "112:47:50"
+    },
+    {
+      "tokens": [
+        "Columbia.",
+        "Columbia.",
+        "This is Houston.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:47:54"
+    },
+    {
+      "tokens": [
+        "Columbia on the high gain."
+      ],
+      "speaker": "Collins",
+      "time": "112:48:04"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Reading you loud and clear on the high gain, Columbia."
+      ],
+      "speaker": "McCandless",
+      "time": "112:48:06"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Maneuvering to P52 attitude.",
+        "You want a crew status report?"
+      ],
+      "speaker": "Collins",
+      "time": "112:48:13"
+    },
+    {
+      "tokens": [
+        "Say again, Columbia?"
+      ],
+      "speaker": "McCandless",
+      "time": "112:48:21"
+    },
+    {
+      "tokens": [
+        "I say again, I am maneuvering to the P52 attitude, and do you want a crew status report?"
+      ],
+      "speaker": "Collins",
+      "time": "112:48:27"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And go ahead with your crew status report."
+      ],
+      "speaker": "McCandless",
+      "time": "112:48:34"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "No medication.",
+        "Radiation 100 point 16."
+      ],
+      "speaker": "Collins",
+      "time": "112:48:40"
+    },
+    {
+      "tokens": [
+        "Houston.",
+        "We copy.",
+        "(Long Pause)"
+      ],
+      "speaker": "McCandless",
+      "time": "112:48:46"
+    },
+    {
+      "tokens": [
+        "Houston, Tranquility Base."
+      ],
+      "speaker": "Armstrong",
+      "time": "112:49:15"
+    },
+    {
+      "tokens": [
+        "Go ahead, Tranquility."
+      ],
+      "speaker": "McCandless",
+      "time": "112:49:17"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "The weight of the RCU was 12 ounces.",
+        "That was by itself without the bag, and the weight of the water from the CDR's PLSS was 12-1/2 ounces.",
+        "(Pause) That's reading zero with the bag on."
+      ],
+      "speaker": "Armstrong",
+      "time": "112:49:23"
+    },
+    {
+      "tokens": [
+        "This is Houston.",
+        "We copy.",
+        "And, for your information, the new LM weight after jettison of equipment including lithium hydroxide canister is 10837.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:49:53"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "10837."
+      ],
+      "speaker": "Armstrong",
+      "time": "112:50:11"
+    },
+    {
+      "tokens": [
+        "Houston, Columbia.",
+        "Did you copy the P52?",
+        "(Pause)"
+      ],
+      "speaker": "Collins",
+      "time": "112:53:16"
+    },
+    {
+      "tokens": [
+        "Columbia, this is Houston.",
+        "Affirmative."
+      ],
+      "speaker": "McCandless",
+      "time": "112:53:30"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Collins",
+      "time": "112:53:39"
+    },
+    {
+      "tokens": [
+        "Tranquility Base, this is Houston.",
+        "In the flight plan configuration, we show that the stability-control circuit breaker ATCA (Attitude and Translation Control Assembly) on panel 16 should be open at this time.",
+        "Over.",
+        "(Pause)"
+      ],
+      "speaker": "McCandless",
+      "time": "112:55:05"
+    },
+    {
+      "tokens": [
+        "Houston, Tranquility.",
+        "Say again which one should be closed?"
+      ],
+      "speaker": "Aldrin",
+      "time": "112:55:49"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Panel 16, row 2, Stab control ATCA, that is A-T-C-A, and it should be open at this time.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:55:54"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Coming open."
+      ],
+      "speaker": "Aldrin",
+      "time": "112:56:06"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Out.",
+        "(Pause)"
+      ],
+      "speaker": "McCandless",
+      "time": "112:56:12"
+    },
+    {
+      "tokens": [
+        "Houston, Tranquility.",
+        "Do you have a way of showing the configuration of the engine arm circuit breaker?",
+        "Over.",
+        "(Pause) The reason I'm asking is because the end of it appears to be broken off.",
+        "I think we can push it back in again.",
+        "I'm not sure we could pull it out if we pushed it in, though.",
+        "Over."
+      ],
+      "speaker": "Aldrin",
+      "time": "112:56:28"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy.",
+        "Stand by please.",
+        "(Long Pause)"
+      ],
+      "speaker": "McCandless",
+      "time": "112:56:56"
+    },
+    {
+      "tokens": [
+        "Tranquility Base, this is Houston.",
+        "Our telemetry shows the engine arm circuit breaker in the Open position at the present time.",
+        "We want you to leave it open until it is nominally scheduled to be pushed in; which is later on.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "112:57:23"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Aldrin",
+      "time": "112:57:41"
+    },
+    {
+      "tokens": [
+        "Houston, Tranquility Base.",
+        "The CDR's"
+      ],
+      "speaker": "Armstrong",
+      "time": "112:59:39"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "11014 for the CDR."
+      ],
+      "speaker": "McCandless",
+      "time": "112:59:51"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "LMP reads 09018.",
+        "Over."
+      ],
+      "speaker": "Aldrin",
+      "time": "113:00:01"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "09018."
+      ],
+      "speaker": "McCandless",
+      "time": "113:00:06"
+    },
+    {
+      "tokens": [
+        "Houston, Columbia.",
+        "Over."
+      ],
+      "speaker": "Collins",
+      "time": "113:04:39"
+    },
+    {
+      "tokens": [
+        "Columbia, this is Houston.",
+        "Go ahead."
+      ],
+      "speaker": "McCandless",
+      "time": "113:04:43"
+    },
+    {
+      "tokens": [
+        "Roger, Bruce.",
+        "When you get a few minutes could you give me some words on tomorrow's activities; (that is), when they're going to start?"
+      ],
+      "speaker": "Collins",
+      "time": "113:04:48"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "113:04:57"
+    },
+    {
+      "tokens": [
+        "Columbia.",
+        "Columbia.",
+        "This is Houston.",
+        "Over.",
+        "(Pause) Columbia, this is Houston.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "113:11:45"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Collins",
+      "time": "113:12:03"
+    },
+    {
+      "tokens": [
+        "Roger, Mike.",
+        "Couple of quick flight plan updates here.",
+        "First off, we'd like to get an O fuel cell purge at time 113:30.",
+        "Are you copying?",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "113:12:05"
+    },
+    {
+      "tokens": [
+        "Rog; I'm copying."
+      ],
+      "speaker": "Collins",
+      "time": "113:12:23"
+    },
+    {
+      "tokens": [
+        "Secondly, we will return to the nominal timeline with your scheduled wake-up of 121 hours and 12 minutes.",
+        "We sort of slipped by lithium hydroxide canister change number 9 during the EVA and EVA Prep.",
+        "We'd like you to accomplish that now.",
+        "The Comm for sleep will be the normal lunar Comm configuration.",
+        "(For) the RCS configuration, we're requesting you use quads Alpha and Bravo.",
+        "A DAP data load for R2 should be 01111.",
+        "Readback.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "113:12:26"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Oxygen fuel cell purge at 113:30.",
+        "Return to the nominal timeline at 121 hours wake-up.",
+        "Lithium hydroxide change number 9 right now.",
+        "Normal lunar comm sleep configuration, I'm in that now.",
+        "On the RCS, I understood before (that) you wanted to load the DAP register to 01100 which made sense on panel eight to pitch only on quad A, enable all on quad B, and C and D off.",
+        "But you don't want to do that any more, huh?",
+        "(No immediate answer)"
+      ],
+      "speaker": "Collins",
+      "time": "113:13:28"
+    },
+    {
+      "tokens": [
+        "Columbia; this is Houston.",
+        "On your DAP load in R2, we're requesting a zero and four ones; that is 01111.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "113:15:20"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "(Pause)"
+      ],
+      "speaker": "Collins",
+      "time": "113:15:34"
+    },
+    {
+      "tokens": [
+        "And you'll..."
+      ],
+      "speaker": "McCandless",
+      "time": "113:15:38"
+    },
+    {
+      "tokens": [
+        "Load's going in right now."
+      ],
+      "speaker": "Collins",
+      "time": "113:15:39"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And you'll be enabling quads Alpha and Bravo on the Auto RCS select switches.",
+        "Disable Charlie and Delta."
+      ],
+      "speaker": "McCandless",
+      "time": "113:15:41"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "(Pause)"
+      ],
+      "speaker": "Collins",
+      "time": "113:15:51"
+    },
+    {
+      "tokens": [
+        "And we have a little less than 2 minutes to LOS.",
+        "If you're still up, AOS next time around will be 114:04.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "113:15:59"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "(Pause)"
+      ],
+      "speaker": "Collins",
+      "time": "113:16:18"
+    },
+    {
+      "tokens": [
+        "And, Columbia, if it's agreeable with you, we'd like you to stay awake until we have one successful re-acquisition on the high-gain antenna.",
+        "And I guess you can plan on turning in shortly after AOS on this next pass.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "113:16:27"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Collins",
+      "time": "113:16:47"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Out.",
+        "(Long Pause) Tranquility Base.",
+        "Tranquility Base.",
+        "This is Houston.",
+        "Radio check.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "113:16:49"
+    },
+    {
+      "tokens": [
+        "Go ahead.",
+        "Houston."
+      ],
+      "speaker": "Armstrong",
+      "time": "113:17:42"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Reading you loud and clear.",
+        "Just wanted to make sure we still had Comm."
+      ],
+      "speaker": "McCandless",
+      "time": "113:17:44"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We just finished up...We're just finishing up our eat period.",
+        "Be ready to go back into Prep for Depress."
+      ],
+      "speaker": "Armstrong",
+      "time": "113:17:52"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "113:17:59"
+    },
+    {
+      "tokens": [
+        "Tranquility Base, this is Houston.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "113:46:23"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead, Houston."
+      ],
+      "speaker": "Armstrong",
+      "time": "113:46:29"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "On your next depressurization, it's acceptable to use the overhead hatch"
+      ],
+      "speaker": "McCandless",
+      "time": "113:46:32"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "(Pause)"
+      ],
+      "speaker": "Armstrong",
+      "time": "113:47:04"
+    },
+    {
+      "tokens": [
+        "You've got the"
+      ],
+      "speaker": "Aldrin",
+      "time": "113:47:19"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Your T13 time (the planned lift-off) is 124:22:02.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "113:47:22"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "T13, 124:22...Is that 'zero two'?",
+        "Over."
+      ],
+      "speaker": "Aldrin",
+      "time": "113:47:40"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "That is zero two.",
+        "And do you have a time estimate for us until you're ready to start cabin Depress?",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "113:47:49"
+    },
+    {
+      "tokens": [
+        "Fifteen minutes, maybe?"
+      ],
+      "speaker": "Aldrin",
+      "time": "113:48:05"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "113:48:10"
+    },
+    {
+      "tokens": [
+        "Tranquility Base, this is Houston.",
+        "Uplink complete.",
+        "The computer's yours, and you can go out of Data."
+      ],
+      "speaker": "McCandless",
+      "time": "113:50:30"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Armstrong",
+      "time": "113:50:39"
+    },
+    {
+      "tokens": [
+        "Tranquility Base, Houston."
+      ],
+      "speaker": "Slayton",
+      "time": "113:59:50"
+    },
+    {
+      "tokens": [
+        "Go ahead.",
+        "Tranquility Base, here."
+      ],
+      "speaker": "Armstrong",
+      "time": "113:59:59"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Just want to let you guys know that, since you're an hour and a half over your timeline and we're all taking a day off tomorrow, we're going to leave you.",
+        "See you later."
+      ],
+      "speaker": "Slayton",
+      "time": "114:00:02"
+    },
+    {
+      "tokens": [
+        "I don't blame you a bit."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:00:13"
+    },
+    {
+      "tokens": [
+        "That's a real great day, guys.",
+        "I really enjoyed it."
+      ],
+      "speaker": "Slayton",
+      "time": "114:00:16"
+    },
+    {
+      "tokens": [
+        "Thank you.",
+        "You couldn't have enjoyed it as much as we did."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:00:23"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Slayton",
+      "time": "114:00:26"
+    },
+    {
+      "tokens": [
+        "It was great."
+      ],
+      "speaker": "Aldrin",
+      "time": "114:00:28"
+    },
+    {
+      "tokens": [
+        "Sure wish you'd hurry up and get that trash out of there, though."
+      ],
+      "speaker": "Slayton",
+      "time": "114:00:30"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "We're just about to do it."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:00:34"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Slayton",
+      "time": "114:00:36"
+    },
+    {
+      "tokens": [
+        "Tranquility Base, this is Houston.",
+        "We show the suit relief valve still in the Auto position.",
+        "It should be closed.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "114:03:34"
+    },
+    {
+      "tokens": [
+        "Columbia, this is Houston.",
+        "Over.",
+        "(Long Pause)"
+      ],
+      "speaker": "McCandless",
+      "time": "114:05:19"
+    },
+    {
+      "tokens": [
+        "Houston, Columbia.",
+        "Go ahead."
+      ],
+      "speaker": "Collins",
+      "time": "114:05:33"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We've successfully re-acquired high-gain antenna.",
+        "Unless you have some other traffic with us, I guess we'll bid you a good night and let you get some sleep, Mike.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "114:05:35"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Sounds fine."
+      ],
+      "speaker": "Collins",
+      "time": "114:05:48"
+    },
+    {
+      "tokens": [
+        "And we're going to power down the voice subcarrier part of our uplink to you in order that we don't disturb you while we're talking to Tranquility Base.",
+        "If you need us, just give us a call, and we can respond with a time lag of about a minute to a minute and a half in getting reconfigured.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "114:05:50"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Collins",
+      "time": "114:06:13"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And good night."
+      ],
+      "speaker": "McCandless",
+      "time": "114:06:15"
+    },
+    {
+      "tokens": [
+        "Good night, Bruce.",
+        "Thanks a lot."
+      ],
+      "speaker": "Collins",
+      "time": "114:06:20"
+    },
+    {
+      "tokens": [
+        "Columbia, Columbia, this is Houston.",
+        "We'd like you to Enable the thrusters in Bravo 1 and Bravo 2, Auto RCS Select.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "114:09:23"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Bravo 1 and Bravo 2 Enable."
+      ],
+      "speaker": "Collins",
+      "time": "114:09:46"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Out.",
+        "(Long Pause; LM pressure starts toward zero) Tranquility, this is Houston.",
+        "For a reference, which"
+      ],
+      "speaker": "McCandless",
+      "time": "114:09:49"
+    },
+    {
+      "tokens": [
+        "We used the forward dump valve until about 2 psi, and we're using the overhead now."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:10:28"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Out."
+      ],
+      "speaker": "McCandless",
+      "time": "114:10:34"
+    },
+    {
+      "tokens": [
+        "They're both open now."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:10:37"
+    },
+    {
+      "tokens": [
+        "Houston, Tranquility Base.",
+        "Repress complete."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:18:27"
+    },
+    {
+      "tokens": [
+        "Roger, Tranquility.",
+        "We observed your equipment jettison on the TV, and the passive seismic experiment recorded shocks when each PLSS hit the surface.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "114:18:31"
+    },
+    {
+      "tokens": [
+        "(Joking) You can't get away with anything anymore, can you?"
+      ],
+      "speaker": "Armstrong",
+      "time": "114:18:47"
+    },
+    {
+      "tokens": [
+        "No, indeed."
+      ],
+      "speaker": "McCandless",
+      "time": "114:18:51"
+    },
+    {
+      "tokens": [
+        "Tranquility Base, this is Houston.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "114:21:28"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:21:34"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "When you get back into your surface checklist and come over to the Comm reconfiguration on page Surface-45, we'd like you to enable the ranging feature on your S-band.",
+        "That is, when you come down to S-band configuration, instead of \"Caution-and-Warning Electronics, Enable TV\", we'd like you to go into the Range position and leave it there for as long as you conveniently can until you get ready to commence your rest period; and we'll try to get a little more ranging data on you.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "114:21:36"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:22:20"
+    },
+    {
+      "tokens": [
+        "And of course, when you get ready to turn in, go back into Caution-and-Warning, Enable and we'd like to say from all of us down here in Houston and really from all of us in all the countries in the entire world, we think that you've done a magnificent job up there today.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "114:22:23"
+    },
+    {
+      "tokens": [
+        "Thank you very much."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:22:46"
+    },
+    {
+      "tokens": [
+        "It's been a long day."
+      ],
+      "speaker": "Aldrin",
+      "time": "114:22:48"
+    },
+    {
+      "tokens": [
+        "Yes, indeed.",
+        "Get some rest there and have at it tomorrow."
+      ],
+      "speaker": "McCandless",
+      "time": "114:22:51"
+    },
+    {
+      "tokens": [
+        "Houston, Tranquility.",
+        "Did you all come up with any other solution that we might try to the mission timer problem?",
+        "Over."
+      ],
+      "speaker": "Aldrin",
+      "time": "114:24:06"
+    },
+    {
+      "tokens": [
+        "Stand by, Tranquility.",
+        "We'll be back with you in just a minute.",
+        "(Long Pause)"
+      ],
+      "speaker": "McCandless",
+      "time": "114:24:27"
+    },
+    {
+      "tokens": [
+        "And, Houston, Tranquility.",
+        "Have you had enough TV for today?"
+      ],
+      "speaker": "Aldrin",
+      "time": "114:25:29"
+    },
+    {
+      "tokens": [
+        "Tranquility, this is Houston.",
+        "Yes, indeed.",
+        "It's been a mighty fine presentation there."
+      ],
+      "speaker": "McCandless",
+      "time": "114:25:37"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Signing off.",
+        "See you again tomorrow."
+      ],
+      "speaker": "Aldrin",
+      "time": "114:25:43"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "114:25:46"
+    },
+    {
+      "tokens": [
+        "Columbia.",
+        "Columbia.",
+        "This is Houston.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "114:26:53"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Collins",
+      "time": "114:27:00"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Sorry to bother you, Columbia.",
+        "Two things: we request that you select 10-degrees deadband in your DAP in accordance with the procedures on Foxtrot 9-7 in your checklist; and secondly, we'd like to leave a display on the"
+      ],
+      "speaker": "McCandless",
+      "time": "114:27:02"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Collins",
+      "time": "114:27:41"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Goodnight again.",
+        "(Long Pause) Tranquility Base, this is Houston.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "114:27:42"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead."
+      ],
+      "speaker": "Aldrin",
+      "time": "114:28:16"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "On your mission timer, we wanted to pull the circuit breaker and let it cool down for an hour and a half to 2 hours.",
+        "I believe the breaker is currently open.",
+        "It has been off, so go ahead and reset the mission timer circuit breaker.",
+        "Put the timer control to Reset and hold it in Reset for three-zero (30) seconds, and then slew it to your desired settings left to right, and place the timer control to Start.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "114:28:19"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll try it.",
+        "(Long Pause)"
+      ],
+      "speaker": "Aldrin",
+      "time": "114:29:04"
+    },
+    {
+      "tokens": [
+        "Houston, our mission timer seems to be slewing okay.",
+        "You want to give us a time hack?",
+        "Or can we get it off the CMC (Command Module Computer)...(correcting himself) LGC (Lunar Module Guidance Computer), I mean?",
+        "(Pause)"
+      ],
+      "speaker": "Armstrong",
+      "time": "114:29:55"
+    },
+    {
+      "tokens": [
+        "Roger, Tranquility.",
+        "I'll give you a time hack at 114:31:00.",
+        "It's about 30 seconds from now.",
+        "Over.",
+        "(Long Pause) Stand by for a mark..."
+      ],
+      "speaker": "McCandless",
+      "time": "114:30:23"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "(Garbled)"
+      ],
+      "speaker": "Armstrong",
+      "time": "114:30:52"
+    },
+    {
+      "tokens": [
+        "...at 114:31.",
+        "(Pause) Stand by.",
+        "(Pause) Mark.",
+        "(Pause) Tranquility, this is Houston.",
+        "Did you copy my Mark at 114:31?"
+      ],
+      "speaker": "McCandless",
+      "time": "114:30:52"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you, and our mission timer is running now."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:31:22"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Very good.",
+        "And, I've got a consumables update for you if you're ready to copy or listen.",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "114:31:27"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "(Pause)"
+      ],
+      "speaker": "Armstrong",
+      "time": "114:31:38"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead (with the consumables update)."
+      ],
+      "speaker": "Aldrin",
+      "time": "114:31:43"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "RCS (Reaction Control System, the steering jets) Alpha is 81 percent; RCS Bravo, 75 percent.",
+        "Coming up on 115 hours GET, descent oxygen is 31.8 pounds or 59 percent; descent amp hours 858 (remaining), and ascent amp hours 574.",
+        "Over.",
+        "(Pause)"
+      ],
+      "speaker": "McCandless",
+      "time": "114:31:45"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "Thank you very much."
+      ],
+      "speaker": "Aldrin",
+      "time": "114:32:28"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Out.",
+        "(Long Pause) Tranquility, this is Houston.",
+        "We also have a set of about 10 questions relating to observations you made, things you may have seen during the EVA.",
+        "You can either discuss a little later on this evening or sometime later in the mission at your option.",
+        "How do you feel?",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "114:32:32"
+    },
+    {
+      "tokens": [
+        "I guess we can take a couple of them up now."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:33:35"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And your friendly Green Team here has pretty well been relieved by your friendly Maroon Team, and I'll put Owen on with the questions.",
+        "(Pause)"
+      ],
+      "speaker": "McCandless",
+      "time": "114:33:39"
+    },
+    {
+      "tokens": [
+        "Tranquility..."
+      ],
+      "speaker": "Garriott",
+      "time": "114:33:52"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you, Bruce.",
+        "If you...(Listens) Go ahead."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:33:53"
+    },
+    {
+      "tokens": [
+        "Tranquility, Houston.",
+        "First question here is how your best estimate of the yaw of the LM as compared to the nominal pre-flight plan.",
+        "Over."
+      ],
+      "speaker": "Garriott",
+      "time": "114:33:59"
+    },
+    {
+      "tokens": [
+        "(Sounding congested) We're yawed 13 degrees left on the ball, and I think that's probably about right.",
+        "Looking at the shadow and so on, we're probably about 13 degrees left of the shadow."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:34:16"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's 13 degrees left of the shadow."
+      ],
+      "speaker": "Garriott",
+      "time": "114:34:31"
+    },
+    {
+      "tokens": [
+        "And, next question relates to the depth of the bulk sampling that you obtained near the first part of the EVA and any changes in composition that you might have observed during the bulk sampling interval.",
+        "Over."
+      ],
+      "speaker": "Garriott",
+      "time": "114:34:35"
+    },
+    {
+      "tokens": [
+        "I'm not sure I understand that question, but we got a good bit of the ground mass in the bulk sample plus a sizable number of selected rock fragments of different types.",
+        "(Pause)"
+      ],
+      "speaker": "Armstrong",
+      "time": "114:35:02"
+    },
+    {
+      "tokens": [
+        "Roger, Neil.",
+        "One of the implications here is the depth from which the bulk sample was collected.",
+        "Did you manage to get down there several inches or nearer the surface?",
+        "Over."
+      ],
+      "speaker": "Garriott",
+      "time": "114:35:22"
+    },
+    {
+      "tokens": [
+        "We've got some down from as much as 3 inches.",
+        "In the area where I was looking at variation with depth in the bulk sample, there really wasn't appreciable difference, and I didn't run into any hard pan.",
+        "Later on, or at some other times and other areas, why, I'd get down just a short distance, an inch or two, and couldn't go any further."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:35:37"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Believe we understand down as deep as 3 inches, did not hit any hard bed, and no significant changes in composition to that depth.",
+        "Next question.",
+        "The second SRC was packed rather hurriedly due to the time limitation, and wonder if you would be able to provide any more detailed description of the samples which were included in the second SRC.",
+        "Over."
+      ],
+      "speaker": "Garriott",
+      "time": "114:36:06"
+    },
+    {
+      "tokens": [
+        "We got two core tubes and the solar wind and about half of a big sample bag full of assorted rocks which I picked up hurriedly from around the area.",
+        "I tried to get as many representative types as I could."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:36:40"
+    },
+    {
+      "tokens": [
+        "Roger, Neil.",
+        "Next topic here relates to the rays which emanate from the DPS (Descent Propulsion System) engine burning area.",
+        "We're wondering if the rays emanating from beneath the engine are any darker or lighter than the surrounding surface.",
+        "Over.",
+        "(Pause)"
+      ],
+      "speaker": "Garriott",
+      "time": "114:37:09"
+    },
+    {
+      "tokens": [
+        "The ones that I saw back in the aft end of the spacecraft appeared to be a good bit darker.",
+        "Of course, as viewed from the aft end, why, they did have the Sun shining directly on them.",
+        "It seemed as though the material had been baked somewhat and also scattered in a radially-outward direction, but in that particular area, this feature didn't extend more than about 2, maybe 3 feet, from the skirt of the engine.",
+        "Over."
+      ],
+      "speaker": "Aldrin",
+      "time": "114:37:42"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand that near the aft end - out to the east - that the rays did appear darker.",
+        "I understand, Buzz, that these were...",
+        "(that) this was the appearance of the material which had been uncovered by the rays that appeared darker for 2 or 3 feet extending outward.",
+        "Is that correct?"
+      ],
+      "speaker": "Garriott",
+      "time": "114:38:24"
+    },
+    {
+      "tokens": [
+        "No.",
+        "I wouldn't say it was necessarily material that had been uncovered.",
+        "I think some of the material might have been baked or in some way caused to be more cohesive and perhaps flow together in some way.",
+        "I don't know.",
+        "Now, in other areas, before we started trampling around out front, why, we could see that (some) small erosion had taken place in a radially-outward direction; but it had left no significant mark on the surface other than just having eroded it away.",
+        "Now, it was different right under the skirt itself.",
+        "It seems as though the surface had been baked in a streak fashion, and I think a couple of pictures on film will show this.",
+        "But that didn't extend out very far.",
+        "Over."
+      ],
+      "speaker": "Aldrin",
+      "time": "114:38:49"
+    },
+    {
+      "tokens": [
+        "Roger, Tranquility.",
+        "And this baked appearance that you described, at least the suggestion is that it was due to the heat of the engine at any rate.",
+        "Next subject, did..."
+      ],
+      "speaker": "Garriott",
+      "time": "114:39:48"
+    },
+    {
+      "tokens": [
+        "I believe so."
+      ],
+      "speaker": "Aldrin",
+      "time": "114:40:01"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Next subject, did either of the solar panels on the PSE touch the surface of the Moon during deployment?",
+        "Over."
+      ],
+      "speaker": "Garriott",
+      "time": "114:40:02"
+    },
+    {
+      "tokens": [
+        "I think that two corners did touch since, when it was deployed, both of them didn't come out at the same time.",
+        "It unfolded a little unevenly, and of course, the terrain that it was on was a little bit...(was) not quite as level as I would like to have it.",
+        "And I think that two corners did touch to about 1 inch, no, three-quarters to a half an inch deep; and maybe along the bottom, it might have been maybe 3 inches, leaving a small triangular coating on two of the corners; and I think these are on the western ones.",
+        "Over."
+      ],
+      "speaker": "Aldrin",
+      "time": "114:40:19"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand the description there.",
+        "And the next subject, on the two core tubes which you collected, how did the driving force required to collect these tubes compare?",
+        "Was there any difference?",
+        "Over"
+      ],
+      "speaker": "Garriott",
+      "time": "114:41:06"
+    },
+    {
+      "tokens": [
+        "Not significantly.",
+        "I could get down about the first 2 inches without much of a problem, and then as I would pound it in about as hard as I could do it, and the second one took two hands on the hammer, and I was putting pretty good dents in the top of the extension rod, and it just wouldn't go much more than...",
+        "I think the total depth might have been about 8 or 9 inches.",
+        "But even there, for some reason it didn't seem to want to stand up straight.",
+        "In other words, I'd keep driving it in and it would dig some sort of a hole but it just wouldn't penetrate in a way that would support it and keep it from falling over, if that makes any sense at all.",
+        "It didn't really to me.",
+        "Over."
+      ],
+      "speaker": "Aldrin",
+      "time": "114:41:27"
+    },
+    {
+      "tokens": [
+        "Roger, Buzz.",
+        "I think I've got the picture.",
+        "You indicate that (there was) little difference between the two samples and that in each case you got down about 2 inches without any problems and then had to continue hammering rather vigorously in order to continue driving it in to a total depth of 8 or 9 inches, and even at that point the rods did not want to stay vertical, that they'd tend to fall over on you even after pounding in that far.",
+        "Is that correct?"
+      ],
+      "speaker": "Garriott",
+      "time": "114:42:22"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "That's about it.",
+        "It wasn't a rapid change in resistive force.",
+        "And, also, I noticed when I took the bit off that the material was quite well packed, a good bit darker, and the way it adhered to the core tube gave me the distinct impression of being moist.",
+        "Over."
+      ],
+      "speaker": "Aldrin",
+      "time": "114:42:59"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand the general impression of being moist as it packed in the core tube.",
+        "Next question: we did copy your comments prior to the EVA of your general description of the area.",
+        "We wonder if either of you would have any more lengthy description or more detailed description of the general summary of the geology of the area.",
+        "Over."
+      ],
+      "speaker": "Garriott",
+      "time": "114:43:23"
+    },
+    {
+      "tokens": [
+        "Yeah, let's...We'll postpone our answer to that one until tomorrow.",
+        "Okay?"
+      ],
+      "speaker": "Armstrong",
+      "time": "114:44:01"
+    },
+    {
+      "tokens": [
+        "Yes, indeed.",
+        "That'll be fine."
+      ],
+      "speaker": "Garriott",
+      "time": "114:44:08"
+    },
+    {
+      "tokens": [
+        "Just a couple more here, and I think these may not be quite as lengthy as number 7 there.",
+        "Can you estimate the stroke of the primary and secondary struts?",
+        "Over."
+      ],
+      "speaker": "Garriott",
+      "time": "114:44:10"
+    },
+    {
+      "tokens": [
+        "Well, I can do it like this, Owen.",
+        "About all the struts are about equally stroked, and the height from the ground to the first step is about 3 feet or maybe 3 and 1/2 feet, huh?"
+      ],
+      "speaker": "Armstrong",
+      "time": "114:44:31"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand, Neil.",
+        "Next topic.",
+        "Just after landing, you pointed out that there was a hill to the west along the"
+      ],
+      "speaker": "Garriott",
+      "time": "114:44:52"
+    },
+    {
+      "tokens": [
+        "No.",
+        "I don't believe so.",
+        "I think that it's about as level as any other areas that we chose."
+      ],
+      "speaker": "Aldrin",
+      "time": "114:45:32"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I..."
+      ],
+      "speaker": "Garriott",
+      "time": "114:45:46"
+    },
+    {
+      "tokens": [
+        "There's nothing large, anyway, that's going to get in the way."
+      ],
+      "speaker": "Aldrin",
+      "time": "114:45:47"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "That's also the way it appeared from the television, I think.",
+        "And now the final question.",
+        "You commented, Neil, that on your approach to the landing spot, you had passed over a football-field-sized crater containing rather large blocks of solid rock perhaps 10 to 15 feet in size.",
+        "Can you estimate the distance to this football(-field)-sized crater from your present position?",
+        "Over."
+      ],
+      "speaker": "Garriott",
+      "time": "114:45:50"
+    },
+    {
+      "tokens": [
+        "I thought we'd be close enough so that when we got outside we could see it's rim back there; but I couldn't.",
+        "But I don't think we're more than a half mile beyond it.",
+        "That is, a half mile west of it."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:46:25"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "So you estimate your present position less than half a mile approximately west of this large crater.",
+        "Over."
+      ],
+      "speaker": "Garriott",
+      "time": "114:46:45"
+    },
+    {
+      "tokens": [
+        "That's correct."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:46:56"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, that takes care of the questions from our geologists for tonight, and unless you have something else, that'll be all from us for the evening.",
+        "Over."
+      ],
+      "speaker": "Garriott",
+      "time": "114:46:58"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:47:12"
+    },
+    {
+      "tokens": [
+        "Tranquility Base, Houston.",
+        "We've now collected all the ranging data that we can use, and you can go back to Caution-and-Warning, Enable.",
+        "Over."
+      ],
+      "speaker": "Garriott",
+      "time": "114:49:01"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Will do."
+      ],
+      "speaker": "Aldrin",
+      "time": "114:49:14"
+    },
+    {
+      "tokens": [
+        "Tranquility Base, Houston.",
+        "Over.",
+        "(Pause)"
+      ],
+      "speaker": "Garriott",
+      "time": "114:52:18"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:52:27"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Two more verifications, here.",
+        "Will you verify that the disk with messages was placed on the surface as planned, and also that the items listed in the flight plan - all of those listed there - were jettisoned.",
+        "Over."
+      ],
+      "speaker": "Garriott",
+      "time": "114:52:28"
+    },
+    {
+      "tokens": [
+        "All that's verified."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:52:48"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you, and I hope this will be a final good night."
+      ],
+      "speaker": "Garriott",
+      "time": "114:52:51"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Armstrong",
+      "time": "114:52:57"
+    }
+  ],
+  "source_file": "flight_07_trying_to_rest.html"
+}

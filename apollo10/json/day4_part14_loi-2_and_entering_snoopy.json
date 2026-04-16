@@ -1,0 +1,2984 @@
+{
+  "description": "Apollo 10 Flight Journal - Day 4, part 14: LOI-2 and entering 'Snoopy'",
+  "transcript": [
+    {
+      "tokens": [
+        "Having successfully entered lunar orbit by performing the LOI-1 manoeuvre, the crew are now beginning their lunar observation activities and preparations for the LOI-2 SPS burn to circularise the orbit of the joint spacecraft.",
+        "Further TV transmissions are planned as they prepare to enter the Lunar Module Snoopy to transfer some equipment from the Command ModuleCharlie Brownand make an initial inspection of the LM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-42."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-41a- Graphic."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The High Bit Rate switch referred to is the PCM (Pulse Code Modulation) Bit Rate switch on panel 3.",
+        "The crew are setting it to High to record the PCM telemetry on the DSE equipment with the tape running at 15 ips (38 cm/s) during the LOI-2 burn.",
+        "This data can then be replayed and downloaded to Earth once they are back in communication."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is referring to the Delta-VC132.5 fps (40.4 m/s) value that is entered into the Delta-V display of the EMS (Entry Monitor System) panel for the upcoming LOI-2 burn.",
+        "This figure will descend to zero as the engine burns.",
+        "If the Guidance and Control System fails to stop the burn, the EMS will do so but it has to be given a low Delta-V figure to take account of the engine's tail-off thrust after shutdown."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is concerned about the amount of SM RCS propellant that will be expended during the LOI-2 RCS ullage burn.",
+        "The ullage burn will ensure the SPS propellants are at the right end of their tanks to ensure that as soon as the propellant valves are opened, fuel and oxidizer will flow cleanly to the SPS engine.",
+        "As a significant amount of propellant was expended during the LOI-1 burn, the tanks are therefore emptier and due to the large spacecraft mass (CSM & LM combination) the ullage burn duration is significant to provide the desired deceleration to position the propellants."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Following the rendezvous and docking, Young feels they will have a better idea of how the RCS propellant budget is holding up, as there will only be the TEI burn ullage and TEC mid-course correction usage of the RCS remaining.",
+        "The rendezvous was the big unknown regarding RCS propellant usage, Apollo 10 was tasked to establish true flight data in preparation for the upcoming lunar landing missions."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is questioning how well the SM RCS will be able to hold the combined spacecraft in the prescribed attitude deadband, now that the CSM mass has been dramatically reduced by the expenditure of a large proportion of the SPS propellant during the LOI-1 burn.",
+        "The LM mass remains essentially the same as it was at the time of that burn, and hence the centre of mass will have shifted significantly."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young, who has been constantly using the optics subsystem for landmark tracking and onboard IMU alignments, is having problems with dark adaptation, going from a reasonably bright cabin to the low light of the telescope.",
+        "Also he noted (in the Apollo 10 Technical Crew Debrief) problems with the illumination of the reticle scale in the telescope.]"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young, from the1969 Technical debrief:\"The rheostat-dimmer switch on the AOT went from no light to a very, very dim light, most of the time it was not adequate to really mark a star.",
+        "The problem did not appear to be an electrical problem: it was a physical problem.",
+        "The rheostat control knob would fall forward physically when you came up from the dim position toward the bright position.",
+        "When you hit the point about half way between, the knob would just roll forward on its own.",
+        "So, it was a mechanical problem.",
+        "In spite of this, actually the alignments went very well.",
+        "The accuracy of the alignments, the star check, and other aspects were very, very good.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Note that Young uses the term 'AOT' which stands for Alignment Optical Telescope.",
+        "However, this term really applies to the optical instrument in the LM.",
+        "The CM optics are called the Sextant and the Scanning Telescope.",
+        "In the same debriefing, Young commented on contamination on the optics.]"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young, from the1969 Technical debrief:\"The AOT was really sort of dirty.",
+        "On the AOT within the star line-of-sight region, there were 3 or 4 hairs that were clearly visible anywhere from a quarter of the way out from the center, to all the way out to the end.",
+        "One thing that disturbed me greatly was that within about 10 per cent of the crosshair center, the light transmission was severely reduced.",
+        "It was reduced as much as 60 or 70 per cent in the plus-Y axis.",
+        "Around the other 3 axes, it was down about 50 per cent.",
+        "I didn't understand why, but when you went through a certain area on a plus-Y axis you'd literally lose the whole star.",
+        "I was led to believe that this was a simulator problem not the real world.",
+        "But you didn't lose it instantaneously; it just faded out as if there were a haze area or a possibly dirty area near the crosshairs.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "His problems with dark adaptation have left John Young with a headache.",
+        "He will soon take an aspirin to alleviate the discomfort."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The sextant star stipulated by MCC-H is star 16, Procyon."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is giving Young the sextant shaft and trunnion angles, 220.5° and 23.2° respectively, which will bring the star into view."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young had had problems locating the sextant check star Procyon.",
+        "However he is not too concerned as this sighting is a backup check of the spacecraft's attitude prior to the LOI-2 burn and he is confident that it is correct as they had just realigned the guidance platform."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The fans that stir the cryogenic tanks have been manually turned on.",
+        "This is planned to be done periodically to prevent stratification of the tanks' contents."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The SCS breakers are the four SCS Logic Bus circuit breakers on panel 8 which supply 28 VDC power over the main power buses A & B to the SCS logic (command) buses (circuits).",
+        "These logic buses were used to send commands to the RCS, TVC (Thrust Vector Control) gimbals to steer the SPS engine, the Flight Director/Attitude Indicator (FDAI) display and the Body Mounted Attitude Gyros (BMAGs), if SCS control is required."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The twelve SPS circuit consist of:SPS Gauging MnA & MnB- Applies DC power to the following propellant utilization and gauging subsystem control unit circuits: 1.",
+        "Self-test.",
+        "2.",
+        "Primary power supply only when SPS engine ignition driver relay is energized.SPS Gauging AC1 & AC2- Applies power from AC bus No.1 to AC1 & No.2 to AC2 settings of SPS Gauging switch on panel 4.",
+        "This is a 3 position switch which controls application of AC power to the propellant quantity utilization and gauging control unit.",
+        "Power for the control unit self-test circuitry is applied direct by this switch.",
+        "Power for propellant quantity measuring circuitry is applied only when engine ignition relays are energized by the engine firing signal.SPS He Valve- Provides DC power on Main Bus A to 2 SPS He Valve switches and the talkback indicators for these switches.SPS Pitch 1-Bat A & 2-Bat B, Yaw 1-Bat A & 2 Bat B- Applies power from battery bus A or B to the SPS Gimbal Motors Pitch or Yaw 1 or 2 switches on panel 1.SPS Pilot Valve- provides power to the Delta-V Thrust Normal switch via both DC power buses.All these breakers are on panel 8."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Manual Attitude switch on panel 1 is placed in the Rate Command position to provide the capability to command spacecraft attitude translation rates that are proportional to the rotation controller (RC) deflection.",
+        "If there is no deflection of the RC the spacecraft will be under automatic control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Limit Cycle switch, also on panel 1, is set to the Off position.",
+        "It is placed in this position to conserve RCS propellant by allowing manual proportional rate command and automatic rate damping.",
+        "If it was left in the up (On) position, the spacecraft would be attitude hold mode, which is expensive in propellant."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Att Deadband and Rate switch positions establish rate and deadband response.",
+        "With the Att Deadband switch placed in the Min position, it switches the electrical deadband out of the electronic control assembly (ECA) attitude control loop in all 3 axes.",
+        "The Rate switch is set to High to set the attitude rates."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Translation Control Power switch is set to On to allow use of this controller in all 3 axes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rotational Control Power - Direct, are both set to Off.",
+        "This removes all DC and AC power from the controller."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The SC Cont switch on panel 1 is set to the CMC position to inhibit spacecraft control functions by the SCS.",
+        "When the spacecraft is under CMC control, a translation command by the crew using the translation controller, results in a logic signal (28 VDC) being sent to the CMC.",
+        "The CMC would provide a translation command to the roll jets.",
+        "The crew can immediately switch to SCS control if required by rotating the translation controller clockwise 17°."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The CMC Mode switch is set to Auto to enable the computer to control the spacecraft's attitude during the LOI burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "SCS TVCs in Rate Command on panel 1 allows thrust vector control to be switched to SCS control as a backup to the CMC.",
+        "This both in pitch and yaw."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "TVC Gimbal Drives in Auto in both Pitch and Yaw, provide an automatic transfer from servo 1 to servo 2 if either a Translation Controller, clockwise motion is made or an over-current logic signal is sent from the SPS."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "During high power demand, supplemental power to the main DC buses can be supplied from the CM batteries A and B via the battery buses and directly from battery C.",
+        "By setting the Main Bus Tie switches on panel 5 to Bat A/C, the battery A bus is connected to DC main bus A and battery C to DC main bus B.",
+        "Also setting the Main Bus Tie to Bat B/C, connects battery B bus to DC main bus B and battery C to DC main bus A.",
+        "During the SPS burn both switches were set as detailed above."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is referring to the Mylar insulation that blew off the CM forward (tunnel) hatch when the crew pressurized the LM following TD&E.",
+        "When the hatch was removed to permit the crew to inspect the docking latches, the pressure equalization valve was opened to ensure the tunnel pressure was equal to that of the CM cabin.",
+        "Most of the Mylar particles made their way into the CM cabin.",
+        "However some particles would inevitably have gone into the pressure equalization valve.",
+        "The crew are discussing how important it is that they ensure no particles block this valve as it must be fully closed prior to the undocking of the CSM & LM prior to the solo lunar orbit operations."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "As Apollo 10 crosses 136 East longitude at approximately 80:31, it is manoeuvred to roll 180°, pitch 221°, yaw 358°.",
+        "They hold this attitude until approximately 80:46 when crossing 88° east when they pitch down to 315°, engage the ORDEAL in orb rate.",
+        "The two FDAI switches set the relevant FDAI to Orb Rate to display the pitch attitude with respect to the local horizontal.",
+        "This enables the crew to carry out landmark tracking sightings on targets F1 & B1.",
+        "At approximately 81:11 as they cross 14° east, the orb rate is terminated and transfer to inertial and hold an attitude of roll 180°, pitch 205°, yaw 000°."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Gene is referring to the comments of Bill Anders during the Apollo 8 flight when he described the Moon's surface as \"a very whitish gray, like dirty beach sand, and with lots of footprints in it.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is referring to the last major burn that the SPS engine has to perform at Trans-Earth Injection (TEI).",
+        "Possible mid-course corrections during the Trans-Earth Coast (TEC) would be short SPS burns or be performed using the SM RCS."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "During periods of high power demand, the Main Bus Ties switches on panel 5, allow power to supplement the main DC buses from the CM batteries A and B via the battery buses and directly from battery C."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "TVC Servo Power AC1/MnA & AC2/MnB switches on panel 7, supply AC phase A to the pitch and yaw secondary servo channels in TVSA (Thrust Vector Position Servo Amplifier).",
+        "They also supply 28-VDC power through the TVSA for both secondary servo clutches."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rot Contr Pwr Normal-2 switch on panel 1 to AC enables only AC2 current to be applied to the rotation control transducer.",
+        "The rotation control is armed by displacing the locking handles by 50°."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is activating the Pitch and Yaw SPS Gimbal Motor switches which are in a single bank on panel 1.",
+        "The three position toggle switch with upper (Start) position spring-loaded to return the switch to the centre position when released.",
+        "Pitch 1 and Yaw 1 switches control the gimbal actuator primary drive motors.",
+        "The Pitch 2 and Yaw 2 switches control the gimbal actuator secondary drive motors."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rotating the Translation Control handle clockwise transfers spacecraft control from CMC to SCS during the TVC checks."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "MTVC - Manual Thrust Vector Control - Rotational Controller clockwise action signals are used to command spacecraft rotation rates during SCS proportional rate control and to command SPS engine gimbal position during manual thrust vector control.",
+        "The manual proportional commands to the TVC are input via the rotation controller.",
+        "The crew is checking that the TVC is under the control of the CMC."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The SPS pitch and yaw trim angles prescribed are +1.83° and -0.74°.",
+        "These are the angles through which the SPS engine should be gimbaled (swivelled) to ensure its thrust acts through the spacecraft's centre of mass."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The gimbal position indicator needs to be set to the neutral position using the translation controller."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Provides 28 VDC via main buses A & B and 26 VAC via AC bus 1 to rotation controller 2."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is manually testing the SPS pitch and yaw gimbals."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford and Cernan are ensuring the event timer is synchronised with the mission timer to ensure the LOI-2 burn ignites at the specified Ground Elapse Time."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Two mission timers (electrical) and two event timers (electrical/mechanical) are provided for the crew in the Command Module.",
+        "One mission timer is located on panel 2 and the other on panel 306 in the left-hand forward equipment bay.",
+        "Each mission timer has provisions for manually setting the readout (hours, minutes, and seconds); and the capability of starting, stopping, and resetting to zero.",
+        "The numerical elements are electroluminescent lamps and the intensity is controlled by the Numerics light control on panel 8 and panel 100.",
+        "The event timers are located on panel 1 and panel 306 in the left-hand forward equipment bay, and provide the crew with a means of monitoring and timing events.",
+        "All timers reset and start automatically when lift-off occurs."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Translation Control Power switch on panel 1 is set to On to allow use of this controller in all 3 axes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "SCS-TVC Servo Power switch on panel 7, is set to AC1 to provide AC power over AC power bus 1 and DC power over main power bus A to the Trust Vector Control (TVC) servos in both pitch & yaw."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rotational Control Power - Direct switches on panel 1 are both set to MnA and MnB.",
+        "This applies 28 VDC via buses MnA and MnB to direct switches in both rotational controllers.",
+        "The two SPS He Valve switches and the talkback indicators for these switches, are all on panel 3.",
+        "When both switches are set to the Auto position, the valve opening is controlled by the thrust On-Off signal from either the CMC or SCS.",
+        "The valve position is indicated by the talkback indicator above the switches, barberpole indicates closed, gray indicates open.",
+        "The helium is used to pressurize the SPS fuel and oxidiser tanks.",
+        "See further detail in the pre LOI-1 notes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Limit Cycle switch also on panel 1 is set to the Off position.",
+        "It is placed in this position to conserve RCS propellant by allowing manual proportional rate command and automatic rate damping."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The FDAI attitude error needles indicate the difference between the actual and desired spacecraft attitude.",
+        "The attitude error needle displacements are \"fly-to\" indications as related to rotation control direction of motion, required to reduce the error to zero.",
+        "The ranges of the error needles are ±5 degrees or ±50 degrees for full-scale roll error, and ±5 degrees or ±15 degrees for pitch and yaw error.",
+        "The error scale factors are selected by the FDAI Scale switch on panel 1, that also establishes the rate scales.",
+        "The pitch and yaw attitude error scales contain graduation marks at null and ±full scale, and at ±1/3 and ±2/3 of full scale.",
+        "The roll attitude scale contains marks at null, ±1/2, and ±full scale."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Setting the FDAI Scale switch on panel 1 to the 5/1 position, displays the full scale on attitude error indicators (3) of both FDAI's which is 5°.",
+        "Full scale on the rate indicators is 1°/sec."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "GDC Align pushbutton on panel 1, provide a means of aligning the Gyro Display Coupler (GDC) to a given reference.",
+        "The GDC has two gyro assemblies associated with it, which can provide attitude determination.",
+        "They are normally aligned to match the current IMU orientation.",
+        "This provides a backup attitude reference in case of an IMU malfunction."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is referring to trimming (nulling) any velocity errors in the plus-X velocity vector (direction) to within less than 1 fps of the desired value at the conclusion of the burn to ensure an accurate burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the BMAG Mode switches (one in each axis) on panel 1 in the Att 1/Rate 2 position, the BMAG in GA-2 provides rate signals for control and display, plus GDC update.",
+        "The BMAG in GA-1 provides attitude error signals for control and display."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "EMS Mode switch on panel 1 is set to Normal <30 seconds prior to thrusting to minimize build-up of delta-V indicator errors, caused by accelerometer bias."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Rate switch on panel 1 selects low gains in both rate and attitude in all axes, and high gain in roll manual control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Data Storage Equipment (DSE) is set to record onboard data at the High Bit Rate by placing the PCM (Pulse Code Modulation) Bit Rate switch on panel 3 to the High position."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control and we should be burning now for the LOI-2 burn.",
+        "This was a short burn - 14 seconds in duration.",
+        "We'll know when we acquire the spacecraft in about 15 minutes how this burn went.",
+        "The first thing we'll get is a burn report.",
+        "And almost at the moment of acquisition we were changing shifts in the Control Center.",
+        "The Maroon Team with Flight Director Milton Windler will take over right after the Acquisition of Signal.",
+        "And a short time after we have acquired, we should have our first TV show of the lunar surface.",
+        "As you've heard Tom Stafford talking, he hopes to be able to bring a pretty good show with the color TV.",
+        "Our best estimate right now on the change of shift news conference time is 9:30 PM Central Daylight Time.",
+        "We'll try to keep you updated on that time with the best estimate at present is 9:30."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The four banks Cernan is referring to are the banks of SPS solenoid control valves, which control the SPS propellant ball valves."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Once again the crew is now safing the SPS engine and it's associated systems."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "During high power demand, supplemental power to the main DC buses can be supplied from the CM batteries A and B via the battery buses and directly from battery C.",
+        "By setting the Main Bus Tie to Bat A/C, the battery A bus is connected to DC main bus A and battery C to DC main bus B.",
+        "Also setting the Main Bus Tie to Bat B/C, connects battery B bus to DC main bus B and battery C to DC main bus A.",
+        "During the SPS burn both switches were set as detailed above."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is keen to ascertain their new orbital parameters."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Using Program 40, Noun 85 on the CMC, the velocity errors in all three axes are displayed as VGX, VGY, VGZ.",
+        "Following the LOI-2 burn the velocity residuals were VGXplus 0.5, VGYminus 0.3, VGZminus 0.4 fps.",
+        "Using the translational hand controller Stafford adds or subtracts the small amounts of velocity to fine tune the burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Velocity residuals in VGY& VGZ."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is the Delta-VCreadout.",
+        "The burn was expected to reduce the spacecraft's velocity by 139 fps.",
+        "The Delta-VCfigure indicates where the Delta-V counter on the EMS had got to as it sensed the effect of the burn.",
+        "It was meant to reach zero at the point where the engine was supposed to cut off and would continue counting as the tail-off thrust added more delta-V.",
+        "This was why Delta-VCwas lower than Delta-VTin the first place.",
+        "The difference between them in the PAD was 6.5 so a measured difference of 5.6 shows that if the EMS had stopped the burn, it would have done so reasonably accurately."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is gathering the readings required for the post-burn report."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is reporting on how easy he found it to null the velocity residuals using the translational hand controller."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Post-burn propellant quantities."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Verb 82 is used as part of computer routine R30.",
+        "This routine is used to provide the crew with their current orbital parameters.",
+        "The CMC has calculated they are now in a 61.2 x 60.0 (nautical miles) (113.3 x 111.1 km)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Delta-VCfigure again."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The helium pressure indicated the SPS chamber pressure during the LOI-2 burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This reference should be to Verb 82."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford and Young are discussing the manoeuvre they must make at approximately 80:46 to pitch the combined spacecraft down to 315° prior to initiating ORDEAL control in the Orb Rate mode."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Apollo 10 Flight Plan calls for the crew to pitch down to 315° ORDEAL and select Orb Rate at 80:46 (corrected for TLC delay) for the duration of the surface observations on this pass, until 81:11 when they would switch to Inertial.",
+        "The ORDEAL box provides the correct drive signal to rotate the FDAI at a rate which also matches the orbital period.",
+        "With the ORDEAL in Orb Rate, the FDAI will display the spacecraft attitudes relative to the lunar surface below."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Following the LOI-2 burn, at 80:31 the Flight Plan calls for the spacecraft to be placed in an attitude of roll, 180°; pitch, 221°; yaw, 358°."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The spacecraft's attitude dictates that the center (main hatch) window would be the optimum one for surface observations."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Verb 64 request as part of CMC routine 05 is used to calculate the High Gain Antenna gimbal angles to point the S-band antenna at the centre of the Earth."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 80 hours, 39 minutes.",
+        "We're expecting to reacquire Apollo 10 now, in about 1 minute, 50 seconds at which time we expect to get a report from the crew immediately on the LOI-2 manoeuvre that was performed on the back side of the Moon.",
+        "Here in Mission Control, we've completed the change of shift.",
+        "Flight Director Milton Windler has relieved Flight Director Gerry Griffin.",
+        "Our Capsule Communicator on this shift will be astronaut Joe Engle.",
+        "Ten seconds now until AOS.",
+        "We have conformation of AOS now.",
+        "We'll stand by for the Capsule Communicator to put in a call to the crew."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is correcting himself, he means Verb 64."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "Standing by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0804106"
+    },
+    {
+      "tokens": [
+        "Verb 64 - High Gain Antenna pointing angles."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston.",
+        "Standing by."
+      ],
+      "speaker": "Engle",
+      "time": "0804132"
+    },
+    {
+      "tokens": [
+        "Yes, Roger.",
+        "Read you loud and clear."
+      ],
+      "speaker": "Young",
+      "time": "0804139"
+    },
+    {
+      "tokens": [
+        "Hey, good show, Gene-o.",
+        "How about a burn report there?",
+        "[Pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0804142"
+    },
+    {
+      "tokens": [
+        "Okay, Joe, we got a good burn.",
+        "The burn was on time.",
+        "It was 14 seconds; roll, pitch, and yaw were nominal.",
+        "Our residuals were plus 0.5, minus 0.3, minus 0.4; Delta-VCwas minus 5.6; fuel remaining, 34.9: oxidizer, 37.1.",
+        "We now are reading a 600 unbalance to the increase.",
+        "Chamber pressure was steady at 103, and we show us to be in a 61.2- by 60-nautical-mile orbit."
+      ],
+      "speaker": "Cernan",
+      "time": "0804159"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Very good, Gene-o.",
+        "Thank you.",
+        "Copy all that and we're standing by for your TV whenever you want to go."
+      ],
+      "speaker": "Engle",
+      "time": "0804240"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're about ready on it now."
+      ],
+      "speaker": "Cernan",
+      "time": "0804249"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long Pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0804251"
+    },
+    {
+      "tokens": [
+        "Houston - Apollo 10, this is Houston.",
+        "We'd like for you to do your Verb 66 now."
+      ],
+      "speaker": "Engle",
+      "time": "0804307"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0804323"
+    },
+    {
+      "tokens": [
+        "Verb 66 is used on this occasion to move the CSM state vector to the LM state vector."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We're standing by now for television transmissions from the lunar surface.",
+        "That burn report passed back to the ground by Gene Cernan indicated that we got very close to the planned burn.",
+        "The onboard reading was 61.2 by 60 and after some tracking on the ground we'll have some Mission Control Center figures to go along with those from the crew."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Charlie, we've got some TV coming down to you now.",
+        "We'll try and tell you exactly where you are in a minute, but Tom's looking out the hatch window.",
+        "We're upside down and going backwards at the moment, so we'll have to give us a chance to locate you."
+      ],
+      "speaker": "Cernan",
+      "time": "0804336"
+    },
+    {
+      "tokens": [
+        "H.264 MP4 video file."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Gene-o.",
+        "Fine.",
+        "We're getting the picture now and it looks real good."
+      ],
+      "speaker": "Engle",
+      "time": "0804353"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Tom's going to try and have you looking right at a very bright young ray crater, very distinguishable and very bright.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0804504"
+    },
+    {
+      "tokens": [
+        "Okay, 10.",
+        "This is Houston.",
+        "That's a real good picture, and we see the crater you're talking about.",
+        "That's an awfully good TV picture."
+      ],
+      "speaker": "Engle",
+      "time": "0804535"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll be coming up on the left side of your picture on Neper here if Tom can scan over to get it."
+      ],
+      "speaker": "Cernan",
+      "time": "0804544"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We verify.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0804553"
+    },
+    {
+      "tokens": [
+        "The spacecraft now over Smyth's Sea."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The latin name for Smyth's Sea is Mare Smythii."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We should be coming right over the Smyth's Sea right at the present time."
+      ],
+      "speaker": "Cernan",
+      "time": "0804610"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's affirmative and that was F-1 you were showing us there just a minute ago, Gene-o."
+      ],
+      "speaker": "Engle",
+      "time": "0804614"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Okay.",
+        "I've got this at full zoom.",
+        "Do you like it at full zoom, or do you want it backed down a little bit?",
+        "On our monitor it looks like we've got some pretty good resolution here."
+      ],
+      "speaker": "Stafford",
+      "time": "0804623"
+    },
+    {
+      "tokens": [
+        "You got fantastic resolution, Tom.",
+        "You might back off the zoom just a little bit to give us a little bigger picture - get a little better orient."
+      ],
+      "speaker": "Engle",
+      "time": "0804637"
+    },
+    {
+      "tokens": [
+        "That's good right there, Tom.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0804659"
+    },
+    {
+      "tokens": [
+        "Apollo 10, this is Houston.",
+        "We'd like for you to cycle that ALC just so we can get a comparison of the picture.",
+        "Stay there for about 5 seconds, and then go back to your present position."
+      ],
+      "speaker": "Engle",
+      "time": "0804728"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're on Inside right now, and we'll give you a Mark when we go to Outside."
+      ],
+      "speaker": "Cernan",
+      "time": "0804741"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Engle",
+      "time": "0804747"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Mark it.",
+        "We're on outside now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0804750"
+    },
+    {
+      "tokens": [
+        "Joe, can you see we just passed over a rille down there?",
+        "The rille should be in the upper left-hand corner of your screen."
+      ],
+      "speaker": "Stafford",
+      "time": "0804825"
+    },
+    {
+      "tokens": [
+        "Yes, we've got a hint of it, Tom.",
+        "And the Outside position on that ALC seems to give us better resolution down here than the Inside.",
+        "How does that compare with your monitor?"
+      ],
+      "speaker": "Engle",
+      "time": "0804838"
+    },
+    {
+      "tokens": [
+        "Same way, Joe.",
+        "The Outside gives us lots better.",
+        "And at this time we are passing over a big crater, now.",
+        "You can see it with the rim there."
+      ],
+      "speaker": "Stafford",
+      "time": "0804849"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Got it."
+      ],
+      "speaker": "Engle",
+      "time": "0804900"
+    },
+    {
+      "tokens": [
+        "And it's got a couple of small ones on the inside.",
+        "Okay.",
+        "Those little small peaks in there are of pure white.",
+        "The rest of the crater is a brownish gray with several little spirals of white.",
+        "How does it show up down there, babe?"
+      ],
+      "speaker": "Stafford",
+      "time": "0804901"
+    },
+    {
+      "tokens": [
+        "It shows up exactly the same, Tom.",
+        "That's perfect."
+      ],
+      "speaker": "Engle",
+      "time": "0804917"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've got a real bright ray crater.",
+        "I'm going to zoom it in on the top of it.",
+        "It's pure white and you can even see - It looks like there may be pieces of boulder around on it.",
+        "I am going to zoom on it."
+      ],
+      "speaker": "Stafford",
+      "time": "0804922"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We think that may be Schubert, Tom.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0804938"
+    },
+    {
+      "tokens": [
+        "That's great.",
+        "That detail is just great, Tom."
+      ],
+      "speaker": "Engle",
+      "time": "0804959"
+    },
+    {
+      "tokens": [
+        "We estimate this crater is about 40 miles in diameter."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Again, for your edification, we are upside down going forward to keep the Sun off the windows, and also to kind of conserve fuel.",
+        "But the rate you see there on the monitor, at least what I can see, is exactly our orbital rate here.",
+        "John is maintaining that [ORDEAL] 315 orb-rate upside down."
+      ],
+      "speaker": "Stafford",
+      "time": "0805026"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We copy that.",
+        "Thank you.",
+        "And, Tom, could you see all the little..."
+      ],
+      "speaker": "Engle",
+      "time": "0805046"
+    },
+    {
+      "tokens": [
+        "[Garble]."
+      ],
+      "speaker": "Stafford",
+      "time": "0805049"
+    },
+    {
+      "tokens": [
+        "Go ahead, Joe."
+      ],
+      "speaker": "Cernan",
+      "time": "0805101"
+    },
+    {
+      "tokens": [
+        "Okay, Gene-o.",
+        "We would like to confirm that you are in infinity on your focus."
+      ],
+      "speaker": "Engle",
+      "time": "0805102"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "We are on infinity."
+      ],
+      "speaker": "Cernan",
+      "time": "0805116"
+    },
+    {
+      "tokens": [
+        "As you can see in this area, the whole area is marked by these small new craters.",
+        "They are pure white where they stand out and then they fade into a grayish - light gray-brown into a darker brownish gray, as you get to the older areas."
+      ],
+      "speaker": "Stafford",
+      "time": "0805125"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That is just the way it looks..."
+      ],
+      "speaker": "Engle",
+      "time": "0805142"
+    },
+    {
+      "tokens": [
+        "Now we are starting to get into some mare area a little bit.",
+        "Yes, let me say you are getting into some mare area, as you can notice from the bottom of this one depression here.",
+        "It's more brownish - more of a deep brown, now."
+      ],
+      "speaker": "Stafford",
+      "time": "0805143"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It's looking here exactly as you are describing it, Tom.",
+        "That's just tremendous.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0805202"
+    },
+    {
+      "tokens": [
+        "Joe, we should be looking down right now on the Foaming Sea, and to the left of us is the Crisium Basin, and we will be coming over the Sea of Fertility and the landing site area very shortly."
+      ],
+      "speaker": "Cernan",
+      "time": "0805218"
+    },
+    {
+      "tokens": [
+        "Roger that."
+      ],
+      "speaker": "Engle",
+      "time": "0805232"
+    },
+    {
+      "tokens": [
+        "I'm still on my umbilical here.",
+        "I'm up in the tunnel trying to help Gene get this crap cleaned out."
+      ],
+      "speaker": "Stafford",
+      "time": "0805236"
+    },
+    {
+      "tokens": [
+        "What suit's there?"
+      ],
+      "speaker": "Young",
+      "time": "0805240"
+    },
+    {
+      "tokens": [
+        "Okay, Tom; you might want to [garble]."
+      ],
+      "speaker": "Engle",
+      "time": "0805242"
+    },
+    {
+      "tokens": [
+        "It is amazing the number of new small craters are all out right on your screen as a brilliant white with a ray pattern usually going through each one."
+      ],
+      "speaker": "Stafford",
+      "time": "0805246"
+    },
+    {
+      "tokens": [
+        "Yes, we're up here in our shirt sleeves.",
+        "That was in the Flight Plan.",
+        "We don't have any flight suits on."
+      ],
+      "speaker": "Stafford",
+      "time": "0805254"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "They are showing up real good, just like that down here on the screen, Tom."
+      ],
+      "speaker": "Engle",
+      "time": "0805258"
+    },
+    {
+      "tokens": [
+        "[Garble]."
+      ],
+      "speaker": "Cernan",
+      "time": "0805314"
+    },
+    {
+      "tokens": [
+        "10, This is Houston.",
+        "We'd like - When you are coming along some of this area here, we'd like for you to go all the way from one end to the other on the zoom.",
+        "Give us a Mark when you back it all the way off, and hold it there for about 5 seconds, 5 to 10 seconds, and all the way back to zoom again."
+      ],
+      "speaker": "Engle",
+      "time": "0805321"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Going full off on the zoom at this time.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0805342"
+    },
+    {
+      "tokens": [
+        "Coming back on the zoom.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0805402"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll take you on the right side, and Gene will show you the crater Langrenus."
+      ],
+      "speaker": "Stafford",
+      "time": "0805432"
+    },
+    {
+      "tokens": [
+        "Tom, you're reading our minds.",
+        "We were just going to tell you to take a shot of that, if you could."
+      ],
+      "speaker": "Engle",
+      "time": "0805439"
+    },
+    {
+      "tokens": [
+        "We're starting to get it in there.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "0805451"
+    },
+    {
+      "tokens": [
+        "Jim Lovell described the terraces of this crater on Apollo 8."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Tom.",
+        "We are getting that picture very good and that is tremendous color you got.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0805511"
+    },
+    {
+      "tokens": [
+        "Joe, I don't know if you can actually see Langrenus with its central peaks, but it is an enormous crater."
+      ],
+      "speaker": "Cernan",
+      "time": "0805531"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It looks pretty impressive from the picture we're getting, Gene-o.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0805540"
+    },
+    {
+      "tokens": [
+        "Langrenus, the crater in the center of the screen, is about 90 miles in diameter."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, 10, this is Houston.",
+        "Whatever you did there, if you were playing around with your lighting, that gave us a real good picture then.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0805607"
+    },
+    {
+      "tokens": [
+        "You're looking right at the central peak of Langrenus right now."
+      ],
+      "speaker": "Cernan",
+      "time": "0805629"
+    },
+    {
+      "tokens": [
+        "We're getting tremendous detail, Gene.",
+        "Are you cycling the aperture at all during this time?"
+      ],
+      "speaker": "Engle",
+      "time": "0805635"
+    },
+    {
+      "tokens": [
+        "Yes, that is what I was doing and when I opened it up and then stop it down, my monitor just goes very clear for you."
+      ],
+      "speaker": "Cernan",
+      "time": "0805647"
+    },
+    {
+      "tokens": [
+        "Yes, same here.",
+        "When you stop it down a little bit, we get an awful lot of detail.",
+        "That's just great.",
+        "We are getting a real good picture of that central peak now."
+      ],
+      "speaker": "Engle",
+      "time": "0805654"
+    },
+    {
+      "tokens": [
+        "Okay, Gene.",
+        "I wonder if you could zoom in on that central peak with that aperture shut down a little bit.",
+        "Oh, you got it.",
+        "I'm sorry."
+      ],
+      "speaker": "Engle",
+      "time": "0805709"
+    },
+    {
+      "tokens": [
+        "The walls of Langrenus are about two miles high and that central peak is about 7,000 feet (2100m) above the floor of the crater."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yes, I did, Joe.",
+        "I gave you that.",
+        "Let me pass you on over here.",
+        "I'm losing out of my window."
+      ],
+      "speaker": "Cernan",
+      "time": "0805721"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And just for your information, your onboard vector looks great.",
+        "We're satisfied with it."
+      ],
+      "speaker": "Engle",
+      "time": "0805727"
+    },
+    {
+      "tokens": [
+        "John is going to show you Mare Crisium over there on his side."
+      ],
+      "speaker": "Stafford",
+      "time": "0805739"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're standing by."
+      ],
+      "speaker": "Engle",
+      "time": "0805742"
+    },
+    {
+      "tokens": [
+        "And you can see the horizon in the distance, there.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "0805752"
+    },
+    {
+      "tokens": [
+        "That is just absolutely beautiful."
+      ],
+      "speaker": "Engle",
+      "time": "0805808"
+    },
+    {
+      "tokens": [
+        "On the left on John's side you are looking at the Sea of Crises.",
+        "On the right we've got the Sea of Fertility, and we're coming very shortly up upon Apollo Ridge out our hatch window."
+      ],
+      "speaker": "Cernan",
+      "time": "0805814"
+    },
+    {
+      "tokens": [
+        "We're right over - We're starting to look straight down over the mare first, and then, here we'll show you the Taruntius twins and Secchi A and B and say, right down NASA 1 for us."
+      ],
+      "speaker": "Stafford",
+      "time": "0805831"
+    },
+    {
+      "tokens": [
+        "Tom, the resolution, the detail that we're getting is just unbelievable.",
+        "This is just great."
+      ],
+      "speaker": "Engle",
+      "time": "0805841"
+    },
+    {
+      "tokens": [
+        "We ain't getting bad detail light up here."
+      ],
+      "speaker": "Young",
+      "time": "0805853"
+    },
+    {
+      "tokens": [
+        "Roger that."
+      ],
+      "speaker": "Engle",
+      "time": "0805859"
+    },
+    {
+      "tokens": [
+        "The low flat ridges really do stand out here in the mare area.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0805904"
+    },
+    {
+      "tokens": [
+        "We're coming right up on Taruntius Papa, Kilo, Hotel, and Golf here, leading into a landing site area."
+      ],
+      "speaker": "Cernan",
+      "time": "0805928"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're picking them up, now.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0805936"
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-43."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And it appears, looking with the monocular down into a crater like Taruntius Golf, that their shadows which appear, rather than to be peaks, they appear to be slight and small boulders of some sort."
+      ],
+      "speaker": "Cernan",
+      "time": "0810013"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Are they down in the center of the crater, Gene?"
+      ],
+      "speaker": "Engle",
+      "time": "0810031"
+    },
+    {
+      "tokens": [
+        "Yes, they all seem to be down in the flat portion of the crater."
+      ],
+      "speaker": "Cernan",
+      "time": "0810036"
+    },
+    {
+      "tokens": [
+        "Hey, tell Jack to look at these little old ridges we have here.",
+        "They all look like - oh, they could be 4 to 500 feet elevated and run in various patterns.",
+        "They're standing up pretty good in our monitor now."
+      ],
+      "speaker": "Stafford",
+      "time": "0810040"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We see them real good, Tom.",
+        "[Pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0810051"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It appears you're showing us Furnace Gulf, now, Tom.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0810105"
+    },
+    {
+      "tokens": [
+        "And, Houston, on Messier A it appears - I would have to say there's boulders on the slope leading toward the same direction we're moving."
+      ],
+      "speaker": "Cernan",
+      "time": "0810116"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0810135"
+    },
+    {
+      "tokens": [
+        "These are thrown out on the rim and Secchi Kilo is another one which appears to have boulders, and you can contrast them very easily from the little pinpoint craters around the edge.",
+        "They just stand out differently and they appear to be boulders that are out on the rim, out on the edges of the rim."
+      ],
+      "speaker": "Cernan",
+      "time": "0810149"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Which window are you looking out of now, Gene?"
+      ],
+      "speaker": "Engle",
+      "time": "0810210"
+    },
+    {
+      "tokens": [
+        "Tom has got it out the hatch window."
+      ],
+      "speaker": "Cernan",
+      "time": "0810217"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Just for your info, we're seeing the RTV on the side of the window, and it's pretty much in focus as is the lunar surface."
+      ],
+      "speaker": "Engle",
+      "time": "0810220"
+    },
+    {
+      "tokens": [
+        "I should have Gutenberg coming up the other way.",
+        "Gene's got it out the right window.",
+        "He'll be looking to the south."
+      ],
+      "speaker": "Stafford",
+      "time": "0810242"
+    },
+    {
+      "tokens": [
+        "Joe, I think, if I'm not mistaken, that might be Gutenberg right there, and I'm showing you the central peak which is very clear on my monitor here."
+      ],
+      "speaker": "Cernan",
+      "time": "0810307"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's where all the pencils are pointing down here, Gene-o.",
+        "[Pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0810315"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Tell Jack that we're passing over the Apollo Ridge right now looking down."
+      ],
+      "speaker": "Stafford",
+      "time": "0810327"
+    },
+    {
+      "tokens": [
+        "Well, listen you guys, that color is really spectacular.",
+        "That really brings it home."
+      ],
+      "speaker": "Engle",
+      "time": "0810341"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's about kind of a - it's still half between gray and brown right now, Joe.",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "0810348"
+    },
+    {
+      "tokens": [
+        "Jack.",
+        "You're looking at some of those depressions that go right through some of the craters now, and they're very flat, and where they're shallow, we can see right to the bottom of them."
+      ],
+      "speaker": "Cernan",
+      "time": "0810410"
+    },
+    {
+      "tokens": [
+        "The spacecraft should be just about opposite Landing Site 1 at this time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0810423"
+    },
+    {
+      "tokens": [
+        "Tom's going to point you out the center window and you'll be looking right at the area of Landing Site 1."
+      ],
+      "speaker": "Cernan",
+      "time": "0810518"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0810522"
+    },
+    {
+      "tokens": [
+        "You ought to be looking just about right in the area B-1 right now."
+      ],
+      "speaker": "Cernan",
+      "time": "0810554"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're picking it up, Gene.",
+        "We've got it in the upper left-hand portion of our screen now."
+      ],
+      "speaker": "Engle",
+      "time": "0810559"
+    },
+    {
+      "tokens": [
+        "And I don't know what - Okay.",
+        "I don't know whether Tom can scan on Censorinus, but Censorinus should be just to the right of that in the hills."
+      ],
+      "speaker": "Cernan",
+      "time": "0810604"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy, and you had a real interesting little dome with about five or six small craters in it that was awfully interesting to look at."
+      ],
+      "speaker": "Engle",
+      "time": "0810616"
+    },
+    {
+      "tokens": [
+        "Yes, around this area you can tell there's strictly lots of volcanic activity and cones in there."
+      ],
+      "speaker": "Stafford",
+      "time": "0810625"
+    },
+    {
+      "tokens": [
+        "And that is Censorinus from the oblique view."
+      ],
+      "speaker": "Stafford",
+      "time": "0810635"
+    },
+    {
+      "tokens": [
+        "And down here - Will I come up on - -"
+      ],
+      "speaker": "Stafford",
+      "time": "0810641"
+    },
+    {
+      "tokens": [
+        "Censorinus is a relatively new lunar crater and great scientific interest."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Here we come; here's [garble]."
+      ],
+      "speaker": "Cernan",
+      "time": "0810643"
+    },
+    {
+      "tokens": [
+        "Here we come.",
+        "Here's the crater Maskelyne."
+      ],
+      "speaker": "Stafford",
+      "time": "0810644"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copied."
+      ],
+      "speaker": "Engle",
+      "time": "0810648"
+    },
+    {
+      "tokens": [
+        "You can see the shadow in it."
+      ],
+      "speaker": "Stafford",
+      "time": "0810650"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It stands out real good, Tom..."
+      ],
+      "speaker": "Engle",
+      "time": "0810652"
+    },
+    {
+      "tokens": [
+        "You can see some shadows in there like there might be boulders.",
+        "There is Maskelyne."
+      ],
+      "speaker": "Stafford",
+      "time": "0810653"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're going to try to show you some of these rilles.",
+        "Diamondback Rilles and Sidewinder Rilles that are going across here are very distinctive.",
+        "They appear to be very shallow in areas and the bottom seems smooth.",
+        "However, some of the areas that go perpendicular to the sunline is deep enough to be in shadow."
+      ],
+      "speaker": "Cernan",
+      "time": "0810658"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We copied all that, 10..."
+      ],
+      "speaker": "Engle",
+      "time": "0810719"
+    },
+    {
+      "tokens": [
+        "The small crater coming up is Maskelyne B.",
+        "[Pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "0810720"
+    },
+    {
+      "tokens": [
+        "And here's our little nicknames, the rilles Diamondback and Sidewinder."
+      ],
+      "speaker": "Stafford",
+      "time": "0810729"
+    },
+    {
+      "tokens": [
+        "Boy, - 10.",
+        "This is Houston.",
+        "Those rilles and all those details are really coming out great, and that color doesn't hurt a thing."
+      ],
+      "speaker": "Engle",
+      "time": "0810744"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're coming into the terminator, Houston."
+      ],
+      "speaker": "Young",
+      "time": "0810802"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Tom's going to try and get you Moltke and then, of course, right adjacent is Site number 2, and we're coming into the terminator.",
+        "We're not sure how much of it you can see, but you should be looking right at the area right now."
+      ],
+      "speaker": "Cernan",
+      "time": "0810806"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "At the bottom of your screen is Moltke, and right about there is landing Site 2.",
+        "It's still awful dim and the Sun is starting to shift the window, but the Landing Site 2 is right to the left the crater you see.",
+        "That's where we'll be going down tomorrow to photograph."
+      ],
+      "speaker": "Stafford",
+      "time": "0810818"
+    },
+    {
+      "tokens": [
+        "Roger that, Tom.",
+        "And, we're still getting a real good picture on that.",
+        "There's a lot of good detail, although the color is starting to fade out a little."
+      ],
+      "speaker": "Engle",
+      "time": "0810833"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "You can even get some as we start across the terminator.",
+        "If I can just keep the sunlight off the window, you can see it."
+      ],
+      "speaker": "Stafford",
+      "time": "0810842"
+    },
+    {
+      "tokens": [
+        "Okay, Tom.",
+        "And could you go to the Inside on ALC and to 2.2 on your camera, now?",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0810850"
+    },
+    {
+      "tokens": [
+        "Jack, the area, now that it's being uncovered by light in the Landing Site 2 area looks a little bit rugged."
+      ],
+      "speaker": "Cernan",
+      "time": "0810913"
+    },
+    {
+      "tokens": [
+        "Copy that; rugged.",
+        "[Pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0810922"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The rille you see beside Moltke is whet we have termed as \"Highway U.S.",
+        "1.\""
+      ],
+      "speaker": "Stafford",
+      "time": "0810932"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're getting that loud and clear, Tom.",
+        "That shows up real good.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0810938"
+    },
+    {
+      "tokens": [
+        "The Sun is coming right on the window.",
+        "We're hitting the terminator, so it's kind of rough.",
+        "I'm going to have to knock it off here, because I don't want to hurt the tube, and when the Sun goes down, we'll shoot back there, and maybe we can give you a little picture of the corona."
+      ],
+      "speaker": "Stafford",
+      "time": "0810952"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Mighty fine, Tom.",
+        "That was just fantastic."
+      ],
+      "speaker": "Engle",
+      "time": "0811005"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Gene-o will try to shoot it outside for a minute there."
+      ],
+      "speaker": "Stafford",
+      "time": "0811011"
+    },
+    {
+      "tokens": [
+        "Righto.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0811014"
+    },
+    {
+      "tokens": [
+        "10, this is Houston.",
+        "Before you terminate the TV, before you secure it, we'd like to have a color chart shot so we can calibrate things."
+      ],
+      "speaker": "Engle",
+      "time": "0811049"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by."
+      ],
+      "speaker": "Stafford",
+      "time": "0811101"
+    },
+    {
+      "tokens": [
+        "You - No hurry on that at all.",
+        "Just before you secure..."
+      ],
+      "speaker": "Engle",
+      "time": "0811103"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Okay, Joe.",
+        "Looks like that's going to be all we can show.",
+        "I wanted to show you Theophilus looking across the terminator.",
+        "It's got two very distinct central peaks.",
+        "It's a huge crater; the peaks are still lit the back side rim is still in, but I don't think I've been able to show it to you from what I can see on my monitor."
+      ],
+      "speaker": "Cernan",
+      "time": "0811106"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We picked it up down here, 10."
+      ],
+      "speaker": "Engle",
+      "time": "0811130"
+    },
+    {
+      "tokens": [
+        "Well, it didn't come in too good on my monitor.",
+        "I was hoping to get it to you before we got too far away from it, but we'll show you a color chart here in a minute."
+      ],
+      "speaker": "Cernan",
+      "time": "0811136"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Mighty fine.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0811144"
+    },
+    {
+      "tokens": [
+        "Among the interested observers here at mission control is astronaut Jack Schmitt, who is also a geologist and worked with the crew prior to this mission on lunar feature identification."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by one second, Joe.",
+        "We've got to cover up a window slightly, here."
+      ],
+      "speaker": "Cernan",
+      "time": "0811223"
+    },
+    {
+      "tokens": [
+        "Houston, we'll knock it off right after this because we've got to repress the LM and get on with the LM activities."
+      ],
+      "speaker": "Stafford",
+      "time": "0811305"
+    },
+    {
+      "tokens": [
+        "Roger that, Tom.",
+        "Okay, we're picking up the color chart now.",
+        "Give us about 5 or l0 seconds of that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0811311"
+    },
+    {
+      "tokens": [
+        "Say when, Joe; I'll just hold this."
+      ],
+      "speaker": "Cernan",
+      "time": "0811331"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's good enough right there, Gene-o.",
+        "Thank you very much."
+      ],
+      "speaker": "Engle",
+      "time": "0811333"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I guess we'll go off the air for today."
+      ],
+      "speaker": "Cernan",
+      "time": "0811339"
+    },
+    {
+      "tokens": [
+        "That should have been enough and a good enough show for today, there."
+      ],
+      "speaker": "Engle",
+      "time": "0811342"
+    },
+    {
+      "tokens": [
+        "That's enough.",
+        "Standing show."
+      ],
+      "speaker": "Engle",
+      "time": "0811346"
+    },
+    {
+      "tokens": [
+        "I'm glad you could see the resolution that we saw, or almost, anyway."
+      ],
+      "speaker": "Cernan",
+      "time": "0811351"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "It's pretty tough to describe that resolution.",
+        "It was just really great and the colors were great, too.",
+        "Okay.",
+        "We're not recommending this, 10, but your TEI-5 PAD is Go in case you do need to use it."
+      ],
+      "speaker": "Engle",
+      "time": "0811357"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "We'd like to stick around for a while, here."
+      ],
+      "speaker": "Stafford",
+      "time": "0811414"
+    },
+    {
+      "tokens": [
+        "[Laughter.] Roger that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0811418"
+    },
+    {
+      "tokens": [
+        "Okay, Apollo 10, this is Houston."
+      ],
+      "speaker": "Engle",
+      "time": "0811432"
+    },
+    {
+      "tokens": [
+        "Go ahead, Joe."
+      ],
+      "speaker": "Cernan",
+      "time": "0811440"
+    },
+    {
+      "tokens": [
+        "Roger, Gene-o.",
+        "Before you start activating, we'd like to get a LM/CM Delta-P readout from you, and while you're up there, would you look for - see if you can find any Mylar hanging around in the cabin dump valve there?"
+      ],
+      "speaker": "Engle",
+      "time": "0811441"
+    },
+    {
+      "tokens": [
+        "LM/CM Delta-P is the differential between the CM cabin pressure and the LM cabin pressure.",
+        "Strictly speaking, it is the differential pressure between the CM and the tunnel but in the early stages of the flight, the overhead dump valve in the LM is left open so that the LM pressure follows that of the tunnel.",
+        "MCC-H is also advising the crew to inspect the cabin dump valve for particles of Mylar insulation which blew off the CM forward hatch when the docking tunnel was first pressurised following Transposition and Docking."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We fully expect to find it in the LM cabin dump valve."
+      ],
+      "speaker": "Cernan",
+      "time": "0811455"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Engle",
+      "time": "0811459"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The total duration on that television transmission from the moon was 29 minutes, 9 seconds.",
+        "At this time we estimate that the change of shift briefing will occur at about 9:15 central daylight time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston."
+      ],
+      "speaker": "Engle",
+      "time": "0811610"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston.",
+        "Apollo 10."
+      ],
+      "speaker": "Stafford",
+      "time": "0811616"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Hey listen, while you're activating there, if you've got somebody that can copy down some updates, I've got a map update and a couple of landmark tracking update pads.",
+        "And let me know when you're ready to copy."
+      ],
+      "speaker": "Engle",
+      "time": "0811618"
+    },
+    {
+      "tokens": [
+        "Go ahead, Joe."
+      ],
+      "speaker": "Cernan",
+      "time": "0811645"
+    },
+    {
+      "tokens": [
+        "Okay, Gene-o.",
+        "I'll give you your map update pad first.",
+        "It's for Rev 4.",
+        "LOS will be 81:53:01, 82:04:48, 82:39:11.",
+        "Sunrise will be at 82:00:41, sunset 83:13:08."
+      ],
+      "speaker": "Engle",
+      "time": "0811648"
+    },
+    {
+      "tokens": [
+        "Rev 4 map updates: LOS 81:53:01, crossing 150°W 82:04:48, AOS 82:39:11, sunrise 82:00:41, sunset 83:13:08."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And 10, this is Houston.",
+        "I'll go ahead with these landmark updates, and you can read back the whole thing at once, if you want to."
+      ],
+      "speaker": "Engle",
+      "time": "0811741"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Cernan",
+      "time": "0811753"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "This is your landmark tracking update.",
+        "F-l: 82:38:45, 82:43:47, 000, 326, 000, north 07, 12, 20.",
+        "That concludes F-1.",
+        "Coming up now with Bravo-l: 82:55:47, 83:00:50, 000, 274, 000, north 30, 48, 25.",
+        "That concludes.",
+        "And standing by for the readback."
+      ],
+      "speaker": "Engle",
+      "time": "0811754"
+    },
+    {
+      "tokens": [
+        "The Rev 4 landmark tracking update is recorded on the Flight Plan as shown below.F-1:(in Mare Smythii)T-1:The time that the landmark is on the horizon at 0° elevation - 82:38:45.T-2:The time that the landmark is at an elevation of 35° - 82:43:47.Initial attitude:Roll, 000°, Pitch 326°, Yaw 000°.Out of plane:The target is 7 nautical miles North of the ground track.Shaft Angle (SA):12°.Trunnion Angle (TA):20°.B-1:(in Mare Tranquillitatis)T-1:The time that the landmark is on the horizon at 0° elevation - 82:55:47.T-2:The time when the CMP begins rotating the spacecraft at orbital rate to keep it pitched down 45° from the local horizon - 83:00:50.Initial attitude:Roll 000°, Pitch 274°, Yaw 000°.Out of plane:The target is 30 nautical miles North of the ground track.Shaft Angle (SA):48°.Trunnion Angle (TA):25°.That completes the landmark tracking update."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Using Program 24 - Rate Aided Optics Tracking, the crew use the guidance computer to locate and acquire a given landmark via the automatic optics positioning routine (Routine 52) with the Optics Mode switch in the CMC position.",
+        "When acquired, the program tracks the given landmark via the rate aided optics feature of the automatic optics positioning routine with the optics in the Manual position.",
+        "This program is also used to obtain and downlink to the ground an unlimited number of sighting marks on the chosen landmark and to update the landmark coordinates."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Having started Program 24 by entering Verb 37 (start new program) Enter, 24 Enter, a flashing Verb 06 Noun 89 is displayed prompting the crewman to enter the Lat(itude)(+ +North), Long(itude)/2 and the Alt(itude) into register 1, 2 and 3, then press Pro.",
+        "The Optics Zero switch is held in the Zero position for 15 seconds.",
+        "This drives the optics to the zero shaft and trunnion position.",
+        "The Optics Mode switch is now placed in the CMC position.",
+        "This places the optics under the control of the computer program."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Now Verb 06 Noun 92 is displayed prompting the crewman to enter the desired shaft and trunnion angles into registers 1 and 2.",
+        "The guidance computer will automatically position the optics at the desired shaft and trunnion angles which equate to the line of sight to the landmark.",
+        "The Optics Mode switch is now placed in the Man position.",
+        "The optics are now under the control of the crewman using the optics controller."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "A flashing Verb 51 is displayed prompting the crewman to press the Mark button when the target is aligned with the optics reticle.",
+        "The guidance computer computes the rates required to maintain the optics line of sight on the landmark being tracked and the crewman using the optics controller continues to fine tune the alignment on the target.",
+        "Unlimited marks are permitted.",
+        "These values are downlinked and used to update the landmark co-ordinates."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-44a."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by 1 second."
+      ],
+      "speaker": "Cernan",
+      "time": "0811910"
+    },
+    {
+      "tokens": [
+        "Roger that."
+      ],
+      "speaker": "Engle",
+      "time": "0811912"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "Here they come, real quick.",
+        "REV 4 is 81:53:01, 82:04:48.",
+        "82:39:11, 82:00:41, 83:13:08.",
+        "You with me?"
+      ],
+      "speaker": "Cernan",
+      "time": "0812035"
+    },
+    {
+      "tokens": [
+        "Roger, that's correct."
+      ],
+      "speaker": "Engle",
+      "time": "0812049"
+    },
+    {
+      "tokens": [
+        "F-1 is 82:38:45, 82:33:47; three balls, 326, and three balls; north 07, 12, 20."
+      ],
+      "speaker": "Cernan",
+      "time": "0812053"
+    },
+    {
+      "tokens": [
+        "Roger that.",
+        "Go ahead."
+      ],
+      "speaker": "Engle",
+      "time": "0812105"
+    },
+    {
+      "tokens": [
+        "82:55:47, 83:00:50; three balls, 274, three balls; north 30, 48, 25."
+      ],
+      "speaker": "Cernan",
+      "time": "0812110"
+    },
+    {
+      "tokens": [
+        "Readback's correct Gene-o.",
+        "Thank you."
+      ],
+      "speaker": "Engle",
+      "time": "0812118"
+    },
+    {
+      "tokens": [
+        "We have some preliminary figures from our Flight Dynamics Officer on that LOI-2 manoeuvre.",
+        "We were shooting for an orbit 60.06 by 60.06 nautical miles [111.2 by 111.2 km] and our preliminary tracking shows that we obtained an orbit of 59.7 by 60.2 [nautical miles, 110.6 by 111.5 km] which, of course, is very close to the preplanned."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10, Houston."
+      ],
+      "speaker": "Engle",
+      "time": "0813403"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Cernan",
+      "time": "0813408"
+    },
+    {
+      "tokens": [
+        "Roger, Gene-o.",
+        "We're kind of monitoring your gimbal angles here.",
+        "It looks like you might be drifting close to lock, and I'm going to keep an eye on it."
+      ],
+      "speaker": "Engle",
+      "time": "0813410"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you, Joe.",
+        "And for your information, we've got the hatch out, and we're working on the probe right now.",
+        "The pressures are equal."
+      ],
+      "speaker": "Cernan",
+      "time": "0813420"
+    },
+    {
+      "tokens": [
+        "What we did, Joe, was to make an auto manoeuvre, to come around here for the 326-degree pitch for landmark tracking, and we're all working with the tunnel and just occasionally monitor it.",
+        "I think we'll be okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0813428"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you, Tom.",
+        "And let's see, there's just one other item.",
+        "We want to make sure that you are noticing - Take a hack when you transfer to LM power so you can pass that on to us.",
+        "And we'll also want the roll calibration angle, but that's already in the checklist, there."
+      ],
+      "speaker": "Engle",
+      "time": "0813441"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Stafford",
+      "time": "0813458"
+    },
+    {
+      "tokens": [
+        "MCC-H are requesting the crew advise then when they initialise LM power, so that they can keep track of the power use in LM systems.",
+        "They have also requested a read out of the CSM/LM roll calibration (or index) angle.",
+        "This angle is a measure of the misalignment from the optimum in the CSM roll attitude against the LM.",
+        "A perfect alignment would give a difference of 60 degrees between the attitude co-ordinate systems of the two spacecraft.",
+        "A calibrated scale in the docking tunnel at the interface between the two spacecraft is read off the give a measure of any misalignment, which is taken into account when passing the IMU alignment from the CSM to the LM, prior to undocking."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0813459"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "This is the LMP going off the air, Joe.",
+        "I'll be talking to you from inside Snoopy later."
+      ],
+      "speaker": "Cernan",
+      "time": "0814258"
+    },
+    {
+      "tokens": [
+        "Okay, Gene-o."
+      ],
+      "speaker": "Engle",
+      "time": "0814305"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "What Gene-o's doing now is, he's up in the tunnel cleaning the Mylar out of the valve up there - or insulation, it is.",
+        "It looks like cotton, is what it looks like.",
+        "It tastes like fiber glass."
+      ],
+      "speaker": "Young",
+      "time": "0814447"
+    },
+    {
+      "tokens": [
+        "First page of LM activation checklist"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, John."
+      ],
+      "speaker": "Engle",
+      "time": "0814507"
+    },
+    {
+      "tokens": [
+        "The probe came out pretty easy.",
+        "It didn't seem to fold as much as it normally does, but it's a lot easier in zero g than it is in one g.",
+        "I guarantee you that."
+      ],
+      "speaker": "Young",
+      "time": "0814513"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We copy that.",
+        "It's working all right, isn't it, John?"
+      ],
+      "speaker": "Engle",
+      "time": "0814526"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "It is right this minute."
+      ],
+      "speaker": "Young",
+      "time": "0814532"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Houston, this is Apollo 10."
+      ],
+      "speaker": "Young",
+      "time": "0814937"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Go ahead, John."
+      ],
+      "speaker": "Engle",
+      "time": "0814941"
+    },
+    {
+      "tokens": [
+        "Roll cal is plus 0.1.",
+        "It's not quite zero, but it's close."
+      ],
+      "speaker": "Young",
+      "time": "0814945"
+    },
+    {
+      "tokens": [
+        "Roger, copy.",
+        "Plus 0.1."
+      ],
+      "speaker": "Engle",
+      "time": "0814958"
+    },
+    {
+      "tokens": [
+        "Change that.",
+        "Gene-o says it's minus - Okay.",
+        "Gene-o says change it to minus 0.1."
+      ],
+      "speaker": "Young",
+      "time": "0814959"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Minus 0.1."
+      ],
+      "speaker": "Engle",
+      "time": "0815006"
+    },
+    {
+      "tokens": [
+        "The crew are reading up the roll calibration angle.",
+        "John Young made a very accurate alignment when docking, the spacecraft are only misaligned by 0.1 degrees."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You can tell how close it is, he can't make up his mind whether it's plus or minus."
+      ],
+      "speaker": "Young",
+      "time": "0815007"
+    },
+    {
+      "tokens": [
+        "Yes, It must be pretty close."
+      ],
+      "speaker": "Engle",
+      "time": "0815015"
+    },
+    {
+      "tokens": [
+        "That's thanks to you - that's thanks to you, Joe.",
+        "You really got an eyeball, there, for calibrating that thing."
+      ],
+      "speaker": "Young",
+      "time": "0815017"
+    },
+    {
+      "tokens": [
+        "Roger that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Engle",
+      "time": "0815025"
+    },
+    {
+      "tokens": [
+        "Okay, 10.",
+        "This is Houston.",
+        "We're showing about a minute 50 from LOS, and just to verify we're calibrating - or we're figuring on AOS at 82:38:52, John."
+      ],
+      "speaker": "Engle",
+      "time": "0815109"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And Gene-o is just now moseying into the LM followed by showers of insulation."
+      ],
+      "speaker": "Young",
+      "time": "0815126"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Engle",
+      "time": "0815133"
+    },
+    {
+      "tokens": [
+        "Hey, we're going to have a heck of a cleaning job here.",
+        "They had insulation all in the seal, all in the valve, and it is really a heck of a mess up here."
+      ],
+      "speaker": "Stafford",
+      "time": "0815135"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We copy, Tom."
+      ],
+      "speaker": "Engle",
+      "time": "0815144"
+    },
+    {
+      "tokens": [
+        "It'll be just about impossible to get that LM...",
+        "[Long pause.]"
+      ],
+      "speaker": "Stafford",
+      "time": "0815146"
+    },
+    {
+      "tokens": [
+        "10, this is Houston."
+      ],
+      "speaker": "Engle",
+      "time": "0815223"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Stafford",
+      "time": "0815226"
+    },
+    {
+      "tokens": [
+        "Roger, Tom.",
+        "I want to - Have you got the umbilicals hooked up to your suits, now?"
+      ],
+      "speaker": "Engle",
+      "time": "0815229"
+    },
+    {
+      "tokens": [
+        "I'm still on my umbilical here.",
+        "I'm up in the tunnel trying to help Gene get this crap cleaned up [garble]."
+      ],
+      "speaker": "Stafford",
+      "time": "0815238"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Okay, Tom.",
+        "You might want to watch real close, when - If you do unhook the umbilicals, to try and keep from letting that Mylar get in the intake or the inlet side of those things and get in the suit - the suit loop."
+      ],
+      "speaker": "Engle",
+      "time": "0815243"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That concludes the tape playback of the conversations we had with the crew before LOS.",
+        "We're now 12 minutes, 15 seconds from acquisition of signal at the beginning of the fourth revolution and we'll come back up as we approach the AOS time and stand by for conversation with the crew."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In CMC Auto mode, no discretes are sent to the CMC."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The mylar insulation from the tunnel hatch that blew off during the initial LM pressurization is causing real problems in the LM cabin atmosphere.",
+        "Cernan has called for a suit hose from the CM to supplement the supply of oxygen into the LM cabin.",
+        "Young is becoming concerned that some of the Mylar particles could be captured in this hose and be a hazard when it is linked to a crewmans suit later in the flight."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The LM cabin has been pressurized by bleeding oxygen from the CM cabin.",
+        "However a large amount of particulate material has been introduced into the LM cabin from the blown Mylar insulation off the docking tunnel CM hatch.",
+        "Cernan is finding the atmosphere in the LM difficult to breath; both he and Stafford are coughing regularly.",
+        "As this activity is not a full activation of the LM 'Snoopy', but rather a quick inspection for any damage and to transfer some items, such as maps, checklists, film canisters, radiation meters, etc.",
+        "from the CM.",
+        "The plan was to not fully power up the LM apart from that required for communications equipment to perform S-Band and VHF checks.",
+        "Also there was no plan to activate the LM ECS.",
+        "However due to the contamination in the LM cabin atmosphere, Cernan is considering bringing a clean oxygen supply on from the LM descent stage O2tank."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Early in a full activation of the LM, the LMP once he is in the LM cabin, would fully activate the LM Environmental Control System (ECS).",
+        "His first action would be to establish the supply of oxygen from one of the LM O2tanks.",
+        "The LM has three O2tanks, 2 in the ascent stage and one in the descent stage.",
+        "The descent stage is used first.",
+        "Before switching to a ascent stage tank the descent stage O2valve must be placed in the Closed position.",
+        "There is a mechanical interlock in the oxygen valve system that prevents the ascent stage oxygen from flowing into an empty descent stage O2tank.",
+        "Cernan is turning the Des O2valve on the ECS oxygen control panel to the Open position."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford and Young both agree that bringing on fresh O2from the LM descent stage will not make matters any better in the LM contaminated atmosphere.",
+        "Until the cabin atmosphere is fully cycled through the LiOH canisters in the LM cabin, which scrub out CO2and also filter small particulates, the LM cabin atmosphere will remain contaminated."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Closing the Cabin Repress valve on the ECS oxygen control panel will cease the O2flow from the LM O2tanks into the cabin.",
+        "Stafford is concerned that closing it with the cabin pressure at it's current 5.2 psia will create a large pressure differential on each side of the valve, which will cause a large bang."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is referring to the Direct O2valve on panel 7.",
+        "Setting this valve to Open permits controlled flow of oxygen directly into the suit circuit.",
+        "This valve would be opened in the event of contamination or the inability of the demand regulator to maintain flow.",
+        "The Direct O2valve on panel 7 is a screw-actuated poppet valve capable of metering oxygen into the suit circuit of flow rates from 0 to 0.67 pound per minute (at 85 psig inlet pressure."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-44."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-43a- Graphic."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew are discussing the S-band antenna configuration for the upcoming AOS."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is advising Stafford to switch from High Gain to Omni then select omnidirectional antenna C on CM panel 3."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Omni antenna C is located on the CM exterior near window 1."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew are discussing the S-band High Gain Antenna configuration."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young being his usual expressive self about the insulation particle contamination."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 10 begins its fourth revolution around the Moon."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is quoting out loud the figures from the F-1 landmark tracking PAD, as he loads them into the AGC using program 24."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is reading from the last map update for Rev 4."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This transfer bag contained six 16-mm film magazines."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "PPK-Personal Preference Kit, crewmembers own approved personal items carried onboard."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is shouting down the tunnel to Cernan in the LM, confirming he is going to bring some film magazines down the tunnel to him, before he assists Young with the landmark tracking."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is referring to the time on the Flight Plan.",
+        "These times had been updated by MCC-H in the rev 4 map update."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At the F-1 landmark T-1 time of 82:43:47, the spacecraft pitches down 2 degrees below the local horizontal and commences a 0.3 deg/sec pitch down.",
+        "This manoeuvre.",
+        "will be made with the Manual Attitude Pitch switch on panel 1 in the Accel Command position.",
+        "In this position, RCS control by the CMC or SCS is disabled."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford is slightly confused about the next Flight Plan instruction to manoeuvre to a pitch of 274°."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan is continuing with the housekeeping duties in the LM Snoopy."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is discussing cleaning the docking hatch debris which is floating around in both the CM & LM cabin atmosphere, from the CM cabin heat exchanger inlet screen.",
+        "He is concerned how they will collect the debris from the screen, rather than disturbing it and returning it to the atmosphere.",
+        "A combination of using a vacuum cleaning, and damp cloths to remove the debris whist containing it.",
+        "The cabin heat exchanger inlet screen is situated on the forward bulkhead below the main control panel 1."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "B-1 is the second landmark to track on this upcoming front side pass."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 82 hours, 21 minutes.",
+        "During the change of shift briefing, Apollo 10 completed the third revolution.",
+        "We collected about 4 minutes of conversation with the crew on tape.",
+        "We're now about 17 minutes, 40 seconds from Acquisition of Signal again at the beginning of the fourth revolution.",
+        "Shortly before Loss of Signal, Gene Cernan reported that he had removed the hatch, the drogue, and probe and was preparing to go into the tunnel and into the Lunar Module.",
+        "Cernan also reported that some mylar insulation on the outside, actually on the Lunar Module side of the Command Module hatch had apparently broken and some silicone insulation contained underneath was sifting out making somewhat of a mess in the LM tunnel.",
+        "Just as we had Loss of Signal, Tom Stafford reported that he would assist Cernan in cleaning up the mess.",
+        "We'll play back the tape of that conversation for you now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Tom is praising John about the accuracy of his docking manoeuvre, given that the roll calibration angle is only a tenth of a degree out."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is referring to the problems he is having with his eyesight when using the optics for prolonged periods, such as when he is busy with landmark tracking."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Following the Flight Plan instructions, Stafford has momentarily moved the LM PWR switch on panel 2 from the CSM position to the Reset position and then left it in the Off position.",
+        "This switch in the CSM position, energizes relays in the LM to connect CSM power to the LM through two umbilicals and disconnects LM power from the LM heater circuits.",
+        "In the Reset position, the relays in the LM are opened, disconnecting the power supply from the CSM and connecting the LM power supply to the LM heaters.",
+        "The power supplied from the CSM is for the continuous heaters in the LM, Abort Sensor Assembly (ASA), and cycling heaters in the landing radar, rendezvous radar, S band antenna and inertial measurement unit (IMU)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The LM heaters will be drawing their power from the LM batteries until approximately 83:42, whilst the LM communications tests are carried out by Cernan."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young is referring yet again to the docking tunnel hatch insulation that blew off."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "LM Glycol coolant loop pumps (2)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 82 hours, 38 minutes; and we are about 1 minute now from Acquisition of Signal as Apollo 10 moves into the fourth revolution around the Moon.",
+        "By this time, we would expect that Gene Cernan would be in the Lunar Module beginning some general housekeeping chores and figuring circuit breakers and switch panels for a communications test which will follow later on Rev 4.",
+        "Also, on this revolution, we'll be doing some landmark tracking.",
+        "The crew will be taking sights on two landmarks primarily as a practice exercise in the use of the spacecraft's optical system.",
+        "We're now about 4 seconds from Acquisition Of Signal.",
+        "We'll stand by for a call to the crew."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    }
+  ],
+  "source_file": "day4_part14_loi-2_and_entering_snoopy.html"
+}

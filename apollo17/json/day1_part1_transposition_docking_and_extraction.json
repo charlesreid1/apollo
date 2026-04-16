@@ -1,0 +1,4202 @@
+{
+  "description": "A17FJ - Day 1: Transposition, Docking and Extraction",
+  "transcript": [
+    {
+      "tokens": [
+        "003:20:04 -And, we're still getting communications through the Apollo Range Instrumented Aircraft.",
+        "We'll be picking up through Ascension shortly, at which time we'd expect the communications to improve, the noise to drop off.",
+        "From Gene Cernan's report, also from the reports from Ron Evans, it appeared that that Translunar Injection was extremely close to nominal.",
+        "The crew read a cut-off time of 5 minutes, 52 seconds.",
+        "The premaneuver prediction was 5 minutes, 51 seconds.",
+        "And the cut-off velocity appeared to be very, very close to the planned normal.",
+        "Booster engineer Frank Van Rensselaer reports the booster cut-off appeared to be exactly normal."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "003:21:43 -And Booster engineer now predicting that the maneuver to separation attitude will begin at about 3 hours, 33 minutes, 27 seconds."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston, how do you read?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0032256"
+    },
+    {
+      "tokens": [
+        "17, Houston.",
+        "We'd like Omni Delta."
+      ],
+      "speaker": "Overmyer",
+      "time": "0032302"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I picked it up a little bit.",
+        "How do you read now?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0032306"
+    },
+    {
+      "tokens": [
+        "Read you loud and clear."
+      ],
+      "speaker": "Overmyer",
+      "time": "0032309"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I hope you got all that.",
+        "It was a beautiful burn, right through sunrise.",
+        "Did you get the numbers?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0032311"
+    },
+    {
+      "tokens": [
+        "Yeah, we copied your VIand your EMS numbers, and we've got a number for you.",
+        "Maneuver start time will be at 3 plus 33 plus 27.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0032317"
+    },
+    {
+      "tokens": [
+        "Okay, we got you.",
+        "Maneuver at 03:33:27."
+      ],
+      "speaker": "Schmitt",
+      "time": "0032349"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Jack.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0032357"
+    },
+    {
+      "tokens": [
+        "You guys didn't tell us we couldn't see anything going through the sunrise."
+      ],
+      "speaker": "Schmitt",
+      "time": "0032402"
+    },
+    {
+      "tokens": [
+        "[Laughter.] Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0032409"
+    },
+    {
+      "tokens": [
+        "17, Houston.",
+        "We're making plans here for a spacecraft Sep time of 03 plus 43.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0032508"
+    },
+    {
+      "tokens": [
+        "03 plus 43.",
+        "Roger."
+      ],
+      "speaker": "Schmitt",
+      "time": "0032522"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "17, Houston.",
+        "We're copying cabin press of 5.9 this time."
+      ],
+      "speaker": "Overmyer",
+      "time": "0032736"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We - we just got it, Bob."
+      ],
+      "speaker": "Schmitt",
+      "time": "0032742"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Overmyer",
+      "time": "0032745"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Schmitt",
+      "time": "0032746"
+    },
+    {
+      "tokens": [
+        "003:29:42 -This is Apollo Control at 3 hours, 30 minutes.",
+        "The Flight Dynamics Officer has just reported that initial tracking, following the Translunar Injection burn, shows the spacecraft to be on a very nominal trajectory, and a relatively small midcourse correction indicated at this time.",
+        "The pre-burn prediction on that first midcourse correction was around 5 feet per second and we expect that that will be updated as we get additional tracking following the burn."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "003:30:28 -In about 3 minutes the spacecraft should - the launch vehicle should be - begin maneuvering to the proper attitude for separation and we're predicting separation to occur at about 3 hours, 43 minutes - or about 13 minutes from now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Frame 65 for the LMPs mag November November."
+      ],
+      "speaker": "Schmitt",
+      "time": "0033204"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "003:33:28 -About 10 seconds now until the Saturn third stage begins maneuvering into the proper separation attitude."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "003:33:58 -And Booster engineer reports from telemetry data that the booster has begun maneuvering into the proper attitude for spacecraft separation."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We - we are maneuvering, Houston."
+      ],
+      "speaker": "Cernan",
+      "time": "0033421"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're watching it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0033425"
+    },
+    {
+      "tokens": [
+        "Now we've got a few very bright particles or fragments or something that go drifting by as we maneuver."
+      ],
+      "speaker": "Schmitt",
+      "time": "0033452"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0033502"
+    },
+    {
+      "tokens": [
+        "There's a whole bunce of big ones on my window down there - just bright."
+      ],
+      "speaker": "Evans",
+      "time": "0033507"
+    },
+    {
+      "tokens": [
+        "It looks like the Fourth of July out of Ron's window.",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0033510"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "Now you can see some of them in shape.",
+        "They're very jagged, angular fragments that are tumbling."
+      ],
+      "speaker": "Schmitt",
+      "time": "0033517"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "They look like fluid of some sort?"
+      ],
+      "speaker": "Overmyer",
+      "time": "0033525"
+    },
+    {
+      "tokens": [
+        "Not to me.",
+        "They look like pieces of something."
+      ],
+      "speaker": "Schmitt",
+      "time": "0033528"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0033533"
+    },
+    {
+      "tokens": [
+        "They're very bright."
+      ],
+      "speaker": "Schmitt",
+      "time": "0033534"
+    },
+    {
+      "tokens": [
+        "Jack, we'd like Omni Charlie."
+      ],
+      "speaker": "Overmyer",
+      "time": "0033536"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Bob, for the most part, these fragments are not - or are tumbling at a very slow rate.",
+        "I tried a couple pictures of them - different settings.",
+        "You may get an idea of what, at least, the patterns look like."
+      ],
+      "speaker": "Schmitt",
+      "time": "0033704"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I've got you.",
+        "We're all ears on these fragments if you think you can figure out what they might be."
+      ],
+      "speaker": "Overmyer",
+      "time": "0033720"
+    },
+    {
+      "tokens": [
+        "Well, you know I - I don't know.",
+        "There are a number of possibilities.",
+        "If you had some kind of a - I got the impression maybe they were curved a little bit, as if they might be - off the side of the S-IVB.",
+        "And that's a wild guess..."
+      ],
+      "speaker": "Schmitt",
+      "time": "0033725"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "RCS Logic is [garble]..."
+      ],
+      "speaker": "Evans",
+      "time": "0033740"
+    },
+    {
+      "tokens": [
+        "...ice chunks, possibly.",
+        "Or maybe there's paint coming off of it."
+      ],
+      "speaker": "Schmitt",
+      "time": "0033743"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "I noticed on one trip up the elevator last week near one of the flags.",
+        "I thought it was on the S-II, but it might have been on the S-IVB.",
+        "Looked like it was peeling.",
+        "Maybe that's what you've got."
+      ],
+      "speaker": "Overmyer",
+      "time": "0033746"
+    },
+    {
+      "tokens": [
+        "And the S-IVB maneuver is complete."
+      ],
+      "speaker": "Overmyer",
+      "time": "0033757"
+    },
+    {
+      "tokens": [
+        "[Garble] on Main A."
+      ],
+      "speaker": "Evans",
+      "time": "0033758"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll set the old clock."
+      ],
+      "speaker": "Evans",
+      "time": "0033803"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And the - with the maneuver complete, the fragment field is essentially static, except for very slight tumbling within the fragments."
+      ],
+      "speaker": "Schmitt",
+      "time": "0033804"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy that."
+      ],
+      "speaker": "Overmyer",
+      "time": "0033813"
+    },
+    {
+      "tokens": [
+        "Every once in a while, a fragment of considerably higher velocity than the others goes across my window.",
+        "But that's very rare."
+      ],
+      "speaker": "Schmitt",
+      "time": "0033815"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0033823"
+    },
+    {
+      "tokens": [
+        "Hey, that's that field of view I saw out my window, Jack, do you see it now?"
+      ],
+      "speaker": "Evans",
+      "time": "0033834"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Schmitt",
+      "time": "0033839"
+    },
+    {
+      "tokens": [
+        "And, Bob.",
+        "At least, there - there's no apparent relative motion between fragments."
+      ],
+      "speaker": "Schmitt",
+      "time": "0033843"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand."
+      ],
+      "speaker": "Overmyer",
+      "time": "0033851"
+    },
+    {
+      "tokens": [
+        "I'll take two pictures about a minute apart if I can.",
+        "And it'll be Frame 70.",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0033854"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Frame 70."
+      ],
+      "speaker": "Overmyer",
+      "time": "0033905"
+    },
+    {
+      "tokens": [
+        "Schmitt's training as a scientist is apparent.",
+        "More than most of the other crewmen, he has an inherent tendency to document in order to aid later analysis.",
+        "The film record has seven frames that show particles against the black of space."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Bob.",
+        "This is Geno.",
+        "My impression is that they are - flat, flake-like particles.",
+        "Some may be 6 inches across.",
+        "And, although there's no relative motion between the two, most of them seem to be twinkling.",
+        "And I think, for the most part, they're all moving away from us."
+      ],
+      "speaker": "Cernan",
+      "time": "0033907"
+    },
+    {
+      "tokens": [
+        "Roger, Gene.",
+        "Thank you.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0033931"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We've got 0180 and 0 on the old thumbwheels."
+      ],
+      "speaker": "Evans",
+      "time": "0033948"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0033953"
+    },
+    {
+      "tokens": [
+        "Roger, Ron.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0033956"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Trans Control is Armed."
+      ],
+      "speaker": "Evans",
+      "time": "0034006"
+    },
+    {
+      "tokens": [
+        "[Garble] two Armed."
+      ],
+      "speaker": "Schmitt",
+      "time": "0034007"
+    },
+    {
+      "tokens": [
+        "Controller number 2 is Armed."
+      ],
+      "speaker": "Evans",
+      "time": "0034009"
+    },
+    {
+      "tokens": [
+        "[Garble] SECS Logic [garble]."
+      ],
+      "speaker": "Schmitt",
+      "time": "0034011"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "SECS Logic is Closed; SECS Arm are Closed; Logic Power is On."
+      ],
+      "speaker": "Evans",
+      "time": "0034014"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Schmitt",
+      "time": "0034020"
+    },
+    {
+      "tokens": [
+        "17, Houston.",
+        "You have a Go for T&D."
+      ],
+      "speaker": "Overmyer",
+      "time": "0034025"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "A Go for T&D.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0034030"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll Arm the Pyros.",
+        "[Pause.] And we'll hit the GDC Align."
+      ],
+      "speaker": "Evans",
+      "time": "0034051"
+    },
+    {
+      "tokens": [
+        "They are about to begin the Transposition, Docking and Extraction exercise which will begin with separation of the CSM from the rest of the stack and the revealing of the LM on top of the S-IVB as the four panels that make up the SLA come away.",
+        "The pyrotechnics that will carry out this dissection of the stack are armed.",
+        "The transposition consists of moving the CSM away from the S-IVB, rotating it 180° so that its nose points back towards the stage, then translating back to the LM in order to dock with the lander."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And maneuver's complete.",
+        "Okay 0180 and 0, on the GDC.",
+        "[Pause.] No.",
+        "It's just [garble] it's kind of diddling."
+      ],
+      "speaker": "Evans",
+      "time": "0034113"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Delta-V in Normal.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0034131"
+    },
+    {
+      "tokens": [
+        "S-IVB, okay.",
+        "[Pause.] Okay, switches are all set."
+      ],
+      "speaker": "Evans",
+      "time": "0034155"
+    },
+    {
+      "tokens": [
+        "Okay; 59:30."
+      ],
+      "speaker": "Schmitt",
+      "time": "0034206"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let's start the DET."
+      ],
+      "speaker": "Evans",
+      "time": "0034209"
+    },
+    {
+      "tokens": [
+        "Tickity-tick-tickity."
+      ],
+      "speaker": "Evans",
+      "time": "0034212"
+    },
+    {
+      "tokens": [
+        "Houston.",
+        "We're running at 59:30."
+      ],
+      "speaker": "Cernan",
+      "time": "0034213"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0034215"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0034219"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's Launch Vehicle Sep, push button."
+      ],
+      "speaker": "Evans",
+      "time": "0034225"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0034228"
+    },
+    {
+      "tokens": [
+        "MC in Auto.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0034232"
+    },
+    {
+      "tokens": [
+        "Next?"
+      ],
+      "speaker": "Evans",
+      "time": "0034240"
+    },
+    {
+      "tokens": [
+        "Separation, Houston."
+      ],
+      "speaker": "Cernan",
+      "time": "0034243"
+    },
+    {
+      "tokens": [
+        "Cernan, from1973 Technical debrief:\"As I recall, we undocked and separated just a little earlier than had tentatively been planned, but that was no problem because we were ready to do it.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Evans, from1973 Technical debrief:\"As far as the separation from the SLA, it was nominal.",
+        "There's a louder bang than I expected from pyros.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Separation of the CSM from the SLA is a fast but complex event.",
+        "A set of pyrotechnic devices sever electrical connections between the Service Module and the S-IVB; long lengths of explosive cut the metal structure joining the SM to the SLA to allow the spacecraft to come free; they cut the upper 75% of the conical SLA into four long sections which are now only joined to the S-IVB by spring loaded partial hinges at the centre of their lower edge; pyrotechnic thrusters mounted within the intact portion of the SLA force pistons to push on the outside edge of each SLA panel, causing them to begin rotating away from the enclosed Lunar Module.",
+        "Once the panels have rotated about 45° from the centreline of the launch vehicle, the hinges disengage, allowing springs within the hinge assembly to push the panels away at about 2.5 m/s, leaving the LM exposed at the top of the Saturn's third stage."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan, from1973 Technical debrief:\"There seemed to be an awful lot of particles with us continually throughout the flight, both in transearth and translunar coast and in lunar orbit.",
+        "These particles were obviously residue from the RCS.",
+        "Others were from dumped residues.",
+        "They seemed to be hanging around the LM as a result of pulling in and out of the S-IVB and they were always small particles.",
+        "Some, initially, were pieces of Mylar from the S-IVB LM separation.",
+        "The others were just like small dump crystals or residue.",
+        "On the LM, particularly, when you fire the RCS you could see the RCS residue.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Evans, from1973 Technical debrief:\"That residue from the RCS didn't look a lot different than a waste-water dump.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan, from1973 Technical debrief:\" That's right, except that it's less dense.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, check the covers.",
+        "Okay.",
+        "And check the other ones off."
+      ],
+      "speaker": "Evans",
+      "time": "0034244"
+    },
+    {
+      "tokens": [
+        "They're all..."
+      ],
+      "speaker": "Schmitt",
+      "time": "0034252"
+    },
+    {
+      "tokens": [
+        "Okay, I'm going to start the - My god, look at the junk!",
+        "Okay; there's 15 seconds.",
+        "Pitch her up.",
+        "Okay, we'll Proceed on the...",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0034253"
+    },
+    {
+      "tokens": [
+        "Okay, we've already Proceeded, James.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0034311"
+    },
+    {
+      "tokens": [
+        "Okay, we've checked her out.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0034323"
+    },
+    {
+      "tokens": [
+        "Houston, we're right in the middle of a snowstorm [laughter]."
+      ],
+      "speaker": "Cernan",
+      "time": "0034326"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And we'd like Omni Delta."
+      ],
+      "speaker": "Overmyer",
+      "time": "0034329"
+    },
+    {
+      "tokens": [
+        "Hey, look at that burst.",
+        "It's going to be bright as all get out."
+      ],
+      "speaker": "Evans",
+      "time": "0034333"
+    },
+    {
+      "tokens": [
+        "The scene is captured on the 16mm movie camera."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "H.264 MP4 video file."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "As the S-IVB and LM come into view, the CSM is still moving away from it.",
+        "In the film, the movement can be seen to come to a stop and then the stage begin to grow in the field of view as the CSM approaches."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And there goes one of the SLA panels."
+      ],
+      "speaker": "Cernan",
+      "time": "0034335"
+    },
+    {
+      "tokens": [
+        "Cernan, from1973 Technical debrief:\"As soon as we turned around for docking I could see three of the four SLA panels tumbling slowly in space.",
+        "This is not unusual.",
+        "That's been seen before.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Evans, from1973 Technical debrief:\"I never did see a SLA panel.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yep.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0034342"
+    },
+    {
+      "tokens": [
+        "We're not there yet.",
+        "Long ways to go yet.",
+        "It's on the other side of the Earth, if the simulator's any good.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0034351"
+    },
+    {
+      "tokens": [
+        "003:44:07 -Apollo 17 now in the process of turning around after having separated, blown the pyrotechnic charges that separates the spacecraft from the Saturn third stage."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Oh, man!"
+      ],
+      "speaker": "Evans",
+      "time": "0034408"
+    },
+    {
+      "tokens": [
+        "There goes another SLA panel, Houston, going the other way."
+      ],
+      "speaker": "Cernan",
+      "time": "0034409"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Evans",
+      "time": "0034410"
+    },
+    {
+      "tokens": [
+        "[Garble] normal [garble]."
+      ],
+      "speaker": "Schmitt",
+      "time": "0034303"
+    },
+    {
+      "tokens": [
+        "I've..."
+      ],
+      "speaker": "Cernan",
+      "time": "0034411"
+    },
+    {
+      "tokens": [
+        "Hey, there's the booster!"
+      ],
+      "speaker": "Schmitt",
+      "time": "0034412"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Bet you never saw the SLA panels on the simulator."
+      ],
+      "speaker": "Overmyer",
+      "time": "0034419"
+    },
+    {
+      "tokens": [
+        "No, but we've got the booster and is she pretty.",
+        "Challenger's just sitting in her nest."
+      ],
+      "speaker": "Cernan",
+      "time": "0034424"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We'd like Omni Bravo, now, Jack.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0034429"
+    },
+    {
+      "tokens": [
+        "Okay, I'll plus-X it.",
+        "We'll see the - oh, you can't see [garble].",
+        "[Pause.] Okay.",
+        "Oh, I can't see my COAS."
+      ],
+      "speaker": "Evans",
+      "time": "0034438"
+    },
+    {
+      "tokens": [
+        "And, Houston, some of the particles going by the window..."
+      ],
+      "speaker": "Schmitt",
+      "time": "0034453"
+    },
+    {
+      "tokens": [
+        "Okay, did you change the DAC?"
+      ],
+      "speaker": "Evans",
+      "time": "0034456"
+    },
+    {
+      "tokens": [
+        "...were obvious enough - fairly obvious to me - paint."
+      ],
+      "speaker": "Cernan",
+      "time": "0034459"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll buy that.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0034500"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "There it is.",
+        "[Pause.] Okay, did you change the DAP?",
+        "Got Att 1/Rate 2?",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0034510"
+    },
+    {
+      "tokens": [
+        "Okay, Houston, you want the High Gain?",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0034532"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're standing by for it, and the angles as published on L/3-3 should be good."
+      ],
+      "speaker": "Overmyer",
+      "time": "0034540"
+    },
+    {
+      "tokens": [
+        "Now that the CSM has separated from the S-IVB, Jack can deploy its High Gain Antenna (HGA) which had been folded up beside the SPS engine bell.",
+        "This permits a better radio link with Earth with improved bandwidth that will allow good television signals to be sent from the spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0034547"
+    },
+    {
+      "tokens": [
+        "Okay, it's flying pretty good.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0034616"
+    },
+    {
+      "tokens": [
+        "Ron is in the left seat at the spacecraft's controls."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, we're in Reacq here.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0034637"
+    },
+    {
+      "tokens": [
+        "The High Gain Antenna can be aimed manually at Earth or it will lock on automatically.",
+        "Ron has it in Reacq, or Reacquire mode which locks it onto Earth until rotation of the spacecraft causes it to lose lock.",
+        "When that happens, it points itself to angles dialled up on two knobs on the right side of the Main Display Console."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, how do you read?",
+        "We don't have a very good knock - lock on here in Reacq."
+      ],
+      "speaker": "Schmitt",
+      "time": "0034657"
+    },
+    {
+      "tokens": [
+        "Roger, Jack.",
+        "We're reading you pretty good - voice.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0034701"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It looks like it's improving.",
+        "It dropped off - signal strength dropped off, and now it's picking up again."
+      ],
+      "speaker": "Schmitt",
+      "time": "0034714"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0034720"
+    },
+    {
+      "tokens": [
+        "We're getting good signal now, Jack.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0034724"
+    },
+    {
+      "tokens": [
+        "Jack, the High Gain is looking good.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0034732"
+    },
+    {
+      "tokens": [
+        "Oh, okay."
+      ],
+      "speaker": "Schmitt",
+      "time": "0034733"
+    },
+    {
+      "tokens": [
+        "I'm guessing.",
+        "I don't know - about a hundred [garble]..."
+      ],
+      "speaker": "Evans",
+      "time": "0034738"
+    },
+    {
+      "tokens": [
+        "That's good news.",
+        "It seemed to smoo - slew very smoothly, so it looks all right."
+      ],
+      "speaker": "Schmitt",
+      "time": "0034740"
+    },
+    {
+      "tokens": [
+        "Roger, Jack."
+      ],
+      "speaker": "Overmyer",
+      "time": "0034753"
+    },
+    {
+      "tokens": [
+        "Att 1/Rate 2?",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0034754"
+    },
+    {
+      "tokens": [
+        "I can't tell you too much, Bob, from the center seat other than Captain America is very intent on getting Challenger at the moment."
+      ],
+      "speaker": "Cernan",
+      "time": "0034825"
+    },
+    {
+      "tokens": [
+        "In light of his CSM being namedAmerica, Ron had gained the nickname 'Captain America'."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I can believe that.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0034833"
+    },
+    {
+      "tokens": [
+        "Yeah, I'm coming in a little slow, but we've got plenty of time.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0034841"
+    },
+    {
+      "tokens": [
+        "003:49:05 -Ron Evans now at the controls ofAmerica.",
+        "Now moving in for the docking with Lunar ModuleChallenger."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Evans, from1973 Technical debrief:\"This is the first time that I really noticed that in the plus-X translations, or in any translations as far as that goes, you get about 0.4 degrees per second rates within the dead band.",
+        "As opposed to the simulator, it has about 0.1 degrees per second on any of the translations maintaining attitude.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "While we're moving in here, I can see a few chunks of that platy material, possibly paint, down in the SLA sort of bouncing around between the S-IVB and the LM."
+      ],
+      "speaker": "Schmitt",
+      "time": "0034913"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0034932"
+    },
+    {
+      "tokens": [
+        "But, so far, LM looks very clean.",
+        "Can't see anything abnormal from this view yet."
+      ],
+      "speaker": "Schmitt",
+      "time": "0034938"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0034948"
+    },
+    {
+      "tokens": [
+        "Isn't it, though?",
+        "That thing is really stable out there."
+      ],
+      "speaker": "Evans",
+      "time": "0034959"
+    },
+    {
+      "tokens": [
+        "Evans, from1973 Technical debrief:\"Formation flight was great.",
+        "The S-IVB by itself was as steady as a rock out there.",
+        "No problems.",
+        "I couldn't tell it was dead banding or moving at all.",
+        "I came in relatively slow, about 0.1 ft/sec, somewhere in that area.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "Can you see it at all, Gene?",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0035046"
+    },
+    {
+      "tokens": [
+        "Got one little chunk coming out - it just came out of the SLA, and it's spinning along a long axis, and it looks very stable."
+      ],
+      "speaker": "Schmitt",
+      "time": "0035134"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0035146"
+    },
+    {
+      "tokens": [
+        "Every once in a while, a small particle flies off of it though."
+      ],
+      "speaker": "Schmitt",
+      "time": "0035148"
+    },
+    {
+      "tokens": [
+        "How big of a chunk are you talking about, Jack?"
+      ],
+      "speaker": "Overmyer",
+      "time": "0035153"
+    },
+    {
+      "tokens": [
+        "Say again?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0035157"
+    },
+    {
+      "tokens": [
+        "How big an item are you talking about?"
+      ],
+      "speaker": "Overmyer",
+      "time": "0035159"
+    },
+    {
+      "tokens": [
+        "Oh, I - reference to the thrusters, about the same diameter as the thruster on the LM."
+      ],
+      "speaker": "Schmitt",
+      "time": "0035206"
+    },
+    {
+      "tokens": [
+        "Oh, Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0035213"
+    },
+    {
+      "tokens": [
+        "That's how long it was, and about - oh, a fifth that thick or that wide."
+      ],
+      "speaker": "Schmitt",
+      "time": "0035216"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0035223"
+    },
+    {
+      "tokens": [
+        "And I don't think - I don't think it's more than a quarter of an inch or maybe even less thick.",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0035224"
+    },
+    {
+      "tokens": [
+        "That same particle, Bob, came by and as it was spinning, it was throwing off pieces of itself - radially out."
+      ],
+      "speaker": "Cernan",
+      "time": "0035236"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "Overmyer",
+      "time": "0035244"
+    },
+    {
+      "tokens": [
+        "This behaviour suggests that the material they are seeing is likely to be ice that is sublimating.",
+        "This could have formed on the upper dome of the S-IVB tank, just below the LM.",
+        "This tank has contained liquid hydrogen at 20 Kelvin since before launch and although it has insulation on the inside, the outer skin of the tank is still likely to have been extremely cold."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "There's small ones come floating by and it looked like flakes.",
+        "[Long pause.] And I think I caught three of the four SLA panels going as we were maneuvering.",
+        "I've got one out the hatch window now.",
+        "It's quite a ways out..."
+      ],
+      "speaker": "Cernan",
+      "time": "0035248"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0035310"
+    },
+    {
+      "tokens": [
+        "...and tumbling in all three axes."
+      ],
+      "speaker": "Cernan",
+      "time": "0035311"
+    },
+    {
+      "tokens": [
+        "And I saw the fourth one out my side, so we saw them all.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0035316"
+    },
+    {
+      "tokens": [
+        "Area around the two spacecraft is cleaned up pretty well by now.",
+        "There are just a few fragments moving around.",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0035332"
+    },
+    {
+      "tokens": [
+        "Now she's coming in.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0035407"
+    },
+    {
+      "tokens": [
+        "003:54:23 -The crew of Apollo 17 describing what appear to be paint or possibly ice flaking off the Saturn third stage.",
+        "But somewhat puzzling at this point is just exactly what the flakes or particles that they're describing might be.",
+        "And Apollo 17 in the process of docking with the Lunar Module, preparatory to extracting the LM from the Saturn third stage.",
+        "This occuring at some 5,300 nautical miles [9,800 km] from Earth.",
+        "And we're watching the spacecraft velocity drop off rapidly as that altitude increases rapidly.",
+        "The velocity which at the Translunar Injection cut-off was around 35,000 feet per second [10,600 m/s], down to about 22,000 [6,700 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rover looks in good shape, so far."
+      ],
+      "speaker": "Schmitt",
+      "time": "0035458"
+    },
+    {
+      "tokens": [
+        "Roger, Jack.",
+        "Can you see down on that quad?",
+        "Is that what you're looking at?"
+      ],
+      "speaker": "Overmyer",
+      "time": "0035526"
+    },
+    {
+      "tokens": [
+        "Yes, I'm looking right at it.",
+        "[Pause.] And I got a good view of the MESA top anyway.",
+        "It's pretty well covered, but it looks all right also."
+      ],
+      "speaker": "Schmitt",
+      "time": "0035532"
+    },
+    {
+      "tokens": [
+        "The MESA is the Modular Experiment Stowage Assembly.",
+        "It's essentially a bay within the LM that is used to stow equipment for the lunar surface."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0035546"
+    },
+    {
+      "tokens": [
+        "All the antennas look good; thruster quads all look great.",
+        "I could see all four of them a minute ago."
+      ],
+      "speaker": "Schmitt",
+      "time": "0035549"
+    },
+    {
+      "tokens": [
+        "Okay, about 10 feet there, Gene.",
+        "Stand by for a [garble] on the barber pole.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0035557"
+    },
+    {
+      "tokens": [
+        "The crew will keep an eye on indicators on Panel 2, the central panel, which show the state of the docking system.",
+        "These indicators are found throughout the spacecraft and have a small window which in one state, shows grey, while in the other, a set of black and white diagonal stripes are displayed.",
+        "They are reminiscent of the red and white stripes on a traditional barber shop's pole so crews describe their state as either 'barber pole' or 'grey'."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0035614"
+    },
+    {
+      "tokens": [
+        "All right; in good shape.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0035641"
+    },
+    {
+      "tokens": [
+        "About now.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0035652"
+    },
+    {
+      "tokens": [
+        "Capture, Houston."
+      ],
+      "speaker": "Cernan",
+      "time": "0035703"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "Overmyer",
+      "time": "0035704"
+    },
+    {
+      "tokens": [
+        "The docking system consists of a probe mounted at the tip of the Command Module and a concave conical drogue installed within the docking port at the top of the Lunar Module.",
+        "This drogue has a circular hole at its apex and the probe has three captures latches around its tip.",
+        "These are arranged to catch on the inside lip of the hole in the drogue.",
+        "When they do to, they are said to have captured and this is a soft dock.",
+        "The tip of the probe is articulated and damped to accommodate any slight misalignment of the two craft and any rotation one might have with respect to the other.",
+        "When such rotations have damped out, the probe is pneumatically retracted while three pitch arms ensure proper alignment of the two craft.",
+        "This brings the two faces of the tunnel together where 12 spring-loaded docking latches trip to fasten the two spacecraft as one, the so-called hard dock.",
+        "The docking latches engaging in quick succession produce a distinctive ripple-fire sound."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, we're Free; rates look pretty good.",
+        "[Pause.] Let's lock it together."
+      ],
+      "speaker": "Evans",
+      "time": "0035705"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You ready?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0035714"
+    },
+    {
+      "tokens": [
+        "Ready.",
+        "She's lined up not bad."
+      ],
+      "speaker": "Evans",
+      "time": "0035715"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0035718"
+    },
+    {
+      "tokens": [
+        "Prime 1."
+      ],
+      "speaker": "Evans",
+      "time": "0035720"
+    },
+    {
+      "tokens": [
+        "Mark it.",
+        "Stand by."
+      ],
+      "speaker": "Cernan",
+      "time": "0035721"
+    },
+    {
+      "tokens": [
+        "Here she comes.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0035722"
+    },
+    {
+      "tokens": [
+        "Ka-chunk.",
+        "By gosh!"
+      ],
+      "speaker": "Evans",
+      "time": "0035728"
+    },
+    {
+      "tokens": [
+        "Okay, Houston, ripple fire; but we still have number A barber pole."
+      ],
+      "speaker": "Cernan",
+      "time": "0035731"
+    },
+    {
+      "tokens": [
+        "Evans, from1973 Technical debrief:\"Docking was nominal.",
+        "As soon as he got capture on the thing, there were no rates.",
+        "Everything was steady.",
+        "I didn't have to handle the translation controls or null rates at all.",
+        "We went directly to hard dock.",
+        "There's more spacecraft movement during that period because I feel that the COAS and the docking target were off a little bit.",
+        "And I don't say misaligned, but it's a little bit off.",
+        "But, of course, it was in limits and was no problem.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan, from1973 Technical debrief:\"When we went to retract, we got our big ripple fire - bang on the latches, so we had a relatively good hard dock.",
+        "We only got one gray indication on the talkbacks.",
+        "The other one was barber pole.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Schmitt, from1973 Technical debrief:\"There's a lot of descriptive material, I think, in the transcript on that.",
+        "As I recall, we got two pulses in the ripple fire.",
+        "It seemed like there was one or two latches and then the ripple fire.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan, from1973 Technical debrief:\"I just recall a woomph!\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Schmitt, from1973 Technical debrief:\"I think, if you look at the transcript, we said that there were two pulses to it.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy."
+      ],
+      "speaker": "Overmyer",
+      "time": "0035737"
+    },
+    {
+      "tokens": [
+        "And we have a Master - and a Master Alarm."
+      ],
+      "speaker": "Cernan",
+      "time": "0035738"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0035740"
+    },
+    {
+      "tokens": [
+        "We got - we got the most of the latches, but A is barber pole, and B is gray."
+      ],
+      "speaker": "Cernan",
+      "time": "0035741"
+    },
+    {
+      "tokens": [
+        "Okay, check both circuit breakers; they're In.",
+        "Yeah, Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0035747"
+    },
+    {
+      "tokens": [
+        "We had one clear fire, maybe one or two latches and then a ripple fire on the rest."
+      ],
+      "speaker": "Schmitt",
+      "time": "0035757"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0035807"
+    },
+    {
+      "tokens": [
+        "And, by the way, I had a good view into the AOT, and I can still look in there, and it's very clean."
+      ],
+      "speaker": "Schmitt",
+      "time": "0035810"
+    },
+    {
+      "tokens": [
+        "Jack seems to be looking out of a CM window, probably window 4 (right rendezvous) and into the objective end of the Alignment Optical Telescope (AOT).",
+        "This instrument, mounted at the top of the LM cabin, will be used to align the lander's guidance platform later in the flight."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0035816"
+    },
+    {
+      "tokens": [
+        "In fact..."
+      ],
+      "speaker": "Schmitt",
+      "time": "0035829"
+    },
+    {
+      "tokens": [
+        "Ron and Gene, we saw your Master Alarm.",
+        "Did you have any - anything on the matrix light up?"
+      ],
+      "speaker": "Overmyer",
+      "time": "0035829"
+    },
+    {
+      "tokens": [
+        "No, not a thing.",
+        "I looked."
+      ],
+      "speaker": "Cernan",
+      "time": "0035837"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0035838"
+    },
+    {
+      "tokens": [
+        "003:58:47 -That appeared to be a repeat of the Master Alarm that has been reported several times previously by the crew.",
+        "They get the alarm light and tone, but when they look for the exact location of precise indication of what's wrong, it's not there, indicating some sort of a spurious response by the Master Alarm to a problem that doesn't exist."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Bob, we're going to go ahead and take a look at that docking malfunction before we press on here further and check this barber pole out."
+      ],
+      "speaker": "Cernan",
+      "time": "0035938"
+    },
+    {
+      "tokens": [
+        "Roger, We're working some words up here.",
+        "We'll be back with you in a second on that, Gene."
+      ],
+      "speaker": "Overmyer",
+      "time": "0035948"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're down on the checklist through the EDS Power breakers, Open."
+      ],
+      "speaker": "Cernan",
+      "time": "0035953"
+    },
+    {
+      "tokens": [
+        "Understand.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0035959"
+    },
+    {
+      "tokens": [
+        "And, Houston, in case we didn't tell you, it's talkback A that's barber pole."
+      ],
+      "speaker": "Evans",
+      "time": "0040057"
+    },
+    {
+      "tokens": [
+        "Understand.",
+        "We have it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0040102"
+    },
+    {
+      "tokens": [
+        "Say - say, Gene, we don't think it's a problem.",
+        "We'll find out what it is when you get in.",
+        "We think we should just press right on with the Flight Plan checklist and keep going.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0040114"
+    },
+    {
+      "tokens": [
+        "Okay, we concur with that.",
+        "Okay, we'll press on, Bob.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0040127"
+    },
+    {
+      "tokens": [
+        "Okay, Bob.",
+        "We just got a Master Alarm when I went to the Retract Prime, from 1 to Off."
+      ],
+      "speaker": "Cernan",
+      "time": "0040158"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy that.",
+        "Looks like panel 2 is jinxed up there, huh?"
+      ],
+      "speaker": "Overmyer",
+      "time": "0040207"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, O2Heater number 3 went to Auto.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0040329"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy that."
+      ],
+      "speaker": "Overmyer",
+      "time": "0040335"
+    },
+    {
+      "tokens": [
+        "Okay, Bob.",
+        "We're reading a Delta-P of greater than 4, and I'm going to open the Pressure Equalization Valve now."
+      ],
+      "speaker": "Cernan",
+      "time": "0040808"
+    },
+    {
+      "tokens": [
+        "Up to this point, the CM forward hatch has sustained a pressure difference equal to the absolute pressure of the CM cabin.",
+        "This can be measured by the LM/CM Delta-P meter which can be connected across the two sides of the hatch using the Tunnel Vent Valve.",
+        "Now that the LM has been docked onto the tunnel, the meter can indicate the pressure difference between the cabin and the tunnel which at this point will be the same as the CM's absolute pressure."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, 17.",
+        "We copy that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0040818"
+    },
+    {
+      "tokens": [
+        "Okay, the Delta-P is coming down, Bob."
+      ],
+      "speaker": "Cernan",
+      "time": "0040905"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]<"
+      ],
+      "speaker": "Overmyer",
+      "time": "0040909"
+    },
+    {
+      "tokens": [
+        "The way to bring the Delta-P down; i.e.",
+        "to reduce the pressure difference across the forward hatch, is to bleed air from the CM into the tunnel using the Pressure Equalization Valve that is built into the hatch.",
+        "At the same time, the Tunnel Vent Valve is set to monitor the Delta-P so the crew can watch its reading fall as the pressure within the tunnel rises."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Gene, while you're watching that, I just thought you'd be interested.",
+        "We talked to some of our friends down at the Cape who watched the launch, and they said you were aglow all the way until you faded into - you couldn't tell you from a star.",
+        "They saw staging, and they could just see you as a star way off in the distance until you faded out.",
+        "Not a cloud in the way at all."
+      ],
+      "speaker": "Overmyer",
+      "time": "0040944"
+    },
+    {
+      "tokens": [
+        "Beautiful.",
+        "Okay, we're at - we're at 2, and we're monitoring it for 3 minutes."
+      ],
+      "speaker": "Cernan",
+      "time": "0040953"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Overmyer",
+      "time": "0040959"
+    },
+    {
+      "tokens": [
+        "And, Houston.",
+        "While we're checking the integrity here, on mag Alpha Alpha, there's about 50 per cent."
+      ],
+      "speaker": "Evans",
+      "time": "0041008"
+    },
+    {
+      "tokens": [
+        "Magazine AA is a magazine of 16-mm movie film that is used in a Maurer camera, Also known as a Data Acquisition Camera (DAC).",
+        "It was used to film the Transposition & Docking exercise."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mag Alpha Alpha, 50 per cent.",
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0041018"
+    },
+    {
+      "tokens": [
+        "004:11:59 -This is Apollo Control at 4 hours, 12 minutes.",
+        "The crew aboard Apollo 17 at this time pressing ahead with their preparations for separating the Lunar Module and Command Module, now docked together, from the Saturn third stage.",
+        "You heard some conversation earlier about an indication that all of the docking latches have not locked up.",
+        "There are 12 of these latches in the docking mechanism, six of which are instrumented, and of the six that are instrumented, there was an indication that one of those may not have latched.",
+        "However, we are confident that more than enough latches have locked up to assure a good solid dock, and for that reason the crew is pressing ahead with their preparations for separation."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Bob.",
+        "That's 3 minutes.",
+        "It's - Delta-P change is less than 0.1."
+      ],
+      "speaker": "Cernan",
+      "time": "0041254"
+    },
+    {
+      "tokens": [
+        "Three minutes and less than 0.1."
+      ],
+      "speaker": "Overmyer",
+      "time": "0041259"
+    },
+    {
+      "tokens": [
+        "We are pressing on.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0041303"
+    },
+    {
+      "tokens": [
+        "Rog; press."
+      ],
+      "speaker": "Overmyer",
+      "time": "0041308"
+    },
+    {
+      "tokens": [
+        "004:13:11 -That report from Gene Cernan indicating that they have a good seal at the docking interface.",
+        "Once the hatch is removed between the two vehicles, the crew will get a good look at all of those docking latches and they will be able to tell how many - if any of them didn't latch up.",
+        "We're pushing ahead now for - for extracting the Lunar Module, separating from the Saturn third stage at Ground Elapsed Time of 4 hours, 39 minutes."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Another reason to gain access to the tunnel area is to connect umbilicals which will allow an electrical signal to be sent from the CM, through the LM to the pyrotechnic devices that will separate the stack from the S-IVB."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, you want cabin's at 4.8 now; Repress is about empty.",
+        "[Pause.] Okay.",
+        "No, not yet, it's still getting a little bit.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0041441"
+    },
+    {
+      "tokens": [
+        "That Repress Package Valve is kind of noisy.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0041504"
+    },
+    {
+      "tokens": [
+        "That's all the Repress O2.",
+        "We'll turn that Off."
+      ],
+      "speaker": "Evans",
+      "time": "0041519"
+    },
+    {
+      "tokens": [
+        "Okay, Houston, the Repress Package is empty now, and we're down to a Delta-P of 0.2."
+      ],
+      "speaker": "Cernan",
+      "time": "0041524"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy that.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0041530"
+    },
+    {
+      "tokens": [
+        "And, 17.",
+        "Just be advised, you're going to have an S-IVB non-propulsive vent start 04:18:27- You've got about 3 minutes on that."
+      ],
+      "speaker": "Overmyer",
+      "time": "0041540"
+    },
+    {
+      "tokens": [
+        "[Laughter.] Okay.",
+        "Thank you."
+      ],
+      "speaker": "Evans",
+      "time": "0041551"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Can you reach [garble] there?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0041703"
+    },
+    {
+      "tokens": [
+        "Yeah, I'll get them."
+      ],
+      "speaker": "Evans",
+      "time": "0041705"
+    },
+    {
+      "tokens": [
+        "Okay, Bob.",
+        "We seem to be holding Delta-P at about 0.2.",
+        "I suspect that's probably zero."
+      ],
+      "speaker": "Cernan",
+      "time": "0041707"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy that.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0041718"
+    },
+    {
+      "tokens": [
+        "And the cabin pressure's about 4.5.",
+        "You want us to wait until 5 psi for the Emergency Cabin Pressure Selects?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0041724"
+    },
+    {
+      "tokens": [
+        "Negative on that.",
+        "Let's just go ahead and just press on."
+      ],
+      "speaker": "Overmyer",
+      "time": "0041742"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.] They should be Both."
+      ],
+      "speaker": "Schmitt",
+      "time": "0041746"
+    },
+    {
+      "tokens": [
+        "Okay, Emergency register working.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0041757"
+    },
+    {
+      "tokens": [
+        "Coming down though, Gene.",
+        "Let's wait until it gets down a little ways.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0041809"
+    },
+    {
+      "tokens": [
+        "Yeah."
+      ],
+      "speaker": "Evans",
+      "time": "0041828"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "Straight up and down as well.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0041851"
+    },
+    {
+      "tokens": [
+        "Up point one.",
+        "Must be the non-propulsive vent that's banging.",
+        "[Laughter.] Here comes all the - look at all the stuff going again.",
+        "It's really glowing."
+      ],
+      "speaker": "Evans",
+      "time": "0041903"
+    },
+    {
+      "tokens": [
+        "Your non-propulsive vent gives quite a glow."
+      ],
+      "speaker": "Schmitt",
+      "time": "0041914"
+    },
+    {
+      "tokens": [
+        "Roger, Jack.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0041918"
+    },
+    {
+      "tokens": [
+        "It looks like a rainbow.",
+        "Dark one.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0041924"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Repress Package to Fill.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0041940"
+    },
+    {
+      "tokens": [
+        "That ought to take the surge tank down a little bit.",
+        "About at what?",
+        "400?",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0041947"
+    },
+    {
+      "tokens": [
+        "In order to pressurise the tunnel, air is bled from the CM, reducing the cabin's pressure.",
+        "To compensate, oxygen can be supplied from a package in the CM intended for quick repressurisation after, say, a spacewalk.",
+        "The package, consisting of three small tanks of oxygen, can then be refilled from the main supply in the SM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "500 on the surge.",
+        "[Pause.] No, they ought to be closed off by now, I think.",
+        "Yeah."
+      ],
+      "speaker": "Evans",
+      "time": "0042003"
+    },
+    {
+      "tokens": [
+        "17, Houston."
+      ],
+      "speaker": "Overmyer",
+      "time": "0042016"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Evans",
+      "time": "0042018"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Be advised, you don't have to wait until 5 psi cabin to go ahead and open the hatch."
+      ],
+      "speaker": "Overmyer",
+      "time": "0042020"
+    },
+    {
+      "tokens": [
+        "Okay, we're not, Bob.",
+        "We're pressing on with it now."
+      ],
+      "speaker": "Cernan",
+      "time": "0042026"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0042027"
+    },
+    {
+      "tokens": [
+        "Okay, it looks like we're going to maintain about 400 on the surge.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0042030"
+    },
+    {
+      "tokens": [
+        "Okay?",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0042104"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "The hatch is coming out."
+      ],
+      "speaker": "Cernan",
+      "time": "0042118"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0042121"
+    },
+    {
+      "tokens": [
+        "[Laughter.] I don't know what you're going to do with it.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0042126"
+    },
+    {
+      "tokens": [
+        "Put it up here in the - in the - on the couch.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0042139"
+    },
+    {
+      "tokens": [
+        "There we go."
+      ],
+      "speaker": "Evans",
+      "time": "0042157"
+    },
+    {
+      "tokens": [
+        "Hey, that's a lot lighter than it used to be.",
+        "[Laughter.]"
+      ],
+      "speaker": "Evans",
+      "time": "0042158"
+    },
+    {
+      "tokens": [
+        "There's going to be a lot of happy people down there, Bob.",
+        "I haven't checked them all, but visually, they're all locked."
+      ],
+      "speaker": "Cernan",
+      "time": "0042204"
+    },
+    {
+      "tokens": [
+        "Understand, Gene.",
+        "All of them are locked."
+      ],
+      "speaker": "Overmyer",
+      "time": "0042210"
+    },
+    {
+      "tokens": [
+        "Let me give them a good check."
+      ],
+      "speaker": "Cernan",
+      "time": "0042213"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "You'd better check them, because we got a barber pole on that one.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0042215"
+    },
+    {
+      "tokens": [
+        "Okay, here's one that didn't come over."
+      ],
+      "speaker": "Cernan",
+      "time": "0042221"
+    },
+    {
+      "tokens": [
+        "What is the position of it?"
+      ],
+      "speaker": "Evans",
+      "time": "0042225"
+    },
+    {
+      "tokens": [
+        "7...",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0042227"
+    },
+    {
+      "tokens": [
+        "7 and 9?",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0042245"
+    },
+    {
+      "tokens": [
+        "Okay, Bob.",
+        "Maybe we aren't all going to be so happy."
+      ],
+      "speaker": "Cernan",
+      "time": "0042302"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Overmyer",
+      "time": "0042304"
+    },
+    {
+      "tokens": [
+        "Okay, 7, 9, and 10 - the handle is flush; the bungee is vertical, but the handle is not locked down, and the - and the red button is showing.",
+        "And I can pull each one of them back slowly.",
+        "I haven't done anything with them.",
+        "That's 7, 9, and 10."
+      ],
+      "speaker": "Cernan",
+      "time": "0042305"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy that.",
+        "The handle is flush; the bungees are vertical, but the handle is not locked down, and the red button is showing on 7, 9, and 10."
+      ],
+      "speaker": "Overmyer",
+      "time": "0042335"
+    },
+    {
+      "tokens": [
+        "That's affirm.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0042345"
+    },
+    {
+      "tokens": [
+        "Okay, Bob.",
+        "Bob, I just pushed the handle on 10 home a little bit and it did lock.",
+        "And the red button is flush.",
+        "So that leaves me 9 and 7."
+      ],
+      "speaker": "Cernan",
+      "time": "0042423"
+    },
+    {
+      "tokens": [
+        "Roger; understand.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0042436"
+    },
+    {
+      "tokens": [
+        "Geno, go ahead and try the handle on 9 and 7; and, if that doesn't work, cock them and refire them starting with 9, please."
+      ],
+      "speaker": "Overmyer",
+      "time": "0042447"
+    },
+    {
+      "tokens": [
+        "Okay; the handle doesn't work.",
+        "I'll have to recock them."
+      ],
+      "speaker": "Cernan",
+      "time": "0042458"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0042502"
+    },
+    {
+      "tokens": [
+        "When you trip it with your - did you cock it twice?"
+      ],
+      "speaker": "Evans",
+      "time": "0042516"
+    },
+    {
+      "tokens": [
+        "Yeah."
+      ],
+      "speaker": "Cernan",
+      "time": "0042520"
+    },
+    {
+      "tokens": [
+        "And it took two cocks to make it go?"
+      ],
+      "speaker": "Evans",
+      "time": "0042521"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Cernan",
+      "time": "0042524"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Evans",
+      "time": "0042525"
+    },
+    {
+      "tokens": [
+        "Okay, 9 cocked twice; it tripped.",
+        "It is overcenter and locked."
+      ],
+      "speaker": "Cernan",
+      "time": "0042530"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "How about the barber pole now?"
+      ],
+      "speaker": "Overmyer",
+      "time": "0042534"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Wait a minute, I've got - Docking Probe Main A circuit breaker's In and gone to Retract, and it's gray."
+      ],
+      "speaker": "Evans",
+      "time": "0042538"
+    },
+    {
+      "tokens": [
+        "Okay..."
+      ],
+      "speaker": "Overmyer",
+      "time": "0042544"
+    },
+    {
+      "tokens": [
+        "Aha!",
+        "That did it."
+      ],
+      "speaker": "Evans",
+      "time": "0042544"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Pause.] And...",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0042546"
+    },
+    {
+      "tokens": [
+        "Okay, Bob.",
+        "Cocked 7 twice and tripped it, and it's overcenter and locked."
+      ],
+      "speaker": "Cernan",
+      "time": "0042613"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0042618"
+    },
+    {
+      "tokens": [
+        "I think that takes care of them all."
+      ],
+      "speaker": "Cernan",
+      "time": "0042620"
+    },
+    {
+      "tokens": [
+        "Good show.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0042625"
+    },
+    {
+      "tokens": [
+        "Cernan, from1973 Technical debrief:\"Subsequent inspection of the latches showed that there were three latches which were not made entirely.",
+        "One of them, as I recall, had to be recocked.",
+        "Anyway, it turned out that once we got those three latches (which at that time looked like they were operating properly) reset, we got two barber poles on the talkbacks.",
+        "Ultimately, latch 4 was found to be unseated on the ring, although, at that time, it looked nominal.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, [pause] Docking Probe circuit breakers are Out and Extend/Retract is Off.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0042656"
+    },
+    {
+      "tokens": [
+        "Because it belongs on the probe.",
+        "[Garble] it's painted yellow, it belongs on the probe."
+      ],
+      "speaker": "Evans",
+      "time": "0042714"
+    },
+    {
+      "tokens": [
+        "Okay, Bob.",
+        "The umbilicals are connected."
+      ],
+      "speaker": "Cernan",
+      "time": "0042834"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0042839"
+    },
+    {
+      "tokens": [
+        "Okay, Houston, 7-Delta on the test meter is now reading 1.0, it jumped up to 2.6, and is now back to 1.0."
+      ],
+      "speaker": "Cernan",
+      "time": "0042933"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy.",
+        "That's good.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0042943"
+    },
+    {
+      "tokens": [
+        "The Systems Test Meter allows access to a wider range of spacecraft readings than are allowed by the space available on the cabin panels.",
+        "By selecting 7-D on two rotaty switches, Gene can read a voltmeter whose reading from 0V to 5V translates to the power being fed by the CM to the LM.",
+        "A chart onpage 1-31of theCSM Systems Checklistindicates how the meter should be interpreted.",
+        "Zero volts represents zero amps and 5V is 10A.",
+        "Therefore Gene saw the reading go from 5.2A back to 2.0A."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "004:30:06 -This is Apollo Control at 4 hours, 30 minutes.",
+        "About nine minutes from now, the crew will be firing the pyrotechnic charges that separate the Lunar Module docked to the Command Module from the Saturn third stage, and springs will push the LM/CSM back away from the launch vehicle at a rate of about 1 foot per second.",
+        "And at Ground Elapsed Time of 4 hours, 52 minutes; the launch vehicle will yaw to the proper attitude for an evasive manuever of about 10 feet per second to be performed at a Ground Elapsed Time of about 5 hours, 3 minutes.",
+        "This will increase the separation distance to assure no chance of recontact between the booster and the spacecraft en route to the Moon.",
+        "On removing the hatch between the LM, the CSM, allowing the crew to get a look inside the docking tunnel, they found that 3 of the 12 latches had not locked up, but on manually recocking them and activating them, they latched up properly, which indicates that there's nothing physically wrong with the system.",
+        "And we would expect that the next time the two vehicles come together to dock that the latches will function properly."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "There we go.",
+        "Okay.",
+        "There, we're going up in the tunnel."
+      ],
+      "speaker": "Schmitt",
+      "time": "0043031"
+    },
+    {
+      "tokens": [
+        "Pretty good ham sandwich.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0043150"
+    },
+    {
+      "tokens": [
+        "Okay, Bob, the hatch is back in.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0043230"
+    },
+    {
+      "tokens": [
+        "Roger, Gene."
+      ],
+      "speaker": "Overmyer",
+      "time": "0043236"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "17, Houston."
+      ],
+      "speaker": "Overmyer",
+      "time": "0043424"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Schmitt",
+      "time": "0043427"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "We've got some new - new angles here for you.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0043428"
+    },
+    {
+      "tokens": [
+        "Stand by a minute, and let me find a place to copy them."
+      ],
+      "speaker": "Schmitt",
+      "time": "0043443"
+    },
+    {
+      "tokens": [
+        "What - what kind of angles are they, Bob?"
+      ],
+      "speaker": "Evans",
+      "time": "0043449"
+    },
+    {
+      "tokens": [
+        "They're your Noun 22 attitude maneuver for APS burn out of the hatch window.",
+        "They're in the middle of the page L/3-5."
+      ],
+      "speaker": "Overmyer",
+      "time": "0043452"
+    },
+    {
+      "tokens": [
+        "Oh, okay."
+      ],
+      "speaker": "Evans",
+      "time": "0043503"
+    },
+    {
+      "tokens": [
+        "Instead of 270, we want 274."
+      ],
+      "speaker": "Overmyer",
+      "time": "0043506"
+    },
+    {
+      "tokens": [
+        "Wait 1.",
+        "We're not quite with you."
+      ],
+      "speaker": "Evans",
+      "time": "0043511"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0043512"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I think I'm with you at 3-7; go."
+      ],
+      "speaker": "Schmitt",
+      "time": "0043542"
+    },
+    {
+      "tokens": [
+        "It's on 3-5, Jack, middle of the page there.",
+        "Those Noun 22s."
+      ],
+      "speaker": "Overmyer",
+      "time": "0043548"
+    },
+    {
+      "tokens": [
+        "Okay, I take it back; 3-5, middle of the page."
+      ],
+      "speaker": "Schmitt",
+      "time": "0043556"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You notice there's three angles there - 270, make that 274.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0043601"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That the only change?"
+      ],
+      "speaker": "Schmitt",
+      "time": "0043613"
+    },
+    {
+      "tokens": [
+        "And the - no, the next one, the 129-8, change that to 164.",
+        "[Pause.] And 4.3 on the yaw, change that to zero.",
+        "It's close enough; zero on the yaw.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0043614"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We got them 274, 164, 00."
+      ],
+      "speaker": "Schmitt",
+      "time": "0043633"
+    },
+    {
+      "tokens": [
+        "Roger, and the High Gain angles that you've got on the Flight Plan are close enough and should do it.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0043636"
+    },
+    {
+      "tokens": [
+        "Very good."
+      ],
+      "speaker": "Schmitt",
+      "time": "0043645"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "004:39:13 -Telemetry data now shows the crew loading the information into the spacecraft Digital AutoPilot in preparation for separation from the Saturn third stage.",
+        "That should be occurring in the next minute or so."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're 6 frames a second.",
+        "[Pause.] Okay, what - what did [garble].",
+        "Range [garble].",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0043953"
+    },
+    {
+      "tokens": [
+        "Okay, I'll - I'll leave it at 10 feet and about an f - f/8.",
+        "[Long pause.] Okay, [garble] at set.",
+        "[Long pause.] Because I had that one to 0180 to 0.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0044009"
+    },
+    {
+      "tokens": [
+        "Okay, Bob.",
+        "We're aligning our GDC, and the next thing we'll pick up will be the SECS Arm circuit breakers.",
+        "And we'll give you a call on the Logic."
+      ],
+      "speaker": "Cernan",
+      "time": "0044101"
+    },
+    {
+      "tokens": [
+        "Roger, Gene.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0044112"
+    },
+    {
+      "tokens": [
+        "Okay, Bob.",
+        "While we're waiting, does the balance on the..."
+      ],
+      "speaker": "Schmitt",
+      "time": "0044126"
+    },
+    {
+      "tokens": [
+        "I see what you mean [laughter]."
+      ],
+      "speaker": "Evans",
+      "time": "0044130"
+    },
+    {
+      "tokens": [
+        "...H2and O2flow in fuel cell 3 - well, actually, in all three fuel cells, look pretty good to you?",
+        "[Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0044131"
+    },
+    {
+      "tokens": [
+        "Jack, the flows look just right for the current."
+      ],
+      "speaker": "Overmyer",
+      "time": "0044151"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Used to seeing them more or less lined up, and I hadn't calculated any farther than that."
+      ],
+      "speaker": "Schmitt",
+      "time": "0044158"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0044204"
+    },
+    {
+      "tokens": [
+        "O2- O2seems a little higher H2, relatively speaking.",
+        "[Laughter.] [Long pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0044205"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's pretty close.",
+        "[Pause.] Verified: SECS Arm breakers are Closed."
+      ],
+      "speaker": "Evans",
+      "time": "0044226"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We're ready to come up with the Logic.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0044233"
+    },
+    {
+      "tokens": [
+        "Okay, Houston, Logic 1 is coming on now and Logic 2."
+      ],
+      "speaker": "Evans",
+      "time": "0044242"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0044248"
+    },
+    {
+      "tokens": [
+        "And, Houston, just to keep track of EMS null bias check that time, was - went from 100 to 100.7 in 100 seconds.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0044313"
+    },
+    {
+      "tokens": [
+        "17, we'd like to just verify on that top line S-IVB/LM Sep circuit breakers - both of them are Closed?"
+      ],
+      "speaker": "Overmyer",
+      "time": "0044334"
+    },
+    {
+      "tokens": [
+        "Okay, we'll verify them again.",
+        "We doublechecked them."
+      ],
+      "speaker": "Cernan",
+      "time": "0044345"
+    },
+    {
+      "tokens": [
+        "Okay, we just didn't hear your call and we want to make sure of that.",
+        "Didn't want to miss anything here."
+      ],
+      "speaker": "Overmyer",
+      "time": "0044349"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "They are - they are verified Closed, and Jack just checked them again."
+      ],
+      "speaker": "Cernan",
+      "time": "0044353"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You are Go for Pyro Arm and Go for extraction."
+      ],
+      "speaker": "Overmyer",
+      "time": "0044357"
+    },
+    {
+      "tokens": [
+        "Okay, Go for Pyro Arm; Go for Pyro extraction - or LM extraction [laughter]."
+      ],
+      "speaker": "Cernan",
+      "time": "0044401"
+    },
+    {
+      "tokens": [
+        "Okay, Pyro Arm."
+      ],
+      "speaker": "Schmitt",
+      "time": "0044409"
+    },
+    {
+      "tokens": [
+        "Okay, we'll Arm the old Pyros.",
+        "There's Pyro A; Pyro B."
+      ],
+      "speaker": "Evans",
+      "time": "0044410"
+    },
+    {
+      "tokens": [
+        "Servo Power number 1 [garble]."
+      ],
+      "speaker": "Schmitt",
+      "time": "0044417"
+    },
+    {
+      "tokens": [
+        "TVC Servo Power, AC 1."
+      ],
+      "speaker": "Evans",
+      "time": "0044419"
+    },
+    {
+      "tokens": [
+        "Trans Control Power, up and On."
+      ],
+      "speaker": "Schmitt",
+      "time": "0044421"
+    },
+    {
+      "tokens": [
+        "Trans Control Power is On."
+      ],
+      "speaker": "Evans",
+      "time": "0044424"
+    },
+    {
+      "tokens": [
+        "Okay, Rot Controllers are Armed.",
+        "[Pause.] Okay, I'll wait just a little bit on that - EMS to Normal.",
+        "Get Delta-V [garble].",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0044429"
+    },
+    {
+      "tokens": [
+        "Okay, EMS to Normal?",
+        "Push right there.",
+        "Yep."
+      ],
+      "speaker": "Evans",
+      "time": "0044458"
+    },
+    {
+      "tokens": [
+        "Okay; on my mark, the S-IVB/LM Sep will come on."
+      ],
+      "speaker": "Cernan",
+      "time": "0044506"
+    },
+    {
+      "tokens": [
+        "Okay, and then I'll back it off to...",
+        "[pause].",
+        "Okay?"
+      ],
+      "speaker": "Evans",
+      "time": "0044509"
+    },
+    {
+      "tokens": [
+        "Okay, on my mark, S-IVB/LM Sep: 3, 2, 1..."
+      ],
+      "speaker": "Cernan",
+      "time": "0044523"
+    },
+    {
+      "tokens": [
+        "Mark it.",
+        "Okay, we got it."
+      ],
+      "speaker": "Cernan",
+      "time": "0044532"
+    },
+    {
+      "tokens": [
+        "Oh, ho!",
+        "Man, did we!",
+        "There she goes.",
+        "Yeah; LM came with us."
+      ],
+      "speaker": "Evans",
+      "time": "0044535"
+    },
+    {
+      "tokens": [
+        "Okay, we're CMC, Auto.",
+        "All right.",
+        "We've got six tenths.",
+        "It's all right.",
+        "Okay, whoopee-dee-doo!",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0044543"
+    },
+    {
+      "tokens": [
+        "Safe the Pyros.",
+        "[Pause.] Okay, Logic'S Off.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0044558"
+    },
+    {
+      "tokens": [
+        "SECS - SECS Arm breakers are Open.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0044608"
+    },
+    {
+      "tokens": [
+        "004:46:17 -This is Apollo Control.",
+        "America and Challenger are on their own.",
+        "LM ejection occurred at 4 hours, 45 minutes Ground Elapsed Time; at an altitude of 13,000 nautical miles [24,000 km] from Earth."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan, from1973 Technical debrief:\"The attitudes given us were excellent; we were able to watch the S-IVB maneuver.",
+        "We were able to see the S-IVB vent and it all went well and nominal.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Schmitt, from1973 Technical debrief:\"It was very clean as far as any debris or anything coming out during the docking phase, and I could see a few little things that were bouncing around inside around the LM, particles of some kind.",
+        "It was nothing like previous flights where they had a lot of debris.",
+        "It was very clean.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Now I think we ought to go to the maneuver pretty quick.",
+        "Otherwise, the S-IVB will be so far away you can't see it.",
+        "[Pause.] Okay, you ready to maneuver?"
+      ],
+      "speaker": "Evans",
+      "time": "0044641"
+    },
+    {
+      "tokens": [
+        "Okay, CMC in Auto, caged.",
+        "Away we go.",
+        "[Pause.] That - that [garble] wasn't as bad as the original Sep.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0044656"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0044712"
+    },
+    {
+      "tokens": [
+        "Came right out, though."
+      ],
+      "speaker": "Evans",
+      "time": "0044717"
+    },
+    {
+      "tokens": [
+        "Mapping Camera and Pan Camera are Off.",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0044719"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.] Power's Off.",
+        "Hey, Jack.",
+        "Hand me the Hasselblad.",
+        "I think we're bowing the right direction.",
+        "[Pause.] Yeah, the Moon is there.",
+        "The Earth is - that's the Earth.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0044729"
+    },
+    {
+      "tokens": [
+        "Servo Power's Off, yes."
+      ],
+      "speaker": "Evans",
+      "time": "0044752"
+    },
+    {
+      "tokens": [
+        "The Earth just fills up window 5.",
+        "[Pause.] Okay, f, infinity, about a 250th, f/11."
+      ],
+      "speaker": "Evans",
+      "time": "0044756"
+    },
+    {
+      "tokens": [
+        "For those not conversant with photography terms, Ron is setting the focus of the Hasselblad's lens to infinity to photograph Earth.",
+        "He will use a shutter speed of 1/250th of a second, a short exposure duration that will minimise any possibility of camera shake blurring the image.",
+        "Finally, he will set the lens's aperture (the size of the hole through which light passes on its way to the film) to be 1/11th of the lens's focal length.",
+        "Since the lens has a focal length of 80mm, the diameter of the aperture should me about 7.3 millimetres."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The next two photographs are the first in the Apollo 17 collection which, although they do not show the whole of Earth's disc, they do allow a measurement to be taken across from limb to limb.",
+        "A little analysis then, including a few assumptions, permits us to make an approximate calculation of the spacecraft's altitude when the photo was taken.",
+        "In the high resolution scans of this film (mag NN, number 148) made by JSC, the whole height of an imaged frame is 4,175 pixels, measured using one of the earlier shots on the film, AS17-148-22652.",
+        "This represents 55.5 mm, the actual height as measured on a negative from a Hasselblad 500C camera, the same type and from the same era as the camera used to take these images.",
+        "The image of Earth on frame AS17-148-22701 was measured at 2,522 pixels which implies that the image of Earth on the film itself should have been 33.53 mm across.",
+        "On the assumption that the shot was taken using an 80-mm lens, we can use an equation to determine the angle that Earth subtended to the camera.",
+        "This is \"angle = 2arctan(dimension/2 times focal length)\".",
+        "This works out at 23.67°.",
+        "Since we know Earth's radius to be 6,371 km, basic trigonometry gives us a distance of 31,065 km.",
+        "However, that is the distance to the limb, not to the sub-spacecraft point on Earth.",
+        "For that we deduct the planet's radius which yields approximately 24,700 km or 13,330 nautical miles."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "If we apply the same technique to the next frame, AS17-148-22702, we get a distance of approximately 24,920 km (13,456 nautical miles).",
+        "This is because it's image, at 2,503 pixels, is 19 pixels smaller."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "There are also a few frames of this Earth view taken on the 16mm movie camera."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "H.264 MP4 video file."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "What - what do you have?",
+        "A zero in there?",
+        "Hey, I lost my watch.",
+        "Turn the AC Off.",
+        "Yeah, AC's Off.",
+        "Whoo, what a beauty!",
+        "What a beauty!",
+        "Yeah, the Earth.",
+        "I can't see the S-IVB.",
+        "It's gone.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0044815"
+    },
+    {
+      "tokens": [
+        "Look at that."
+      ],
+      "speaker": "Evans",
+      "time": "0044845"
+    },
+    {
+      "tokens": [
+        "Yeah, Madagascar and Africa.",
+        "Mada...",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0044848"
+    },
+    {
+      "tokens": [
+        "[Garble] see it."
+      ],
+      "speaker": "Evans",
+      "time": "0044900"
+    },
+    {
+      "tokens": [
+        "Got to be."
+      ],
+      "speaker": "Evans",
+      "time": "0044902"
+    },
+    {
+      "tokens": [
+        "Yeah, as soon as I find the S-IVB, we'll...",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0044905"
+    },
+    {
+      "tokens": [
+        "Hey, there's Antarctica.",
+        "It's all full of snow.",
+        "[Pause.] Okay.",
+        "You want to look?",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0044921"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "[Pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0044935"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "Oh, there it goes, there.",
+        "[Pause.] Looks kind of empty down there without the LM..."
+      ],
+      "speaker": "Evans",
+      "time": "0044942"
+    },
+    {
+      "tokens": [
+        "Okay, Bob, we're looking right up the dome of the S-IVB.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0044953"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy that.",
+        "We're standing by for your Go for yaw maneuver.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0044959"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "We can give them a Go for - for the yaw, can't we?",
+        "We can see it now."
+      ],
+      "speaker": "Evans",
+      "time": "0045019"
+    },
+    {
+      "tokens": [
+        "Yes, we can see it.",
+        "You've got the Go for the yaw.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0045024"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you, 17.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0045031"
+    },
+    {
+      "tokens": [
+        "Looks like she came out of there clean as a whistle."
+      ],
+      "speaker": "Cernan",
+      "time": "0045042"
+    },
+    {
+      "tokens": [
+        "17, Houston.",
+        "The yaw maneuver will be starting in about 4 plus 52, a little less than 2 minutes from now."
+      ],
+      "speaker": "Overmyer",
+      "time": "0045048"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0045055"
+    },
+    {
+      "tokens": [
+        "At this point, the air-ground audio has a sound like a clockwork mechanism with a tick every one second."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Sounds like you are taking a picture of that old dome out there, huh?"
+      ],
+      "speaker": "Overmyer",
+      "time": "0045116"
+    },
+    {
+      "tokens": [
+        "Oh, we're at the end.",
+        "[Laughter.] We're at the end - you know.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0045122"
+    },
+    {
+      "tokens": [
+        "The ticking noise returns for about 15 seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Garble.] [Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0045221"
+    },
+    {
+      "tokens": [
+        "Hey, there it goes.",
+        "Look at the aft fire of the thing."
+      ],
+      "speaker": "Evans",
+      "time": "0045235"
+    },
+    {
+      "tokens": [
+        "And we can see it firing now.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0045238"
+    },
+    {
+      "tokens": [
+        "Roger, 17.",
+        "Yaw maneuver started.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0045246"
+    },
+    {
+      "tokens": [
+        "004:52:54 -The Saturn third stage now maneuvering into attitude for the APS evasive maneuver, a 10-foot-per-second burn using the Auxiliary Propulsion System that will assure..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The old S-IVB had a flare for the dramatic, but it certainly did its job for us."
+      ],
+      "speaker": "Schmitt",
+      "time": "0045306"
+    },
+    {
+      "tokens": [
+        "Roger, Jack.",
+        "[Pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0045310"
+    },
+    {
+      "tokens": [
+        "Again the ticking noise returns but this time it is at 6 ticks per second.",
+        "This strongly suggests that what we are hearing is the Maurer 16mm movie camera, also known as the Data Acquisition Camera, which can run at 1, 6, 12 and 24 frames per second.",
+        "Magazine AA has footage of the S-IVB making a yaw manoeuvre."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "H.264 MP4 video file."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Preliminary data indicated that you are about as nominal as you can be."
+      ],
+      "speaker": "Overmyer",
+      "time": "0045320"
+    },
+    {
+      "tokens": [
+        "That's the way we'd like to keep it, Bob."
+      ],
+      "speaker": "Cernan",
+      "time": "0045326"
+    },
+    {
+      "tokens": [
+        "You'd better believe it."
+      ],
+      "speaker": "Overmyer",
+      "time": "0045328"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "She's - as we're looking at it, she's pitching up.",
+        "She was looking right at us - we were looking right at the dome - and now she's pitching up.",
+        "The shroud around the IU seems to be totally intact.",
+        "It - it looked like a super clean separation.",
+        "I can't really see where there's any paint or anything externally chipped off the - the booster from here.",
+        "We're beginning to - to pick up the bell.",
+        "It's really a shame you don't have this - this whole thing on TV; it's really quite a sight."
+      ],
+      "speaker": "Cernan",
+      "time": "0045331"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We concur with that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0045412"
+    },
+    {
+      "tokens": [
+        "The Mylar and the gold coating on the inside of the shroud that's now visible is also intact.",
+        "[Pause.] It looks like you could use it again if you could get it back."
+      ],
+      "speaker": "Cernan",
+      "time": "0045425"
+    },
+    {
+      "tokens": [
+        "The gold-coloured Mylar thermal insulation is actually for the systems mounted around the inside of the Instrument Unit ring.",
+        "As can be seen in AS17-148-22711, neither the remaining section of the conical shroud above it nor the forward skirt of the S-IVB below it carry this insulation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Well, it's got a job to do when it hits the Moon yet.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0045443"
+    },
+    {
+      "tokens": [
+        "Okay, Bob.",
+        "We've - we're almost looking at it broadside now."
+      ],
+      "speaker": "Cernan",
+      "time": "0045515"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0045520"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "She's spitting a little; looks like the yaw maneuver may be complete.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0045601"
+    },
+    {
+      "tokens": [
+        "We got a - full view of the - entire J-2 from here; and no kidding, Bob, the whole bird, the shroud at the top by the IU, the separation plane down by the S-II, from here all looks as clean as a whistle, all the way."
+      ],
+      "speaker": "Cernan",
+      "time": "0045613"
+    },
+    {
+      "tokens": [
+        "Roger, Gene.",
+        "If you're happy, we'd like a Go from you for the evasive burn."
+      ],
+      "speaker": "Overmyer",
+      "time": "0045632"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're going to burn on the booster's plus X-axis, is that right?"
+      ],
+      "speaker": "Cernan",
+      "time": "0045640"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Overmyer",
+      "time": "0045645"
+    },
+    {
+      "tokens": [
+        "Let's get a picture or two here yet, and we'll give you a Go.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0045648"
+    },
+    {
+      "tokens": [
+        "And, Gene, it'll be about 7 minutes until the evasive burn; 5 plus 03."
+      ],
+      "speaker": "Overmyer",
+      "time": "0045658"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You have a Go.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0045703"
+    },
+    {
+      "tokens": [
+        "And for your reference, at frame 105 I started a few 250-millimeter pictures of the S-IVB.",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0045710"
+    },
+    {
+      "tokens": [
+        "Roger, Jack.",
+        "[Long pause.]"
+      ],
+      "speaker": "Overmyer",
+      "time": "0045724"
+    },
+    {
+      "tokens": [
+        "And, Bob, the entire sky, as far as I can make it out through the hatch window, is completely filled with our twinkling flakes.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0045821"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy that."
+      ],
+      "speaker": "Overmyer",
+      "time": "0045847"
+    },
+    {
+      "tokens": [
+        "I saw a couple particles go by the window awhile back, and it looked a little bit like insulation in this - these particular case - styrofoam insulation, but in flat flakes."
+      ],
+      "speaker": "Schmitt",
+      "time": "0045857"
+    },
+    {
+      "tokens": [
+        "Roger that."
+      ],
+      "speaker": "Overmyer",
+      "time": "0045919"
+    },
+    {
+      "tokens": [
+        "That was right after we separated from the S-IVB."
+      ],
+      "speaker": "Schmitt",
+      "time": "0045922"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0045928"
+    },
+    {
+      "tokens": [
+        "CSM Sep - CSM Sep, Bob."
+      ],
+      "speaker": "Schmitt",
+      "time": "0045929"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand."
+      ],
+      "speaker": "Overmyer",
+      "time": "0045933"
+    },
+    {
+      "tokens": [
+        "Bob, I know - I know we're not the first to discover this, but we'd like to confirm, from the crew of America, that the world is round."
+      ],
+      "speaker": "Cernan",
+      "time": "0045937"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's a good data point.",
+        "Have you gotten a good look at any of that weather down there on the Antarctic?"
+      ],
+      "speaker": "Overmyer",
+      "time": "0045952"
+    },
+    {
+      "tokens": [
+        "Well, on Ron's window number 1 - maybe he can tell you a little about it."
+      ],
+      "speaker": "Cernan",
+      "time": "0050002"
+    },
+    {
+      "tokens": [
+        "You know, it's real funny there in Antarctica the - You can see the snow, but there isn't any weather at all in it.",
+        "All of the weather's around it in the water."
+      ],
+      "speaker": "Evans",
+      "time": "0050009"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Overmyer",
+      "time": "0050018"
+    },
+    {
+      "tokens": [
+        "That's where the moisture is.",
+        "[Pause.]"
+      ],
+      "speaker": "Schmitt",
+      "time": "0050020"
+    },
+    {
+      "tokens": [
+        "I don't know what to take a picture of.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0050026"
+    },
+    {
+      "tokens": [
+        "Very often, Ron's microphone seems to be open, allowing unusual sounds to be heard on the air/ground circuit.",
+        "Earlier, the sound of the DAC movie camera was apparent.",
+        "During this pause in Ron's speech, a Hasselblad camera can be heard to operate twice, including the sound of the electric motor drive advancing the film and recocking the shutter."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "I can't see the U.S.",
+        "at all."
+      ],
+      "speaker": "Evans",
+      "time": "0050112"
+    },
+    {
+      "tokens": [
+        "17, Houston."
+      ],
+      "speaker": "Overmyer",
+      "time": "0050114"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Cernan",
+      "time": "0050116"
+    },
+    {
+      "tokens": [
+        "Look's like you've got a superconservative CMP up there.",
+        "We've run off some numbers - Looks like you used about 40 pounds of RCS on the T&D, and you've used about a total of 42 pounds RCS total; so we're hanging right in there.",
+        "Beautiful."
+      ],
+      "speaker": "Overmyer",
+      "time": "0050117"
+    },
+    {
+      "tokens": [
+        "Very fine; glad to hear that."
+      ],
+      "speaker": "Cernan",
+      "time": "0050134"
+    },
+    {
+      "tokens": [
+        "[Garble] velvet touch."
+      ],
+      "speaker": "Schmitt",
+      "time": "0050137"
+    },
+    {
+      "tokens": [
+        "Still a little bit too much, but that's not bad."
+      ],
+      "speaker": "Evans",
+      "time": "0050140"
+    },
+    {
+      "tokens": [
+        "We'll be glad to leave all that extra, I hope, in the Service Module when we get home.",
+        "[Long pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0050142"
+    },
+    {
+      "tokens": [
+        "It's in the Volkswagen pouch down there.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0050247"
+    },
+    {
+      "tokens": [
+        "Oh, I'll change the lens now."
+      ],
+      "speaker": "Evans",
+      "time": "0050310"
+    },
+    {
+      "tokens": [
+        "17, Houston.",
+        "It's about 30 seconds from the evasive maneuver burn."
+      ],
+      "speaker": "Overmyer",
+      "time": "0050311"
+    },
+    {
+      "tokens": [
+        "This is a manoeuvre that the APS modules at the base of the S-IVB will carry out to ensure the stage's trajectory does not interfere with that of the spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0050317"
+    },
+    {
+      "tokens": [
+        "Here, Jack, can you see him good?",
+        "Check the settings there.",
+        "I took an f/22 stop.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0050319"
+    },
+    {
+      "tokens": [
+        "There it goes, Bob."
+      ],
+      "speaker": "Cernan",
+      "time": "0050351"
+    },
+    {
+      "tokens": [
+        "There it goes; finally."
+      ],
+      "speaker": "Evans",
+      "time": "0050352"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0050354"
+    },
+    {
+      "tokens": [
+        "005:05:11 -This is Apollo Control at 5 hours, 5 minutes."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "17, Houston.",
+        "The evasive burn is complete, and the LOX dump will be at 5 plus 24 plus 20."
+      ],
+      "speaker": "Overmyer",
+      "time": "0050512"
+    },
+    {
+      "tokens": [
+        "Okay; 5 plus 24 plus 20."
+      ],
+      "speaker": "Cernan",
+      "time": "0050523"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Overmyer",
+      "time": "0050525"
+    },
+    {
+      "tokens": [
+        "He's going to be gone, I think, before we can see it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Evans",
+      "time": "0050526"
+    },
+    {
+      "tokens": [
+        "And, Bob, you can tell Frank to forget the - returning that phone call I made to him a couple days ago."
+      ],
+      "speaker": "Cernan",
+      "time": "0050541"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Understand."
+      ],
+      "speaker": "Overmyer",
+      "time": "0050550"
+    },
+    {
+      "tokens": [
+        "All my questions are answered."
+      ],
+      "speaker": "Cernan",
+      "time": "0050554"
+    },
+    {
+      "tokens": [
+        "Think you've had enough booster briefings, huh?"
+      ],
+      "speaker": "Overmyer",
+      "time": "0050556"
+    },
+    {
+      "tokens": [
+        "Yep.",
+        "I figure this is probably the best one of all."
+      ],
+      "speaker": "Cernan",
+      "time": "0050559"
+    },
+    {
+      "tokens": [
+        "Frank said he'd guarantee all those S-IVBs would be just as good as this one."
+      ],
+      "speaker": "Overmyer",
+      "time": "0050604"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's - fair enough.",
+        "[Pause.]"
+      ],
+      "speaker": "Cernan",
+      "time": "0050608"
+    },
+    {
+      "tokens": [
+        "The S-IC and the S-II didn't put on a bad show either."
+      ],
+      "speaker": "Cernan",
+      "time": "0050621"
+    },
+    {
+      "tokens": [
+        "That's right."
+      ],
+      "speaker": "Overmyer",
+      "time": "0050624"
+    },
+    {
+      "tokens": [
+        "Ron is about to give a frame count of 123 frames on Hasselblad magazine NN.",
+        "This implies that frame 122 has been taken and this is the last of four frames that show the whole Earth."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, magazine November November's on about 123 right now."
+      ],
+      "speaker": "Evans",
+      "time": "0050838"
+    },
+    {
+      "tokens": [
+        "This is the famous Blue Marble sequence, the first time that a human had been in a position to snap a conventional colour photograph of the full Earth.",
+        "One of these images is said to be the most reproduced photograph ever.",
+        "It is generally reckoned that the third image, 22727, is the definitive image from the series though close inspection of the 2005 scans from the Johnson Space Center suggest to this author (Woods) that 22725 is marginally sharper.",
+        "The fact that Ron has just read out the frame number to Earth also suggests that he took the photos."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "By measurement of the size of Earth's image in these photographs (29mm), they were taken at a distance of about 29,400 kilometres (15,900 nautical miles)."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Ron.",
+        "Magazine November November is on 123."
+      ],
+      "speaker": "Overmyer",
+      "time": "0050846"
+    },
+    {
+      "tokens": [
+        "And, Bob, we're on page 3-9 of the Flight Plan now.",
+        "We'll check the LM/CM Delta-P, get the cabin fan filter in.",
+        "We'll go over the check - the Systems Checklist, get the primary EVAP and a few odds and ends, and start doffing our PGAs.",
+        "How's that sound?"
+      ],
+      "speaker": "Cernan",
+      "time": "0050855"
+    },
+    {
+      "tokens": [
+        "Sounds like a winner, Gene."
+      ],
+      "speaker": "Overmyer",
+      "time": "0050916"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Cernan",
+      "time": "0050919"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day1_part1_transposition_docking_and_extraction.html"
+}

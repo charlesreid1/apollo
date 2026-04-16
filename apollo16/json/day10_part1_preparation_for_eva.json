@@ -1,0 +1,7086 @@
+{
+  "description": "Apollo 16 Flight Journal - Day 10, Part 1: Preparation for EVA",
+  "transcript": [
+    {
+      "tokens": [
+        "This is Apollo Control, Houston, at 237 hours, 29 minutes [212:43] Ground Elapsed Time.",
+        "We now show Apollo 16 at a distance of 187,791 nautical miles away from the Earth.",
+        "And now travelling at a speed of 3,750 feet per second relative to the Earth.",
+        "In the Mission Control Center we've had a change of shift.",
+        "Our Flight Director at this time is Phil Shaffer and filling the Capcom position at this time Henry Hartsfield.",
+        "We'll stand by now with the line open awaiting for a crew callup.",
+        "We're at 237 hours, 30 minutes [212:44:] Ground Elapsed Time and this is Apollo Control, Houston, continuing to monitor."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The PAO, Mission Control and Crew are using the updated GET, intended to align events to the Flight Plan.",
+        "At this stage in the flight, the difference from the actual GET is 24 hours, 45 minutes and 52 seconds.",
+        "Seeherefor more details."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 16, Houston."
+      ],
+      "speaker": "Hartsfield",
+      "time": "212_44_37"
+    },
+    {
+      "tokens": [
+        "Good morning, Henry."
+      ],
+      "speaker": "Mattingly",
+      "time": "2124509"
+    },
+    {
+      "tokens": [
+        "Good morning.",
+        "Is everybody wide awake and feeling great this morning?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2124510"
+    },
+    {
+      "tokens": [
+        "You even gave us an extra hour."
+      ],
+      "speaker": "Mattingly",
+      "time": "2124519"
+    },
+    {
+      "tokens": [
+        "We're coming up on antenna switch, and I think the comm is a little bad; but, right off the bat we'd like for you to remain in PTC."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2124535"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2124547"
+    },
+    {
+      "tokens": [
+        "And we'd also like for you to take the Up Telemetry Command switch Off for three seconds.",
+        "We've got that same commanding problem we had during coast out to the Moon."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2124550"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's Off and back to Normal."
+      ],
+      "speaker": "Mattingly",
+      "time": "2124614"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2124617"
+    },
+    {
+      "tokens": [
+        "That cured up the commanding problem."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2124645"
+    },
+    {
+      "tokens": [
+        "Good show."
+      ],
+      "speaker": "Mattingly",
+      "time": "2124652"
+    },
+    {
+      "tokens": [
+        "Hank, before we copy the Flight Plan updates, do you want us to start on the 236-hour item?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2124712"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We'd like for you to get started on the postsleep checklist.",
+        "And, rather than read you a bunch of things to start with, I think I'll just remind you of a few things to catch you up.",
+        "I've got a list of them here.",
+        "While you're doing that, if we could get somebody to pull the Gamma Ray boom in, I'd appreciate it."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2124722"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You want that all the way in?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2124741"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "And you'll need your Logic Powers to get that in."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2124751"
+    },
+    {
+      "tokens": [
+        "All righty.",
+        "Thank you, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "2124753"
+    },
+    {
+      "tokens": [
+        "And we'd like to get the S-Band Normal Mode switch to Voice."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2124812"
+    },
+    {
+      "tokens": [
+        "That already is voicing."
+      ],
+      "speaker": "Mattingly",
+      "time": "2124824"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2124827"
+    },
+    {
+      "tokens": [
+        "We couldn't talk to you if we weren't in Voice, Pete."
+      ],
+      "speaker": "Duke",
+      "time": "2124832"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We were in Down Voice Backup there and then Command in Normal."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2124840"
+    },
+    {
+      "tokens": [
+        "I got you."
+      ],
+      "speaker": "Mattingly",
+      "time": "2124850"
+    },
+    {
+      "tokens": [
+        "And, Ken, for your information, we've scrubbed the corona window calibration and the Skylab contamination photos."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2124923"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2124933"
+    },
+    {
+      "tokens": [
+        "And we're gonna stay at PTC right up to the Mid-Course 5.",
+        "And if you're - can get to it now, Ken, I'd like to get the Image Motion, On; and the Mapping Camera, On.",
+        "And, then give me barber pole plus two."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2124935"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Just a second.",
+        "Let me catch up here."
+      ],
+      "speaker": "Mattingly",
+      "time": "2124958"
+    },
+    {
+      "tokens": [
+        "Hank, you say you want the Mapping Camera Image Motion, On; and then the cameras on [garble]."
+      ],
+      "speaker": "Mattingly",
+      "time": "2125046"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Ken.",
+        "We want to get the Image Motion, On; the Mapping Camera, On; barber pole plus two.",
+        "And we're gonna leave it shut up in there.",
+        "We're just running the film out."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2125057"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston, at 237 hours, 37 minutes [212:50] Ground Elapsed Time.",
+        "The crew of Apollo 16 [have been] given some extra sleep time this morning.",
+        "Two of the earlier items scheduled have been deleted from the Flight Plan, the corona calibration photography and the Skylab contamination photography."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "CM transcript starts."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We're at 237 hours 38 minutes [212:51] Ground Elapsed Time.",
+        "We show Apollo 16 at a distance of 187,462 nautical miles away from the Earth and travelling at a speed of 3,755 feet per second relative to the Earth."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 16, Houston."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2125242"
+    },
+    {
+      "tokens": [
+        "Hello."
+      ],
+      "speaker": "Mattingly",
+      "time": "2125247"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "For your information, old mother Earth's got you now, and you're coming home."
+      ],
+      "speaker": "Hartsfield",
+      "time": "212_52_48"
+    },
+    {
+      "tokens": [
+        "That's nice to know ..."
+      ],
+      "speaker": "Mattingly",
+      "time": "2125258"
+    },
+    {
+      "tokens": [
+        "Hey, Hank it had us ..."
+      ],
+      "speaker": "Young",
+      "time": "2125300"
+    },
+    {
+      "tokens": [
+        "How about some words..."
+      ],
+      "speaker": "Mattingly",
+      "time": "2125301"
+    },
+    {
+      "tokens": [
+        "...",
+        "last night."
+      ],
+      "speaker": "Young",
+      "time": "2125302"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're just now showing you crossing under the Earth's in - sphere of influence."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2125304"
+    },
+    {
+      "tokens": [
+        "That was Capcom Henry Hartsfield advising the crew of Apollo 16 that they're now in the Earth's sphere of influence."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "What's some words on Mid-Course 5."
+      ],
+      "speaker": "Mattingly",
+      "time": "2125309"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Mid-Course 5 will be about 4 feet per second.",
+        "It'll be an RCS burn."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2125310"
+    },
+    {
+      "tokens": [
+        "Roger"
+      ],
+      "speaker": "Mattingly",
+      "time": "2125324"
+    },
+    {
+      "tokens": [
+        "We show 1 hour, 41 minutes till time of the Mid-Course burn.",
+        "This with the Delta V of about 4 foot per second performed with a [sic] Reaction Control System.",
+        "We're looking presently at a burn duration of 8 to 9 seconds."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We now show Apollo 16 187,381 nautical miles away from the Earth."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hank, would you say again what you wanted done with this Mapping Camera, please?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2125506"
+    },
+    {
+      "tokens": [
+        "Roger, Ken.",
+        "We just want to run the film out and leave the door shut.",
+        "We want to get the Image Motion, On; Mapping Camera, On; and barber pole plus 2.",
+        "That gives us a higher speed."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2125509"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2125523"
+    },
+    {
+      "tokens": [
+        "And, 16, Houston.",
+        "Whenever you get a chance, we'd like to get yesterday's crew status and today's crew status report."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2125618"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's in work now, Hank."
+      ],
+      "speaker": "Mattingly",
+      "time": "2125626"
+    },
+    {
+      "tokens": [
+        "Break in CM transcript until 213:11:06."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 16, Houston.",
+        "When you get a break there, I do have a few Flight Plan changes I'd like to get up."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2130251"
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "Let me finish this status report thing.",
+        "It all uses the same book."
+      ],
+      "speaker": "Mattingly",
+      "time": "2130257"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2130303"
+    },
+    {
+      "tokens": [
+        "Ken, we need the Gamma Ray Boom switch Off.",
+        "It didn't quite make it all in.",
+        "The motor's still running.",
+        "It's to a safe position."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2130340"
+    },
+    {
+      "tokens": [
+        "Okay, thank you.",
+        "Thank you, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "2130344"
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "We'd like to verify that you heard my transmission on holding PTC to Mid-Course 5."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2130932"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "Hold PTC until Mid-Course 5."
+      ],
+      "speaker": "Young",
+      "time": "2130942"
+    },
+    {
+      "tokens": [
+        "Roger, and for planning purposes, we'd like to get a P52 in sometime in the next 25 minutes."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2130949"
+    },
+    {
+      "tokens": [
+        "Well, for work purposes, Ken is putting up the optics now."
+      ],
+      "speaker": "Young",
+      "time": "2131002"
+    },
+    {
+      "tokens": [
+        "Outstanding."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2131008"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Here's the crew status report, starting with the - A - item A-1 for the Commander.",
+        "Skip the PRD.",
+        "It's in the pressure suit, which is in the bag, and it's down - and it's very dusty, and I'd like to wait until we get ready to suit up for the EVA and I'll read you the PRD then."
+      ],
+      "speaker": "Young",
+      "time": "213_10_25"
+    },
+    {
+      "tokens": [
+        "Okay, John."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2131102"
+    },
+    {
+      "tokens": [
+        "A-3: Day 8, 7 hour - 7 hours, good sleep, nope.",
+        "A-4: none.",
+        "Day 9: still skip the PRD reading for the same reason; 6¾ hours, good sleep.",
+        "A-4: none.",
+        "On the CMP, Day 8: B-1, 15059.",
+        "B-3: 5.5, good sleep.",
+        "B-4: none.",
+        "Day 9: B-1, 1564.",
+        "B-3: 7 hours, good sleep.",
+        "B-4: none.",
+        "On the LMP, day 8: skip the PRD, and suit was out of the way then.",
+        "C-3: 7 hours, good sleep.",
+        "C-4: none.",
+        "And, Charlie remembered to get his PRD reading - reading machine out today, and C-1 is 21143.",
+        "C-3: 7 hours, good sleep, C-4: none."
+      ],
+      "speaker": "Young",
+      "time": "2131103"
+    },
+    {
+      "tokens": [
+        "Did we lose you doing any of that, Hank?"
+      ],
+      "speaker": "Young",
+      "time": "2131316"
+    },
+    {
+      "tokens": [
+        "Negative, John.",
+        "We got it all."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2131320"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Now, on to the menu.",
+        "When we got back to the - to good old Casper here - We're working on Day 8, meal C.",
+        "And for the CDR, substitute a hamburger for beef gravy, and scratch the gingerbread.",
+        "And for day 9, Meal A: scratch the peaches and the grits.",
+        "Day 9, Meal B: scratch the hamburger and add meatballs with sauce.",
+        "For day 9, Meal C: scratch the pecans.",
+        "And, for the CMP -"
+      ],
+      "speaker": "Young",
+      "time": "2131325"
+    },
+    {
+      "tokens": [
+        "Break in CM transcript until 213:38:32."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "For the LMP, with all of Day 8, scratch the mixed fruit, the ham steak, the white bread with jelly.",
+        "On meal B: scratch the pea soup, the meatballs, the pork, and escalloped potatoes.",
+        "Meal C: scratch the chocolate bar and a gingerbread and add pi - pineapple and a hamburger.",
+        "On Day 9; scratch the peaches, the scrambled eggs, and the bacon squares on meal A.",
+        "On Meal B: scratch the hamburger and white bread, the instant breakfast and the cereal bar.",
+        "Meal C: scratch the pecans only.",
+        "On the Duke: [sic], Day 8, last meal, scratch the beef and gravy and substitute a hamburger.",
+        "And, scratch two-thirds of a chocolate bar.",
+        "Scratch the gingerbreads.",
+        "On Day 9, Meal A: scratch the peaches.",
+        "And on Meal B: scratch the hamburger and - in a wetpack and the - and the cereal bar.",
+        "And, add turkey and gravy.",
+        "On day 9, Meal C: scratch the pecans only and add an orange drink.",
+        "I think that about does it."
+      ],
+      "speaker": "Young",
+      "time": "2131554"
+    },
+    {
+      "tokens": [
+        "Thank you, John.",
+        "The surgeon's happy, and we didn't get any biomed on you last night.",
+        "Could you check your system.",
+        "Or, you have any idea why it didn't work?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2131847"
+    },
+    {
+      "tokens": [
+        "I sure had it plugged in.",
+        "I had it plugged in the night before last, too.",
+        "I don't understand that.",
+        "I got the leads tight -"
+      ],
+      "speaker": "Young",
+      "time": "2131907"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're getting a - the carrier, John.",
+        "We're just not getting modulation.",
+        "So, there must be something fouled up in the system, there."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2131931"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, why didn't you tell me, I could have changed this sensor out' - or this - it's probably in this box here, don't you reckon?"
+      ],
+      "speaker": "Young",
+      "time": "2131941"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "When you get a chance, John, just check it out."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2132001"
+    },
+    {
+      "tokens": [
+        "And, we were - we lost our data on the antenna switching with your P52.",
+        "Could we get those angles, please?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2132032"
+    },
+    {
+      "tokens": [
+        "You - you have any idea what it might be that I could do to fix this ..."
+      ],
+      "speaker": "Young",
+      "time": "2132100"
+    },
+    {
+      "tokens": [
+        "16, Houston."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2132155"
+    },
+    {
+      "tokens": [
+        "Apollo 16, Houston.",
+        "We just went through an antenna switch there, and I lost anything you said, then.",
+        "And, John, if you're asking about the sensor there, the only thing we could suggest is to check the connections there into the blue signal conditioner and maybe change out your sensors or service them."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2132437"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I can't - I can't believe that if you got the carrier that changing out the sensors is going to change anything.",
+        "These things are really stuck on there.",
+        "Let me try something."
+      ],
+      "speaker": "Young",
+      "time": "2132459"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Whatever you did, John, worked.",
+        "We got us a signal there."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2132523"
+    },
+    {
+      "tokens": [
+        "I didn't do anything."
+      ],
+      "speaker": "Young",
+      "time": "2132531"
+    },
+    {
+      "tokens": [
+        "[Garble] working now?"
+      ],
+      "speaker": "Young",
+      "time": "2132546"
+    },
+    {
+      "tokens": [
+        "It's working now.",
+        "And what - what angles are you showing on your High Gain now, on your meter?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2132549"
+    },
+    {
+      "tokens": [
+        "Showing - 50 - minus 50 in Pitch - make it 45, and about -"
+      ],
+      "speaker": "Young",
+      "time": "2132558"
+    },
+    {
+      "tokens": [
+        "2 - 260 in Yaw."
+      ],
+      "speaker": "Young",
+      "time": "2132621"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "They want to know now what's on the knobs."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2132635"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's - right now, it's reading minus - We'll get the Pitch, minus 40 and minus 40 on the knob - and it's reading 90 Degrees in Yaw and still about 265 in Yaw in - on the indicator."
+      ],
+      "speaker": "Young",
+      "time": "2132644"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And, 16, we'd like to get that P52 data."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2132704"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We've got stars 50 and 22; Noun 05: all zeroes; Noun 93: minus 0.040, plus 0.030, plus 0.058; torqued at 213:23:55."
+      ],
+      "speaker": "Mattingly",
+      "time": "2132721"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We got them."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2132738"
+    },
+    {
+      "tokens": [
+        "And, 16, whenever you're ready, we'll give you a few of these changes."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2132838"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Charlie's ready to copy."
+      ],
+      "speaker": "Young",
+      "time": "2132911"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "At 238:20 [213:33] in the Flight Plan."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2132913"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "2132926"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Gamma Ray Shield, Off.",
+        "Stand by, Charlie.",
+        "they say it's already off ..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2132929"
+    },
+    {
+      "tokens": [
+        "The Shield's Off right now, Hank."
+      ],
+      "speaker": "Young",
+      "time": "2132937"
+    },
+    {
+      "tokens": [
+        "...",
+        "[garble] scratch that."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2132939"
+    },
+    {
+      "tokens": [
+        "We just turned it Off, Hank."
+      ],
+      "speaker": "Duke",
+      "time": "2132943"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "In that next group of data there, delete anything that refers to the Mass Spec, since we don't have it any more."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2132945"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "2132954"
+    },
+    {
+      "tokens": [
+        "And, about 238:50 [214:03], we want Gamma Ray Shield, On."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2132958"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "2133013"
+    },
+    {
+      "tokens": [
+        "And, the group of data concerning the P30.",
+        "We want to start the P30, actually, around 238:46.",
+        "But, we'll have to get you up-linked, and we're working on that now."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133016"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Duke",
+      "time": "2133034"
+    },
+    {
+      "tokens": [
+        "And, you'll exit PTC prior to that - just put that in just ahead of the P30."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133040"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Exit PTC right in front of the P30."
+      ],
+      "speaker": "Duke",
+      "time": "2133048"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Using the SIM bay jett configuration."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133052"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Duke",
+      "time": "2133109"
+    },
+    {
+      "tokens": [
+        "And, as soon as we get the sextant star check there on over at 239, we'll go ahead and get the dumps out of the way."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133110"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We will.",
+        "We'll start the dumps right after the star check."
+      ],
+      "speaker": "Duke",
+      "time": "2133124"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "At 239:30 [214:43], the High Gain angle -"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133128"
+    },
+    {
+      "tokens": [
+        "Hold the phone a minute."
+      ],
+      "speaker": "Duke",
+      "time": "2133134"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "2133211"
+    },
+    {
+      "tokens": [
+        "At 239:30 [214:43] -"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133213"
+    },
+    {
+      "tokens": [
+        "Do you read, Charlie?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133237"
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "How do you read?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133303"
+    },
+    {
+      "tokens": [
+        "You're 5 by, Hank.",
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "2133309"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "At 239:30 [214:43], those High Gain angles should be minus 16 and 58."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133312"
+    },
+    {
+      "tokens": [
+        "Copy.",
+        "Minus 16 and 58."
+      ],
+      "speaker": "Duke",
+      "time": "2133327"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And if you'll flip on over to page 351."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133330"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "2133339"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "As we call - we need another hour for suit donning.",
+        "So, that time there at 241, at the top of the page, will now be 242 [217:13].",
+        "So, there's actually an hour's gap between the previous page and this one.",
+        "And, you can change your time accordingly, adding an hour on to - You get down to hatch opening or until you get on the EVA cue card.",
+        "And, then we'll pick up the Flight Plan after the EVA.",
+        "Now, at 242 hours - that's after it's changed there where it says Verb 49 maneuver to EVA attitude, the new attitude is 037, 043, 038, and the High Gain angles are minus ..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133340"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "03 ..."
+      ],
+      "speaker": "Duke",
+      "time": "2133426"
+    },
+    {
+      "tokens": [
+        "...",
+        "High Gain is minus 10, 244."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133427"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We change Verb from 49, angles to 037.",
+        "The other two are the same.",
+        "High Gain, minus 10, 244."
+      ],
+      "speaker": "Duke",
+      "time": "2133441"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "They just changed that Yaw angle while I was reading it up.",
+        "It's 224."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133457"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "224."
+      ],
+      "speaker": "Duke",
+      "time": "2133507"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Down about - a few lines down where it says, \"Load MEED attitude - that attitude now is 071, 051, 039."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133510"
+    },
+    {
+      "tokens": [
+        "Copy.",
+        "071, 051, 039."
+      ],
+      "speaker": "Duke",
+      "time": "2133530"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And if you'll flip the page now - Page 352 - the new time there is 243:40 [218:53].",
+        "Where it says, \"Maneuver to MEED attitude,\" we want to change that again to 071, 051, 039, and the High Gain angles are minus 34, 218."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133540"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "At the - this whole page has slipped an hour, and it's at 243:40 [218:53]; 071, 051, 039, to minus 34 and a 218."
+      ],
+      "speaker": "Duke",
+      "time": "2133618"
+    },
+    {
+      "tokens": [
+        "Roger, Charlie.",
+        "And, we need to make those - those appropriate changes on the cue card and then the EVA Checklist.",
+        "And, I - I have those locations, if you want to do that."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133635"
+    },
+    {
+      "tokens": [
+        "Well, we'll do that, Hank.",
+        "We promise."
+      ],
+      "speaker": "Duke",
+      "time": "2133652"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133655"
+    },
+    {
+      "tokens": [
+        "Is that all you've got for now?"
+      ],
+      "speaker": "Duke",
+      "time": "2133717"
+    },
+    {
+      "tokens": [
+        "That ought to take us through the EVA, Charlie."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2133719"
+    },
+    {
+      "tokens": [
+        "Thank you, sir."
+      ],
+      "speaker": "Duke",
+      "time": "2133723"
+    },
+    {
+      "tokens": [
+        "Okay - 2 - 38.5 [garble]."
+      ],
+      "speaker": "Duke",
+      "time": "2133752"
+    },
+    {
+      "tokens": [
+        "[Garble].",
+        "John."
+      ],
+      "speaker": "Duke",
+      "time": "2133800"
+    },
+    {
+      "tokens": [
+        "CM transcript restarts."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "break in CM transcript until 214:06:46."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 16.",
+        "On the High Gain, go Manual and Wide, and then Reacq Narrow."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2134059"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mattingly",
+      "time": "2134155"
+    },
+    {
+      "tokens": [
+        "Apollo 16, Houston.",
+        "If you read, Manual Wide and then Reacquire Narrow."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2134303"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston, at 238 hours, 36 minutes [213:49] Ground Elapsed Time.",
+        "We now show Apollo 16 at a distance of 185,317 nautical miles away from the Earth and travelling at a speed of 3,783 feet per second and we've been experiencing some noisy comm with Apollo 16.",
+        "Meanwhile, Mid-Course Correction number 5 is presently scheduled for 239 hours, 20 minutes [and] 56 seconds [214:34:54] Ground Elapsed Time with a Delta V of 3.4 feet per second, [and] a burn duration of eight seconds.",
+        "This will be performed with the Reaction Control System thrusters, posigrade to change the flight path angles from minus 8.6 to minus 6.5 degrees.",
+        "We presently show Apollo 16 with a spacecraft weight of 27,409 pounds, at 238 hours, 37 minutes [213:50] Ground Elapsed Time, [and] continuing to monitor, this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 16, Houston.",
+        "I have your Mid-Course 5 PAD, and if you'll give us Accept we'll up-link the target load and vector."
+      ],
+      "speaker": "Hartsfield",
+      "time": "213_53_53"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by one."
+      ],
+      "speaker": "Mattingly",
+      "time": "2135403"
+    },
+    {
+      "tokens": [
+        "And we're also sending you a PIPA bias with that load."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2135408"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You got the computer."
+      ],
+      "speaker": "Mattingly",
+      "time": "2135426"
+    },
+    {
+      "tokens": [
+        "Hank, go ahead with the PAD."
+      ],
+      "speaker": "Young",
+      "time": "2135441"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "MCC-5, RCS/G&N; 27409; Noun 48 is NA; 239:20:55.86; Noun 81 plus 0003.4, all zips, all zips; 079, 306, 346; HA is NA, plus 0021.7; 0003.4, 0:09, 0003.4; 04, 047.9, 39.1; boresight star 056, up 27.0, left 3.5; and for Ken's information, that's Beta Centauri, and it's on the white chart and it lies between Atria and Acrux.",
+        "Continue with Noun 61, minus 00.73, minus 156.19; 1046.3, 36277; 290:24:04; Sirius and Rigel; 219, 166, 313; four jets, plus-X.",
+        "High gain angles: pitch, minus 90; yaw, 285; and a note that the EMS is not bias for drift."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2135444"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We copy Mid-Course 4 [sic], RCS/G&N, 27409; NA for Noun 48; 239:20:55.86; plus 0003.4, plus all balls, plus all balls; 079, 306, 346; HA is NA, plus 0021.7; 0003.4, 0:08; 0003.4; Oh, 047.9, 39.1; 056, up 270, left 35; Beta Centauri, minus 00.73, minus 156.19; 1046.3, 36277; 290:24:04, Sirius and Rigel; 219, 166, 313; four jets, plus-X.",
+        "High gain: plus pitch, minus 90; yaw, minus 255 - pitch, minus 90; yaw is 285; EMS is not bias, for drift."
+      ],
+      "speaker": "Young",
+      "time": "2135723"
+    },
+    {
+      "tokens": [
+        "Good readback.",
+        "And we'd like to get the Gamma Ray, shield on."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2135842"
+    },
+    {
+      "tokens": [
+        "The Gamma Ray shield is now shielding."
+      ],
+      "speaker": "Mattingly",
+      "time": "2135855"
+    },
+    {
+      "tokens": [
+        "Apollo 16, Houston.",
+        "We're having a little trouble getting the High Gain to acquire, so we'll be calling you Omni switches, so we can maintain voice."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2135949"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2135959"
+    },
+    {
+      "tokens": [
+        "Hank, I had a question here.",
+        "You said to exit the - use the SIM bay jett configuration.",
+        "Then, I notice where you called out for a plus-X four jet on the Mid-Course.",
+        "Are those two things compatible?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2140004"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "What happened there, Ken, was we were gonna do a Gamma Ray extension for a little - out a little ways, and we've - we've cancelled that now, so that's not even a requirement anymore.",
+        "You can use normal jet configuration."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2140028"
+    },
+    {
+      "tokens": [
+        "Okay, thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "2140048"
+    },
+    {
+      "tokens": [
+        "And, 16; Omni Alpha."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2140051"
+    },
+    {
+      "tokens": [
+        "Okay; you have Omni Alpha with a Command Reset."
+      ],
+      "speaker": "Young",
+      "time": "2140105"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2140108"
+    },
+    {
+      "tokens": [
+        "And, Hank, can I go - go ahead and stop PTC passing 79 degrees roll, this time?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2140120"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2140128"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And how about the status of the computer?",
+        "You guys still using it?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2140134"
+    },
+    {
+      "tokens": [
+        "Computer's yours."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2140149"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "2140155"
+    },
+    {
+      "tokens": [
+        "Omni Bravo, 16."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2140626"
+    },
+    {
+      "tokens": [
+        "You have it."
+      ],
+      "speaker": "Mattingly",
+      "time": "2140637"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2140640"
+    },
+    {
+      "tokens": [
+        "CM transcript restarts."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "How big is the Moon this morning?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2140712"
+    },
+    {
+      "tokens": [
+        "Haven't gotten around to looking yet, Hank."
+      ],
+      "speaker": "Mattingly",
+      "time": "2140721"
+    },
+    {
+      "tokens": [
+        "Okay, Hank, at arm's distance, if you cup your fingers around it, it's about as big as a 50-cent piece.",
+        "But you can sure tell that it's changed size for the smaller, but we still feel like we're still pretty close to it.",
+        "Like I - I don't know how far away from it we are, but, probably about - maybe 25 or 30,000 miles."
+      ],
+      "speaker": "Young",
+      "time": "2141037"
+    },
+    {
+      "tokens": [
+        "No, Ken tells me 53."
+      ],
+      "speaker": "Young",
+      "time": "2141107"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We show you about 30,000."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2141114"
+    },
+    {
+      "tokens": [
+        "30,000?",
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2141115"
+    },
+    {
+      "tokens": [
+        "Take it back; they rewrote about 38,000."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2141123"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2141128"
+    },
+    {
+      "tokens": [
+        "And:, 16, when you get the attitude, we'd like for you to bring up the High Gain, and you're there."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2141146"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Young",
+      "time": "2141153"
+    },
+    {
+      "tokens": [
+        "At 238 hours, 59 minutes [214:13] Ground Elapsed Time; we now show Apollo 16 at a distance of 184,476 nautical miles away from the Earth.",
+        "Now travelling at a speed of 3,795 feet per second.",
+        "That was John Young that you heard providing a description of the moon as he viewed it out the cabin window."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Break in CM transcript until 214 58 51."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Henry, how do you read on the High Gain?"
+      ],
+      "speaker": "Duke",
+      "time": "2141332"
+    },
+    {
+      "tokens": [
+        "Reading you five by five by 5, Charlie."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2141334"
+    },
+    {
+      "tokens": [
+        "Okay, you're in Reacq in error."
+      ],
+      "speaker": "Duke",
+      "time": "2141341"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston, we're 20 minutes away now from time of ignition from the Mid-Course Correction 5 scheduled at 239 hours, 20 minutes [and] 56 seconds [214:34:54].",
+        "This will be a burn that will provide a Delta V of 3.4 feet per second with a duration of 8 seconds.",
+        "Done with the RCS pulsic rate [?] that will change the flight path angle from minus 8.6 degrees to minus 6.5 degrees.",
+        "We're at 239 hours, 2 minutes [214:15] Ground Elapsed Time.",
+        "Apollo 16 now 184,380 nautical miles away from the Earth.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 16, Houston.",
+        "We're getting close to that Mid-Course, and we'd like to go ahead and get the dumps out of the way.",
+        "Platform alignment looks good, so you can omit the star check, if you like."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2141601"
+    },
+    {
+      "tokens": [
+        "We just looked at the boresight star.",
+        "That's a good one.",
+        "We're not going to mess with the sextant check, and we're in process of dumping."
+      ],
+      "speaker": "Young",
+      "time": "2141615"
+    },
+    {
+      "tokens": [
+        "Real good.",
+        "Could you find that - star 56?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2141622"
+    },
+    {
+      "tokens": [
+        "Oh, yeah.",
+        "Alpha and Beta [Centauri] are two of the prettier stars you can find.",
+        "Even I can recognize those."
+      ],
+      "speaker": "Young",
+      "time": "2141629"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2141638"
+    },
+    {
+      "tokens": [
+        "Ken, we got a list of questions here on the SIM bay inspection - when you get out on the EVA, and we can handle them any way you like.",
+        "It's about a page and a half of them.",
+        "Would you rather I read them after you're out or ..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2141702"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Could you?",
+        "Okay.",
+        "No, I'd like to hear them first, but, not right this minute."
+      ],
+      "speaker": "Mattingly",
+      "time": "2141717"
+    },
+    {
+      "tokens": [
+        "Okay, I just want ..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2141723"
+    },
+    {
+      "tokens": [
+        "I'll give you a call in just a minute when we get squared away here."
+      ],
+      "speaker": "Mattingly",
+      "time": "2141724"
+    },
+    {
+      "tokens": [
+        "I just wanted to apprise you of the fact that I had them, and then whenever you're ready we'll talk about them."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2141727"
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "Did you have any trouble with your LiOH canister change today?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2141759"
+    },
+    {
+      "tokens": [
+        "No, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "2141806"
+    },
+    {
+      "tokens": [
+        "16, we show you about 10 percent on the waste tank."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2142325"
+    },
+    {
+      "tokens": [
+        "Thank you, boss."
+      ],
+      "speaker": "Young",
+      "time": "2142330"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 239 hours, 12 minutes [214:25] Ground Elapsed Time, less than 10 minutes away now from the Mid-Course Correction number 5 burn, and we presently show the onboard computer in Program 30.",
+        "This is the external Delta V program which is used for engine ignitions.",
+        "We're at 239 hours, 12 minutes [214:25] Ground Elapsed Time and Apollo 16 now 183,995 nautical miles away from the Earth.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston, the onboard computer now in Program 41 of the SC RCS program to provide a [correct] attitude for an RCS thrusting maneuver.",
+        "We're now seven minutes away from time of ignition for Mid-Course Correction number 5."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Henry?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2143127"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2143131"
+    },
+    {
+      "tokens": [
+        "Hey, I've put on some new sensors.",
+        "How about seeing if your friends over on the left there are happy with that."
+      ],
+      "speaker": "Mattingly",
+      "time": "2143136"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2143144"
+    },
+    {
+      "tokens": [
+        "They look great, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2143205"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2143211"
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston, two minutes away now from time of ignition from Mid-Course Correction number 5.",
+        "We're at 239 hours 19 minutes [214:32] Ground Elapsed Time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Director, Phil Shaffer, taking a final status check in Mission Control for Mid-Course 5."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "You're looking good, and you're Go for the burn."
+      ],
+      "speaker": "Hartsfield",
+      "time": "214_33_40"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2143347"
+    },
+    {
+      "tokens": [
+        "One minute away now from Mid-Course 5."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 16 now 183,706 nautical miles away from the Earth."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ten seconds away now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Guidance reports plus X."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Standing by now for burn status."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston, I guess as you saw, the burn was nominal.",
+        "Our residuals: minus 110, plus 0, minus 110; and you probably saw our Noun 20 for the attitude.",
+        "Over."
+      ],
+      "speaker": "Young",
+      "time": "2143644"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy the Noun 20."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2143657"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "That was John Young reporting a nominal burn on Mid-Course Correction number 5."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hank, you want to leave the Mapping Camera on; is that correct?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2143725"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2143728"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2143732"
+    },
+    {
+      "tokens": [
+        "And Ken, the Mapping Camera is out of film, but the Stellar Camera is still feeding a little."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2143748"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We gave it lots of stars to look at, just then."
+      ],
+      "speaker": "Mattingly",
+      "time": "2143757"
+    },
+    {
+      "tokens": [
+        "Hank, is the High Gain gonna track us to this maneuver, or should we set it Manual and Reacquire when we ..."
+      ],
+      "speaker": "Young",
+      "time": "2143808"
+    },
+    {
+      "tokens": [
+        "Seems to be tracking good now."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2143817"
+    },
+    {
+      "tokens": [
+        "Never mind."
+      ],
+      "speaker": "Young",
+      "time": "2143818"
+    },
+    {
+      "tokens": [
+        "Hey, I'm going to start Battery B Charge."
+      ],
+      "speaker": "Duke",
+      "time": "2143823"
+    },
+    {
+      "tokens": [
+        "Copy."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2143825"
+    },
+    {
+      "tokens": [
+        "Apollo Control, Houston.",
+        "239 hours, 25 minutes [214:38] Ground Elapsed Time.",
+        "Apollo 16 now 183,521 nautical miles away from the Earth.",
+        "Velocity now reading 2,809 feet per second.",
+        "Mid-Course Correction 5 are [sic] completed and as was reported by Apollo 16 a nominal on time burn.",
+        "We're at 239 hours, 25 minutes continuing to monitor."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Hank, when we were allowed to sleep through the eat period there, did we move the EVA back or anything like that?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2143925"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "The EVA is - at the nominal time - including that hour, you know, that we had to put in there.",
+        "One-hour slip from what was originally in the Flight Plan."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2143934"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We just traded off eating and sleeping this morning, is that it?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2143950"
+    },
+    {
+      "tokens": [
+        "We were hoping you were grabbing some snacks in there early this morning."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2143957"
+    },
+    {
+      "tokens": [
+        "Man, with three guys in here, Hank, you just - when it comes time to eat, you just bring everything to a halt and go do that that's - because everything has to be done in the kitchen.",
+        "You got to take your 52s and you got to do everything else right in one place.",
+        "We'll grab something and we'll be pressing on here; we'll - we'll probably come pretty close to the schedule."
+      ],
+      "speaker": "Mattingly",
+      "time": "2144006"
+    },
+    {
+      "tokens": [
+        "Okay, we're scheduled for hatch opening at 242:55 [218:08]."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144025"
+    },
+    {
+      "tokens": [
+        "Okay; we'll - we'll try to be there, and if we don't make it there, why, we'll get it as soon as we get there."
+      ],
+      "speaker": "Young",
+      "time": "2144033"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144037"
+    },
+    {
+      "tokens": [
+        "Hey, Hank, we just looked at - at the battery compartment pressure.",
+        "We're reading 3.4.",
+        "You want us to vent that thing?"
+      ],
+      "speaker": "Young",
+      "time": "2144055"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144104"
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "And I can copy your comments about the SIM bay now if you'd like to give them now, while ..."
+      ],
+      "speaker": "Mattingly",
+      "time": "214_42_20"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "In regard to the Mapping Camera, they want to check the interference.",
+        "Inspect the periphery of the Mapping Camera and Laser Altimeter for any evidence of interference.",
+        "The last attraction on that thing was nominal ..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144228"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2144244"
+    },
+    {
+      "tokens": [
+        "...",
+        "so it's kind of puzzling, you know.",
+        "It started out real slow and each retraction it got faster."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144245"
+    },
+    {
+      "tokens": [
+        "[Garble] it's just getting warmed up."
+      ],
+      "speaker": "Mattingly",
+      "time": "2144253"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Some of the things they suggest you might look for is - around the cable, there, between the Mapping Camera and the shelf, is there any damage to the cable?",
+        "Clearance in that area of the cable?",
+        "And whether the cable is caught or curled ..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144255"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Now, that cable is located on the - on the plus-X side of the camera over on the - towards the A quad, is that correct?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2144315"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144328"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "2144331"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We want to know if that cable is caught or curled or is it smooth, you know, like it's supposed to?",
+        "That's between the - what I would call the top of the Mapping Camera and the bay, there, by the handhold."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144405"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I know the area.",
+        "I'm not sure we're gonna have enough light to see down in there in the EVA attitudes but we'll take a look at it."
+      ],
+      "speaker": "Mattingly",
+      "time": "2144420"
+    },
+    {
+      "tokens": [
+        "And we'd like to know a little something about the cuckoo door.",
+        "You know which one that is?",
+        "The little white door that goes over the stellar lens?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144234"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I won't be able to tell you much about that in the retracted position, either."
+      ],
+      "speaker": "Mattingly",
+      "time": "2144445"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "If possible, we'd like for you to lift up that door and inspect the clearance between the hinge and the top of the Mapping Camera, and look for any scrape marks on the camera or on the door and any evidence of twisting or bending of the stellar lens glare shield."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144451"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2144511"
+    },
+    {
+      "tokens": [
+        "Any question on that part with reference to the Mapping Camera, Ken?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144513"
+    },
+    {
+      "tokens": [
+        "Say again."
+      ],
+      "speaker": "Mattingly",
+      "time": "2144520"
+    },
+    {
+      "tokens": [
+        "Did you have any question about any of those Mapping Camera items?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144521"
+    },
+    {
+      "tokens": [
+        "No, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "2144526"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "In regard to the Pan Camera, we'd like for you to look at the exposure sensor.",
+        "And that's the ones that's immediately to the left of the lens barrel."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144530"
+    },
+    {
+      "tokens": [
+        "And we need Auto on the High Gain."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144549"
+    },
+    {
+      "tokens": [
+        "Got it."
+      ],
+      "speaker": "Young",
+      "time": "2144555"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "In - In regard to that automatic exposure control sensor there, Ken, what we're looking for is foreign objects or contamination."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144558"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2144613"
+    },
+    {
+      "tokens": [
+        "And the little thermal shield that goes around the periphery of the lens barrel, we want to inspect that for contamination, and also, the lens barrel itself.",
+        "And we're really looking for contamination really on all of the Pan Camera, and the same goes for the V over H sensor."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144614"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Mattingly",
+      "time": "2144636"
+    },
+    {
+      "tokens": [
+        "And just to refresh your memory, the V over H sensor is the one that's on the right side that's got the little hood on it."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144639"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2144647"
+    },
+    {
+      "tokens": [
+        "And for the Gamma Ray boom, what we'd like to do is inspect the cover for any damage.",
+        "You know, that thing has closed a couple of times and - or the boom has retracted all the way a couple of times and a couple of times it hasn't.",
+        "So - so we're expecting that the Gamma Ray boom right now is about 6 inches out; but we're not sure.",
+        "We'd like for you to look at the cover, and if it's not fully closed, give us an estimate of how far it's open.",
+        "Full open is about 134 degrees."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144652"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I'm familiar with that."
+      ],
+      "speaker": "Mattingly",
+      "time": "2144724"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "If the cover is partially open ..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144726"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Is Brad [?] taking bets on where it is?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2144727"
+    },
+    {
+      "tokens": [
+        "He's not - he's not too brave.",
+        "He'll bet you a cup of coffee it's about 6 inches."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144738"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I heard that.",
+        "He's on."
+      ],
+      "speaker": "Mattingly",
+      "time": "2144748"
+    },
+    {
+      "tokens": [
+        "He said he takes it.",
+        "And we'd like to know how far that rail protrudes through the bind there, and if you can see any obstructions to retractions, you know, like the harness, or the guides, or the loom cable fingers, proximity switches, any of those things - report them."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144751"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2144810"
+    },
+    {
+      "tokens": [
+        "And that's all we want to know, Ken, other than any other things you might pick up from looking around out there."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144812"
+    },
+    {
+      "tokens": [
+        "Okay; do you require any kind of documentation on this?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2144822"
+    },
+    {
+      "tokens": [
+        "I guess we'll have to take verbal comment."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144830"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2144837"
+    },
+    {
+      "tokens": [
+        "And, Ken, we'd like to vent the battery compart - compartment to 1 volt on your meter.",
+        "Stop it at 1 volt."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144848"
+    },
+    {
+      "tokens": [
+        "Okay; well, all righty."
+      ],
+      "speaker": "Mattingly",
+      "time": "2144901"
+    },
+    {
+      "tokens": [
+        "It drops like a stone; I don't know if we can do that or not.",
+        "We'll try it."
+      ],
+      "speaker": "Young",
+      "time": "2144904"
+    },
+    {
+      "tokens": [
+        "Give it a try."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144917"
+    },
+    {
+      "tokens": [
+        "We got 1.2 on there; you want to press and try for 1?"
+      ],
+      "speaker": "Young",
+      "time": "2144943"
+    },
+    {
+      "tokens": [
+        "That's real good, John.",
+        "We'll hold it right there."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144948"
+    },
+    {
+      "tokens": [
+        "And, Ken, the stellar camera's out of film, if you want to use a normal shutdown procedure on the Mapping Camera."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2144953"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2145001"
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "He kind of would like to know if that's the first time you've noticed that Bat vent or bat - battery compartment pressure above 1.5 volts?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2145049"
+    },
+    {
+      "tokens": [
+        "John says that when they did the first charges they had to take it and vent it, but the charges I did I never saw it above 1.5."
+      ],
+      "speaker": "Mattingly",
+      "time": "2145117"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "We'll probably be asking you for a check of that here in a little while, just to make sure it's not charging way on up there again."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2145127"
+    },
+    {
+      "tokens": [
+        "Okay; we reported the other times that we vented it."
+      ],
+      "speaker": "Young",
+      "time": "2145135"
+    },
+    {
+      "tokens": [
+        "Roger, John."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2145140"
+    },
+    {
+      "tokens": [
+        "And, 16; Houston.",
+        "I'm gonna go off the loop a couple of minutes; Phil will cover for me."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2145200"
+    },
+    {
+      "tokens": [
+        "That's not fair."
+      ],
+      "speaker": "Mattingly",
+      "time": "2145208"
+    },
+    {
+      "tokens": [
+        "But it's necessary."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2145212"
+    },
+    {
+      "tokens": [
+        "Now you understand."
+      ],
+      "speaker": "Mattingly",
+      "time": "2145218"
+    },
+    {
+      "tokens": [
+        "How are you doing today, Philip?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2145325"
+    },
+    {
+      "tokens": [
+        "Doing very well, sir; thank you.",
+        "And yourself?"
+      ],
+      "speaker": "Shaffer",
+      "time": "2145328"
+    },
+    {
+      "tokens": [
+        "Oh, we're having a ball.",
+        "Just wanted to hear you on the loop."
+      ],
+      "speaker": "Mattingly",
+      "time": "2145334"
+    },
+    {
+      "tokens": [
+        "Well, you've certainly done that.",
+        "It's another first."
+      ],
+      "speaker": "Shaffer",
+      "time": "2145337"
+    },
+    {
+      "tokens": [
+        "Well, always nice to have a few of those."
+      ],
+      "speaker": "Mattingly",
+      "time": "2145345"
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "Are you gonna get to the mapper in little bit?"
+      ],
+      "speaker": "Shaffer",
+      "time": "2145439"
+    },
+    {
+      "tokens": [
+        "Sure will; thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "2145449"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston.",
+        "That was Flight Director Phil Shaffer now talking to the - to the crew of Apollo 16.",
+        "We're at 239 hours, 41 minutes [214:54] Ground Elapsed Time; and Apollo 16 now 182,904 nautical miles away from the Earth."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 16, Houston.",
+        "Could you dial in your High Gain angles for the thermal attitude?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2150000"
+    },
+    {
+      "tokens": [
+        "Hank, 16."
+      ],
+      "speaker": "Duke",
+      "time": "2150334"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2150337"
+    },
+    {
+      "tokens": [
+        "Okay; the Bat B Charge is underway, and we've been watching this battery compartment, and we're back up to 2 now."
+      ],
+      "speaker": "Duke",
+      "time": "2150341"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2150352"
+    },
+    {
+      "tokens": [
+        "Hank, I don't really know what's going on with our antenna.",
+        "It's - I get you the best signal strength by going to Manual and Narrow, and every time we switch to either Auto or Reacq, why, it seems to break - break some kind of beam switch lock, or something, and we've tried going to Manual and Wide and working in through Reacq and then bringing it down and things, and that doesn't help any.",
+        "Would there be any future in trying the secondary electronics, the servos?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2150532"
+    },
+    {
+      "tokens": [
+        "Okay; INCO says we're just right on the line there.",
+        "Why don't we just leave it in Manual and Narrow."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2150607"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2150617"
+    },
+    {
+      "tokens": [
+        "And, Ken, I'd appreciate it if from time to time, you'd just give me a idea of where you are in the checklist."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2150704"
+    },
+    {
+      "tokens": [
+        "We is at the eat period."
+      ],
+      "speaker": "Mattingly",
+      "time": "2150712"
+    },
+    {
+      "tokens": [
+        "Hey, that's a good plan."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2150714"
+    },
+    {
+      "tokens": [
+        "We'll be ready to start in on that checklist in probably about 10 minutes or so; but it just didn't seem like it was proper to go ahead and press on the rest of the day without stopping for something."
+      ],
+      "speaker": "Mattingly",
+      "time": "2150724"
+    },
+    {
+      "tokens": [
+        "I agree with you, and I guess we'd better terminate that Battery B Charge and keep an eye on that thing.",
+        "If it gives - gets above 3, give us a call.",
+        "And also -"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2150739"
+    },
+    {
+      "tokens": [
+        "Okay; why don't you call us back in about 30 minutes and ask us to look at it, because that's not the kind of position where we can keep an eye on it without making a conscious effort at it."
+      ],
+      "speaker": "Mattingly",
+      "time": "2150753"
+    },
+    {
+      "tokens": [
+        "Okay; we'll give you a reminder, and if it's above 3 or in that neighborhood, we're gonna want to vent it again back down to 1."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2150801"
+    },
+    {
+      "tokens": [
+        "Okay; do you want to vent it now.",
+        "It's at 2."
+      ],
+      "speaker": "Duke",
+      "time": "2150812"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "We want to see if it'll stabilize."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2150816"
+    },
+    {
+      "tokens": [
+        "Okay; you've got the - the Bat B Charge is terminated, and we'll watch the battery's compartment pressure."
+      ],
+      "speaker": "Mattingly",
+      "time": "2150822"
+    },
+    {
+      "tokens": [
+        "While you're eating there, I'll tell you a little local sports news.",
+        "The Astros have won seven in a row now, and they are tied for first place in the division."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2150846"
+    },
+    {
+      "tokens": [
+        "Wow, that's outstanding.",
+        "Congratulations!(Laughter)"
+      ],
+      "speaker": "Young",
+      "time": "2150857"
+    },
+    {
+      "tokens": [
+        "Break in CM transcript until 215:18:54."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, if it's convenient, could we get a check on the Bat C voltage?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2151027"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's 36½."
+      ],
+      "speaker": "Mattingly",
+      "time": "2151041"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy 36.5."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2151043"
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "And John stuck the eyeball right closer to the meter, and it's 1.9 instead of 2."
+      ],
+      "speaker": "Mattingly",
+      "time": "2151056"
+    },
+    {
+      "tokens": [
+        "Roger, 1.9."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2151103"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're going to vent the battery - the bat compartment again, it's 2 and -"
+      ],
+      "speaker": "Young",
+      "time": "2151223"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "If you want to try a vent, go ahead and see if you can stop it at 1."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2151243"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2151250"
+    },
+    {
+      "tokens": [
+        "What - What's wrong if we go below 1, Hank?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2151251"
+    },
+    {
+      "tokens": [
+        "Well, the problem is there, Ken, if it's - at 1 volt, we're - at 1.5 volt, we're roughly equal to cabin pressure in there and, if you go much below 1 and we do have a battery that's venting, you could lose the battery, if it goes all the way to vacuum."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2151256"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And that's the only problem?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2151318"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "In other words, if the - if the battery - a battery has vented and the - and the vent doesn't reseal - and it - and it's not resealed, if you go to vacuum, the electrolyte couldn't go - go out of it."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2151321"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I understand that.",
+        "That's the only problem, though.",
+        "Is that correct?",
+        "It won't affect the other batteries?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2151335"
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "It shouldn't affect the other batteries."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2151340"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you.",
+        "We'll try it for 1 again."
+      ],
+      "speaker": "Mattingly",
+      "time": "2151345"
+    },
+    {
+      "tokens": [
+        "Okay, it's reading 1.2 - about 1.3, I guess.",
+        "We'll leave it at that for a few minutes."
+      ],
+      "speaker": "Mattingly",
+      "time": "2151404"
+    },
+    {
+      "tokens": [
+        "Can y'all see the Bat Charger current down there, Hank?"
+      ],
+      "speaker": "Duke",
+      "time": "2151453"
+    },
+    {
+      "tokens": [
+        "That's affirmative, and it's reading zero now, Charlie."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2151501"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "When I started Bat B charge, I was looking at Bat Bus B, and we got a negative amp - looked like to me a negative amps, off-scale, low on Bat B, and then I went to Bat Charger, but that should - but that didn't look right to me, so I stopped.",
+        "And then I went to Bat Charger and started it and - again, and the bat charger current went up to about 2, which - or so, which looked nominal.",
+        "The only question was that it looked like a reverse current or something, and - I guess that is true, isn't it, though, when you reverse current into a battery to charge it?"
+      ],
+      "speaker": "Duke",
+      "time": "2151506"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2151545"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "So that's nominal?",
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Duke",
+      "time": "2151550"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "What we saw down here, I guess, when you started the - started the charge, it - it looked like that perhaps you hadn't pulled the Bat Relay circuit breaker; then you stopped and then - then it looked normal to us."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2151612"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's - it was open and the breaker is pulled.",
+        "Or it's closed now, since the charge is terminated."
+      ],
+      "speaker": "Duke",
+      "time": "2151637"
+    },
+    {
+      "tokens": [
+        "And they also saw some funnies in your data.",
+        "It looked like the charge started out on Bat A and then it went to Bat B."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2151700"
+    },
+    {
+      "tokens": [
+        "Well, you got to go to the A position to get to B."
+      ],
+      "speaker": "Duke",
+      "time": "2151713"
+    },
+    {
+      "tokens": [
+        "Copy."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2151718"
+    },
+    {
+      "tokens": [
+        "CM transcript restarts."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Break in CM transcript until 216:17:44."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "We're right - unstowing from A-2 into the top of page 3-2 now."
+      ],
+      "speaker": "Mattingly",
+      "time": "2152143"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2152150"
+    },
+    {
+      "tokens": [
+        "16, Houston, we got a - an answer to your question about the wrist rings on your suit."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2152329"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're not ready for that answer right now, thank you."
+      ],
+      "speaker": "Young",
+      "time": "2152341"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Whenever you're ready, holler."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2152345"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2152349"
+    },
+    {
+      "tokens": [
+        "Hank, on the battery compartment, we vented back down to 1, and it's back up to about 1 - 1.3 we vented to, and it's back up to about 1.8 now and seems to be stabilized."
+      ],
+      "speaker": "Duke",
+      "time": "2153352"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "Thank you."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2153408"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We got 5900 pounds in the OPS, and it's regulating at 3.7."
+      ],
+      "speaker": "Young",
+      "time": "2153542"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy 5900 pounds, regulating at 3.7."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2153551"
+    },
+    {
+      "tokens": [
+        "We're - Hank, we're down to the TV and DAC Prep, and we're just before installing the meter covers."
+      ],
+      "speaker": "Young",
+      "time": "2154548"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Real good, John.",
+        "Thank you."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2154556"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; at 240 hours, 38 minutes [215:51] Ground Elapsed Time.",
+        "The crew of Apollo 16 presently going through preparations in the cabin for the Command Module Pilot EVA.",
+        "Our countdown clock in Mission Control going for hatch open time; we show 2 hours and 16 minutes away now and Apollo 16 is presently at a distance of 180,774 nautical miles away from the Earth, velocity now reading 3,850 feet per second."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Ken, we'd like to see the turnoff of the SIM bay that's on 3-6 before you turn our data off."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2155314"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Understand; the SIM bay turnoff on 3-6 before we turn data off."
+      ],
+      "speaker": "Mattingly",
+      "time": "2155329"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And we'll need that data switch - the S-Band Aux TV switch in SCI in order to see the data.",
+        "And we have some additions to that turnoff, too.",
+        "Whenever you're ready to do some of those, I'll call them out to you."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2155335"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2155353"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We want the Mapping Camera, Off; the Gamma Ray, Off; and we want to verify that the Mass Spec, even though we don't have it, we want to verify that the Mass Spec experiment is Off, and the Ion Source is Off; Laser Altimeter, Off; and Image Motion, Off."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2155356"
+    },
+    {
+      "tokens": [
+        "And all of those items are in addition to the ones that are listed on page 3-6."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2155438"
+    },
+    {
+      "tokens": [
+        "Okay, that's where they'll go, on page 3-6."
+      ],
+      "speaker": "Mattingly",
+      "time": "2155449"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2155453"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston, at 240 hours, 46 minutes [215:59], Ground Elapsed Time, very little discussion with the crew of Apollo 16.",
+        "Since the crew is presently going through preparations for the Command Module Pilot's trip outside the spacecraft.",
+        "We show Apollo 16 at a distance away from [Earth] of 180,489 nautical miles, velocity now reads 3,854 feet per second.",
+        "Continuing to monitor; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "Could you give us a check on the battery compartment now?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2160218"
+    },
+    {
+      "tokens": [
+        "Okay, it's up to 2.0, just a little higher than it was last time."
+      ],
+      "speaker": "Mattingly",
+      "time": "2160253"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "2.0."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2160258"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; at 240 hours, 49 minutes [216:02] Ground Elapsed Time, The discussion we've had with regard to the batteries, we're talking about entry batteries, and exploring the possibility of one of the 3 - we do monitor batteries A and B, but not battery C via telemetry, however, from our discussion here, is centered around data not covered via telemetry.",
+        "Each battery has 20 cells, much like a car battery but with check valves rather than caps for each cell.",
+        "Right now we don't believe that that we have a problem with any one of these cells, but we're exploring that kind of possibility with the pressure built up.",
+        "It could indicate the possibility of one of the cells - one of the batteries, could be venting.",
+        "I repeat, we have no reason to believe that right now, but we're exploring that with the crew of Apollo 16.",
+        "The principle concern does not deal with battery capability, but rather to make sure that battery gas would not be relieving into the cabin, Entry can be safely accomplished on only one of the 3 batteries.",
+        "We're at 240 hours, 51 minutes [216:04], we now show Apollo 16 at a distance of 180,309 nautical miles away from the Earth and travelling at a speed of 3,857 feet per second."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "We're on the bottom of page 3-4, and we're taking the couch out now."
+      ],
+      "speaker": "Young",
+      "time": "2161338"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2161344"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston, 241 hours Ground Elapsed Time [216:13].",
+        "That report indicated that the crew of Apollo 16 is now removing the center couch in preparation of - for the EVA.",
+        "We presently show Apollo 16 at a distance from Earth of 179,956 nautical miles, velocity now reads 3,862 feet per second."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "CM transcript restarts."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "When you get around to - prior to suit donning, we recommend that you lubricate those wrist rings using the maintenance kit that's stored in A-8.",
+        "And you might try to work some of that lube in around the locking rings and work the ring several times to try to free them up a little bit - the locking rings."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2161816"
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "We've already done that ..."
+      ],
+      "speaker": "Duke",
+      "time": "2161843"
+    },
+    {
+      "tokens": [
+        "...",
+        "we did that when we doffed the suits yesterday as best we could."
+      ],
+      "speaker": "Duke",
+      "time": "2161846"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2161848"
+    },
+    {
+      "tokens": [
+        "I'm not sure it had much effect, but we did it."
+      ],
+      "speaker": "Duke",
+      "time": "2161852"
+    },
+    {
+      "tokens": [
+        "Break in CM transcript until 219:21:47."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Charlie, did you do the full lubing and cleaning, including the zippers, in accordance with the instructions in the maintenance kit?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2161923"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "Just like we done it on the surface.",
+        "We did the zippers, all of the O-rings, the neck rings, the wrist rings, and it seems to me, Hank, it's really not where the O-ring is.",
+        "It's in the sliding part between the suit part and the locking part of it.",
+        "It's stiff.",
+        "You could see dust down in there, but you can't get it out too well."
+      ],
+      "speaker": "Duke",
+      "time": "2161933"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "Only thing we could recommend there, which I'm sure you've already done, is just sock it a few times - see if you can free it up."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2161957"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you, sir.",
+        "I think they'll be okay."
+      ],
+      "speaker": "Duke",
+      "time": "2162011"
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "We'd like to get another read-out on the battery compartment, and we suggest you leave the meter setting there so we can read it during the EVA if we have to - or you can read it."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2163401"
+    },
+    {
+      "tokens": [
+        "We're leaving it set."
+      ],
+      "speaker": "Young",
+      "time": "2163412"
+    },
+    {
+      "tokens": [
+        "2.15."
+      ],
+      "speaker": "Young",
+      "time": "2163427"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "At 2.15."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2163429"
+    },
+    {
+      "tokens": [
+        "Get - Roger."
+      ],
+      "speaker": "Young",
+      "time": "2163431"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control Houston.",
+        "At 241 hours, 21 minutes [216:34] Ground Elapsed Time.",
+        "The Science Staff Support room has just reported that the sub-satellite has been activated and it's working fine.",
+        "The sub-satellite in orbit around the Moon.",
+        "We now show Apollo 16 at 179,143 nautical miles away from the Earth and travelling at a speed of 38,075 [sic, should be 3,875] feet per second."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 16, Houston.",
+        "For your information, we just commanded the Sub-sat on, and it's alive and well."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2163702"
+    },
+    {
+      "tokens": [
+        "Good show."
+      ],
+      "speaker": "Young",
+      "time": "2163712"
+    },
+    {
+      "tokens": [
+        "Okay Houston, we're just about to start with the - with the SIM bay turnoff here on Page 3-6, and we'll do those additions that you talked about."
+      ],
+      "speaker": "Young",
+      "time": "2164033"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Good show."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2164045"
+    },
+    {
+      "tokens": [
+        "And, 16, before you start your suit donning, we'd like to vent that battery compartment one more time down to about 1 volt."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2164127"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll do that."
+      ],
+      "speaker": "Young",
+      "time": "2164138"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We're on page 3-6, and we're starting our PGA donning right now."
+      ],
+      "speaker": "Young",
+      "time": "216_44_41"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2164448"
+    },
+    {
+      "tokens": [
+        "I think we've made up 45 minutes on our late wakeup - hour late wakeup this morning."
+      ],
+      "speaker": "Young",
+      "time": "2164453"
+    },
+    {
+      "tokens": [
+        "Great.",
+        "And we're standing by for that battery compartment reading."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2164500"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Charlie just superbly vented it to 1.0."
+      ],
+      "speaker": "Young",
+      "time": "2164536"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "1.0."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2164541"
+    },
+    {
+      "tokens": [
+        "Right."
+      ],
+      "speaker": "Young",
+      "time": "2164545"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Ken's completed donning his suit now, and Charlie's going to start on his."
+      ],
+      "speaker": "Young",
+      "time": "2170040"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy, John."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2170045"
+    },
+    {
+      "tokens": [
+        "Hello, Henry.",
+        "You still there?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2170249"
+    },
+    {
+      "tokens": [
+        "Roger, Ken.",
+        "How do you read?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2170252"
+    },
+    {
+      "tokens": [
+        "Loud and clear."
+      ],
+      "speaker": "Mattingly",
+      "time": "2170256"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're loud and clear."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2170258"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2170303"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston; at 141 hours [means 241 hours], 49 minutes [217:02] Ground Elapsed Time.",
+        "That was Ken Mattingly calling Hank Hartsfield, our CapCom here in Mission Control.",
+        "Mattingly [is] now scheduled to move outside the spacecraft in one hour and five minutes.",
+        "Earlier John Young had reported that Ken Mattingly had completed the donning of his space suit and that Lunar Module Pilot Charles Duke was in the process of donning his space suit.",
+        "We show Apollo 16 at a distance of 178,085 nautical miles away from the Earth and travelling at a speed of 3,891 feet per second."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hank, instead of making this maneuver to the EVA attitude at 242:00, suppose we do it as soon as we finish suit donning."
+      ],
+      "speaker": "Mattingly",
+      "time": "2170453"
+    },
+    {
+      "tokens": [
+        "Roger, Ken.",
+        "You can do that whenever you're ready.",
+        "When you do do the maneuver, we'd like for you to go Wide on the High Gain."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2170507"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2170517"
+    },
+    {
+      "tokens": [
+        "And, Ken, in regard to the - the attitude and angle changes, - the only thing on your EVA cue card that - that I saw that required changing was the High-Gain angles."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2170634"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by.",
+        "Stand by.",
+        "Stand by, please."
+      ],
+      "speaker": "Mattingly",
+      "time": "2170644"
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "Say again what you had to say about the attitudes now, please."
+      ],
+      "speaker": "Mattingly",
+      "time": "2170816"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I read up the new attitudes and High-Gain angles to Charlie, and he was going to change the checklist and the cue card; and I just wanted to say that the only place on the cue cards I see that needs a change is the back side of your EVA card, the High-Gain angles right by the 50 18."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2170820"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've got that, and - it was minus 24 and 220; and now we want something different, huh?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2170841"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2170855"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Now I've got a minus 34 and 218.",
+        "Shouldn't that track throughout the maneuver?",
+        "It used to.",
+        "The old angles did."
+      ],
+      "speaker": "Mattingly",
+      "time": "2170902"
+    },
+    {
+      "tokens": [
+        "We hope it'll work in Auto TRACK, Ken, but this is just a precaution.",
+        "We've been having a little trouble with that High Gain."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2170922"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "2170932"
+    },
+    {
+      "tokens": [
+        "And, Hank, on that - on that battery thing, it's back up to about 1.6 now.",
+        "It came right up to 1.5, which it - that you're - that means that it's up to 1.6.",
+        "Do you want us to vent that thing during the EVA to keep from getting excessive pressure in that chamber, while we have the cabin depressed?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2171005"
+    },
+    {
+      "tokens": [
+        "Negative, Ken.",
+        "We'd like to watch it awhile."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2171029"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That battery compartment will take it when we get the cabin down, right?",
+        "Or at least relieve through the cabin?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2171036"
+    },
+    {
+      "tokens": [
+        "That manifold should take 200 psi, Ken.",
+        "That was what it was qual'ed at, and the burst pressure is 600."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2171053"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's fine.",
+        "You guys think there's a relief valve on one of those batteries that's [garble]?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2171103"
+    },
+    {
+      "tokens": [
+        "We're not - we're not sure.",
+        "We kind of think that may be what's happening."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2171111"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Do you have any evidence yet as to which battery?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2171118"
+    },
+    {
+      "tokens": [
+        "Negative."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2171124"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "2171127"
+    },
+    {
+      "tokens": [
+        "All those batteries are manifolded together, and all the voltages look normal.",
+        "If we do drop a cell on one of the batteries, we should be able to pick that up."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2171146"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Mattingly",
+      "time": "2171200"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Charlie's suited."
+      ],
+      "speaker": "Mattingly",
+      "time": "217_14_02"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2171407"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston at 242 hours [217:13] Ground Elapsed Time, that was Ken Mattingly reporting that Lunar Module pilot Charles Duke has suited.",
+        "We're 54 minutes away now from time of hatch open.",
+        "We show Apollo 16 at an altitude of 177,691 nautical miles and with a velocity of 3,898 feet per second."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "Go Wide on the High Gain."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2171852"
+    },
+    {
+      "tokens": [
+        "Hank, I just hit the yaw knob.",
+        "What are the settings in our present attitude?"
+      ],
+      "speaker": "Duke",
+      "time": "2171900"
+    },
+    {
+      "tokens": [
+        "Pitch minus 14, Yaw 58."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2171913"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We got it."
+      ],
+      "speaker": "Duke",
+      "time": "2171920"
+    },
+    {
+      "tokens": [
+        "16, we'd like to stay Wide and Manual in the High Gain."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2171953"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You've got it."
+      ],
+      "speaker": "Duke",
+      "time": "2172005"
+    },
+    {
+      "tokens": [
+        "Are you going to want that during the EVA, Hank?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2172007"
+    },
+    {
+      "tokens": [
+        "That's affirmative, and we'll call it when we start the maneuver."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2172020"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Wide gives you enough margin on the TV?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2172028"
+    },
+    {
+      "tokens": [
+        "That was really a question, Hank.",
+        "(Laughing) I didn't mean it as a statement."
+      ],
+      "speaker": "Mattingly",
+      "time": "2172051"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "What's going to happen is: when we do get in attitude, we can bring it back to Auto and get it locked up; but we will need the Narrow Beam."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2172056"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Because that's a - that's going to be a very difficult thing to try and tweak up in a hard suit."
+      ],
+      "speaker": "Mattingly",
+      "time": "2172106"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2172112"
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "We're noticing that the glycol evap out temp is coming on down, and we need to adjust that mixing valve in.",
+        "But rather than crawling under there and doing that right now, what we want to do is get you to take the Temp In switch from Manual up to Auto, and we'll give you a call when to put it back in Manual and see if that will cut it."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2172313"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Is that going to have enough time delay - on your call that's going to - I guess - I guess I'm concerned about making it worse."
+      ],
+      "speaker": "Mattingly",
+      "time": "2172339"
+    },
+    {
+      "tokens": [
+        "Well, the temperature's dropping.",
+        "We're going to have to adjust it one way or the other, Ken, and we're going to lead it."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2172352"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We can always go back and do it manually if it doesn't work.",
+        "All right.",
+        "Do you want to do that - let's do it right now before our maneuver and make sure we don't lose comm in the middle of it."
+      ],
+      "speaker": "Mattingly",
+      "time": "2172401"
+    },
+    {
+      "tokens": [
+        "That's right.",
+        "We'd like to do it now ..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2172409"
+    },
+    {
+      "tokens": [
+        "Going to Auto -"
+      ],
+      "speaker": "Mattingly",
+      "time": "2172411"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Mattingly",
+      "time": "2172412"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2172413"
+    },
+    {
+      "tokens": [
+        "Ken, I know this is going to sound funny, but it looks like that mixing valve is working now.",
+        "It didn't go up like we thought it would."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2172527"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "But we're going to have to make a configuration setting before we start the EVA, because we won't be able to get to it then.",
+        "If we can find a place where it looks good, I'd like to leave it in Manual throughout the EVA, and we can try the Auto feature some other time."
+      ],
+      "speaker": "Mattingly",
+      "time": "2172541"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'd like to put the switch back to Manual and maneuver to the EVA attitude, and we'll take a look when we get good comm there."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2172601"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The Temp In switch is in Manual, and I'm going to the EVA attitude."
+      ],
+      "speaker": "Mattingly",
+      "time": "2172612"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2172617"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Suiting is completed."
+      ],
+      "speaker": "Mattingly",
+      "time": "2172817"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand, suiting completed."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2172821"
+    },
+    {
+      "tokens": [
+        "16, Omni Delta."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2173027"
+    },
+    {
+      "tokens": [
+        "Hank, we'll be switching comm here again for a minute."
+      ],
+      "speaker": "Duke",
+      "time": "2173208"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2173212"
+    },
+    {
+      "tokens": [
+        "16; if you read, Omni Alpha."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2173229"
+    },
+    {
+      "tokens": [
+        "You got it."
+      ],
+      "speaker": "Duke",
+      "time": "2173238"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2173240"
+    },
+    {
+      "tokens": [
+        "Omni Charlie."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2173619"
+    },
+    {
+      "tokens": [
+        "Apollo 16, if you read, Omni Charlie."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2173706"
+    },
+    {
+      "tokens": [
+        "Apollo 16, Omni Charlie."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2173736"
+    },
+    {
+      "tokens": [
+        "Going Omni Bravo now."
+      ],
+      "speaker": "Mattingly",
+      "time": "2173854"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're reading you again."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2173857"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Loud and clear."
+      ],
+      "speaker": "Young",
+      "time": "2173904"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're down to Page 3-8 on the pressure gage static check we're running through now, Hank."
+      ],
+      "speaker": "Young",
+      "time": "2173926"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2173932"
+    },
+    {
+      "tokens": [
+        "Apollo 16, Houston.",
+        "Could you acquire with your High Gain?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2174119"
+    },
+    {
+      "tokens": [
+        "Didn't work."
+      ],
+      "speaker": "Duke",
+      "time": "2174128"
+    },
+    {
+      "tokens": [
+        "Okay, Hank.",
+        "How's that in - Wide Beam?"
+      ],
+      "speaker": "Duke",
+      "time": "2174155"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Would you go Reacq and Narrow?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2174202"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You have it.",
+        "Reacq and Narrow.",
+        "Good signal strength."
+      ],
+      "speaker": "Duke",
+      "time": "2174212"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It looks good, Charlie."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2174219"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control Houston at 242 hours, 29 minutes [217:42] Ground Elapsed Time.",
+        "The Apollo 16 spacecraft has now been maneuvered to a proper EVA attitude and we have acquired with the High Gain Antenna.",
+        "We show 25 minutes remaining on our countdown clock to time of hatch open, and we show Apollo 16 at a distance of 176,589 nautical miles away from the Earth and travelling at a speed of 39015 [sic, should be 3,915] feet per second.",
+        "This is Apollo Control Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "I have Vox now.",
+        "Vox Sensitivity is up.",
+        "Pad Comm's Off.",
+        "S-Band's T/R.",
+        "Audio mode is Normal.",
+        "[vox] T/R.",
+        "AM's Off."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175018"
+    },
+    {
+      "tokens": [
+        "We're reading you, Ken.",
+        "And for your information, the mixing valve setting is good."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2175042"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175049"
+    },
+    {
+      "tokens": [
+        "Are you going to check - going to check out the TV?",
+        "Charlie, did you get that?",
+        "Okay.",
+        "Let me see if I got a picture here.",
+        "Okay.",
+        "I'm ahead with this.",
+        "You got a - got anything on there yet?",
+        "You got a picture?",
+        "You got a - the monitor's working, isn't it?",
+        "Bet that'll help.",
+        "(Laughing) Okay.",
+        "Okay.",
+        "That is the end of it.",
+        "Get your monitor adjusted so it shows you what you'd like.",
+        "I'll open it up so you can see something inside, and I'll close it down before we go outside.",
+        "Take the zoom all the way out.",
+        "Is that all right?",
+        "Okay.",
+        "Set the zoom back to where it was supposed to be.",
+        "What's the zoom setting?",
+        "Zoom.",
+        "All right.",
+        "Okay.",
+        "Houston, are you getting a picture?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2175103"
+    },
+    {
+      "tokens": [
+        "That's affirmative."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2175231"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We won't worry about dressing it up till we get outside."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175234"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2175240"
+    },
+    {
+      "tokens": [
+        "Wait a minute, John.",
+        "Let me put this back up.",
+        "Watch your head there.",
+        "Big thing."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175248"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control Houston.",
+        "242 hours, 39 minutes [217:52] Ground Elapsed Time.",
+        "Command Module Pilot Ken Mattingly now checking out the TV system in preparation for the EVA."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We got the TV power off, did you say?",
+        "Okay.",
+        "And the camera's back in place.",
+        "All right.",
+        "Okay.",
+        "We've been doing that.",
+        "You might check them.",
+        "Be sure you can."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175308"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "You read me okay on the Cdr's loop?"
+      ],
+      "speaker": "Young",
+      "time": "2175321"
+    },
+    {
+      "tokens": [
+        "Houston's reading you five by five, John."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2175325"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2175331"
+    },
+    {
+      "tokens": [
+        "Pressure Alarm is coming On.",
+        "I have the warning tone.",
+        "It's going back Off, and the tone is off."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175343"
+    },
+    {
+      "tokens": [
+        "You can call Verb 49, and it will already be loaded.",
+        "Yeah.",
+        "You've got to Pro out of this."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175359"
+    },
+    {
+      "tokens": [
+        "It may be out of attitude, but - Okay [garble].",
+        "take two Pro's to go to the MEED Attitude.",
+        "Okay?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2175426"
+    },
+    {
+      "tokens": [
+        "Okay, the Repress O2is about 865."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175452"
+    },
+    {
+      "tokens": [
+        "No, that acts as a supplement to the Surge tank.",
+        "All right."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175510"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let me check Noun 351.",
+        "Okay.",
+        "The Repress valve is Off.",
+        "That's verified.",
+        "That's verified."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175532"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control Houston at 242 hours, 42 minutes [217:55] Ground Elapsed Time.",
+        "Apollo 16 now at a distance of 176,093 nautical miles away from the Earth, and travelling at a speed of 3,924 feet per second.",
+        "The integrity checks for the suit still needs to be completed.",
+        "We will standby until we have a more definite time for hatch open and pass that along a soon as it comes available."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It is."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175626"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "Can you get this in your ..."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175659"
+    },
+    {
+      "tokens": [
+        "You want me to stuff it in my TSB?"
+      ],
+      "speaker": "Duke",
+      "time": "2175701"
+    },
+    {
+      "tokens": [
+        "I'll see.",
+        "I'll see."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175702"
+    },
+    {
+      "tokens": [
+        "Yeah."
+      ],
+      "speaker": "Duke",
+      "time": "2175703"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175704"
+    },
+    {
+      "tokens": [
+        "I'll tell you what, I'm gonna put it up here just - I don't want to lose this one."
+      ],
+      "speaker": "Duke",
+      "time": "2175706"
+    },
+    {
+      "tokens": [
+        "Okay, that's Flight Plan is stowed in R3."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175729"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've got it."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175812"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "And I have the valve in the open position, and would you verify that that's open.",
+        "Counter clockwise - No, what does it say on the arrow?",
+        "Okay.",
+        "And it's locked."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175830"
+    },
+    {
+      "tokens": [
+        "Apollo Control Houston at 242 hours, 45 minutes [217:58] Ground Elapsed Time.",
+        "Our best estimate for hatch open at this point approximately 40 minutes and the countdown clock in Mission Control being reflected to show that hatch open time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Wrist tether's out, [vox] stowed.",
+        "Yep.",
+        "My hoses are disconnected and stowed.",
+        "Yes, sir.",
+        "Interconnect is in.",
+        "Suit flow is Off, the interconnect is in.",
+        "It's locked on two sides, and stowed on the strut.",
+        "I have it.",
+        "Okay.",
+        "I've got it in Lo.",
+        "Okay.",
+        "It's installed and locked.",
+        "Nope.",
+        "That's mine.",
+        "It's Off.",
+        "Yes.",
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2175920"
+    },
+    {
+      "tokens": [
+        "Okay, I've got the adapter plate on."
+      ],
+      "speaker": "Mattingly",
+      "time": "2180131"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "And I've unconnected the - disconnected the OPS hose.",
+        "They're snapped.",
+        "They're installed.",
+        "Yes, sir.",
+        "Attached."
+      ],
+      "speaker": "Mattingly",
+      "time": "2180229"
+    },
+    {
+      "tokens": [
+        "Just a little bit easier."
+      ],
+      "speaker": "Mattingly",
+      "time": "2180325"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control Houston, at 242 hours, 49 minutes [218:02]Ground Elapsed Time, Ken Mattingly has just connected the OPS hose with the assistance of Lunar Module Pilot Charles Duke.",
+        "We show Apollo 16 at a distance of 175,810 nautical miles from Earth."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Am I getting that twisted?",
+        "I want to go over the umbilical.",
+        "That's it, thank you.",
+        "Thank you.",
+        "Okay.",
+        "The OPS is installed, the gas connector is installed, and it's locked.",
+        "Yes, sir.",
+        "Yep.",
+        "If you can.",
+        "May have to disconnect this thing to get it down there.",
+        "All right, thank you.",
+        "It'll stay.",
+        "Yeah, that's nice.",
+        "Oh, I'm sorry, I didn't hear you.",
+        "Okay.",
+        "O2flow is coming On."
+      ],
+      "speaker": "Mattingly",
+      "time": "2180457"
+    },
+    {
+      "tokens": [
+        "Mark.",
+        "I have flow.",
+        "Yes, sir.",
+        "But - Will you watch cabin pressure for me?",
+        "Want me to read those while you guys do the integrity check?",
+        "Okay.",
+        "Let me get up here.",
+        "You want me to read those things while you - you have both hands -"
+      ],
+      "speaker": "Mattingly",
+      "time": "2180502"
+    },
+    {
+      "tokens": [
+        "Hey, where's - where's the other - Here's your helmet, where's my - laid it down.",
+        "Okay.",
+        "I'll get it out for y'all.",
+        "Here's yours, John.",
+        "Those are your gloves, Charlie, or - okay.",
+        "Okay, my gloves should be down there to your right somewhere, I think.",
+        "Yeah, [garble] get them out of the way.",
+        "Okay.",
+        "All right, thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "2180602"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control Houston at 242 hours and 53 minutes [218:06] Ground Elapsed Time.",
+        "We're about 30 minutes away now from hatch open.",
+        "It's taking a little bit longer than had originally been anticipated to go through the checklist procedures in getting ready for the Command Module Pilot's EVA.",
+        "We're at 242 hours, 54 minutes Ground Elapsed Time.",
+        "We show Apollo 16 at a distance of 175,657 nautical miles."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "Okay.",
+        "Get this little strap on here, and we'll be all set.",
+        "Okay.",
+        "I will not steal the pen.",
+        "Okay.",
+        "Where is it?",
+        "All right.",
+        "Okay.",
+        "Around here, you mean?",
+        "That looks clear in the back.",
+        "Put your head over here a second.",
+        "That looks clear.",
+        "That looks good.",
+        "Yeah, that's - The little skirt around the back gets in the way [garble].",
+        "I didn't hear it click.",
+        "No.",
+        "Want to take the LEWA off so we can get more pressure on it?",
+        "Goes on so much easier than it comes off.",
+        "That sounded good.",
+        "Okay.",
+        "That about in the center for you?",
+        "Okay.",
+        "Lock it.",
+        "That's good.",
+        "Covered and all buttoned up.",
+        "Hey, that was easy."
+      ],
+      "speaker": "Mattingly",
+      "time": "2180615"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Charlie's donning his helmet and gloves with the - for the suit integrity check we're about to get into here for CDR/LMP."
+      ],
+      "speaker": "Young",
+      "time": "2180946"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2180957"
+    },
+    {
+      "tokens": [
+        "Hey, that's really nice.",
+        "Okay.",
+        "I got two locked.",
+        "That one's locked, and your helmet is locked.",
+        "Got one, two.",
+        "Gas connectors are locked.",
+        "Okay.",
+        "All right, John.",
+        "Okay.",
+        "I'll take the checklist.",
+        "I'll hold it out of the way for you.",
+        "That'll be temporary, but as soon as we get the hatch open, that wire will get taut.",
+        "Why don't you loop it under that little dog [?] by the - the window frame there?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2181003"
+    },
+    {
+      "tokens": [
+        "Houston, battery compartment's 1.9.",
+        "You happy with that now?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2181120"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're happy with that, Ken."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2181129"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you.",
+        "Okay.",
+        "You got your alignments checked?",
+        "Okay.",
+        "And you got the gloves.",
+        "They're in and they're locked.",
+        "Okay.",
+        "Both of you checked the connections, comm, oxygen and gas connector plugs.",
+        "All locked?",
+        "Okay.",
+        "John, if you'll go to Vox.",
+        "Okay.",
+        "And let 's try the sensitivity; that's probably gonna be pretty good.",
+        "Try it with the ground and see if ..."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181133"
+    },
+    {
+      "tokens": [
+        "Houston, how do you read me on Vox?",
+        "Over."
+      ],
+      "speaker": "Young",
+      "time": "2181203"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2181209"
+    },
+    {
+      "tokens": [
+        "Houston, this is Apollo 16.",
+        "How do you read on Vox?",
+        "Over."
+      ],
+      "speaker": "Young",
+      "time": "2181214"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Reading you - reading you loud and clear, John."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2181218"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2181222"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And the last - last - The next thing is to stow the checklists.",
+        "Okay, do you have a suit circuit integrity check on there?",
+        "I don't think you do on the cue card.",
+        "It's on the panel."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181224"
+    },
+    {
+      "tokens": [
+        "Over behind the [garble]."
+      ],
+      "speaker": "Young",
+      "time": "2181238"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Panel 380.",
+        "Suit Circuit Return valve to closed."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181239"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Suit Circuit Return valve to close?"
+      ],
+      "speaker": "Young",
+      "time": "2181243"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "Push in."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181255"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's in."
+      ],
+      "speaker": "Young",
+      "time": "2181257"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Panel 7, Direct O2close: clockwise."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181258"
+    },
+    {
+      "tokens": [
+        "Panel 7."
+      ],
+      "speaker": "Young",
+      "time": "2181304"
+    },
+    {
+      "tokens": [
+        "Direct O2.",
+        "Make sure it's closed."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181306"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's closed."
+      ],
+      "speaker": "Young",
+      "time": "2181309"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The Suit Pressure indicator is reading 5.2 - it's about 5.",
+        "I'm gonna bleed this a little bit.",
+        "Okay, Houston.",
+        "I have the Equalisation Valve, Open a little bit.",
+        "Will you keep an eye on the cabin pressure for us, please?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2181310"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Would you vent it down to about 5.17 It's up now."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2181335"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've got the Valve, Open.",
+        "Would you keep an eye on the cabin pressure, please?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2181341"
+    },
+    {
+      "tokens": [
+        "Will do."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2181345"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The flow is normal; suit pressure, okay.",
+        "We're ready to go on to suit circuit integrity check.",
+        "And Suit Test valve to Press."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181351"
+    },
+    {
+      "tokens": [
+        "Suit Test valve to Press.",
+        "Going to Press."
+      ],
+      "speaker": "Young",
+      "time": "2181405"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You got it in Pressure?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2181410"
+    },
+    {
+      "tokens": [
+        "In Pressure."
+      ],
+      "speaker": "Young",
+      "time": "2181415"
+    },
+    {
+      "tokens": [
+        "All right.",
+        "Direct O2flows Open."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181416"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're Open in Direct O2."
+      ],
+      "speaker": "Young",
+      "time": "2181419"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You're gonna start to pressurize now.",
+        "Okay.",
+        "You might - at - give it another psi, and then cycle the Suit Circuit Return."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181420"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2181432"
+    },
+    {
+      "tokens": [
+        "You have a Master Alarm; that's Hi O2Flow."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181433"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2181436"
+    },
+    {
+      "tokens": [
+        "I'll get it off, Charlie.",
+        "I'm putting the Caution and Warning back to normal."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181440"
+    },
+    {
+      "tokens": [
+        "Ken, you're down to 5 psi on the cabin."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2181448"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And the valve is closed."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181454"
+    },
+    {
+      "tokens": [
+        "What's my suit pressure, Charlie?"
+      ],
+      "speaker": "Young",
+      "time": "2181458"
+    },
+    {
+      "tokens": [
+        "You're at - You should have about 1.2 Delta-P."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181500"
+    },
+    {
+      "tokens": [
+        "What does it say on the gage over there?"
+      ],
+      "speaker": "Young",
+      "time": "2181509"
+    },
+    {
+      "tokens": [
+        "0.2 Delta-P."
+      ],
+      "speaker": "Duke",
+      "time": "2181511"
+    },
+    {
+      "tokens": [
+        "0.2 Direct O2.",
+        "I want to get it up to -"
+      ],
+      "speaker": "Young",
+      "time": "2181517"
+    },
+    {
+      "tokens": [
+        "Okay, why don't you cycle the Suit Circuit Return valve ?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2181519"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2181525"
+    },
+    {
+      "tokens": [
+        "Cycle once."
+      ],
+      "speaker": "Young",
+      "time": "2181537"
+    },
+    {
+      "tokens": [
+        "Okay, that's good.",
+        "It's back in."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181540"
+    },
+    {
+      "tokens": [
+        "It's back in."
+      ],
+      "speaker": "Young",
+      "time": "2181545"
+    },
+    {
+      "tokens": [
+        "All right."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181546"
+    },
+    {
+      "tokens": [
+        "Cycled twice."
+      ],
+      "speaker": "Young",
+      "time": "2181547"
+    },
+    {
+      "tokens": [
+        "Your suit pressure is still only about 1.5; have to turn that thing up some to get it a little ..."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181557"
+    },
+    {
+      "tokens": [
+        "Okay, I'll get it up there."
+      ],
+      "speaker": "Young",
+      "time": "2181602"
+    },
+    {
+      "tokens": [
+        "And, Hank, it looks like we're gonna be about 10 minutes late on hatch open."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181615"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2181620"
+    },
+    {
+      "tokens": [
+        "Okay, you should have 2 psi."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181633"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Call it off."
+      ],
+      "speaker": "Young",
+      "time": "2181635"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181638"
+    },
+    {
+      "tokens": [
+        "Call it off to me, Charlie."
+      ],
+      "speaker": "Young",
+      "time": "2181639"
+    },
+    {
+      "tokens": [
+        "When do you want me to shut the Direct O2off, Ken?"
+      ],
+      "speaker": "Duke",
+      "time": "2181643"
+    },
+    {
+      "tokens": [
+        "About 4."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181645"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "2181647"
+    },
+    {
+      "tokens": [
+        "Okay, why don't you turn the Direct O2off?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2181702"
+    },
+    {
+      "tokens": [
+        "Direct O2's off."
+      ],
+      "speaker": "Duke",
+      "time": "2181705"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Okay, it - it ought to get up to almost 4.5."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181707"
+    },
+    {
+      "tokens": [
+        "Have full pressure now?",
+        "What's your suit pressure?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2181742"
+    },
+    {
+      "tokens": [
+        "4.4's where it went last time."
+      ],
+      "speaker": "Young",
+      "time": "2181747"
+    },
+    {
+      "tokens": [
+        "Yeah, that's where it regulates to, right there, about 4.5."
+      ],
+      "speaker": "Young",
+      "time": "2181759"
+    },
+    {
+      "tokens": [
+        "And the flow should start to drop here."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181803"
+    },
+    {
+      "tokens": [
+        "How's your suit pressure?",
+        "Is it stable?"
+      ],
+      "speaker": "Duke",
+      "time": "2181829"
+    },
+    {
+      "tokens": [
+        "Okay, Houston, how long does it take before the flow starts to drop on this integrity check?"
+      ],
+      "speaker": "Young",
+      "time": "2181833"
+    },
+    {
+      "tokens": [
+        "Stand by, John."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2181847"
+    },
+    {
+      "tokens": [
+        "Get you a little Delta-P there, probably help."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181853"
+    },
+    {
+      "tokens": [
+        "There you go."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181903"
+    },
+    {
+      "tokens": [
+        "Coming down."
+      ],
+      "speaker": "Duke",
+      "time": "2181904"
+    },
+    {
+      "tokens": [
+        "That's all it needed was that bump, that little bit.",
+        "Okay, I'm turning my flow off -"
+      ],
+      "speaker": "Mattingly",
+      "time": "2181908"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Duke",
+      "time": "2181914"
+    },
+    {
+      "tokens": [
+        "Okay -"
+      ],
+      "speaker": "Young",
+      "time": "2181915"
+    },
+    {
+      "tokens": [
+        "Okay - I -"
+      ],
+      "speaker": "Duke",
+      "time": "2181916"
+    },
+    {
+      "tokens": [
+        "Okay, and my check is that the flow remains stable and low."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181918"
+    },
+    {
+      "tokens": [
+        "I wouldn't consider it low, Ken; it's climbing right back up."
+      ],
+      "speaker": "Young",
+      "time": "2181923"
+    },
+    {
+      "tokens": [
+        "Less than 0.97.",
+        "In other words, it doesn't peg."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181927"
+    },
+    {
+      "tokens": [
+        "Oh, the rascal."
+      ],
+      "speaker": "Young",
+      "time": "2181938"
+    },
+    {
+      "tokens": [
+        "It stopped."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181941"
+    },
+    {
+      "tokens": [
+        "0.7.",
+        "Okay, the flow is holding right now at 0.72 and - on me and Charlie.",
+        "That ought to do it."
+      ],
+      "speaker": "Young",
+      "time": "2181942"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's [garble] good."
+      ],
+      "speaker": "Mattingly",
+      "time": "2181955"
+    },
+    {
+      "tokens": [
+        "Roger; that sounds good, John."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2181956"
+    },
+    {
+      "tokens": [
+        "(Coughing)"
+      ],
+      "speaker": "Crew",
+      "time": "2181958"
+    },
+    {
+      "tokens": [
+        "Now it's up to 0.8.",
+        "Now it's pegged; for some reason, it just pegged."
+      ],
+      "speaker": "Young",
+      "time": "2182000"
+    },
+    {
+      "tokens": [
+        "How about the cyclic accumulator?",
+        "Just a second."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182004"
+    },
+    {
+      "tokens": [
+        "Yeah, that's probably what it was, 8, 9, 10 - Yep, there's a cyclic accumulator; hmm.",
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2182010"
+    },
+    {
+      "tokens": [
+        "Roger; we confirm that down here."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2182020"
+    },
+    {
+      "tokens": [
+        "[Garble].",
+        "Why don't you just go to Depress on the Suit Test valve?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2182021"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Going to Depress."
+      ],
+      "speaker": "Young",
+      "time": "2182026"
+    },
+    {
+      "tokens": [
+        "Okay, you'll come down pretty slow [garble].",
+        "..."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182036"
+    },
+    {
+      "tokens": [
+        "I won't come down at all, unless I can find the valve.",
+        "There we go."
+      ],
+      "speaker": "Young",
+      "time": "2182041"
+    },
+    {
+      "tokens": [
+        "You're in Depress."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182057"
+    },
+    {
+      "tokens": [
+        "I tell you, it's pretty good for these old suits to be holding air with all this Moon dust in them, Houston."
+      ],
+      "speaker": "Young",
+      "time": "2182114"
+    },
+    {
+      "tokens": [
+        "Roger; we copy."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2182119"
+    },
+    {
+      "tokens": [
+        "That was John Young making that call out.",
+        "We're at 243 hours, 7 minutes [218:20] Ground Elapsed Time.",
+        "We show Apollo 16 at an altitude of 175,129 nautical miles."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I got my Purge valve pin pulled.",
+        "And my Purge valve is activated to LOW.",
+        "The Diverter valves are rechecked into vertical.",
+        "We get your suits back down and get the systems stable, we'll go to the EVA card."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182147"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "2182208"
+    },
+    {
+      "tokens": [
+        "I'm 2.8 now and coming down."
+      ],
+      "speaker": "Young",
+      "time": "2182214"
+    },
+    {
+      "tokens": [
+        "Well, it's comforting to know that there's some sunlight out there.",
+        "When we - when we - vented the cabin, some of the particles went out, and you could see the sunlight out on them.",
+        "Otherwise, it's just black as all get out."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182223"
+    },
+    {
+      "tokens": [
+        "Hey, you want to open that black bag down there and put a vent on it?"
+      ],
+      "speaker": "Young",
+      "time": "2182244"
+    },
+    {
+      "tokens": [
+        "[Garble]."
+      ],
+      "speaker": "Duke",
+      "time": "2182247"
+    },
+    {
+      "tokens": [
+        "[Garble] crack it.",
+        "Yeah."
+      ],
+      "speaker": "Young",
+      "time": "2182251"
+    },
+    {
+      "tokens": [
+        "You got it loose?",
+        "I can get it.",
+        "I'll get it."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182258"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "2182307"
+    },
+    {
+      "tokens": [
+        "Did you snap it, Charlie?",
+        "I - I got bare hands here.",
+        "I can do that.",
+        "Okay.",
+        "Okay.",
+        "Can you - Snap's all the way in the back.",
+        "Oh, you did vent it."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182308"
+    },
+    {
+      "tokens": [
+        "Wait, I need my helmet (laughter)."
+      ],
+      "speaker": "Duke",
+      "time": "2182333"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Are we in this card here?"
+      ],
+      "speaker": "Young",
+      "time": "2182337"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You back to normal yet?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2182341"
+    },
+    {
+      "tokens": [
+        "Not quite."
+      ],
+      "speaker": "Young",
+      "time": "2182342"
+    },
+    {
+      "tokens": [
+        "That, - that card picks up as soon as I get this thing back to - get you back to normal on this ..."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182345"
+    },
+    {
+      "tokens": [
+        "Right, right."
+      ],
+      "speaker": "Young",
+      "time": "2182349"
+    },
+    {
+      "tokens": [
+        "...",
+        "configuration."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182350"
+    },
+    {
+      "tokens": [
+        "I remember that now."
+      ],
+      "speaker": "Young",
+      "time": "2182351"
+    },
+    {
+      "tokens": [
+        "Now I'm turning my O2flow back on.",
+        "Houston, can keep an eye on the cabin pressure for us, if you will, please."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182355"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're up to about 5.3, 5.4 now."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2182402"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I just turned my flow back on, so it'll start to rise again."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182407"
+    },
+    {
+      "tokens": [
+        "Got about three-quarters of a psi to go.",
+        "Am I in the way?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2182429"
+    },
+    {
+      "tokens": [
+        "No, it's no problem."
+      ],
+      "speaker": "Young",
+      "time": "2182435"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182437"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control, Houston, at 243 hours, 24 minutes [218:25]Ground Elapsed Time.",
+        "Ken Mattingly now in the process of..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Garble] and get us little head start so we don't get interrupted on our check."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182505"
+    },
+    {
+      "tokens": [
+        "...donning his helmet and gloves at this time.",
+        "We show Apollo 16 at a distance of 174,983 nautical miles."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, your equalization valve is closed."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182538"
+    },
+    {
+      "tokens": [
+        "All righty.",
+        "We're down now, aren't we?"
+      ],
+      "speaker": "Young",
+      "time": "2182544"
+    },
+    {
+      "tokens": [
+        "Yeah, that's good."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182549"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "2182550"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm going to Suit Test valve to Off."
+      ],
+      "speaker": "Young",
+      "time": "2182551"
+    },
+    {
+      "tokens": [
+        "Okay, you verify that the Demand Regs are in Both."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182600"
+    },
+    {
+      "tokens": [
+        "Cabin Regs are in Both - I mean, the Demand Regs."
+      ],
+      "speaker": "Young",
+      "time": "2182604"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm going to put the cue - put this in the stowage locker - done with him.",
+        "Want it turned around the other way?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2182608"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2182617"
+    },
+    {
+      "tokens": [
+        "Those rings won't quite fit.",
+        "Well, we're going to need it during the - I'm going to put it right in here.",
+        "How's that?",
+        "Okay, John, I'm ready to press on."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182630"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Beginning of the card.",
+        "Don helmet and lock."
+      ],
+      "speaker": "Young",
+      "time": "2182650"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "Helmet's coming on.",
+        "Yes."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182654"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Grab this over here."
+      ],
+      "speaker": "Young",
+      "time": "2182659"
+    },
+    {
+      "tokens": [
+        "That should have it."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182715"
+    },
+    {
+      "tokens": [
+        "You - you still got a little of your - Wait a minute, you get it?",
+        "That's a good thing.",
+        "I'll hold it down.",
+        "That do it?"
+      ],
+      "speaker": "Young",
+      "time": "2182716"
+    },
+    {
+      "tokens": [
+        "Okay, it's locked."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182743"
+    },
+    {
+      "tokens": [
+        "Okay, I can verify that."
+      ],
+      "speaker": "Young",
+      "time": "2182745"
+    },
+    {
+      "tokens": [
+        "And these stripes ought to line up pretty good, do they?",
+        "Can you see under the ..."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182747"
+    },
+    {
+      "tokens": [
+        "Hey, your lock stripe is to the - about - you got to come this way - the other way.",
+        "Whoa, too much.",
+        "There you go, perfect."
+      ],
+      "speaker": "Young",
+      "time": "2182751"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Give me the thermal stuff down there, Charlie."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182802"
+    },
+    {
+      "tokens": [
+        "That's good."
+      ],
+      "speaker": "Duke",
+      "time": "2182811"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182812"
+    },
+    {
+      "tokens": [
+        "Okay, don wrist tether, ring forward."
+      ],
+      "speaker": "Young",
+      "time": "2182813"
+    },
+    {
+      "tokens": [
+        "I've got it on my glove."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182817"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Don LEVA - that's done - Verify alignment.",
+        "Don the comfort gloves."
+      ],
+      "speaker": "Young",
+      "time": "2182819"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182825"
+    },
+    {
+      "tokens": [
+        "Don one glove and lock.",
+        "Okay, following that, panel 603, EVA O2, Off; and then don the other glove and lock it."
+      ],
+      "speaker": "Young",
+      "time": "2182827"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "All right, thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182839"
+    },
+    {
+      "tokens": [
+        "16, Houston.",
+        "Like to get a voice check with Charlie."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2182855"
+    },
+    {
+      "tokens": [
+        "Charlie, talk to them, Charlie."
+      ],
+      "speaker": "Young",
+      "time": "2182903"
+    },
+    {
+      "tokens": [
+        "I'm reading everybody, Hank.",
+        "How me?"
+      ],
+      "speaker": "Duke",
+      "time": "2182905"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Reading you five by five."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2182907"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've got the other ..."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182912"
+    },
+    {
+      "tokens": [
+        "Okay, I'm keying."
+      ],
+      "speaker": "Duke",
+      "time": "2182913"
+    },
+    {
+      "tokens": [
+        "...",
+        "glove on and locked."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182914"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "All right, panel EVA O2, On.",
+        "Let me verify those locks again."
+      ],
+      "speaker": "Young",
+      "time": "2182916"
+    },
+    {
+      "tokens": [
+        "All right, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182921"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Okay.",
+        "Verified."
+      ],
+      "speaker": "Young",
+      "time": "2182924"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "My other glove, Charlie?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2182927"
+    },
+    {
+      "tokens": [
+        "Here you go."
+      ],
+      "speaker": "Duke",
+      "time": "2182930"
+    },
+    {
+      "tokens": [
+        "Thank you, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182932"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182943"
+    },
+    {
+      "tokens": [
+        "Here comes the right - Well, I'll turn it Off."
+      ],
+      "speaker": "Young",
+      "time": "2182944"
+    },
+    {
+      "tokens": [
+        "My flow is Off.",
+        "The glove is coming on."
+      ],
+      "speaker": "Mattingly",
+      "time": "2182951"
+    },
+    {
+      "tokens": [
+        "And that looks locked."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183005"
+    },
+    {
+      "tokens": [
+        "Yeah, it's locked."
+      ],
+      "speaker": "Young",
+      "time": "2183006"
+    },
+    {
+      "tokens": [
+        "Okay, the flow is coming back On.",
+        "Next?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2183007"
+    },
+    {
+      "tokens": [
+        "Modulate On and Off as required to pressurize the CMP."
+      ],
+      "speaker": "Young",
+      "time": "2183013"
+    },
+    {
+      "tokens": [
+        "Okay, we're coming up."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183017"
+    },
+    {
+      "tokens": [
+        "Cuff gage 3.7 to 4.0.",
+        "And then you should get the panel 604 Suit Pressure ALARM, On."
+      ],
+      "speaker": "Young",
+      "time": "2183019"
+    },
+    {
+      "tokens": [
+        "Okay, I'll turn the switch On."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183027"
+    },
+    {
+      "tokens": [
+        "Yeah."
+      ],
+      "speaker": "Young",
+      "time": "2183028"
+    },
+    {
+      "tokens": [
+        "I have a tone at this time."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183029"
+    },
+    {
+      "tokens": [
+        "Verify the tone's off."
+      ],
+      "speaker": "Young",
+      "time": "2183030"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "Tone will come off when the pressure comes up."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183032"
+    },
+    {
+      "tokens": [
+        "Right."
+      ],
+      "speaker": "Young",
+      "time": "2183035"
+    },
+    {
+      "tokens": [
+        "How am I doing on the instrument panel, Charlie?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2183038"
+    },
+    {
+      "tokens": [
+        "Fine."
+      ],
+      "speaker": "Duke",
+      "time": "2183040"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183042"
+    },
+    {
+      "tokens": [
+        "The tone goes off at 3.2 and climbing."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183100"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Fine.",
+        "Okay, on Panel 10, adjust CMP's master volume, if required."
+      ],
+      "speaker": "Young",
+      "time": "2183103"
+    },
+    {
+      "tokens": [
+        "I can hear you guys just fine.",
+        "Yeah, it's perfect."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183112"
+    },
+    {
+      "tokens": [
+        "Great.",
+        "Duke: panel 351, Emergency Cabin Pressure to Off."
+      ],
+      "speaker": "Young",
+      "time": "2183116"
+    },
+    {
+      "tokens": [
+        "How's that cabin pressure doing, I wonder?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2183124"
+    },
+    {
+      "tokens": [
+        "I don't know.",
+        "Houston, how's the cabin ..."
+      ],
+      "speaker": "Young",
+      "time": "2183127"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It's 5.6."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2183129"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183133"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll make it."
+      ],
+      "speaker": "Young",
+      "time": "2183134"
+    },
+    {
+      "tokens": [
+        "Vertical is Off.",
+        "Vertically down is Off, isn't it?",
+        "Isn't it?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2183138"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Don't I do a suit integrity check, John?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2183151"
+    },
+    {
+      "tokens": [
+        "Yeah."
+      ],
+      "speaker": "Young",
+      "time": "2183153"
+    },
+    {
+      "tokens": [
+        "I'm sorry, I didn't turn the flow Off.",
+        "Okay, my flow is coming Off.",
+        "Nope, it's going up the [garble] there."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183154"
+    },
+    {
+      "tokens": [
+        "Wait a minute.",
+        "You've got to do the EVA warning tone check first."
+      ],
+      "speaker": "Young",
+      "time": "2183206"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The - All right - read me the steps."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183208"
+    },
+    {
+      "tokens": [
+        "CMP monitor cuff gauge, set the Purge valve to Hi."
+      ],
+      "speaker": "Young",
+      "time": "2183213"
+    },
+    {
+      "tokens": [
+        "Let me do that for you."
+      ],
+      "speaker": "Young",
+      "time": "2183221"
+    },
+    {
+      "tokens": [
+        "And verify the EVA tone ..."
+      ],
+      "speaker": "Young",
+      "time": "2183229"
+    },
+    {
+      "tokens": [
+        "Okay, it's Hi."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183231"
+    },
+    {
+      "tokens": [
+        "Okay, verify the EVA tone comes on at 3.1 to 3.4."
+      ],
+      "speaker": "Young",
+      "time": "2183232"
+    },
+    {
+      "tokens": [
+        "Comes on at 3.2."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183236"
+    },
+    {
+      "tokens": [
+        "Comes on at 3.2.",
+        "Okay.",
+        "Then Purge valve to close."
+      ],
+      "speaker": "Young",
+      "time": "2183237"
+    },
+    {
+      "tokens": [
+        "Okay, I'm going to have to - have some - I've got this purge valve stuffed in my pocket, because it came out of that container."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183240"
+    },
+    {
+      "tokens": [
+        "Right."
+      ],
+      "speaker": "Young",
+      "time": "2183247"
+    },
+    {
+      "tokens": [
+        "Going to have to get the soft suit to get it."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183248"
+    },
+    {
+      "tokens": [
+        "Ken, your cabin's up to 5.8.",
+        "We suggest a vent."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2183318"
+    },
+    {
+      "tokens": [
+        "Okay, that's going to Vent.",
+        "Okay, you're at Vent."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183323"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2183338"
+    },
+    {
+      "tokens": [
+        "Thank you, Hank.",
+        "You've got to push it in first."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183342"
+    },
+    {
+      "tokens": [
+        "Oh, yeah."
+      ],
+      "speaker": "Young",
+      "time": "2183348"
+    },
+    {
+      "tokens": [
+        "I tell you what.",
+        "Put it in to Lo first, and let me build up my pressure slow."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183353"
+    },
+    {
+      "tokens": [
+        "That way Lo?"
+      ],
+      "speaker": "Young",
+      "time": "2183359"
+    },
+    {
+      "tokens": [
+        "Yeah [garble].",
+        "..."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183401"
+    },
+    {
+      "tokens": [
+        "Okay, Ken.",
+        "Would you close the ..."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2183402"
+    },
+    {
+      "tokens": [
+        "...",
+        "[garble] Now you can close it."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183404"
+    },
+    {
+      "tokens": [
+        "...",
+        "side hatch dump?"
+      ],
+      "speaker": "Hartsfield",
+      "time": "2183405"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you, Houston."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183410"
+    },
+    {
+      "tokens": [
+        "Okay, it's closed."
+      ],
+      "speaker": "Young",
+      "time": "2183413"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183415"
+    },
+    {
+      "tokens": [
+        "Okay, your pin's in, Ken."
+      ],
+      "speaker": "Young",
+      "time": "2183416"
+    },
+    {
+      "tokens": [
+        "Okay, is it set on Hi flow?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2183417"
+    },
+    {
+      "tokens": [
+        "Okay, going back to Hi."
+      ],
+      "speaker": "Young",
+      "time": "2183420"
+    },
+    {
+      "tokens": [
+        "Hi flow is counter clockwise."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183424"
+    },
+    {
+      "tokens": [
+        "Okay, it's on Hi flow."
+      ],
+      "speaker": "Young",
+      "time": "2183434"
+    },
+    {
+      "tokens": [
+        "What's the Master Alarm for?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2183438"
+    },
+    {
+      "tokens": [
+        "O2Flow Hi."
+      ],
+      "speaker": "Young",
+      "time": "2183439"
+    },
+    {
+      "tokens": [
+        "Okay, maybe I - How low is the cabin?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2183440"
+    },
+    {
+      "tokens": [
+        "Huh?"
+      ],
+      "speaker": "Young",
+      "time": "2183443"
+    },
+    {
+      "tokens": [
+        "Can you see the cabin pressure?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2183445"
+    },
+    {
+      "tokens": [
+        "You're at 4.7."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2183446"
+    },
+    {
+      "tokens": [
+        "4.7."
+      ],
+      "speaker": "Young",
+      "time": "2183449"
+    },
+    {
+      "tokens": [
+        "Okay, that's why you got the Hi O2Flow."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183450"
+    },
+    {
+      "tokens": [
+        "Why?"
+      ],
+      "speaker": "Young",
+      "time": "2183453"
+    },
+    {
+      "tokens": [
+        "Your cabin's at 4.7.",
+        "I vented the cabin - below where the regs go."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183454"
+    },
+    {
+      "tokens": [
+        "Roger; we verify cabin reg."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2183501"
+    },
+    {
+      "tokens": [
+        "[Garble] shut off."
+      ],
+      "speaker": "Young",
+      "time": "2183502"
+    },
+    {
+      "tokens": [
+        "You've got the emergency regs shut off."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183503"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2183505"
+    },
+    {
+      "tokens": [
+        "You don't have the main regs shut off because there's no switch on them."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183506"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Okay, well, let's press on.",
+        "Integrity check.",
+        "Panel 603 EVA O2to Off."
+      ],
+      "speaker": "Young",
+      "time": "2183510"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Excuse - There we go.",
+        "Okay.",
+        "See what I'm hung up on, Charlie?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2183519"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183536"
+    },
+    {
+      "tokens": [
+        "Monitor - monitor cuff gage to verify PCV closes."
+      ],
+      "speaker": "Young",
+      "time": "2183539"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183542"
+    },
+    {
+      "tokens": [
+        "Monitor pressure decay for one minute.",
+        "Verify at less than 0.8."
+      ],
+      "speaker": "Young",
+      "time": "2183543"
+    },
+    {
+      "tokens": [
+        "Okay, that's - I got the tone."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183549"
+    },
+    {
+      "tokens": [
+        "Okay, there's a mark on a minute."
+      ],
+      "speaker": "Young",
+      "time": "2183551"
+    },
+    {
+      "tokens": [
+        "Falling.",
+        "It started at 3.65, and it's slowly coming down."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183557"
+    },
+    {
+      "tokens": [
+        "Okay, can you hear a crossfeed on it?"
+      ],
+      "speaker": "Young",
+      "time": "2183623"
+    },
+    {
+      "tokens": [
+        "Okay, I'm gonna turn the oxygen hack on."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183626"
+    },
+    {
+      "tokens": [
+        "Okay, Ken, that was - what was it?",
+        "This looks pretty good right now."
+      ],
+      "speaker": "Young",
+      "time": "2183630"
+    },
+    {
+      "tokens": [
+        "Huh?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2183633"
+    },
+    {
+      "tokens": [
+        "How much was it?"
+      ],
+      "speaker": "Young",
+      "time": "2183634"
+    },
+    {
+      "tokens": [
+        "3.6."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183636"
+    },
+    {
+      "tokens": [
+        "Okay, fine.",
+        "You got a tight suit."
+      ],
+      "speaker": "Young",
+      "time": "2183637"
+    },
+    {
+      "tokens": [
+        "Tone is on.",
+        "I mean the EVA oxygen on panel 603 is On."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183640"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2183645"
+    },
+    {
+      "tokens": [
+        "And the guard is down."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183646"
+    },
+    {
+      "tokens": [
+        "Install the guard."
+      ],
+      "speaker": "Young",
+      "time": "2183648"
+    },
+    {
+      "tokens": [
+        "It's down and locked."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183650"
+    },
+    {
+      "tokens": [
+        "Verify PGA pressure, 3.7 to 4.0.",
+        "Verify tone is off."
+      ],
+      "speaker": "Young",
+      "time": "2183651"
+    },
+    {
+      "tokens": [
+        "Tone is off, and I have 3.9."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183655"
+    },
+    {
+      "tokens": [
+        "EVA sta -"
+      ],
+      "speaker": "Young",
+      "time": "2183659"
+    },
+    {
+      "tokens": [
+        "[Garble]."
+      ],
+      "speaker": "Crew",
+      "time": "2183701"
+    },
+    {
+      "tokens": [
+        "That makes me sick.",
+        "That [garble]."
+      ],
+      "speaker": "Young",
+      "time": "2183706"
+    },
+    {
+      "tokens": [
+        "I didn't hear that."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183709"
+    },
+    {
+      "tokens": [
+        "Okay, EVA station pressure gage 100 to 500 psi."
+      ],
+      "speaker": "Young",
+      "time": "2183710"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's 1, 2, 3 - looks like it's just slightly over 300."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183715"
+    },
+    {
+      "tokens": [
+        "Apollo Control Houston.",
+        "We're Go for cabin depress.",
+        "Standing by."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Fine.",
+        "Verify surge tank pressure greater than 750."
+      ],
+      "speaker": "Young",
+      "time": "2183723"
+    },
+    {
+      "tokens": [
+        "Apollo 16, you're Go for cabin depress."
+      ],
+      "speaker": "Hartsfield",
+      "time": "218_37_31"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2183736"
+    },
+    {
+      "tokens": [
+        "The surge tank is reading 860."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183737"
+    },
+    {
+      "tokens": [
+        "Okay, Go for depress.",
+        "GN2valve handle, Pull."
+      ],
+      "speaker": "Young",
+      "time": "2183744"
+    },
+    {
+      "tokens": [
+        "Okay, GN2is to Pull."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183749"
+    },
+    {
+      "tokens": [
+        "Gauge minimum, leave in vent position."
+      ],
+      "speaker": "Young",
+      "time": "2183751"
+    },
+    {
+      "tokens": [
+        "Say again."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183754"
+    },
+    {
+      "tokens": [
+        "Gauge - Gauge to minimum.",
+        "Leave in the vent position."
+      ],
+      "speaker": "Young",
+      "time": "2183756"
+    },
+    {
+      "tokens": [
+        "Okay, the gauge is minimum, and it is in vent."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183759"
+    },
+    {
+      "tokens": [
+        "Verify helmet and gloves locked."
+      ],
+      "speaker": "Young",
+      "time": "2183804"
+    },
+    {
+      "tokens": [
+        "Okay, I got two gloves that are locked.",
+        "You checked my helmet."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183807"
+    },
+    {
+      "tokens": [
+        "Right."
+      ],
+      "speaker": "Young",
+      "time": "2183813"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183814"
+    },
+    {
+      "tokens": [
+        "Confirm Go for depress from Houston.",
+        "We got that."
+      ],
+      "speaker": "Young",
+      "time": "2183818"
+    },
+    {
+      "tokens": [
+        "All set."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183820"
+    },
+    {
+      "tokens": [
+        "EVA warning tone may come on momentarily during depress.",
+        "Side hatch dump valve to open.",
+        "O2Flow Hi warning light may come on before cabin pressure regs lock up."
+      ],
+      "speaker": "Young",
+      "time": "2183821"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183832"
+    },
+    {
+      "tokens": [
+        "Close the dump valve at 3.25.",
+        "Can you see that, Ken?"
+      ],
+      "speaker": "Young",
+      "time": "2183833"
+    },
+    {
+      "tokens": [
+        "I'll close it, and see how we're doing."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183838"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Houston, can you give us a call at 3.25?"
+      ],
+      "speaker": "Young",
+      "time": "2183841"
+    },
+    {
+      "tokens": [
+        "Will do."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2183845"
+    },
+    {
+      "tokens": [
+        "Are you ready?",
+        "All set?"
+      ],
+      "speaker": "Young",
+      "time": "2183848"
+    },
+    {
+      "tokens": [
+        "Yeah."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183850"
+    },
+    {
+      "tokens": [
+        "Okay, equalization valve's coming open."
+      ],
+      "speaker": "Young",
+      "time": "2183851"
+    },
+    {
+      "tokens": [
+        "Okay, coming down through 4.5."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183910"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "We may get a jettison before we get the cabin dumped.",
+        "Okay, going through about 3.5."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183931"
+    },
+    {
+      "tokens": [
+        "Roger; 3."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2183939"
+    },
+    {
+      "tokens": [
+        "3.25."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183944"
+    },
+    {
+      "tokens": [
+        "Okay, 3.2."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2183945"
+    },
+    {
+      "tokens": [
+        "Okay, equalization valve is closed."
+      ],
+      "speaker": "Mattingly",
+      "time": "2183948"
+    },
+    {
+      "tokens": [
+        "Okay, O2Flow indicator is less than a half.",
+        "It is.",
+        "It's reading - Well, wait a second.",
+        "Let it stabilize here.",
+        "Got another accumulator cycle."
+      ],
+      "speaker": "Young",
+      "time": "2183952"
+    },
+    {
+      "tokens": [
+        "Accumulator cycle, we confirm."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2184008"
+    },
+    {
+      "tokens": [
+        "Okay, right down now."
+      ],
+      "speaker": "Young",
+      "time": "2184012"
+    },
+    {
+      "tokens": [
+        "Okay, that's great.",
+        "Go ahead and - Ready to go?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2184022"
+    },
+    {
+      "tokens": [
+        "Yeah."
+      ],
+      "speaker": "Young",
+      "time": "2184026"
+    },
+    {
+      "tokens": [
+        "Okay, cabin's coming down."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184027"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2184029"
+    },
+    {
+      "tokens": [
+        "Okay, I show 2.5.",
+        "Want to get that one in there."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184102"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2184117"
+    },
+    {
+      "tokens": [
+        "Cabin pressure is 2.0."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184132"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2184136"
+    },
+    {
+      "tokens": [
+        "Fixing to get [garble] off the peg pretty soon."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184137"
+    },
+    {
+      "tokens": [
+        "Okay, I'm showing 1.3."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184220"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2184224"
+    },
+    {
+      "tokens": [
+        "Cabin shows about 1.",
+        "I'm going to open it a little more; that can help it."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184252"
+    },
+    {
+      "tokens": [
+        "How's your keying, Ken?"
+      ],
+      "speaker": "Young",
+      "time": "2184304"
+    },
+    {
+      "tokens": [
+        "I'm fine."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184305"
+    },
+    {
+      "tokens": [
+        "Good."
+      ],
+      "speaker": "Young",
+      "time": "2184306"
+    },
+    {
+      "tokens": [
+        "It's a lot better when you get the cabin depressurized."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184308"
+    },
+    {
+      "tokens": [
+        "Well, I'm still showing about three-quarters."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184340"
+    },
+    {
+      "tokens": [
+        "Don't - don't let that screw go in there, Ken."
+      ],
+      "speaker": "Young",
+      "time": "2184347"
+    },
+    {
+      "tokens": [
+        "Oh, I tried."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184349"
+    },
+    {
+      "tokens": [
+        "Did it go in?"
+      ],
+      "speaker": "Young",
+      "time": "2184352"
+    },
+    {
+      "tokens": [
+        "It looks like it went in here, I can't tell."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184355"
+    },
+    {
+      "tokens": [
+        "Okay, looks like we're down pretty low."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184433"
+    },
+    {
+      "tokens": [
+        "Okay, verify suit pressure stable, 3.5 to 4.0."
+      ],
+      "speaker": "Young",
+      "time": "2184440"
+    },
+    {
+      "tokens": [
+        "My pressure is steady at 3.75."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184443"
+    },
+    {
+      "tokens": [
+        "Okays verify O2Flow Hi light is off.",
+        "That's verified.",
+        "How's your cuff gage, Charlie?"
+      ],
+      "speaker": "Young",
+      "time": "2184446"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Mine, too.",
+        "EVA station pressure gage 100 to 500.",
+        "No tone."
+      ],
+      "speaker": "Young",
+      "time": "2184458"
+    },
+    {
+      "tokens": [
+        "Okay, still setting on 300, and no warning tone."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184503"
+    },
+    {
+      "tokens": [
+        "Okay, panel 3 S-Band Aux TV to TV."
+      ],
+      "speaker": "Young",
+      "time": "2184506"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184509"
+    },
+    {
+      "tokens": [
+        "I'm going to Intercomm/PTT."
+      ],
+      "speaker": "Young",
+      "time": "2184511"
+    },
+    {
+      "tokens": [
+        "Oh, let's see.",
+        "I'm not sure that cabin's really down out of that pazhan [?] region.",
+        "How about reading me that - that step again when I get the hatch?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2184513"
+    },
+    {
+      "tokens": [
+        "It doesn't matter right now?",
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2184531"
+    },
+    {
+      "tokens": [
+        "If you can get it on, fine; if not, don't worry about it."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184534"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Young",
+      "time": "2184543"
+    },
+    {
+      "tokens": [
+        "I can't read the parallax in the gage.",
+        "It looks like it must be just about down though."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184548"
+    },
+    {
+      "tokens": [
+        "Okay, well let's ask the ground.",
+        "Houston, what do you show the cabin pressure?"
+      ],
+      "speaker": "Young",
+      "time": "2184552"
+    },
+    {
+      "tokens": [
+        "Roger; we're showing you 0.1."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2184554"
+    },
+    {
+      "tokens": [
+        "That ought to be enough, huh?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2184600"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Yeah, that's enough.",
+        "Okay, I'm going to Intercom/PTT."
+      ],
+      "speaker": "Young",
+      "time": "2184602"
+    },
+    {
+      "tokens": [
+        "And, Houston, is that low enough pressure to turn the TV on?"
+      ],
+      "speaker": "Mattingly",
+      "time": "2184608"
+    },
+    {
+      "tokens": [
+        "Henry, did you read ..."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184632"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy.",
+        "Press on with the - with the - turning it on."
+      ],
+      "speaker": "Hartsfield",
+      "time": "2184633"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you, sir."
+      ],
+      "speaker": "Mattingly",
+      "time": "2184638"
+    },
+    {
+      "tokens": [
+        "You have TV on."
+      ],
+      "speaker": "Mattingly",
+      "time": "218_46_57"
+    },
+    {
+      "tokens": [
+        "The crew are now about to start opening the hatch for the EVA."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day10_part1_preparation_for_eva.html"
+}

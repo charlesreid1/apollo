@@ -1,0 +1,716 @@
+{
+  "description": "A14FJ - Day 4, part 2: Midcourse Correction 4",
+  "transcript": [
+    {
+      "tokens": [
+        "Only a few hours remain for Apollo 14 to make the engine burn that will put them onto a lunar orbit.",
+        "The crew has been relatively busy with paperwork relating to the various standard and contingency manoeuvres needed to be accomplished before that.",
+        "There has also been discussion on how to deal with a small yet potentially serious battery issue with the Lunar Module's Ascent Stage."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Editor's note:All transcript times are presented according to the GET update at 054:53:36 that saw the mission timer moved forward 40 minutes, 2.90 seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 76 hours 37 minutes.",
+        "We are beginning a shift hand over at this time.",
+        "Flight Director Gerry Griffin coming on to replace Flight Director Milton Windler and the capsule communicator on the upcoming shift will be astronaut Fred Haise.",
+        "We do anticipate a change of shift briefing, probably within about 30 minutes of the shift handover which is scheduled to occur at 7:30.",
+        "Also during theS-IVBimpact, which will be occurring early tomorrow morning at about 1:26 AM central standard time, we will have Dr.",
+        "David W.",
+        "Strangway, who is chief of the Geophysics branch at the Manned Spacecraft Center available in the news center briefing room to provide background on the event and also to do what real time data analysis is possible.",
+        "We will have video from the control center piped into the briefing room and we'll have available such things as video of the seismic data that we are expecting to receive on the Apollo 12 passive seismometer.",
+        "At the present time we are showing that the impact will occur at a Ground Elapsed Time of 83 hours 17 minutes, 55 seconds, and the current impact coordinates for theS-IVBare 7 degrees, 52 minutes south and 26 degrees 3 minutes west.",
+        "And at the present time, we show Apollo 14 at 14,022 nautical miles [25,969 km] from the Moon.",
+        "The spacecraft velocity up now to 3,624 feet per second [1,105 m/s]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-070"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, this is Houston.",
+        "We would like you to reload Tephemprior to midcourse 4; over."
+      ],
+      "speaker": "McCandless",
+      "time": "0763922"
+    },
+    {
+      "tokens": [
+        "Okay, Bruce; we'll reload Tephem.",
+        "I'll do that right now.",
+        "And theDelta-Vtest went real well, and the null bias check with a minus 100 at the start, and went to a minus 98.4.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "0763932"
+    },
+    {
+      "tokens": [
+        "The EMS accelerometer has once again been tested before a powered manoeuvre, to ensure that the system is working properly.",
+        "The results are positive, and clear the EMS for use."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, we copy."
+      ],
+      "speaker": "McCandless",
+      "time": "0763951"
+    },
+    {
+      "tokens": [
+        "Did you say 98.4, Stu?"
+      ],
+      "speaker": "McCandless",
+      "time": "0764001"
+    },
+    {
+      "tokens": [
+        "That's affirmative; 98.4."
+      ],
+      "speaker": "Roosa",
+      "time": "0764007"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McCandless",
+      "time": "0764009"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Bruce, I reloaded.",
+        "And there it is if you'd like to check it and make sure we're all squared away."
+      ],
+      "speaker": "Roosa",
+      "time": "0764220"
+    },
+    {
+      "tokens": [
+        "Okay, stand by.",
+        "Roger, we concur, Stu; it looks good."
+      ],
+      "speaker": "McCandless",
+      "time": "0764226"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "0764235"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 14, Ed.",
+        "This is Houston.",
+        "Do you have a copy of theLMActivation Checklist in the Command Module at this time, or did you leave both of them in theLM?",
+        "Over."
+      ],
+      "speaker": "McCandless",
+      "time": "0764419"
+    },
+    {
+      "tokens": [
+        "Yes, I've got them ..."
+      ],
+      "speaker": "Mitchell",
+      "time": "0764434"
+    },
+    {
+      "tokens": [
+        "We have them here in the Command Module."
+      ],
+      "speaker": "Shepard",
+      "time": "0764435"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you."
+      ],
+      "speaker": "McCandless",
+      "time": "0764437"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Bruce.",
+        "The torquing angles are on theDSKY, and I'll be torquing at 76:51:30."
+      ],
+      "speaker": "Roosa",
+      "time": "0765126"
+    },
+    {
+      "tokens": [
+        "Instead of reading the numbers aloud over the air to ground and subject them to possible mistakes, Stu announces that Mission Control can get their Noun 93 results via their simultaneous view of the contents of the DSKY down in Mission Control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Stu's eighth P52 realignment of the guidance platform during the flight.",
+        "As a reference, he sighted on star 23 (Denebola,) and star 32 (Alphecca,).",
+        "As a check of his sighting accuracy, the computer compared the measured angle between these stars and the actual angle.",
+        "The difference between them was 00.000 degrees, or 'all balls' , a perfect result.",
+        "Finally, the computer displayed Noun 93, the angles by which the gimbals would be rotated or 'torqued' to restore perfect alignment.",
+        "These were +0.056° in X, -0.262° in Y and +0.038° in Z axis.",
+        "According to the post-flight Mission Report, the platform was torqued at 76:52:00 GET."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Stu.",
+        "[Long pause.]"
+      ],
+      "speaker": "McCandless",
+      "time": "0765137"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It looks good from down here, Stu."
+      ],
+      "speaker": "McCandless",
+      "time": "0765154"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "0765159"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-073"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 14."
+      ],
+      "speaker": "Roosa",
+      "time": "0770925"
+    },
+    {
+      "tokens": [
+        "Go ahead, 14."
+      ],
+      "speaker": "McCandless",
+      "time": "0770928"
+    },
+    {
+      "tokens": [
+        "Okay, Bruce.",
+        "Looking over the Flight Plan, we moved up that maneuver to the Moon-view attitude, and I'm going to go the way I did back here right after midcourse 4 instead of where it shows over at 78:50 if you all agree."
+      ],
+      "speaker": "Roosa",
+      "time": "0770933"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We concur."
+      ],
+      "speaker": "McCandless",
+      "time": "0770953"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "0770958"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The hydrogen tank fans are to be stirred before every SPS firing to ensure that the contents are homogenous."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 14."
+      ],
+      "speaker": "Roosa",
+      "time": "0771930"
+    },
+    {
+      "tokens": [
+        "Go ahead, 14."
+      ],
+      "speaker": "McCandless",
+      "time": "0771935"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The PAD value forDelta-VCis 0.2, and you all gave us that before we ran our null bias check.",
+        "Is that - is that still a good value?"
+      ],
+      "speaker": "Roosa",
+      "time": "0771940"
+    },
+    {
+      "tokens": [
+        "Yes, that's still a good number, Stu."
+      ],
+      "speaker": "McCandless",
+      "time": "0771956"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Roosa",
+      "time": "0772001"
+    },
+    {
+      "tokens": [
+        "Stu's question is in regard to the number to be input into the Entry Monitoring System's counter during the midcourse correction burn.",
+        "If the null bias test had revealed a systematic error in the functioning of the EMS accelerometer, they could adjust the number to be input accordingly to take the innate error into account."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "McCandless",
+      "time": "0772357"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0772402"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Roosa",
+      "time": "0772403"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'd like to get the high gain, whenever you can crank it up."
+      ],
+      "speaker": "McCandless",
+      "time": "0772405"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 14 on the high gain.",
+        "How do you read?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0772542"
+    },
+    {
+      "tokens": [
+        "Loud and clear, Ed."
+      ],
+      "speaker": "McCandless",
+      "time": "0772547"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mitchell",
+      "time": "0772551"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control 77 hours 27 minutes Ground Elapsed Time.",
+        "Flight Director Gerry Griffin who heads up the Gold team of flight controllers is settling in to his chair in the middle of the room and having handover from Flight Director Milton Windler off going shift.",
+        "Meanwhile aboard Apollo 14 the crew's making preparations for the midcourse correction burn number 4 upcoming in 9 minutes and 45 seconds.",
+        "That burn with an ignition time of 77 hours 38 minutes 14 seconds will be for a 3.8 feet per second [1.2 m/s] change in velocity.",
+        "Total burn time is .7 of a second which for that big engine is a wee small burp.",
+        "The midcourse correction burn number 4 in local time will be 8:01:14 central time.",
+        "Communications engineers asked that the crew be asked to swivel the high gain antenna for a better lockon upcoming on this burn - apparently the communications is somewhat spotty at this time.",
+        "We're standing by live on air-ground with Apollo 14 for the upcoming burn."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0773003"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Mitchell",
+      "time": "0773007"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Your high gain is oscillating a bit there.",
+        "Want you to try another acquisition there, Ed?"
+      ],
+      "speaker": "Haise",
+      "time": "0773009"
+    },
+    {
+      "tokens": [
+        "Roger, Fred.",
+        "We've tried it twice, and it's still doing it.",
+        "I'll give it one more go."
+      ],
+      "speaker": "Mitchell",
+      "time": "0773020"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0773025"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 14.",
+        "That seems to be the best we could do.",
+        "It's still oscillating.",
+        "Got another suggestion?"
+      ],
+      "speaker": "Mitchell",
+      "time": "0773141"
+    },
+    {
+      "tokens": [
+        "Stand by, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0773148"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0773255"
+    },
+    {
+      "tokens": [
+        "Okay, Ed.",
+        "Suggestion is to take the Servo Electronics switch, panel 2; go to Secondary; and then try REACQ."
+      ],
+      "speaker": "Haise",
+      "time": "0773306"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Mitchell",
+      "time": "0773318"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "I think we've finally got it up on the fourth attempt."
+      ],
+      "speaker": "Mitchell",
+      "time": "0773501"
+    },
+    {
+      "tokens": [
+        "Okay, Ed."
+      ],
+      "speaker": "Haise",
+      "time": "0773508"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "Coming up on 1 minute away from midcourse correction number 4 burn which will lower the nearest approach altitude from about 67 nautical miles [124 km] to 60 nautical miles [111 km] after the burn.",
+        "50 seconds."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stu is joking to his crewmates that everything is proceeding smoothly, unlike in their many simulations where the people running the simulator gave them simulated problems to solve."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We got about 40 seconds to burn.",
+        "We're ready to go on time."
+      ],
+      "speaker": "Shepard",
+      "time": "0773735"
+    },
+    {
+      "tokens": [
+        "Roger, Al.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0773740"
+    },
+    {
+      "tokens": [
+        "This is a very short burn, but nonetheless produces a perceivable burst of acceleration.",
+        "With an approximate mass of 97,104 pounds for the stack and with an SPS thrust capacity of 20,500 pounds, this amounts to some 0.21 g's.",
+        "After several days in microgravity, even this one fifth of Earth gravity will have felt like a considerable weight."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, we had a good burn."
+      ],
+      "speaker": "Shepard",
+      "time": "0773822"
+    },
+    {
+      "tokens": [
+        "Roger, Al."
+      ],
+      "speaker": "Haise",
+      "time": "0773824"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "14 with a burn report."
+      ],
+      "speaker": "Shepard",
+      "time": "0773947"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead, Al."
+      ],
+      "speaker": "Haise",
+      "time": "0773951"
+    },
+    {
+      "tokens": [
+        "Delta-VCminus 2.6; and the fuel and oxidizer, no appreciable change.",
+        "[Long pause.]"
+      ],
+      "speaker": "Shepard",
+      "time": "0773956"
+    },
+    {
+      "tokens": [
+        "OkayDelta-VC, minus 2.6; and the fuel/OX, no change."
+      ],
+      "speaker": "Haise",
+      "time": "0774010"
+    },
+    {
+      "tokens": [
+        "That's correct."
+      ],
+      "speaker": "Shepard",
+      "time": "0774020"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "14, Houston."
+      ],
+      "speaker": "Haise",
+      "time": "0774236"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Mitchell",
+      "time": "0774240"
+    },
+    {
+      "tokens": [
+        "We would like Auto on the High Gain now, Ed.",
+        "And just one other question.",
+        "Did you mean you tried four times on the Secondary Servo Electronics to get locked up?"
+      ],
+      "speaker": "Haise",
+      "time": "0774241"
+    },
+    {
+      "tokens": [
+        "Yes, it was about that, Fred.",
+        "It could be that I wasn't giving it enough delay time before I tried something else when it was in the Narrow position.",
+        "But I thought I was, and I don't know what I did differently on the last attempt that did work than the previous attempts which didn't work."
+      ],
+      "speaker": "Mitchell",
+      "time": "0774256"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You tried to lock up in Narrow rather than Wide.",
+        "Is that correct?"
+      ],
+      "speaker": "Haise",
+      "time": "0774315"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I went from Wide to Medium to Narrow."
+      ],
+      "speaker": "Mitchell",
+      "time": "0774326"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0774328"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day4_part2_midcourse_correction_4.html"
+}

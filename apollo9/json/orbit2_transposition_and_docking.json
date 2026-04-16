@@ -1,0 +1,5354 @@
+{
+  "description": "Apollo 9 Flight Journal: Day 1: Orbit 2 - Transposition & Docking",
+  "transcript": [
+    {
+      "tokens": [
+        "Apollo 9, this is Houston through Bermuda."
+      ],
+      "speaker": "Roosa",
+      "time": "001:40:15"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Houston through Bermuda.",
+        "Go ahead."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:40:19"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We'd like to uplink you a state vector there, Apollo 9.",
+        "We - there is a discrepancy between your vector and ours.",
+        "We don't have a real good story for you at this time.",
+        "It was sort of a slow diversion trend, but we would like to slip it in.",
+        "There were some funnies about the lift-off time, and everything that we're working on, but at this time we'd like to give you a new vector."
+      ],
+      "speaker": "Roosa",
+      "time": "001:40:21"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Understand you want to give us a new vector on the - let me see - stand by."
+      ],
+      "speaker": "Scott",
+      "time": "001:40:43"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "P00 and Accept.",
+        "You got it."
+      ],
+      "speaker": "Scott",
+      "time": "001:40:51"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We'll go to work on it.",
+        "Thank you.",
+        "[Comm break.]"
+      ],
+      "speaker": "Roosa",
+      "time": "001:40:53"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 9."
+      ],
+      "speaker": "Scott",
+      "time": "001:42:46"
+    },
+    {
+      "tokens": [
+        "Go, Apollo 9."
+      ],
+      "speaker": "Roosa",
+      "time": "001:42:48"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I checked the O purge before I noticed I didn't check the H, so I got the purge heater on for awhile, and I'm gonna check the H purge.",
+        "Might be seeing that."
+      ],
+      "speaker": "Scott",
+      "time": "001:42:49"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You're going to be checking H purge; and Apollo 9, I have a nav[igation] check to go along with this state vector when you are ready to copy."
+      ],
+      "speaker": "Roosa",
+      "time": "001:43:05"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by on the purge, and stand by on the nav check."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:43:13"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "At your convenience."
+      ],
+      "speaker": "Roosa",
+      "time": "001:43:17"
+    },
+    {
+      "tokens": [
+        "And, Apollo 9, this is Houston.",
+        "The computer is yours.",
+        "The vector has been transferred, and it looks good."
+      ],
+      "speaker": "Roosa",
+      "time": "001:43:44"
+    },
+    {
+      "tokens": [
+        "Roger, Thank you."
+      ],
+      "speaker": "Scott",
+      "time": "001:43:52"
+    },
+    {
+      "tokens": [
+        "And ready to copy on the nav."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:43:53"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Reading the nav check.",
+        "Time: 002:29 all zeros, -30.81, +116.22, 106.7.",
+        "End of update."
+      ],
+      "speaker": "Roosa",
+      "time": "001:43:55"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Readback: 002:29 all zips, -30.81, +116.22, 106.7."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:44:25"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Houston confirms the update."
+      ],
+      "speaker": "Roosa",
+      "time": "001:44:35"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "McDivitt",
+      "time": "001:44:38"
+    },
+    {
+      "tokens": [
+        "And, Apollo 9, Houston.",
+        "We copy your DSKY on the ground.",
+        "[Comm break.]"
+      ],
+      "speaker": "Roosa",
+      "time": "001:45:28"
+    },
+    {
+      "tokens": [
+        "Apollo 9, Houston."
+      ],
+      "speaker": "Roosa",
+      "time": "001:48:01"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:48:04"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Just for your info here, we'll be sending a command into the IU just to verify our response, and this will have no effect on you.",
+        "We are just trying to troubleshoot our LVDC data, and we don't want you to move the IU Accept switch; leave it in Block."
+      ],
+      "speaker": "Roosa",
+      "time": "001:48:06"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Comm break.]"
+      ],
+      "speaker": "McDivitt",
+      "time": "001:48:20"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 9."
+      ],
+      "speaker": "Scott",
+      "time": "001:50:39"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 9."
+      ],
+      "speaker": "Scott",
+      "time": "001:50:46"
+    },
+    {
+      "tokens": [
+        "Go, Apollo 9."
+      ],
+      "speaker": "Roosa",
+      "time": "001:50:48"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "Apollo 9.",
+        "Do you - We're about ready to terminate our cabin purge.",
+        "Is that okay with you?"
+      ],
+      "speaker": "Scott",
+      "time": "001:50:50"
+    },
+    {
+      "tokens": [
+        "Stand by one, Apollo 9."
+      ],
+      "speaker": "Roosa",
+      "time": "001:50:56"
+    },
+    {
+      "tokens": [
+        "Apollo 9, this is Houston.",
+        "We concur.",
+        "Go ahead and terminate."
+      ],
+      "speaker": "Roosa",
+      "time": "001:51:08"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "001:51:13"
+    },
+    {
+      "tokens": [
+        "Didn't work."
+      ],
+      "speaker": "Scott",
+      "time": "001:51:16"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "[Comm break.]"
+      ],
+      "speaker": "Roosa",
+      "time": "001:51:18"
+    },
+    {
+      "tokens": [
+        "(garbled) That's the first of many times."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:52:59"
+    },
+    {
+      "tokens": [
+        "Yes, but - all welcome."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:53:01"
+    },
+    {
+      "tokens": [
+        "S-IV LM - S-IVB/LM SEP, two, are both closed."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:53:05"
+    },
+    {
+      "tokens": [
+        "Verified."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:53:11"
+    },
+    {
+      "tokens": [
+        "Okay, CB Docking Probe (2), Closed."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:53:12"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "CB Docking Probe (2), Closed."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:53:15"
+    },
+    {
+      "tokens": [
+        "Docking Probe Extend/Release, Extend/Release until barber pole."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:53:19"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm going to call Houston and tell them we're doing that."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:53:24"
+    },
+    {
+      "tokens": [
+        "Houston, this is Apollo 9."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:53:27"
+    },
+    {
+      "tokens": [
+        "Go, Apollo 9."
+      ],
+      "speaker": "Roosa",
+      "time": "001:53:29"
+    },
+    {
+      "tokens": [
+        "We're ready to extend the docking probe.",
+        "Are you ready."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:53:31"
+    },
+    {
+      "tokens": [
+        "Oh boy, we are all ears down here.",
+        "Please let us hear how that goes."
+      ],
+      "speaker": "Roosa",
+      "time": "001:53:32"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Fine.",
+        "It's in work."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:53:39"
+    },
+    {
+      "tokens": [
+        "Okay, --"
+      ],
+      "speaker": "Schweickart",
+      "time": "001:53:41"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Roosa",
+      "time": "001:53:42"
+    },
+    {
+      "tokens": [
+        "Extend/Release switch to Extend/Release until barber pole.",
+        "Whooee!",
+        "Would you believe it went --"
+      ],
+      "speaker": "Schweickart",
+      "time": "001:53:43"
+    },
+    {
+      "tokens": [
+        "We've got a good one."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:53:50"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Docking probe Extend/Release --"
+      ],
+      "speaker": "Schweickart",
+      "time": "001:53:51"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy.",
+        "That makes us all happy."
+      ],
+      "speaker": "Roosa",
+      "time": "001:53:52"
+    },
+    {
+      "tokens": [
+        "Gray, at full extend.",
+        "I'd say that was three tenths of a second again, Dave."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:53:58"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:53:59"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It was just like the chamber; we heard it go out, and it took a couple or three tenths of a second."
+      ],
+      "speaker": "Scott",
+      "time": "001:54:00"
+    },
+    {
+      "tokens": [
+        "Then Release until talkback?"
+      ],
+      "speaker": "McDivitt",
+      "time": "001:54:06"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Roosa",
+      "time": "001:54:07"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:54:08"
+    },
+    {
+      "tokens": [
+        "Then note Docking probe talkback gray at full extension."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:54:09"
+    },
+    {
+      "tokens": [
+        "Okay, talk --"
+      ],
+      "speaker": "Schweickart",
+      "time": "001:54:10"
+    },
+    {
+      "tokens": [
+        "Then Release?"
+      ],
+      "speaker": "McDivitt",
+      "time": "001:54:11"
+    },
+    {
+      "tokens": [
+        "Hey, who's reading this thing?"
+      ],
+      "speaker": "Schweickart",
+      "time": "001:54:12"
+    },
+    {
+      "tokens": [
+        "Me."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:54:13"
+    },
+    {
+      "tokens": [
+        "You want to take my job?"
+      ],
+      "speaker": "Schweickart",
+      "time": "001:54:14"
+    },
+    {
+      "tokens": [
+        "I will in a minute, yes."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:54:16"
+    },
+    {
+      "tokens": [
+        "Docking probe Extend/Release to Retract; talkback, gray."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:54:17"
+    },
+    {
+      "tokens": [
+        "Retract; talkback is gray."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:54:18"
+    },
+    {
+      "tokens": [
+        "COAS mounted."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:54:20"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "001:54:23"
+    },
+    {
+      "tokens": [
+        "COAS Power - On."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:54:24"
+    },
+    {
+      "tokens": [
+        "COAS Power's coming on."
+      ],
+      "speaker": "Scott",
+      "time": "001:54:26"
+    },
+    {
+      "tokens": [
+        "Verify RCS DAP loaded."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:54:27"
+    },
+    {
+      "tokens": [
+        "I'll tell you what.",
+        "Why don't you start putting our helmets and - Oh, they're down here a step."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:54:29"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:54:34"
+    },
+    {
+      "tokens": [
+        "Okay, Rusty."
+      ],
+      "speaker": "Scott",
+      "time": "001:54:35"
+    },
+    {
+      "tokens": [
+        "I think I ought to go put mine on."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:54:36"
+    },
+    {
+      "tokens": [
+        "And, Apollo 9, this is Houston.",
+        "We'll fall off at Canaries here in about another minute and we'll see you over Tananarive around 09."
+      ],
+      "speaker": "Roosa",
+      "time": "001:54:37"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Tananarive at 09."
+      ],
+      "speaker": "Scott",
+      "time": "001:54:46"
+    },
+    {
+      "tokens": [
+        "Okay, you want to load the RCS DAP, Dave?"
+      ],
+      "speaker": "Schweickart",
+      "time": "001:54:49"
+    },
+    {
+      "tokens": [
+        "Alright."
+      ],
+      "speaker": "Scott",
+      "time": "001:54:51"
+    },
+    {
+      "tokens": [
+        "11102."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:54:52"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "001:55:01"
+    },
+    {
+      "tokens": [
+        "Okay, and R2, all ones."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:55:02"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "11102 and 11111?"
+      ],
+      "speaker": "Scott",
+      "time": "001:55:08"
+    },
+    {
+      "tokens": [
+        "Okay, and I guess you Proceed out of there."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:55:11"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Scott",
+      "time": "001:55:13"
+    },
+    {
+      "tokens": [
+        "Okay, load Noun 17."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:55:15"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "001:55:18"
+    },
+    {
+      "tokens": [
+        "Boy, I wish I had a towel (garbled) --"
+      ],
+      "speaker": "McDivitt",
+      "time": "001:55:21"
+    },
+    {
+      "tokens": [
+        "That's wrong.",
+        "Okay, try Verb 25."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:55:23"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "001:55:26"
+    },
+    {
+      "tokens": [
+        "18143."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:55:27"
+    },
+    {
+      "tokens": [
+        "You didn't run across a towel or anything down there, did you?"
+      ],
+      "speaker": "McDivitt",
+      "time": "001:55:30"
+    },
+    {
+      "tokens": [
+        "A what, Jim?"
+      ],
+      "speaker": "Scott",
+      "time": "001:55:33"
+    },
+    {
+      "tokens": [
+        "A towel?"
+      ],
+      "speaker": "McDivitt",
+      "time": "001:55:34"
+    },
+    {
+      "tokens": [
+        "They're up underneath me."
+      ],
+      "speaker": "Scott",
+      "time": "001:55:35"
+    },
+    {
+      "tokens": [
+        "(garbled) clean off my visor."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:55:36"
+    },
+    {
+      "tokens": [
+        "They're up underneath me.",
+        "Lay up at A-1, Jimmy."
+      ],
+      "speaker": "Scott",
+      "time": "001:55:37"
+    },
+    {
+      "tokens": [
+        "A long ways up there."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:55:40"
+    },
+    {
+      "tokens": [
+        "09436."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:55:41"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "01478."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:55:46"
+    },
+    {
+      "tokens": [
+        "Looks good.",
+        "183.43 [sic], 94.36, 14.78."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:55:51"
+    },
+    {
+      "tokens": [
+        "180 - 181.43, right?"
+      ],
+      "speaker": "Scott",
+      "time": "001:55:56"
+    },
+    {
+      "tokens": [
+        "Yes, yes."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:55:59"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "001:56:00"
+    },
+    {
+      "tokens": [
+        "Okay, Noun 22."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:56:01"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "001:56:03"
+    },
+    {
+      "tokens": [
+        "121.43."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:56:06"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "001:56:09"
+    },
+    {
+      "tokens": [
+        "274.36."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:56:10"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "001:56:14"
+    },
+    {
+      "tokens": [
+        "Oh, Davey, you didn't get me the helmet visor cover."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:56:15"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "It's un - it's in the L-1, Jim."
+      ],
+      "speaker": "Scott",
+      "time": "001:56:20"
+    },
+    {
+      "tokens": [
+        "L-1, what's that?"
+      ],
+      "speaker": "McDivitt",
+      "time": "001:56:22"
+    },
+    {
+      "tokens": [
+        "No - it's in the L-shaped bag, I'm sorry."
+      ],
+      "speaker": "Scott",
+      "time": "001:56:23"
+    },
+    {
+      "tokens": [
+        "L-shaped bag, okay."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:56:25"
+    },
+    {
+      "tokens": [
+        "345.22."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:56:27"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "001:56:32"
+    },
+    {
+      "tokens": [
+        "I'll go get that."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:56:33"
+    },
+    {
+      "tokens": [
+        "Let me check that: 121.43, 274.36, 345.22.",
+        "That looks good."
+      ],
+      "speaker": "Scott",
+      "time": "001:56:34"
+    },
+    {
+      "tokens": [
+        "Set the docking attitude on attitude set dials."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:56:42"
+    },
+    {
+      "tokens": [
+        "Alright."
+      ],
+      "speaker": "Scott",
+      "time": "001:56:46"
+    },
+    {
+      "tokens": [
+        "121.4."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:56:47"
+    },
+    {
+      "tokens": [
+        "Where did you say those towels were, Dave?"
+      ],
+      "speaker": "McDivitt",
+      "time": "001:56:49"
+    },
+    {
+      "tokens": [
+        "The towels?",
+        "I think they're underneath me in A-1, way up here."
+      ],
+      "speaker": "Scott",
+      "time": "001:56:51"
+    },
+    {
+      "tokens": [
+        "Oh, isn't it pretty out?",
+        "Whoo hoo!",
+        "Look at those thunderstorms."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:56:56"
+    },
+    {
+      "tokens": [
+        "What am I hooked on up there?",
+        "(garbled) hanging over."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:56:59"
+    },
+    {
+      "tokens": [
+        "121.4; Dave, you got that?"
+      ],
+      "speaker": "Schweickart",
+      "time": "001:57:05"
+    },
+    {
+      "tokens": [
+        "Coming up.",
+        "Okay.",
+        "121.4, okay?"
+      ],
+      "speaker": "Scott",
+      "time": "001:57:08"
+    },
+    {
+      "tokens": [
+        "274.4."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:57:10"
+    },
+    {
+      "tokens": [
+        "Alright.",
+        "A little longer."
+      ],
+      "speaker": "Scott",
+      "time": "001:57:12"
+    },
+    {
+      "tokens": [
+        "See if I can see a star in the daytime now."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:57:20"
+    },
+    {
+      "tokens": [
+        "274.4, wasn't it?"
+      ],
+      "speaker": "Scott",
+      "time": "001:57:24"
+    },
+    {
+      "tokens": [
+        "Right, and 345.2."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:57:26"
+    },
+    {
+      "tokens": [
+        "345.2, okay."
+      ],
+      "speaker": "Scott",
+      "time": "001:57:32"
+    },
+    {
+      "tokens": [
+        "Okay, that's it.",
+        "Sep preparation now.",
+        "S-IVB attitude, deadband, and H vent rate, confirmed by MSFN."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:57:35"
+    },
+    {
+      "tokens": [
+        "Got to align the GDC - Did we get that again?",
+        "Yes, we did."
+      ],
+      "speaker": "Scott",
+      "time": "001:57:50"
+    },
+    {
+      "tokens": [
+        "Jim, while you're down there, how about Waste Stowage Vent - Closed."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:57:55"
+    },
+    {
+      "tokens": [
+        "I got that."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:57:59"
+    },
+    {
+      "tokens": [
+        "Suit Circuit Return valve - Close."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:58:00"
+    },
+    {
+      "tokens": [
+        "Okay, just a minute."
+      ],
+      "speaker": "Scott",
+      "time": "001:58:02"
+    },
+    {
+      "tokens": [
+        "Wait a minute now.",
+        "I guess we've got to don our helmets and gloves first before we do that one."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:58:04"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:58:10"
+    },
+    {
+      "tokens": [
+        "There he is, right there."
+      ],
+      "speaker": "McDivitt",
+      "time": "001:58:18"
+    },
+    {
+      "tokens": [
+        "It's - getting dark again."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:58:20"
+    },
+    {
+      "tokens": [
+        "Does that every few minutes.",
+        "Okay, I think I'll put my helmet and gloves on and then put that on.",
+        "Ouch!"
+      ],
+      "speaker": "McDivitt",
+      "time": "001:58:23"
+    },
+    {
+      "tokens": [
+        "I got a few spots on my window, but I don't see much gunk."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:58:36"
+    },
+    {
+      "tokens": [
+        "(Singing)"
+      ],
+      "speaker": "McDivitt",
+      "time": "001:59:00"
+    },
+    {
+      "tokens": [
+        "Try my SPS helium again.",
+        "Maybe it came back in order.",
+        "Boy, it really hit the peg, I'll tell you.",
+        "It looked like it was going to go right off the bottom of the (garbled) Boing!",
+        "Looked like a reset."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:59:10"
+    },
+    {
+      "tokens": [
+        "(Laughter)"
+      ],
+      "speaker": "Scott",
+      "time": "001:59:24"
+    },
+    {
+      "tokens": [
+        "Man, I'll tell you, when that water boiler boils, it really puts the temperature down there."
+      ],
+      "speaker": "Schweickart",
+      "time": "001:59:43"
+    },
+    {
+      "tokens": [
+        "There it is.",
+        "It's getting dark."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:00:04"
+    },
+    {
+      "tokens": [
+        "It sure is, isn't it?"
+      ],
+      "speaker": "Scott",
+      "time": "002:00:11"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Oh, there's lightning.",
+        "Look at all that lightning on the horizon."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:00:13"
+    },
+    {
+      "tokens": [
+        "Now you can see stars, Rusty.",
+        "See the stars?"
+      ],
+      "speaker": "Scott",
+      "time": "002:00:23"
+    },
+    {
+      "tokens": [
+        "Let me look.",
+        "I got my lights up awful bright."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:00:25"
+    },
+    {
+      "tokens": [
+        "Tell you one thing I'm going to have is some navigation here with this medal.",
+        "Let me get this thing out of there."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:00:29"
+    },
+    {
+      "tokens": [
+        "No, I don't yet.",
+        "Oh, let me get my checklist out of the way."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:00:39"
+    },
+    {
+      "tokens": [
+        "Got one right at 12 o'clock."
+      ],
+      "speaker": "Scott",
+      "time": "002:00:43"
+    },
+    {
+      "tokens": [
+        "Do we really?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:00:45"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Scott",
+      "time": "002:00:47"
+    },
+    {
+      "tokens": [
+        "Oh, yes.",
+        "Yes, I see it.",
+        "Yes, about three degrees above the horizon?",
+        "Yes.",
+        "Sure do."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:00:48"
+    },
+    {
+      "tokens": [
+        "Why don't you start getting your helmets on so we can get -"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:00:55"
+    },
+    {
+      "tokens": [
+        "Here, give me mine, Jim."
+      ],
+      "speaker": "Scott",
+      "time": "002:00:57"
+    },
+    {
+      "tokens": [
+        "Ahh, what a drag!"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:00:58"
+    },
+    {
+      "tokens": [
+        "(garbled)"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:01:01"
+    },
+    {
+      "tokens": [
+        "Jim, I need you to hand me mine."
+      ],
+      "speaker": "Scott",
+      "time": "002:01:04"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Just a second; I'm trapped.",
+        "Oh boy!"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:01:06"
+    },
+    {
+      "tokens": [
+        "Okay, it's turnover time.",
+        "Slowly I turn.",
+        "(Singing)"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:01:13"
+    },
+    {
+      "tokens": [
+        "Clever, Rusty - put your old fingerprint right on the helmet."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:01:53"
+    },
+    {
+      "tokens": [
+        "Here, I have a rag here if you can use it."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:01:56"
+    },
+    {
+      "tokens": [
+        "Oh, that's okay.",
+        "I'm - I'm sure I didn't get it enough to even notice."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:01:59"
+    },
+    {
+      "tokens": [
+        "Jim, the bags go in A-5, which is the CO canister right down --"
+      ],
+      "speaker": "Scott",
+      "time": "002:02:12"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:02:16"
+    },
+    {
+      "tokens": [
+        "-- to the right of the --"
+      ],
+      "speaker": "Scott",
+      "time": "002:02:17"
+    },
+    {
+      "tokens": [
+        "Okay, let me just - just a minute until I get my visor."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:02:18"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "002:02:23"
+    },
+    {
+      "tokens": [
+        "I'll be right with you."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:02:24"
+    },
+    {
+      "tokens": [
+        "Okay, one each, helmet, on (garbled) tied down.",
+        "Oh, that was a brilliant one!"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:02:31"
+    },
+    {
+      "tokens": [
+        "By the time I get it out, I won't need it; my helmet will already be bashed up.",
+        "Oh, shoot.",
+        "Crash, bang!",
+        "Where did we get this thing?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:02:42"
+    },
+    {
+      "tokens": [
+        "Am I in your way, Jim?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:03:00"
+    },
+    {
+      "tokens": [
+        "No, no."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:03:02"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:03:04"
+    },
+    {
+      "tokens": [
+        "Okay, I got the helmet on."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:03:10"
+    },
+    {
+      "tokens": [
+        "Oh, I got a foggy helmet."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:03:28"
+    },
+    {
+      "tokens": [
+        "Do you?"
+      ],
+      "speaker": "Scott",
+      "time": "002:03:30"
+    },
+    {
+      "tokens": [
+        "Whooee!",
+        "Sure is."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:03:31"
+    },
+    {
+      "tokens": [
+        "How come, is it foggy already?"
+      ],
+      "speaker": "Scott",
+      "time": "002:03:34"
+    },
+    {
+      "tokens": [
+        "I don't know, but it's really fogging."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:03:36"
+    },
+    {
+      "tokens": [
+        "You got your flow on?"
+      ],
+      "speaker": "Scott",
+      "time": "002:03:39"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Helmet, too."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:03:40"
+    },
+    {
+      "tokens": [
+        "Hey, what's the suit-inlet temperature?",
+        "I feel kind of warm."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:03:42"
+    },
+    {
+      "tokens": [
+        "Suit inlet is 47° [F, 8°C]."
+      ],
+      "speaker": "Scott",
+      "time": "002:03:45"
+    },
+    {
+      "tokens": [
+        "Hmm!"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:03:48"
+    },
+    {
+      "tokens": [
+        "Here, they go down here in A-5, huh?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:03:56"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Scott",
+      "time": "002:03:59"
+    },
+    {
+      "tokens": [
+        "Mmm."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:04:16"
+    },
+    {
+      "tokens": [
+        "Ahh, there goes a hair.",
+        "By the time this flight's over, I'm not going to have any hairs left on my forearm; I'll say that."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:04:23"
+    },
+    {
+      "tokens": [
+        "Wow, how do you ever get these things in here?",
+        "All three of them went in there, Dave."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:04:31"
+    },
+    {
+      "tokens": [
+        "Yes, there - should be EVA gloves on the left.",
+        "You ought to be able to get them all in there, Jim."
+      ],
+      "speaker": "Scott",
+      "time": "002:04:42"
+    },
+    {
+      "tokens": [
+        "Tell you what; rather than fool around with that, I think I'll just stick them down here in the - Well, maybe I better not."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:04:46"
+    },
+    {
+      "tokens": [
+        "Put them in a temporary - F-1 or F-2 up near the temporary (garbled)"
+      ],
+      "speaker": "Scott",
+      "time": "002:04:50"
+    },
+    {
+      "tokens": [
+        "I think I'll do that.",
+        "I want to get back up there and get going on this thing, so we don't - have to leave."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:04:56"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Scott",
+      "time": "002:05:01"
+    },
+    {
+      "tokens": [
+        "Get them out again soon anyway."
+      ],
+      "speaker": "Scott",
+      "time": "002:05:06"
+    },
+    {
+      "tokens": [
+        "Here's mine."
+      ],
+      "speaker": "Scott",
+      "time": "002:05:14"
+    },
+    {
+      "tokens": [
+        "Okay, I'll be with you in just a minute."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:05:15"
+    },
+    {
+      "tokens": [
+        "Oh, I'm sorry.",
+        "I thought you were done."
+      ],
+      "speaker": "Scott",
+      "time": "002:05:17"
+    },
+    {
+      "tokens": [
+        "No, not quite.",
+        "Not quite."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:05:19"
+    },
+    {
+      "tokens": [
+        "Okay, I'll take it."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:05:27"
+    },
+    {
+      "tokens": [
+        "Now, let me get that.",
+        "Okay, I got that one.",
+        "Ouch!",
+        "Boy, I got a real hair in there."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:05:29"
+    },
+    {
+      "tokens": [
+        "Where's your bag, Rusty, or don't you need me to stow it?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:05:34"
+    },
+    {
+      "tokens": [
+        "It's - it's up at the head there.",
+        "I think it's okay."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:05:36"
+    },
+    {
+      "tokens": [
+        "Okay, good."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:05:39"
+    },
+    {
+      "tokens": [
+        "I guess I ought to get that dark slide off there; it's liable to smack me in the chops.",
+        "Oh, we're not going to thrust, are we, yet?",
+        "Hey, Jim, before you get up, could you pull my leg strap tighter?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:05:44"
+    },
+    {
+      "tokens": [
+        "Sure.",
+        "Is that noticeably tighter?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:05:56"
+    },
+    {
+      "tokens": [
+        "Yes, that's as tight as they go.",
+        "Okay, that's better.",
+        "That's good."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:06:07"
+    },
+    {
+      "tokens": [
+        "Okay, now I've got to get yours."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:06:12"
+    },
+    {
+      "tokens": [
+        "Okay, so I can (garbled)"
+      ],
+      "speaker": "Scott",
+      "time": "002:06:14"
+    },
+    {
+      "tokens": [
+        "Oh, no!"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:06:19"
+    },
+    {
+      "tokens": [
+        "What?"
+      ],
+      "speaker": "Scott",
+      "time": "002:06:21"
+    },
+    {
+      "tokens": [
+        "Guess what's missing?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:06:22"
+    },
+    {
+      "tokens": [
+        "What?"
+      ],
+      "speaker": "Scott",
+      "time": "002:06:23"
+    },
+    {
+      "tokens": [
+        "A Hasselblad camera."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:06:24"
+    },
+    {
+      "tokens": [
+        "Oh, no."
+      ],
+      "speaker": "Scott",
+      "time": "002:06:25"
+    },
+    {
+      "tokens": [
+        "What do you mean, it's missing?",
+        "(Laughter)"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:06:26"
+    },
+    {
+      "tokens": [
+        "It's not where I put it, on the Velcro."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:06:28"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:06:30"
+    },
+    {
+      "tokens": [
+        "So, it's got to be floating around somewhere in the cabin."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:06:32"
+    },
+    {
+      "tokens": [
+        "Damn!"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:06:43"
+    },
+    {
+      "tokens": [
+        "There it is, down there."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:06:44"
+    },
+    {
+      "tokens": [
+        "You got it?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:06:45"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "I see it; I haven't got it."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:06:46"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:06:48"
+    },
+    {
+      "tokens": [
+        "Dave, let me see if I can read you something here."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:06:55"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "002:06:57"
+    },
+    {
+      "tokens": [
+        "Emergency Cabin Pressure to Off; no, Dave - Jim's got to do that."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:06:58"
+    },
+    {
+      "tokens": [
+        "Let me - let me go ahead and get those.",
+        "Here's your camera."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:07:02"
+    },
+    {
+      "tokens": [
+        "Where?",
+        "Okay."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:07:05"
+    },
+    {
+      "tokens": [
+        "Emergency Cabin Pressurization's off."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:07:08"
+    },
+    {
+      "tokens": [
+        "No, stand by here; I - I'm screwed up.",
+        "Suit Circuit Return valve - Closed."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:07:09"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Yo - Everybody in their suit okay?"
+      ],
+      "speaker": "Scott",
+      "time": "002:07:15"
+    },
+    {
+      "tokens": [
+        "Everybody's in their suit.",
+        "Emergency Cabin Pressure to Test, and Press until cabin reaches 5.7 [psi, 39.3 kPa], and I'll let you know."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:07:17"
+    },
+    {
+      "tokens": [
+        "I can't get that son of a bitch closed."
+      ],
+      "speaker": "Scott",
+      "time": "002:07:26"
+    },
+    {
+      "tokens": [
+        "You want me to?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:07:28"
+    },
+    {
+      "tokens": [
+        "There, it's closed.",
+        "Boy, that's a bitch, isn't it, Jim?"
+      ],
+      "speaker": "Scott",
+      "time": "002:07:31"
+    },
+    {
+      "tokens": [
+        "Yes, really it's - it's tough to move; you - you're such a -"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:07:33"
+    },
+    {
+      "tokens": [
+        "You say you're ready, Jim?"
+      ],
+      "speaker": "Scott",
+      "time": "002:07:39"
+    },
+    {
+      "tokens": [
+        "Well, not really.",
+        "Let me try to get done here."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:07:40"
+    },
+    {
+      "tokens": [
+        "Oh."
+      ],
+      "speaker": "Scott",
+      "time": "002:07:42"
+    },
+    {
+      "tokens": [
+        "Boy, am I messing up my helmet!"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:07:44"
+    },
+    {
+      "tokens": [
+        "What are you doing?"
+      ],
+      "speaker": "Scott",
+      "time": "002:07:45"
+    },
+    {
+      "tokens": [
+        "Putting my face helmet --"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:07:46"
+    },
+    {
+      "tokens": [
+        "Pressurizing the cabin."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:07:47"
+    },
+    {
+      "tokens": [
+        "Okay, Emergency Cabin Pressure - Press to test going now."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:07:48"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And we'll probably get an O Flow High warning."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:07:53"
+    },
+    {
+      "tokens": [
+        "How we doing?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:07:58"
+    },
+    {
+      "tokens": [
+        "We are 5.0 something [psi, 34.4 kPa]."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:07:59"
+    },
+    {
+      "tokens": [
+        "Okay, the warning's going to come on in a second here."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:08:06"
+    },
+    {
+      "tokens": [
+        "We're not even to 5.1 [psi, 35.1 kPa] yet, Jim."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:08:09"
+    },
+    {
+      "tokens": [
+        "Oh."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:08:11"
+    },
+    {
+      "tokens": [
+        "We got a long way to go."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:08:12"
+    },
+    {
+      "tokens": [
+        "How did the surge tank go?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:08:13"
+    },
+    {
+      "tokens": [
+        "Surge tank is 8 - 820 or so.",
+        "Okay, we're 5.25 [psi, 36.2 kPa]; surge tank is now 800.",
+        "5.4 [psi, 37.2 kPa]; surge tank is 780.",
+        "Now we're about 5.5 [psi, 37.9 kPa]; surge tank, 760.",
+        "And 5.6 [psi, 38.6 kPa] almost, and the surge tank is 720.",
+        "And we're about 5.7 [psi, 39.3 kPa]."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:08:18"
+    },
+    {
+      "tokens": [
+        "Okay?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:09:15"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Emergency Cabin Press to Off."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:09:16"
+    },
+    {
+      "tokens": [
+        "Emergency Cabin Press to Off."
+      ],
+      "speaker": "Scott",
+      "time": "002:09:20"
+    },
+    {
+      "tokens": [
+        "EMS Mode to Standby."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:09:21"
+    },
+    {
+      "tokens": [
+        "Ems - Standby."
+      ],
+      "speaker": "Scott",
+      "time": "002:09:24"
+    },
+    {
+      "tokens": [
+        "EMS Function to Delta-V."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:09:26"
+    },
+    {
+      "tokens": [
+        "Delta-V."
+      ],
+      "speaker": "Scott",
+      "time": "002:09:29"
+    },
+    {
+      "tokens": [
+        "Counter zero."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:09:30"
+    },
+    {
+      "tokens": [
+        "Okay, it's set at minus 100."
+      ],
+      "speaker": "Scott",
+      "time": "002:09:32"
+    },
+    {
+      "tokens": [
+        "Oh, okay, that's a wrong - that's a baddy in here."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:09:34"
+    },
+    {
+      "tokens": [
+        "Apollo 9, this is Houston through Tananarive.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "002:09:34"
+    },
+    {
+      "tokens": [
+        "Yes, I know.",
+        "We - that's -"
+      ],
+      "speaker": "Scott",
+      "time": "002:09:36"
+    },
+    {
+      "tokens": [
+        "Align the GDC."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:09:38"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "002:09:41"
+    },
+    {
+      "tokens": [
+        "FDAI 1 - Inertial."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:09:43"
+    },
+    {
+      "tokens": [
+        "Now wait a minute, Rusty.",
+        "Let me finish aligning the GDC first."
+      ],
+      "speaker": "Scott",
+      "time": "002:09:45"
+    },
+    {
+      "tokens": [
+        "Yes, sir."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:09:48"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I was behind; fixed in a minute."
+      ],
+      "speaker": "Scott",
+      "time": "002:09:49"
+    },
+    {
+      "tokens": [
+        "I'm sorry."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:09:52"
+    },
+    {
+      "tokens": [
+        "Boy, you center these three hoses and --"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:09:54"
+    },
+    {
+      "tokens": [
+        "Apollo 9, Houston through Tananarive."
+      ],
+      "speaker": "Roosa",
+      "time": "002:09:56"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "You're 5 square."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:10:00"
+    },
+    {
+      "tokens": [
+        "What's that?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:10:05"
+    },
+    {
+      "tokens": [
+        "Oh, gunk."
+      ],
+      "speaker": "Scott",
+      "time": "002:10:07"
+    },
+    {
+      "tokens": [
+        "Okay, you ready, Dave?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:10:09"
+    },
+    {
+      "tokens": [
+        "No."
+      ],
+      "speaker": "Scott",
+      "time": "002:10:11"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:10:12"
+    },
+    {
+      "tokens": [
+        "Oh, you know what I needed on this damned camera was a handle."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:10:16"
+    },
+    {
+      "tokens": [
+        "It's too late now."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:10:22"
+    },
+    {
+      "tokens": [
+        "Shoot, yes."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:10:23"
+    },
+    {
+      "tokens": [
+        "I can't keep my bloody nose off of that thing."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:10:36"
+    },
+    {
+      "tokens": [
+        "Tananarive, Houston, NET 1."
+      ],
+      "speaker": "Unknown",
+      "time": "002:10:37"
+    },
+    {
+      "tokens": [
+        "Houston, Tananarive,"
+      ],
+      "speaker": "Unknown",
+      "time": "002:10:38"
+    },
+    {
+      "tokens": [
+        "Verify CAP COM is uplinking properly."
+      ],
+      "speaker": "Unknown",
+      "time": "002:10:39"
+    },
+    {
+      "tokens": [
+        "That's affirmative,"
+      ],
+      "speaker": "Unknown",
+      "time": "002:10:41"
+    },
+    {
+      "tokens": [
+        "Roger, thank you."
+      ],
+      "speaker": "Unknown",
+      "time": "002:10:42"
+    },
+    {
+      "tokens": [
+        "Okay, GDC is aligned."
+      ],
+      "speaker": "Scott",
+      "time": "002:10:48"
+    },
+    {
+      "tokens": [
+        "FDAI 1 - Inertial."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:10:49"
+    },
+    {
+      "tokens": [
+        "Okay, read me those attitude-set numbers again."
+      ],
+      "speaker": "Scott",
+      "time": "002:10:52"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "121.4."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:10:57"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "002:10:59"
+    },
+    {
+      "tokens": [
+        "Okay?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:11:00"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Scott",
+      "time": "002:11:01"
+    },
+    {
+      "tokens": [
+        "274.4 --"
+      ],
+      "speaker": "IMP (onboard)",
+      "time": "002:11:02"
+    },
+    {
+      "tokens": [
+        "And, Apollo 9,this is Houston, We'll have you over Tananarive for about the next 5 minutes; we are standing by.",
+        "I have not heard any transmissions from you here."
+      ],
+      "speaker": "Roosa",
+      "time": "002:11:03"
+    },
+    {
+      "tokens": [
+        "Okay, we're proceeding through the separation-through-withdraw checklist."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:11:13"
+    },
+    {
+      "tokens": [
+        "345.2."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:11:19"
+    },
+    {
+      "tokens": [
+        "Houston, you read Apollo 9?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:11:23"
+    },
+    {
+      "tokens": [
+        "345.2 and 274 what?"
+      ],
+      "speaker": "Scott",
+      "time": "002:11:25"
+    },
+    {
+      "tokens": [
+        "274.4 on the middle --"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:11:28"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Apollo 9, Houston.",
+        "I heard just the first part of that; I'll just stand by here."
+      ],
+      "speaker": "Roosa",
+      "time": "002:11:30"
+    },
+    {
+      "tokens": [
+        "Oh, shoot.",
+        "You know what I forgot?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:11:37"
+    },
+    {
+      "tokens": [
+        "What?"
+      ],
+      "speaker": "Scott",
+      "time": "002:11:38"
+    },
+    {
+      "tokens": [
+        "So clever!",
+        "Just a smartass!"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:11:39"
+    },
+    {
+      "tokens": [
+        "No sunglasses, huh?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:11:40"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:11:41"
+    },
+    {
+      "tokens": [
+        "Oh, me too, damn it!"
+      ],
+      "speaker": "Scott",
+      "time": "002:11:42"
+    },
+    {
+      "tokens": [
+        "Son of a gun!",
+        "You want mine, Dave?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:11:46"
+    },
+    {
+      "tokens": [
+        "I got mine handy."
+      ],
+      "speaker": "Scott",
+      "time": "002:11:51"
+    },
+    {
+      "tokens": [
+        "Hey, you want to take your helmet off, and put it on?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:11:52"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "I guess I will."
+      ],
+      "speaker": "Scott",
+      "time": "002:11:56"
+    },
+    {
+      "tokens": [
+        "Okay, I'll stop reading the checklist here."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:12:00"
+    },
+    {
+      "tokens": [
+        "Just a second now, I'll loosen up - I'll shut your suit flow off so you can get your helmet back on."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:12:03"
+    },
+    {
+      "tokens": [
+        "Now wait a minute.",
+        "I don't need to do that, Jim.",
+        "I can pop a glove and do it.",
+        "Yes, it's easier to pop a glove."
+      ],
+      "speaker": "Scott",
+      "time": "002:12:09"
+    },
+    {
+      "tokens": [
+        "Alright."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:12:13"
+    },
+    {
+      "tokens": [
+        "I tell you, this damned camera won't stay anywhere.",
+        "Let me try it Velcro on the back, there.",
+        "Okay, camera, stay there now.",
+        "Yes, I'm going to pop a glove and put mine on, too."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:12:15"
+    },
+    {
+      "tokens": [
+        "Jim, could you hang on to these things for me for a minute?",
+        "I have a -"
+      ],
+      "speaker": "Scott",
+      "time": "002:12:36"
+    },
+    {
+      "tokens": [
+        "Whee!",
+        "I got myself in the nose anyway."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:12:43"
+    },
+    {
+      "tokens": [
+        "What's the flow at?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:12:58"
+    },
+    {
+      "tokens": [
+        "O flow high."
+      ],
+      "speaker": "Unknown",
+      "time": "002:13:02"
+    },
+    {
+      "tokens": [
+        "Wonder wha - oh - wonder why that is."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:13:05"
+    },
+    {
+      "tokens": [
+        "Oh, Dave took his helmet off."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:13:12"
+    },
+    {
+      "tokens": [
+        "Yes, me too.",
+        "Does that make a difference?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:13:15"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:13:18"
+    },
+    {
+      "tokens": [
+        "Back a little farther.",
+        "Okay, that's it.",
+        "Here you go.",
+        "How you doing?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:13:34"
+    },
+    {
+      "tokens": [
+        "Okay, I'm - I'm about to take my helmet off here, so --"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:13:46"
+    },
+    {
+      "tokens": [
+        "Okay, why don't I press on with the checklist with Dave?",
+        "EMERGENCY CABIN PRESS TEST - we've done that; EMERGENCY CABIN PRESS, OFF; EMS MODE, STAND-BY -"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:13:48"
+    },
+    {
+      "tokens": [
+        "We're all the way down to the bottom, Jim."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:13:54"
+    },
+    {
+      "tokens": [
+        "EMS FUNCTION, DELTA-V; counter, zero -"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:13:56"
+    },
+    {
+      "tokens": [
+        "We're three lines from the bottom."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:14:00"
+    },
+    {
+      "tokens": [
+        "Align of GPS - GDC; you've done that?",
+        "FDAI 1 - Inertial."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:14:01"
+    },
+    {
+      "tokens": [
+        "Inertial."
+      ],
+      "speaker": "Scott",
+      "time": "002:14:05"
+    },
+    {
+      "tokens": [
+        "FDAI 2, Verb 83, adjust ORDEAL."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:14:06"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "002:14:10"
+    },
+    {
+      "tokens": [
+        "(garbled)"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:14:13"
+    },
+    {
+      "tokens": [
+        "Hey, I'm really unstable here."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:14:23"
+    },
+    {
+      "tokens": [
+        "You got your seatbelt on, Jim?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:14:27"
+    },
+    {
+      "tokens": [
+        "Yes, it's about over my knees."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:14:28"
+    },
+    {
+      "tokens": [
+        "Okay, I'll take over again.",
+        "Okay, are you in P00, Dave?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:14:31"
+    },
+    {
+      "tokens": [
+        "Just - I'm doing ORDEAL."
+      ],
+      "speaker": "Scott",
+      "time": "002:14:37"
+    },
+    {
+      "tokens": [
+        "He's ad - he's adjusting ORDEAL."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:14:38"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:14:39"
+    },
+    {
+      "tokens": [
+        "Okay, back to P00."
+      ],
+      "speaker": "Scott",
+      "time": "002:14:46"
+    },
+    {
+      "tokens": [
+        "Okay, in P00, and then MANUAL ATTITUDE, three, RATE COMMAND."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:14:47"
+    },
+    {
+      "tokens": [
+        "I guess they're in RATE COMMAND."
+      ],
+      "speaker": "Scott",
+      "time": "002:14:51"
+    },
+    {
+      "tokens": [
+        "Yes, that's really bad, isn't it?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:14:54"
+    },
+    {
+      "tokens": [
+        "(Laughter) LIMIT CYCLE, off."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:14:57"
+    },
+    {
+      "tokens": [
+        "That cycle's off."
+      ],
+      "speaker": "Scott",
+      "time": "002:14:59"
+    },
+    {
+      "tokens": [
+        "ATT DEADBAND, Min."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:15:00"
+    },
+    {
+      "tokens": [
+        "Min."
+      ],
+      "speaker": "Scott",
+      "time": "002:15:01"
+    },
+    {
+      "tokens": [
+        "RATE, Low."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:15:02"
+    },
+    {
+      "tokens": [
+        "Low."
+      ],
+      "speaker": "Scott",
+      "time": "002:15:03"
+    },
+    {
+      "tokens": [
+        "TRANSLATION CONTROL POWER, ON, up."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:15:04"
+    },
+    {
+      "tokens": [
+        "ON, up."
+      ],
+      "speaker": "Scott",
+      "time": "002:15:06"
+    },
+    {
+      "tokens": [
+        "ROTATIONAL CONTROL POWER NORMAL, two, AC/DC."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:15:07"
+    },
+    {
+      "tokens": [
+        "Two, AC/DC."
+      ],
+      "speaker": "Scott",
+      "time": "002:15:10"
+    },
+    {
+      "tokens": [
+        "DIRECT, two, MAIN A/MAIN B."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:15:11"
+    },
+    {
+      "tokens": [
+        "DIRECT, two, MAIN A/MAIN B."
+      ],
+      "speaker": "Scott",
+      "time": "002:15:12"
+    },
+    {
+      "tokens": [
+        "SPACECRAFT CONTROL to CMC."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:15:14"
+    },
+    {
+      "tokens": [
+        "Yes, that's in FREE; flip it to CMC."
+      ],
+      "speaker": "Scott",
+      "time": "002:15:18"
+    },
+    {
+      "tokens": [
+        "CMC MODE, FREE."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:15:20"
+    },
+    {
+      "tokens": [
+        "FREE."
+      ],
+      "speaker": "Scott",
+      "time": "002:15:22"
+    },
+    {
+      "tokens": [
+        "BMAG MODE, three, to RATE 2."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:15:23"
+    },
+    {
+      "tokens": [
+        "Apollo 9, this is Houston.",
+        "We'll lose you in Tananarive here in about 1 minute.",
+        "If you have tried to call me, I haven't received anything, but we'll see you over Carnarvon at 26."
+      ],
+      "speaker": "Roosa",
+      "time": "002:15:24"
+    },
+    {
+      "tokens": [
+        "Roger, Houston; Carnarvon at 26."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:15:39"
+    },
+    {
+      "tokens": [
+        "And, Apollo 9, that will be Carnarvon at 26."
+      ],
+      "speaker": "Roosa",
+      "time": "002:15:42"
+    },
+    {
+      "tokens": [
+        "Roger, Houston; Apollo 9.",
+        "Carnarvon at 26."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:15:46"
+    },
+    {
+      "tokens": [
+        "Okay -"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:15:49"
+    },
+    {
+      "tokens": [
+        "Okay, I got the --"
+      ],
+      "speaker": "Scott",
+      "time": "002:15:50"
+    },
+    {
+      "tokens": [
+        "Did you get the BMAG MODE, three, to RATE 2."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:15:53"
+    },
+    {
+      "tokens": [
+        "That's affirm."
+      ],
+      "speaker": "Scott",
+      "time": "002:15:55"
+    },
+    {
+      "tokens": [
+        "Okay, LAUNCH VEHICLE SPS INDICATOR to S-II/S-IVB."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:15:56"
+    },
+    {
+      "tokens": [
+        "S-II/S-IVB."
+      ],
+      "speaker": "Scott",
+      "time": "002:16:01"
+    },
+    {
+      "tokens": [
+        "LV GUIDANCE to IU."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:16:02"
+    },
+    {
+      "tokens": [
+        "IU."
+      ],
+      "speaker": "Scott",
+      "time": "002:16:08"
+    },
+    {
+      "tokens": [
+        "LUNAR INJECT, SAFE."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:16:09"
+    },
+    {
+      "tokens": [
+        "SAFE."
+      ],
+      "speaker": "Scott",
+      "time": "002:16:12"
+    },
+    {
+      "tokens": [
+        "UP TELEMETRY, IU, to BLOCK."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:16:13"
+    },
+    {
+      "tokens": [
+        "BLOCK."
+      ],
+      "speaker": "Scott",
+      "time": "002:16:16"
+    },
+    {
+      "tokens": [
+        "AUTO RCS SELECTOR, 16, to MAIN B."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:16:18"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Coming up."
+      ],
+      "speaker": "Scott",
+      "time": "002:16:20"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:16:23"
+    },
+    {
+      "tokens": [
+        "16 to MAIN B."
+      ],
+      "speaker": "Scott",
+      "time": "002:16:34"
+    },
+    {
+      "tokens": [
+        "Okay, RCS - CIRCUIT BREAKER RCS LOGIC, two, CLOSE."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:16:36"
+    },
+    {
+      "tokens": [
+        "Two, CLOSE."
+      ],
+      "speaker": "Scott",
+      "time": "002:16:44"
+    },
+    {
+      "tokens": [
+        "TVC SERVO POWER 1, AC-1/MAIN A."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:16:45"
+    },
+    {
+      "tokens": [
+        "Okay, let's see how much time we got here?",
+        "We got 20 minutes.",
+        "I sort of hate to be putting all that power --"
+      ],
+      "speaker": "Scott",
+      "time": "002:16:49"
+    },
+    {
+      "tokens": [
+        "Yes, let's - let's wait a little while."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:16:56"
+    },
+    {
+      "tokens": [
+        "Okay, you want to wait there?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:16:57"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:16:58"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:16:59"
+    },
+    {
+      "tokens": [
+        "We've got 9 minutes."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:17:09"
+    },
+    {
+      "tokens": [
+        "02:34 is the maneuver."
+      ],
+      "speaker": "Scott",
+      "time": "002:17:11"
+    },
+    {
+      "tokens": [
+        "Okay, well - well, Carnarvon's at 26; that's what I was looking at."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:17:14"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Scott",
+      "time": "002:17:16"
+    },
+    {
+      "tokens": [
+        "Get in that pocket, you stupid thing."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:17:24"
+    },
+    {
+      "tokens": [
+        "I was thinking it was time to dark adapt, but that's probably the worst thing we could do."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:17:40"
+    },
+    {
+      "tokens": [
+        "Dark adapt with your sunglasses on, huh?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:17:48"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "I will turn it down a little bit and see what it looks like out there, though.",
+        "Oh, isn't that a pretty Earth?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:18:02"
+    },
+    {
+      "tokens": [
+        "See if you can see those - S-IVB thrusters firing."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:18:20"
+    },
+    {
+      "tokens": [
+        "I've seen some light out the side window.",
+        "I never was really sure whether it was the S-IVB thrusters or --"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:18:24"
+    },
+    {
+      "tokens": [
+        "Yes, I have, too.",
+        "I - I just saw a flash; that's what reminded me of it."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:18:30"
+    },
+    {
+      "tokens": [
+        "That COAS sure looks like we rolled.",
+        "I guess it's just me."
+      ],
+      "speaker": "Scott",
+      "time": "002:18:39"
+    },
+    {
+      "tokens": [
+        "Hey, how does our horizon look out there, Dave?",
+        "Can you see it alright?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:18:43"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "The COAS looks like we're in a roll.",
+        "Did you notice that, Jim?"
+      ],
+      "speaker": "Scott",
+      "time": "002:18:46"
+    },
+    {
+      "tokens": [
+        "No, I didn't.",
+        "I just turned on to see what it looked like."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:18:50"
+    },
+    {
+      "tokens": [
+        "Which way am I?",
+        "I'm - I'm looking north out my window, aren't I?",
+        "Yes.",
+        "Because I can see the Big Dipper on the horizon."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:18:53"
+    },
+    {
+      "tokens": [
+        "I wonder if just the way I am in the seat -"
+      ],
+      "speaker": "Scott",
+      "time": "002:19:00"
+    },
+    {
+      "tokens": [
+        "No, you look straight."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:19:03"
+    },
+    {
+      "tokens": [
+        "Did it - did it look straight when you checked it out?"
+      ],
+      "speaker": "Scott",
+      "time": "002:19:05"
+    },
+    {
+      "tokens": [
+        "No, I said you look straight.",
+        "No, I did - all I did was turn it on to see if the light lit, Dave."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:19:07"
+    },
+    {
+      "tokens": [
+        "Looks level to me, Dave."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:19:13"
+    },
+    {
+      "tokens": [
+        "No, I didn't mean the reticle."
+      ],
+      "speaker": "Scott",
+      "time": "002:19:14"
+    },
+    {
+      "tokens": [
+        "I know.",
+        "Oh, I see."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:19:16"
+    },
+    {
+      "tokens": [
+        "If - if - if I look - it just doesn't."
+      ],
+      "speaker": "Scott",
+      "time": "002:19:18"
+    },
+    {
+      "tokens": [
+        "Yes, I know what you're saying."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:19:21"
+    },
+    {
+      "tokens": [
+        "I'll check on the horizon when we come up there."
+      ],
+      "speaker": "Scott",
+      "time": "002:19:24"
+    },
+    {
+      "tokens": [
+        "Okay, Rusty, you read the checklist down through DET STARTUP, and then I'll read it from there on over to a --"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:19:40"
+    },
+    {
+      "tokens": [
+        "Right.",
+        "I'm just trying to picture what I'm going to do with my checklist at that point."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:19:46"
+    },
+    {
+      "tokens": [
+        "I'm still trying to figure out what I'm going to do with mine, too.",
+        "I pulled up my suit --"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:19:49"
+    },
+    {
+      "tokens": [
+        "Maybe I ought to tighten down my seatbelt here and - stick it under me or something."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:19:52"
+    },
+    {
+      "tokens": [
+        "Hey, how about that?",
+        "You want to try sticking it up there?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:19:59"
+    },
+    {
+      "tokens": [
+        "Where's that?",
+        "Under there?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:20:02"
+    },
+    {
+      "tokens": [
+        "But the hand - Hey, the hand controller is going to be in your way."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:20:05"
+    },
+    {
+      "tokens": [
+        "Yes, I have a hard time getting my arm over there without banging something --"
+      ],
+      "speaker": "Scott",
+      "time": "002:20:07"
+    },
+    {
+      "tokens": [
+        "Well, you've got - you've got one of those here; maybe you can stick it in there?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:20:10"
+    },
+    {
+      "tokens": [
+        "Maybe I can; I'll try it."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:20:14"
+    },
+    {
+      "tokens": [
+        "All the RCS look good, Jimmy?"
+      ],
+      "speaker": "Scott",
+      "time": "002:20:21"
+    },
+    {
+      "tokens": [
+        "Looks good.",
+        "Quad C is really down there."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:20:24"
+    },
+    {
+      "tokens": [
+        "Looks like a good spot, Jim."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:20:29"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:20:31"
+    },
+    {
+      "tokens": [
+        "Let me just check my Hasselblad, and make sure it's ready to go --"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:20:36"
+    },
+    {
+      "tokens": [
+        "Hey, you know, it looks okay, Dave."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:20:37"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "002:20:39"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The dark slide is out.",
+        "We don't have a filter on it.",
+        "I thought we were supposed to have a haze filter on it."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:20:44"
+    },
+    {
+      "tokens": [
+        "Yes, we were."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:20:53"
+    },
+    {
+      "tokens": [
+        "We got the film - ASA --"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:20:59"
+    },
+    {
+      "tokens": [
+        "It's supposed to be mounted on there."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:21:00"
+    },
+    {
+      "tokens": [
+        "Yes, that's what I thought."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:21:02"
+    },
+    {
+      "tokens": [
+        "Are you checking these things off, I mean sort of making a line by them or something, Rusty, when you go through them to make sure we get them all?"
+      ],
+      "speaker": "Scott",
+      "time": "002:21:06"
+    },
+    {
+      "tokens": [
+        "I can, Dave; I haven't been."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:21:14"
+    },
+    {
+      "tokens": [
+        "What's that?",
+        "The checklist, Dave?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:21:17"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Since it's sort of a one-time checklist - I think we sort of stop in the middle.",
+        "Oh, I don't care; just so we get them all."
+      ],
+      "speaker": "Scott",
+      "time": "002:21:18"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:21:29"
+    },
+    {
+      "tokens": [
+        "When we get over Carnarvon, you're going to have to go ahead and get a go for arming the pyros."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:21:40"
+    },
+    {
+      "tokens": [
+        "Um hum.",
+        "Okay, the camera looks like it's ready to go."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:21:47"
+    },
+    {
+      "tokens": [
+        "Okay, when we --"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:21:56"
+    },
+    {
+      "tokens": [
+        "You're going to push the plus-X thing and hit the strip button, and I'm going to start the clock.",
+        "Let's see how our arms fit in here, Dave, with the clock's starting (garbled)"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:22:10"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "002:22:19"
+    },
+    {
+      "tokens": [
+        "Which one is the clock?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:22:20"
+    },
+    {
+      "tokens": [
+        "The next one."
+      ],
+      "speaker": "Scott",
+      "time": "002:22:21"
+    },
+    {
+      "tokens": [
+        "This one?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:22:22"
+    },
+    {
+      "tokens": [
+        "No."
+      ],
+      "speaker": "Scott",
+      "time": "002:22:23"
+    },
+    {
+      "tokens": [
+        "Okay, 3½ minutes to Carnarvon."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:22:25"
+    },
+    {
+      "tokens": [
+        "The one that says RE - that says START."
+      ],
+      "speaker": "Scott",
+      "time": "002:22:27"
+    },
+    {
+      "tokens": [
+        "I can't see it."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:22:30"
+    },
+    {
+      "tokens": [
+        "Okay, it's the third one from the right.",
+        "You got it?"
+      ],
+      "speaker": "Scott",
+      "time": "002:22:31"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:22:33"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "002:22:35"
+    },
+    {
+      "tokens": [
+        "Hey, you want to read down those again?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:23:02"
+    },
+    {
+      "tokens": [
+        "Guess I'm not sure what we are going to do.",
+        "I'm going to go: 3, 2, 1; I'll start thrusting at 1; hit the button at Mark; and then you start the clock."
+      ],
+      "speaker": "Scott",
+      "time": "002:23:05"
+    },
+    {
+      "tokens": [
+        "I'm going to start the clock."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:23:13"
+    },
+    {
+      "tokens": [
+        "I'll go - 1001, 1002, 1003; come off of it; come back up here 15 seconds.",
+        "Prior to 15 seconds, I'll go: SCS ACCELERATION COMMAND on PITCH."
+      ],
+      "speaker": "Scott",
+      "time": "002:23:15"
+    },
+    {
+      "tokens": [
+        "Alright."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:23:31"
+    },
+    {
+      "tokens": [
+        "Start the PITCH around -"
+      ],
+      "speaker": "Scott",
+      "time": "002:23:33"
+    },
+    {
+      "tokens": [
+        "I'll - I'll punch in Verb 62 for you at that time."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:23:34"
+    },
+    {
+      "tokens": [
+        "Right.",
+        "And - coming around, I'll stop it."
+      ],
+      "speaker": "Scott",
+      "time": "002:23:37"
+    },
+    {
+      "tokens": [
+        "FDAI Scale (garbled) 5/5 INERTIAL (garbled)"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:23:42"
+    },
+    {
+      "tokens": [
+        "Dave, surge tank is coming back up.",
+        "It's up at 800 now."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:24:11"
+    },
+    {
+      "tokens": [
+        "Good."
+      ],
+      "speaker": "Scott",
+      "time": "002:24:15"
+    },
+    {
+      "tokens": [
+        "Cabin pressure is 5.8 [psi, 40.0 kPa] or so."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:24:18"
+    },
+    {
+      "tokens": [
+        "Let's see here.",
+        "You know your rates?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:24:34"
+    },
+    {
+      "tokens": [
+        "Alright, (garbled) I pitch down, and when I get the DAP rate back, RATE COMMAND, CMC, then stop it, MINIMUM IMPULSE, roll it, and (garbled) to get us lined up."
+      ],
+      "speaker": "Scott",
+      "time": "002:24:37"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:24:49"
+    },
+    {
+      "tokens": [
+        "And (garbled) translation from CMC.",
+        "And when we get in - 50 feet or so, we lock it up with the SCS and drive it in."
+      ],
+      "speaker": "Scott",
+      "time": "002:24:50"
+    },
+    {
+      "tokens": [
+        "Okay, real good."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:25:03"
+    },
+    {
+      "tokens": [
+        "And when we get there, CMC, and lock it up (garbled) If it gets out of hand, you're going to (garbled) rates in it?",
+        "If that's okay, you're going to (garbled)"
+      ],
+      "speaker": "Scott",
+      "time": "002:25:04"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:25:20"
+    },
+    {
+      "tokens": [
+        "Apollo 9, this is Houston through Carnarvon."
+      ],
+      "speaker": "Roosa",
+      "time": "002:25:31"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "We're here."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:25:36"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We read you loud and clear, We would like to have the up-telemetry IU switched to accept."
+      ],
+      "speaker": "Roosa",
+      "time": "002:25:38"
+    },
+    {
+      "tokens": [
+        "Go for the pyro arm anytime you want to run through it."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:25:44"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We want to take a look at you, and we will give you a go on that shortly.",
+        "We would like to have you go ahead and arm the logic at this time."
+      ],
+      "speaker": "Roosa",
+      "time": "002:25:48"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:25:58"
+    },
+    {
+      "tokens": [
+        "And would you confirm up-telemetry; are you enabled?"
+      ],
+      "speaker": "Roosa",
+      "time": "002:26:03"
+    },
+    {
+      "tokens": [
+        "Negative.",
+        "Up-telemetry IU is in block.",
+        "Do you want to go to up-telemetry IU in accept?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:26:08"
+    },
+    {
+      "tokens": [
+        "That is affirmative.",
+        "We would like to have the up-telemetry IU to accept."
+      ],
+      "speaker": "Roosa",
+      "time": "002:26:15"
+    },
+    {
+      "tokens": [
+        "In accept."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:26:20"
+    },
+    {
+      "tokens": [
+        "Understand."
+      ],
+      "speaker": "Roosa",
+      "time": "002:26:21"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:26:23"
+    },
+    {
+      "tokens": [
+        "And, Apollo 9, this is Houston.",
+        "We would like to have you have the up-telemetry IU switched to block."
+      ],
+      "speaker": "Roosa",
+      "time": "002:26:45"
+    },
+    {
+      "tokens": [
+        "Up-telemetry IU to block."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:26:54"
+    },
+    {
+      "tokens": [
+        "Very good.",
+        "Thank you."
+      ],
+      "speaker": "Roosa",
+      "time": "002:26:56"
+    },
+    {
+      "tokens": [
+        "And, Houston, the logic on my mark, 3, 2, 1."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:26:59"
+    },
+    {
+      "tokens": [
+        "Mark!"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:27:06"
+    },
+    {
+      "tokens": [
+        "Two logic."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:27:08"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy.",
+        "Stand by one."
+      ],
+      "speaker": "Roosa",
+      "time": "002:27:09"
+    },
+    {
+      "tokens": [
+        "Apollo 9; this is Houston.",
+        "You are go for pyro arm."
+      ],
+      "speaker": "Roosa",
+      "time": "002:27:26"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand, go for pyro arm.",
+        "Thank you."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:27:30"
+    },
+    {
+      "tokens": [
+        "That is affirmative."
+      ],
+      "speaker": "Roosa",
+      "time": "002:27:33"
+    },
+    {
+      "tokens": [
+        "Apollo 9, this is Houston.",
+        "You are go for TD&E."
+      ],
+      "speaker": "Roosa",
+      "time": "002:28:04"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Understand, go for TD&E."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:28:08"
+    },
+    {
+      "tokens": [
+        "Houston, what time do we come into daylight?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:28:38"
+    },
+    {
+      "tokens": [
+        "Do you mean on this pass or for the ejection pass?"
+      ],
+      "speaker": "Roosa",
+      "time": "002:28:40"
+    },
+    {
+      "tokens": [
+        "This pass."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:28:45"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by."
+      ],
+      "speaker": "Roosa",
+      "time": "002:28:47"
+    },
+    {
+      "tokens": [
+        "Apollo 9, Houston."
+      ],
+      "speaker": "Roosa",
+      "time": "002:29:34"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:29:38"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You will come into daylight on this one at about 02 plus 39 plus 21."
+      ],
+      "speaker": "Roosa",
+      "time": "002:29:39"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:29:48"
+    },
+    {
+      "tokens": [
+        "Here I was all primed for your ejection sunrise time.",
+        "You faked me out on this one."
+      ],
+      "speaker": "Roosa",
+      "time": "002:29:56"
+    },
+    {
+      "tokens": [
+        "Next time I'll ask."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:30:03"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Roosa",
+      "time": "002:30:05"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 9."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:31:19"
+    },
+    {
+      "tokens": [
+        "Go, Apollo 9."
+      ],
+      "speaker": "Roosa",
+      "time": "002:31:21"
+    },
+    {
+      "tokens": [
+        "We have a rather consistent behavior on this number 1 H tank.",
+        "It appears to light the cryo warning light every time it gets down there before the heater comes on.",
+        "You might start thinking about how we're going to handle that for the sleep period because it keeps setting off the master alarm."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:31:24"
+    },
+    {
+      "tokens": [
+        "Roger, Apollo 9.",
+        "Copy.",
+        "And that is in work."
+      ],
+      "speaker": "Roosa",
+      "time": "002:31:43"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:31:48"
+    },
+    {
+      "tokens": [
+        "And, Apollo 9, this it Houston.",
+        "We will go right on through an ARIA as soon as we come up off of Carnarvon on this one in about 20 seconds."
+      ],
+      "speaker": "Roosa",
+      "time": "002:31:57"
+    },
+    {
+      "tokens": [
+        "What's that?",
+        "(Machine gun-like noises)"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:32:30"
+    },
+    {
+      "tokens": [
+        "Sounds like a World War II movie (laughter)."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:32:33"
+    },
+    {
+      "tokens": [
+        "What's the pitch attitude, Dave?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:33:10"
+    },
+    {
+      "tokens": [
+        "(garbled)"
+      ],
+      "speaker": "Scott",
+      "time": "002:33:15"
+    },
+    {
+      "tokens": [
+        "Apollo 9, this is Houston through an honest-to-goodness ARIA.",
+        "How do you read?"
+      ],
+      "speaker": "Roosa",
+      "time": "002:33:20"
+    },
+    {
+      "tokens": [
+        "Ah-wah-wah-wah-wah!",
+        "I got it?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:33:27"
+    },
+    {
+      "tokens": [
+        "Roger on the wah-wah's, Apollo 9."
+      ],
+      "speaker": "Roosa",
+      "time": "002:33:34"
+    },
+    {
+      "tokens": [
+        "Okay, we're reading you then."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:33:38"
+    },
+    {
+      "tokens": [
+        "Houston, according to all calculations, our S-IVB ought to start maneuvering in about 6 or 8 seconds."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:33:50"
+    },
+    {
+      "tokens": [
+        "There it goes."
+      ],
+      "speaker": "Unknown",
+      "time": "002:34:01"
+    },
+    {
+      "tokens": [
+        "(garbled) look at this."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:34:07"
+    },
+    {
+      "tokens": [
+        "Oh, boy, look at that spacecraft go."
+      ],
+      "speaker": "Scott",
+      "time": "002:34:10"
+    },
+    {
+      "tokens": [
+        "I can see the - the stars in the Big Dipper here."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:34:32"
+    },
+    {
+      "tokens": [
+        "(garbled) now and the (garbled)"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:34:45"
+    },
+    {
+      "tokens": [
+        "That S-band's (garbled)"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:34:50"
+    },
+    {
+      "tokens": [
+        "Houston, we're just about there."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:35:28"
+    },
+    {
+      "tokens": [
+        "We've made it."
+      ],
+      "speaker": "Scott",
+      "time": "002:38:09"
+    },
+    {
+      "tokens": [
+        "Oh, we did?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:38:10"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Scott",
+      "time": "002:38:11"
+    },
+    {
+      "tokens": [
+        "Let's wait until we get good daylight before we do (garbled)"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:38:17"
+    },
+    {
+      "tokens": [
+        "Yes, I think so, too, Dave.",
+        "I don't think they're in any big hurry.",
+        "Did you say (garbled)?",
+        "You see, that thing's going to take a long time, and I think it's about --"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:38:19"
+    },
+    {
+      "tokens": [
+        "That looks pretty (garbled)"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:38:40"
+    },
+    {
+      "tokens": [
+        "Got it?"
+      ],
+      "speaker": "Scott",
+      "time": "002:38:43"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:38:45"
+    },
+    {
+      "tokens": [
+        "Isn't that something?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:38:50"
+    },
+    {
+      "tokens": [
+        "Hello."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:39:16"
+    },
+    {
+      "tokens": [
+        "Apollo 9, this is Houston.",
+        "Did you call?"
+      ],
+      "speaker": "Roosa",
+      "time": "002:39:17"
+    },
+    {
+      "tokens": [
+        "Huntsville AOS."
+      ],
+      "speaker": "Unknown",
+      "time": "002:39:33"
+    },
+    {
+      "tokens": [
+        "S-band looks great (garbled) Let's see how wild it is.",
+        "(garbled)"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:39:56"
+    },
+    {
+      "tokens": [
+        "2 hours and 40 right now.",
+        "The Huntsville at 02:40 for about 7 minutes."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:40:09"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:40:14"
+    },
+    {
+      "tokens": [
+        "Huntsville valid two-way lock."
+      ],
+      "speaker": "Unknown",
+      "time": "002:40:21"
+    },
+    {
+      "tokens": [
+        "(garbled) get Hawaii next (garbled) that thing seems to be spurious.",
+        "Well, what do you say?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:40:22"
+    },
+    {
+      "tokens": [
+        "Alright.",
+        "It's about that time."
+      ],
+      "speaker": "Scott",
+      "time": "002:40:30"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Verb 37, Enter; 47, Enter."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:40:33"
+    },
+    {
+      "tokens": [
+        "37, Enter; 47 Enter."
+      ],
+      "speaker": "Scott",
+      "time": "002:40:36"
+    },
+    {
+      "tokens": [
+        "Pyro - switch Pyro Arm, two, on, up."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:40:41"
+    },
+    {
+      "tokens": [
+        "Pyro Arm, two, on, up."
+      ],
+      "speaker": "Scott",
+      "time": "002:40:45"
+    },
+    {
+      "tokens": [
+        "CMC Mode to Hold."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:40:47"
+    },
+    {
+      "tokens": [
+        "CMC to Hold."
+      ],
+      "speaker": "Scott",
+      "time": "002:40:49"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Okay, now we want to go - the THC to plus X and hold; CSM/LV pushbutton, hold, and release; and the LV tanks go to Low, and start the DET up from zero.",
+        "Okay, is everybody ready --"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:40:51"
+    },
+    {
+      "tokens": [
+        "Oh, okay, go ahead."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:41:10"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "3, 2, 1 - Bang!",
+        "It's gone."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:41:12"
+    },
+    {
+      "tokens": [
+        "4 seconds and release it."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:41:20"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "002:41:22"
+    },
+    {
+      "tokens": [
+        "That's 100.8.",
+        "Dave, you have anything (garbled) --"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:41:24"
+    },
+    {
+      "tokens": [
+        "Yes, I have to check for Acceleration Command; Spacecraft Control to SCS."
+      ],
+      "speaker": "Scott",
+      "time": "002:41:27"
+    },
+    {
+      "tokens": [
+        "Okay, we got that?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:41:30"
+    },
+    {
+      "tokens": [
+        "Yes, sir."
+      ],
+      "speaker": "Scott",
+      "time": "002:41:33"
+    },
+    {
+      "tokens": [
+        "You got the 5 and 5?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:41:34"
+    },
+    {
+      "tokens": [
+        "(garbled)"
+      ],
+      "speaker": "Scott",
+      "time": "002:41:36"
+    },
+    {
+      "tokens": [
+        "Hey, David, there goes the (garbled) on the panel.",
+        "See it?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:42:14"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Scott",
+      "time": "002:42:18"
+    },
+    {
+      "tokens": [
+        "Man, look at that son of a gun go!"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:42:19"
+    },
+    {
+      "tokens": [
+        "Okay, Dave, (garbled) is just beautiful.",
+        "Just halfway around.",
+        "Okay, just right there, Davey.",
+        "Just leave it like it is (garbled) nice and bright there."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:42:20"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "002:42:30"
+    },
+    {
+      "tokens": [
+        "Right there (garbled) Not too bright at all."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:42:31"
+    },
+    {
+      "tokens": [
+        "That help?"
+      ],
+      "speaker": "Scott",
+      "time": "002:42:38"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:42:39"
+    },
+    {
+      "tokens": [
+        "Is the camera running?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:42:40"
+    },
+    {
+      "tokens": [
+        "Turn it on!"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:42:42"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "002:42:44"
+    },
+    {
+      "tokens": [
+        "Okay, (garbled) right in the right place there."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:42:51"
+    },
+    {
+      "tokens": [
+        "Isn't it!"
+      ],
+      "speaker": "Scott",
+      "time": "002:42:52"
+    },
+    {
+      "tokens": [
+        "Right there."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:42:53"
+    },
+    {
+      "tokens": [
+        "When you get that, you want to get Manual Attitude Pitch, to Rate Command."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:42:55"
+    },
+    {
+      "tokens": [
+        "That's good.",
+        "Okay, now."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:43:00"
+    },
+    {
+      "tokens": [
+        "Spacecraft Control, CMC."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:43:01"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You look good, Jim."
+      ],
+      "speaker": "Scott",
+      "time": "002:43:02"
+    },
+    {
+      "tokens": [
+        "Good.",
+        "Null your translation and your rates."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:43:04"
+    },
+    {
+      "tokens": [
+        "Think they've nulled."
+      ],
+      "speaker": "Scott",
+      "time": "002:43:10"
+    },
+    {
+      "tokens": [
+        "Okay, fine."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:43:11"
+    },
+    {
+      "tokens": [
+        "I'm going SCS, Minimum Impulse."
+      ],
+      "speaker": "Scott",
+      "time": "002:43:12"
+    },
+    {
+      "tokens": [
+        "SCS, MINMUM IMPULSE.",
+        "That a boy.",
+        "(garbled)"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:43:13"
+    },
+    {
+      "tokens": [
+        "(garbled) let's see - I'm going to damp out - Oh, shoot, (garbled)"
+      ],
+      "speaker": "Scott",
+      "time": "002:43:14"
+    },
+    {
+      "tokens": [
+        "What's the matter?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:43:21"
+    },
+    {
+      "tokens": [
+        "Well, our pitch angle isn't exactly right - it doesn't look right."
+      ],
+      "speaker": "Scott",
+      "time": "002:43:23"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:43:27"
+    },
+    {
+      "tokens": [
+        "That's alright; we're going to fly around a little bit, Dave."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:43:31"
+    },
+    {
+      "tokens": [
+        "Alright."
+      ],
+      "speaker": "Scott",
+      "time": "002:43:34"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I want you to roll left 60 (garbled) Spacecraft Control to CMC and (garbled) Rate Command."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:43:35"
+    },
+    {
+      "tokens": [
+        "I'll talk to Houston here."
+      ],
+      "speaker": "Scott",
+      "time": "002:43:44"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 9."
+      ],
+      "speaker": "Scott",
+      "time": "002:43:48"
+    },
+    {
+      "tokens": [
+        "Go, Apollo 9.",
+        "This is Houston."
+      ],
+      "speaker": "Roosa",
+      "time": "002:43:51"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "It's out there, and we're turned around and proceeding with the station-keeping and docking."
+      ],
+      "speaker": "Scott",
+      "time": "002:43:54"
+    },
+    {
+      "tokens": [
+        "Tremendous, Apollo 9.",
+        "Thank you."
+      ],
+      "speaker": "Roosa",
+      "time": "002:44:00"
+    },
+    {
+      "tokens": [
+        "I'm going to have to (garbled), Jim.",
+        "Do you know that?",
+        "(Laughter)"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:44:08"
+    },
+    {
+      "tokens": [
+        "That's interesting.",
+        "That's a big fellow."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:44:11"
+    },
+    {
+      "tokens": [
+        "Sure is!"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:44:17"
+    },
+    {
+      "tokens": [
+        "It's a great big fellow."
+      ],
+      "speaker": "Scott",
+      "time": "002:44:19"
+    },
+    {
+      "tokens": [
+        "Okay, I'm going to stow the gear --"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:44:22"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Roosa",
+      "time": "002:44:23"
+    },
+    {
+      "tokens": [
+        "(garbled) go to Rate Command (garbled) CMC Mode (garbled)"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:44:27"
+    },
+    {
+      "tokens": [
+        "Okay, you got the Docking Probe extended there and that's in the Retract position?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:45:18"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:45:25"
+    },
+    {
+      "tokens": [
+        "You (garbled) stabilize there at 50 feet or so and go to BMAG."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:45:27"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Going back to CMC."
+      ],
+      "speaker": "Scott",
+      "time": "002:45:30"
+    },
+    {
+      "tokens": [
+        "Going back to CMC."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:45:34"
+    },
+    {
+      "tokens": [
+        "You can see the thrusters hitting the (garbled) on the (garbled)"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:45:44"
+    },
+    {
+      "tokens": [
+        "(garbled)"
+      ],
+      "speaker": "Roosa",
+      "time": "002:45:50"
+    },
+    {
+      "tokens": [
+        "What did he say?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:45:59"
+    },
+    {
+      "tokens": [
+        "I didn't hear it."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:46:00"
+    },
+    {
+      "tokens": [
+        "Apollo 9, this is Houston.",
+        "We're going to lose you here in about 45 seconds, and we'll see you over Hawaii in about 5 minutes at 51."
+      ],
+      "speaker": "Roosa",
+      "time": "002:46:14"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:46:24"
+    },
+    {
+      "tokens": [
+        "And we may have an ARIA in here, but if it is like the last one, we won't hear much out of you."
+      ],
+      "speaker": "Roosa",
+      "time": "002:46:29"
+    },
+    {
+      "tokens": [
+        "Just a minute.",
+        "As a matter of fact, we would be better without it."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:46:38"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We will see you at 51."
+      ],
+      "speaker": "Roosa",
+      "time": "002:46:39"
+    },
+    {
+      "tokens": [
+        "How (garbled) to get there?"
+      ],
+      "speaker": "Schweickart",
+      "time": "002:49:38"
+    },
+    {
+      "tokens": [
+        "I hate to use all this fuel."
+      ],
+      "speaker": "Scott",
+      "time": "002:49:49"
+    },
+    {
+      "tokens": [
+        "That's okay.",
+        "Better to get it than - a little extra fuel, than not get it."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:49:51"
+    },
+    {
+      "tokens": [
+        "Can you see him, Davey?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:50:05"
+    },
+    {
+      "tokens": [
+        "Yes, I'm alright.",
+        "I can see him, I just can't -"
+      ],
+      "speaker": "Scott",
+      "time": "002:50:06"
+    },
+    {
+      "tokens": [
+        "Yes, it looks like you're coming over now pretty good.",
+        "I can see the vent on this side going off."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:50:14"
+    },
+    {
+      "tokens": [
+        "Yes, you're coming in good now."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:50:26"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Yes, it looks good."
+      ],
+      "speaker": "Scott",
+      "time": "002:50:28"
+    },
+    {
+      "tokens": [
+        "I don't know where to point this stupid camera."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:50:39"
+    },
+    {
+      "tokens": [
+        "And, Apollo 9, this is Houston.",
+        "We should have you through Hawaii.",
+        "Standing by."
+      ],
+      "speaker": "Roosa",
+      "time": "002:51:01"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:51:07"
+    },
+    {
+      "tokens": [
+        "Damn it, Jim, I just can't translate sideways."
+      ],
+      "speaker": "Scott",
+      "time": "002:51:10"
+    },
+    {
+      "tokens": [
+        "Is that right?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:51:13"
+    },
+    {
+      "tokens": [
+        "Just can't do it."
+      ],
+      "speaker": "Scott",
+      "time": "002:51:15"
+    },
+    {
+      "tokens": [
+        "Give it a big push."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:51:17"
+    },
+    {
+      "tokens": [
+        "I did!",
+        "I'm on it."
+      ],
+      "speaker": "Scott",
+      "time": "002:51:18"
+    },
+    {
+      "tokens": [
+        "You on it right now?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:51:26"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Look at that Delta-V counter, or the EMS, or the DSKY rather."
+      ],
+      "speaker": "Scott",
+      "time": "002:51:27"
+    },
+    {
+      "tokens": [
+        "Yes, something's wrong."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:51:32"
+    },
+    {
+      "tokens": [
+        "Yes, these things are going crazy (garbled) Try it now."
+      ],
+      "speaker": "Scott",
+      "time": "002:51:39"
+    },
+    {
+      "tokens": [
+        "It's coming."
+      ],
+      "speaker": "Scott",
+      "time": "002:56:55"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Get her all lined up?"
+      ],
+      "speaker": "McDivitt",
+      "time": "002:56:56"
+    },
+    {
+      "tokens": [
+        "Okay, SCS, and ATT 1/RATE 2.",
+        "Well, it looks like it ripped a little bit off the - off the top of the SLA on one side.",
+        "Just a little piece hanging out there.",
+        "That is looking beautiful now."
+      ],
+      "speaker": "Scott",
+      "time": "002:57:00"
+    },
+    {
+      "tokens": [
+        "Well, that's looking beautiful, David.",
+        "I'm going to start the camera again.",
+        "Well, I'll wait for a minute here."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:58:02"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Scott",
+      "time": "002:58:08"
+    },
+    {
+      "tokens": [
+        "And, Apollo 9, Houston.",
+        "We've got you through the Redstone.",
+        "Standing by."
+      ],
+      "speaker": "Roosa",
+      "time": "002:58:20"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "McDivitt",
+      "time": "002:58:29"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "We are about 25 feet now and closing slowly."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:58:34"
+    },
+    {
+      "tokens": [
+        "Copy."
+      ],
+      "speaker": "Roosa",
+      "time": "002:58:41"
+    },
+    {
+      "tokens": [
+        "That looks beautiful, Dave."
+      ],
+      "speaker": "Schweickart",
+      "time": "002:58:51"
+    },
+    {
+      "tokens": [
+        "(garbled) only way they'd do it, Dave."
+      ],
+      "speaker": "Schweickart",
+      "time": "003:01:11"
+    },
+    {
+      "tokens": [
+        "Is it - is it damping it down - is the probe damping it down?"
+      ],
+      "speaker": "McDivitt",
+      "time": "003:01:13"
+    },
+    {
+      "tokens": [
+        "It's damped good, Jim.",
+        "I want to get it lined up.",
+        "Rusty, I want you to get 12 latches.",
+        "Now we're coming.",
+        "Patience."
+      ],
+      "speaker": "Scott",
+      "time": "003:01:15"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "We'll do it when you're ready, David."
+      ],
+      "speaker": "McDivitt",
+      "time": "003:01:25"
+    },
+    {
+      "tokens": [
+        "It's very stable."
+      ],
+      "speaker": "Scott",
+      "time": "003:01:36"
+    },
+    {
+      "tokens": [
+        "Isn't it, though?"
+      ],
+      "speaker": "McDivitt",
+      "time": "003:01:39"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "I just want to make sure that we're really lined up.",
+        "Okay, Jim, that looks like a good one.",
+        "Have at it."
+      ],
+      "speaker": "Scott",
+      "time": "003:01:40"
+    },
+    {
+      "tokens": [
+        "Okay, Retract coming now."
+      ],
+      "speaker": "McDivitt",
+      "time": "003:01:50"
+    },
+    {
+      "tokens": [
+        "Here it comes.",
+        "Coming in."
+      ],
+      "speaker": "Scott",
+      "time": "003:01:53"
+    },
+    {
+      "tokens": [
+        "Come on, baby."
+      ],
+      "speaker": "McDivitt",
+      "time": "003:02:00"
+    },
+    {
+      "tokens": [
+        "We're coming."
+      ],
+      "speaker": "Scott",
+      "time": "003:02:02"
+    },
+    {
+      "tokens": [
+        "How about that!",
+        "We got two of them.",
+        "And we got a master alarm --"
+      ],
+      "speaker": "Schweickart",
+      "time": "003:02:03"
+    },
+    {
+      "tokens": [
+        "For no apparent reason."
+      ],
+      "speaker": "Unknown",
+      "time": "003:02:06"
+    },
+    {
+      "tokens": [
+        "Alright, Houston; we're hard docked."
+      ],
+      "speaker": "Scott",
+      "time": "003:02:07"
+    },
+    {
+      "tokens": [
+        "Roger, Apollo 9.",
+        "Understand hard dock.",
+        "Good show!"
+      ],
+      "speaker": "Roosa",
+      "time": "003:02:10"
+    },
+    {
+      "tokens": [
+        "You know what I think it was?"
+      ],
+      "speaker": "Scott",
+      "time": "003:02:19"
+    },
+    {
+      "tokens": [
+        "What?"
+      ],
+      "speaker": "McDivitt",
+      "time": "003:02:20"
+    },
+    {
+      "tokens": [
+        "Probably a static discharge, because there was nothing on the caution and warning panel."
+      ],
+      "speaker": "Scott",
+      "time": "003:02:21"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "McDivitt",
+      "time": "003:02:24"
+    },
+    {
+      "tokens": [
+        "Yes, that - Remember the old Agena?"
+      ],
+      "speaker": "Scott",
+      "time": "003:02:25"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "McDivitt",
+      "time": "003:02:26"
+    },
+    {
+      "tokens": [
+        "Hello, Houston, Apollo 9.",
+        "We had a Master Alarm when we did the docking when we made the contact there, And we had some problems with our RCS thrusters we'll tell you about later."
+      ],
+      "speaker": "McDivitt",
+      "time": "003:02:27"
+    },
+    {
+      "tokens": [
+        "Apollo 9, this is Houston.",
+        "Understand you got a Master Alarm just as you docked, and I didn't copy about the RCS."
+      ],
+      "speaker": "Roosa",
+      "time": "003:02:40"
+    },
+    {
+      "tokens": [
+        "We'll tell it to you later, just a minute."
+      ],
+      "speaker": "McDivitt",
+      "time": "003:02:46"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Roosa",
+      "time": "003:02:47"
+    },
+    {
+      "tokens": [
+        "Apollo - Houston, Apollo 9."
+      ],
+      "speaker": "Scott",
+      "time": "003:04:30"
+    },
+    {
+      "tokens": [
+        "Go, Apollo 9."
+      ],
+      "speaker": "Roosa",
+      "time": "003:04:31"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We'll give you a quick rundown here.",
+        "How much time do we have with you?"
+      ],
+      "speaker": "Scott",
+      "time": "003:04:33"
+    },
+    {
+      "tokens": [
+        "We've got you for a long time here.",
+        "We're coming across the States here - just over California now."
+      ],
+      "speaker": "Roosa",
+      "time": "003:04:36"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I've got it.",
+        "We came out just right.",
+        "The angles were all just right.",
+        "We got turned off, turned around, and lined up, and didn't have any left translation for some reason."
+      ],
+      "speaker": "Scott",
+      "time": "003:04:43"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy, No left translation."
+      ],
+      "speaker": "Roosa",
+      "time": "003:05:00"
+    },
+    {
+      "tokens": [
+        "Houston, check quad A service module RCS for us."
+      ],
+      "speaker": "McDivitt",
+      "time": "003:05:06"
+    },
+    {
+      "tokens": [
+        "Stand by a second, Apollo 9."
+      ],
+      "speaker": "Roosa",
+      "time": "003:05:18"
+    },
+    {
+      "tokens": [
+        "Apollo 9, this is Houston.",
+        "It looks okay to us.",
+        "Do you have a question?"
+      ],
+      "speaker": "Roosa",
+      "time": "003:05:24"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We just had a light on it, and it's difficult to tell with the helmets on whether we have any adjustment on it or not.",
+        "Didn't see any motion - just wanted you to check."
+      ],
+      "speaker": "McDivitt",
+      "time": "003:05:29"
+    },
+    {
+      "tokens": [
+        "Roger, Apollo 9.",
+        "Copy."
+      ],
+      "speaker": "Roosa",
+      "time": "003:05:38"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The pressures all look good up here."
+      ],
+      "speaker": "McDivitt",
+      "time": "003:05:43"
+    },
+    {
+      "tokens": [
+        "Houston, our package temp on the quad A is running about 200.",
+        "What do you have down there?"
+      ],
+      "speaker": "Scott",
+      "time": "003:06:06"
+    },
+    {
+      "tokens": [
+        "Stand by, Apollo 9, and let's check it."
+      ],
+      "speaker": "Roosa",
+      "time": "003:06:10"
+    },
+    {
+      "tokens": [
+        "Houston, 9.",
+        "Do you want to go on with the recap?"
+      ],
+      "speaker": "McDivitt",
+      "time": "003:07:02"
+    },
+    {
+      "tokens": [
+        "That's affirmative, Apollo 9.",
+        "Let's press ahead, and your comm sort of cycles in and out.",
+        "You are a little weak at times.",
+        "We do confirm the temperature here however, and we will have some more words on that in a minute.",
+        "And we are standing by for the rest of your recap."
+      ],
+      "speaker": "Roosa",
+      "time": "003:07:06"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "When we got off, we were in pretty good shape and then for some reason we noticed that we didn't have any left translation and tried to figure out why.",
+        "Finally noticed that the primary quad C and secondary quad C isolation valves were closed, and the secondary Dog was closed, and by this time we had moved over somewhat to the side.",
+        "It took us a while to get back after we got that sorted out and probably used up quite a bit of gas getting us squared away, but the docking was smooth.",
+        "The capture latches worked just right, there were no oscillations after we captured.",
+        "We lined it up and did the retract, and it took about 10 seconds, and it sounded like we got a good solid lock."
+      ],
+      "speaker": "Scott",
+      "time": "003:07:27"
+    },
+    {
+      "tokens": [
+        "Roger, Apollo 9.",
+        "Copied all that real good."
+      ],
+      "speaker": "Roosa",
+      "time": "003:08:21"
+    },
+    {
+      "tokens": [
+        "And, Apollo 9, this is Houston.",
+        "We will have another state vector for you over Bermuda."
+      ],
+      "speaker": "Roosa",
+      "time": "003:10:08"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Scott",
+      "time": "003:10:13"
+    },
+    {
+      "tokens": [
+        "And you should be coming just about overhead, Apollo 9.",
+        "You ought to be over Texas."
+      ],
+      "speaker": "Roosa",
+      "time": "003:10:23"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Comm break.]"
+      ],
+      "speaker": "Scott",
+      "time": "003:10:30"
+    }
+  ],
+  "source_file": "orbit2_transposition_and_docking.html"
+}

@@ -1,0 +1,2836 @@
+{
+  "description": "Apollo 13 Flight Journal - Day 4, part 5: Checking Odyssey",
+  "transcript": [
+    {
+      "tokens": [
+        "Almost five days into the mission, the crew of the stricken Apollo 13 spacecraft has been relatively busy for the past 15 hours or so.",
+        "They have performed the PC+2 burn to cut 10 hours off their return time, powered down the LM, fashioned an adapter for the carbon dioxide scrubbers and received instructions on how to configure the Command ModuleOdysseyinto a state from which a startup may be enacted once the time comes for reentry into Earth's atmosphere.",
+        "For now, the crew is simply hanging on, saving water and electricity and hoping that nothing else will fail on board their spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This onboard film capture shows Jack Swigert at the Commander's station in theAquarius.",
+        "Above him is the docking window.",
+        "The somewhat messy-looking white arrangement behind him towards the back of the cabin is the LM storage shelf."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Jack.",
+        "That completes that procedure, and the next thing I've got for you is a procedure for going back into the Command Module and powering up the main buses temporarily using the Bus Tie switches.",
+        "We want to do this for two reasons: first of all, we want it absolutely verified that there are no loads on the main buses, that we've got: everything off and that the buses look good; and the second thing we want to do is to power the bus - the main buses, with the Bus Tie motor switches, and then depower them by pulling the circuit breakers, leaving the Main Bus Tie switches in the On position, just to assure that they'll be there when we need them, whether the batteries get cold or not.",
+        "Over."
+      ],
+      "speaker": "Kerwin",
+      "time": "0940016"
+    },
+    {
+      "tokens": [
+        "[garble] [Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0940111"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "How you read?"
+      ],
+      "speaker": "Swigert",
+      "time": "0940133"
+    },
+    {
+      "tokens": [
+        "Better now, Jack.",
+        "Satisfactory.",
+        "Did you copy my rationale for the main bus powerup?"
+      ],
+      "speaker": "Kerwin",
+      "time": "0940136"
+    },
+    {
+      "tokens": [
+        "Yes, I did.",
+        "You want to remove - You want to power up both buses, with the Bus Tie motor switches; first of all, to see that there are no loads on the buses, and second, and then depower the buses by pulling the circuit breakers to insure that the motor switches don't - that the Bus Ties stay on so that they're there when we need them."
+      ],
+      "speaker": "Swigert",
+      "time": "0940145"
+    },
+    {
+      "tokens": [
+        "Mission Control's plan is to get some battery power onto the Command Module DC buses.",
+        "This is done to make sure that everything is powered down, and will not disturb the system once they begin to power up again.",
+        "Another concern are the motor switches, which are remote electric switches controlled with circuit breakers and On/Off switches on the Main Display Console.",
+        "There is some concern that the mechanical switches might be freezing due to the dropping temperatures."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Battery power is stored in three entry and postlanding batteries in the Command Module.",
+        "There are two Battery Buses, and each can be powered by connecting the batteries to them.",
+        "The worrisome motor switches are used to connect the Battery Buses into the Main DC Buses."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's correct, Jack.",
+        "Are you ready to copy the procedure?"
+      ],
+      "speaker": "Kerwin",
+      "time": "0940209"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0940215"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "As the first step, I have one change to the basic configuration that we gave you, and it's two more circuit breakers that we want open.",
+        "On panel 225 - Are you ready to write that down?",
+        "Over."
+      ],
+      "speaker": "Kerwin",
+      "time": "0940216"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "I'm all ready, Joe.",
+        "Go ahead.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0940235"
+    },
+    {
+      "tokens": [
+        "Joe, I'm all ready.",
+        "Go ahead."
+      ],
+      "speaker": "Swigert",
+      "time": "0940248"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On panel 225, we want the Rendezvous Transponder Flight Bus circuit breaker open, and the S-Band FM Transmitter/DSE Flight Bus circuit breaker open.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0940250"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "TV Rendezvous Transponder Flight Bus, open; TV S-Band Transmitter/DSE Flight Bus open on panel 225."
+      ],
+      "speaker": "Swigert",
+      "time": "0940324"
+    },
+    {
+      "tokens": [
+        "They do not need the transponder nor the data transmitter unit powered, hence the circuit breakers are pulled."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "A complete checklist of the procedure read up to the crew now is found in the Flight Operations Report and reproduced below:"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's correct, Jack.",
+        "And now we'll go into the main bus power up procedure.",
+        "And the first step there, is on panel 5.",
+        "We want the Bat Charger Bat A Charge circuit breaker closed, and the Bat Charger Bat B Charge circuit breaker closed.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0940335"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's Bat Charger Bat A Charge, Bat Charger Bat B Charge, both closed on panel 5."
+      ],
+      "speaker": "Swigert",
+      "time": "0940415"
+    },
+    {
+      "tokens": [
+        "These circuit breakers apply power to the Battery Buses A and B, allowing their voltages to be checked from the displays on the MDC, as well as enabling the battery charger to charge these batteries, when used."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "We need them closed to power the switches.",
+        "Next on panel 5, we want the EPS Sensor Signal Main A and Main B circuit breakers closed.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0940425"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Panel 5, CB EPS sensor's signals Main A and Main B closed."
+      ],
+      "speaker": "Swigert",
+      "time": "0940452"
+    },
+    {
+      "tokens": [
+        "These circuit breakers enable the voltage on the Main Buses to be displayed on the onboard instrumentation as well as the telemetry."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's affirmative.",
+        "We need them closed so that you can read out your volts and amps.",
+        "Next step, on panel 250, we want circuit breaker Bat A Power Entry and Postlanding and Bat B Power Entry and Postlanding, closed.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0940500"
+    },
+    {
+      "tokens": [
+        "Okay on panel 250, CB Bat A Power, Entry and Postlanding, closed; Bat B Power Entry and Postlanding, closed."
+      ],
+      "speaker": "Swigert",
+      "time": "0940535"
+    },
+    {
+      "tokens": [
+        "These circuit breakers connect Battery A and Battery B to their respective battery buses.",
+        "These will be required to get the battery power into the Main Buses later."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "And at that point, we'd like you to check the Bat bus voltages on both Bat buses to make sure we don't have any shorts.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0940550"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Read the Bat bus voltages on Bat Bus A and Bat Bus B."
+      ],
+      "speaker": "Swigert",
+      "time": "0940609"
+    },
+    {
+      "tokens": [
+        "The next step is for Jack to use the rotating switch on Panel 3 to select the two Battery Buses, A and B, for readout on the voltage gauge."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "The next step on panel 275: circuit breaker Main A, Bat Bus A, closed, and circuit breaker Main B, Bat Bus B, closed.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0940613"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On 275, circuit breakers Main A, Bat Bus A, closed; Main B, Bat Bus B, closed."
+      ],
+      "speaker": "Swigert",
+      "time": "0940644"
+    },
+    {
+      "tokens": [
+        "The two breakers closed in this step apply Battery Bus power to the DC Main Buses A and B, through the 80 amp breakers."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's affirmative.",
+        "The next step on panel 5: we want the Main Bus Tie A/C switch to the Bat A/C position, and verify proper voltage on Main Bus A, and read the amps on Bat A to make sure we don't have a short.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0940656"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[garble] [Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0940629"
+    },
+    {
+      "tokens": [
+        "This step begins the primary part of the whole procedure, which is to ensure that the battery bus tie motor switches are functioning.",
+        "By using the Main Bus Tie switch on the console, they operate the motor switch that connects the Battery Bus to the Main Bus.",
+        "Afterwards, Jack will check the voltages and the battery amperes from the Panel 3 displays he used earlier to check the Battery Bus voltage."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Jack, Houston.",
+        "We're in bad comm again; let's wait a minute.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0940746"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "How do you read?"
+      ],
+      "speaker": "Swigert",
+      "time": "0940803"
+    },
+    {
+      "tokens": [
+        "That's better, Jack.",
+        "Go ahead with your readback."
+      ],
+      "speaker": "Kerwin",
+      "time": "0940804"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Place Main Bus Tie A/C, on, read Main Bus A current and voltage."
+      ],
+      "speaker": "Swigert",
+      "time": "0940810"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's affirmative.",
+        "The next step will be the Main Bus Tie B/C switch to the On position and read Main B voltage and battery B amperage as above.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0940819"
+    },
+    {
+      "tokens": [
+        "Okay, Main Bus Tie B/C on; read Main B voltage and current."
+      ],
+      "speaker": "Swigert",
+      "time": "0940849"
+    },
+    {
+      "tokens": [
+        "This step is similar to the previous one, but this time they are connecting Battery Bus B to the DC Main Bus B and checking that the motor switch works on that part of the power distribution system as well."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That is correct.",
+        "Then to reconfigure from this configuration, Jack, we want you to leave the Main Bus Tie switches in the On position and pull the circuit breakers out in reverse order that we had you close them.",
+        "Over; and do you want me to read them up individually?"
+      ],
+      "speaker": "Kerwin",
+      "time": "0940855"
+    },
+    {
+      "tokens": [
+        "The last step leaves the motor switches engaged, in the hope of preventing any future troubles with them should the low temperature cause them to get stuck in either open or closed position.",
+        "They can use the circuit breakers to continue to provide protection to the EPS and to serve as the On/Off switches for the time."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "No, let me see if I've got it here.",
+        "I go down to panel 275, open CB Main A, Bat Bus A and CB Main B, Bat Bus B.",
+        "Then I go down to 250, and pull CB Bat A Power Entry/Postlanding and Bat B Power Entry/Postlanding and then up on panel 5, pull EPS Sensor Signal Main A, Sensor Signal Main B, Battery Charger Bat B Charge, Battery Charger Bat A Charge.",
+        "And then close - I don't know whether you want me to close the Rendezvous Radar Transponder Flight Bus and S-Band Transmitter/DSE Flight Bus."
+      ],
+      "speaker": "Swigert",
+      "time": "0940917"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "We don't want you to close those last two.",
+        "Those are changes to your basic configuration, and we want to leave them open for now.",
+        "Over."
+      ],
+      "speaker": "Kerwin",
+      "time": "0941003"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll do that.",
+        "Was the rest of the readback okay?"
+      ],
+      "speaker": "Swigert",
+      "time": "0941015"
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "Readback was 100 per cent, and we'll wait to hear from you.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0941017"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "And just for confirmation, I went through the switch list you gave me.",
+        "We are in exactly that configuration with one exception, and that is over on panel 382.",
+        "I have not, the a - H2O Accumulator is in the Off position so that if we need any more water, we can get it."
+      ],
+      "speaker": "Swigert",
+      "time": "0941032"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Roger, Jack.",
+        "Copy that.",
+        "On panel 382, you've left the H2O Accumulator valves in the Off position, and we concur."
+      ],
+      "speaker": "Kerwin",
+      "time": "0941105"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And there's one other thing that I don't know whether you're aware of.",
+        "We have no lithium hydroxide canisters in panel two fif - in - canisters now.",
+        "So when we get ready to power up, you'll have to remind us when you want us to add some."
+      ],
+      "speaker": "Swigert",
+      "time": "0941116"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "We copy that.",
+        "That's correct, and I'll add that to our basic checklist so that we won't forget it."
+      ],
+      "speaker": "Kerwin",
+      "time": "0941138"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Real fine, Joe, and I'm on my way back into the Command Module."
+      ],
+      "speaker": "Swigert",
+      "time": "0941147"
+    },
+    {
+      "tokens": [
+        "Good deal."
+      ],
+      "speaker": "Kerwin",
+      "time": "0941151"
+    },
+    {
+      "tokens": [
+        "Thank you.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0941153"
+    },
+    {
+      "tokens": [
+        "Jack heads up the tunnel into the Command Module.",
+        "In its unpowered stage, it was mostly dark, with the sunlight coming through the windows providing illumination only when the positioning was right to do so.",
+        "The picture shows the sizeable docking hatch to the left and the shiny shape of the docking probe to the right, stowed in the Command Module to be out of the way of the crew in the LM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "How do you read, Joe?",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0941204"
+    },
+    {
+      "tokens": [
+        "And, Joe, how do you read Aquarius?"
+      ],
+      "speaker": "Haise",
+      "time": "0941219"
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "Pretty good.",
+        "Go ahead."
+      ],
+      "speaker": "Kerwin",
+      "time": "0941223"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm back on the line now, but Jack really [Garble], headed back to the upstairs bedroom."
+      ],
+      "speaker": "Haise",
+      "time": "0941229"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Roger that, Fred.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0941239"
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "Over."
+      ],
+      "speaker": "Kerwin",
+      "time": "0941301"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Haise",
+      "time": "0941306"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "We recommend that you push your Master Alarm circuit breaker in so you'll have audio and visual on that, and, also, we medical types are getting to feel left out down here, and we'd like you to give us BIOMED [garble] position, if you're plugged in for it, and we'll see whether it affects the voice or not.",
+        "Over."
+      ],
+      "speaker": "Kerwin",
+      "time": "0941307"
+    },
+    {
+      "tokens": [
+        "They want to see if the biomedical system can be used to transmit medical telemetry without interfering with the voice comms."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0941336"
+    },
+    {
+      "tokens": [
+        "Hey, Houston; Aquarius.",
+        "On Down Voice Backup S-band, how do you read me?"
+      ],
+      "speaker": "Haise",
+      "time": "0941422"
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "Read you now satisfactory."
+      ],
+      "speaker": "Kerwin",
+      "time": "0941428"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And that's my [Garble]"
+      ],
+      "speaker": "Haise",
+      "time": "0941436"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you very much, Fred."
+      ],
+      "speaker": "Kerwin",
+      "time": "0941439"
+    },
+    {
+      "tokens": [
+        "Actually, a good deal of that little power pack heats up and [Garble]"
+      ],
+      "speaker": "Haise",
+      "time": "0941446"
+    },
+    {
+      "tokens": [
+        "Fred sounds pleased that the signal conditioner on his biomedical harness is warming up once they switched it on."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger that."
+      ],
+      "speaker": "Kerwin",
+      "time": "0941453"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Aquarius."
+      ],
+      "speaker": "Haise",
+      "time": "0941911"
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Kerwin",
+      "time": "0941914"
+    },
+    {
+      "tokens": [
+        "Okay, Jack just [garble] himself back down.",
+        "And after he put on the 250 Bat A, Bat B breakers, he read Bat bus volts as 32.3 on A, 37.0 on B; he then punched in the 275 breakers, which tied the batteries to the buses, and at that time he read the A bus volts 32.0 on A, zero amps; 37.0 on B, zero amps."
+      ],
+      "speaker": "Haise",
+      "time": "0941918"
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "The comm got noisy there, and I want to make sure we get these numbers right, so I'd like to ask you to repeat them [garble] [Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0941959"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "How do you read now, Joe?"
+      ],
+      "speaker": "Haise",
+      "time": "0942100"
+    },
+    {
+      "tokens": [
+        "Okay; probably okay, Fred.",
+        "Read it nice and slow so we'll be sure to get it.",
+        "Over."
+      ],
+      "speaker": "Kerwin",
+      "time": "0942101"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Jack pushed in the 250 Bat A, Bat B entry breakers.",
+        "He read battery bus volts as 32.3 on A, 37.0 on B.",
+        "Then he pushed in the 275 breakers tying the BATs to the main buses.",
+        "In this configuration, Main A is at 32.0 volts, zero amps; Main B is at 37.0 volts, zero amps.",
+        "So it looks like the buses are okay."
+      ],
+      "speaker": "Haise",
+      "time": "0942110"
+    },
+    {
+      "tokens": [
+        "The procedure has proven that all the DC systems have a proper voltage on them.",
+        "Zero amps means that there is presently no current flowing through the system - nothing is drawing electric power from the batteries, hence the amperage is zero."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "Copy those numbers and thank you very much.",
+        "I assume you got them off all right.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0942147"
+    },
+    {
+      "tokens": [
+        "That's affirm.",
+        "We got all the breakers pulled again."
+      ],
+      "speaker": "Haise",
+      "time": "0942200"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Real fine."
+      ],
+      "speaker": "Kerwin",
+      "time": "0942203"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Houston; Aquarius.",
+        "How do you read?"
+      ],
+      "speaker": "Haise",
+      "time": "0943233"
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Kerwin",
+      "time": "0943238"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "How did our [garble] configurations appear to be working down there?"
+      ],
+      "speaker": "Haise",
+      "time": "0943243"
+    },
+    {
+      "tokens": [
+        "I'm sorry, Fred, but we got noisy again there.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0943254"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let me know when you want me to try it."
+      ],
+      "speaker": "Haise",
+      "time": "0943302"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That sounds better already.",
+        "Go ahead."
+      ],
+      "speaker": "Kerwin",
+      "time": "0943305"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'd just like to [garble] how's - how's our lith-o cartridge setup [garble] appear to be working down there."
+      ],
+      "speaker": "Haise",
+      "time": "0943311"
+    },
+    {
+      "tokens": [
+        "We are reading 0.2 on our CO2sets here, and we're all delighted.",
+        "It seems to be working fine."
+      ],
+      "speaker": "Kerwin",
+      "time": "0943321"
+    },
+    {
+      "tokens": [
+        "Boy, that is great.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0943331"
+    },
+    {
+      "tokens": [
+        "And Fred, Houston.",
+        "In a little while here, I'm going to have a procedure that I want to read up to you and have you copy down for future use.",
+        "It's a procedure for powering the Command Module main bus off the LM, and it's something that we feel that's going to come in real handy later on for such things as topping off the Command Module entry batteries, and also possibly for doing some preheating and preliminary powering up of the Command Module before we get rid of the LM.",
+        "We'll have that for you in probably 10 or 15 minutes.",
+        "Over."
+      ],
+      "speaker": "Kerwin",
+      "time": "0943340"
+    },
+    {
+      "tokens": [
+        "Okay, okay, Joe.",
+        "That's good.",
+        "Sounds good."
+      ],
+      "speaker": "Haise",
+      "time": "0943425"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Kerwin",
+      "time": "0943431"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston."
+      ],
+      "speaker": "Kerwin",
+      "time": "0943611"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Haise",
+      "time": "0943616"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "Our procedure-generating mill has generated another very short one for you here.",
+        "It's a procedure for getting an onboard read-out ..."
+      ],
+      "speaker": "Kerwin",
+      "time": "0943618"
+    },
+    {
+      "tokens": [
+        "Stand by 1, Joe."
+      ],
+      "speaker": "Haise",
+      "time": "0943627"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0943638"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "Go ahead."
+      ],
+      "speaker": "Haise",
+      "time": "0943702"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "This is a procedure for getting a read-out of the descent propellant tank temps.",
+        "It's no big problem, but our LM people say that the bottom of the descent stage is probably cooling off, and we just want to verify that the descent water tank will be okay.",
+        "Right now, it looks as though it won't freeze until several hours after it's empty, but we want to have you read these temperatures out to us so we can see how good our predictions are.",
+        "The procedure is, on panel 16, close the Propellant Display/Engine Override Logic circuit breaker.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0943705"
+    },
+    {
+      "tokens": [
+        "Mission Control is concerned that the primary water tank located in the Descent Stage could be dropping in temperature, potentially posing a risk of freezing while the spacecraft cools down.",
+        "Losing the descent stage water would force them to rely on the much smaller supply in the Ascent Stage and potentially run out of cooling water.",
+        "The water tank does not have a temperature sensor, hence the crew and Mission Control will check the propellant tank temperatures to get an idea of the state of the Descent Stage."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The Propellant Display Override circuit breakers are closed.",
+        "[garble] the propellant.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0943812"
+    },
+    {
+      "tokens": [
+        "Right, Fred.",
+        "The next step is simply to turn the Propellant Temp Press Monitor switch to Descent 1, read the fuel and Ox temps, turn it to Descent 2, read the fuel and Ox temps; tell us what they are.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0943821"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On Descent 1, I get a fuel temp of 66.5 degrees, Ox [garble] on Descent 2, I get [garble] [Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0943844"
+    },
+    {
+      "tokens": [
+        "The tank temperature procedure simply involves powering the display and then reading the details up from the displays on the LM console.",
+        "66.5°F is 19.1°C."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "We're in noisy comm here; I got Descent 1 fuel 66.5; stand by a second.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0943905"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "How do you read, now [Garble]?"
+      ],
+      "speaker": "Haise",
+      "time": "0943935"
+    },
+    {
+      "tokens": [
+        "That's better.",
+        "Go ahead."
+      ],
+      "speaker": "Kerwin",
+      "time": "0943937"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You got 66.5 on Descent 1 fuel temp, oxidizer temp is 66 degrees."
+      ],
+      "speaker": "Haise",
+      "time": "0943947"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copy ..."
+      ],
+      "speaker": "Kerwin",
+      "time": "0943953"
+    },
+    {
+      "tokens": [
+        "On Descent TANK 2, fuel is reading 60 - Okay.",
+        "Descent 2 fuel is reading 68 degrees; oxidizer, 65 degrees."
+      ],
+      "speaker": "Haise",
+      "time": "0943954"
+    },
+    {
+      "tokens": [
+        "The fuel temperature is 20°C, the oxidizer temperature 18.3°C."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copy that, Fred.",
+        "Thank you.",
+        "We'd like you to pull the circuit breaker, and we'll probably come to you again in 5 or 6 hours for another check."
+      ],
+      "speaker": "Kerwin",
+      "time": "0944003"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The panel 16 [garble] [garble] Engine [garble] Override is open."
+      ],
+      "speaker": "Haise",
+      "time": "0944014"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Kerwin",
+      "time": "0944019"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This in-mission photograph shows the displays powered off.",
+        "Several warning lights are illuminated on the top of the console.",
+        "Notice the sticky tape around the 8-ball indicator - they worked as quick references to help the crew figure out how to fly the awkward machine that was the docked CSM-LM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 94 hours, 41 minutes Ground Elapsed Time.",
+        "Position and velocity now showing 178,274 nautical miles [330,163 km] out from Earth.",
+        "Velocity, 3,982 feet per second [1,214 m/s].",
+        "Spacecraft weight still hovering around 87,942 pounds [39,890 kg].",
+        "94 hours, 42 minutes Ground Elapsed Time and standing by; this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0944628"
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "Over."
+      ],
+      "speaker": "Kerwin",
+      "time": "0944659"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Haise",
+      "time": "0944705"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're chasing a small glitch that we saw a while ago in the O2flow rate which is now normal again, but what we'd like you to do is, first of all, to tell us whether, during that canister procedure, you moved O2Demand Reg A to any position other than Cabin, and then we'd like you to move it to Off momentarily and back to Cabin for us.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0944710"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "To answer your question, Joe, it's no.",
+        "I checked the Cabin all the time.",
+        "Qualitatively, when we switched to this configuration, it didn't seem like the frequency or the suit fan noise [garble] decreased [garble] logged down a little bit, but I'll follow your procedure.",
+        "You want me to take Reg A, go to close and back to Cabin; is that correct?"
+      ],
+      "speaker": "Haise",
+      "time": "0944739"
+    },
+    {
+      "tokens": [
+        "That's correct, Fred."
+      ],
+      "speaker": "Kerwin",
+      "time": "0944810"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're in close."
+      ],
+      "speaker": "Haise",
+      "time": "0944815"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Kerwin",
+      "time": "0944818"
+    },
+    {
+      "tokens": [
+        "Now, I'm back to Cabin."
+      ],
+      "speaker": "Haise",
+      "time": "0944822"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you very much, Fred.",
+        "I'll get back to you if we see anything."
+      ],
+      "speaker": "Kerwin",
+      "time": "0944824"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The microphone has caught a brief snippet of the LM's namesake song being played onboard."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[garble] Thank you."
+      ],
+      "speaker": "Haise",
+      "time": "0945042"
+    },
+    {
+      "tokens": [
+        "Hey, have you guys got a woman on board?",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0945047"
+    },
+    {
+      "tokens": [
+        "No way I could handle that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0945057"
+    },
+    {
+      "tokens": [
+        "And, Joe, do you have the [garble] out for the [Garble]?"
+      ],
+      "speaker": "Haise",
+      "time": "0945130"
+    },
+    {
+      "tokens": [
+        "I'm not sure I copied that, Fred.",
+        "If you asked me whether I had that powerup procedure, I don't have it for you, yet.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0945139"
+    },
+    {
+      "tokens": [
+        "No.",
+        "The question was, do you have a [garble] from the Moon burn."
+      ],
+      "speaker": "Haise",
+      "time": "0945154"
+    },
+    {
+      "tokens": [
+        "Still didn't understand, Fred.",
+        "I'm sorry."
+      ],
+      "speaker": "Kerwin",
+      "time": "0945204"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll be able to get better comm."
+      ],
+      "speaker": "Haise",
+      "time": "0945208"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0945209"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0945300"
+    },
+    {
+      "tokens": [
+        "Fred, Houston.",
+        "You want to try it, now?",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0945355"
+    },
+    {
+      "tokens": [
+        "How do you read, Houston?"
+      ],
+      "speaker": "Haise",
+      "time": "0945512"
+    },
+    {
+      "tokens": [
+        "That's pretty good, Fred."
+      ],
+      "speaker": "Kerwin",
+      "time": "0945414"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Two things: first of all, we noticed a [Garble]"
+      ],
+      "speaker": "Haise",
+      "time": "0945419"
+    },
+    {
+      "tokens": [
+        "Gol darn it.",
+        "Just as you started talking, it got noisy again, Fred; try it again."
+      ],
+      "speaker": "Kerwin",
+      "time": "0945430"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0945437"
+    },
+    {
+      "tokens": [
+        "Try it now, loud and slow."
+      ],
+      "speaker": "Kerwin",
+      "time": "0945445"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Jack had a question on how far out from the Moon are we now?",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0945451"
+    },
+    {
+      "tokens": [
+        "On how far out what?"
+      ],
+      "speaker": "Kerwin",
+      "time": "0945504"
+    },
+    {
+      "tokens": [
+        "From the Moon we are now?"
+      ],
+      "speaker": "Haise",
+      "time": "0945508"
+    },
+    {
+      "tokens": [
+        "Oh.",
+        "Our little plot shows you just touching the 180-thousand-mile line.",
+        "So you're about 40 K out from the Moon."
+      ],
+      "speaker": "Kerwin",
+      "time": "0945510"
+    },
+    {
+      "tokens": [
+        "That translates to 74,000 kilometers away from the Moon."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Okay.",
+        "And the other thing is, we've noticed some fresh new particles floating around outside, so possibly the Service Module is starting to vent a little bit again."
+      ],
+      "speaker": "Haise",
+      "time": "0945520"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copy that, Fred.",
+        "On the O2flow thing, we clearly saw the Demand Regulator go to Off and back to Cabin.",
+        "TELMU thinks that it's no big thing that you've seen a little change in flow due to the different resistance we've got in the circuit."
+      ],
+      "speaker": "Kerwin",
+      "time": "0945539"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0945601"
+    },
+    {
+      "tokens": [
+        "Their makeshift adapter arrangement is altering the flow of air in the LM's ECS system and hence the sensors that monitor the state of the life support system are apparently giving some odd readings every now and then.",
+        "Their other theory is evidently that the crew might be fiddling with the controls, or accidentally bump at them while moving inside the spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston."
+      ],
+      "speaker": "Kerwin",
+      "time": "0945628"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Haise",
+      "time": "0945633"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "Recommend you go to Off on the Biomed switch.",
+        "We never did get any Biomed and it might clear up the comm a little bit.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0945635"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "How you read now?"
+      ],
+      "speaker": "Haise",
+      "time": "0945649"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "That might be a little better.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0945652"
+    },
+    {
+      "tokens": [
+        "We're on the 180 - K line, right now."
+      ],
+      "speaker": "Haise",
+      "time": "0945741"
+    },
+    {
+      "tokens": [
+        "From Earth."
+      ],
+      "speaker": "Haise",
+      "time": "0945744"
+    },
+    {
+      "tokens": [
+        "We're about 40 050.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0945747"
+    },
+    {
+      "tokens": [
+        "[garble] It's 550 over there."
+      ],
+      "speaker": "Swigert",
+      "time": "0945804"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "It's [garble] there."
+      ],
+      "speaker": "Haise",
+      "time": "0945811"
+    },
+    {
+      "tokens": [
+        "Just split the difference."
+      ],
+      "speaker": "Swigert",
+      "time": "0945816"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Lovell",
+      "time": "0945819"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I got a copy of the [garble] K [Garble]"
+      ],
+      "speaker": "Haise",
+      "time": "0945821"
+    },
+    {
+      "tokens": [
+        "Is that right?"
+      ],
+      "speaker": "Swigert",
+      "time": "0945825"
+    },
+    {
+      "tokens": [
+        "EECOM.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0945826"
+    },
+    {
+      "tokens": [
+        "That midcourse should be interesting.",
+        "You know, the mode we're going to do it in."
+      ],
+      "speaker": "Swigert",
+      "time": "0945835"
+    },
+    {
+      "tokens": [
+        "Manual AGS [garble] DPS burn.",
+        "We're controlling [garble] TTCA attitude.",
+        "[Garble]"
+      ],
+      "speaker": "Haise",
+      "time": "0945842"
+    },
+    {
+      "tokens": [
+        "It appears that Fred and Jack are gossiping about the upcoming manual burn without the intention of having Mission Control listen in."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[garble] down under [Garble]"
+      ],
+      "speaker": "Swigert",
+      "time": "0945849"
+    },
+    {
+      "tokens": [
+        "Fortunately."
+      ],
+      "speaker": "Haise",
+      "time": "0945852"
+    },
+    {
+      "tokens": [
+        "We can't help them too much.",
+        "Actually it isn't bad [garble] but [garble] [garble] goddamned unfortunate.",
+        "In part, I get a feeling [garble] now when I get [garble] Just before [garble] goes to zero in 1 second I'm going to pull them out [Garble]"
+      ],
+      "speaker": "Swigert",
+      "time": "0945854"
+    },
+    {
+      "tokens": [
+        "Another burn that's never been done.",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0945935"
+    },
+    {
+      "tokens": [
+        "Go to the - Go to the technique for a lash and [garble] it's the burn technique.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0945943"
+    },
+    {
+      "tokens": [
+        "I'm sure they got something written out, maybe [Garble]"
+      ],
+      "speaker": "Haise",
+      "time": "0950002"
+    },
+    {
+      "tokens": [
+        "A what?"
+      ],
+      "speaker": "Swigert",
+      "time": "0950009"
+    },
+    {
+      "tokens": [
+        "Well, hell, Jack.",
+        "All you - you don't use a very good one [garble] Just if you'll go [garble] at your attitude reference for [garble] and the g-meter backup.",
+        "Because, really, you can almost [garble] The Command Module and your odds are 60 to 40 that you're going to hit Earth blunt-end first, without any reference."
+      ],
+      "speaker": "Haise",
+      "time": "0950013"
+    },
+    {
+      "tokens": [
+        "[garble] I didn't realize that.",
+        "That proves you've got a little bit above 50-percent odds that you're going to enter blunt end, and..."
+      ],
+      "speaker": "Swigert",
+      "time": "0950038"
+    },
+    {
+      "tokens": [
+        "We made an entry like that in Apollo 8 in a [garble] with Houston, ol' Buzz went and turned on the Command Module heaters and left them on.",
+        "The activators, they went, \"Shooo!\" both tanks; we had no gas.",
+        "Just had a real slow rate [garble] We actually went out in the console and started debriefing, but left it running and watched it; and the son of a bitch did a hop-skipout, a hopout, underneath [Garble], but not much, and then we did a long hop [garble] but - The second reentry, also, it did one [garble] both times.",
+        "It lucked out twice and made a real peculiar [garble] They went to zero g [Garble]"
+      ],
+      "speaker": "Haise",
+      "time": "0950049"
+    },
+    {
+      "tokens": [
+        "Fredâs first mission assignment was as Backup Lunar Module Pilot for Apollo 8 with Backup Commander Neil Armstrong and Backup Command Module Pilot Edwin 'Buzz' Aldrin.",
+        "They trained extensively for the mission that was eventually performed by the prime crew.",
+        "Fred was brought in due to the original Prime Crew member Michael Collins developing health problems, which prompted former backup CMP Jim Lovell to be reassigned to the Prime crew.",
+        "Armstrong, Aldrin and a recovered Collins would form the Apollo 11 crew while Fred was assigned to Apollo 13âs crew with Lovell and Ken Mattingly.",
+        "Lovell and Haise were backup crewmembers for Apollo 11, along with Lovell's Apollo 8 LMP Bill Anders.",
+        "Incidentally, Ken Mattingly supported Apollo 8 as a CapCom in Mission Control."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The gist of the conversation between the two men appears to be Fred assuring Jack that the Command Module is capable of making a safe reentry even without many of the more advanced systems and methods usually at their disposal."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "[Long pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0950145"
+    },
+    {
+      "tokens": [
+        "Yes, we did, Jack.",
+        "[Garble]."
+      ],
+      "speaker": "Haise",
+      "time": "0950201"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Garble] But we're in this wobble."
+      ],
+      "speaker": "Swigert",
+      "time": "0950336"
+    },
+    {
+      "tokens": [
+        "[Garble] pass [garble] then it'll come back down."
+      ],
+      "speaker": "Haise",
+      "time": "0950340"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hey, Houston; Aquarius.",
+        "How do you read me?"
+      ],
+      "speaker": "Haise",
+      "time": "0940602"
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "Okay.",
+        "Go ahead."
+      ],
+      "speaker": "Kerwin",
+      "time": "0950604"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "It - Our wobble in this PTC has picked up where the Moon is running by pretty high in the window and the Earth pretty low; so I expect - On the side where the Moon's present, we're having a little bit of trouble with the comm [garble] breakout there in a couple of places."
+      ],
+      "speaker": "Haise",
+      "time": "0950611"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Roger that, Fred."
+      ],
+      "speaker": "Kerwin",
+      "time": "0950637"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[Garble] pressure gage as far as the noise [garble] get the thing from the AFT.",
+        "[garble] [Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0950833"
+    },
+    {
+      "tokens": [
+        "Houston, Aquarius."
+      ],
+      "speaker": "Swigert",
+      "time": "0950910"
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "Go."
+      ],
+      "speaker": "Kerwin",
+      "time": "0950913"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "I'm all set to copy that procedure for powering up the Command Module from the LM, whenever you want to give it to me.",
+        "When did you, I guess you want to put Battery A out of the Charge, huh?"
+      ],
+      "speaker": "Swigert",
+      "time": "0950920"
+    },
+    {
+      "tokens": [
+        "Jack, we're not certain when the best time is to implement this procedure, and what we want to do at this time is read it up to you, so you'll have it and understand it and we'll - We'll be able to do it quickly when the time comes.",
+        "And I don't have it for you quite yet.",
+        "Over."
+      ],
+      "speaker": "Kerwin",
+      "time": "0950932"
+    },
+    {
+      "tokens": [
+        "(Laughter) Okay.",
+        "All right.",
+        "I'll be standing by to copy it whenever you get it."
+      ],
+      "speaker": "Swigert",
+      "time": "0950956"
+    },
+    {
+      "tokens": [
+        "Okay, Jack."
+      ],
+      "speaker": "Kerwin",
+      "time": "0951003"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0951134"
+    },
+    {
+      "tokens": [
+        "Joe, I got to switch antennas here.",
+        "Okay, Joe.",
+        "I read you on the Forward antenna."
+      ],
+      "speaker": "Swigert",
+      "time": "0951142"
+    },
+    {
+      "tokens": [
+        "Okay, Jack, I have the procedure now to read up to you.",
+        "Before I do, I want to mention something that will be of interest to Fred.",
+        "We are looking at the SHe tank pressure rise and we expect it to blow.",
+        "We don't know exactly what time it will go, somewhere around 105 hours or perhaps later than that.",
+        "We've got plenty of blowdown capability.",
+        "We just thought you ought to be informed.",
+        "Over."
+      ],
+      "speaker": "Kerwin",
+      "time": "0951152"
+    },
+    {
+      "tokens": [
+        "The clock is ticking on the supercritical helium tank that gave the crew worries during the early part of the mission.",
+        "Mission Control has calculated the time when it will reach critical pressure for the tank to start venting via a component known as the burst disk.",
+        "The 'blowdown capacity' mentioned is the ability to fire the DPS engine solely using the helium pressure already in the system, without having the pressurization gas replenished from the tank.",
+        "This means that the loss of the SHe tank will not mean writing off the engine completely."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by.",
+        "I'll tell him, now."
+      ],
+      "speaker": "Swigert",
+      "time": "0951223"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Kerwin",
+      "time": "0951227"
+    },
+    {
+      "tokens": [
+        "Fred, they said they're looking at the SHe tank pressure rise, and they expect it to blow somewhere around 105 hours [garble] Okay.",
+        "Fred thought they did.",
+        "[Garble]"
+      ],
+      "speaker": "Swigert",
+      "time": "0951228"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Real fine.",
+        "Are you ready for the procedure, now, Jack?"
+      ],
+      "speaker": "Kerwin",
+      "time": "0951248"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "Joe, how long is it?",
+        "Is it a big long one, or a short one, or a medium sized [garble] about how many pages?"
+      ],
+      "speaker": "Swigert",
+      "time": "0951255"
+    },
+    {
+      "tokens": [
+        "It's about - I'd say 15 to 20 steps, Jack.",
+        "Some of it is LM stuff, and the rest of it is in CSM."
+      ],
+      "speaker": "Kerwin",
+      "time": "0951301"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I got a fresh page here, and I'm ready to copy."
+      ],
+      "speaker": "Swigert",
+      "time": "0951315"
+    },
+    {
+      "tokens": [
+        "Kerwin will now give Jack instructions on how to transfer LM battery power into the Command Module by reversing the current in the LM umbilicals normally used to power the LM's heaters during the translunar coast with power from the Command Module's fuel cells.",
+        "Although not originally meant for this purpose, the design of the system in both spacecraft was such that it allows for power to flow the other way around as well, from the LM batteries over to the Command Module's Main Bus B.",
+        "Such a power transfer has been at the core of LM lifeboat thinking, with the idea that the LM can supply Command Module's crucial navigation systems with power.",
+        "Although this is not the case now, some official written procedures for this have been around at least since Apollo 11, with procedures found from the Operations Handbook for the spacecraft.",
+        "This is the first practical implementation of such a procedure, however."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll give you the LM steps first.",
+        "They have to be done first, and the first step is on panels 11 and 16, circuit breakers Ascent ECA, ASC ECA, two to close.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0951318"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Panels 11 and 16 CBs Ascent ECA to closed."
+      ],
+      "speaker": "Swigert",
+      "time": "0951342"
+    },
+    {
+      "tokens": [
+        "This closes the circuit breakers that supplies power to the Ascent Stage Electrical Control Assemblies, or ECAs.",
+        "They are currently using the Descent Stage batteries and hence all the Ascent Stage power systems are switched off."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Next step: panels 11 and 16 CB Ascent ECA Control, two, to close.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0951350"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On 11 and 16 CBs Ascent ECA Controls to close."
+      ],
+      "speaker": "Swigert",
+      "time": "0951411"
+    },
+    {
+      "tokens": [
+        "These breakers supply power to contactors that switch the batteries on and off the ECA power feeds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's correct.",
+        "The next step is Bat 5 and 6 Normal Feed to high; those are switches.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0951419"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Bats 5 and 6 Normal Feed, On."
+      ],
+      "speaker": "Swigert",
+      "time": "0951441"
+    },
+    {
+      "tokens": [
+        "This gets the Ascent Stage batteries to normal power feeds.",
+        "Unlike the Descent Stage's batteries, the Ascent Stage batteries do not have the 'low voltage tap' mode for their early operations, but are expected to be used at high voltage from the beginning.",
+        "They do, however, have the backup feed mode that will allow one battery to take over from the other, should one of the two Ascent batteries fail."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "Next step: Bats 1 and 3 to Off/Reset.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0951446"
+    },
+    {
+      "tokens": [
+        "Bats 1 and 3 to Off/Reset."
+      ],
+      "speaker": "Swigert",
+      "time": "0951505"
+    },
+    {
+      "tokens": [
+        "This step resets the batteries 1 and 3 in the Descent Stage and takes them off the power bus."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "Next step: wait 30 minutes for preconditioning.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0951509"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's wait 30 minutes for preconditioning."
+      ],
+      "speaker": "Swigert",
+      "time": "0951523"
+    },
+    {
+      "tokens": [
+        "That's correct, and the last LM step for now is Bats 2 and 4 to Off/Reset.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0951529"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Bats 2 and 4 to Off/Reset."
+      ],
+      "speaker": "Swigert",
+      "time": "0951550"
+    },
+    {
+      "tokens": [
+        "This resets the rest of the Descent Stage batteries."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "Now we'll go to the CSM, and the first step there is connect LM/CSM umbilical.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0951555"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Connect LM/CSM umbilical."
+      ],
+      "speaker": "Swigert",
+      "time": "0951613"
+    },
+    {
+      "tokens": [
+        "Two cables (for redundancy) run from the Command Module to the Lunar Module in the docking tunnel between the spacecraft.",
+        "Normally they are plugged in as soon as the two spacecraft dock during Transposition and Docking to supply the LM with power to its heaters.",
+        "Now they are taking the first steps to reverse that connection, to transfer power from the LM into the CM instead."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The next step on panel 5, CB LM Power-1 Main B and LM Power-2 Main B, both, closed.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0951617"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On panel 5, CB LM Power-1 Main B and 2 Main B, both, closed."
+      ],
+      "speaker": "Swigert",
+      "time": "0951643"
+    },
+    {
+      "tokens": [
+        "These circuit breakers in the Command Module supply CM power into the LM umbilical from Command Module's Main Bus B."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "On panel 5, CB EPS Sensor Signal Main B to close.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0951652"
+    },
+    {
+      "tokens": [
+        "EPS Sensor Signal Main B closed on panel 5."
+      ],
+      "speaker": "Swigert",
+      "time": "0951711"
+    },
+    {
+      "tokens": [
+        "This breaker governs power into the sensor that produces electrical system info to the onboard displays and the telemetry."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "Next step, panel 250: CB Bat B Power Entry/Postlanding; closed.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0951716"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "On panel 250: CB Bat B Power Entry/Postlanding; closed.",
+        "Over."
+      ],
+      "speaker": "Swigert",
+      "time": "0951740"
+    },
+    {
+      "tokens": [
+        "This breaker connects Battery B in the Command Module into the battery bus."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's Charlie.",
+        "Verify Main Bus voltage; then, LM Power switch on panel 2 to CSM.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0951750"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's verify the Main Bus voltage, and switch LM Power to CSM."
+      ],
+      "speaker": "Swigert",
+      "time": "0951814"
+    },
+    {
+      "tokens": [
+        "The switch activates the power connection between the two spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's correct.",
+        "Then go back to 275, CB Main B Bat Bus B to open.",
+        "Hey, Jack, that's the step I skipped for you, I'm afraid.",
+        "Before verifying Main Bus voltage, you have to, on panel 275, close CB Main B Bat Bus B.",
+        "Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0951823"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "How are you reading on the Aft Omni."
+      ],
+      "speaker": "Swigert",
+      "time": "0951907"
+    },
+    {
+      "tokens": [
+        "You're okay now.",
+        "Go ahead."
+      ],
+      "speaker": "Kerwin",
+      "time": "0951911"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "After putting the Battery B Power Entry/Postlanding On, then I want to push the - on panel 275 Main B to Bat Bus B in, huh?",
+        "[Pause.]"
+      ],
+      "speaker": "Swigert",
+      "time": "0951915"
+    },
+    {
+      "tokens": [
+        "Kerwin forgot to give the instructions in the right order.",
+        "Battery B has to be enabled in the Battery Bus as well."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's right.",
+        "Then you go to verify Main Bus voltage, LM Power to CSM, and then, on panel 275, circuit breaker Main B Bat Bus B to open.",
+        "Over."
+      ],
+      "speaker": "Kerwin",
+      "time": "0951938"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "After verifying the Main Bus voltage connecting the LM Power to CSM I want to pull Main B Bat Bus B, or Main B to Bat Bus B, open."
+      ],
+      "speaker": "Swigert",
+      "time": "0951953"
+    },
+    {
+      "tokens": [
+        "Either circuit breaker will then cut the battery B power into the system."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "And then on panel 250, circuit breaker Bat B Power Entry/Postlanding to open, and verify Main Bus B voltage.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0952006"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Panel 250 Bat B Power Entry/Postlanding open, and then verify the Main Bus voltage."
+      ],
+      "speaker": "Swigert",
+      "time": "0952037"
+    },
+    {
+      "tokens": [
+        "This turns off the Battery B, and then they can check the voltage on the display to see if they are getting power from the LM into the Main Bus.",
+        "Having pulled the CM battery off, this should now be their source of power."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "That's correct.",
+        "The last, steps are to get LM back to descent batteries.",
+        "The first step is Bats 1, 2, 3 and 4, Hi Voltage, On, Over.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0952044"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Then the next step is a LM step, Bats 1, 2, 3 and 4, Hi Voltage, On."
+      ],
+      "speaker": "Swigert",
+      "time": "0952112"
+    },
+    {
+      "tokens": [
+        "This is a step they performed all the way back when starting up the LM and connecting the Descent Stage batteries to high voltage taps."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's correct, and the last step in LM, Bats 5 and 6 to Off.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0952119"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Say again you cut out there, Joe."
+      ],
+      "speaker": "Swigert",
+      "time": "0952133"
+    },
+    {
+      "tokens": [
+        "Okay, Jack.",
+        "The last step in LM, Batteries 5 and 6 to Off.",
+        "Over."
+      ],
+      "speaker": "Kerwin",
+      "time": "0952136"
+    },
+    {
+      "tokens": [
+        "Okay, Bats 5 and 6 to Off."
+      ],
+      "speaker": "Swigert",
+      "time": "0952147"
+    },
+    {
+      "tokens": [
+        "This turns off the Ascent Stage batteries."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "That should configure you.",
+        "Note that circuit-breakers, protection on that circuit limits the available current to 15 amps.",
+        "We think we can do quite a bit with it though.",
+        "And the LM/CSM umbilical will be hot and Main Bus voltage may be monitored by selecting Main B on the gage.",
+        "Over."
+      ],
+      "speaker": "Kerwin",
+      "time": "0952151"
+    },
+    {
+      "tokens": [
+        "The power umbilical is not designed to supply a great deal of power, hence only a current of 15 amp can be normally tolerated.",
+        "It is still a considerable amount of power - about 400 watts - and will make all the difference in the future."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Real fine."
+      ],
+      "speaker": "Swigert",
+      "time": "0952216"
+    },
+    {
+      "tokens": [
+        "Good deal, Jack."
+      ],
+      "speaker": "Kerwin",
+      "time": "0952218"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "And I'll be ready to implement this whenever you call it up."
+      ],
+      "speaker": "Swigert",
+      "time": "0952222"
+    },
+    {
+      "tokens": [
+        "Roger that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0952226"
+    },
+    {
+      "tokens": [
+        "And how do you read, Joe?"
+      ],
+      "speaker": "Haise",
+      "time": "0952254"
+    },
+    {
+      "tokens": [
+        "Pretty good, Fred."
+      ],
+      "speaker": "Kerwin",
+      "time": "0952256"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "While Jack was on comm, I was looking out the docking window here, and I could see another good shower off particles coming out of the Service Module.",
+        "And the position this time appears to be on the other side.",
+        "Before, we'd always seen them out of window 1, and where I'm looking at it from here, it looks like it'd be down below window 6 somewhere in the Service Module.",
+        "Jack's going upstairs to see what it looks like up there."
+      ],
+      "speaker": "Haise",
+      "time": "0952300"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Good deal.",
+        "We copy that, Fred.",
+        "And to show you how relaxed we are about the entry, Ken is looking at - giving you guys a chance to - prior to going into entry, Prep to snap a few pictures of the Service Module.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0952333"
+    },
+    {
+      "tokens": [
+        "Ken is, huh?",
+        "(Laughter)"
+      ],
+      "speaker": "Haise",
+      "time": "0952356"
+    },
+    {
+      "tokens": [
+        "Fred is pleased to hear that his crew comrade is working for them on Earth."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yes, he's got all that film up there, and he doesn't want to waste it."
+      ],
+      "speaker": "Kerwin",
+      "time": "0952402"
+    },
+    {
+      "tokens": [
+        "Oh, I thought maybe you'd want me to do a PLSS EVA to go shoot pictures or something."
+      ],
+      "speaker": "Haise",
+      "time": "0952406"
+    },
+    {
+      "tokens": [
+        "Okay, okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0952411"
+    },
+    {
+      "tokens": [
+        "Fred is naturally only joking.",
+        "They would not be able to spare the oxygen lost by depressurizing the cabin.",
+        "They are also not equipped for a deep space EVA, let alone trained for it.",
+        "Routine EVA capacity was only added for Apollo 15 and subsequent missions for the purpose of servicing the SIM Bay in the Service Module."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "You're right; we got a lot of pictures.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0952422"
+    },
+    {
+      "tokens": [
+        "I guess I agree it surely would be nice to document it someway if we can, but it doesn't look like [Garble]."
+      ],
+      "speaker": "Haise",
+      "time": "0952434"
+    },
+    {
+      "tokens": [
+        "Yes, we think it'd be a lot of help.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0952445"
+    },
+    {
+      "tokens": [
+        "Joe, how do you read me?"
+      ],
+      "speaker": "Haise",
+      "time": "0952541"
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "Go ahead."
+      ],
+      "speaker": "Kerwin",
+      "time": "0952545"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The condensate transfer worked great."
+      ],
+      "speaker": "Haise",
+      "time": "0952550"
+    },
+    {
+      "tokens": [
+        "Stand by a minute, Fred.",
+        "We're in a bad comm mode."
+      ],
+      "speaker": "Kerwin",
+      "time": "0952557"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0952600"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "How's that?"
+      ],
+      "speaker": "Haise",
+      "time": "0952616"
+    },
+    {
+      "tokens": [
+        "That's better."
+      ],
+      "speaker": "Kerwin",
+      "time": "0952617"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "The waste transfer into the condensate can works real well, Joe."
+      ],
+      "speaker": "Haise",
+      "time": "0952621"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Good deal."
+      ],
+      "speaker": "Kerwin",
+      "time": "0952629"
+    },
+    {
+      "tokens": [
+        "So, I guess we can keep FIDO happy with no overboard dumps."
+      ],
+      "speaker": "Haise",
+      "time": "0952633"
+    },
+    {
+      "tokens": [
+        "Roger that.",
+        "(Long pause.)"
+      ],
+      "speaker": "Kerwin",
+      "time": "0952639"
+    },
+    {
+      "tokens": [
+        "Yes, that brings up one more possibility, Joe."
+      ],
+      "speaker": "Haise",
+      "time": "0952714"
+    },
+    {
+      "tokens": [
+        "Say again, Fred."
+      ],
+      "speaker": "Kerwin",
+      "time": "0952719"
+    },
+    {
+      "tokens": [
+        "Brings up another possibility.",
+        "Now that we've got all of that stowed into the bags and the condensate can, we could probably blow all of that through the PLSS [Garble], I wonder how the sublimator would work on waste water."
+      ],
+      "speaker": "Haise",
+      "time": "0952723"
+    },
+    {
+      "tokens": [
+        "It might work if we had to do it, Fred.",
+        "Right now we're looking at a comfortable excess of water through the sublimator.",
+        "We were talking among ourselves this morning about having you try out the PLSS to ascent tank water-transfer situation and we decided not to do it, not to recommend it, because we figure it'd take us 30 hours to empty one of the ascent tanks, which you have to do in order to get PLSS water to it, and we'd rather use the descent water and we don't think we've gotten any sweat.",
+        "Over."
+      ],
+      "speaker": "Kerwin",
+      "time": "0952739"
+    },
+    {
+      "tokens": [
+        "Fred suggests that they could load their urine into the PLSS and then pump the said waste water into the LM's water system via the Ascent Stage water tank.",
+        "Joe Kerwin is not too enthusiastic, considering that Mission Control studies have revealed that to try the water transfer, they need an empty Ascent Stage water tank.",
+        "They want to save the Ascent stage supplies as long as possible and use up the Descent Stage water first."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Haise, from1970 Technical debrief:\"In fact, while we were talking about the water, and talking about feeding PLSS water into the sublimator, I had a way figured out to get the urine through the sublimator.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Lovell, from1970 Technical debrief:\"Of course, at this time, we were also thinking about the PLSSs, about using the water for the sublimator and then using the fans and the batteries and the oxygen in case the LM system failed.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Swigert, from1970 Technical debrief:\"It's really surprising that a lot of the things the ground sent up, we had discussed.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "I don't think there's any question about it from the plumbing standpoint that we could do that if we had to.",
+        "[Pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0952821"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copy that."
+      ],
+      "speaker": "Kerwin",
+      "time": "0952836"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "95 hours, 30 minutes Ground Elapsed Time.",
+        "Present thinking on the midcourse correction which would bring Apollo 13 back into the Earth's intercepting corridor, would be a LM maneuver, propulsion maneuver of about 7 feet per second at 104 hours Ground Elapsed Time and would return the spacecraft to entry corridor, shooting for a flight path angle of about minus 6½ degrees on all lunar missions to date, with a few exceptions, during the trans-Earth coast phase some sort of midcourse correction has been necessary to get back on to the corridor depending on the accuracy of the trans-Earth injection.",
+        "This particular mission is certainly no different.",
+        "Spacecraft communicator Joe Kerwin is away from the console at the moment, after having read up some additional checklist changes.",
+        "We are continuing to monitor the air-to-ground.",
+        "Kerwin returning to the console.",
+        "If the midcourse correction in this trans-Earth phase is delayed beyond 104 hours to the second one, it's in contention of second time of 118 hours, it would be somewhat greater magnitude more in the neighborhood of 40 feet per second.",
+        "With the 7-foot-per-second midcourse correction at 104 hours, the vacuum perigee would be around 20 nautical miles [37 km].",
+        "Flight path angle of minus 6.51 degrees.",
+        "At 95 hours, 32 minutes Ground Elapsed Time and standing by; this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, how do you read, Joe?"
+      ],
+      "speaker": "Haise",
+      "time": "0954035"
+    },
+    {
+      "tokens": [
+        "Read you pretty good, Fred.",
+        "Go ahead."
+      ],
+      "speaker": "Kerwin",
+      "time": "0954040"
+    },
+    {
+      "tokens": [
+        "I think our PTC wobble is growing worse.",
+        "The Earth now is really up to the top of the window.",
+        "I have to get way down almost to the floorboards to view it.",
+        "Conversely, the Moon is way down at the bottom of the window.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0954045"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Kerwin",
+      "time": "0954106"
+    },
+    {
+      "tokens": [
+        "A lot more wobble."
+      ],
+      "speaker": "Haise",
+      "time": "0954109"
+    },
+    {
+      "tokens": [
+        "Roger ..."
+      ],
+      "speaker": "Kerwin",
+      "time": "0954110"
+    },
+    {
+      "tokens": [
+        "Far more wobble than I noticed on my previous watch."
+      ],
+      "speaker": "Haise",
+      "time": "0954111"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copied that, Fred.",
+        "And our thermal people will be looking at it.",
+        "One of the things we're talking about relative to the midcourse correction is we'd like not to do it before the SHe tank goes, if it's going to go, just so it won't give us a problem reestablishing PTC.",
+        "And right now our people think that the burst disk will pop around 106 hours."
+      ],
+      "speaker": "Kerwin",
+      "time": "0954119"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Haise",
+      "time": "0954152"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The L-shaped bag is [garble]."
+      ],
+      "speaker": "Haise",
+      "time": "0954427"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Aquarius, Houston.",
+        "Over."
+      ],
+      "speaker": "Kerwin",
+      "time": "0954633"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Haise",
+      "time": "0954639"
+    },
+    {
+      "tokens": [
+        "Okay, Fred.",
+        "Since you went ahead and used the PLSS condensate container, we got the procedure in for using it.",
+        "I'm not going to read it up to you except that it cautions a little bit about shaking it too much or about filling it too full, because they feel that if you do that the vent valve might unseat and the bag might leak a little bit.",
+        "Over."
+      ],
+      "speaker": "Kerwin",
+      "time": "0954640"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We haven't removed it from its stowage spot.",
+        "We just left it right in place, and just - he mated the tank at the end of the cable and hooked right into that."
+      ],
+      "speaker": "Haise",
+      "time": "0954710"
+    },
+    {
+      "tokens": [
+        "Understand.",
+        "That's satisfactory and recommended that you leave it in the stowage spot.",
+        "That should help the situation."
+      ],
+      "speaker": "Kerwin",
+      "time": "0954725"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Haise",
+      "time": "0954737"
+    },
+    {
+      "tokens": [
+        "We got a - we got another flow shower going on outside.",
+        "Particles, seeing them vented against the Service Module.",
+        "Jack thinks it may be an H2vent.",
+        "[Garble]"
+      ],
+      "speaker": "Haise",
+      "time": "0954827"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copy that.",
+        "What window are you looking at it out of, Fred?"
+      ],
+      "speaker": "Kerwin",
+      "time": "0954841"
+    },
+    {
+      "tokens": [
+        "Out the LM docking window."
+      ],
+      "speaker": "Haise",
+      "time": "0954848"
+    },
+    {
+      "tokens": [
+        "The docking window.",
+        "Roger that.",
+        "Somebody just handed me your latest consumables status report, and you're using between 11 to 12 amps an hour real steady, and it looks real good.",
+        "[Long pause.]"
+      ],
+      "speaker": "Kerwin",
+      "time": "0954850"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Haise",
+      "time": "0954907"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    }
+  ],
+  "source_file": "day4_part5_checking_odyssey.html"
+}

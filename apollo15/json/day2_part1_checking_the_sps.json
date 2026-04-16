@@ -1,0 +1,5096 @@
+{
+  "description": "Apollo 15 Flight Journal - Day 2, part 1: Checking the SPS",
+  "transcript": [
+    {
+      "tokens": [
+        "It is the second day of the Apollo 15 Mission, on July 27, 1971."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 15 hours, 14 minutes.",
+        "Apollo 15 is now 70,739 nautical miles [131,008 km] from Earth.",
+        "Velocity; 6,835 feet per second [2,083 m/s].",
+        "Flight Director Glynn Lunney and his team of flight controllers are preparing to take over here in the Mission Operations Control Room; [the] shift should change in about 10 or 12 minutes.",
+        "There will be a change of shift news conference in the Manned Spacecraft Center News Center briefing room at approximately 12:15 am Central Daylight Time.",
+        "We're estimating the change of shift news conference for 12:15 am Central Daylight Time.",
+        "This is Mission Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 15 hours, 39 minutes.",
+        "In Mission Control, we've completed a change of shift.",
+        "Flight Director Glynn Lunney now on, leading the team of flight controllers and our Capsule Communicator is backup Command Module Pilot for Apollo 15, Vance Brand.",
+        "Lunney has been reviewing for the last 10 or 15 minutes, with his flight controllers, the status of the mission and everything at this point appears normal.",
+        "We're very close to the nominal for consumables: Such things as propellants, Reaction Control System propellants and oxygen and hydrogen.",
+        "And the general assessment is that we have no problems.",
+        "Lunney has been reviewing a problem which occurred earlier in the day, and that is the intermittent light on the SPS Thrust and that - that problem being discussed as it was earlier in the day.",
+        "At the present time Apollo 15 is traveling at a velocity of 6,743 feet per second [2,055 m/s]; current altitude, 72,284 nautical miles [133,870 km].",
+        "We'll be beginnig the change of shift press briefing in the MSC News Center briefing room shortly and during that time, we'll have the lines down.",
+        "We'll record any - any conversations although we do not expect any.",
+        "The crew has been put to bed now for just about one hour and what will be a scheduled 10-hour rest period.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-23."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 16 hours, 41 minutes.",
+        "The Apollo 15 crew now some 2 hours into a scheduled 10-hour rest period and it's settled down to a quiet routine here in Mission Control.",
+        "One of the principal activities for the EECOM, the environmental and communications - or electrical engineer, systems engineer, in the Control Center is to come up with a set of procedures this evening, which can be used to check out that SPS Thrust light by the crew tomorrow.",
+        "At the present time, Apollo 15 is traveling at a velocity of 6,511 feet per second [1,985 m/s] and the altitude now 76,290 nautical miles [141,288 km] from Earth.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 17 hours, 44 minutes.",
+        "Apollo 15 now in a Passive Thermal Control mode with the spacecraft rotating at a rate of about 3 revolutions per hour to maintain the proper temperatures within the Command and Service Module.",
+        "This is the mode that was set up by the crew prior to beginning their sleep period.",
+        "They're now about 3 hours into that rest period, which is scheduled to last a total of 10 hours.",
+        "And in Mission Control, it's continued to be a quiet evening.",
+        "Flight controllers primarily involved with reviewing the activities that will be coming up tomorrow and in the case of several of them, reviewing the situation with regard to the SPS Thrust light and working on procedures which will be used probably tomorrow to check that - check the light out.",
+        "Apollo 15 at this time is travelling at a velocity of 6,298 feet per second [1,920 m/s] and that velocity continuing to drop off as the spacecraft increases its distance from Earth, now 80,226 nautical miles [148,652 km] from Earth.",
+        "This is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Another important reason for the Passive Thermal Control or PTC mode is to is to protect the CM's re-entry heatshield material from getting too cold and flaking when out of the Sun for extended periods.",
+        "The Lunar Module does not require this protection as its skin lacks the same type of heatshield."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-24."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 18 hours, 42 minutes.",
+        "The crew now has been asleep for over three hours.",
+        "The flight surgeon reports that they appear to be sleeping well.",
+        "The rest period began at 14 hours, 41 minutes, or a little over four hours ago, and it is scheduled to last a total of ten hours.",
+        "All systems on the spacecraft at the present remain unchanged.",
+        "Everything operating normally.",
+        "We show a cabin temperature of around 65 degrees [Fahrenheit, 18°C].",
+        "This temperature is measured near the point where the air flows into the cabin.",
+        "It's somewhat lower than the actual free air temperature in the cabin.",
+        "Cabin pressure at around 5.3 pounds per square inch which is also normal.",
+        "Apollo 15 traveling at a velocity 6,124 feet per second [1,867 m/s] now, and at an altitude of 83,619 nautical miles [154,862 km] from Earth.",
+        "This is Apollo Control, standing by."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 19 hours, 44 minutes.",
+        "Apollo 15, now traveling at a speed of 5,950 feet per second [1,814 m/s] and out to 87,222 nautical miles [161,535 km] from Earth.",
+        "The crew is now about midway through a scheduled 10-hour sleep period.",
+        "And things are perking along smoothly, both aboard the spacecraft, and here in Mission Control.",
+        "Flight Director Glynn Lunney has, for the last hour or so, been reviewing the status for [the] midcourse correction, which is tentatively being planned for tomorrow.",
+        "We won't have a firm decision on carrying out that midcourse correction scheduled at the second midcourse opportunity.",
+        "And the primary interest in conducting the maneuver at that time will be to get a check of the Service Propulsion System.",
+        "The spacecraft is continuing in its Passive Thermal Control mode, rotating slowly at a rate of about 3 revolutions per hour.",
+        "This allows all sides of the vehicle to get equal exposure to the Sun and to the cold of space, and to maintain the proper temperatures.",
+        "This is Apollo Control; standing by at 19 hours, 46 minutes."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-25."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 20 hours, 41 minutes.",
+        "With Apollo 15 now traveling at a speed of 5,802 feet per second [1,549 m/s] and out to 90,425 nautical miles [167,467 km] from Earth.",
+        "The crew still sleeping soundly at this time.",
+        "And we have a clock here in Mission Control that is currently counting down to the time that the crew is scheduled to be awake.",
+        "That to be now some 4 hours, 18 minutes away.",
+        "The major activities, once the astronauts awake, will be a midcourse correction opportunity.",
+        "The second midcourse correction opportunity, which comes at about 30 hours, 56 minutes.",
+        "And, crew will also enter and make preliminary checks of the Lunar Module,Falcon.",
+        "In Mission Control, it continues to be a very quiet evening and the major activity [is] centering around preparation of procedures to be used for the midcourse correction, which would most likely occur at the second opportunity; 30 hours, 56 minutes into the flight, and a principal interest there to check out the Service Propulsion System engine.",
+        "This is Apollo Control, continuing to stand by."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 21 hours, 48 minutes.",
+        "Apollo 15 now travelling at a speed of 5,639 feet per second [1,719 m/s].",
+        "We've watched that velocity decrease since coming on shift from about 6,700 feet per second [2,042 m/s] down now to about 5,600 feet per second.",
+        "And that speed will continue to drop off as the spacecraft moves farther from Earth and farther from the influence of Earth's gravity, until the point that the lunar gravity becomes dominant and once again we'll see the velocity begin to pick up.",
+        "We're showing now the spacecraft 94,130 nautical miles [174,328 km] from Earth.",
+        "And about 3 hours, 10 minutes left in the scheduled 10-hour rest period for the crew.",
+        "Flight surgeon reports that they appear to have been sleeping soundly.",
+        "The major scheduled activities when the crew awakens will be [the] midcourse correction.",
+        "That midcourse correction maneuver [is] the second opportunity, which will occur at about 30 hours, 56 minutes into the flight.",
+        "And the second major activity following crew awake - awakening will be ingress into the Lunar Module and a check of systems there.",
+        "This is Apollo Control, standing by."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-26."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control [at] 22 hours, 42 minutes into the flight of Apollo 15.",
+        "The spacecraft now 96,960 nautical miles [179,570 km] from Earth and the velocity; 5,518 feet per second [1,682 m/s].",
+        "In Mission Control, we're in the process now of beginning a shift handover.",
+        "That will occur in about 45 minutes.",
+        "Flight Director Gerry Griffin will be replacing Flight Director Glynn Lunney and the Capsule Communicator - Spacecraft Communicator on the upcoming shift will be astronaut Joe Allen, replacing astronaut Vance Brand."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The PAO announcer's correction betrays a disdain the people of Apollo have for the word \"capsule,\" though he used it earlier in the night.",
+        "This is despite the durability of the term 'CapCom' which was derived from it.",
+        "To them, Apollo meant exquisitely crafted spacecraft.",
+        "A capsule was something you took when you got ill."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "During the astronauts' sleep period, which is scheduled to end in about 2 hours, the spacecraft systems have been performing normally.",
+        "Everything appears stable and the astronauts, based on the biomedical data that we're getting here on the ground, would have appeared to have been sleeping well.",
+        "The Flight Surgeon reported a few minutes ago that there did appear to be some signs of activity, indicating perhaps the crew is beginning to waken and move about.",
+        "We will not have a change of shift press briefing following this shift.",
+        "A principal activity has been to review the status of the Service Propulsion System Thrust light.",
+        "[Garble] to review schematic diagrams and determine what possibilities exist, where the possibilities for a short circuit might exist and also to work on procedures for a burn of the Service Propulsion System engine which would probably occur at the Midcourse Correction 2 opportunity at 30 hours, 56 minutes.",
+        "At 22 hours, 44 minutes; this is Apollo Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-27."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 24 hours, 11 minutes Ground Elapsed Time into the mission of Apollo 15.",
+        "Some 48 minutes remaining in the sleep period for the crew.",
+        "Flight Surgeon reports that the only man wired for sound - that is connected to the biomedical telemetry - the Lunar Module Pilot, is still soundly asleep.",
+        "Apollo 15 now 100,781 nautical miles [186,646 km] out from Earth.",
+        "Velocity; 5,261 feet per second [1,604 m/s].",
+        "Gold Team Flight Director, Gerry Griffin, is going over with the day's activities - planned activities - with the - his team of flight controllers here in Mission Control after - during a handover now in progress.",
+        "They're considering moving the midcourse correction burn number 2 up to about 28 and a half hours Ground Elapsed Time, which would give a slightly larger burn than if it were done on the nominal time.",
+        "This would be a conclusive test of the Service Propulsion System and the associated problems in the spurious signal onboard the spacecraft and in the control room here; that the valves are stuck open down in the propellant system.",
+        "Meanwhile, astronaut Dick Gordon plans, at 10 o'clock, to run through the procedure in the Houston Command Module Simulator prior to the time that the instructions are passed up to the crew - how to set up for this Service Propulsion System burn - and the current thinking is that if the burn does not light off at the new time of 28½ hours, an attempt would be made at the nominal Flight Plan time.",
+        "[At] 24 hours, 13 minutes Ground Elapsed Time; this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control; 25 hours, 19 minutes Ground Elapsed Time.",
+        "Apollo 15 now 105,083 nautical miles [194,613 km] out from Earth.",
+        "Velocity; 5,196 feet per second [1,584 m/s].",
+        "INCO just reported to the Flight Director that the voice subcarrier to the spacecraft is ready for the day's business.",
+        "And it was thought they heard the crew calling, but apparently not.",
+        "However, we're 20 minutes past the wakeup time.",
+        "So, not to miss any of the first call to or from the crew, we'll leave the circuit up at this time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "We're waiting for the crew to call or for Spacecraft Communicator Joe Allen to call the crew.",
+        "Recap the present situation with the Service Propulsion System in which a Delta-V light in the Entry Monitor System in the spacecraft cabin came on, which indicated the solenoid valve drivers on bank A in the Service Module Propulsion System had some sort of ground closing the circuit.",
+        "At any rate, a test to confirm the quality of bank A in this system will be made at midcourse correction 2 which now is being considered to be rescheduled for about 28 hours, 30 minutes Ground Elapsed Time instead of the Flight Plan time which was at 30:55.",
+        "This will be an SPS burn of about 7 feet per second; less than a second duration.",
+        "Meanwhile, Richard Gordon at about this moment should be climbing into the Command Module Simulator in the crew training building at the Manned Spacecraft Center to run through the routine that will be passed up to the crew.",
+        "When the crew wakes up, Joe Allen will brief them on moving midcourse 2 forward, and after Gordon returns from the Command Module Simulator, and the PAD for the midcourse correction 2 is passed up to the crew, the findings of simulating this procedure will be passed up also, with any changes in switch configurations and so forth.",
+        "Standing by live on air/ground to begin the day's work.",
+        "At 25 hours, 25 minutes Ground Elapsed Time; this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Flight Plan allocates the hour between 25:00 and 26:00 for the crew to have their breakfast.",
+        "However, the comm at 026:08:42 and 026:45:24 indicates that they hold this off until the postsleep chores are out of the way."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 15.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0252756"
+    },
+    {
+      "tokens": [
+        "Hello, Endeavour, this is Houston."
+      ],
+      "speaker": "Allen",
+      "time": "0252816"
+    },
+    {
+      "tokens": [
+        "More than the other CapComs, Joe Allen likes to use the call sign of the CSM, 'Endeavour', even though the LM, 'Falcon', is still attached.",
+        "Conventionally, the callsign \"Apollo 15\" would be used until the crews powered up the Lunar Module.",
+        "After that time, Houston would be communicating with two spacecraft, and must ensure that the object of any conversation is unambiguous."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Good morning, Joe."
+      ],
+      "speaker": "Irwin",
+      "time": "0252820"
+    },
+    {
+      "tokens": [
+        "Good morning, Troops.",
+        "Has the Sun come up, up there?"
+      ],
+      "speaker": "Allen",
+      "time": "0252823"
+    },
+    {
+      "tokens": [
+        "Of course, the Sun almost never sets on cislunar space."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Oh, yes; very bright all the way.",
+        "Ready to give you our status here."
+      ],
+      "speaker": "Irwin",
+      "time": "0252827"
+    },
+    {
+      "tokens": [
+        "Roger, Dave.",
+        "We're standing by."
+      ],
+      "speaker": "Allen",
+      "time": "0252835"
+    },
+    {
+      "tokens": [
+        "Allen hasn't realised that he is talking to Jim Irwin yet."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We all figure we had 8 hours.",
+        "Dave figures he got his in about three [segments]; Alfred, two; and [garble] about five."
+      ],
+      "speaker": "Irwin",
+      "time": "0252842"
+    },
+    {
+      "tokens": [
+        "Endeavour, this is Houston.",
+        "Stand by on your report.",
+        "You're broken up at the moment, please."
+      ],
+      "speaker": "Allen",
+      "time": "0252856"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Jim is fulfilling the first part of the postsleep checklist by reporting on the sleep the crew believe they got.",
+        "As Jim was wearing his biomedical harness throughout, the Flight Surgeon will be well aware of what sleep he had.",
+        "Other items on the checklist are to tell Mission Control what the readings are on each crewman's PRD (Passive Radiation Dosimeter), though this is skipped until a request comes for them at 033:20:27.",
+        "The crew do not seem to place a high priority on the PRD readings.",
+        "Jim will also read back the gauges for the CSM's consumables.",
+        "The H2tanks will be stirred and the communications system reconfigured for the coming day."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Dave, this is Houston again.",
+        "Go ahead.",
+        "Our comm is not so noisy now.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0253026"
+    },
+    {
+      "tokens": [
+        "Joe, this is Jim."
+      ],
+      "speaker": "Irwin",
+      "time": "0253035"
+    },
+    {
+      "tokens": [
+        "Roger, Jim.",
+        "Good morning."
+      ],
+      "speaker": "Allen",
+      "time": "0253037"
+    },
+    {
+      "tokens": [
+        "Good morning.",
+        "Would it be okay now [to give you the crew status report and comsumables update]?"
+      ],
+      "speaker": "Irwin",
+      "time": "0253040"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "You're loud and clear now."
+      ],
+      "speaker": "Allen",
+      "time": "0253042"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We figure we all got about 8 hours of sleep.",
+        "The duration of that sleep was different.",
+        "Dave figures he got it in about three segments; Al, about two; and - I had about five different periods of - of deep sleep.",
+        "On the consumables update at 25:20 [GET]; RCS A, 94 [per cent]; B, 94; C, 94; D, 93.",
+        "On the H2tank 1, 95 [per cent]; 2, 93; and 3, 81.",
+        "O2tank 1, 91 [per cent]; 2, 93; 3, 96.",
+        "Standing..."
+      ],
+      "speaker": "Irwin",
+      "time": "0253046"
+    },
+    {
+      "tokens": [
+        "Roger, Jim, copy."
+      ],
+      "speaker": "Allen",
+      "time": "0253134"
+    },
+    {
+      "tokens": [
+        "...by to charge battery A.",
+        "[Believing his words were lost] And, Joe, I'm standing by to charge battery A."
+      ],
+      "speaker": "Irwin",
+      "time": "0253135"
+    },
+    {
+      "tokens": [
+        "The return trip for light and radio waves is already more than a second and this will begin to affect the flow of air/ground conversation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Jim.",
+        "Could you stand by on that?",
+        "We'd just as leave [sic] you not do it right at the moment."
+      ],
+      "speaker": "Allen",
+      "time": "0253141"
+    },
+    {
+      "tokens": [
+        "Mission Control want to hold off on the battery charge, as they know that there is going to be an unscheduled test of the SPS, the procedures for which they are about to read up to the crew."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll stand by."
+      ],
+      "speaker": "Irwin",
+      "time": "0253149"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "And we'll give you the word when we're ready for that."
+      ],
+      "speaker": "Allen",
+      "time": "0253150"
+    },
+    {
+      "tokens": [
+        "I'll get the radiation report here shortly, and - could you confirm the position that - H2Fan 3 should be in?"
+      ],
+      "speaker": "Irwin",
+      "time": "0253156"
+    },
+    {
+      "tokens": [
+        "Rog, Jim.",
+        "[Pause.] And, it - the H2Fan 3 should be Auto."
+      ],
+      "speaker": "Allen",
+      "time": "0253208"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I copy Auto."
+      ],
+      "speaker": "Irwin",
+      "time": "0253219"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Allen",
+      "time": "0253221"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Jim, this is Houston.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0253425"
+    },
+    {
+      "tokens": [
+        "Go ahead, Joe.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0253430"
+    },
+    {
+      "tokens": [
+        "Go ahead, Joe."
+      ],
+      "speaker": "Irwin",
+      "time": "0253436"
+    },
+    {
+      "tokens": [
+        "Roger, Jim.",
+        "Just for your own information here, let me read up to you the CSM consumables that we've generated from the ground."
+      ],
+      "speaker": "Allen",
+      "time": "0253437"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0253449"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "At GET 25:09, we had RCS total [quantity remaining], 90 [per cent]; Quad A, 89; [B] 91, 89, 91.",
+        "H2tank 1, 94 per cent, [tank 2] 92 per cent, [tank 3] 81 per cent.",
+        "O2tank 1, 91 per cent, [tank 2] 92 per cent, [tank 3] 97 per cent.",
+        "So it agrees pretty well with - what you guys are reading."
+      ],
+      "speaker": "Allen",
+      "time": "0253454"
+    },
+    {
+      "tokens": [
+        "Good.",
+        "Except for the - the RCS quantity."
+      ],
+      "speaker": "Irwin",
+      "time": "0253541"
+    },
+    {
+      "tokens": [
+        "Joe Allen's use of the phrase \"generated from the ground\" implies that Mission Control are able to derive quantity readings through means other than used on the spacecraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Measurement of fluid quantity in a weightless environment presents novel engineering problems as there is no flat liquid surface which can be sensed.",
+        "However, by factoring in all available knowledge of a system, much of which is available through telemetry, (e.g.",
+        "for the RCS which uses helium to pressurise bladders containing propellants; thruster usage, helium pressure/temperature ratio, tank volumes, pressure regulator settings, sensor nonlinearities, system history), and applying sophisticated models of how the system should work, Mission Control can compute exactly how much liquid ought to remain in a tank.",
+        "Such elaborate measurement techniques are not feasible on board, so the spacecraft's own gauges are rather less precise.",
+        "(With thanks to Henry Spencer.)"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Allen",
+      "time": "0253545"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "The LM/CM Delta-P is a plus .7."
+      ],
+      "speaker": "Irwin",
+      "time": "0253553"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy, plus .7."
+      ],
+      "speaker": "Allen",
+      "time": "0253558"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Flight Plan calls for this report of the LM/CM pressure differential which is saying that the pressure in the CM cabin is 0.7 psi higher than in the tunnel and LM."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, this is Houston."
+      ],
+      "speaker": "Allen",
+      "time": "0253746"
+    },
+    {
+      "tokens": [
+        "Go ahead, Joe."
+      ],
+      "speaker": "Irwin",
+      "time": "0253751"
+    },
+    {
+      "tokens": [
+        "Jim.",
+        "Are all three people still there?",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0253753"
+    },
+    {
+      "tokens": [
+        "So far, only Jim Irwin has spoken to CapCom Joe Allen, and with humorous concern, Joe is beginning to wonder what has happened to the other crewmembers.",
+        "It may simply be that Jim is the only one with his \"snoopy hat\" on."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "All here, busy doing little things."
+      ],
+      "speaker": "Irwin",
+      "time": "0253801"
+    },
+    {
+      "tokens": [
+        "Okay, good.",
+        "I've got some information for you when - you reach a minute - you - you want to listen here, and it concerns our - short - little [electrical] short problem in the switch.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0253804"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "We're all listening.",
+        "Go ahead."
+      ],
+      "speaker": "Irwin",
+      "time": "0253826"
+    },
+    {
+      "tokens": [
+        "Roger, guys.",
+        "We're going to ask you to do a - a test burn on your SPS a little later; in fact, around 28 and a half hours.",
+        "And - depending upon the results of that, we'll go ahead and do the midcourse, and it'll be a normal midcourse if the burn test doesn't really come off.",
+        "And it'll be a trim midcourse of some kind if - the test, in fact, does give us an SPS burn.",
+        "And I'll come up to you a little later on in the day with a set of procedures.",
+        "There - a long list of them, but you'll be able to use your Launch Checklist for most of them.",
+        "However, the test burn will mean that we're going to change - we're going to update your Flight Plan - with a - with a large number of things a little later on.",
+        "[In] about 10 minutes, I'll be reading that to you.",
+        "Is it clear so far?",
+        "Over."
+      ],
+      "speaker": "Allen",
+      "time": "0253829"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "That's fine, Joe.",
+        "Can you give us a little run down on what you think the problem is?"
+      ],
+      "speaker": "Scott",
+      "time": "0253931"
+    },
+    {
+      "tokens": [
+        "Dave, when we get the better Omni in a second, I'll start talking about that.",
+        "We're about to lose the comm."
+      ],
+      "speaker": "Allen",
+      "time": "0253937"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "0253944"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the spacecraft in its slow roll, for the PTC or 'barbecue' mode, Mission Control are switching between the two of the four omni-directional antennas, B and D, mounted around the CM, using the one most favouring Earth."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, this is Houston."
+      ],
+      "speaker": "Allen",
+      "time": "0254341"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Irwin",
+      "time": "0254346"
+    },
+    {
+      "tokens": [
+        "Roger, guys.",
+        "First of all, Dick Gordon's over in the simulator right now running through this SPS burn procedure, and as soon as he says that's okay, we'll read that procedure up to you; I guess.",
+        "It's not too complicated.",
+        "Dave, in regard to your last question, very briefly - and I'm sure you guys have been thinking a bit about this yourselves - we're interested in finding out exactly where in your Delta-V Thrust A switch the short seems to be.",
+        "And we're all of us down here are convinced that it's either in that switch or physically very near that switch.",
+        "It's important that - that we know where it is, because - I guess the - the worst that it could be - would be a hard short - so-called hard short - upstream of the control Pilot Valve solenoid on bank A.",
+        "And that would mean that we would lose the ability to turn bank A on and off as we wanted to.",
+        "There are many other things it could be; namely, a soft short either upstream or downstream from that Pilot Valve solenoid.",
+        "Or I guess it could be a hard short downstream from the solenoid, which - all of these would be annoying to us, but no major problem, really.",
+        "[Pause.] It..."
+      ],
+      "speaker": "Allen",
+      "time": "0254348"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We get the general..."
+      ],
+      "speaker": "Scott",
+      "time": "0254517"
+    },
+    {
+      "tokens": [
+        "Go ahead, Dave."
+      ],
+      "speaker": "Allen",
+      "time": "0254520"
+    },
+    {
+      "tokens": [
+        "We get the general - yeah, we get the general gist of that, Joe.",
+        "Go ahead."
+      ],
+      "speaker": "Scott",
+      "time": "0254521"
+    },
+    {
+      "tokens": [
+        "Okay, Dave.",
+        "What - what we're going to try to do now is to go - go ahead and do an SPS burn using bank A.",
+        "And we want that short to be active when we do it.",
+        "So at some point, we're going to ask you to tap on the panel and try to get the short back for us.",
+        "We - we show that the light is currently out, and I'm sure that you will confirm that."
+      ],
+      "speaker": "Allen",
+      "time": "0254528"
+    },
+    {
+      "tokens": [
+        "That - that's verified."
+      ],
+      "speaker": "Scott",
+      "time": "0254552"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Assuming we cannot get the light on again - we think that's unlikely but, if we can't get it on again, we'll delete this particular test and just go ahead and do a - a midcourse - normal midcourse 2 burn and - while we scratch our heads on this other thing."
+      ],
+      "speaker": "Allen",
+      "time": "0254553"
+    },
+    {
+      "tokens": [
+        "Ultimately, the analysis that Joe Allen is describing turns out to be correct.",
+        "There is indeed a short in the Delta-V Thrust A switch, caused by a very small piece of wire that is shorting the switch's \"On\" position with the electrical ground.",
+        "Due to its small size and its position in the switch mechanism, this is not the \"hard short\" that Allen speaks of.",
+        "The intermittent nature of the short (currently it is not shorted) is making it difficult for Houston to determine the exact point of failure."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "0254614"
+    },
+    {
+      "tokens": [
+        "Now.",
+        "Dave.",
+        "We've got the changes to the Flight Plan here if your recording secretary is standing by to copy it.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0254618"
+    },
+    {
+      "tokens": [
+        "Jim Irwin usually carries out the task of writing the Flight Plan updates.",
+        "The title of recording secretary shows the gentle humour which Joe often indulges in with a crew he had worked very closely with during training.",
+        "It appears that while Jim is writing down the changes, Dave is going to mark up the Flight Plan appropriately."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, go ahead.",
+        "I'm ready Joe."
+      ],
+      "speaker": "Scott",
+      "time": "0254630"
+    },
+    {
+      "tokens": [
+        "Rog, Dave.",
+        "Are you just going to mark up the Flight Plan as I read it to you."
+      ],
+      "speaker": "Allen",
+      "time": "0254636"
+    },
+    {
+      "tokens": [
+        "I'd prefer to do it that way."
+      ],
+      "speaker": "Scott",
+      "time": "0254641"
+    },
+    {
+      "tokens": [
+        "Ah, Rog.",
+        "We think that'll be the easiest.",
+        "And, Jim, are you copying this now."
+      ],
+      "speaker": "Allen",
+      "time": "0254644"
+    },
+    {
+      "tokens": [
+        "I'm standing by, Joe."
+      ],
+      "speaker": "Irwin",
+      "time": "0254649"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Okay.",
+        "[Pause.] Okay.",
+        "We're going to start at 25:05, and we've already deleted the charge-Bat-A line.",
+        "Then moving on to 26:50, add P52 IMU realign, option 3.",
+        "[Pause.] Moving to 27..."
+      ],
+      "speaker": "Allen",
+      "time": "0254651"
+    },
+    {
+      "tokens": [
+        "As the initial stage of preparing for a test of the SPS engine's controls, Mission Control want the IMU to be realigned, something which is always done before a burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "I copy."
+      ],
+      "speaker": "Irwin",
+      "time": "0254730"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Moving to 27:55.",
+        "[Pause.] Move Delta-V test and null bias check up to 27:00.",
+        "In other words, just move that line up.",
+        "And coming up to 28:00 - a little something for you Al - we're going to delete the crew exercise period.",
+        "[Pause.] And at 28:00, add in midcourse column - MCC-Houston column - uplink to CSM, CSM state vector and Verb 66; update to CSM SPS test maneuver PAD.",
+        "[Pause.] And at 28:05, [pause] H2Purge Line Heaters, On; exit G&N PTC; and maneuver to PAD burn attitude.",
+        "Have you copied so far?"
+      ],
+      "speaker": "Allen",
+      "time": "0254731"
+    },
+    {
+      "tokens": [
+        "The check that the EMS (Entry Monitor System) can accurately monitor changes in velocity will come an hour earlier than before.",
+        "Mission Control want this test to occur earlier as part of the SPS test preparation."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The left-hand side of the Flight Plan has a column labelled 'MCC-H', for Mission Control Center - Houston, which carries details of tasks that Mission Control have to carry out which concern the spacecraft.",
+        "These are usually notes to remind flight controllers about updates to be sent to the crew.",
+        "As part of the SPS test, Mission Control are to uplink an accurate state vector to the spacecraft which will also be transferred to the LM.",
+        "They will also read up a PAD with details of the test burn, including the required attitude.",
+        "Once the crew have the PAD, they will stop the PTC roll and maneuver the spacecraft to the burn attitude.",
+        "An additional, but unconnected instruction has also been added to switch on the heaters which warm the line that feeds H2to purge the fuel cells."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Yes, I copied everything to the MCC-H column.",
+        "Understand the H2Purge Line Heater, On; and exit PTC; and maneuver to PAD burn attitude at 28:05."
+      ],
+      "speaker": "Irwin",
+      "time": "0254926"
+    },
+    {
+      "tokens": [
+        "Roger, Jim.",
+        "And we're going to lose comm in a minute; I'll be back with you."
+      ],
+      "speaker": "Allen",
+      "time": "0254936"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Irwin",
+      "time": "0254942"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Jim; this is Houston.",
+        "The comm's back again.",
+        "How do you read me?"
+      ],
+      "speaker": "Allen",
+      "time": "0255200"
+    },
+    {
+      "tokens": [
+        "Loud and clear."
+      ],
+      "speaker": "Irwin",
+      "time": "0255206"
+    },
+    {
+      "tokens": [
+        "Okay, I'm ready to continue.",
+        "And we'll pick up at 28:15, with a sextant star check.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0255208"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Irwin",
+      "time": "0255229"
+    },
+    {
+      "tokens": [
+        "Okay; 28:20 I'm - going - going to read to you seven lines of instructions here, and they're all reproduced two pages over in your Flight Plan at 30:30.",
+        "Your choice as to whether you want to copy them or just look two pages ahead.",
+        "I'll go ahead and read the lines now."
+      ],
+      "speaker": "Allen",
+      "time": "0255230"
+    },
+    {
+      "tokens": [
+        "Why don't we just look two pages ahead?"
+      ],
+      "speaker": "Irwin",
+      "time": "0255257"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Allen",
+      "time": "0255259"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Irwin",
+      "time": "0255300"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We're going - I want you to move seven of the lines from 30:30 to 28:20.",
+        "And those seven lines are: The SM Sector 1 SM/AC Power, On; Pan Camera Power, Boost; Map Camera Image Motion, Off; Map Camera, On, Standby; H2and O2fuel cell purge; waste water dump; and, at 28:35, H2Purge Line Heaters, Off.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0255301"
+    },
+    {
+      "tokens": [
+        "There are actually six nearly adjacent lines at 30:30 which are to be moved.",
+        "The seventh step, about the Purge Line Heaters, is much later, at 30:50."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, I'll move those - the six steps there..."
+      ],
+      "speaker": "Irwin",
+      "time": "0255402"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Allen",
+      "time": "0255405"
+    },
+    {
+      "tokens": [
+        "...at 28:20."
+      ],
+      "speaker": "Irwin",
+      "time": "0255406"
+    },
+    {
+      "tokens": [
+        "Roger, Jim.",
+        "That's right.",
+        "And the seventh step was at 28:35; you're correct, and that brings us to 28:40, which is SPS burn test.",
+        "And at 28:41, Verb 66, set CSM state vector into LM state vector.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0255409"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Copied SPS burn test, Verb 66."
+      ],
+      "speaker": "Irwin",
+      "time": "0255452"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "30:13, delete, and in fact, all the other items from here on out are deletes.",
+        "And I'll go through them quickly.",
+        "30:13, delete battery charge A termination; 30:15, delete H2Purge Line Heaters, On; 30:18, delete exit G&N PTC; 30:23, delete 'if SPS MCC required' and the references to pan and mapping cameras - the things, in fact, that you moved ahead; 30:35 delete H2and O2fuel cell purge and waste water dump; and, finally, 30:50, delete H2Purge Line Heaters, Off.",
+        "Over."
+      ],
+      "speaker": "Allen",
+      "time": "0255455"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I copied all that, Joe.",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0255615"
+    },
+    {
+      "tokens": [
+        "Okay, guys.",
+        "That's all we've got for you for the moment.",
+        "Dick walked into the MOCR a few minutes ago.",
+        "He says that the test burn procedure went okay.",
+        "We're going to look it over one last time and then read the procedures to you."
+      ],
+      "speaker": "Allen",
+      "time": "0255714"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Irwin",
+      "time": "0255729"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Although this journal isially uses the term 'Mission Control', the people who worked there knew it as MCC, though this referred to the control room and the support rooms around it.",
+        "The control room was referred to as the the MOCR (Mission Operations Control Room, pronounced like 'poker') and was the large room with four rows of consoles and large projection screens, familiar to millions of TV viewers during live coverage of the missions."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The back-up commander for Apollo 15, Richard Gordon, has been in one of the two Command Module Simulators, checking the procedures for the SPS burn test.",
+        "These simulators, which were given a starring role in the movie,Apollo 13,did not provide the sensations of movement which a modern aircraft simulator would, but they were controlled by computers to illuminate every light, drive every gauge and respond to every switch and control to give the astronaut an accurate idea of how the real spacecraft should perform.",
+        "One simulator was in Houston at MSC (Manned Spacecraft Center, now called the Johnson Space Center).",
+        "The other simulator was at the Kennedy Space Center in Florida."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Actually, the two contractors, North American Rockwell Corp.",
+        "for the CSM and Grumman Aerospace Corp.",
+        "for the LM, also had simulators, although these were perhaps not as sophisticated as those in Houston and Florida (e.g., the LM simulator may have all the system functions, necessary for system integrated sims, but probably did not have things like the lunar surface model that was projected to the LM windows.) MIT had a specialised simulator designed to train crews in navigation across cislunar space.",
+        "During our review in 2004 with Dave, we discussed the value of simulations with regard to how they helped to bond the operational team that ran an Apollo mission."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Woods, from2004 mission review:\"Simulations would have been a very important part of making that team work.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott, from2004 mission review:\"Especially integrated sims with MCC.",
+        "Boy, those were invaluable because you got the feel for who's doing what and how it was being done and that sort of thing.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "O'Brien, from2004 mission review:\"When you debriefed after the integrated sims, was it a group debriefing?\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott, from2004 mission review:\"Oh, yeah.",
+        "Everybody was on the loop.",
+        "We'd get out of the simulator and go sit down at the console.",
+        "Flight Director would get on the loop with all the people in MCC and with us and sort of conduct the debriefing so that everybody could see who did what and when and how.",
+        "Sometimes they go for an hour.",
+        "You'd have SimSup, the guys who put the problems into the sim, on the loop.",
+        "And they'd say, 'We put in da-da-da-da at such and such a time and did whoever respond properly?' And if they didn't, then we'd analyse, as a group, why it didn't happen, why the actions weren't correct and, knowing what the fault was and what the purpose of the fault was.",
+        "That's why the SimSup kind of guys that ran the integrated sims were so valuable.",
+        "Because they knew the script going in, and they knew what the actions should be to correct the problem.",
+        "And we didn't; the crew and MCC didn't.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Woods, from2004 mission review:\"In the debriefing situation like that after a sim, how was blame handled and how was the management of blame part of what made Apollo successful.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott, from2004 mission review:\"There wasn't any blame.",
+        "If somebody screwed up, they'd say, 'Oh, geeze.",
+        "I screwed up.'\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Woods, from2004 mission review:\"They stand up and be honest.",
+        "It's complete and open honesty?\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott, from2004 mission review:\"Complete, open honesty.",
+        "And there wasn't any, 'Well you really are a bad person because you screwed up!' No.",
+        "Everybody was open about it and, you know, it was sort of, almost like an interesting game, because you finally found out from SimSup what the fault was and why it was interjected.",
+        "And if you got caught, you say, 'Oh, geeze.",
+        "You got me.",
+        "You got me!' So you learn from that.",
+        "And there wasn't any put-down or admonishment or anything like that.",
+        "Nah."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott (continued):\"I mean, maybe after the debriefing, maybe some guy in Mission Control screwed up, maybe Flight Director went and sat with him and said, 'you understand what your problem is?' And I know on a crew, if somebody on the crew screwed up, he'd sit down and say, 'What do you think the problem was?",
+        "How do we fix it?' But you don't say, 'Jim Irwin, you really are a bad person.",
+        "You screwed up!",
+        "Go sit in the corner.",
+        "You don't get cookies today.'"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott (continued):\"A lot of times, if a guy really screwed up bad, the condemnation, if you will, would be done in private.",
+        "You wouldn't expose somebody on the loop.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "O'Brien, from2004 mission review:\"Was there a formal structure to the debriefings?\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott, from2004 mission review:\"Yeah.",
+        "It followed the timeline.",
+        "And it was just, you say, 'OK, we started the rendezvous at da-da-da-da-da, and at twenty minutes later, the radar went out.",
+        "Okay.",
+        "And then da-da-da-da-da.' People would talk about how they solved the problem.",
+        "What their rationale was to solve the problem.",
+        "What actions they took, and then they'd say, 'Okay, SimSup.",
+        "What did you do to the radar?' He'd say, 'Well, we put in a da-da-da and da-da-da.",
+        "And we expected you to do A, B, C; but you did E, F, G; and therefore you compromised the situation.' Or, 'We expected you to do A, B, C, and you did it right on.' Something like that."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott (continued):\"And another part of the integrated sims was that they were open to the management.",
+        "So management, the Director of the Manned Spacecraft Center would sit in his office and watch the whole thing on closed loop TV and have the script in front of him.",
+        "So he would know what SimSup was gonna put in, and when, and he could watch the response of the crew and MCC.",
+        "So it avoided the need to have grades and all that stuff.",
+        "Because by the time you got ready to fly, because it was such a nice, open system, everybody knew the capabilities of everybody else.",
+        "So they understood the strengths and the weaknesses.",
+        "And so you could play, if you will, to the strengths and you could play to the weaknesses.",
+        "So if a guy on a crew was weak in some area, the flight controllers could focus on that and make sure they kept him up."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott (continued):\"Integrated sims weren't that frequent.",
+        "I can't remember how many we had but they weren't daily.",
+        "Took the whole network!",
+        "Had to get the whole network up.",
+        "Everywhere!",
+        "All the communication centres and tracking sites.",
+        "Depends on the phase of the mission, but anybody who would be playing a role in the actual mission was tied into the integrated sim.",
+        "It was very complex and everybody had to be aboard and on time and linked so that when the sim started, everybody was there.",
+        "And sometimes they'd go two or three hours depending on what you're doing, and everybody's there the whole time, and everybody's there for the debrief.",
+        "People couldn't go off and go da-da-da-da.",
+        "Everybody was focussed.",
+        "It was like a mission.",
+        "It's very close and it was very well done.",
+        "I mean it was invaluable.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "O'Brien, from2004 mission review:\"About the malfunctions they inserted.",
+        "Was that something that, after a while started becoming an unreasonable amount?",
+        "I know that they tried loading you up as much as they could, but were the malfunctions the kind that you would go, 'This is a dumb one because this doesn't make much sense.'?\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott, from2004 mission review:\"No, because the guys doing that were skilled.",
+        "I mean, they were former flight controllers, or flight-active flight controllers.",
+        "They were skilled in the art.",
+        "Sometimes they were on the edge and they piled up too much on one flight controller.",
+        "FIDO got hit two or three times or something like that.",
+        "But they're testing the system, the resiliency of the system to find out if there are any weak points and if there are any weak points, you go fix them.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Woods, from2004 mission review:\"And they know they're answerable to the system as a whole because it's such an open system.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott, from2004 mission review:\"Yeah.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Woods, from2004 mission review:\"How important do you think the leadership in NASA was in making that happen or was it driven purely by the mission itself?",
+        "Did you have to have the right people in the top positions in order to make the system work?\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott, from2004 mission review:\"It's an evolutionary process.",
+        "And the answer's yes, of course.",
+        "The management technique which a lot of companies have, a lot of companies don't.",
+        "But NASA, at that time, encouraged everybody to be open and frank and candid.",
+        "And in any meeting, anybody could stand up and offer a suggestion that may be counter to the consensus.",
+        "And that was encouraged.",
+        "They weren't put down.",
+        "Probably the best control of that would be peer pressure.",
+        "So, you know, GNC kind of meeting, there's some young guidance guy had a great idea that was counter to the consensus, he could stand up but his peers would be watching him and he'd probably talk to his peers.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-29."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, this is [Apollo] 15.",
+        "We're ready to cycle the film in the - the Pan[oramic] and Mapping Cameras.",
+        "[Long Pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0260403"
+    },
+    {
+      "tokens": [
+        "Apollo 15 is the first mission to carry the Scientific Instrument Module mounted in the previously unoccupied sector 1 of the Service Module.",
+        "It is usually referred to as the SIM bay.",
+        "During the six days of lunar orbit, the instruments in this bay will study the Moon, but at this stage of the mission, the bay is hidden behind one of the SM doors which will be jettisoned by explosives just before the spacecraft reaches the Moon.",
+        "Two high quality cameras, the Mapping Camera and the Panoramic Camera, are included among the array of sensors.",
+        "Their supply of film must occasionally be moved forward to avoid it setting in a particular position around the various rollers of the supply and take up mechanisms.",
+        "A detailed description of the cameras can be found at106:08:18."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The procedures for cycling the film in the SIM bay are listed inpage 3-28 of the Flight Plan.The HGA (High Gain Antenna) is used with its auxiliary channel switched to relay data from the SIM bay at a high bit rate so the Mission Control can monitor the progress of the operation.",
+        "Mission Control has to advise the crew of the correct angles for pointing the HGA so they can achieve the initial acquisition of the communications link.",
+        "The Pan Camera is powered up first and the film cycled, then the Mapping Camera.",
+        "Afterwards, both cameras are switched off, the HGA secured in its parked position with communications restored through omni antenna B at a low bit rate.",
+        "Surprisingly perhaps, the cycling will take over an hour to complete."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, we're ready when we get the High Gain going here.",
+        "And I guess we'll have that ready [in] about 5 minutes."
+      ],
+      "speaker": "Allen",
+      "time": "0260422"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0260433"
+    },
+    {
+      "tokens": [
+        "Endeavour, this is Houston with your High Gain Antenna angles update."
+      ],
+      "speaker": "Allen",
+      "time": "0260505"
+    },
+    {
+      "tokens": [
+        "All right; go ahead, Joe."
+      ],
+      "speaker": "Scott",
+      "time": "0260512"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "For the High Gain; Pitch, minus 25 [degrees]; Yaw, 90."
+      ],
+      "speaker": "Allen",
+      "time": "0260515"
+    },
+    {
+      "tokens": [
+        "Okay, minus 25 and 90."
+      ],
+      "speaker": "Irwin",
+      "time": "0260526"
+    },
+    {
+      "tokens": [
+        "Roger; and the Omni [Means HGA], Reacq, NBW.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0260528"
+    },
+    {
+      "tokens": [
+        "The given angles should point the HGA at Earth so that the antenna's control system can keep it there as the spacecraft rotates.",
+        "NBW means 'narrow beamwidth' which will improve the signal to noise ratio of the received signal on Earth."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Irwin",
+      "time": "0260536"
+    },
+    {
+      "tokens": [
+        "And that's just for your information.",
+        "[Long pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0260541"
+    },
+    {
+      "tokens": [
+        "Jim, if you'll go ahead and set the angles in, we'll give you the cue when we're ready for you to select the High Gain."
+      ],
+      "speaker": "Allen",
+      "time": "0260615"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Irwin",
+      "time": "0260625"
+    },
+    {
+      "tokens": [
+        "And it looks like it will be about 10 minutes, I guess."
+      ],
+      "speaker": "Allen",
+      "time": "0260626"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Irwin",
+      "time": "0260632"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Other tasks that the crew are completing about this time are the replacement of number 2 lithium hydroxide canister with number 4, stowing the exhausted cartridge into compartment B5, and for the LMP to remove his biomedical harness and for the CDR to put his on."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, this is Houston."
+      ],
+      "speaker": "Allen",
+      "time": "0260822"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Irwin",
+      "time": "0260827"
+    },
+    {
+      "tokens": [
+        "Roger, guys.",
+        "[I] wondered if you were interested in any breakfast-time news up there?"
+      ],
+      "speaker": "Allen",
+      "time": "0260828"
+    },
+    {
+      "tokens": [
+        "Yes, sir; we always are."
+      ],
+      "speaker": "Irwin",
+      "time": "0260836"
+    },
+    {
+      "tokens": [
+        "Although the crew is in constant communication with Earth, news of the world is most welcome.",
+        "Not unlike the times each of them have spent on deployments at distant posts, simple things like the up-to-date news headlines and sports scores let the crew know that all is well."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott, from1998 correspondence:\"As I recall, it was always nice to hear from 'home' every morning.",
+        "Hearing the news meant that everything was under control and all the troops were relaxed - good feeling!\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Is it breakfast time?"
+      ],
+      "speaker": "Allen",
+      "time": "0260839"
+    },
+    {
+      "tokens": [
+        "It's just about.",
+        "[Pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0260842"
+    },
+    {
+      "tokens": [
+        "Okay, Troops.",
+        "Let me start with a special message of Godspeed to the crew of Apollo 15 from President Richard Nixon.",
+        "And I'll quote directly from him, and there are some words in here that are very well expressed, I think.",
+        "\"Apollo 15 is safely on its way to the Moon, and man is on his way to another step across the threshold of the heavens.",
+        "Man has always viewed the heavens with humility, but he's viewed them as well with curiosity and with courage; and these defied natural law, drawing man beyond gravity, beyond his fears, and into his dreams, and on to his destiny.\" And we may be losing comm here.",
+        "Let me stand by for a minute."
+      ],
+      "speaker": "Allen",
+      "time": "0260852"
+    },
+    {
+      "tokens": [
+        "Endeavour, select the High Gain for us, please.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0261048"
+    },
+    {
+      "tokens": [
+        "Okay, guys; suddenly you're back loud and clear, how do you read, Houston?",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0261059"
+    },
+    {
+      "tokens": [
+        "The interference on comm is not of the usual sort.",
+        "It clears for about 12 seconds then returns for 25."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, we're [garble].",
+        "[Long pause.]"
+      ],
+      "speaker": "Irwin",
+      "time": "0261111"
+    },
+    {
+      "tokens": [
+        "Endeavour, this is Houston.",
+        "How do you read?",
+        "[No answer.]"
+      ],
+      "speaker": "Allen",
+      "time": "0261141"
+    },
+    {
+      "tokens": [
+        "Apollo 15, this is Houston.",
+        "Over.",
+        "[No answer.]"
+      ],
+      "speaker": "Allen",
+      "time": "0261204"
+    },
+    {
+      "tokens": [
+        "Hello, Endeavour, this is Houston.",
+        "Over."
+      ],
+      "speaker": "Allen",
+      "time": "0261302"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Irwin",
+      "time": "0261307"
+    },
+    {
+      "tokens": [
+        "Rog, Jim.",
+        "Sorry for the inter - interruption there.",
+        "We had severe noise on our comm momentarily, but it's cleared up now.",
+        "I'll go ahead with the morning's news and a quote from President Nixon.",
+        "\"The flight of Apollo 15 is the most ambitious exploration yet undertaken in space.",
+        "Even as it reflects man's restless quest for his future, so it also re-enacts another of the deeper rituals of his bones, not only the compulsion of the inner spirit to know where we are going, but the primal need in man's blood to know from what we have come.",
+        "We hope, by this journey, to know better the origins of Earth, the Moon, and other planets.",
+        "We hope to understand something more of the mysteries of God's great work.",
+        "And, in this seeking, we hope to understand more of man himself.",
+        "To the men of Apollo 15, for all men, I say Godspeed.\" End quote.",
+        "And there's a second message here that was telephoned to Doctor Fletcher [NASA Administrator] yesterday through the State Department.",
+        "It reads, \"Congratulations on flawless launch.",
+        "Please pass my best wishes for a successful mission to the crew of Apollo 15 and to your entire staff.\" And that message is signed \"Spiro T.",
+        "Agnew\".",
+        "And a third comment about the launch was the launch is called flawless and you three are described as being very businesslike.",
+        "And Kappy [Walter J.",
+        "Kapryan, Director of Launch Operations, Kennedy Space Center] is quoted as saying, quote, \"The mission was the most nominal launch we have ever had.\" Unquote.",
+        "And I'd like to put in an editor's note here.",
+        "That's probably technically correct, but it's aesthetically very incorrect.",
+        "You could track the vehicle for hundreds of miles, literally hundreds of miles through a beautiful clear sky, and it was a sensational launch aesthetically.",
+        "I suspect you - I'm sure you would agree with that.",
+        "Let's see, we've got an item here on Muhammad Ali/Jimmy Ellis fight here in the Astrodome, and it was declared a technical knockout in favor of Muhammad Ali in the last round - the 12th round.",
+        "And it says that Ali took control of the fight in the sixth round and signaled the start of the end with an upper cut midway through the final round.",
+        "And continuing on with the news, if you're still reading.",
+        "Western Union employees..."
+      ],
+      "speaker": "Allen",
+      "time": "0261308"
+    },
+    {
+      "tokens": [
+        "Rog, Joe."
+      ],
+      "speaker": "Scott",
+      "time": "0261559"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Western Union employees have announced agreement on a new contract that will end a nationwide walkout that began June 1.",
+        "The 17,000 striking workers will go back on the job Wednesday morning.",
+        "The Lockheed Company lost two senate vote - votes today in its attempt to avoid bankruptcy by obtaining a $250 million Government loan guarantee.",
+        "In sporting news or further sporting news, the Oilers traded Jerry LeVias to the San Diego Chargers in exchange for two linemen, defensive lineman Ron Billingsley, and the 300-pound Gene Ferguson.",
+        "The Oilers will use Ferguson at offensive tackle, it says.",
+        "And, finally, the Minnesoka - Minnesota Vikings lost the services of starting guard, Jim Vellone when the doctors revealed that - that an undisclosed ailment would require long-term extensive treatment.",
+        "And that's the end of the condensed news page I have in front of me this morning."
+      ],
+      "speaker": "Allen",
+      "time": "0261600"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Thank you very much, Joe, and please express our appreciation to the President and the Vice-President."
+      ],
+      "speaker": "Scott",
+      "time": "0261714"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Sure will.",
+        "[Long pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0261721"
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "Go to Auto Track for us now, please, and we're going to wait for another rev before we start to cycle those cameras.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0261746"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "Auto Track."
+      ],
+      "speaker": "Scott",
+      "time": "0261800"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The slow roll of the spacecraft in its PTC mode is taking the HGA towards the limits of its movement as it attempts to keep pointed towards Earth.",
+        "CapCom Joe Allen is telling the crew that they will wait for the spacecraft to turn around far enough for the antenna to reacquire Earth once it comes around the other side.",
+        "It is unclear why the HGA should be switched to Auto Track when Reacquire will do the same task and will be selected anyway in ten minutes."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, this is Houston.",
+        "We'll be coming up on your camera cycling in about 15 minutes.",
+        "It's for your own planning, and we'll cue you when we're ready for that."
+      ],
+      "speaker": "Allen",
+      "time": "0262000"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We read, Joe."
+      ],
+      "speaker": "Irwin",
+      "time": "0262014"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, could you select your Reacq mode, now for us please."
+      ],
+      "speaker": "Allen",
+      "time": "0262844"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Going to Reacq."
+      ],
+      "speaker": "Irwin",
+      "time": "0262851"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Allen",
+      "time": "0262853"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The angles which Joe Allen read up for the HGA 22 minutes ago are still dialled in to the HGA controls.",
+        "By going to Reacq, the antenna will move to these angles and wait until it reacquires Earth, which it will then track."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Endeavour; this is Houston.",
+        "And we're ready for the camera cycling procedure now."
+      ],
+      "speaker": "Allen",
+      "time": "0263218"
+    },
+    {
+      "tokens": [
+        "Stand by, Joe."
+      ],
+      "speaker": "Scott",
+      "time": "0263230"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Allen",
+      "time": "0263232"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "15, this is Houston.",
+        "If we're going to complete the camera cycling on this rev[olution of the spacecraft], I guess we'd better get started on that."
+      ],
+      "speaker": "Allen",
+      "time": "0263512"
+    },
+    {
+      "tokens": [
+        "Yeah, we're in the process, Joe."
+      ],
+      "speaker": "Scott",
+      "time": "0263521"
+    },
+    {
+      "tokens": [
+        "Oh, okay."
+      ],
+      "speaker": "Allen",
+      "time": "0263523"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 15."
+      ],
+      "speaker": "Worden",
+      "time": "0263640"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Allen",
+      "time": "0263644"
+    },
+    {
+      "tokens": [
+        "Okay; if you're reading all the te - good telemetry down there, Joe, we'll be glad to cycle this thing."
+      ],
+      "speaker": "Worden",
+      "time": "0263648"
+    },
+    {
+      "tokens": [
+        "Roger, Al.",
+        "Go ahead.",
+        "But stand - stand by.",
+        "Sorry; stand by."
+      ],
+      "speaker": "Allen",
+      "time": "0263656"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Worden",
+      "time": "0263703"
+    },
+    {
+      "tokens": [
+        "We're not getting high-bit-rate data yet."
+      ],
+      "speaker": "Allen",
+      "time": "0263705"
+    },
+    {
+      "tokens": [
+        "Okay; we'll stand by for your cue then, Joe.",
+        "[Long pause.]"
+      ],
+      "speaker": "Worden",
+      "time": "0263710"
+    },
+    {
+      "tokens": [
+        "Al, this is Houston.",
+        "Is your data system switch on?",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0263803"
+    },
+    {
+      "tokens": [
+        "Rog, Joe.",
+        "That's affirm; it is."
+      ],
+      "speaker": "Worden",
+      "time": "0263812"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Allen",
+      "time": "0263815"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 15, Houston.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0264320"
+    },
+    {
+      "tokens": [
+        "Go ahead, Houston."
+      ],
+      "speaker": "Worden",
+      "time": "0264327"
+    },
+    {
+      "tokens": [
+        "Guys, we're having trouble picking up the proper data so we can monitor the film cycling process here.",
+        "So we're going to have you stand by on that until our next High Gain acquisition, and we'll be back with you.",
+        "In the meantime, leave all the SIM bay in the present configuration, if you would, please."
+      ],
+      "speaker": "Allen",
+      "time": "0264328"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Worden",
+      "time": "0264350"
+    },
+    {
+      "tokens": [
+        "Okay..."
+      ],
+      "speaker": "Allen",
+      "time": "0264353"
+    },
+    {
+      "tokens": [
+        "Is there anything we can do to help, Joe?"
+      ],
+      "speaker": "Worden",
+      "time": "0264354"
+    },
+    {
+      "tokens": [
+        "Say again, Al."
+      ],
+      "speaker": "Allen",
+      "time": "0264356"
+    },
+    {
+      "tokens": [
+        "Is there anything we can do to help?",
+        "[Long pause.]"
+      ],
+      "speaker": "Worden",
+      "time": "0264359"
+    },
+    {
+      "tokens": [
+        "Communications drops out for a few seconds."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Al, this is Houston.",
+        "We don't think that there's anything that - that you can do to help us at the moment.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0264437"
+    },
+    {
+      "tokens": [
+        "Roger, Joe."
+      ],
+      "speaker": "Worden",
+      "time": "0264452"
+    },
+    {
+      "tokens": [
+        "Okay; and in the meantime, we'd like to talk about the upcoming SPS burn, and we're going to be reading procedures up to you in a moment, and we think it's the easiest for you to copy these into your CSM Launch Checklist.",
+        "So you might be looking for that and getting that out.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0264454"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "I wonder if you could hold off for about 10 or 15 minutes and let us get through the breakfast chores here, and then we can settle down and concentrate."
+      ],
+      "speaker": "Scott",
+      "time": "0264524"
+    },
+    {
+      "tokens": [
+        "That'll be fine, Dave.",
+        "We'll be standing by for your call on that and there is no hurry."
+      ],
+      "speaker": "Allen",
+      "time": "0264535"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "0264542"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At 26:50, Al should be carrying out the P52 platform realignment which was added to the Flight Plan at 025:46:51.",
+        "However, he does not begin until after 27:16, once they get the SIM bay camera cycling procedure out of the way."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 15, select High Gain for us, please.",
+        "[Long pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0265401"
+    },
+    {
+      "tokens": [
+        "Endeavour, this is Houston."
+      ],
+      "speaker": "Allen",
+      "time": "0265442"
+    },
+    {
+      "tokens": [
+        "Go ahead, Joe."
+      ],
+      "speaker": "Worden",
+      "time": "0265447"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stop PTC mode for us now, please."
+      ],
+      "speaker": "Allen",
+      "time": "0265454"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by."
+      ],
+      "speaker": "Worden",
+      "time": "0265500"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The crew exits the computer program used to maintain the PTC and is most likely selecting the attitude hold mode to maintain their current attitude.",
+        "This will allow them to use the High Gain Antenna for an extended period of time (more than the 10 minutes on, 10 minutes off pattern that would be available at best during PTC), which is necessary for Houston to monitor the progress of the Panoramic Camera's film cycling."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 15, Houston."
+      ],
+      "speaker": "Allen",
+      "time": "0265802"
+    },
+    {
+      "tokens": [
+        "Go ahead, Joe."
+      ],
+      "speaker": "Irwin",
+      "time": "0265808"
+    },
+    {
+      "tokens": [
+        "Guys, could you tell us how far down in your cycle film procedure you've proceeded - down to what step."
+      ],
+      "speaker": "Allen",
+      "time": "0265810"
+    },
+    {
+      "tokens": [
+        "Joe, this is Al.",
+        "We've got down to the point where we want to get a cue from you to cycle the film."
+      ],
+      "speaker": "Worden",
+      "time": "0265820"
+    },
+    {
+      "tokens": [
+        "Okay, Al; that's fine.",
+        "We copy that, and we suspected that, but wanted to confirm it."
+      ],
+      "speaker": "Allen",
+      "time": "0265827"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-30."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Al, this is Houston."
+      ],
+      "speaker": "Allen",
+      "time": "0270102"
+    },
+    {
+      "tokens": [
+        "Go ahead, Joe."
+      ],
+      "speaker": "Worden",
+      "time": "0270106"
+    },
+    {
+      "tokens": [
+        "Roger, Alfredo.",
+        "Could you verify two things for us, please, that the Map[ping] Camera is in Standby and that the Pan[oramic] Camera power switch is On; and when you turned it on, did you get the proper talkback indication?"
+      ],
+      "speaker": "Allen",
+      "time": "0270107"
+    },
+    {
+      "tokens": [
+        "The answer is affirmative to both of those, Joe."
+      ],
+      "speaker": "Worden",
+      "time": "0270124"
+    },
+    {
+      "tokens": [
+        "Okay; thank you."
+      ],
+      "speaker": "Allen",
+      "time": "0270129"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Allen is checking that the crew has reached the lines in the checklist, immediately prior to Mission Control's cue."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Al, this is Houston with another request on this film cycle procedure."
+      ],
+      "speaker": "Allen",
+      "time": "0270514"
+    },
+    {
+      "tokens": [
+        "Okay, Joe; go ahead."
+      ],
+      "speaker": "Worden",
+      "time": "0270520"
+    },
+    {
+      "tokens": [
+        "Roger, Al.",
+        "Could you cycle the SM/AC Power switch for us, Off, and then, On, please."
+      ],
+      "speaker": "Allen",
+      "time": "0270522"
+    },
+    {
+      "tokens": [
+        "Okay, José; [we'll] do it."
+      ],
+      "speaker": "Worden",
+      "time": "0270533"
+    },
+    {
+      "tokens": [
+        "Okay; and the problem here, we're seeing all the carriers, but we don't get proper modulation, and so we're just not getting the right data.",
+        "[Long pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0270536"
+    },
+    {
+      "tokens": [
+        "For readers who are not familiar with radio jargon, the carriers that the Joe Allen refers to are the continuous radio signals which are being received on Earth from the HGA.",
+        "They will 'carry' information by being modulated, or altered by that information, a process which is reversed on Earth to recover it.",
+        "The cycling of the SM/AC Power switch is intended to try and correct the problem which is stopping the data from the SIM bay reaching the radio electronics.",
+        "In electronic troubleshooting, switching a device or system off, then on again, - \"cycling\" it - is a common way of clearing faults, though often the engineer does not know what was wrong in the first place.",
+        "Often these types of problems are referred to by the ground controllers by their technical name: \"funnies\".",
+        "This is distinct from cycling film through the SIM bay cameras to stop it setting in position,"
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Joe; that[SM/AC Power switch]'s been cycled now."
+      ],
+      "speaker": "Worden",
+      "time": "0270555"
+    },
+    {
+      "tokens": [
+        "Okay, Al.",
+        "Thank you."
+      ],
+      "speaker": "Allen",
+      "time": "0270559"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 15, Houston."
+      ],
+      "speaker": "Allen",
+      "time": "0271105"
+    },
+    {
+      "tokens": [
+        "Houston, 15; go ahead."
+      ],
+      "speaker": "Worden",
+      "time": "0271109"
+    },
+    {
+      "tokens": [
+        "Rog, guys.",
+        "The attitude which you're currently holding is a good attitude for your P52, if one of you wants to get started on that.",
+        "We'll have some words for you on the SIM bay problem in a few minutes, and then we'll want to be talking about the SPS burn coming up pretty shortly here.",
+        "That is, we want to talk about it shortly; it won't be coming up for a while."
+      ],
+      "speaker": "Allen",
+      "time": "0271111"
+    },
+    {
+      "tokens": [
+        "Okay, Joe; I'll start doing the P52 [platform realignment]."
+      ],
+      "speaker": "Worden",
+      "time": "0271141"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0271144"
+    },
+    {
+      "tokens": [
+        "Okay, Al.",
+        "This - this is Houston again."
+      ],
+      "speaker": "Allen",
+      "time": "0271239"
+    },
+    {
+      "tokens": [
+        "Yeah, Joe; go ahead."
+      ],
+      "speaker": "Worden",
+      "time": "0271246"
+    },
+    {
+      "tokens": [
+        "Al, your choice here.",
+        "We suddenly found the missing data [in the downlink].",
+        "It mysteriously reappeared, and we - we're ready to go ahead with your film cycling procedure.",
+        "Your choice if you want to do your P52 first or the film cycle first, and we're standing by for either."
+      ],
+      "speaker": "Allen",
+      "time": "0271251"
+    },
+    {
+      "tokens": [
+        "We're all set up on the - We're all set up on the film cycle, Joe.",
+        "Why don't we go ahead and do that and then I'll flip down and do P52."
+      ],
+      "speaker": "Worden",
+      "time": "0271307"
+    },
+    {
+      "tokens": [
+        "Okay, Al that sounds good to us and we'll be watching."
+      ],
+      "speaker": "Allen",
+      "time": "0271314"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The Mapping Camera is cycled by switching it on for 2 minutes, then off.",
+        "The Panoramic Camera is cycled by putting it into its self-test mode.",
+        "The talkback indicator adjacent to the self-test switch should go barber pole while five frames are passed through, then it should go gray."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Al; film cycling's complete, and it all looked very good to us.",
+        "You can proceed on with the powerdown."
+      ],
+      "speaker": "Allen",
+      "time": "0271639"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "Thank you, sir.",
+        "[Long pause.]"
+      ],
+      "speaker": "Worden",
+      "time": "0271648"
+    },
+    {
+      "tokens": [
+        "Okay; the powerdown to the SIM bay is complete, Joe."
+      ],
+      "speaker": "Irwin",
+      "time": "0271706"
+    },
+    {
+      "tokens": [
+        "Okay, Jim."
+      ],
+      "speaker": "Allen",
+      "time": "0271712"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the camera cycling procedure completed, Al can proceed with the guidance platform realignment ahead of the SPS test burn."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "During the following PAO update, the audio is lost for a time due to the tapes being changed in the recording equipment."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "27 hours, 22 minutes Ground Elapsed Time.",
+        "Apollo 15 now 111,078 nautical miles [205,716 km] out from Earth.",
+        "Velocity now 4,977 feet per second [1,517 m/s].",
+        "The crew, just a few moments ago, completed the cycling of the film transports in the Panoramic and Mapping Cameras in the Science Instrumentation Module, or SIM bay, back in the Service Module.",
+        "For a while there, no data was coming into the control center to monitor this cycling, but the - apparently the blockage was found somewhere in the network between the Madrid station and Mission Control.",
+        "And mysteriously the data started coming in.",
+        "The crew was given a Go to complete the test.",
+        "Here's air/ground [communication]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 15."
+      ],
+      "speaker": "Worden",
+      "time": "0272301"
+    },
+    {
+      "tokens": [
+        "Go ahead, Al."
+      ],
+      "speaker": "Allen",
+      "time": "0272304"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "I've got [the] gyro torquing angles up [on the DSKY], and I'll torque them out on the minute.",
+        "That'll be at 27 hours and 24 minutes."
+      ],
+      "speaker": "Worden",
+      "time": "0272307"
+    },
+    {
+      "tokens": [
+        "Okay, Al."
+      ],
+      "speaker": "Allen",
+      "time": "0272316"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At any rate, the camera tests shown onpage 3-28of the Apollo 15 Flight Plan, were completed satisfactorily and the crew is presently doing a P52 realignment - program 52 realignment of the Inertial Measurement Unit.",
+        "Earlier, the midcourse 2 correction burn time was shown on displays here in the control center as being at 22 [correcting himself] or 28 hours, 30 minutes.",
+        "The Flight Dynamics Officer has subsequently shifted the [burn] time to ten minutes later at 28 hours, 40 minutes.",
+        "Duration of the burn is less than one second; .85 seconds to be precise.",
+        "In this burn, it's hoped to determine what the nature of the problem is with the Delta-V light that comes on in the EMS or Entry Monitor System panel in the spacecraft.",
+        "Some procedures will be read up to the crew by Dick Gordon who is standing by at the CapCom's console.",
+        "Gordon, earlier today, ran through these procedures in the Houston Command Module Simulator in the crew training building.",
+        "If the engine - in these procedures, it says, quote: if the engine does not start within about 3 seconds, open SPS pilot valves A..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "15, Houston."
+      ],
+      "speaker": "Allen",
+      "time": "0272510"
+    },
+    {
+      "tokens": [
+        "Go ahead, Joe."
+      ],
+      "speaker": "Scott",
+      "time": "0272514"
+    },
+    {
+      "tokens": [
+        "Guys, we just had indication that your Thrust light came on again for about 10 seconds.",
+        "Did you notice that?"
+      ],
+      "speaker": "Allen",
+      "time": "0272515"
+    },
+    {
+      "tokens": [
+        "Yeah.",
+        "Roger, Joe.",
+        "That was the EMS Delta-V check."
+      ],
+      "speaker": "Scott",
+      "time": "0272523"
+    },
+    {
+      "tokens": [
+        "This check was moved up from 28:00 to 27:00 as part of the Flight Plan updates read up at 025:47:31.",
+        "The Thrust On light is illuminated when the EMS is tested over 10 seconds to check it can measure velocity changes accurately."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Dave.",
+        "Thank you.",
+        "And, guys, we - we'd like to ask that you locate your CSM Launch Checklist, because we want to start talking about this SPS burn procedure.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0272528"
+    },
+    {
+      "tokens": [
+        "Okay, we'll be ready in a couple of minutes."
+      ],
+      "speaker": "Scott",
+      "time": "0272544"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "At any rate, if the engine does not start within 3 seconds, it indicates that the short is upstream of the Service Propulsion System pilot solenoid valves.",
+        "If the engine does start, the short is downstream of the same pilot solenoids.",
+        "At any rate all of this should be made fairly clear in the discussion upcoming between Dick Gordon and the crew of Apollo 15.",
+        "And at 27 hours, 26 minutes, we're up live on the air/ground.",
+        "This is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We've got the checklist out, and we're ready to listen."
+      ],
+      "speaker": "Scott",
+      "time": "0272729"
+    },
+    {
+      "tokens": [
+        "Okay, Dave.",
+        "If you would, please, turn topage L/4-14,and we're just going to ask you to copy the procedure onto that page, because it'll consist of just a few changes to what's already listed on - on those few pages there."
+      ],
+      "speaker": "Allen",
+      "time": "0272735"
+    },
+    {
+      "tokens": [
+        "Okay; we've got L/4-14.",
+        "Go ahead."
+      ],
+      "speaker": "Scott",
+      "time": "0272759"
+    },
+    {
+      "tokens": [
+        "We've got L/4-14.",
+        "Go ahead."
+      ],
+      "speaker": "Scott",
+      "time": "0272805"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Unless you'd like an explanation of what's to come, I'll go ahead and read through the steps here and pause from time to time to make sure that you're getting it all, and then we can talk about the details of why it's breaking out like this when we finish it."
+      ],
+      "speaker": "Allen",
+      "time": "0272809"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Go."
+      ],
+      "speaker": "Scott",
+      "time": "0272827"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "I'm going to start there at the line, \"If time permits, go to G&N thrusting procedures,\" et cetera, and right underneath that short paragraph, write in: \"Circuit breakers EPS Group 5, two, Close;\" and that's a \"Verify.\""
+      ],
+      "speaker": "Allen",
+      "time": "0272829"
+    },
+    {
+      "tokens": [
+        "This added line in the checklist is simply asking that the crew verify that the circuit breakers in question are already closed."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, circuit breakers EPS Group 5, two, Close.",
+        "That's the Main A and Main B, right?"
+      ],
+      "speaker": "Scott",
+      "time": "0272857"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "And then we'll go on down about 4 lines to the \"Set Delta-V\" and that should read: \"Set Delta-VCminus 100."
+      ],
+      "speaker": "Allen",
+      "time": "0272902"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Set Delta-VCminus 100."
+      ],
+      "speaker": "Scott",
+      "time": "0272918"
+    },
+    {
+      "tokens": [
+        "A figure of minus 100 fps is to be preset into the Delta-V display in the EMS before the burn.",
+        "The Delta-V measuring part of the EMS is always operated in a region away from zero if possible.",
+        "Changes in the reading during and after the burn will be with respect to this offset reading.",
+        "The same technique was employed during the Transposition, Docking and extraction maneuver."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Now into the TVC check and prep section.",
+        "After the first line, which is \"Circuit breaker Stab[ilizaton] Control System [SCS], all Close,\" insert: \"Circuit breakers SPS pilot valves, two, Open;\" and that's a \"Verify.\""
+      ],
+      "speaker": "Allen",
+      "time": "0272921"
+    },
+    {
+      "tokens": [
+        "This new line is critical to the test.",
+        "Opening these two circuit breakers will ensure that the pilot valves will not be actuated and the engine will not start, providing the short is in the main part of the control system, something that Mission Control strongly suspects.",
+        "With the breakers open, the short can be made to bring the light on while the SPS Thrust switches are in Normal."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Circuit - okay; circuit breaker SPS pilot valves, two, Open, verify.",
+        "Below the line it has \"CB stability control system, all, Close."
+      ],
+      "speaker": "Scott",
+      "time": "0272945"
+    },
+    {
+      "tokens": [
+        "That's correct, Dave.",
+        "And the next line should read \"Circuit breakers SPS, 10, Close."
+      ],
+      "speaker": "Allen",
+      "time": "0272959"
+    },
+    {
+      "tokens": [
+        "Okay, understand.",
+        "Circuit breakers SPS, 10, Closed."
+      ],
+      "speaker": "Scott",
+      "time": "0273009"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Skipping down several lines; Delta-V CG, LM/CSM."
+      ],
+      "speaker": "Allen",
+      "time": "0273012"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Delta-V CG, LM/CSM.",
+        "[Pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0273024"
+    },
+    {
+      "tokens": [
+        "Okay, Dave.",
+        "Turn topage 4-15.And your next..."
+      ],
+      "speaker": "Allen",
+      "time": "0273034"
+    },
+    {
+      "tokens": [
+        "Page 4-15."
+      ],
+      "speaker": "Scott",
+      "time": "0273031"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "And your next change is in the TVC check, third line from the bottom of that first group there; delete \"Rate, High."
+      ],
+      "speaker": "Allen",
+      "time": "0273042"
+    },
+    {
+      "tokens": [
+        "Okay; secondary TVC check, third line from the bottom; delete \"Rate, High.\" That's the line right after \"Limit Cycle, Off."
+      ],
+      "speaker": "Scott",
+      "time": "0273059"
+    },
+    {
+      "tokens": [
+        "That's correct.",
+        "Down into the next group, \"Delta-V Thrust A to Normal.\" You can..."
+      ],
+      "speaker": "Allen",
+      "time": "0273107"
+    },
+    {
+      "tokens": [
+        "\"Delta-V Thrust A to Normal,\" and delete \"B."
+      ],
+      "speaker": "Scott",
+      "time": "0273119"
+    },
+    {
+      "tokens": [
+        "That's affirm, and then insert right after that - immediately after that, the following note.",
+        "\"Get thrust light on by pushing on panel first.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0273123"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "In other words, you want us to try and get the SPS Thrust - Thrust light on by tapping on the panel some way, so that the light is on with the Delta-V Thrust A switch up to normal.",
+        "Is that right?"
+      ],
+      "speaker": "Scott",
+      "time": "0273144"
+    },
+    {
+      "tokens": [
+        "Dave, that's not quite right.",
+        "Let me read through it.",
+        "We want you to get the light on, but we want you to try to first get it on just by pushing, by flexing the panel around the switch in question.",
+        "And the reason we're doing that, we think - it's - The probable short is contamination in the switch, but there's a small chance that it's some sort of problem in the wire bundle that will be flexed very slightly when you just push on the panel.",
+        "So that - the note should read the following, and I'll read it clear through to the end.",
+        "\"Get thrust light on by pushing on panel first.",
+        "If this doesn't work, rap on panel or cycle the switch until the light comes on.",
+        "And if the light doesn't come on, we're going to delete the test."
+      ],
+      "speaker": "Allen",
+      "time": "0273200"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Why don't we try that right now?"
+      ],
+      "speaker": "Scott",
+      "time": "0273257"
+    },
+    {
+      "tokens": [
+        "Dave, stand by a second."
+      ],
+      "speaker": "Allen",
+      "time": "0273303"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0273307"
+    },
+    {
+      "tokens": [
+        "Dave, let's - let's ask you to stand by on that.",
+        "We'd prefer to complete reading the procedures to you, and then - we'll worry about this light business.",
+        "At any rate, you should have inserted the note \"Get thrust light on by pushing on panel first.",
+        "If this doesn't work, rap on panel or cycle the switch and if no light, then delete the test."
+      ],
+      "speaker": "Allen",
+      "time": "0273317"
+    },
+    {
+      "tokens": [
+        "Okay, understand.",
+        "Push, rap, cycle and if no light, delete the test."
+      ],
+      "speaker": "Scott",
+      "time": "0273345"
+    },
+    {
+      "tokens": [
+        "Beautiful.",
+        "Okay.",
+        "Now, at about 1 minute to go, but definitely after the light is on, proceed on to the next step, which is Verb 37 Enter, 47 Enter.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0273350"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "If we get the light on, then we're at 2 minutes, and we'll work for about a minute to try to get the light on.",
+        "And if we don't get it on by 1 minute then we'll consider that we cannot get it on, and if we do get it on by 1 minute, we'll call up P47."
+      ],
+      "speaker": "Scott",
+      "time": "0273410"
+    },
+    {
+      "tokens": [
+        "Dave is seeing the '-02:00' mark at this point of the checklist and his interpretation of the procedures is being affected by these timing marks.",
+        "P47 is a program to monitor the thrust during the burn; that is, to monitor the Delta-V produced by the thrust."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Dave, it's - I guess the 2-minute mark out to the side of your checklist there is meaningless in this case, because the test is in no way time critical.",
+        "We want you to take your own time and work to get the light on, but if it does come on at about 1 minute before the burn, we'll want you to go into Program 47."
+      ],
+      "speaker": "Allen",
+      "time": "0273429"
+    },
+    {
+      "tokens": [
+        "Okay, I'm with you.",
+        "Just to make sure we have P47 running."
+      ],
+      "speaker": "Scott",
+      "time": "0273453"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That's exactly it.",
+        "Okay.",
+        "That brings us down to our next change, which is an insert just below the line \"EMS Mode, Normal.\" And the change is \"on MSFN cue, Circuit Breaker SPS pilot valve A, Close.\" And a note that goes with this line, \"1 second burn desired.",
+        "If no ignition, Circuit Breaker SPS pilot valve A, Open, after 3 seconds.\""
+      ],
+      "speaker": "Allen",
+      "time": "0273457"
+    },
+    {
+      "tokens": [
+        "The expectation is that the short is in or near the switch.",
+        "If so, closing the pilot valve circuit breaker should open the valves and ignite the engine."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, understand.",
+        "Just before EMS mode, Normal, on MSFN cue, CB SPS pilot valve, Closed.",
+        "And you desire 1 second burn, which means that if we get a light, we open the circuit breaker after 1 second.",
+        "If we have no light, you want to leave the circuit breaker closed for 3 seconds and then open it."
+      ],
+      "speaker": "Scott",
+      "time": "0273554"
+    },
+    {
+      "tokens": [
+        "Dave has misheard Joe Allen's instructions.",
+        "Instead of putting this step after the \"EMS Mode, Normal\" step, he is putting it before.",
+        "Allen has not picked up the error yet."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That - that's exactly right, Dave.",
+        "Now I've got some words here from Dick Gordon who's run through the procedure this morning and he tells me that - that - a good cue to monitor is the SPS PCcoming off the peg, and, at the same time, Jim or Al can, or - or whoever is there, can - watch the ball valve indicators, also, for a cue that the engine is starting to burn."
+      ],
+      "speaker": "Allen",
+      "time": "0273622"
+    },
+    {
+      "tokens": [
+        "SPS PCrefers to a gauge on the right-hand side which displays the pressure within the combustion chamber of the SPS engine.",
+        "Combustion chamber pressure is the primary performance measure in engines such as the SPS.",
+        "The call to monitor the \"SPS PCcoming off the peg\" is a request to wait until the indicator needle shows some movement.",
+        "Essentially, the crew is being asked to shut down the engine as soon as there is any indication that ignition has occurred.",
+        "Since the engine is very quiet and little vibration is apparent during the early parts of the burn, the only indications of ignition will be through the instrument displays.",
+        "Waiting for the traditional \"seat of the pants\" indications that the engine has ignited would certainly result in a longer burn than desired."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Stand by one now, Joe.",
+        "Let us regroup here for a minute and make sure that we have no questions up to this point."
+      ],
+      "speaker": "Scott",
+      "time": "0273700"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Allen",
+      "time": "0273706"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "I guess one question we wanted to make sure here was that the - on the MSFN cue to close the pilot valve, is prior to going to EMS mode normal.",
+        "In other words, we'll never get the EMS..."
+      ],
+      "speaker": "Scott",
+      "time": "0273858"
+    },
+    {
+      "tokens": [
+        "Dave has picked up on the confusion about the order of the checklist lines."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Nega - negative."
+      ],
+      "speaker": "Allen",
+      "time": "0273912"
+    },
+    {
+      "tokens": [
+        "...Is that correct?"
+      ],
+      "speaker": "Scott",
+      "time": "0273913"
+    },
+    {
+      "tokens": [
+        "Dave, that's negative.",
+        "EMS mode normal..."
+      ],
+      "speaker": "Allen",
+      "time": "0273914"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "0273918"
+    },
+    {
+      "tokens": [
+        "And then, on MSFN cue, the SPS pilot valve A, Alpha, Close, and let me repeat here, Dave, you may or may - may or may not get a light at this particular point.",
+        "If you do not get a light, open the circuit breaker after about 3 seconds.",
+        "If you do get a light, we're interested in - in as short a burn as you can give us, so - and Dick tells me that the reaction time - a good, reasonable reaction time would be, in pulling the circuit breaker after you see the PCcome off the peg, would give you about 3 to 4 feet per second [of velocity change].",
+        "And that's a real good number for us as far as the midcourse 2 is concerned."
+      ],
+      "speaker": "Allen",
+      "time": "0273919"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Well, that's why we asked the question, just to make sure.",
+        "It makes more sense the way you're doing it.",
+        "So, - I guess we understand that.",
+        "We can have Al watching the PCgauge, and Jim can watch the ball valves, and if anybody sees something move, why - Al can pull that circuit breaker."
+      ],
+      "speaker": "Scott",
+      "time": "0274016"
+    },
+    {
+      "tokens": [
+        "Okay, Dave.",
+        "That sounds good.",
+        "Now a word about the circuit breaker.",
+        "You might want to cycle it a couple of times - but [you should do it] before we go through this, just to make sure its not a lot stiffer than what you're used to working with in the simulator.",
+        "And just get some idea of how its best to - to position yourself to pull this.",
+        "It's also not all that critical that it get pulled absolutely immediately, but - you know, what - whatever's comfortable to do.",
+        "It might make it easier for us on trimming up with your midcourse if we do get a burn."
+      ],
+      "speaker": "Allen",
+      "time": "0274033"
+    },
+    {
+      "tokens": [
+        "Okay, we'll work that one.",
+        "Over."
+      ],
+      "speaker": "Scott",
+      "time": "0274111"
+    },
+    {
+      "tokens": [
+        "And, before you - you test that particular circuit breaker, just make sure that the Group 5 circuit breakers are Open, and we won't be risking anything by testing it.",
+        "Now finally, after this note, we've got several deletions, and I'll continue on here.",
+        "Delete \"Ullage and thrust, On\"; delete \"SPS Thrust light, On\"; delete \"Delta-V thrust, B\"; delete \"Ullage and thrust, On\"; delete \"Monitor thrusting, PC95 - 105, EMS counting down.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0274115"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We got that.",
+        "Deleting the next seven lines.",
+        "[Pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0274214"
+    },
+    {
+      "tokens": [
+        "Yes, sir; exactly.",
+        "Now the next line should read \"SPS Injection Valves, two, Open."
+      ],
+      "speaker": "Allen",
+      "time": "0274223"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "SPS Injection Valves, two, Open."
+      ],
+      "speaker": "Scott",
+      "time": "0274236"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Three lines down, delete \"PUGS, balanced\"."
+      ],
+      "speaker": "Allen",
+      "time": "0274240"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Delete \"PUGS, balanced.\""
+      ],
+      "speaker": "Scott",
+      "time": "0274248"
+    },
+    {
+      "tokens": [
+        "PUGS is the Propellant Utilization Gauging System, a system within the SPS for comparing the usage of oxidiser and fuel and manually adjusting the ratio to ensure full utilisation of propellant."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And then, the next line, after ignition confirmed, circuit breaker SPS pilot valve A - Main A, Open.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0274254"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "After ignition [is] confirmed, CB SPS pilot valve A - Main A, Open.",
+        "That's - just about what you gave us in the notes."
+      ],
+      "speaker": "Scott",
+      "time": "0274316"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Exactly.",
+        "And then a note - well, let's see.",
+        "The note is - just a rehash of what we've already told you.",
+        "The burn should not exceed 1 second if it's possible to avoid it.",
+        "And then, exit P47 immediately after burn."
+      ],
+      "speaker": "Allen",
+      "time": "0274325"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Shouldn't exceed 1 second and exit P47 immediately after the burn."
+      ],
+      "speaker": "Scott",
+      "time": "0274355"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And that takes us topage 4-16.The first line..."
+      ],
+      "speaker": "Allen",
+      "time": "0274400"
+    },
+    {
+      "tokens": [
+        "Page 4-16."
+      ],
+      "speaker": "Scott",
+      "time": "0274406"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "First line, \"Delta-V Thrust A, Off.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0274407"
+    },
+    {
+      "tokens": [
+        "Delta-V Thrust A, Off.",
+        "[Pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0274417"
+    },
+    {
+      "tokens": [
+        "Okay, Dave.",
+        "And that's really the end of the procedures.",
+        "We have - another note for this page, which is \"After test, if SPS light goes out, attempt to get light back on by your standard procedures, pushing, rapping, cycling,\" I guess."
+      ],
+      "speaker": "Allen",
+      "time": "0274423"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "After the tests, if the SPS light is out, attempt to get it back on."
+      ],
+      "speaker": "Scott",
+      "time": "0274449"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "And that completes the procedures.",
+        "Maybe a couple of - more words about it here.",
+        "It's also possible that when you push the circuit breaker - to the pilot valve A, in, that the light will just go out, in which case, we'd be pretty confident that - the contamination causing the short is just a burn through.",
+        "In other words, just disappeared and is no longer shorting the switch.",
+        "The light would go out, and otherwise, nothing else would happen.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0274457"
+    },
+    {
+      "tokens": [
+        "Okay; understand.",
+        "If we - if when we push the circuit breaker in, the light goes out, we've burned to [through] the short.",
+        "Okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0274535"
+    },
+    {
+      "tokens": [
+        "And, guys, you might look through those again, and - if you have any questions, please come right back to us with them."
+      ],
+      "speaker": "Allen",
+      "time": "0274548"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Let us mull it over, and we'll get back with you."
+      ],
+      "speaker": "Scott",
+      "time": "0274558"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Allen",
+      "time": "0274601"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "We have no further questions.",
+        "We think we can run through that one okay.",
+        "[Pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0274735"
+    },
+    {
+      "tokens": [
+        "Okay, Dave.",
+        "And we'll have a PAD for you in a few minutes."
+      ],
+      "speaker": "Allen",
+      "time": "0274745"
+    },
+    {
+      "tokens": [
+        "In essence, the procedure that Dick Gordon has prepared is a very short, manually controlled \"burp\" of the Service Propulsion System.",
+        "Unlike most of the other burns in the mission, this one is less critical in terms of the time it is performed and to some extent, the amount of velocity change.",
+        "As the CSM is fully loaded with fuel, as is the LM, acceleration of the combined stack will be slow enough that an accurate course change can be accomplished even if the crew has to manually shut down the engine.",
+        "Many of the procedures for more extended burns (such as monitoring the Entry Monitor System, or observing the Propellant Utilization Gauging System) are simply unnecessary for this 0.85 second test of the engine and the associated circuitry."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Since an objective of the test is to isolate the location of the short, it is essential that the crew recreates the problem before the burn is attempted.",
+        "Although the specific procedures to \"push, rap and cycle\" the switch seem to be written by someone with an excessive compulsion for details, they are actually designed to give additional insight into where the short might exist.",
+        "Pushing on the panel might indicate that the wire bundles are faulty, whereas cycling the switch from \"Normal\" to \"On\" would indicate a failed switch.",
+        "Observing the light flickering when the panel is rapped, would suggest that a bit of floating material, maybe a piece of wire or a solder blob, might exist within the switch."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, and I guess I still have a question as why we don't take a look at that light now with the push, rap and cycle technique."
+      ],
+      "speaker": "Scott",
+      "time": "0274751"
+    },
+    {
+      "tokens": [
+        "Let me get a reading [means advice] on that."
+      ],
+      "speaker": "Allen",
+      "time": "0274804"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "You know, we've tapped it, cycled it, but we've never pushed that panel just by pushing the panel to see if the light'll come on.",
+        "[Long pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0274807"
+    },
+    {
+      "tokens": [
+        "Dave, I guess the main reason is, before you do it, we'd like to get some recorders configured.",
+        "We're setting the recorders up now so we can monitor the problem as you go through it, and then there is no reason you can't try pushing on the panel, provided the pilot valve breakers and the group 5 breakers are pulled."
+      ],
+      "speaker": "Allen",
+      "time": "0274844"
+    },
+    {
+      "tokens": [
+        "Well, Joe, when you get a - a chance, or when you're set up down there, why - why don't we try that, and at the same time, we could run through our little check to see how the pilot valve Main A circuit breaker works, cycling it."
+      ],
+      "speaker": "Scott",
+      "time": "0274910"
+    },
+    {
+      "tokens": [
+        "Okay, Dave.",
+        "That sounds good."
+      ],
+      "speaker": "Allen",
+      "time": "0274922"
+    },
+    {
+      "tokens": [
+        "We'll stand by for your call."
+      ],
+      "speaker": "Scott",
+      "time": "0274926"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, this is Houston requesting P00 and Accept, and we'll give you a state vector and some drift terms."
+      ],
+      "speaker": "Allen",
+      "time": "0275030"
+    },
+    {
+      "tokens": [
+        "You got it.",
+        "P00 and Accept."
+      ],
+      "speaker": "Scott",
+      "time": "0275038"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Allen",
+      "time": "0275040"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, this is Houston."
+      ],
+      "speaker": "Allen",
+      "time": "0275235"
+    },
+    {
+      "tokens": [
+        "Houston, Endeavour.",
+        "Go."
+      ],
+      "speaker": "Scott",
+      "time": "0275240"
+    },
+    {
+      "tokens": [
+        "Rog, Dave.",
+        "After you verify for us that your pilot valve circuit breakers and group 5 circuit breakers are out, you can go ahead with the push, rap, cycle test if you like."
+      ],
+      "speaker": "Allen",
+      "time": "0275242"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Pause.] Okay.",
+        "Group 5 are open and the pilot valves are open, and we'll take a look at it.",
+        "[Long pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0275300"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "Nothing worked pushing an I'll try rapping."
+      ],
+      "speaker": "Scott",
+      "time": "0275351"
+    },
+    {
+      "tokens": [
+        "Okay, Dave.",
+        "We agree."
+      ],
+      "speaker": "Allen",
+      "time": "0275355"
+    },
+    {
+      "tokens": [
+        "Came on with the rap - up just to the top of the switch.",
+        "[Long pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0275400"
+    },
+    {
+      "tokens": [
+        "Okay; I'll cycle it and see if it goes off.",
+        "[Long pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0275416"
+    },
+    {
+      "tokens": [
+        "Okay; it flickers as - as I pass through neutral."
+      ],
+      "speaker": "Scott",
+      "time": "0275427"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "[Long pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0275433"
+    },
+    {
+      "tokens": [
+        "And now she doesn't want to stay on.",
+        "[Long pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0275508"
+    },
+    {
+      "tokens": [
+        "Judging by Dave's other words, it seems likely that he means that the light doesn't want to stay off although it sounds like he says 'on'."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Dave, as long as you keep those circuit breakers out, there's no reason we can't leave that light on.",
+        "We need it on for the test anyway."
+      ],
+      "speaker": "Allen",
+      "time": "0275526"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "I can find a position on the switch where I can turn the light out now - in [the] neutral position on the switch, if you want to look at it.",
+        "I've cycled the switch a number of times, and I think I've got the spot where the light will go off, and I'll turn it off for a couple of seconds here for you."
+      ],
+      "speaker": "Scott",
+      "time": "0275535"
+    },
+    {
+      "tokens": [
+        "The see-saw construction of the switch's innards allow the switch to be held in the central, or neutral position with the central pin connecting neither outer contact."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Dave.",
+        "Go ahead, and we're watching the drivers at the same time."
+      ],
+      "speaker": "Allen",
+      "time": "0275551"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "The light's out right now; Dave's holding the switch [in the neutral position]."
+      ],
+      "speaker": "Worden",
+      "time": "0275601"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We confirm that."
+      ],
+      "speaker": "Allen",
+      "time": "0275604"
+    },
+    {
+      "tokens": [
+        "Okay; it's coming back on now."
+      ],
+      "speaker": "Worden",
+      "time": "0275609"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Allen",
+      "time": "0275614"
+    },
+    {
+      "tokens": [
+        "[It's going] off now."
+      ],
+      "speaker": "Worden",
+      "time": "0275615"
+    },
+    {
+      "tokens": [
+        "Rog."
+      ],
+      "speaker": "Allen",
+      "time": "0275616"
+    },
+    {
+      "tokens": [
+        "And [it's] coming back on.",
+        "[Long pause.]"
+      ],
+      "speaker": "Worden",
+      "time": "0275619"
+    },
+    {
+      "tokens": [
+        "And it seems like it goes off just at the lower portion or near the Off portion of the - force range there when you get to neutral.",
+        "As you go into the neutral position, you have high forces, and right at the beginning of those high forces, it'll go off.",
+        "And if you hold it in the neutral position, or the - the mid-position, where the - the force on the bottom of the switch, holding it so it won't go over center, that's when the light will go off.",
+        "As soon as you let it go over center and flick up to the top, the light comes back on."
+      ],
+      "speaker": "Scott",
+      "time": "0275633"
+    },
+    {
+      "tokens": [
+        "Dave is describing the forces that the sprung roller applies to the seesaw.",
+        "The roller is pushed against the spring in the switch's lever as it comes to the centre of the seesaw."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Journal reader Bill Baker, who was once involved in improving the fault tolerance of computer network systems by responding to users' problems, adds \"Dave Scott's description of the operation of the Delta-V Thrust A switch shows the value of using test pilots for these flights.",
+        "As an engineer I'd just love to get these sort of descriptions from my users.",
+        "It is of course true that the SPAN and contractor teams pulled miracles in diagnosing faults on all of the Apollo missions, they also had an absolutely first class group of pilots to give them such exact data.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Dave, we copy that.",
+        "[Long pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0275711"
+    },
+    {
+      "tokens": [
+        "Dave, let's go ahead and stay in this configuration.",
+        "If you want to practise with the pilot valve circuit breaker, we emphasize that [the] group 5 circuit breaker definitely should be open."
+      ],
+      "speaker": "Allen",
+      "time": "0275727"
+    },
+    {
+      "tokens": [
+        "Okay, we'll do that now.",
+        "And the cir...",
+        "[correcting himself] group 5 [circuit breakers] are open.",
+        "[Long pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0275739"
+    },
+    {
+      "tokens": [
+        "Joe Allen's absolute insistence that certain circuit breakers are open before Dave experiments with the Delta-V switch are to ensure that the engine will not start accidentally.",
+        "Although there are many safeguards that prevent the engine from firing unintentionally, a combination of closing the pilot valve circuit breakers, and placing the \"Direct Delta-V\" switch to the On position (which the short has created) is enough to open the valves.",
+        "The hypergolic propellants would then ignite on contact."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "And, Endeavour, this is Houston with the maneuver PAD when you're ready to copy.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0275749"
+    },
+    {
+      "tokens": [
+        "So far, the crew has been dealing with the duration and procedure of the SPS test burn.",
+        "Allen is about to read up the other details of the burn, in particular, the correct attitude with respect to the IMU platform."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Joe, I'm ready to copy."
+      ],
+      "speaker": "Irwin",
+      "time": "0275814"
+    },
+    {
+      "tokens": [
+        "Okay, Jim; and it's your computer."
+      ],
+      "speaker": "Allen",
+      "time": "0275817"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Irwin",
+      "time": "0275822"
+    },
+    {
+      "tokens": [
+        "Maneuver PAD for the SPS test.",
+        "SPS/SCS; NA; plus 1.24, minus 0.11; 028:40:00.00; NA, NA, NA; roll 061, 018, 020; NA, NA, NA, NA, NA; 11, 216.1, 18.6; NA, NA, NA.",
+        "NA all the rest of the way; GDC Align, Vega, Deneb; roll align, 209, 009, 349.",
+        "Other comments, set up SPS gimbal thumbwheels with pitch trim, [and] yaw trim; High Gain Antenna, Pitch, minus 25; Yaw 359.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0275826"
+    },
+    {
+      "tokens": [
+        "As this is a very short burn, primarily for test purposes, many of the numbers usually read up for a burn are not applicable, hence the preponderance of 'NA' or 'not applicable' in the PAD.",
+        "An interpretation of the PAD follows:Purpose:This burn will serve as a midcourse correction burn, though its main function is to test the SPS engine with the electrical short in place.System:The SPS is the propulsion system to be used under control of the SCS (Stabilization Control System).Spacecraft weight:The weight or, more accurately, mass of the spacecraft is not required.Pitch and yaw trim (Noun 48):+1.24° and -0.11°.Time of ignition, TIG(Noun 33):28 hours, 40 minutes, 00.00 seconds.Change in velocity:Since the burn is being defined in terms of approximate times (less than one second, with the possibility of up to three or four seconds), it isn't practical to guess how much of a change in velocity will result in the three axes.Spacecraft attitude at TIG:Roll: 61°, Pitch: 18°, Yaw: 20°.Burn duration, and the overall change in velocity, are not defined in this PAD either.Sextant star:Star 11 (Aldebaran, in Taurus) visible in sextant when shaft and trunnion angles are 216.1° and 18.6° respectively.Boresight star:There will be no Boresight Star defined.GDC Align stars:Stars Vega (number 36) and Deneb (number 43) to be used for GDC Align.GDC Align angles:x, 209°; y, 9°; z, 349°.Normally, prior to the burn, the propellants in the Service Module's tanks are settled by a short firing of the RCS thrusters.",
+        "However, the amount of ullage burn that would normally be used would be sufficient to add a few feet per second to the spacecraft velocity.",
+        "As the velocity change from the RCS alone is sufficient to satisfy the requirements of the midcourse correction, and as the tanks are full, and the burn is short, their use is not desired for this maneuver.",
+        "Additionally, the trim angles are to be set into the gimbals on which the SPS engine is mounted using thumbwheel controls on the right of the Main Display Console.",
+        "Finally, Mission Control has given two angles for pointing the HGA so the controllers can monitor telemetry from the SPS."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-31."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Readback on the SPS test.",
+        "SPS/SCS; plus 1.24, minus 0.11; 028:40:00.00; 061, 018, 020; 11, 216.1, 18.6; Vega and Deneb; 209, 009, 349.",
+        "And set the SPS thumbwheels to the Pitch and Yaw trim.",
+        "High Gain Antenna is Pitch minus 25 and Yaw 359."
+      ],
+      "speaker": "Irwin",
+      "time": "0280011"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Readback correct."
+      ],
+      "speaker": "Allen",
+      "time": "0280054"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, this is Houston.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0280257"
+    },
+    {
+      "tokens": [
+        "Houston, 15.",
+        "Go ahead, Joe."
+      ],
+      "speaker": "Worden",
+      "time": "0280304"
+    },
+    {
+      "tokens": [
+        "Al, just a couple more words here.",
+        "We're quite interested in subtle changes that may take place in the thrust light.",
+        "And we'd like for you to think about perhaps playing around with the cabin lighting control there so you can get a good view of the light, and you may or may not want to use the filter in front of the light as you watch it, and I guess the third one of you should be watching the light during the burn test."
+      ],
+      "speaker": "Allen",
+      "time": "0280306"
+    },
+    {
+      "tokens": [
+        "At a distance from Earth of 209,350 km (113,040 nautical miles), Apollo 15 has reached the halfway point of the translunar coast, equidistant from Earth and the Moon, though still very much under the greater influence of Earth's gravitational field.",
+        "They have been steadily slowing since leaving Earth's proximity, getting this far in only in only 35% of the time from launch to lunar orbit."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "We'll keep a close eye on the light."
+      ],
+      "speaker": "Worden",
+      "time": "0280342"
+    },
+    {
+      "tokens": [
+        "Roger, Al.",
+        "And you understand, it's not a question of on/off but also if the intensity changes and - and..."
+      ],
+      "speaker": "Allen",
+      "time": "0280346"
+    },
+    {
+      "tokens": [
+        "Yeah, affirmative, Joe."
+      ],
+      "speaker": "Worden",
+      "time": "0280354"
+    },
+    {
+      "tokens": [
+        "Rog, okay.",
+        "And, guys, you can go ahead with the waste water dump if you want to now.",
+        "There's nothing magic about the time we gave you on that.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0280355"
+    },
+    {
+      "tokens": [
+        "The waste water dump was one of the steps in the Flight Plan which was moved up from 30:30, as part of the changes for the SPS test which were read up at 025:53:01.",
+        "Having sent this message up to the crew, Mission Control is about to realise that it was not quite accurate."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "Thank you."
+      ],
+      "speaker": "Worden",
+      "time": "0280410"
+    },
+    {
+      "tokens": [
+        "Rog, Al.",
+        "And - the provision on that is that you [should] be at [the] burn attitude before you dump the water.",
+        "And [you should do it] after the sextant star check."
+      ],
+      "speaker": "Allen",
+      "time": "0280411"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "It is preferable not to have to sight stars through the spacecraft's optics soon after a water dump.",
+        "Some of the water freezes when it reaches the vacuum of space and, in the strong sunlight, it can be very difficult to recognise star patterns through the glistening crystals of ice.",
+        "After the burn, the change in the spacecraft's velocity will cause the particles to be left behind."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 15.",
+        "This is Houston requesting Beam Width to Wide."
+      ],
+      "speaker": "Allen",
+      "time": "0281350"
+    },
+    {
+      "tokens": [
+        "Okay, we're Wide, Joe."
+      ],
+      "speaker": "Scott",
+      "time": "0281359"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "A wide beamwidth for the HGA minimises the pointing accuracy for the antenna during any attitude deviations which occur as a consequence of the burn.",
+        "It is also used to force the HGA to repoint itself in cases where it has locked onto a sidelobe caused by reflections off the spacecraft's skin.",
+        "It is unclear which of these two reasons are responsible for Joe Allen's call."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 28 hours, 18 minutes Ground Elapsed Time and some 21 minutes, 22 seconds, until, hopefully, ignition on the SPS test, which will be a midcourse correction number 2.",
+        "Ignition time set for 28 hours, 40 minutes Ground Elapsed Time.",
+        "Very little communications in the past 20 or 30 minutes from the crew of Apollo 15.",
+        "Getting prepared for the Service Propulsion System burn.",
+        "Barely rates as a burn on such short duration of less than a second.",
+        "Continuing to stay up live on the Apollo 15 air/ground circuit, this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "15, you can terminate the waste dump anytime."
+      ],
+      "speaker": "Allen",
+      "time": "0282549"
+    },
+    {
+      "tokens": [
+        "We're doing that now."
+      ],
+      "speaker": "Irwin",
+      "time": "0282554"
+    },
+    {
+      "tokens": [
+        "Okay, guys, and just want to reemphasize another point here.",
+        "This burn is not at all time critical.",
+        "It has very little effect on - on our midcourse corrections later on or whatever.",
+        "Just want you to understand that."
+      ],
+      "speaker": "Allen",
+      "time": "0282557"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "We understand that."
+      ],
+      "speaker": "Scott",
+      "time": "0282614"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Endeavour.",
+        "This is Houston, and we're showing about 4 minutes to ignition."
+      ],
+      "speaker": "Allen",
+      "time": "0283601"
+    },
+    {
+      "tokens": [
+        "Okay, and we've got about 5 and we're proceeding through the checklist."
+      ],
+      "speaker": "Scott",
+      "time": "0283608"
+    },
+    {
+      "tokens": [
+        "It is unclear whether the crew mean they have 5 minutes until they intend to fire the engine."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Sounds good."
+      ],
+      "speaker": "Allen",
+      "time": "0283614"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 15."
+      ],
+      "speaker": "Worden",
+      "time": "0283953"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Allen",
+      "time": "0283955"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "We're all set up ready to go.",
+        "We've got about 50 seconds to go.",
+        "Sorry Joe, there we are - Yeah, we're ready to go now, any time, on your cue.",
+        "[Pause.]"
+      ],
+      "speaker": "Worden",
+      "time": "0283958"
+    },
+    {
+      "tokens": [
+        "Okay, guys; go ahead."
+      ],
+      "speaker": "Allen",
+      "time": "0284014"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "[To Scott and Irwin] Ready?",
+        "[Long pause.]"
+      ],
+      "speaker": "Worden",
+      "time": "0284019"
+    },
+    {
+      "tokens": [
+        "Mark; about 5.3 [fps] on the DSKY and about 4.7 [fps] on the EMS.",
+        "[Pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0284035"
+    },
+    {
+      "tokens": [
+        "The burn coincided with Dave's mark.",
+        "Afterwards, they can read the velocity displays to see what actualy happened.",
+        "The reading from the DSKY (Display and Keyboard) is derived from P47, a program for monitoring the effects of a burn on the spacecraft's velocity.",
+        "The reading from the EMS is with respect to the bias setting of 100 fps which was entered prior to the burn.",
+        "The two readings are around the 5 feet per second (1.5 metres per second) figure that Mission Control was looking for to make the required midcourse correction."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Worden, from the1971 Technical debrief:\"That was a little humorous, in a way.",
+        "We talked about that burn as a checkout of the SPS engine.",
+        "And the procedure was that we'd get everything set up and we'd put that circuit breaker in, and, if the engine light was off, we'd pull the circuit breaker right away.",
+        "We got all the way through that burn before it really dawned on me that that was a midcourse correction.",
+        "The Delta-V we got out of the burn was exactly what they wanted on the midcourse correction so it worked out rather nicely.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That sounds beautiful, Troops.",
+        "[Long pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0284046"
+    },
+    {
+      "tokens": [
+        "And, Houston, the light's still on."
+      ],
+      "speaker": "Scott",
+      "time": "0284117"
+    },
+    {
+      "tokens": [
+        "Roger, Dave.",
+        "We confirm that."
+      ],
+      "speaker": "Allen",
+      "time": "0284122"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, this is Houston."
+      ],
+      "speaker": "Allen",
+      "time": "0284339"
+    },
+    {
+      "tokens": [
+        "Okay; go ahead."
+      ],
+      "speaker": "Scott",
+      "time": "0284343"
+    },
+    {
+      "tokens": [
+        "Roger, guys.",
+        "When you're comfortably through with the procedure here, we'd like for you to turn the thrust light out for us, please, by pulling the EMS Main A and B circuit breakers, two of them, on panel 8."
+      ],
+      "speaker": "Allen",
+      "time": "0284346"
+    },
+    {
+      "tokens": [
+        "Panel 8 is a separate panel containing mostly circuit breakers to the left of the Main Display Console."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "They're both open; the light is out."
+      ],
+      "speaker": "Scott",
+      "time": "0284404"
+    },
+    {
+      "tokens": [
+        "Okay, Dave, and that - the reason for that is just to conserve that light bulb and a little power, and - that burn was exactly what we wanted to see.",
+        "We'll proceed with a normal mission."
+      ],
+      "speaker": "Allen",
+      "time": "0284407"
+    },
+    {
+      "tokens": [
+        "The filament of the Thrust On light bulb has a limited life and, like all such bulbs, this is ill-defined.",
+        "Mission Control want to know when the circuit that the bulb is across is energised and they cannot do so if the bulb is gone.",
+        "Also, they would rather not waste the power the bulb is consuming.",
+        "Under normal circumstances, it was never intended to be on for more than seven minutes at a time."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's nice to hear."
+      ],
+      "speaker": "Scott",
+      "time": "0284420"
+    },
+    {
+      "tokens": [
+        "I'm a smooth talker, aren't I?"
+      ],
+      "speaker": "Allen",
+      "time": "0284423"
+    },
+    {
+      "tokens": [
+        "Well, I'm glad you guys down there can figure all this out.",
+        "[Long pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0284427"
+    },
+    {
+      "tokens": [
+        "And, guys, a further word here.",
+        "As you're probably already aware, the short is in what we've been calling the downstream side of that driver solenoid, and it means only that it's a little bit annoying to have.",
+        "We can still turn bank A on and off as we want.",
+        "We might modify a few procedures a little bit, but we haven't lost that bank."
+      ],
+      "speaker": "Allen",
+      "time": "0284442"
+    },
+    {
+      "tokens": [
+        "Okay; very good.",
+        "Thank you, Joe.",
+        "Let's go to Hadley.",
+        "[Pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0284510"
+    },
+    {
+      "tokens": [
+        "Apollo 15's LM is headed for a small plain bounded by a two huge mountains and a striking channel or rille, all named after John Hadley, 1682-1743, an Englishman who was a pioneer of the reflecting telescope and reflecting quadrant."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "That's a super idea."
+      ],
+      "speaker": "Allen",
+      "time": "0284523"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Mission Controlhave determined to their satisfaction that the short will only cause the engine to ignite when control bank A of the SPS is armed.",
+        "Therefore, they can control the SPS with bank B for short burns.",
+        "Longer burns can be made with both banks by bringing bank A into operation after ignition."
+      ],
+      "speaker": "Commentary",
+      "time": "spsfault"
+    },
+    {
+      "tokens": [
+        "After the flight, analysis of the Delta-V Thrust A switch found a piece of wire, 1.4 mm in length trapped between the rectangular metal body of the switch and a plastic liner which is pressed into the body.",
+        "The central terminal of the switch passes through the body within a flange which extends from the body in a small cylinder.",
+        "This cylinder forms a small cavity with a 1 mm space between the terminal post and the flange.",
+        "Evidence of arcing within this space satisfied the engineers that the wire, floating within this cavity, had been the cause of the short."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott, from the1971 Technical debrief:\"We went through the procedures ...",
+        "and found that there was a short in the switch.",
+        "I think pounding on the panel turned the light on for us, and finally, manipulating the switch gave us a constant light on.",
+        "First time we tried it, I guess, we moved the switch up and the light went out.",
+        "Then I played with the switch some and got familiar enough with the short that I could put the switch in the mid-position on the lower portion of the foreskirt and hold the light out.",
+        "It would be interesting to see the inside of one of those switches some day to see if you could identify the contacts they're making.",
+        "I think the ground [meaning Mission Control] did a fine job of coming up with procedures to evaluate the switch, and when we got down to checking the engine out, I thought the procedures they recommended we're real good.",
+        "They were simple, easy for us to change, easy for us to work through, and, in general, I thought, that was a real fine bit of support they were showing on the ground.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Worden, from the1971 Technical debrief:\"That was superb, I thought.",
+        "Like you say, the procedures were simple.",
+        "It was very easy to make changes in the checklist, and the changes that they made were straightforward.",
+        "It was a pretty straightforward systems problem, I think, at that point.",
+        "The procedures that they recommended worked well for both the dual bank and single bank.",
+        "You could just forget part of the procedure.",
+        "All the burns that I did in lunar orbit, the short [duration] burns, I did on one bank only, so we would avoid any problem with that bank that had the [electrical] short in it.",
+        "The procedure was almost the same, and it worked out very nicely.",
+        "The only change was in one extra circuit breaker that was out, the Main A pilot valve, in leaving the normal A Delta-V thrust switch on.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Scott, from the1971 Technical debrief:\"I think we had a good, warm feeling that we had two complete SPS systems, going into lunar orbit.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "The test of the Service Propulsion System [was] apparently a success.",
+        "Commander Dave Scott's comment was 'Let's go to Happy.' [Meant Hadley but misheard by PAO.] At the time of the burn, which in actual time was ground elapsed of 28 hours, 41 minutes, spacecraft was traveling at 4,845 feet per second [1,477 m/s] at a distance out from Earth of 114,787 nautical miles [212,585 km]."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Endeavour, this is Houston."
+      ],
+      "speaker": "Allen",
+      "time": "0285555"
+    },
+    {
+      "tokens": [
+        "Rog, Houston [garble]."
+      ],
+      "speaker": "Scott",
+      "time": "0285601"
+    },
+    {
+      "tokens": [
+        "Rog, Dave.",
+        "We're requesting a Narrow Beam Width, and then we have an attitude we'd like you to maneuver to for - for a DSE dump which we will initiate.",
+        "Specifically, roll 40, pitch 12, yaw 50.",
+        "High Gain, minus 38 and 318.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0285604"
+    },
+    {
+      "tokens": [
+        "A wide beamwidth was used during the burn, so telemetry could be received, even with attitude changes, but this reduced the strength of the received signal.",
+        "Mission Control now want a narrow beamwidth as they want to acquire information recorded on the DSE (Data Storage Equipment).",
+        "The greater amount of data being carried by the S-band link requires an improved signal to noise ratio which is achieved by focusing the radiation from the HGA into a narrower beam."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "There will be many occasions during the mission, when Mission Control will not be able to receive direct telemetry from the spacecraft, particularly when it goes behind the Moon and out of direct line of sight of Earth, or during major maneuvers when the spacecraft's attitude is prone to changes.",
+        "Telemetry data, along with crew voices, can be stored on a tape recorder, the DSE, on an occasional basis and replayed later at Mission Control's convenience.",
+        "Note that, strictly speaking, the recorder is called a DRR (Data Recorder/Reproducer), a newer type of DSE that squeezes much more data onto an area of tape.",
+        "DSE refers to data recording equipment carried on previous Apollo missions."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, understand.",
+        "High Gain is now in Narrow [beamwidth], maneuver to roll 40, pitch 12, yaw 50.",
+        "High Gain [pointing angle] is [pitch] minus 38 and [yaw] 318."
+      ],
+      "speaker": "Scott",
+      "time": "0285641"
+    },
+    {
+      "tokens": [
+        "Roger, Dave.",
+        "And after that, we'll need only a roll maneuver to get us into the sextant photo test attitude."
+      ],
+      "speaker": "Allen",
+      "time": "0285655"
+    },
+    {
+      "tokens": [
+        "Between 32:00 and 33:00 GET, there will be a test of photography through the sextant, followed by UV photography of Earth."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay; very good."
+      ],
+      "speaker": "Scott",
+      "time": "0285707"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 15, Houston."
+      ],
+      "speaker": "Allen",
+      "time": "0285920"
+    },
+    {
+      "tokens": [
+        "Houston, 15.",
+        "Go."
+      ],
+      "speaker": "Scott",
+      "time": "0285925"
+    },
+    {
+      "tokens": [
+        "Roger, Dave.",
+        "I'm pleased to report that not only did you carry out a successful SPS test burn, but you did a superb midcourse 2 correction at the same time.",
+        "In fact, you burned it to within a half a foot per second of being exactly what we wanted.",
+        "Consequently, we're going to omit midcourse 2 and midcourse 3.",
+        "We'll be looking at a midcourse 4 correction of around 6 feet per second, it looks like now.",
+        "And, additionally, because of this, we'd like for you to go ahead and secure the Mapping Camera and the Pam Can - Pan Camera at you convenience per the procedure that's shown at 31 hours and 10 minutes.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0285928"
+    },
+    {
+      "tokens": [
+        "By securing the cameras, they simply mean powering them down and removing power from the sector in which they are housed, SM sector 1."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Although CapCom Joe Allen has said that midcourse correction maneuver number 2 has been omitted, future documentation will use that designation for the SPS test."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-32."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "Well, we sort of had that in mind when we ran the burn.",
+        "And we'll secure the Map and Pan [cameras], and we'll be standing by for midcourse 4."
+      ],
+      "speaker": "Scott",
+      "time": "0290023"
+    },
+    {
+      "tokens": [
+        "Rog, Dave.",
+        "Al Worden always did have a very fine touch on the circuit breakers."
+      ],
+      "speaker": "Allen",
+      "time": "0290033"
+    },
+    {
+      "tokens": [
+        "Yes, sir.",
+        "He's - we call him nimble finger up here.",
+        "[Pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0290040"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "No comment to that one."
+      ],
+      "speaker": "Allen",
+      "time": "0290049"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Scott",
+      "time": "0290055"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, Houston.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0290218"
+    },
+    {
+      "tokens": [
+        "Go, Houston; Endeavour."
+      ],
+      "speaker": "Worden",
+      "time": "0290224"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Al, for your benefit, we'd scrubbed the crew exercise period earlier.",
+        "We'd like to put that back in again, any time between now and the sextant photo test."
+      ],
+      "speaker": "Allen",
+      "time": "0290226"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "Jim and I are doing some housekeeping now, and we're going to make sure we get all the exercise periods for you."
+      ],
+      "speaker": "Scott",
+      "time": "0290241"
+    },
+    {
+      "tokens": [
+        "Roger, Dave.",
+        "I'll rely on you for that."
+      ],
+      "speaker": "Allen",
+      "time": "0290251"
+    },
+    {
+      "tokens": [
+        "Gee, we might even do a couple extra."
+      ],
+      "speaker": "Scott",
+      "time": "0290257"
+    },
+    {
+      "tokens": [
+        "Comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Endeavour, this is Houston.",
+        "Please start your battery A charge at your convenience."
+      ],
+      "speaker": "Allen",
+      "time": "0290520"
+    },
+    {
+      "tokens": [
+        "Okay, start battery A charging."
+      ],
+      "speaker": "Scott",
+      "time": "0290527"
+    },
+    {
+      "tokens": [
+        "The charging of battery A was held over from 25:10, just after the crew awoke, until after the SPS test was completed."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Dave.",
+        "And we do have one question regarding the burn.",
+        "On our data down here, we saw the thrust light go off right after the burn for about 7 seconds and wondered if you noticed the same thing up there?",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0290530"
+    },
+    {
+      "tokens": [
+        "Stand by.",
+        "[Long pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0290552"
+    },
+    {
+      "tokens": [
+        "Houston, the consensus here is that it stayed on, and I guess - we - we might have missed a short period there in getting the engine off and getting out [of] P47, but Al and I both feel like it stayed on all the way, but I guess we're not a hundred per cent sure of that."
+      ],
+      "speaker": "Scott",
+      "time": "0290611"
+    },
+    {
+      "tokens": [
+        "Okay, Dave.",
+        "We copy.",
+        "Thank you."
+      ],
+      "speaker": "Allen",
+      "time": "0290629"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "With the second midcourse correction/SPS test having occurred earlier than midcourse 2 was planned, and with the third being cancelled, the crew has a very quiet period.",
+        "In the Flight Plan, the hour from 29:00 to 30:00 is completely clear with the next activity being a P52 platform realignment at 30:05.",
+        "However, since the platform was realigned just before the SPS test, and the next one was really only required as part of the midcourse 2 preparations, it is superfluous.",
+        "During the break, Al takes the opportunity to catch up on some of the exercising which was postponed from 28:00."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control; 29 hours, 32 minutes Ground Elapsed Time.",
+        "Very little conversation in the past hour with the crew of Apollo 15.",
+        "Distance from Earth: 117,211 nautical miles [217,074 km].",
+        "Velocity continuing to decrease; now 4,763 feet per second [1,452 m/s].",
+        "Rather quiet in the Mission Operations Control Room at the present time.",
+        "All the extra people have broken out for lunch; people that were in here for the test of the Service Propulsion System, [a test] which sufficed quite well as a midcourse correction burn number 2; so well, in fact, that the scheduled midcourse correction burn number 2 and number 3 have been scrubbed as of now.",
+        "And we're looking toward a midcourse correction burn number 4 of somewhere in the neighborhood [of] 6 feet per second [1.8 m/s].",
+        "The actual velocity change on the test was 5.3 feet per second [1.62 m/s]; we don't have an exact burn time yet.",
+        "That will come off the dump data [from the DSE], which has not come into the center yet.",
+        "At the time of the burn, [the] spacecraft was 114,787 miles out from Earth - nautical miles [212,585 km] out from Earth.",
+        "Continuing to stand by on the air/ground loop; this is Apollo Control at 29 hours, 34 minutes Ground Elapsed Time."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 15."
+      ],
+      "speaker": "Scott",
+      "time": "0294025"
+    },
+    {
+      "tokens": [
+        "Go ahead, 15."
+      ],
+      "speaker": "Allen",
+      "time": "0294030"
+    },
+    {
+      "tokens": [
+        "Would you like the P52 at 30 hours, or do you want to bypass that one?"
+      ],
+      "speaker": "Scott",
+      "time": "0294034"
+    },
+    {
+      "tokens": [
+        "Say that again, Dave.",
+        "I didn't copy."
+      ],
+      "speaker": "Allen",
+      "time": "0294040"
+    },
+    {
+      "tokens": [
+        "Would you like the P52 at 30 hours or would you like to bypass it?"
+      ],
+      "speaker": "Scott",
+      "time": "0294047"
+    },
+    {
+      "tokens": [
+        "Dave, that's not required.",
+        "Go ahead and bypass that please."
+      ],
+      "speaker": "Allen",
+      "time": "0294054"
+    },
+    {
+      "tokens": [
+        "Okay; thank you.",
+        "[Long pause.]"
+      ],
+      "speaker": "Scott",
+      "time": "0294100"
+    },
+    {
+      "tokens": [
+        "Dave, this is Houston again.",
+        "While we're talking, could you look back in your time line for us, please, and give us the results of your EMS test.",
+        "I guess that's a bias reading at around 27 hours."
+      ],
+      "speaker": "Allen",
+      "time": "0294130"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "That was .7."
+      ],
+      "speaker": "Worden",
+      "time": "0294145"
+    },
+    {
+      "tokens": [
+        "Okay; .7.",
+        "Thank you."
+      ],
+      "speaker": "Allen",
+      "time": "0294149"
+    },
+    {
+      "tokens": [
+        "And the Delta-V test was - was okay."
+      ],
+      "speaker": "Worden",
+      "time": "0294153"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Allen",
+      "time": "0294158"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "15, this is Houston.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0295405"
+    },
+    {
+      "tokens": [
+        "Houston, 15."
+      ],
+      "speaker": "Worden",
+      "time": "0295414"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Al, I've got a correction to the erasable loads in your G&C Checklist.",
+        "If you'd fish that out for me, I'll go ahead and read them to you."
+      ],
+      "speaker": "Allen",
+      "time": "0295416"
+    },
+    {
+      "tokens": [
+        "Okay, Joe.",
+        "Could you stand by about 5 minutes?"
+      ],
+      "speaker": "Scott",
+      "time": "0295431"
+    },
+    {
+      "tokens": [
+        "Rog, Dave.",
+        "Standing by, and no hurry.",
+        "Just give me the word.",
+        "[Long pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0295438"
+    },
+    {
+      "tokens": [
+        "Houston, 15.",
+        "If you could stand by about 5 minutes, why, our trusty CMP could fin - finish up his exercise period and get with you on that."
+      ],
+      "speaker": "Irwin",
+      "time": "0295457"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "I'll stand by 10 or 15 minutes in that case."
+      ],
+      "speaker": "Allen",
+      "time": "0295506"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Irwin",
+      "time": "0295511"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Allen",
+      "time": "0295513"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Flight Plan page 3-35."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "15, Houston.",
+        "[Pause.]"
+      ],
+      "speaker": "MCC",
+      "time": "0300152"
+    },
+    {
+      "tokens": [
+        "Houston, 15."
+      ],
+      "speaker": "Scott",
+      "time": "0300200"
+    },
+    {
+      "tokens": [
+        "Dave, in all that going on with that Flight Plan activities - about 28 hours, we may have missed something.",
+        "Did you change your lithium hydroxide canister about 28 hours or so?"
+      ],
+      "speaker": "MCC",
+      "time": "0300201"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "We got that."
+      ],
+      "speaker": "Scott",
+      "time": "0300214"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "[Long pause.]"
+      ],
+      "speaker": "MCC",
+      "time": "0300215"
+    },
+    {
+      "tokens": [
+        "Houston, 15.",
+        "The canister was changed at about 26:10."
+      ],
+      "speaker": "Scott",
+      "time": "0300240"
+    },
+    {
+      "tokens": [
+        "Okay, Dave.",
+        "We're just seeing a little rise in the partial pressure CO2.",
+        "That's the - the reason we asked the question.",
+        "We'll watch it."
+      ],
+      "speaker": "MCC",
+      "time": "0300245"
+    },
+    {
+      "tokens": [
+        "Perhaps Al's exercising is causing this rise as he will be exhaling more CO2than normal and temporarily changing the equilibrium of the gas between what is exhaled and what is removed."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Scott",
+      "time": "0300255"
+    },
+    {
+      "tokens": [
+        "Long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Houston, 15."
+      ],
+      "speaker": "Worden",
+      "time": "0300900"
+    },
+    {
+      "tokens": [
+        "Go ahead, 15."
+      ],
+      "speaker": "Allen",
+      "time": "0300905"
+    },
+    {
+      "tokens": [
+        "Rog, Joe.",
+        "I'm ready with the erasable update if you want to go with that.",
+        "[Pause.]"
+      ],
+      "speaker": "Worden",
+      "time": "0300909"
+    },
+    {
+      "tokens": [
+        "Roger, Al.",
+        "Turn topage 9-4if you would.",
+        "And it's a - an update only to your column Alpha - octal ID, column Alpha.",
+        "And it's octal ID..."
+      ],
+      "speaker": "Allen",
+      "time": "0300920"
+    },
+    {
+      "tokens": [
+        "Okay; I got it."
+      ],
+      "speaker": "Irwin",
+      "time": "0300938"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "Octal ID 11 should read 00634; 12 is 77425; and 13, 77317.",
+        "Over.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0300940"
+    },
+    {
+      "tokens": [
+        "Roger, Joe.",
+        "Understand.",
+        "Column Alpha, octal ID 11 should read 00634; 12 should be 77405; and 13 should be 77317."
+      ],
+      "speaker": "Worden",
+      "time": "0301007"
+    },
+    {
+      "tokens": [
+        "Al, there's a mistake in your readback for 12.",
+        "That should be 77425."
+      ],
+      "speaker": "Allen",
+      "time": "0301021"
+    },
+    {
+      "tokens": [
+        "Roger, Joe; 77425."
+      ],
+      "speaker": "Worden",
+      "time": "0301030"
+    },
+    {
+      "tokens": [
+        "Rog.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0301034"
+    },
+    {
+      "tokens": [
+        "And that's the extent of it.",
+        "Thank you."
+      ],
+      "speaker": "Allen",
+      "time": "0301042"
+    },
+    {
+      "tokens": [
+        "Okay, Joe."
+      ],
+      "speaker": "Worden",
+      "time": "0301047"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "15, Houston."
+      ],
+      "speaker": "Allen",
+      "time": "0303321"
+    },
+    {
+      "tokens": [
+        "Houston, 15.",
+        "Go ahead."
+      ],
+      "speaker": "Worden",
+      "time": "0303325"
+    },
+    {
+      "tokens": [
+        "Roger, guys.",
+        "We're requesting - that, at your convenience, you roll to the sextant photo attitude, which is a roll of 270 - [you can stay in] the same pitch and yaw you're presently in - so that you'll be getting some sunlight on the SIM bay to - to start to warm it up.",
+        "And during the roll, we'll call out an antenna change to you.",
+        "[Pause.]"
+      ],
+      "speaker": "Allen",
+      "time": "0303339"
+    },
+    {
+      "tokens": [
+        "Okay, Houston; 15.",
+        "Understand you want us to roll, with our present pitch and yaw, to a roll of 270."
+      ],
+      "speaker": "Worden",
+      "time": "0303405"
+    },
+    {
+      "tokens": [
+        "That's affirm, Al."
+      ],
+      "speaker": "Allen",
+      "time": "0303414"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control; 30 hours, 44 minutes Ground Elapsed Time.",
+        "To repeat, in view of the success of the Service Propulsion System test, back at 28 hours, 40 - 40 minutes, 30 seconds, the scheduled midcourse correction number 2, shown in the Flight Plan at 30 hours, 55 minutes, some 11 minutes from now, will not be done.",
+        "Nor will midcourse correction number 3 be performed.",
+        "Midcourse correction number 4, right now, looks like it might be in the neighborhood of some 6 feet per second [1.8 m/s].",
+        "Apollo 15 is now 120,487 nautical miles [223,141 km] out from Earth.",
+        "Approaching the Moon at a velocity of 4,656 feet per second [1,419 m/s].",
+        "At 30 hours, 45 minutes Ground Elapsed Time, live on Apollo 15 air ground, this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Apollo 15, select Omni Charlie, and stow the High Gain [antenna], please."
+      ],
+      "speaker": "Allen",
+      "time": "0304705"
+    },
+    {
+      "tokens": [
+        "Rog, Joe.",
+        "Omni Charlie, and stow the High Gain."
+      ],
+      "speaker": "Worden",
+      "time": "0304711"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Allen",
+      "time": "0304717"
+    },
+    {
+      "tokens": [
+        "Very long comm break."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The HGA is stowed by folding it back alongside the engine bell, its original position when the Service Module was still attached to the launch vehicle.",
+        "In the air/ground recording, the small rise in the audio noise on the signal indicates the moment that the lower power omni antenna is selected."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 31 hours, 13 minutes Ground Elapsed Time.",
+        "Shift handover under way here in the Control Center.",
+        "Milton Windler's Maroon team of flight controllers taking over from Gerry Griffin.",
+        "Estimating change of shift briefing right at 4 o'clock or a few minutes thereafter in the main auditorium [in the] Manned Spacecraft Center.",
+        "Meanwhile Apollo 15 is 121,800 nautical miles [225,573 km] from Earth, traveling at a velocity of 4,614 feet per second [1,406 m/s].",
+        "Some 3 hours and 10 minutes ago, at 28 hours, 3 minutes and 14 seconds Ground Elapsed Time, the spacecraft was equidistant from Earth and the Moon, at 113,040 nautical miles [209,349 km].",
+        "Very little contact with the crew in the last hour or so.",
+        "[They're being] their usual, quiet, selves.",
+        "And at 31 hours, 15 minutes Ground Elapsed Time, this is Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control again.",
+        "Some numbers now on the check of the Service Propulsion System back at 28 hours, 40 minutes, 22.5 seconds actual ignition time.",
+        "We got a Delta-V or a velocity change of 5.3 seconds [means feet per second] which was within a half a foot of the desired velocity for midcourse 2, which was not scheduled for another 2 hours after the SPS check.",
+        "The burn time was 7/10ths of 1 second, which is fairly rapid reaction time when you consider it was a manual burn, essentially.",
+        "At any rate this unscheduled midcourse correction burn number 2 brought about by this test has resulted in midcourse 2 and midcourse 3 being cancelled, and the Flight Dynamics Officer is looking at a value of some 6 feet per second [1.8 m/s] for midcourse burn number 4.",
+        "At 31:17 Ground Elapsed Time, this Apollo Control."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    }
+  ],
+  "source_file": "day2_part1_checking_the_sps.html"
+}

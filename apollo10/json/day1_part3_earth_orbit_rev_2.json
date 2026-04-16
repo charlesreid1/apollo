@@ -1,0 +1,1540 @@
+{
+  "description": "Apollo 10 Flight Journal - Day 1, part 3: Earth orbit, rev 2",
+  "transcript": [
+    {
+      "tokens": [
+        "Communications are picked up via the Guaymas tracking station on the west coast of Mexico."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston through Guaymas.",
+        "Standing by."
+      ],
+      "speaker": "Duke",
+      "time": "0012949"
+    },
+    {
+      "tokens": [
+        "Roger, Houston.",
+        "Reading you loud and clear."
+      ],
+      "speaker": "Stafford",
+      "time": "0012952"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You're five-by."
+      ],
+      "speaker": "Duke",
+      "time": "0012954"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We are ready to extend the docking probe [Panel 2 under switch guard] when you are."
+      ],
+      "speaker": "Stafford",
+      "time": "0013001"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0013006"
+    },
+    {
+      "tokens": [
+        "We've got to get a Go on that temperature measurement."
+      ],
+      "speaker": "Cernan",
+      "time": "0013007"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "We're ready for you to extend the docking probe.",
+        "And, you'll have to stand by on the temp until we get high bit rate."
+      ],
+      "speaker": "Duke",
+      "time": "0013022"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "0013029"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "We'll count down: 5, 4, 3, 2, 1."
+      ],
+      "speaker": "Stafford",
+      "time": "0013034"
+    },
+    {
+      "tokens": [
+        "Extend."
+      ],
+      "speaker": "Stafford",
+      "time": "0013042"
+    },
+    {
+      "tokens": [
+        "The tripod shaped CM docking probe has now been extended from its retracted launch configuration, in readiness for the transposition and docking with the LM, which will occur shortly after the TLI burn.",
+        "If this extension had failed, then no docking with the LM 'Snoopy' could have occurred and an alternative mission plan would have had to be adopted."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Duke",
+      "time": "0013043"
+    },
+    {
+      "tokens": [
+        "Barber pole, then gray."
+      ],
+      "speaker": "Stafford",
+      "time": "0013046"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0013048"
+    },
+    {
+      "tokens": [
+        "We could feel a klunk."
+      ],
+      "speaker": "Stafford",
+      "time": "0013050"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0013053"
+    },
+    {
+      "tokens": [
+        "We could hear it go out.",
+        "I believe it's all the way out."
+      ],
+      "speaker": "Young",
+      "time": "0013055"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You say you heard it go out?"
+      ],
+      "speaker": "Duke",
+      "time": "0013057"
+    },
+    {
+      "tokens": [
+        "Yes."
+      ],
+      "speaker": "Young",
+      "time": "0013100"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Key, we will have the P27 for you over Bermuda at about 1 plus 40.",
+        "And, we've got a TLI plus 90 PAD, if you are ready to copy, Gene."
+      ],
+      "speaker": "Duke",
+      "time": "0013103"
+    },
+    {
+      "tokens": [
+        "The purpose of P27 (Program 27) is to insert information into the AGC (Apollo Guidance Computer) memory via a digital uplink transmitted from the ground or via the DSKY keyboard by crew manual input.",
+        "If manual input is necessary the details would be read up to the crew, who would record this information as a P27 PAD."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Updating the computer's memory is performed by two methods.",
+        "The first, and the most common is to enter P00 (program 00, which puts the computer into an idle state) and place the Uplink Telemetry switch to Accept.",
+        "At the start of the update, the computer switches to Program 27 to perform the update.",
+        "The other, and less common method is to enter Program 27 directly via the DSKY, then enter the data manually using Verb 71.",
+        "Afterwards, the data is recalled onto the DSKY, one item at a time, to verify it."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "On this occasion it will be uplinked from the ground whilst the spacecraft is in communications over the Bermuda ground station."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Stafford",
+      "time": "0013111"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "TLI plus 90.",
+        "Go ahead, Charlie."
+      ],
+      "speaker": "Cernan",
+      "time": "0013113"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "TLI plus 90, SPS/G&N: 63556; minus 1.48; plus 1.35; 003:55:44.87; minus 0548.4, minus 4 balls 1, plus 6623.2; 180, 239, 001; apogee is NA; perigee is plus 0017.5; 6645.8; burn time 07:37; 6619.9; 24; 208.7; 16.7."
+      ],
+      "speaker": "Duke",
+      "time": "0013115"
+    },
+    {
+      "tokens": [
+        "Hello, Houston.",
+        "This is 10."
+      ],
+      "speaker": "Cernan",
+      "time": "0013222"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0013224"
+    },
+    {
+      "tokens": [
+        "Houston, we lost S-band for a second, there.",
+        "I got everything through HA, NA.",
+        "Go after that."
+      ],
+      "speaker": "Cernan",
+      "time": "0013226"
+    },
+    {
+      "tokens": [
+        "Okay, Gene.",
+        "HPis plus 0017.5; 6645.8; 07:37; Delta-VC6619.9; 24; 208.7; 16.7; boresight star is Shaula, and it's left 008, down 27; minus 26.05, minus 025.00; 1122.9, 33993, 012:55:35.",
+        "Okay, your set stars are Deneb and Vega at 067, 283, 337; no ullage.",
+        "Your P37 for TLI plus 4 is 00630, 6373; the longitude is minus 165; GET 400K is 00:22:21.",
+        "Ready for you readback."
+      ],
+      "speaker": "Duke",
+      "time": "0013232"
+    },
+    {
+      "tokens": [
+        "Okay, Charlie, here it comes.",
+        "SPS/G&N: 63556; minus 1.48; plus 1.35; 003:55:44.87; minus 0548.4, minus 4 balls 1, plus 6623.2.",
+        "You with me?"
+      ],
+      "speaker": "Cernan",
+      "time": "0013408"
+    },
+    {
+      "tokens": [
+        "Go ahead."
+      ],
+      "speaker": "Duke",
+      "time": "0013420"
+    },
+    {
+      "tokens": [
+        "180, 239, 001; Apogee is NA; perigee is plus 0017.5; 6645.8; 07:37; 6619.9; 24; 208.7; 16.7..."
+      ],
+      "speaker": "Cernan",
+      "time": "0013424"
+    },
+    {
+      "tokens": [
+        "...boresight star is Shaula..."
+      ],
+      "speaker": "Cernan",
+      "time": "0013442"
+    },
+    {
+      "tokens": [
+        "...left 008, down..."
+      ],
+      "speaker": "Cernan",
+      "time": "0013445"
+    },
+    {
+      "tokens": [
+        "...27; minus 26.05, minus 025.00; 1122.9; 33993, 0..."
+      ],
+      "speaker": "Cernan",
+      "time": "0013448"
+    },
+    {
+      "tokens": [
+        "...12:55:35.",
+        "Still there?"
+      ],
+      "speaker": "Cernan",
+      "time": "0013457"
+    },
+    {
+      "tokens": [
+        "Keep going."
+      ],
+      "speaker": "Duke",
+      "time": "0013501"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Deneb and Vega, 067, 283, 337; no ullage.",
+        "TLI plus 4, 00630; 6373; minus 165; 0 22 21.",
+        "And, you are..."
+      ],
+      "speaker": "Cernan",
+      "time": "0013503"
+    },
+    {
+      "tokens": [
+        "...just a little bit fast on those reads, Charlie.",
+        "I was barely able to keep up with you."
+      ],
+      "speaker": "Cernan",
+      "time": "0013518"
+    },
+    {
+      "tokens": [
+        "Gene has copied all the information onto a form that exactly matches the one which Duke was reading from.",
+        "This version is from the Apollo 11 Flight Plan."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Interpretation of the TLI plus 90 PAD is as follows:Purpose:In the event of a serious problem soon after a good Translunar Injection, this PAD gives the details of a burn which would return the spacecraft quickly to Earth.",
+        "It has an ignition time of 90 minutes after TLI.",
+        "In the event of such an emergency, the SPS (Service Propulsion System) engine would be used to slow the spacecraft to below Earth escape velocity, resulting in a high altitude ballistic arc that would take them directly to splashdown without any further orbits.System:The burn would be under the control of the Guidance and Navigation System (G&N).",
+        "Burns can also be controlled by the SCS (Stabilization Control System).CSM weight (Noun 47):Calculated to be 63,556 pounds.Pitch and yaw trim (Noun 48):-1.48° and +1.35°.",
+        "The SPS engine bell is gimbal mounted to allow its thrust vector to be aligned with the spacecraft's computed centre of mass.",
+        "Two thumb wheels on the left of the Main Display Console allow adjustment of these pitch and yaw trim angles.Time of ignition, TIG(Noun 33):3 hours, 55 minutes and 44.87 seconds, Ground Elapsed Time.Change in velocity (Noun 81), fps:X, -548.4; Y, +0.1; Z, +6,623.2.",
+        "This is the change in velocity as defined along three orthogonal axes with respect to the local vertical frame of reference.The three velocity components in a PAD are always expressed with respect to the local vertical frame of reference.",
+        "Imagine a coordinate system based on a line from the spacecraft to the centre of the Earth or Moon.",
+        "(Which you use depends on the sphere of influence you are in, i.e.",
+        "which gravitational field is stronger.) This line is the Z-axis and is vertical at the point where it intersects the surface.",
+        "The X-axis is perpendicular to this in whatever direction the spacecraft's orbit is taking it.",
+        "It is therefore parallel to the local horizontal.",
+        "The Y-axis is perpendicular to the orbital plane."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "In the above burn, we can see that the largest component of velocity change is in the plus-Z direction which is towards the Earth, countering the spacecraft's velocity away from the planet.Spacecraft attitude at TIG:Roll, 180°; Pitch, 239°; Yaw, 1°.",
+        "Although the velocity change is expressed with respect to the local vertical, spacecraft attitude is expressed with respect to the current alignment of the guidance platform.",
+        "That alignment is currently set to the launch pad REFSMMAT.HAand HP(Noun 44):These are the heights of the resulting orbit's apogee and perigee, respectively.",
+        "Since the computer cannot display an altitude higher than 9999.9 nautical miles, and the maximum height of the CSM during a TLI+90 abort will be much higher than that, HAis not applicable.",
+        "The perigee of the \"orbit\" is targeted at 17.5 nautical miles.",
+        "A perigee this low will ensure the spacecraft encounters the Earth's atmosphere and cause the spacecraft to re-enter.Delta-VT:6,645.8 fps.",
+        "This is the total velocity change that would be experienced by the spacecraft.",
+        "It is a vector sum of the three components given earlier.Burn duration or burn time:7 minutes, 37 seconds.Delta-VC:6,619.9 fps.",
+        "This figure would be entered into the EMS (Entry Monitor System) Delta-V display.SPS engine burns are normally controlled by the G&N system.",
+        "If it is a long burn, that is, greater then six seconds, the control is 'closed loop'.",
+        "The system monitors the achieved Delta-V and shuts down the engine at the appropriate time.",
+        "In doing this, it takes account of the engine tail-off impulse.",
+        "It knows how much thrust is expected from this tail-off and can calculate the resulting tail-off Delta-V based on this and the spacecraft mass."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "If the G&N system were to fail during a burn, the EMS would provide a backup means of shutting down the engine at the right time.",
+        "This equipment carries a separate accelerometer which measures Delta-V along the longitudinal axis of the spacecraft.",
+        "Prior to the burn, the crew enter the expected Delta-V into a display on the EMS.",
+        "As the burn progresses, the figure showing the remaining Delta-V drops towards zero, at which time the EMS itself shuts down the SPS if the G&N system has not already done so.",
+        "However, the EMS has no knowledge of the tail-off thrust.",
+        "The flight controllers take this into account and give the crew a low Delta-V figure for entering into the EMS so that if it is called upon to shut down the engine, it will do so early enough for the tail-off thrust to affect the correct total Delta-V.Sextant star:Star number 24,Gienah, should be visible through the sextant when its shaft and trunnion are set to the values 208.7° and 16.7° respectively.The next five parameters all relate to re-entry, during which an important milestone is \"Entry Interface,\" defined as being 400,000 feet (121.92 km) altitude.",
+        "In this context, a more important milestone is when atmospheric drag on the spacecraft imparts a deceleration of 0.05 g.Expected splashdown point (Noun 61):26.05° south, 25.00° west; in the mid-Atlantic.Range to go at the 0.05 g event:1,122.9 nautical miles.",
+        "To set up their EMS (Entry Monitor System) before re-entry, the crew need to know the expected distance the CM would travel from the 0.05 g event to landing.",
+        "This figure will be decremented by the EMS based on signals from its own accelerometer.Expected velocity at the 0.05 g event:33,993 fps.",
+        "This is another entry for the EMS.",
+        "It is entered into the unit's Delta-V counter and will be decremented based on signals from its own accelerometer.Predicted GET of 0.05 g event:Expected at 12 hours, 55 minutes and 35 seconds GET.GDC Align stars:Stars 43, Deneb (in Cygnus) and 36, Vega (in Lyra) are to be used to align the gyro assemblies if it is not possible to use the guidance platform for this purpose.GDC Align angles:X, 067°; Y, 283°; Z, 337°.The spacecraft has two independent systems for determining attitude and change in attitude.",
+        "The primary system is the IMU and its freely stable platform.",
+        "A secondary system, usually tied to the SCS, comprises a set of gyros (BMAG, Body-mounted attitude gyro) attached to the spacecraft structure.",
+        "Unlike the IMU, which measures absolute attitude, these gyro assemblies measure the rate of attitude change.",
+        "If need be, absolute attitude can be derived from these but this measurement is imprecise so at regular times, the crew presses the GDC Align button to make the GDCs (Gyro Display Couplers) knowledge of attitude match that from the IMU.",
+        "In case the IMU is not working, the crew have a backup method of aligning the GDCs by sighting two stars through the scanning telescope in a particular way.",
+        "They know what the spacecraft's attitude should be when this is achieved and can dial this into the GDCs, properly aligning them."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "The final note in the PAD, is No Ullage.",
+        "Since the SPS propellant tanks are full, there is no need to perform a small RCS burn, known as the ullage burn, to settle their contents."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Additionally, Charlie Duke has given details of a P37 PAD for TLI plus 4 hours.",
+        "The purpose of P37 (program 37) is to compute a return-to-Earth trajectory with the condition that the CSM is outside the lunar sphere of influence at the time of ignition.",
+        "The program takes the four values from the PAD; the specified time for ignition of the engine, a specified maximum change in velocity (or Delta-V), the longitude of the splashdown and the GET for the start of re-entry.",
+        "These act as a set of constraints with which it calculates the desired trajectory and the details of the burn to achieve it."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Details of the P37 PAD are:GETIGround Elapsed Time of ignition:6 hours, 30 minutes.Delta-VT:6,373 fps.",
+        "This is the specified maximum total velocity change that would be experienced by the spacecraft.Longitude:165° West.This is the longitude of the Earth landing point for entry guidance.GET 400k:22 hours, 21 minutes.",
+        "Ground Elapsed Time of Entry Interface.]Further P37 PADs will be read to the crew later to cover much of the outgoing coast."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger, Gene.",
+        "Sorry about that.",
+        "That was a good readback, and we got the TLI PAD if you are ready to copy."
+      ],
+      "speaker": "Duke",
+      "time": "0013521"
+    },
+    {
+      "tokens": [
+        "Stand by one."
+      ],
+      "speaker": "Cernan",
+      "time": "0013528"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'm ready."
+      ],
+      "speaker": "Cernan",
+      "time": "0013532"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Time base 6p, 2:24:25; 179, 116, 3 balls; burn time, 05:43; 10437.6; 35603; 358, 151, 040; TLI plus 10 minutes, abort pitch angle is 267.",
+        "Standing by for your readback."
+      ],
+      "speaker": "Duke",
+      "time": "0013536"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "TLI is 2:24:25; 179, 116, 000; Burn time is 05:43; 10437.6; 35603; roll is 358, 151, 040; and our TLI plus 10 minutes, pitch is 267 degrees."
+      ],
+      "speaker": "Cernan",
+      "time": "0013627"
+    },
+    {
+      "tokens": [
+        "The TLI Pad details are as follows:TB-6 predict light:This comes on at 002:24:23, and TIG(time of ignition (TLI), 578.6 sec after commencement of TB-6) will therefore be at 002:34:01.6.Attitude for TLI:179°, 116°, 000° in roll, pitch and yaw respectively.",
+        "This attitude is stated with respect to the orientation that the guidance platform has held since launch.Duration of burn:5 minutes, 43 seconds.Delta-VC:10,437.6 fps will be entered into the EMS to allow the crew to monitor the remaining velocity to be added.VI:Indicated velocity at engine cut-off is 35,603 fps.Separation attitude:The correct attitude for separation of the CSM from the launch vehicle is 358°, 151°, 40° in roll, pitch and yaw respectively with respect to the local vertical/local horizontal.",
+        "Among the criteria for adopting this attitude is solar illumination of the LM to assist the docking procedure and ensure the crew are not looking directly at the Sun.An additional comment is that the TLI plus 10-minute abort would require a pitch angle of 267°."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "The burn looks real - going to look real nominal.",
+        "The SEP angles - everything is real nominal and your backup S-IVB cue cards are okay.",
+        "Pitch and yaw and everything looks good."
+      ],
+      "speaker": "Duke",
+      "time": "0013651"
+    },
+    {
+      "tokens": [
+        "That's great, Charlie.",
+        "We ought to be coming over the top here pretty soon."
+      ],
+      "speaker": "Young",
+      "time": "0013705"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You ought to be right over."
+      ],
+      "speaker": "Duke",
+      "time": "0013709"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "On the TLI, we've got a string of nines on the probability for a guided cut-off."
+      ],
+      "speaker": "Duke",
+      "time": "0013721"
+    },
+    {
+      "tokens": [
+        "Can't beat that."
+      ],
+      "speaker": "Stafford",
+      "time": "0013726"
+    },
+    {
+      "tokens": [
+        "Sure can't."
+      ],
+      "speaker": "Duke",
+      "time": "0013728"
+    },
+    {
+      "tokens": [
+        "You're doing good work so far, Charlie."
+      ],
+      "speaker": "Cernan",
+      "time": "0013732"
+    },
+    {
+      "tokens": [
+        "So are you guys.",
+        "Man you guys sounded ecstatic on that boost."
+      ],
+      "speaker": "Duke",
+      "time": "0013734"
+    },
+    {
+      "tokens": [
+        "Babe, you ain't seen nothing until you've seen that S-IC stage."
+      ],
+      "speaker": "Cernan",
+      "time": "0013738"
+    },
+    {
+      "tokens": [
+        "[Laughter.] Would you care to elaborate?"
+      ],
+      "speaker": "Duke",
+      "time": "0013742"
+    },
+    {
+      "tokens": [
+        "I will later."
+      ],
+      "speaker": "Cernan",
+      "time": "0013745"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0013749"
+    },
+    {
+      "tokens": [
+        "It's real smooth between the start and the end of its burn."
+      ],
+      "speaker": "Cernan",
+      "time": "0013755"
+    },
+    {
+      "tokens": [
+        "Yes.",
+        "[Laughter.]"
+      ],
+      "speaker": "Duke",
+      "time": "0013759"
+    },
+    {
+      "tokens": [
+        "There's no doubt the whole structure unloaded on us when we staged."
+      ],
+      "speaker": "Stafford",
+      "time": "0013802"
+    },
+    {
+      "tokens": [
+        "Yes, you kind of felt like you were pulling yourself off from the 8-ball, there."
+      ],
+      "speaker": "Duke",
+      "time": "0013805"
+    },
+    {
+      "tokens": [
+        "No, more like a structural pogo.",
+        "We'll tell about it later."
+      ],
+      "speaker": "Stafford",
+      "time": "0013810"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "Chris says \"Don't forget now, it's 8 days\"."
+      ],
+      "speaker": "Duke",
+      "time": "0013813"
+    },
+    {
+      "tokens": [
+        "[Laughter.] Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0013817"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 1 hour, 40 minutes.",
+        "Apollo 10 has just passed over the east coast of the United States.",
+        "During - we are still in contact at Grand Bahama.",
+        "The crew has extended the docking probe.",
+        "John Young reported he could hear it go out and Charlie Duke has passed up the TLI information and also some PADs for several abort times right after TLI.",
+        "We have the tape of this pass over the United States, starting at Guaymas.",
+        "We will play that for you now."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Communications now go through the USNS Vanguard tracking ship."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello.",
+        "10, Houston.",
+        "We got our load [P27] at Bermuda, We're ready to go, if you'll give us Accept."
+      ],
+      "speaker": "Duke",
+      "time": "0014035"
+    },
+    {
+      "tokens": [
+        "In Accept, and we're in P00.",
+        "Go."
+      ],
+      "speaker": "Stafford",
+      "time": "0014040"
+    },
+    {
+      "tokens": [
+        "The CMC (Command Module Computer) is being prepared to receive the P27 update.",
+        "The CMC must be in an idle status (running P00, essentially a \"do-nothing\" program) with switches set to accept ground updates.",
+        "P00 is commonly pronounced \"pooh\" by all the Apollo crews."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0014042"
+    },
+    {
+      "tokens": [
+        "Hello.",
+        "Apollo 10, Houston.",
+        "We got the load in okay.",
+        "You can go back to Block.",
+        "The computer is yours."
+      ],
+      "speaker": "Duke",
+      "time": "0014247"
+    },
+    {
+      "tokens": [
+        "Now that the P27 upload to the CMC has been completed, the switch which was set to Accept is now returned to its default setting of Block, which will stop any unplanned uplink getting in to the computer's memory."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We've get Block."
+      ],
+      "speaker": "Stafford",
+      "time": "0014253"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0014253"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 10.",
+        "What does your latest orbit show?"
+      ],
+      "speaker": "Stafford",
+      "time": "0014318"
+    },
+    {
+      "tokens": [
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0014322"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "We're showing you in a 107 by 104 [nautical miles]."
+      ],
+      "speaker": "Duke",
+      "time": "0014331"
+    },
+    {
+      "tokens": [
+        "Stafford is requesting the latest update on the orbital parameters that are constantly measured via radar and doppler tracking as the space vehicle passes over the ground stations, especially during the 'stateside' pass."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Thank you."
+      ],
+      "speaker": "Stafford",
+      "time": "0014335"
+    },
+    {
+      "tokens": [
+        "Hello.",
+        "Apollo 10, Houston.",
+        "We think that your Primary Evap is definitely dried out, so we're going to leave it as is, and if we have to, we'll, reservice after TLI."
+      ],
+      "speaker": "Duke",
+      "time": "0014519"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "After I closed the valve, it started off to low peg and now has drifted off to a reading of about, 0.24."
+      ],
+      "speaker": "Cernan",
+      "time": "0014533"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0014542"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "The spacecraft temp has started to cool down.",
+        "We feel real good in here."
+      ],
+      "speaker": "Stafford",
+      "time": "0014545"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Good, Tom."
+      ],
+      "speaker": "Duke",
+      "time": "0014547"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "We'll have you through the Canaries until 1 plus 55, except for about a 30-second break at about 1 plus 43, when we go from Vanguard to the Canaries..."
+      ],
+      "speaker": "Duke",
+      "time": "0014553"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "0014606"
+    },
+    {
+      "tokens": [
+        "...a short break at about 1 plus 49, excuse me."
+      ],
+      "speaker": "Duke",
+      "time": "0014608"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "0014611"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "How's the view from up there?",
+        "Your windows all look good?"
+      ],
+      "speaker": "Duke",
+      "time": "0014635"
+    },
+    {
+      "tokens": [
+        "Windows are all clear.",
+        "Gene has a white streak across his external - Just a white streak on the right window."
+      ],
+      "speaker": "Stafford",
+      "time": "0014639"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We copy.",
+        "How wide is it?",
+        "Is it significant at all, Tom?"
+      ],
+      "speaker": "Duke",
+      "time": "0014647"
+    },
+    {
+      "tokens": [
+        "No, Charlie.",
+        "It looks like someone took a little thin paint brush and just stabbed it across from top to bottom on the right-hand window."
+      ],
+      "speaker": "Cernan",
+      "time": "0014654"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0014703"
+    },
+    {
+      "tokens": [
+        "And, 10, Houston.",
+        "With the high bit rate, that probe temp is hanging right in there at 85."
+      ],
+      "speaker": "Duke",
+      "time": "0014717"
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Stafford",
+      "time": "0014723"
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston through the Canaries.",
+        "Standing by.",
+        "We are Go for the Pyro Arm at any time."
+      ],
+      "speaker": "Duke",
+      "time": "0015137"
+    },
+    {
+      "tokens": [
+        "The pyrotechnic devices which will separate the CSM from the launch vehicle have been armed in case of a serious problem with the S-IVB during the preparation and execution of TLI."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay, Charlie.",
+        "I'll get it right now."
+      ],
+      "speaker": "Stafford",
+      "time": "0015144"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0015146"
+    },
+    {
+      "tokens": [
+        "SECS [Sequential Events Control System] Logic to Batt A and B on the Breakers; Logic 1 and Logic 2 are coming Off [all on panel 8]."
+      ],
+      "speaker": "Stafford",
+      "time": "0015148"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Stand by."
+      ],
+      "speaker": "Duke",
+      "time": "0015154"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "Would you verify that the SECS Arm Breakers are Closed?"
+      ],
+      "speaker": "Duke",
+      "time": "0015214"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "SECS Arms coming Closed now; A, B [panel 8]."
+      ],
+      "speaker": "Stafford",
+      "time": "0015219"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0015225"
+    },
+    {
+      "tokens": [
+        "And, 10, Houston.",
+        "Your Pyro system looks good.",
+        "We're Go."
+      ],
+      "speaker": "Duke",
+      "time": "0015233"
+    },
+    {
+      "tokens": [
+        "Okay.",
+        "I'll arm it just before TLI."
+      ],
+      "speaker": "Stafford",
+      "time": "0015238"
+    },
+    {
+      "tokens": [
+        "Roger, Tom.",
+        "And we'd like you go Up Telemetry Command Reset at Canaries LOS."
+      ],
+      "speaker": "Duke",
+      "time": "0015241"
+    },
+    {
+      "tokens": [
+        "Say again?"
+      ],
+      "speaker": "Stafford",
+      "time": "0015248"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "At Canaries LOS you can go Up Telemetry Command to Reset [panel 3]."
+      ],
+      "speaker": "Duke",
+      "time": "0015250"
+    },
+    {
+      "tokens": [
+        "The function of the UDL (Up Data Link) equipment is to receive, verify, and distribute digital updating information sent to the SC by the MSFN at various times throughout the mission to update.",
+        "The Up Telemetry Command switch being moved to Resetperforms a real-time command (RTC) reset function and keeps power applied to the power supply.",
+        "This resets all RTC relays except those relays affecting the system A abort light and the crew alarm."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Thank you."
+      ],
+      "speaker": "Stafford",
+      "time": "0015255"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 10.",
+        "We're donning our helmets and gloves now."
+      ],
+      "speaker": "Stafford",
+      "time": "0015332"
+    },
+    {
+      "tokens": [
+        "During the Technical Debrief in June 1969, the crew commented on the doffing of the helmets and gloves prior to TLI."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Young, from the1969 Technical debrief:\"We had agreed that we wouldn't wear helmet and gloves for TLI and then chickened out, there, at the last moment and put them on.",
+        "It was more psychological than physiological, because you know if anything had happened, there wouldn't have been anything you could do.\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Stafford, from the1969 Technical debrief:\"It was so easy, we were ahead of the timeline, and we had nothing else to do.",
+        "We said, 'Shall we put them on?'\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Cernan, from the1969 Technical debrief:\" But it was a case of being ahead of it, sitting there and saying, 'Well, why not?'\""
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0015335"
+    },
+    {
+      "tokens": [
+        "10, Houston.",
+        "Everybody in the room is happy as can be.",
+        "You're looking great.",
+        "We'll have LOS at Canaries at 1 plus 56.",
+        "We'll see you over Tananarive at 2 plus 09."
+      ],
+      "speaker": "Duke",
+      "time": "0015406"
+    },
+    {
+      "tokens": [
+        "All right; Tan.",
+        "Roger."
+      ],
+      "speaker": "Stafford",
+      "time": "0015419"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control.",
+        "The Canary Island station has Loss Of Signal.",
+        "We're 37 minutes, 22 seconds away from the Translunar Injection burn of the third stage of the Saturn V, the S-IVB stage.",
+        "TLI planned for 2 hours, 33 minutes, 25 seconds.",
+        "At that clue the engine will burn for a duration of 5 minutes, 43 seconds to place Apollo 10 on the way to the Moon, Delta-V added to the present velocity of 10,138 feet per second.",
+        "The present orbital parameters 107 by 104 nautical miles.",
+        "The ground controllers do feel that the primary evaporator has dried out.",
+        "However, we will not reservice the evaporator until after the Translunar Injection burn.",
+        "The crew reports that the cabin is comfortable.",
+        "We've got a window report.",
+        "Tom Stafford reporting the windows clear; one thin white streak on Gene Cernan's window which is no problem.",
+        "The next station to acquire will be Carnarvon.",
+        "At 2 hours, 25 minutes; this is Mission Control, Houston."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 2 hours, 9 minutes into the mission.",
+        "Tananarive has acquired Apollo 10.",
+        "We'll stand by."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello.",
+        "Apollo 10, Houston through Tananarive.",
+        "Standing by.",
+        "We've got nothing for you."
+      ],
+      "speaker": "Duke",
+      "time": "0020952"
+    },
+    {
+      "tokens": [
+        "Okay, Houston.",
+        "We have our Pyros [panel 8] armed, and we're all set for TLI."
+      ],
+      "speaker": "Stafford",
+      "time": "0020959"
+    },
+    {
+      "tokens": [
+        "Pyro devices are armed just prior to TLI to enable a rapid separation of the CSM from the S-IVB, should the booster stage malfunction."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We'll try to come up through ARIA at about 2 plus 14, Tom.",
+        "They say the circuit margins look good from ARIA 3.",
+        "The other aircraft - It's sort of marginal, but we'll probably try."
+      ],
+      "speaker": "Duke",
+      "time": "0021003"
+    },
+    {
+      "tokens": [
+        "The ARIA are the Apollo Range Instrumented Aircraft (adapted Boeing KC-135), that were positioned under the space vehicle's groundtrack where there was no ground station coverage.",
+        "They relayed telemetry, data and voice communications to and from the space vehicle, via the Guam ground station into the MSFN."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "ARIA at 2 plus 14."
+      ],
+      "speaker": "Stafford",
+      "time": "0021018"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0021020"
+    },
+    {
+      "tokens": [
+        "ARIA stands for Apollo Range Instrumented Aircraft.",
+        "There are 2 of these flying tracking stations between Tananarive and Carnarvon so that we will have the capability of continuous communication from now through TLI."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "We are 22 minutes away from Translunar Injection."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello.",
+        "10, Houston.",
+        "Coming up on LOS at Tananarive.",
+        "We'll give you a call through ARIA 3 in a minute or so."
+      ],
+      "speaker": "Duke",
+      "time": "0021613"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're all squared away for the burn, Houston."
+      ],
+      "speaker": "Stafford",
+      "time": "0021620"
+    },
+    {
+      "tokens": [
+        "Roger, Tom."
+      ],
+      "speaker": "Duke",
+      "time": "0021622"
+    },
+    {
+      "tokens": [
+        "Communications are now picked up through an ARIA aircraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Apollo 10, Houston through Aria 3.",
+        "How do you read?"
+      ],
+      "speaker": "Duke",
+      "time": "0021740"
+    },
+    {
+      "tokens": [
+        "[Garble]."
+      ],
+      "speaker": "Stafford",
+      "time": "0021747"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "You're there, 10, but unreadable."
+      ],
+      "speaker": "Duke",
+      "time": "0021755"
+    },
+    {
+      "tokens": [
+        "[Garble]."
+      ],
+      "speaker": "Stafford",
+      "time": "0021757"
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 2 hours, 20 minutes.",
+        "Even though the voice communications through ARIA 3 are unsatisfactory, indications are that ARIA is getting good telemetry from the spacecraft.",
+        "We're 12 minutes, 50 seconds away from Translunar Injection.",
+        "We'll continue to stay up live in case we are able to communicate through either of the two ARIAs between Tananarive and Carnarvon."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "This is Apollo Control at 2 hours, 22 minutes.",
+        "The total velocity that Apollo 10 will be shooting for in this third stage burn for Translunar Injection is 35,594.8 feet per second.",
+        "The GET time of ignition: 2 hours, 33 minutes, 25 seconds.",
+        "GET time of engine cutoff: 2 hours, 39 minutes, 9 seconds."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "An unsuccessful attempt is made to establish voice communications through another ARIA aircraft."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10.",
+        "Houston through ARIA 5.",
+        "Do you read?"
+      ],
+      "speaker": "Duke",
+      "time": "0022353"
+    },
+    {
+      "tokens": [
+        "The next ground station for communications is Carnarvon in Western Australia."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Hello, Apollo 10 Houston through Carnarvon Over."
+      ],
+      "speaker": "Duke",
+      "time": "0022615"
+    },
+    {
+      "tokens": [
+        "Roger, through Carnarvon.",
+        "The time base 6 started right on time, Charlie."
+      ],
+      "speaker": "Stafford",
+      "time": "0022619"
+    },
+    {
+      "tokens": [
+        "Time Base 6 provides the relative timing sequence for the restart of the J-2 engine on the S-IVB.",
+        "42 seconds into TB-6, the sequence begins by igniting a burner which will heat GH2in the Start Tank, to spin up the propellant feed line turbines."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "To help them coordinate their activities leading up to TLI and after, the crew preset a timer to 51:00.",
+        "When they start it, it will count up for nine minutes to 00:00, it should coincide with the starting of the S-IVB engine.",
+        "The crew start the timer 30 seconds after TB-6 commences, as indicated by a light going out."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Good.",
+        "Your S-IVB is looking great, Tom.",
+        "It's pressurizing okay."
+      ],
+      "speaker": "Duke",
+      "time": "0022623"
+    },
+    {
+      "tokens": [
+        "And I can see the pressure building up, and I'm at 5305 - 4, 5..."
+      ],
+      "speaker": "Stafford",
+      "time": "0022627"
+    },
+    {
+      "tokens": [
+        "Mark."
+      ],
+      "speaker": "Stafford",
+      "time": "0022633"
+    },
+    {
+      "tokens": [
+        "53:05, counting up."
+      ],
+      "speaker": "Stafford",
+      "time": "0022634"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "We're about 3 seconds ahead of you."
+      ],
+      "speaker": "Duke",
+      "time": "0022636"
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Stafford",
+      "time": "0022638"
+    },
+    {
+      "tokens": [
+        "Houston, Apollo 10.",
+        "Fuel tank pressure is up to 30."
+      ],
+      "speaker": "Stafford",
+      "time": "0022745"
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Duke",
+      "time": "0022748"
+    },
+    {
+      "tokens": [
+        "Those tank pressures are in reference to the S-IVB.",
+        "Time base 6 is a program in the instrument unit of the S-IVB which programs it for the translunar injection."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Telemetry shows Apollo l0's present velocity 25,570 feet per second."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Present altitude 105 nautical miles.",
+        "Three minutes to Translunar Injection and Flight Director Glynn Lunney..."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Fifty-seven minutes, counting up."
+      ],
+      "speaker": "Stafford",
+      "time": "0023030"
+    },
+    {
+      "tokens": [
+        "Roger, 10.",
+        "You're Go for TLI.",
+        "S-IVB is looking as planned."
+      ],
+      "speaker": "Duke",
+      "time": "0023032"
+    },
+    {
+      "tokens": [
+        "Good show.",
+        "We've got the old 8-ball working on number 2, and powered up P47."
+      ],
+      "speaker": "Stafford",
+      "time": "0023035"
+    },
+    {
+      "tokens": [
+        "Program 47 (P47) is used to monitor the vehicle acceleration during a non GNCS-controlled thrusting manoeuvre and to display the Delta V applied to the vehicle by this thrusting manoeuvre.",
+        "TLI is primarily controlled by the IU."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Okay."
+      ],
+      "speaker": "Duke",
+      "time": "0023043"
+    },
+    {
+      "tokens": [
+        "Go."
+      ],
+      "speaker": "Stafford",
+      "time": "0023111"
+    },
+    {
+      "tokens": [
+        "13040 turns."
+      ],
+      "speaker": "Young",
+      "time": "0023117"
+    },
+    {
+      "tokens": [
+        "TVC [Thrust Vector Control] Servo Power On [panel 8]."
+      ],
+      "speaker": "Stafford",
+      "time": "0023132"
+    },
+    {
+      "tokens": [
+        "S-II SEP light On."
+      ],
+      "speaker": "Stafford",
+      "time": "0023211"
+    },
+    {
+      "tokens": [
+        "The \"S-II Sep\" light comes on again with 1 minute, 24 seconds to go to ignition.",
+        "Soon after, the two APS (Auxiliary Propulsion System) modules at the base of the S-IVB fire to settle the contents of the tanks.",
+        "This ullage burn also provides an initial head of pressure of the propellants towards the engine's turbopumps."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0023213"
+    },
+    {
+      "tokens": [
+        "...",
+        "go."
+      ],
+      "speaker": "Stafford",
+      "time": "0023217"
+    },
+    {
+      "tokens": [
+        "Very well."
+      ],
+      "speaker": "Duke",
+      "time": "0023221"
+    },
+    {
+      "tokens": [
+        "Max turn rate; you want 10 degrees?"
+      ],
+      "speaker": "Cernan",
+      "time": "0023244"
+    },
+    {
+      "tokens": [
+        "Exceed 10 degrees, Very well."
+      ],
+      "speaker": "Cernan",
+      "time": "0023247"
+    },
+    {
+      "tokens": [
+        "Booster engineer says the Saturn is Go."
+      ],
+      "speaker": "PAO",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "[S-II] SEP light Out.",
+        "Right on time."
+      ],
+      "speaker": "Stafford",
+      "time": "0023310"
+    },
+    {
+      "tokens": [
+        "The \"S-II Sep\" light goes out 18 seconds prior to ignition, to signal the final phase of starting the J-2.",
+        "On starting this sequence, the supercold fuel (H2) will flow through the combustion chamber walls for 8 seconds to condition them prior to discharge of the Start Tank's GH2through the turbines to spin them up."
+      ],
+      "speaker": "Commentary",
+      "time": ""
+    },
+    {
+      "tokens": [
+        "Roger.",
+        "Copy."
+      ],
+      "speaker": "Duke",
+      "time": "0023312"
+    },
+    {
+      "tokens": [
+        "Fuel lead in the starboard.",
+        "Getting acceleration."
+      ],
+      "speaker": "Stafford",
+      "time": "0023321"
+    },
+    {
+      "tokens": [
+        "Roger."
+      ],
+      "speaker": "Duke",
+      "time": "0023323"
+    }
+  ],
+  "source_file": "day1_part3_earth_orbit_rev_2.html"
+}
